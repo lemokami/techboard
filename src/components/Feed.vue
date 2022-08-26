@@ -7,7 +7,7 @@ export default {
         };
     },
     mounted() {
-        fetch("/currentNews.json")
+        fetch("/news.json")
         .then(res =>res.json())
         .then(data => {
             this.articles = data.articles;
