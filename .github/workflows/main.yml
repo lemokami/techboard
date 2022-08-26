@@ -1,0 +1,17 @@
+name: News Updater
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetching News and saving locally
+        uses: gautemo/fetch-api-data-action@1.1.0
+        with:
+          url: 'https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=${{secrets.API_KEY}}'
+          file: 'public/news.json'
