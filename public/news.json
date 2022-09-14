@@ -1,97 +1,253 @@
 {
   "status": "ok",
-  "totalResults": 749,
+  "totalResults": 693,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Jay Peters",
-      "title": "PlayStation is hosting a State of Play ahead of Tokyo Game Show - The Verge",
-      "description": "PlayStation’s next State of Play showcase will take place on Tuesday, September 13th, at 6PM ET — which just so happens to be the same day as Nintendo’s next big Direct showcase. Sony’s show will be about 20 minutes long and cover games coming to PS5, PS4, an…",
-      "url": "https://www.theverge.com/2022/9/12/23349952/sony-playstation-state-of-play-event-showcase-same-day-nintendo-direct",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LMouIs94a_3di90t-e-tzCtN__s=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg",
-      "publishedAt": "2022-09-12T22:23:26Z",
-      "content": "Look forward to 20 minutes of games\r\nThe next State of Play is happening soon.\r\nPhoto by Vjeran Pavic / The Verge\r\nSony just announced that it will be hosting a PlayStation State of Play video presen… [+754 chars]"
+      "author": "Tom Marks",
+      "title": "Tekken 8 Officially Revealed - IGN",
+      "description": "A flashy trailer gave us our first look at the new fighter.",
+      "url": "https://www.ign.com/articles/tekken-8-officially-revealed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/13/tekken8-blogroll2-1663106701499.jpg?width=1280",
+      "publishedAt": "2022-09-13T22:36:58Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Enrique",
-      "title": "Google Pixel 6a begins receiving September update - GSMArena.com",
-      "description": "Last week, all supported Pixels began receiving the September update except for the newest Pixel 6a.",
-      "url": "https://www.gsmarena.com/google_pixel_6a_begins_receiving_september_update-news-55757.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/android-13-september-rolls-out-pixel-6a/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2022-09-12T22:20:31Z",
-      "content": "Last week, the first Android 13 security update began rolling out for supported Pixel devices, all except for the Google Pixel 6a. Google initially noted that the Pixel 6as update would be a bit dela… [+706 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Adam Bankhurst",
-      "title": "PlayStation State of Play Announced for Tomorrow, September 13 - IGN - IGN",
-      "description": "Sony has announced that a brand new State of Play will arrive tomorrow, September 13, and it will feature about 20 minutes of \"reveals, new updates, and fresh gameplay footage for 10 games coming to PS5, PS4, and PS VR2.\"",
-      "url": "https://www.ign.com/articles/playstation-state-of-play-announced-for-tomorrow-september-13",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/12/ps5-1-blogroll-1661413103564-1663020340574.jpeg?width=1280",
-      "publishedAt": "2022-09-12T22:18:45Z",
-      "content": "Sony has announced that a brand new State of Play will arrive tomorrow, September 13, and it will feature about 20 minutes of \"reveals, new updates, and fresh gameplay footage for 10 games coming to … [+1694 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "EA Originals Partners with Dynasty Warriors Studio for a New Monster Hunter-like - IGN - IGN",
-      "description": "EA has announced that its EA Originals label has entered a partnership with Koei Tecmo and Dynasty Warriors studio Omega Force for a new hunting game - that's like Monster Hunter hunting, not Big Buck Hunter hunting.",
-      "url": "https://www.ign.com/articles/ea-originals-partners-with-dynasty-warriors-studio-for-a-new-monster-hunter-like",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/12/koetecmoeaoriginalsblogroll-1663002498843.jpg?width=1280",
-      "publishedAt": "2022-09-12T22:17:56Z",
-      "content": "EA has announced that its EA Originals label has entered a partnership with Koei Tecmo and Dynasty Warriors studio Omega Force for a new hunting game - that's like Monster Hunter hunting, not Big Buc… [+2388 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Pagani Utopia bucks hybrid trend | news.com.au — Australia's leading news site - news.com.au",
-      "description": "<p>The automotive world is going green.</p>",
-      "url": "https://www.news.com.au/technology/motoring/motoring-news/pagani-utopia-bucks-hybrid-trend/news-story/0da9a9d6a8e053bc29813697325895fc",
-      "urlToImage": "https://content.api.news/v3/images/bin/7f9c7c7eb0d74184164b53af9a0f9c16",
-      "publishedAt": "2022-09-12T22:11:35Z",
-      "content": "The automotive world is going green.\r\nManufacturers such as Ferrari, Maserati, McLaren and Porsche are throwing their weight behind hybrid and electric machines that meet emissions targets – and the … [+1453 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "25+ iOS 16-ready apps featuring Lock Screen widgets you can try today - TechCrunch",
-      "description": "One of the major changes with today’s launch of iOS 16 is the ability for users’ to now personalize their Lock Screen with widgets, in addition to adding widgets to the Home Screen, which had rolled out in iOS 14. However, outside of built-in widgets for Appl…",
-      "url": "https://techcrunch.com/2022/09/12/25-ios-16-ready-apps-featuring-lock-screen-widgets-you-can-try-today/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/apple-wwdc-2022-2022-06-06-at-1.09.16-PM.jpg?w=1200",
-      "publishedAt": "2022-09-12T22:07:30Z",
-      "content": "One of the major changes with today’s launch of iOS 16 is the ability for users’ to now personalize their Lock Screen with widgets, in addition to adding widgets to the Home Screen, which had rolled … [+12842 chars]"
+      "title": "Pacific Drive Reveal Trailer | State of Play September 2022 - GameSpot",
+      "description": "Check out the announcement trailer for Pacific Drive, a first-person driving survival game from Ironwood Studios. Your car is your companion as you take to t...",
+      "url": "https://www.youtube.com/watch?v=hYZrLW2FJA0",
+      "urlToImage": "https://i.ytimg.com/vi/hYZrLW2FJA0/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:35:21Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "YouTube"
       },
-      "author": "Jason Fanelli",
-      "title": "Nintendo Direct September 2022: How To Watch, Start Times, And What To Expect - GameSpot",
-      "description": "The next Nintendo Direct has been confirmed for this week after multiple rumors.",
-      "url": "https://www.gamespot.com/articles/nintendo-direct-september-2022-livestream-start-times/1100-6507381/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4034066-direct.jfif.jpg",
-      "publishedAt": "2022-09-12T22:03:34Z",
-      "content": "After weeks of rumors and speculation, the next Nintendo Direct presentation has been confirmed for September 13 at 7 AM PT / 10 AM ET.\r\nThe September 13 Nintendo Direct will include \"roughly 40 minu… [+1508 chars]"
+      "author": null,
+      "title": "Stellar Blade Reveal Trailer | State of Play September 2022 - GameSpot",
+      "description": "Stellar Blade. formerly Project EVE, is a new action game from SHIFT UP, set in a world filled with monsters infused with technology. Stellar Blade will be a...",
+      "url": "https://www.youtube.com/watch?v=RngZ5RIOehY",
+      "urlToImage": "https://i.ytimg.com/vi/RngZ5RIOehY/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:32:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "God of War Ragnarok New Gameplay Trailer | State of Play September 2022 - GameSpot",
+      "description": "Take a look at this brand new God of War Ragnarok trailer, that sees Atreus and Kratos meet a whole host of new characters inlcuding Thor as they prepare for...",
+      "url": "https://www.youtube.com/watch?v=OvvKn488jfc",
+      "urlToImage": "https://i.ytimg.com/vi/OvvKn488jfc/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:29:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "God of War Ragnarok - Story Trailer | State of Play 2022 - IGN",
+      "description": "Everyone has secrets to keep in this new trailer for the God of War sequel, which also features new combat footage. God of War Ragnarok launches on November ...",
+      "url": "https://www.youtube.com/watch?v=Dc5xOGS1oJ0",
+      "urlToImage": "https://i.ytimg.com/vi/Dc5xOGS1oJ0/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:29:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "God of War Ragnarök Controller Trailer | State of Play September 2022 - GameSpot",
+      "description": "Arm yourself for the battle of Ragnarök with this limited edition DualSense™ wireless controller. Inspired by the Norse world of Midgard with its unique two-...",
+      "url": "https://www.youtube.com/watch?v=Z9gQcB0Rg2A",
+      "urlToImage": "https://i.ytimg.com/vi/Z9gQcB0Rg2A/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:26:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Carpenter",
+      "title": "Yakuza spinoff Like A Dragon: Ishin! updates the PS3 game for PS4, PS5 - Polygon",
+      "description": "Ryū ga Gotoku Ishin! was first released on PS3 in 2014, and available only in Japan. Like A Dragon: Ishin! is coming to PS4 and PS5 in February 2023.",
+      "url": "https://www.polygon.com/23351991/like-a-dragon-ishin-ps5-remake-yakuza",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q-yeDUEipMLKbcuAvm3W5UuAzAU=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24020263/vlcsnap_2022_09_13_18h06m44s300.png",
+      "publishedAt": "2022-09-13T22:21:46Z",
+      "content": "Ry ga Gotoku Ishin! was first released on PS3 and PS4 in 2014"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Tekken 8 announced for PlayStation 5 - Polygon",
+      "description": "Bandai Namco makes the next-gen Tekken official. Tekken 8 is coming to PS5.",
+      "url": "https://www.polygon.com/23351984/tekken-8-announced-release-date-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Cyx7_l6n5M_zVrLOZP7dldijjec=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24020249/vlcsnap_2022_09_13_18h02m24s986.png",
+      "publishedAt": "2022-09-13T22:11:02Z",
+      "content": "Bandai Namco makes the next-gen Tekken official"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Tekken 8 - Official Announcement Trailer | State of Play 2022 - IGN",
+      "description": "More than just Kazuya's face, we finally have gameplay for Tekken 8! The long-runng fighting game franchise showed off Kazuya and Jin fighting in the rain at...",
+      "url": "https://www.youtube.com/watch?v=H-W35cQu_4w",
+      "urlToImage": "https://i.ytimg.com/vi/H-W35cQu_4w/maxresdefault.jpg",
+      "publishedAt": "2022-09-13T22:10:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Mike Minotti",
+      "title": "Tekken 8 announced during State of Play - VentureBeat",
+      "description": "Sony revealed Tekken 8 during its State of Play presentation today.",
+      "url": "https://venturebeat.com/games/tekken-8-announced-during-state-of-play/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/09/tekken.png?w=1200&strip=all",
+      "publishedAt": "2022-09-13T22:04:55Z",
+      "content": "Interested in learning what's next for the gaming industry? Join gaming executives to discuss emerging parts of the industry this October at GamesBeat Summit Next. Register today.\r\nSony revealed Tekk… [+687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "These iOS 16 apps offer support for the new Lock Screen widgets - 9to5Mac",
+      "description": "As we’ve covered extensively, one of the leading features of iOS 16 is the ability to customize your iPhone’s Lock Screen for the first time. There are new wallpapers, font choices, colors, and filters that you can apply. The biggest change, however, is that …",
+      "url": "https://9to5mac.com/2022/09/13/ios-16-lock-screen-widgets-apps/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/lock-screen-widgets.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-09-13T22:04:00Z",
+      "content": "As we’ve covered extensively, one of the leading features of iOS 16 is the ability to customize your iPhone’s Lock Screen for the first time. There are new wallpapers, font choices, colors, and filte… [+11161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Social Media Today"
+      },
+      "author": "Andrew Hutchinson",
+      "title": "Meta Adds 'Community Chats' on Messenger as it Searches for New Ways to Prop Up Falling Engagement - Social Media Today",
+      "description": "Meta seems to be trying everything to boost in-app engagement.",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-community-chats-on-messenger-as-it-searches-for-new-ways-to-pro/631801/",
+      "urlToImage": "https://www.socialmediatoday.com/imgproxy/Kez9eJIvuOBedi3XS2WHqQdxMSCLnmG2BjxGz1zCw-Q/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL21lc3Nlbmdlcl9ncm91cDIucG5n.png",
+      "publishedAt": "2022-09-13T22:02:48Z",
+      "content": "With engagement in Metas apps seemingly in decline, based on various reports, its increasingly keen to capitalize on its wins where it can, which is why its rolling out a new way to encourage more en… [+6358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Andy Kalmowitz",
+      "title": "2023 Chrysler 300C Packs the 475-HP V8 From the Challenger Scat Pack - Jalopnik",
+      "description": "As the sun sets on the LD-generation Chrysler 300, Stellantis gives it a final farewell in the form of a throaty 6.4-liter V8.",
+      "url": "https://jalopnik.com/2023-chrysler-300c-475-hp-hemi-v8-1849530384",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/054d98f99d986e9ff2608d899352dc0f.jpg",
+      "publishedAt": "2022-09-13T22:00:00Z",
+      "content": "Much like its platform-sharing sisters, the Dodge Charger and Challenger, the Chrysler 300 is going away after the 2023 model year. But in typical Stellantis fashion, its going out with a bang. To ce… [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Dynamic Island Games Are Coming to iPhone 14 Pro - MacRumors",
+      "description": "The iPhone 14 Pro includes a clever new Dynamic Island that obscures the front-facing TrueDepth camera hardware, and third-party app developers are...",
+      "url": "https://www.macrumors.com/2022/09/13/dynamic-island-iphone-14-pro-games/",
+      "urlToImage": "https://images.macrumors.com/t/Sm0Yb15NkvB9ddU7WIn26ocy8H0=/1600x/article-new/2022/09/iPhone-14-Pro-Dynamic-Island-1.jpeg",
+      "publishedAt": "2022-09-13T21:45:03Z",
+      "content": "The iPhone 14 Pro includes a clever new Dynamic Island that obscures the front-facing TrueDepth camera hardware, and third-party app developers are already experimenting with ways to take advantage o… [+1221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bungie.net"
+      },
+      "author": null,
+      "title": "Destiny 2 Hotfix 6.2.0.3 > News - Bungie",
+      "description": "Bungie.net is the Internet home for Bungie, the developer of Destiny, Halo, Myth, Oni, and Marathon, and the only place with official Bungie info straight from the developers.",
+      "url": "https://www.bungie.net/en/News/Article/51773",
+      "urlToImage": "https://www.bungie.net/pubassets/pkgs/170/170877/Update_Hotfix_Header.jpg",
+      "publishedAt": "2022-09-13T21:24:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dot Esports"
+      },
+      "author": "Christian Harrison",
+      "title": "Activision has banned 500000 Call of Duty accounts for toxicity so far - Dot Esports",
+      "description": "Activision is done playing with toxic players.",
+      "url": "https://dotesports.com/call-of-duty/news/activision-has-banned-500000-call-of-duty-accounts-for-toxicity-so-far/",
+      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2020/06/11100935/AGB_MW_S4_WZContent-768x432.jpg",
+      "publishedAt": "2022-09-13T21:16:34Z",
+      "content": "Call of Duty’s multiplayer mode hasn’t always had the best reputation over the last couple of decades when it comes to respecting others. In the 2010s, abusive CoD lobbies and players were the subjec… [+2041 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "William Antonelli",
+      "title": "Legend of Zelda: Tears of the Kingdom: Release date, trailer, price - Business Insider",
+      "description": "The Legend of Zelda: Tears of the Kingdom hits the Nintendo Switch on May 12, 2023. The game is a direct sequel to Breath of the Wild.",
+      "url": "https://www.businessinsider.com/guides/tech/legend-of-zelda-tears-of-the-kingdom-breath-of-the-wild-2-release-date",
+      "urlToImage": "https://i.insider.com/6320ddaae8b5000018511339?width=1200&format=jpeg",
+      "publishedAt": "2022-09-13T21:09:51Z",
+      "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nIt's been five years since the release of The Legend of Zelda: Breath of the Wild, and three years since Nintend… [+3358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Graham Smith",
+      "title": "It looks like Yakuza spin-offs Judgment and Lost Judgment are headed to PC - Rock Paper Shotgun",
+      "description": "Yakuza spin-offs Judgment and Lost Judgment look to finally be coming to PC, if new ESRB ratings are any indication.",
+      "url": "https://www.rockpapershotgun.com/it-looks-like-yakuza-spin-offs-judgment-and-lost-judgment-are-headed-to-pc",
+      "urlToImage": "https://assets2.rockpapershotgun.com/lost-judgment.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lost-judgment.jpg",
+      "publishedAt": "2022-09-13T21:06:56Z",
+      "content": "One of the best developments in PC gaming over the past five years has been the arrival of the entire, silly, joyous Yakuza series on our platform. Well, now it looks like Yakuza's detective agency s… [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kyle Campbell",
+      "title": "Every game and release date announced during September 2022's Nintendo Direct - For The Win",
+      "description": "Fire Emblem, Zelda, Fatal Frame, and loads more are coming to Nintendo Switch soon.",
+      "url": "https://ftw.usatoday.com/lists/nintendo-direct-september-2022-games",
+      "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/09/Zelda_tears_of_the_kingdom_artwork_1.png?w=1024&h=576&crop=1",
+      "publishedAt": "2022-09-13T21:06:00Z",
+      "content": "Another Nintendo Direct has come and gone. As is often the case, September 2022’s broadcast was overflowing with brilliant video game announcements about 54 in total, even. \r\nSure, there’s no topping… [+4096 chars]"
     },
     {
       "source": {
@@ -99,168 +255,12 @@
         "name": "Business Wire"
       },
       "author": null,
-      "title": "Electronic Arts and KOEI TECMO Working Together on the Next Great Hunting Game - Business Wire",
-      "description": "EA Originals Label to Publish New AAA Game from Omega Force, the Japanese Studio at KOEI TECMO.",
-      "url": "https://www.businesswire.com/news/home/20220912005912/en/Electronic-Arts-and-KOEI-TECMO-Working-Together-on-the-Next-Great-Hunting-Game",
-      "urlToImage": "https://mms.businesswire.com/media/20220912005912/en/1568839/23/conceptart_EMBARGO_SEPT_12_3PM_PST_11PM_GMT_UK.jpg",
-      "publishedAt": "2022-09-12T22:00:00Z",
-      "content": "REDWOOD CITY, Calif.--(BUSINESS WIRE)--Electronic Arts Inc. (NASDAQ:EA) EA Originals Label has announced a new partnership with KOEI TECMO and studio Omega Force, the team behind the popular Warriors… [+3509 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Ubisoft is pretending it was never really that interested in NFTs - Ars Technica",
-      "description": "\"We'll see if [NFT]s really answer the players' needs,\" CEO says.",
-      "url": "https://arstechnica.com/gaming/2022/09/ubisoft-is-pretending-it-was-never-really-that-interested-in-nfts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/ubisoft-nft-headache-760x380.jpg",
-      "publishedAt": "2022-09-12T21:47:11Z",
-      "content": "Enlarge/ Galaxy brain, meet Ubisoft brain...\r\n16 with 16 posters participating\r\nIf you've been following Ubisoft's relationship with the NFT space in the last year, you probably remember that its non… [+3670 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Future Assassin's Creed Games Are Ditching Modern Day Stuff, And That's Disappointing - Kotaku",
-      "description": "Ubisoft splitting up the weird but distinct meta-narrative of the franchise could rob its personality",
-      "url": "https://kotaku.com/assassin-s-creed-modern-day-story-meta-infinity-ubisoft-1849526855",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a16936c0d7d165eb43f1617e532e8fa1.jpg",
-      "publishedAt": "2022-09-12T21:45:00Z",
-      "content": "Over the weekend, Ubisoft announced about 50 different Assassins Creed games and projects. (Editors note: It was a lotbut not 50). The company also laid out the future of the series and how its upcom… [+6366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Morningstar.com"
-      },
-      "author": null,
-      "title": "Should you buy a new Apple Watch? The Ultra, Series 8 and SE can be preordered now - Morningstar",
-      "description": "",
-      "url": "https://www.morningstar.com/news/marketwatch/20220912881/should-you-buy-a-new-apple-watch-the-ultra-series-8-and-se-can-be-preordered-now",
-      "urlToImage": "/assets/img/marketwatch.dad5abb.png",
-      "publishedAt": "2022-09-12T21:44:00Z",
-      "content": "By Emily Bary \r\nApple added a new model to its lineup while making incremental improvements to its existing watches \r\nIn a period of high inflation, is it worth spending up on a new smartwatch? \r\nApp… [+9586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ashley Bardhan",
-      "title": "Secretlab’s Fortnite Battle Bus Chair Is Comfy, If A Little Big - Kotaku",
-      "description": "The latest Secretlab Titan Evo 2022 special edition supports women (me)",
-      "url": "https://kotaku.com/secretlab-s-fortnite-battle-bus-chair-is-comfy-if-a-li-1849527193",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6208e1c43dc1af80a8acccfae76e70f8.jpg",
-      "publishedAt": "2022-09-12T21:40:00Z",
-      "content": "Look, I cant break new ground on the gamer chair. They are familiar: hulking, pricey, and often garishdeclarations of Fortnite prowess, padded with locks of Ninjas blue hair (may we remember it fondl… [+7713 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "iPhone 14's Sold in the US Won't Include a SIM Card Tray - IGN - IGN",
-      "description": "iPhone 14's sold in the United States will not ship with a physical SIM card tray, meaning those that buy one in the US will have to use an eSIM for the phone.",
-      "url": "https://www.ign.com/articles/iphone-14-esim-no-physical-sim-card-slot",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/12/apple-iphone-14-pro-iphone-14-pro-max-hero-220907-full-bleed-image-jpg-large-2x-1663011740916.jpg?width=1280",
-      "publishedAt": "2022-09-12T21:35:09Z",
-      "content": "Last week at Apple's Far Out event, the company unveiled the iPhone 14 series, with most of the phones in the lineup set to release later this week. But if you plan to buy an iPhone 14 and live in th… [+1300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Imad Khan, Patrick Holland",
-      "title": "iPhone 14 Pro, 14 Pro Max Hands-On: Apple's New Dynamic Island Highlights Redesign - CNET",
-      "description": "Apple's more expensive 2022 phones include a whole new use for the screen cutout.",
-      "url": "https://www.cnet.com/tech/mobile/iphone-14-pro-14-pro-max-hands-on-apples-new-dynamic-island-highlights-redesign/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/51916f9fac83510fe08cde6ff9dc8f97326605bb/2022/09/07/bf99dda4-c498-4723-ae94-94c4922e443f/apple-event-090722-iphone-14-pro-iphone-14-pro-max-7200.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-09-12T21:31:47Z",
-      "content": "This story is part of Focal Point iPhone 2022, CNET's collection of news, tips and advice around Apple's most popular product. \r\nApple unveiled its new iPhone 14 lineup at its \"Far Out\" event, but re… [+11437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthline"
-      },
-      "author": "Julia Ries",
-      "title": "Apple Watch Series 8 Emphasizes Reproductive Health, AFib, and Sleep - Healthline",
-      "description": "Apple Watch Series 8 features a slew of new health features, with an emphasis on women's reproductive health including improved ovulation and menstruation tracking capabilities. Series 8 will also feature upgraded AFib monitoring and improved sleep and medica…",
-      "url": "https://www.healthline.com/health-news/apple-watch-series-8-emphasizes-reproductive-health-afib-and-sleep",
-      "urlToImage": "https://post.healthline.com/wp-content/uploads/2022/09/female-smartwatch-1200x628-facebook-1200x628.jpg",
-      "publishedAt": "2022-09-12T21:28:05Z",
-      "content": "<ul><li>Apple Watch Series 8 is coming on September 16 with a slew of new health features.</li><li>Womens reproductive health is emphasized in the updated model, with improved ovulation and menstruat… [+6007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Brian Shea",
-      "title": "Ubisoft's Big Triple-A Games Will Be $70 According To CEO Yves Guillemot - Game Informer",
-      "description": "The comment comes as more publishers begin selling their tentpole games for $70 each.",
-      "url": "https://www.gameinformer.com/2022/09/12/ubisofts-big-triple-a-games-will-be-70-according-to-ceo-yves-guillemot",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/07/26/48fd4c2c/skullandbones.jpg",
-      "publishedAt": "2022-09-12T21:24:00Z",
-      "content": "Following the launch of PlayStation 5 and Xbox Series X/S, multiple video game publishers bumped up the price of new-gen versions of some of their games. While Ubisoft resisted that trend to this poi… [+1774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Eli Blumenthal, Patrick Holland",
-      "title": "Apple's iPhone 14, 14 Plus Hands-On: New Cameras, Crash Detection and a Bigger Size - CNET",
-      "description": "Apple's new iPhone lineup keeps the A15 Bionic chip, but adds new safety features and satellite connectivity.",
-      "url": "https://www.cnet.com/tech/mobile/iphone-14-14-plus-hands-on-new-cameras-crash-detection-and-a-bigger-size/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/18e9e9dcce7f4df6b325044413c666bf807ca7c1/2022/09/07/638901a4-9fb9-4836-a564-8f2ae822d226/apple-event-090722-iphone-14-6960.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-09-12T21:24:00Z",
-      "content": "This story is part of Focal Point iPhone 2022, CNET's collection of news, tips and advice around Apple's most popular product. \r\nApple's new iPhone 14 models bring updates to their cameras, as well a… [+6974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Tim Keary",
-      "title": "Apple iOS 16: Passkeys brings passwordless authentication mainstream - VentureBeat",
-      "description": "The launch of iOS 16 highlights that passwordless authentication options are becoming more accessible to consumers and enterprises alike.",
-      "url": "https://venturebeat.com/security/apple-ios-16-passwordless-authentication/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-153251039-e1658241995647.jpg?w=1200&strip=all",
-      "publishedAt": "2022-09-12T21:20:00Z",
-      "content": "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. \r\nWhen it comes to security, passwords often arent an asset, but a liability. … [+1083 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "It's time to bring contrast back to our smartphone photos - The Verge",
-      "description": "Computational photography has ushered in an era where HDR effects are commonplace in our smartphone photos. But embracing a little contrast with some of the tools built right into our iPhone, Pixel, or Samsung Galaxy cameras can be a really good thing.",
-      "url": "https://www.theverge.com/2022/9/12/23345028/iphone-samsung-smartphone-camera-photographic-styles-hdr-contrast",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wtnQzvWxn7hUSE8Zrju0Q6jKYjw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22865100/vpavic_210917_4760_0702.jpg",
-      "publishedAt": "2022-09-12T21:19:43Z",
-      "content": "Embrace the shadows.\r\nPhoto by Vjeran Pavic / The Verge\r\nA little while back, my colleague Mitchell Clark and I challenged each other to use our old iPhones for the weekend mine was an original iPhon… [+4109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "Halo lead Bonnie Ross is leaving 343 Industries and Xbox - Windows Central",
-      "description": "Bonnie Ross has led Microsoft's Halo brand for 15 years.",
-      "url": "https://www.windowscentral.com/gaming/xbox/halo-head-bonnie-ross-is-leaving-343-industries-and-microsoft",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tzbtzWw2B7qKJLx8bqQJnA-1200-80.jpg",
-      "publishedAt": "2022-09-12T21:18:45Z",
-      "content": "<ul><li>Bonnie Ross has led 343 Industries and the Halo franchise at Microsoft for 15 years, having worked for the company for the past 27 in and around Xbox. </li><li>Halo is a sci-fi franchise set … [+3480 chars]"
+      "title": "Woojer Advances the World of Precise Haptics With Its New Series 3 Haptic Vest™ and Strap™ - Business Wire",
+      "description": "Woojer today announces pre-orders of its captivating Series 3 haptic wearables that deliver the true feeling of sound, changing the way games, music a",
+      "url": "https://www.businesswire.com/news/home/20220913005951/en/Woojer-Advances-the-World-of-Precise-Haptics-With-Its-New-Series-3-Haptic-Vest%E2%84%A2-and-Strap%E2%84%A2",
+      "urlToImage": "https://mms.businesswire.com/media/20220913005951/en/1569356/23/Woojer_-_Series_3_Collection.jpg",
+      "publishedAt": "2022-09-13T21:00:00Z",
+      "content": "ATLANTA--(BUSINESS WIRE)--Woojer today announces pre-orders of its captivating Series 3 haptic wearables that deliver the true feeling of sound, changing the way games, music and entertainment intens… [+2847 chars]"
     }
   ]
 }
