@@ -1,84 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 812,
+  "totalResults": 798,
   "articles": [
     {
       "source": {
         "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "First iPhone 14 and iPhone 14 Pro Orders Arriving to Customers in Australia and New Zealand - MacRumors",
+      "description": "Because of time zone differences, it's already September 16 (aka iPhone launch day) in Australia and New Zealand, which means customers in these...",
+      "url": "https://www.macrumors.com/2022/09/15/iphone-14-orders-arriving-australia-nz/",
+      "urlToImage": "https://images.macrumors.com/t/RaBq1kQm57HqYgjTIXI3iF3ucKU=/2500x/article-new/2022/09/iPhone-14-Pros-in-Hand-Black-Background-Feature.jpg",
+      "publishedAt": "2022-09-15T22:08:10Z",
+      "content": "Because of time zone differences, it's already September 16 (aka iPhone launch day) in Australia and New Zealand, which means customers in these countries who preordered a new iPhone 14, iPhone 14 Pr… [+1922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Christopher Smith",
+      "title": "Modified Toyota Supra Drag Races Tesla Plaid, Mustang, And More - Motor1 ",
+      "description": "What does it take to beat a Tesla Model S Plaid at the drag strip? This modded Toyota Supra finds out while racing a Mustang, Audi TT RS, and a old Lexus.",
+      "url": "https://www.motor1.com/news/610645/modified-toyota-supra-drag-races-tesla-plaid-mustang/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/8AAe4v/s1/modified-toyota-supra-and-mustang-at-drag-strip.jpg",
+      "publishedAt": "2022-09-15T22:08:00Z",
+      "content": "In the very first Fast and Furious film, Dominic Toretto tells Brian O'Conner he owes him a 10-second car. In response, O'Conner delivers a thrashed-out Toyota Supra that, with an orange paint job an… [+2554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PlayStation Universe"
+      },
+      "author": "David Carcasole",
+      "title": "Tekken 8 Is Being Developed In Unreal Engine 5 - PlayStation Universe",
+      "description": "Tekken 8 is being developed using Unreal Engine 5, a new interview with Katsuhiro Harada has revealed. Check out the details here.",
+      "url": "https://www.psu.com/news/tekken-8-is-being-developed-in-unreal-engine-5/",
+      "urlToImage": "https://www.psu.com/wp/wp-content/uploads/2022/09/Tekken-8-Is-Being-Made-On-Unreal-Engine-5-e1663279338317.jpg",
+      "publishedAt": "2022-09-15T22:02:27Z",
+      "content": "Tekken 8was revealed during the State Of Playshowcase Sony held on Tuesday, and with Tokyo Game Showin full force, we’re beginning to learn more about the upcoming continuation of the series.\r\nFor ex… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "What?!? Intel 13th Gen Raptor Lake Will Hit 6GHz Stock! - HotHardware",
-      "description": "A stock 6GHz Intel 13th Gen Raptor Lake 24-core chip? It seems as though Intel just confirmed it. Here's the quick and dirty HOT off the press!Our Daily Mail...",
-      "url": "https://www.youtube.com/watch?v=Ru07zFerkvY",
-      "urlToImage": "https://i.ytimg.com/vi/Ru07zFerkvY/hqdefault.jpg",
-      "publishedAt": "2022-09-14T22:16:25Z",
+      "title": "Nintendo Monthly Rewind – August 2022 - Nintendo",
+      "description": "ICYMI - August was full of announcements and new titles on #NintendoSwitch! Take a look back with the latest episode of Nintendo Monthly Rewind!Subscribe for...",
+      "url": "https://www.youtube.com/watch?v=qKnRof03pIE",
+      "urlToImage": "https://i.ytimg.com/vi/qKnRof03pIE/maxresdefault.jpg",
+      "publishedAt": "2022-09-15T22:00:24Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "How to Copy and Translate Text That Appears in Videos on Your iPhone - MacRumors",
-      "description": "In iOS 16, Apple has expanded the reach of its Live Text feature, which can recognize text in not just photos, but also videos now, too. Keep reading...",
-      "url": "https://www.macrumors.com/how-to/copy-translate-text-in-videos-ios/",
-      "urlToImage": "https://images.macrumors.com/t/UT25dWzToRxX_vaTu8xC1EyGAIc=/1600x/article-new/2022/08/ios-16-live-text.jpg",
-      "publishedAt": "2022-09-14T22:12:01Z",
-      "content": "In iOS 16, Apple has expanded the reach of its Live Text feature, which can recognize text in not just photos, but also videos now, too. Keep reading to learn how to use it.\r\nIn iOS 15, Apple introdu… [+1517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "How to Quickly Reset Your Data and Location Access Permissions on iPhone - MacRumors",
-      "description": "In iOS 16, Apple added a new Safety Check feature that's designed to make it easy for users to quickly reset all of the data and location access...",
-      "url": "https://www.macrumors.com/how-to/quickly-reset-data-location-access-safety-check/",
-      "urlToImage": "https://images.macrumors.com/t/y_gsjGBcFD0X6ubA5oucB7BOU_c=/1600x/article-new/2021/08/Apple-Privacy-Yellow.jpg",
-      "publishedAt": "2022-09-14T22:10:04Z",
-      "content": "In iOS 16, Apple added a new Safety Check feature that's designed to make it easy for users to quickly reset all of the data and location access that they have granted to other people. Keep reading t… [+2265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "OddBallers - Nintendo Direct 9.13.2022 - Nintendo",
-      "description": "OddBallers is coming to Nintendo Switch in early 2023! Wishlist today:  https://www.nintendo.com/store/products/oddballers-switch/Bend your knees, thrust you...",
-      "url": "https://www.youtube.com/watch?v=KgMTgMG-K_E",
-      "urlToImage": "https://i.ytimg.com/vi/KgMTgMG-K_E/maxresdefault.jpg",
-      "publishedAt": "2022-09-14T22:00:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "9to5Mac Daily: September 14, 2022 – iPhone 14 reviews and early sales data - 9to5Mac",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Urban Armor Gear…",
-      "url": "https://9to5mac.com/2022/09/14/9to5mac-daily-september-14-2022-iphone-14-reviews-and-early-sales-data/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-09-14T22:00:00Z",
-      "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+911 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN Staff",
-      "title": "Xbox Tokyo Game Show 2022: How to Watch Microsoft's Stream - IGN",
-      "description": "Tokyo Game Show is back, and Xbox will kick things off tomorrow, bright and early. Here's how to watch live or later!",
-      "url": "https://www.ign.com/articles/xbox-tokyo-game-show-2022-how-to-watch",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/13/tgs-xbox-michael-peyton-1663095503633.jpeg?width=1280",
-      "publishedAt": "2022-09-14T21:54:37Z",
-      "content": "It's safe to say 2022 has been a solid year for gamers when it comes to exciting events and conventions, from Gamescom to Summer Game Fest and everything in-between from Summer of Gaming. If you have… [+3347 chars]"
     },
     {
       "source": {
@@ -86,129 +60,90 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "iPhone 14 Pro's Always-On Display Works With Apple Maps, Phone, Voice Memos, and Apple TV Remote - MacRumors",
-      "description": "iPhone 14 Pro reviews published earlier today have revealed some additional information about the device's optional always-on display mode. ...",
-      "url": "https://www.macrumors.com/2022/09/14/iphone-14-pro-always-on-display-apps/",
-      "urlToImage": "https://images.macrumors.com/t/EkM7JRUwQMxJtysS2nmoWSyjxLA=/1600x/article-new/2022/09/iPhone-14-Pro-Always-On-Display-Apple-Maps.jpg",
-      "publishedAt": "2022-09-14T21:46:04Z",
-      "content": "iPhone 14 Pro reviews published earlier today have revealed some additional information about the device's optional always-on display mode.\r\nAlways-on Apple Maps via Brian Tong\r\nIn addition to the Lo… [+1410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Oppo F21s Pro 5G full specs leak alongside pricing info and new renders - GSMArena.com",
-      "description": "The phone will become official tomorrow, apparently.",
-      "url": "https://www.gsmarena.com/oppo_f21s_pro_5g_full_specs_leak_alongside_pricing_info_and_new_renders-news-55791.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/oppo-f21s-pro-5g-specs-renders-price/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2022-09-14T21:42:29Z",
-      "content": "Oppo is apparently getting ready to launch the F21s Pro 5G in India tomorrow, and ahead of that a bunch of details about the device have been leaked. We're talking specs, targeted price point, and so… [+1619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "James Carr",
-      "title": "Second COD Warzone Mobile Leak Provides Further Evidence Verdansk Map May Return - GameSpot",
-      "description": "A second Call of Duty: Warzone Mobile leak also points to the return of the original Warzone map in the upcoming mobile game.",
-      "url": "https://www.gamespot.com/articles/second-cod-warzone-mobile-leak-provides-further-evidence-verdansk-map-may-return/1100-6507526/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4035641-warzoneverdansk.jpeg",
-      "publishedAt": "2022-09-14T21:40:30Z",
-      "content": "Another leak for Call of Duty: Warzone Mobile points to the return of Verdansk, having up to 120 player lobbies, and shared battle pass progression with Modern Warfare II. While this information had … [+1584 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Devin Coldewey",
-      "title": "Perceptron: AI that lights up the moon, improvises grammar, and teaches robots to walk like humans - TechCrunch",
-      "description": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, Moon-scanning tech, and more.",
-      "url": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
-      "publishedAt": "2022-09-14T21:29:03Z",
-      "content": "Research in the field of machine learning and AI, now a key technology in practically every industry and company, is far too voluminous for anyone to read it all. This column, Perceptron, aims to col… [+8992 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Chrysler to relaunch Canadian-made gas-powered 300 sedan, as auto show pivots to electric future - CBC News",
-      "description": "After a two-year hiatus due to the pandemic, the biggest car show in North America is starting up again in Detroit this week, giving consumers their first glimpse into what the trillion-dollar auto industry has up its sleeve.",
-      "url": "https://www.cbc.ca/news/business/chrysler-auto-show-sedan-1.6582334",
-      "urlToImage": "https://i.cbc.ca/1.6582413.1663168547!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autos-autoshow-chrysler-christine-feuell-300c.JPG",
-      "publishedAt": "2022-09-14T21:26:39Z",
-      "content": "After a two-year hiatus due to the pandemic, the biggest car show in North America is starting up again in Detroit this week, giving consumers their first glimpse into what the trillion-dollar auto i… [+4370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "José Adorno",
-      "title": "Travel photographer Austin Mann puts iPhone 14 Pro new 48MP camera to test - 9to5Mac",
-      "description": "Every year, travel photographer Austin Mann surprises people by putting the new iPhone cameras to the test. This time, with the iPhone 14 Pro revamped camera system, is no different. Mann traveled through Scotland to capture 48MP ProRAW shots while sharing hi…",
-      "url": "https://9to5mac.com/2022/09/14/travel-photographer-iphone-14-pro-camera-review/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-pro-camera-review-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-09-14T21:23:00Z",
-      "content": "Every year, travel photographer Austin Mann surprises people by putting the new iPhone cameras to the test. This time, with the iPhone 14 Pro revamped camera system, is no different. Mann traveled th… [+3761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Nina Derwin",
-      "title": "This Razer Iskur gaming chair deal will save you 10% - Digital Trends",
-      "description": "Take your gaming setup to the next level with the addition of the Razer Iskur gaming chair, which is on sale for 10% off right now.",
-      "url": "https://www.digitaltrends.com/computing/razer-iskur-gaming-chair-deal-razer-september-2022/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/06/razer-iskur-x-gaming-chair.jpg?p=1",
-      "publishedAt": "2022-09-14T21:18:30Z",
-      "content": "Gamers rejoice! One of our favorite gaming chair deals is upon us, and this is worth getting excited about. The Razer Iskur is one of the best gaming chairs on the market and is undeniably one of the… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Claire Jackson",
-      "title": "PS5's New VR Tech Is Making A Great First Impression - Kotaku",
-      "description": "The first hands-on reports speak very favorably about Sony’s second try at a VR headset",
-      "url": "https://kotaku.com/sony-ps5-psvr2-hands-on-playstation-vr-horizon-village-1849536871",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/89443db9ae6bd17b8a68760165a89a79.jpg",
-      "publishedAt": "2022-09-14T21:15:00Z",
-      "content": "Sonys PSVR for PlayStation 4, the first serious VR add-on for a console, did pretty darn well for itself. It was reasonably affordable, well received by players and critics alike, and got a lot more … [+5474 chars]"
+      "title": "All iPhone 14 Models Feature New Rear-Facing Ambient Light Sensor - MacRumors",
+      "description": "All four iPhone 14 models feature dual ambient light sensors for the first time, according to Apple's tech specs for the devices.   According to...",
+      "url": "https://www.macrumors.com/2022/09/15/iphone-14-dual-ambient-light-sensors/",
+      "urlToImage": "https://images.macrumors.com/t/4UdtWI63s3vVRjhMIrZUDw7kVbw=/1600x/article-new/2022/09/iPhone-14-Pro-Rear-Camera.jpg",
+      "publishedAt": "2022-09-15T21:58:53Z",
+      "content": "All four iPhone 14 models feature dual ambient light sensors for the first time, according to Apple's tech specs for the devices.\r\nAccording to TechCrunch's Matthew Panzarino, all iPhone 14 models ar… [+679 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Oscar Gonzalez",
-      "title": "Xbox PC App Adds New Feature to Help with Backlogs - CNET",
-      "description": "See how long it will take to beat a PC game before playing.",
-      "url": "https://www.cnet.com/tech/gaming/xbox-pc-app-adds-new-feature-to-help-with-backlogs/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/d3a2e1f804768e617bd70abfca86780fb758c75c/hub/2021/06/13/1ccc8a24-bb53-45be-b585-5c1bf0c524f1/halo-inf-grab.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-09-14T21:11:00Z",
-      "content": "Microsoft added a new feature to its Xbox PC app Wednesday letting users find out how much time it will take to finish a game. \r\nHowLongToBeat is a database of completion times for games, and it's no… [+941 chars]"
+      "author": "Zachary McAuliffe",
+      "title": "Overwatch 1: Last Day Is Oct. 2, Blizzard Says - CNET",
+      "description": "Overwatch 2 is scheduled to be released shortly afterward, on Oct. 4.",
+      "url": "https://www.cnet.com/tech/gaming/overwatch-1-last-day-is-oct-2-blizzard-says/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/1b9f0c812535f41a3224fb9f5cb1fba2e57cece8/hub/2022/09/15/7d88ea2a-ce1c-4f54-8210-eae69fe009e1/gettyimages-1053471932.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-09-15T21:38:00Z",
+      "content": "Overwatch, Blizzard Entertainment's popular multiplayer co-op shooter, is set to have its servers taken down on Oct. 2, just before the release of Overwatch 2, the gaming company confirmed Thursday.\r… [+1157 chars]"
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": null,
+        "name": "YouTube"
       },
-      "author": "William Antonelli",
-      "title": "2 ways to see and edit your clipboard on Android - Business Insider",
-      "description": "You can see your clipboard on an Android phone or tablet using Gboard or the new visual clipboard feature in Android 13.",
-      "url": "https://www.businessinsider.com/guides/tech/clipboard-on-android",
-      "urlToImage": "https://i.insider.com/63223cadd5916b0019abc9bf?width=1200&format=jpeg",
-      "publishedAt": "2022-09-14T21:10:00Z",
-      "content": "If your device lets you copy and paste things, then it has a \"clipboard,\" a place where anything you copy gets kept. But most devices don't let you see the clipboard it just works invisibly in the ba… [+2976 chars]"
+      "author": null,
+      "title": "Apple iPhone 14 set to hit stores on Friday - Yahoo Finance",
+      "description": "Tech reporter Dan Howley showcases several of the iPhone 14's newest features, such as its camera, before the device hits store shelves tomorrow.Don't Miss: ...",
+      "url": "https://www.youtube.com/watch?v=epn6J_qBkzg",
+      "urlToImage": "https://i.ytimg.com/vi/epn6J_qBkzg/hqdefault.jpg",
+      "publishedAt": "2022-09-15T21:35:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Here are the first apps and services that support Passkeys in iOS 16 - 9to5Mac",
+      "description": "Now that iOS 16 has officially been released to the public, developers have been rolling out updates to not only make their apps compatible with the new version, but also to take advantage of new features like Passkeys. Apps like KAYAK and CardPointers have a…",
+      "url": "https://9to5mac.com/2022/09/15/first-apps-that-support-passkeys-ios-16/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/KAYAK-iOS-16-app-Passkey.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-09-15T21:29:00Z",
+      "content": "Now that iOS 16 has officially been released to the public, developers have been rolling out updates to not only make their apps compatible with the new version, but also to take advantage of new fea… [+1861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Graham Smith",
+      "title": "Uncharted: Legacy Of Thieves Collection gets a trailer, system specs and confirmed release date - Rock Paper Shotgun",
+      "description": "Uncharted: Legacy Of Thieves Collection will launch on PC via the Epic Games Store on October 19th, Sony confirm.",
+      "url": "https://www.rockpapershotgun.com/uncharted-legacy-of-thieves-collection-gets-a-trailer-system-specs-and-confirmed-release-date",
+      "urlToImage": "https://assets2.rockpapershotgun.com/uncharted-4-drake-sully.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/uncharted-4-drake-sully.jpg",
+      "publishedAt": "2022-09-15T21:22:48Z",
+      "content": "Last week, a hastily removed update to the Epic Games Store page for Uncharted: Legacy Of Thieves Collection revealed that the two-game bundle would launch on October 19th. Today, Sony confirmed the … [+1333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Sisi Jiang",
+      "title": "Blizzard Gives Overwatch 2 Players Kiriko For Free But Defends Its Battle Pass System - Kotaku",
+      "description": "Blizzard says Overwatch 2 will gate access to new heroes because most players only play a few",
+      "url": "https://kotaku.com/overwatch-2-battle-pass-unlock-kiriko-blizzard-sojourn-1849542245",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3e79d49d759f25ba8d52c05442657170.jpg",
+      "publishedAt": "2022-09-15T21:09:12Z",
+      "content": "Blizzard just announced that the new (and widely leaked) ninja character Kiriko will be free for all Overwatch 2 players who already own a copy of the original Overwatch. While that seems like cause … [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Resident Evil 4 Remake Launching On PS4, But Not Xbox One - Kotaku",
+      "description": "This new remake of the classic survival horror game is also skipping Switch, but will be on PC",
+      "url": "https://kotaku.com/re4-resident-evil-4-remake-ps4-ps5-xbox-one-capcom-1849542146",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e074aa452e2b9f2799bfd8d302d1e5da.jpg",
+      "publishedAt": "2022-09-15T21:02:13Z",
+      "content": "Well, heres a bit of surprise: The new Resident Evil 4 remakeout next yearis in development for PS4. We knew it was coming to next-gen machines, but now its also headed to Sonys older home console. H… [+2088 chars]"
     },
     {
       "source": {
@@ -216,51 +151,116 @@
         "name": "Kotaku Australia"
       },
       "author": null,
-      "title": "G4TV Hit With Major Layoffs Less Than A Year After Coming Back - Kotaku Australia",
-      "description": "At least somewhere between 20-30 staff members were laid off at G4TV today, according to three sources familiar with the...",
-      "url": "https://www.kotaku.com.au/2022/09/g4tv-hit-with-major-layoffs-less-than-a-year-after-coming-back/",
-      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/15/605d468554a502085275249904e858aa.jpg?quality=80&resize=1280,720",
-      "publishedAt": "2022-09-14T21:08:00Z",
-      "content": "At least somewhere between 20-30 staff members were laid off at G4TV today, according to three sources familiar with the business. The video game talk show network from the 2000s was resurrected last… [+2810 chars]"
+      "title": "Resident Evil 4 Remake Launching On PS4, But Not Xbox One - Kotaku Australia",
+      "description": "Well, here’s a bit of surprise: The new Resident Evil 4 remake — out next year — is in development...",
+      "url": "https://www.kotaku.com.au/2022/09/resident-evil-4-remake-launching-on-ps4-but-not-xbox-one/",
+      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/16/e074aa452e2b9f2799bfd8d302d1e5da.jpg?quality=80&resize=1280,720",
+      "publishedAt": "2022-09-15T21:02:00Z",
+      "content": "Well, heres a bit of surprise: The new Resident Evil 4 remake out next year is in development for PS4. We knew it was coming to next-gen machines, but now its also headed to Sonys older home console.… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Mike Hume, Jonathan Lee",
+      "title": "'Warzone 2.0's' Gulag, proximity chat, new modes and more - The Washington Post",
+      "description": "Everything that's coming soon to Call of Duty.",
+      "url": "https://www.washingtonpost.com/video-games/2022/09/15/call-of-duty-warzone-2-updates-2/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZP7VK3SQZBKFLOGZMEHOCHT3Q.jpg&w=1440",
+      "publishedAt": "2022-09-15T20:47:00Z",
+      "content": "One of Warzones most distinctive features was its introduction of the Gulag, a way for defeated players to win their way back into the Call of Duty games battle royale fracas. With Warzone 2.0, the G… [+7253 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Windsor Star"
       },
-      "author": "Tom Ivan",
-      "title": "New Xbox Game Pass titles announced and Valheim dated | VGC - Video Games Chronicle",
-      "description": "Upcoming additions to Microsoft's subscription service have been revealed…",
-      "url": "https://www.videogameschronicle.com/news/new-xbox-game-pass-titles-announced-and-valheim-dated/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2022/06/valheim-g.jpg",
-      "publishedAt": "2022-09-14T20:54:02Z",
-      "content": "Microsoft has announced a fresh batch of titles that are headed to Xbox Game Pass.\r\nDuring an indie games showcase on Wednesday, it also confirmed that Valheim will hit PC Game Pass on September 29.\r… [+1298 chars]"
+      "author": "Dave Waddell",
+      "title": "Next generation of Mustang retains Windsor-built engine - Windsor Star",
+      "description": "Ford also announces plans to return to Le Mans racetrack with new Mustang Darkhorse",
+      "url": "https://windsorstar.com/news/local-news/next-generation-of-mustang-retains-windsor-built-engine",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/windsorstar/wp-content/uploads/2022/09/1243240479.jpg",
+      "publishedAt": "2022-09-15T20:37:18Z",
+      "content": "Article content\r\nThe Ford Motor Companys seventh generation of the iconic Mustang is a more muscular, tech-laden machine that will retain its Windsor-built five-litre Coyote V8 engine as its beating … [+5933 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Social Media Today"
+        "name": "Independent.ie"
       },
-      "author": "Andrew Hutchinson",
-      "title": "Google Outlines New Process for Creating 3D Models from 2D Pictures - Social Media Today",
-      "description": "The process could provide new ways to build more accurate 3D models, quickly and easily.",
-      "url": "https://www.socialmediatoday.com/news/google-outlines-new-process-for-creating-3d-models-from-2d-pictures/631888/",
-      "urlToImage": "https://www.socialmediatoday.com/imgproxy/ViwWUlSY_CXpuXdLFcHyaL0I_NKPSQka42B0vh_F9rU/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2Nocm9tZS1jYXB0dXJlLTIwMjItOC0xNS5naWY.gif",
-      "publishedAt": "2022-09-14T20:50:55Z",
-      "content": "As the internet has evolved, and connectivity along with it, visuals have increasingly become the key element that stands out, and grabs user attention in ever-busy social feeds.\r\nThat started with s… [+3177 chars]"
+      "author": "Darragh Mc Donagh",
+      "title": "Woman (66) had 50 cylindrical batteries removed from her stomach and colon at St Vincent's Hospital in Dublin - Independent.ie",
+      "description": "A 66-year-old woman had 50 cylindrical batteries removed from her stomach and colon by surgeons at St Vincent&rsquo;s Hospital in Dublin, a new case report has revealed.",
+      "url": "https://www.independent.ie/news/woman-66-had-50-cylindrical-batteries-removed-from-her-stomach-and-colon-at-st-vincents-hospital-in-dublin-41992966.html",
+      "urlToImage": "https://www.independent.ie/news/0b32a/41992963.ece/AUTOCROP/w1240h700/Screenshot%202022_09_15%20at%201.jpg",
+      "publishedAt": "2022-09-15T20:32:00Z",
+      "content": "A 66-year-old woman had 50 cylindrical batteries removed from her stomach and colon by surgeons at St Vincents Hospital in Dublin, a new case report has revealed.\r\nShe had also passed five AA batteri… [+2206 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "PCMag.com"
       },
-      "author": "Zachary Boddy",
-      "title": "ID@Xbox Fall Showcase 2022: Xbox indie game announcements, trailers, and everything you missed - Windows Central",
-      "description": "Here's everything that was shown during the ID@Xbox Fall Showcase.",
-      "url": "https://www.windowscentral.com/gaming/xbox/id-xbox-fall-showcase-2022",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7XaCbYPr98m28GC4EB73uj-1200-80.jpg",
-      "publishedAt": "2022-09-14T20:50:20Z",
-      "content": "The Xbox ecosystem is a great place to explore a practically endless variety of excellent and creative indie titles, and many of those games are able to happen thanks to the ID@Xbox program at Xbox. … [+7851 chars]"
+      "author": "Michael Kan",
+      "title": "Beware Game Cheat Downloads in YouTube Video Descriptions - PCMag",
+      "description": "Videos that claim to offer ways to hack and cheat at several popular games actually download malware that includes a password-stealing program called Redline.",
+      "url": "https://www.pcmag.com/news/beware-game-cheat-downloads-in-youtube-video-descriptions",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/076Wm65CmLdkaK7viMdGDWS-1.fit_lim.size_1200x630.v1663270027.jpg",
+      "publishedAt": "2022-09-15T20:29:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "iPhones in Zim can now connect to 5G thanks to iOS 16 - Techzim",
+      "description": "iPhones that are capable of 5G connectivity will be receiving the long-awaited 5G option in the mobile internet settings. This is being made possible through...",
+      "url": "https://www.youtube.com/watch?v=ZFZ-LS_z0tQ",
+      "urlToImage": "https://i.ytimg.com/vi/ZFZ-LS_z0tQ/maxresdefault.jpg",
+      "publishedAt": "2022-09-15T20:22:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "Big Acquisitions Can Squash Creativity, Titanfall And Battlefield Executive Vince Zampella Says - GameSpot",
+      "description": "Big acquisitions can also be great for gaming, the Call of Duty and Apex Legends veteran says.",
+      "url": "https://www.gamespot.com/articles/big-acquisitions-can-squash-creativity-titanfall-and-battlefield-executive-vince-zampella-says/1100-6507575/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1579/15794034/3502564-apex-10.jpg",
+      "publishedAt": "2022-09-15T20:19:30Z",
+      "content": "2022 has been a year full of major acquisitions in the video game space, and Electronic Arts executive Vince Zampella has now shared his thoughts on big buyouts and what they could mean.\r\nSpeaking to… [+788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Brendan Hesse",
+      "title": "Get Up To 7 PC Games For Just $10 In This New Fanatical Bundle - GameSpot",
+      "description": "Pick from 16 tactical titles to fill out your Steam library.",
+      "url": "https://www.gamespot.com/articles/get-up-to-7-pc-games-for-just-10-in-this-new-fanatical-bundle/1100-6507577/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4036291-gsstratbundle3.png",
+      "publishedAt": "2022-09-15T20:19:30Z",
+      "content": "For a limited time, you can snag up to seven PC strategy games for just $10 through Fanaticals new Build Your Own Strategy Bundle 3.\r\nIf youre unfamiliar with Fanaticals Build Your Own bundles, these… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "James Carr",
+      "title": "All Fall Guys Season 2 Battle Pass Rewards - GameSpot",
+      "description": "Here's every reward in the season pass for the latest Fall Guys Season, Satellite Scramble.",
+      "url": "https://www.gamespot.com/gallery/all-fall-guys-season-2-battle-pass-rewards/2900-4330/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4036201-fallguysthumb.jpeg",
+      "publishedAt": "2022-09-15T20:19:29Z",
+      "content": null
     }
   ]
 }
