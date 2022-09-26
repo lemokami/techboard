@@ -1,32 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 769,
+  "totalResults": 761,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Businesspost.ie"
+        "name": "Forbes"
       },
-      "author": null,
-      "title": "Irish-led Hadean raises $30m from backers including Epic Games - Business Post",
-      "description": "Dublin and London-listed Molten Ventures leads financing, with WeChat operator Tencent also participating in Series A round",
-      "url": "https://www.businesspost.ie/tech/irish-led-hadean-raises-30m-from-backers-including-epic-games/",
-      "urlToImage": "https://imengine.public.prod.sbp.infomaker.io?uuid=29ae291f-c4ca-5df7-b237-62e910db7c6b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.72934&width=1200&height=675&x=1.0E-5&y=0.0389",
-      "publishedAt": "2022-09-24T22:42:17Z",
-      "content": "Hadean, a company chaired by Irish tech veteran David Moran, has raised $30 million in a funding round.\r\nThe Series A round was led by Dublin- and London-listed Molten Ventures (formerly Draper Espri… [+293 chars]"
+      "author": "Ewan Spence",
+      "title": "How The Impressive Pixel 6a Tells Google’s Compelling Android Story - Forbes",
+      "description": "Where does the Pixel 6a fit into the story that Google is telling with its own Android-powered smartphones?",
+      "url": "https://www.forbes.com/sites/ewanspence/2022/09/25/google-pixel-6a-android-13-strategy-decision-price/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6330d686ed51c9b760dd5382/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-09-25T22:32:52Z",
+      "content": "With the Pixel 7 and Pixel 7 Pro set for a full launch in October, the July reveal of the Pixel 6a (some nine months after the Pixel 6 and Pixel 6 Pro) may feel like a late addition to last years por… [+6383 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "TidBITS"
       },
       "author": null,
-      "title": "'Pretty significant difference' between iPhone 14 Pro and base model - Sky News Australia",
-      "description": "Huge demand for Apple's new flagship iPhone means some consumers could be waiting for weeks just to get their hands on one.Image Matrix Tech Editor Djuro Sen...",
-      "url": "https://www.youtube.com/watch?v=dgJkfH2OaKo",
-      "urlToImage": "https://i.ytimg.com/vi/dgJkfH2OaKo/hqdefault.jpg",
-      "publishedAt": "2022-09-24T22:33:05Z",
-      "content": null
+      "title": "Fantastical 3.7.1 - TidBITS",
+      "description": "Adds support for meetings from chorus.ai and improves reliability of time to leave alerts. ($39.96 annual subscription, free update, 58.4 MB, macOS 11+)",
+      "url": "https://tidbits.com/watchlist/fantastical-3-7-1/",
+      "urlToImage": "https://tidbits.com/wp/../uploads/2020/11/Fantastical-3_3-icon.jpg",
+      "publishedAt": "2022-09-25T22:18:39Z",
+      "content": "Flexibits has issued Fantastical 3.7.1, adding support for meetings from chorus.ai and improving the reliability of time to leave alerts. The calendar app also localizes the Fantastical Openings edit… [+474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pickr.com.au"
+      },
+      "author": "Leigh :) Stark",
+      "title": "Apple iPhone 14 review – Pickr - Pickr",
+      "description": "With the iPhone 14 Pro getting all the premium features, what about the one without the pro: is the iPhone 14 worth your time, too?",
+      "url": "https://www.pickr.com.au/reviews/2022/apple-iphone-14/",
+      "urlToImage": "https://cdn.pickr.com.au/wp-content/uploads/2022/09/apple-iphone-14-review-2022-08.jpg",
+      "publishedAt": "2022-09-25T22:13:42Z",
+      "content": "All eyes are typically on Apple’s most expensive model, but there’s also one more. Is the iPhone 14 a phone worth considering in 2022? \r\nDesign\r\nA new year with a new number, as Apple adds one to “13… [+11301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Michail",
+      "title": "Week 38 in review: Asus ROG Phone 6D announced, Pixel 7 series pre-order date confirmed - GSMArena.com news - GSMArena.com",
+      "description": "Dynamic Island equivalents are coming to Android phones, Nvidia launched its RTX 40-series graphics cards.",
+      "url": "https://www.gsmarena.com/week_38_in_review-news-55918.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/week-in-review/-952x498w6/gsmarena_006.jpg",
+      "publishedAt": "2022-09-25T22:12:01Z",
+      "content": "Welcome to our recap of the biggest headlines from week 38.\r\nThe Apple iPhone 14 fever is still here we saw the regular iPhone 14 pass a durability test where it fared quite well. The 14 Pro models h… [+3466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hardwaretimes.com"
+      },
+      "author": "Areej",
+      "title": "Here is Why the NVIDIA RTX 4080 12GB is an Overpriced RTX 4070 Ti - Hardware Times",
+      "description": "NVIDIA announced its RTX 40 series GPUs earlier this month to a moderate to lukewarm welcome. The RTX 4090 looks like a proper flagship with the RTX 4080 16GB holding its own, but its 12GB sibling is a bit of an abomination. Featuring the AD103 die, it packs …",
+      "url": "https://www.hardwaretimes.com/here-is-why-the-nvidia-rtx-4080-12gb-is-an-overpriced-rtx-4070-ti/",
+      "urlToImage": "https://v6m6x4a4.rocketcdn.me/wp-content/uploads/2022/09/Screenshot-2022-09-22-at-02-24-13-Slide-1-NVIDIA_Editors_Day_Session_1.pdf.png",
+      "publishedAt": "2022-09-25T22:09:17Z",
+      "content": "NVIDIA announced its RTX 40 series GPUs earlier this month to a moderate to lukewarm welcome. The RTX 4090 looks like a proper flagship with the RTX 4080 16GB holding its own, but its 12GB sibling is… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Dustin Bailey",
+      "title": "WotLK release time - here's when Wrath Classic goes live - Gamesradar",
+      "description": "The WoW Classic expansion launches in a matter of hours",
+      "url": "https://www.gamesradar.com/wotlk-release-time-heres-when-wrath-classic-goes-live/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4PdXkaqoqkEnq5Z9G6kF6Q-1200-80.jpg",
+      "publishedAt": "2022-09-25T22:00:33Z",
+      "content": "Wrath of the Lich King Classic is shortly set to go live for World of Warcraft, and as usual Blizzard has provided precise details on the WotLK release time so you'll know exactly when you can log in… [+1499 chars]"
     },
     {
       "source": {
@@ -34,233 +86,181 @@
         "name": "Digital Trends"
       },
       "author": "Sandy Writtenhouse",
-      "title": "How to sign a PDF on Mac - Digital Trends",
-      "description": "You don’t need a special application or third-party software to sign a document on Mac. Using the built-in Preview app, here’s how to sign a PDF on Mac.",
-      "url": "https://www.digitaltrends.com/computing/how-to-sign-a-pdf-on-mac/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/09/MacBook-Preview-Signed-PDF.jpg?p=1",
-      "publishedAt": "2022-09-24T22:00:38Z",
-      "content": "As a Mac user, youre likely familiar with Preview as the default app for viewing images. But this handy application gives you an easy way to sign documents, too. You can create and save a signature u… [+2894 chars]"
+      "title": "How to use Google Spaces - Digital Trends",
+      "description": "Have a work conversation, family chat, or huddle with your pals. We’ll show you how to use Google Spaces for group conversations, sharing files, and more.",
+      "url": "https://www.digitaltrends.com/computing/how-to-use-google-spaces/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Google-Chat-Google-Spaces-MacBook.jpg?p=1",
+      "publishedAt": "2022-09-25T22:00:08Z",
+      "content": "If youre looking for a free, convenient spot to chat with your team, family, or coworkers, check out Google Spaces. You can access Google Spaces from Google Chat and Gmail, create spaces that are lik… [+5601 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "XDA Developers"
       },
-      "author": "Victor",
-      "title": "Samsung patents dual under-display camera system for facial recognition - GSMArena.com news - GSMArena.com",
-      "description": "The document also mentions measuring pupil diameter and change for extra security.",
-      "url": "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/samsung-dual-udc-facial-recognition/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2022-09-24T21:30:01Z",
-      "content": "Samsung might be working on a rather interesting system for facial recognition. One that involves two under-display cameras. It is described in a patent application Samsung filed with the KIPRIS (Kor… [+1784 chars]"
+      "author": "Kishan Vyas",
+      "title": "Does the Apple iPhone 14 series have dual-frequency GPS? - XDA Developers",
+      "description": "The iPhone 14 Pro and iPhone 14 Pro Max are the first iPhones to offer dual-frequency GPS. Read on to know more.",
+      "url": "https://www.xda-developers.com/apple-iphone-14-gps-support/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/09/XDA-14.jpg",
+      "publishedAt": "2022-09-25T22:00:00Z",
+      "content": "The iPhone 14 Pro and iPhone 14 Pro Max debut several exciting features that are not found on the standard iPhone 14 and iPhone 14 Plus. For one, theres a Dynamic Island which cleverly uses the new p… [+1870 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "Motorbiscuit.com"
       },
-      "author": "Graham Smith",
-      "title": "GOG's End Of Summer sale has discounts on some classic games - Rock Paper Shotgun",
-      "description": "GOG's End Of Summer sale is underway, and there are deep discounts on some fantastic games - and you're bound not to have played all of them.",
-      "url": "https://www.rockpapershotgun.com/gogs-end-of-summer-sale-has-discounts-on-some-classic-games",
-      "urlToImage": "https://assets2.rockpapershotgun.com/what-remains-of-edith-finch-diary.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/what-remains-of-edith-finch-diary.jpg",
-      "publishedAt": "2022-09-24T21:09:15Z",
-      "content": "Sales are ten a penny these days, but GOG's End Of Summer sale contains several stone cold classics. I'm looking at the list and there's bound to be something on here that you always meant to get rou… [+1021 chars]"
+      "author": null,
+      "title": "The 2024 Ford Mustang Hybrid Is Dead - MotorBiscuit",
+      "description": "Enthusiasts are hungry for a potent V8. And others want an electrified alternative. The solution to both could've been a 2024 Ford Mustang hybrid.",
+      "url": "https://www.motorbiscuit.com/2024-ford-mustang-hybrid-dead/",
+      "urlToImage": "https://www.motorbiscuit.com/wp-content/uploads/2022/09/2024-Ford-Mustang-Hybrid.jpg?w=1200",
+      "publishedAt": "2022-09-25T21:54:00Z",
+      "content": "It’s official: The 2024 Ford Mustang is coming. The iconic muscle car surges into the future with modern lines, innovative tech, and fresh metals. But what about horsepower? Enthusiasts are hungry fo… [+3454 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MacRumors"
       },
-      "author": "Mission Z",
-      "title": "Mission Z Fashion Plans to lead the new Mars space race by constructing the first colony on Mars - Yahoo Finance",
-      "description": "The Mission Z Company is committed to making humans a multi-planetary species. Mission Z will lead the new Mars space race by constructing the first colony...",
-      "url": "https://finance.yahoo.com/news/mission-z-fashion-plans-lead-205900876.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/27b6MpUgVGmKsR8q3M30sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/globenewswire.com/b32493f3c58a76f06641ccfb00f01bc2",
-      "publishedAt": "2022-09-24T20:59:00Z",
-      "content": "The Mission Z Company is committed to making humans a multi-planetary species. Mission Z will lead the new Mars space race by constructing the first colony on Mars in the year 2042\r\nNew York, NY, Sep… [+2742 chars]"
+      "author": "Sami Fathi",
+      "title": "YouTuber Tests Apple Watch Ultra Durability With a Hammer: Table Breaks Before the Watch - MacRumors",
+      "description": "A YouTuber has put Apple's claims for the durability of the Apple Watch Ultra to the test by putting it up against a drop test, a jar of nails,...",
+      "url": "https://www.macrumors.com/2022/09/25/youtube-tests-apple-watch-ultra-hammer/",
+      "urlToImage": "https://images.macrumors.com/t/0gGrRcXr_gqLfGsSuWXQIoA_GB8=/1600x/article-new/2022/09/apple-watch-ultra-hammer-test-1.jpg",
+      "publishedAt": "2022-09-25T21:27:41Z",
+      "content": "A YouTuber has put Apple's claims for the durability of the Apple Watch Ultra to the test by putting it up against a drop test, a jar of nails, and repeated hits with a hammer to test the sapphire cr… [+1452 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AppleInsider"
+        "name": "Tom's Guide"
       },
-      "author": "Malcolm Owen",
-      "title": "Mozilla rampages over a lack of browser choice - AppleInsider",
-      "description": "Mozilla has taken aim at Apple, Google, and Microsoft, declaring in a report that operating systems make it too hard for other browsers, such as Firefox, to be used on the platforms they control.",
-      "url": "https://appleinsider.com/articles/22/09/24/mozilla-rampages-over-a-lack-of-browser-choice",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/50522-99425-46050-89634-000-lead-Firefox-95-xl-xl.jpg",
-      "publishedAt": "2022-09-24T20:51:54Z",
-      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3399 chars]"
+      "author": "Sanjana Prakash",
+      "title": "Apple October event in doubt — new MacBook Pros and iPad Pros reportedly getting quiet launch - Tom's Guide",
+      "description": "Apple tipped to launch Macs and iPad Pros in a press release",
+      "url": "https://www.tomsguide.com/news/apple-october-event-now-in-doubt-new-macbook-pros-and-ipad-pros-could-reportedly-get-quiet-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EwQVwMEZYJpcYQn8KDXXUi-1200-80.png",
+      "publishedAt": "2022-09-25T21:20:57Z",
+      "content": "Apple launched a whole host of products at its recent September event — including the iPhone 14 series, Apple Watch 8 a new Apple Watch Ultra model and AirPods Pro 2. But a rumored Apple October even… [+2289 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dot Esports"
+        "name": "TweakTown"
       },
-      "author": "Christian Harrison",
-      "title": "The chrome in Fortnite may soon effect POIs - Dot Esports",
-      "description": "This could really shake up where players land",
-      "url": "https://dotesports.com/fortnite/news/the-chrome-in-fortnite-may-soon-effect-pois/",
-      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/24151227/FdcQ-AbWYAckcmN-768x461.jpeg",
-      "publishedAt": "2022-09-24T20:42:32Z",
-      "content": "Fortnite is currently one of the most popular games in the world, building itself into a platform that allows players to enjoy the game however they want. The battle royale is still the main focus of… [+1280 chars]"
+      "author": "Derek Strickland",
+      "title": "Sony's new lighter PS5 uses 6nm APU 'Oberon Plus' - TweakTown",
+      "description": "Sony's new lighter PlayStation 5 model is confirmed to feature a 6nm SoC codenamed Oberon Plus that will help Sony produce more PS5s in the long run.",
+      "url": "https://www.tweaktown.com/news/88596/sonys-new-lighter-ps5-uses-6nm-apu-oberon-plus/index.html",
+      "urlToImage": "https://static.tweaktown.com/news/8/8/88596_77_sonys-new-lighter-ps5-uses-6nm-apu-oberon-plus_full.png",
+      "publishedAt": "2022-09-25T21:08:18Z",
+      "content": "Our suspicions have been confirmed: Sony's new CFI-1202 line of PlayStation 5 console revisions use a new 6nm SoC.\r\nSony's new PlayStation 5 SoC has been upgraded to a new 6nm APU codenamed Oberon Pl… [+1855 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Stereogum"
+        "name": "Mixed-news.com"
       },
-      "author": "Rachel Brodsky",
-      "title": "Aphex Twin Releases Sample Matching App - Stereogum",
-      "description": "",
-      "url": "https://www.stereogum.com/2200652/aphex-twin-releases-sample-matching-app/news/",
-      "urlToImage": "https://static.stereogum.com/uploads/2022/09/Fdb2qn5XgAI5nJE-1664050922.jpeg",
-      "publishedAt": "2022-09-24T20:32:00Z",
-      "content": "Last we heard from Aphex Twin, Richard D. James released six songs on SoundCloud in 2020. Those followed 2014’s excellent comeback effort SYRO. Today, Warp Records has announced a new, free sound des… [+724 chars]"
+      "author": "Matthias Bastian",
+      "title": "Pico 4 revealed, Nvidia launches Omniverse Cloud & Sparrow is a more secure Deepmind chatbot - MIXED Reality News",
+      "description": "Our weekly recap: Bytedance company Pico officially introduces Pico 4. Nvidia also had a lot to talk about this week.",
+      "url": "https://mixed-news.com/en/pico-4-revealed-nvidia-launches-omniverse-cloud-sparrow-is-a-more-secure-deepmind-chatbot/",
+      "urlToImage": "https://mixed-news.com/en/wp-content/uploads/2022/09/news_der_woche_pico_4.jpg",
+      "publishedAt": "2022-09-25T20:48:36Z",
+      "content": "Our weekly recap: Bytedance company Pico officially introduces Pico 4. Nvidia also had a lot to talk about this week.\r\nPico 4 Hands-on and all the facts\r\nPico is attacking Meta’s VR business with its… [+2597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Sony PlayStation 5 consoles now ship with smaller 6nm AMD SoC called \"Oberon Plus\" - VideoCardz.com",
+      "description": "PlayStation 5 gets 6nm SoC According to Angstronomics, a third model of PS5 console codenamed “CFI-1202” comes with a smaller SoC called “Oberon Plus”.  The latest variant of the Sony console features an updated SoC manufactured using TSMC 6nm process technol…",
+      "url": "https://videocardz.com/newz/sony-playstation-5-consoles-now-ship-with-smaller-6nm-amd-soc-called-oberon-plus",
+      "urlToImage": "https://cdn.videocardz.com/1/2022/09/SONY-OBERON-PLUS-HERO.jpg",
+      "publishedAt": "2022-09-25T20:48:00Z",
+      "content": "According to Angstronomics, a third model of PS5 console codenamed CFI-1202 comes with a smaller SoC called Oberon Plus. \r\nThe latest variant of the Sony console features an updated SoC manufactured … [+1394 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Notebookcheck.net"
       },
-      "author": "Enrico Frahn",
-      "title": "Budget-friendly MSI Alpha 17 gaming laptop with AMD Ryzen 7 5800H and Radeon RX 6600M on sale with a steep US$459 discount - Notebookcheck.net",
-      "description": "A rather rare all-AMD configuration of the 17-inch budget gaming laptop from MSI can now be ordered for a heavily discounted sale price of just US$840, which massively improves the price-to-performance ratio of the MSI Alpha 17.",
-      "url": "https://www.notebookcheck.net/Budget-friendly-MSI-Alpha-17-gaming-laptop-with-AMD-Ryzen-7-5800H-and-Radeon-RX-6600M-on-sale-with-a-steep-US-459-discount.657143.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/MSI_Alpha_17_inch_gaming_laptop_AMD_Ryzen_Radeon_deal_sale.jpg",
-      "publishedAt": "2022-09-24T20:27:59Z",
-      "content": "Large 17-inch notebooks aren't exactly the first choice for adventurous gamers who like to take their gaming laptop everywhere they go, but these machines are perfectly suited as a more or less stati… [+1518 chars]"
+      "author": "Deirdre O'Donnell",
+      "title": "Vivo X Fold Plus is certifed as an 11W wireless charger - Notebookcheck.net",
+      "description": "Vivo's impending new foldable Android flagship smartphone the Vivo X Fold Plus (or Fold+) has popped up on the Wireless Power Consortium's website. The new leak links the device to 11 watt (W) wireless charging, which, as its predecessor was rated to charge m…",
+      "url": "https://www.notebookcheck.net/Vivo-X-Fold-Plus-is-certifed-as-an-11W-wireless-charger.657317.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/wp_1664091386589.jpg",
+      "publishedAt": "2022-09-25T20:39:28Z",
+      "content": "Vivo will not launch its second foldable smartphone until tomorrow (September 26, 2022); however, leaks surrounding the probably super-premium Android device are still coming thick and fast. Many of … [+736 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Vikki Blake",
+      "title": "PUBG Mobile's anti-cheat tech system halves x-ray vision cheaters - Gamesradar",
+      "description": "\"Nothing is more important than ensuring players have a safe, fun and fair experience\"",
+      "url": "https://www.gamesradar.com/pubg-mobiles-anti-cheat-tech-system-halves-x-ray-vision-cheaters/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z6czZtophYBgG8ku5TwVqH-1200-80.jpg",
+      "publishedAt": "2022-09-25T20:07:16Z",
+      "content": "PUBG Mobile – the widely popular miniature version of the original battle royale game – has introduced a new anti-cheating tech that it says has halved the number of cheaters playing the mobile shoot… [+2608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Lloyd Coombes",
+      "title": "Save almost $500 on this powerful HP Omen 16-inch Laptop at Best Buy - Livescience.com",
+      "description": "Whether you need it for gaming, programming, or a bit of both, this powerful HP Omen laptop is cheaper than we’ve seen it before.",
+      "url": "https://www.livescience.com/save-500-dollars-on-this-powerful-hp-omen-16-inch-laptop-at-best-buy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uwNxo7K62RGpuaZy2cjLFN-1200-80.jpg",
+      "publishedAt": "2022-09-25T20:05:04Z",
+      "content": "They say the early bird gets the worm, but if you’ve been looking for a back-to-school deal on a powerhouse laptop for gaming and creative work, then Best Buy may just have you covered.\r\nAs part of a… [+2066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
       },
       "author": null,
-      "title": "Return to Monkey Island Walkthrough - Part 1 A Friendly Place (2/3) - IGN",
-      "description": "In this Return to Monkey Island walkthrough we continue Part 1 A Friendly Place on hard mode. This video is the second of three videos covering Part 1. For more tips and Walkthoughs check out our written guide at https://www.ign.com/wikis/return-to-monkey-isl…",
-      "url": "https://www.ign.com/videos/return-to-monkey-island-walkthrough-part-1-a-friendly-place-23",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/24/part-1-2-1663988623301.jpg?width=1280",
-      "publishedAt": "2022-09-24T20:27:24Z",
-      "content": "In this Return to Monkey Island walkthrough we continue Part 1 A Friendly Place on hard mode. This video is the second of three videos covering Part 1. \r\nFor more tips and Walkthoughs check out our w… [+64 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "Return to Monkey Island Walkthrough - Part 3 Return to Monkey Island (2/2) - IGN",
-      "description": "In this Return to Monkey Island walkthrough we finish Part 3 Return to Monkey Island on hard mode. This video is the second of two covering Part 3. For more tips and Walkthoughs check out our written guide at https://www.ign.com/wikis/return-to-monkey-island",
-      "url": "https://www.ign.com/videos/return-to-monkey-island-walkthrough-part-3-return-to-monkey-island-22",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/24/part-3-2-1663988773277.jpg?width=1280",
-      "publishedAt": "2022-09-24T20:27:24Z",
-      "content": "In this Return to Monkey Island walkthrough we finish Part 3 Return to Monkey Island on hard mode. This video is the second of two covering Part 3. \r\nFor more tips and Walkthoughs check out our writt… [+60 chars]"
+      "title": "Intel 13th Gen Core \"Raptor Lake\" CPUs show up on Amazon UK, Core i9-13900KF for 750 GBP - VideoCardz.com",
+      "description": "Possible Intel 13th Gen Core pricing in UK Intel next-gen Intel desktop CPUs are to be unveiled next week, but apparently is not stopping large retailers from listing the series sooner. Over at Amazon UK, it was possible to find a number of Raptor Lake proces…",
+      "url": "https://videocardz.com/newz/intel-13th-gen-core-raptor-lake-cpus-show-up-on-amazon-uk-core-i9-13900kf-for-750-gbp",
+      "urlToImage": "https://cdn.videocardz.com/1/2022/09/INTEL-RAPTOR-LAKE-HERO2.jpg",
+      "publishedAt": "2022-09-25T20:02:00Z",
+      "content": "Intel next-gen Intel desktop CPUs are to be unveiled next week, but apparently is not stopping large retailers from listing the series sooner.\r\nOver at Amazon UK, it was possible to find a number of … [+1950 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "Digital Trends"
       },
-      "author": "Graham Smith",
-      "title": "Diablo 2 Resurrected's latest patch introduces Terror Zones - Rock Paper Shotgun",
-      "description": "Diablo 2 Resurrected's latest patch introduces Terror Zones, and there are other changes on the horizon.",
-      "url": "https://www.rockpapershotgun.com/diablo-2-resurrecteds-latest-patch-introduces-terror-zones",
-      "urlToImage": "https://assets2.rockpapershotgun.com/diablo-2-resurrected-cutscene-marius.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-2-resurrected-cutscene-marius.jpg",
-      "publishedAt": "2022-09-24T20:22:43Z",
-      "content": "\"Terror Zones\" sounds like a Stephen King TV show from the early '00s, but it's not. They're a new feature added to Diablo 2: Resurrected in the just-released patch 2.5, which is designed to make the… [+1337 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "Return to Monkey Island Walkthrough - Part 4 Things Get Complicated (4/4) - IGN",
-      "description": "In this Return to Monkey Island walkthrough we complete Part 4 Things Get Complicated on hard mode. This video is the fourth of four covering Part 4. For more tips and Walkthoughs check out our written guide at https://www.ign.com/wikis/return-to-monkey-island",
-      "url": "https://www.ign.com/videos/return-to-monkey-island-walkthrough-part-4-things-get-complicated-44",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/24/part-4-4-1663988841632.jpg?width=1280",
-      "publishedAt": "2022-09-24T20:17:27Z",
-      "content": "In this Return to Monkey Island walkthrough we complete Part 4 Things Get Complicated on hard mode. This video is the fourth of four covering Part 4. \r\nFor more tips and Walkthoughs check out our wri… [+62 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "Return to Monkey Island Walkthrough - Part 5 Beneath the Monkey Head - IGN",
-      "description": "In this Return to Monkey Island walkthrough we complete Part 5 Beneath the Monkey Head on hard mode. 00:00 Beneath the Monkey Head Part 5 Start05:34 First Ring of Monkey Statues08:05 Second Ring of Monkey Statues10:00 Third Ring of Monkey Statues12:34 Final P…",
-      "url": "https://www.ign.com/videos/return-to-monkey-island-walkthrough-part-5-beneath-the-monkey-head",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/24/part-5-yt-1663989025043.jpg?width=1280",
-      "publishedAt": "2022-09-24T20:17:05Z",
-      "content": "In this Return to Monkey Island walkthrough we complete Part 5 Beneath the Monkey Head on hard mode. \r\n00:00 Beneath the Monkey Head Part 5 Start\r\n05:34 First Ring of Monkey Statues\r\n08:05 Second Rin… [+200 chars]"
+      "author": "Mark Coppock",
+      "title": "HP Spectre x360 13.5 vs. Lenovo Yoga 9i Gen 7: premium 2-in-1 showdown - Digital Trends",
+      "description": "The HP Spectre x360 13.5 and the Lenovo Yoga 9i Gen 7 are two of the best convertible 2-in-1s available. There's just enough difference to pick a winner.",
+      "url": "https://www.digitaltrends.com/computing/hp-spectre-x360-13-vs-lenovo-yoga-9i-gen-7/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/08/hp-spectre-x360-2022-1.jpg?p=1",
+      "publishedAt": "2022-09-25T20:00:39Z",
+      "content": "The convertible 2-in-1 laptop market has two obvious leaders. There’s the HP Spectre x360 13.5 and the Lenovo Yoga 9i Gen 7, both of which have shown up on our list of best laptops overall because of… [+10894 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Inverse"
       },
-      "author": "Daniel R Deakin",
-      "title": "Titanic Intel Core i9-13900K vs AMD Ryzen 9 7950X clash incoming as Raptor Lake takes command of PassMark's single-thread performance chart - Notebookcheck.net",
-      "description": "A powerful run by the Intel Core i9-13900K on PassMark’s desktop CPU single-thread performance chart has signposted an upcoming colossal battle between the Raptor Lake chip and Zen 4’s best: the AMD Ryzen 9 7950X. The i9-13900K took a commanding lead in the c…",
-      "url": "https://www.notebookcheck.net/Titanic-Intel-Core-i9-13900K-vs-AMD-Ryzen-9-7950X-clash-incoming-as-Raptor-Lake-takes-command-of-PassMark-s-single-thread-performance-chart.656387.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Intel_Core_i9_13900K_vs_AMD_Ryzen_9_7950X_drdNBC.jpg",
-      "publishedAt": "2022-09-24T20:09:34Z",
-      "content": "The Raptor Lake Intel Core i9-13900K processor has been spotted by APISAK on the PassMark CPU single-thread performance benchmark chart. The 24-core, 32-thread processor showed some teeth in its test… [+1680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Stephen Ogier",
-      "title": "Minimal Tic Tac Toe Business Card - Hackaday",
-      "description": "The PCB business card has long been a way for the aspiring electronics engineer to set themself apart from their peers. Handing out a card that is also a two player game is a great way to secure a …",
-      "url": "https://hackaday.com/2022/09/24/minimal-tic-tac-toe-business-card/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2022/09/TTTBusinessCard2_Featured_bright.png",
-      "publishedAt": "2022-09-24T20:00:00Z",
-      "content": "The PCB business card has long been a way for the aspiring electronics engineer to set themself apart from their peers. Handing out a card that is also a two player game is a great way to secure a co… [+1052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dot Esports"
-      },
-      "author": "Blaine Polhamus",
-      "title": "10x, 100x, and 333x Battles in Splatfest explained - Dot Esports",
-      "description": "All clout multipliers, explained.",
-      "url": "https://dotesports.com/splatoon/news/10x-100x-and-333x-battles-in-splatfest-explained/",
-      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/18235828/splatoon-3-ssssssssssss-1-768x432.png",
-      "publishedAt": "2022-09-24T19:59:14Z",
-      "content": "Splatfest has come to Splatoon 3 for the first time since the game’s launch and will bring slight variations onto mechanics from previous Splatoon games. Splatfest is a fan favorite game mode that no… [+1592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "App Trigger"
-      },
-      "author": "Matthew Liebl",
-      "title": "Overwatch 2 Season One Premium Battle pass price, rewards and more - App Trigger",
-      "description": "Overwatch 2 is set to launch on October 4th. As the sequel to Blizzard's team-based shooter is set to be completely free-to-play, most of the money spent w...",
-      "url": "https://apptrigger.com/2022/09/24/overwatch-2-season-one-battle-pass/",
-      "urlToImage": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fapptrigger.com%2Ffiles%2F2022%2F09%2FOverwatch-2-Battle-Pass-2.jpeg",
-      "publishedAt": "2022-09-24T19:44:00Z",
-      "content": "Overwatch 2 is set to launch on October 4th. As the sequel to Blizzard’s team-based shooter is set to be completely free-to-play, most of the money spent will be on cosmetics, which can be obtained t… [+4234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shacknews"
-      },
-      "author": "Ozzie Mejia",
-      "title": "Oxenfree 2: Lost Signals release date slips into 2023 - Shacknews",
-      "description": "The sequel from Night School Studio won't be in before the end of the year, but there's a new way to play the original.",
-      "url": "https://www.shacknews.com/article/132423/oxenfree-2-lost-signals-2023-release-date-delay",
-      "urlToImage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/09/24/oxenfree-2-choice-based_feature.jpg",
-      "publishedAt": "2022-09-24T19:35:00Z",
-      "content": "The sequel from Night School Studio won't be in before the end of the year, but there's a new way to play the original.\r\nIt was a pleasant surprise to see that Night School Studio had begun work on a… [+1288 chars]"
+      "author": "Joseph Yaden",
+      "title": "'Rise of the Ronin' release window, trailer, and gameplay for Team Ninja's samurai epic - Inverse",
+      "description": "Sony revealed a new open-world action RPG called 'Rise of the Ronin' during the September 2022 State of Play. Here's what we know about it.",
+      "url": "https://www.inverse.com/gaming/rise-of-the-ronin-game-release-date-trailer-team-ninja-gameplay",
+      "urlToImage": "https://imgix.bustle.com/uploads/image/2022/9/23/6681e798-930e-498f-acef-a56b4a9e5a64-rise-of-ronan-featured.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2022-09-25T20:00:25Z",
+      "content": "One of the\r\n highlights of the September 2022 State of Play was the announcement for Rise of the Ronin, an all-new action game in the works at Team Ninja. This open-world action RPG sends players to … [+2935 chars]"
     }
   ]
 }
