@@ -1,240 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 819,
+  "totalResults": 818,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Forbes"
       },
-      "author": null,
-      "title": "Potential Halloween candy shortage speculated - WLFITV",
-      "description": "Some Halloween candy buckets may not be as full as they were in previous years, according to a professor from Purdue University.",
-      "url": "https://www.youtube.com/watch?v=RP1kVq9lTTw",
-      "urlToImage": "https://i.ytimg.com/vi/RP1kVq9lTTw/maxresdefault.jpg",
-      "publishedAt": "2022-10-10T22:33:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo Australia"
-      },
-      "author": null,
-      "title": "Tech News: 5 Things to Know in Australia Today - Gizmodo Australia",
-      "description": "From Tom Cruise heading to space to an upcoming Microsoft Surface event, here are five things headlining tech news today in Australia.",
-      "url": "https://www.gizmodo.com.au/2022/10/tech-news-australia-5-things-to-know-37/",
-      "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/10/11/surface.png?quality=80&resize=1280,720",
-      "publishedAt": "2022-10-10T22:22:00Z",
-      "content": "Good morning, hope you’re well. Here are five things happening in the tech/climate world today we thought you should know.\r\n1. YouTube handles are go\r\nYouTube has today introduced handles, touted by … [+3305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "wknd."
-      },
-      "author": null,
-      "title": "Samsung’s Galaxy S23 smartphone to get battery upgrade over predecessor - Khaleej Times",
-      "description": "The S23 Ultra is rumoured to have a similar design and dimensions as the S22 Ultra; the camera is expected to see a 200MP sensor update",
-      "url": "https://www.khaleejtimes.com/tech/samsungs-galaxy-s23-smartphone-to-get-battery-upgrade-over-predecessor",
-      "urlToImage": "https://image.khaleejtimes.com?uuid=b12c7b6e-8f65-5705-ab8e-c2ae09c9d110&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87866&x=0&y=0&width=1200&height=675",
-      "publishedAt": "2022-10-10T22:20:43Z",
-      "content": "The S23 Ultra is rumoured to have a similar design and dimensions as the S22 Ultra; the camera is expected to see a 200MP sensor update\r\nPublished: Tue 11 Oct 2022, 2:20 AM\r\nSouth Korean tech giant S… [+1190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Brendan Lowry",
-      "title": "Overwatch 2: How to get and transfer Legacy Credits, and how to spend them - Windows Central",
-      "description": "Legacy Credits are a useful currency in Overwatch 2, but how can you get some? Here's what you need to know.",
-      "url": "https://www.windowscentral.com/gaming/overwatch-2-how-to-get-and-transfer-legacy-credits-and-how-to-spend-them",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kxoWyG3aLdS9AdYiZNbKk8-1200-80.png",
-      "publishedAt": "2022-10-10T22:18:45Z",
-      "content": "In addition to obtaining rewards from Overwatch 2's Battle Pass, players can also acquire them by using some of the game's various currencies. One of these is Legacy Credits, which represent Overwatc… [+3275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Drive.com.au"
-      },
-      "author": null,
-      "title": "2023 Audi RS Q3 Edition 10 Years revealed - Drive - Drive",
-      "description": "Audi is celebrating 10 years of high-performance five-cylinder Q3 small SUVs with a new special edition, limited to 555 cars worldwide.",
-      "url": "https://www.drive.com.au/news/2023-audi-rs-q3-edition-10-years-revealed/",
-      "urlToImage": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/yj3qed9gznixlscukzcd",
-      "publishedAt": "2022-10-10T22:05:22Z",
-      "content": "Orders for the 2023 Audi RS Q3 Edition 10 Years will open in Germany at the end of October, priced from 5990 ($AU8900) above the base price of 69,000 ($AU105,700) for the standard RS Q3, or 70,500 ($… [+34 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Ian Sherr",
-      "title": "Fortnite Maker Epic Games Says Google Pushed Competitors Not To Launch App Stores - CNET",
-      "description": "It's no secret the tech world is ruthless about competition, but Epic told a court Google's actions are anti-competitive.",
-      "url": "https://www.cnet.com/tech/mobile/fortnite-maker-epic-games-says-google-pushed-competitors-not-to-launch-app-stores/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/138021958457bd18ffeee2efe7badbaf142bc391/hub/2022/04/25/35860825-2272-44de-a44c-994ee486f3ea/fortnite-logo-2022-812.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-10-10T21:53:50Z",
-      "content": "Epic Games, which makes the hit game Fortnite, has accused Google of more antitrust behavior, claiming the tech giant \"paid off developers with the means, capability and desire\" to lunch competing ap… [+1720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Ryan McNamara",
-      "title": "Still Using iMessage? Push Protocol Launches New Web3 Communication Layer On Polygon - Matic Network (MA - Benzinga",
-      "description": "Communication in Web3 has relied heavily on Web2 services such as Discord, Telegram, and Twitter — until now. Push Protocol launched its wallet communication service Push Chat at Devcon today (Oct.10).",
-      "url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29196578/still-using-imessage-push-protocol-launches-new-web3-communication-layer-on-polygon",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/09/screen_shot_2022-10-09_at_6.50.54_pm.png?width=1200&height=800&fit=crop",
-      "publishedAt": "2022-10-10T21:45:22Z",
-      "content": "Communication in Web3 has relied heavily on Web2 services such as Discord, Telegram, and Twitter  until now. Push Protocol launched its wallet communication service Push Chat at Devcon today (Oct.10)… [+4019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurefive.co.nz"
-      },
-      "author": "Quentin Guillot",
-      "title": "Hands-on review: Lenovo ThinkPad Z13 Gen 1 - FutureFive New Zealand",
-      "description": "Lenovo is a constant innovation that delivers premium computers. With its famous range of business-based laptops, ThinkPad.",
-      "url": "https://futurefive.co.nz/story/hands-on-review-lenovo-thinkpad-z13-gen-1",
-      "urlToImage": "https://futurefive.co.nz/uploads/story/2022/10/11/compatible_laptop1.jpg",
-      "publishedAt": "2022-10-10T21:45:00Z",
-      "content": "Lenovo is a constant innovation that delivers premium computers. With its famous range of business-based laptops, ThinkPad. The brand provides devices with incredible features. In today’s review, we … [+2095 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Timi Cantisano",
-      "title": "Apple releases watchOS 9.0.2, fixes Spotify, microphone issue, and more - XDA Developers",
-      "description": "Apple has released watchOS 9.0.2, featuring fixes for Spotify, the unstable microphone, and syncing issues for Wallet and Fitness.",
-      "url": "https://www.xda-developers.com/watchos-9-0-2/",
-      "urlToImage": "https://www.xda-developers.com/files/2022/06/watchOS9-watchface-apple-watch463346346.jpg",
-      "publishedAt": "2022-10-10T21:42:00Z",
-      "content": "Today, Apple released iOS 16.0.3 to the public, bringing many bug fixes and improvements to the iPhone 14 Pro Max and iPhone 14 Pro. In addition to the iOS update, Apple also delivered a new update f… [+1686 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedvoxel.com"
-      },
-      "author": "Muhammad Ali Bari",
-      "title": "Overwatch 2 PS5 vs Xbox Series X Graphics Comparison: Which Platform Is Best? - Twisted Voxel",
-      "description": "Overwatch 2 is now available for both the PS5 and Xbox Series X. Which console manages to stay ahead in terms of resolution and frame rate?",
-      "url": "https://twistedvoxel.com/overwatch-2-ps5-vs-xbox-series-x-graphics-comparison/",
-      "urlToImage": "https://twistedvoxel.com/wp-content/uploads/2019/11/overwatch-2-announced.png",
-      "publishedAt": "2022-10-10T21:35:29Z",
-      "content": "Overwatch 2 is now available for both the PS5 and Xbox Series X. If you’re on the fence about which version manages to stay ahead of its competitor in terms of resolution and frame rate, read ahead.\r… [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Oli Welsh",
-      "title": "Persona 3 and 4 finally get release date for Switch, PC, PS5 and Xbox - Polygon",
-      "description": "The classic handheld JRPGs have had limited availability since Persona 3 Portable and Persona 4 Golden were on PSP and Vita, with only the latter available on Steam. That changes on Jan. 19, 2023 with a release on current gen platforms and Game Pass",
-      "url": "https://www.polygon.com/23396858/persona-3-4-switch-xbox-pc-ps5-release-date",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wKOmbnbR-X_10jN5-ZmwT9vw_PI=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20025180/Persona_4_Golden_PC_Lunch_Box_Guide.png",
-      "publishedAt": "2022-10-10T21:27:48Z",
-      "content": "Atlus classic games Persona 3 Portableand Persona 4 Golden arrive on modern platforms on Jan. 19, 2023. Atlus confirmed the news in a tweet.\r\nThe two games will be released for Nintendo Switch, PlayS… [+1143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Aaron Mamiit",
-      "title": "Don’t miss your chance to get a Dell 27-inch monitor for $150 - Digital Trends",
-      "description": "This 27-inch Dell monitor is yours for $150, less than half its original price after a $160 discount, as part of Dell's Black Friday Pricing Sale.",
-      "url": "https://www.digitaltrends.com/dtdeals/dell-s2721hn-monitor-deal-dell-october-2022/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/11/dell-monitor-u2719d-pdp-1.jpg?p=1",
-      "publishedAt": "2022-10-10T21:25:17Z",
-      "content": "If you need to buy a new monitor, the good news is that Amazon’s Prime Day deals are back in the Prime Early Access Sale, or better known as October Prime Day. Rival retailers like Dell are also roll… [+1880 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Anil Ganti",
-      "title": "MediaTek Dimensity 9000+ powered iQOO Neo 7 makes Geekbench debut - Notebookcheck.net",
-      "description": "A new Geekbench listing has confirmed that the upcoming iQOO Neo 7 smartphone will pack a MediaTek Dimensity 9000+ SoC. Some of its other key specs include a 50 MP primary sensor and an 8 MP periscope telephoto lens.",
-      "url": "https://www.notebookcheck.net/MediaTek-Dimensity-9000-powered-iQOO-Neo-7-makes-Geekbench-debut.661040.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/iqoo_Neo_7_header.jpg",
-      "publishedAt": "2022-10-10T21:24:28Z",
-      "content": "MediaTek's newest Dimensity 9000+ SoC made quite a splash by propelling the Asus ROG Phone 6D to the top of AnTuTu's performance charts. The high-end mobile AP was rumoured to power iQOO's upcoming i… [+1325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mandurahmail.com.au"
-      },
-      "author": "Emma Horn",
-      "title": "Do viewers need to be warned before watching movies and TV shows that fail to portray sexual consent? - Mandurah Mail",
-      "description": "Many of our favourite movies, TV shows and characters fail to display appropriate consent. So, should viewers be...",
-      "url": "https://www.mandurahmail.com.au/story/7936536/the-problem-with-rom-coms-do-movies-and-tv-shows-normalise-lack-of-consent/",
-      "urlToImage": "https://www.mandurahmail.com.au/images/transform/v1/crop/frm/Emma.Horn/d7c7afdb-4594-4171-b04b-3eccd0e7df72.jpg/r0_36_1920_1044_w1200_h630_fmax.jpg",
-      "publishedAt": "2022-10-10T21:18:56Z",
-      "content": "More than half of Australian film and TV watchers are unable to identify when a non-consensual act occurs on their screen.\r\nSydney-based not-for-profit Consent Labs has launched a petition to the Cla… [+4520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Polly Allcock",
-      "title": "SENBONO smartwatch with alleged blood pressure and heart rate monitors arrives - Notebookcheck.net",
-      "description": "The SENBONO smartwatch is available worldwide via AliExpress. The product listing claims that the wearable monitors your heart rate, blood pressure and oxygen level. You can receive smartphone notifications via Bluetooth, which also enables music playback and…",
-      "url": "https://www.notebookcheck.net/SENBONO-smartwatch-with-alleged-blood-pressure-and-heart-rate-monitors-arrives.660947.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/SENBONO.png",
-      "publishedAt": "2022-10-10T21:11:10Z",
-      "content": "A new SENBONO smartwatch is now available globally via AliExpress. The wearable has a 1.83-in (~46 mm) rectangular display with a 240 x 284 px resolution. You can connect the wearable to your smartph… [+1134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hot Hardware"
-      },
-      "author": "Zak Killian",
-      "title": "Lenovo GeForce RTX 3060 With GDDR6X Surfaces, Could There Be A Refresh? - Hot Hardware",
-      "description": "Given renewed competition, a refresh of NVIDIA's lower-end cards might makes sense after all.",
-      "url": "https://hothardware.com/news/lenovo-rtx-3060-gddr6x-could-there-be-a-refresh",
-      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/59834/content/geforce-rtx-lenovo.jpg",
-      "publishedAt": "2022-10-10T21:11:00Z",
-      "content": "When NVIDIA announced the Ada Lovelace-based GeForce RTX 4000 family, it was very clear about the fact that GeForce RTX 3000 cards based on its Ampere architecture aren't going anywhere anytime soon.… [+3084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "Intel teases NUC 13 Extreme \"Raptor Canyon\" with 3-slot desktop GPU support - VideoCardz.com",
-      "description": "Intel shows off its new gaming NUC The company will share more details on the most powerful NUC called Raptor Canyon very soon.  Intel NUC 13 Extreme Raptor Canyon, Source: Intel At TwitchCon Intel showcased its upcoming NUC 13 Extreme modular PC codenamed Ra…",
-      "url": "https://videocardz.com/newz/intel-teases-nuc-13-extreme-raptor-canyon-with-3-slot-desktop-gpu-support",
-      "urlToImage": "https://cdn.videocardz.com/1/2022/10/INTEL-NUC-13-EXTREME-HERO-1.jpg",
-      "publishedAt": "2022-10-10T21:07:00Z",
-      "content": "The company will share more details on the most powerful NUC called Raptor Canyon very soon. \r\nIntel NUC 13 Extreme Raptor Canyon, Source: Intel\r\nAt TwitchCon Intel showcased its upcoming NUC 13 Extr… [+1496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Lauren Leffer",
-      "title": "YouTube Handles Could Squash Imposter Channels - Gizmodo",
-      "description": "The Google platform is rolling out handles to help creators share and tag content, but the move may also boost the platform's security.",
-      "url": "https://gizmodo.com/youtube-google-handles-1849639666",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1e5cd304ba1075e4ecc023d0824d942a.png",
-      "publishedAt": "2022-10-10T21:05:00Z",
-      "content": "YouTube is headed further down the TikTok-ification rabbit hole, but this time it could be kind of a good thing. The Google-owned video platform is introducing handles, a not-so-new, new way for crea… [+2691 chars]"
+      "author": "Kris Holt",
+      "title": "‘Overwatch 2’ Players Will Get Some Free Stuff To Make Up For The Rough Launch — But Not Much - Forbes",
+      "description": "Don't expect to get a free premium Battle Pass or any in-game currency.",
+      "url": "https://www.forbes.com/sites/krisholt/2022/10/11/overwatch-2-players-will-get-some-free-stuff-to-make-up-for-the-rough-launch---but-not-much/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6345edd63d1b4fcd28de06a9/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-10-11T22:28:42Z",
+      "content": "Overwatch 2 health pack Weapon Charm\r\nBlizzard Entertainment\r\nMany Overwatch 2 players (and those who havent even been able to get into a server yet) have been wondering what Blizzard will do to make… [+2858 chars]"
     },
     {
       "source": {
@@ -242,25 +21,246 @@
         "name": "Kotaku"
       },
       "author": "Claire Jackson",
-      "title": "Right Now Is A Great Time To Jump Into No Man's Sky - Kotaku",
-      "description": "The latest No Man’s Sky update lets you massively adjust the travel, survival, and crafting requirements. Here’s how",
-      "url": "https://kotaku.com/no-mans-sky-4-0-patch-notes-relaxed-mode-twitch-drops-1849639850",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0cdbc249ab58929dd0d19950b11f9720.jpg",
-      "publishedAt": "2022-10-10T21:05:00Z",
-      "content": "No Mans Skys latest update, dubbed Waypoint, allows you to tweak the games difficulty in a wide variety of ways, making the game easier or more challenging in key areas. This has the happy side effec… [+9097 chars]"
+      "title": "16 Incredible Steam Deck Custom Start Animations - Kotaku",
+      "description": "Make your Steam Deck show hit TV show intros and classic console animations when you turn it on",
+      "url": "https://kotaku.com/steam-deck-boot-cyberpunk-fallout-dragonball-z-gamecube-1849644839",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/258088cb6d56d7f8e65e17fc41fea2f4.jpg",
+      "publishedAt": "2022-10-11T22:20:00Z",
+      "content": "Setting a custom boot animation on Steam Deck is slightly more involved than just accessing a menu option, as youll need to dive into the file structure in desktop mode. But its quite easy. The basic… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Super People – Official Early Access Trailer - IGN",
+      "description": "Super People has officially launched today into Early Access. Available globally through Steam. In order to commemorate the start of the Early Access, for on...",
+      "url": "https://www.youtube.com/watch?v=Y8TTMdMntDM",
+      "urlToImage": "https://i.ytimg.com/vi/Y8TTMdMntDM/maxresdefault.jpg",
+      "publishedAt": "2022-10-11T22:11:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Need for Speed Unbound ‘The World is Your Canvas’ gameplay trailer, screenshots - Gematsu",
+      "description": "Publisher Electronic Arts and developer Criterion Games have released a new gameplay video for Need for Speed Unbound showcasing the game's driving effects. Get the latest details below.",
+      "url": "https://www.gematsu.com/2022/10/need-for-speed-unbound-the-world-is-your-canvas-gameplay-trailer-screenshots",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/10/NFS-Unbound_10-11-22.jpg",
+      "publishedAt": "2022-10-11T22:11:12Z",
+      "content": "Get the latest details below.Need for Speed Unbound fulfills your need for speed, but in a way that’s unique and tailored to you.\r\nLet’s be clear, you can still whip around hyper-realistic cars in br… [+3292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Cuphead physical edition launches December 6 - Gematsu",
+      "description": "The Cuphead physical edition, including the downloadable content \"The Delicious Last Course,\" will launch for PlayStation 4, Xbox One, and Switch on December 6, publisher iam8bit and developer Studio…",
+      "url": "https://www.gematsu.com/2022/10/cuphead-physical-edition-launches-december-6",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/10/Cuphead_2022_10-11-22_008-1920x1080.jpg",
+      "publishedAt": "2022-10-11T22:11:12Z",
+      "content": "The Cuphead physical edition, including the downloadable content “The Delicious Last Course,” will launch for PlayStation 4, Xbox One, and Switch on December 6, publisher iam8bit and developer Studio… [+900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Google Pixel Watch gets three years of updates, Samsung Galaxy Watch5 gets four - GSMArena.com news - GSMArena.com",
+      "description": "Starting with Wear OS 3, each manufacturer can have their own policy.",
+      "url": "https://www.gsmarena.com/google_pixel_watch_gets_three_years_of_updates_samsung_galaxy_watch5_gets_four-news-56123.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/pixel-watch-details/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-10-11T22:01:13Z",
+      "content": "Google's Pixel Watch and Samsung's Galaxy Watch5 may be based on the same Wear OS 3.x platform, but they won't get the same level of software support. According to a very revealing Wired interview wi… [+2014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "2023 BMW M2 - All Your Questions Answered - BMWBLOG",
+      "description": "The new 2023 BMW M2 is finally here! But ahead of the launch, we traveled to Munich to film the G87 M2 behind closed doors. We were joined by Sebastian Maier...",
+      "url": "https://www.youtube.com/watch?v=kH6s4bstEZg",
+      "urlToImage": "https://i.ytimg.com/vi/kH6s4bstEZg/maxresdefault.jpg",
+      "publishedAt": "2022-10-11T22:00:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Seth G. Macy",
+      "title": "Target is Selling Clam-Flavored Mayonaise with a Cards Against Humanity Card Pack Fully Submerged Inside - IGN - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/target-is-selling-clam-flavored-mayonaise-with-a-cards-against-humanity-card-pack-fully-submerged-inside",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/11/clamthumb-1665523405521.png?width=1280",
+      "publishedAt": "2022-10-11T21:46:53Z",
+      "content": "Update 10/11/22, 6pm ET: Clam-o-Naise, too good for this world, has sold out.\r\nWe live in an incredible era where we no longer need to spend our days pondering what mixing mayonnaise and clams would … [+1416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": null,
+      "title": "Sonnet Echo Dual NVMe Dock review: Port extension & storage for your desktop Mac - AppleInsider",
+      "description": "The Sonnet Echo Dual NVMe Thunderbolt Dock promises fast storage and expanded connectivity for your Mac, but a lack of enough power to the host computer pares down the overall utility a bit.",
+      "url": "https://appleinsider.com/articles/22/10/11/sonnet-echo-dual-nvme-dock-review-port-extension-storage-for-your-desktop-mac",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/49568-100267-sonnetlead-xl.jpg",
+      "publishedAt": "2022-10-11T21:38:39Z",
+      "content": "Sonnet's Echo Dual NVMe Dock\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe Sonnet Echo Dual NVMe Thunderbolt Dock promises fast storage and expanded… [+8850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Twitter might be about to ruin how users interact with hashtags - 9to5Mac",
+      "description": "Hashtags are everywhere these days. But when it comes to Twitter, they’re an essential part of how the social network functions. However, it seems that Twitter has been considering changing how users interact with hashtags – and that might ruin them. This cou…",
+      "url": "https://9to5mac.com/2022/10/11/twitter-about-to-ruin-hashtags/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Twitter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-10-11T21:38:00Z",
+      "content": "Hashtags are everywhere these days. But when it comes to Twitter, they’re an essential part of how the social network functions. However, it seems that Twitter has been considering changing how users… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Amanda Kooser",
+      "title": "Watch Astronaut Walk Up ISS Wall in '2001: A Space Odyssey' Grip Shoes - CNET",
+      "description": "Samantha Cristoforetti proves the Velcro footwear from Stanley Kubrick's masterpiece work in real space life.",
+      "url": "https://www.cnet.com/science/space/watch-astronaut-walk-up-iss-wall-in-2001-a-space-odyssey-grip-shoes/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7c65ac1a7c657b0be526dc834297d8a2d9c631ca/hub/2022/10/07/1f96dbf2-0cf7-490b-a62a-5291874fb530/2001screenshot.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-10-11T21:36:00Z",
+      "content": "European Space Agency astronaut Samantha Cristoforetti contains multitudes. The current International Space Station resident has been a Star Trek captain, a hotshot pilot from Battlestar Galactica an… [+1696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iPhone Ownership Among Teens Hits 87%, More Than Double Since 2012 - MacRumors",
+      "description": "Apple devices and services continue to be the most popular options among teenagers in the United States, according to new data shared today by...",
+      "url": "https://www.macrumors.com/2022/10/11/teen-survey-iphone-ownership/",
+      "urlToImage": "https://images.macrumors.com/t/pu5D9N15e4jEyLjv75wdOzsJEFc=/2500x/article-new/2022/09/iphone-14-gold.jpg",
+      "publishedAt": "2022-10-11T21:33:35Z",
+      "content": "Apple devices and services continue to be the most popular options among teenagers in the United States, according to new data shared today by investment firm Piper Sandler in its biannual teen surve… [+1322 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Ashim",
-      "title": "New Electro Titan in Clash of Clans October update: Housing space, special aura, training time, and more details - Sportskeeda",
-      "description": "The most significant Town Hall update of Clash of Clans was rolled out on Monday, October 10, and fans welcomed the much-anticipated TH15.",
-      "url": "https://www.sportskeeda.com/esports/new-electro-titan-clash-clans-october-update-housing-space-special-aura-training-time-details",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/10/31980-16654343710880-1920.jpg",
-      "publishedAt": "2022-10-10T21:01:06Z",
-      "content": "The most significant Town Hall update of Clash of Clans was rolled out on Monday, October 10, and fans welcomed the much-anticipated TH15. Although the October 2022 update's highlight was Town Hall 1… [+2982 chars]"
+      "author": "Sarthak Chauhan",
+      "title": "Fortnite Chapter 3 Season 4 has a haunted house - Sportskeeda",
+      "description": "Spooktober is here and Fortnite is getting eerier by the day.",
+      "url": "https://www.sportskeeda.com/fortnite/fortnite-chapter-3-season-4-haunted-house",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/10/b335e-16654843530098-1920.jpg",
+      "publishedAt": "2022-10-11T21:31:00Z",
+      "content": "Spooktober is here and Fortnite is getting eerier by the day. The game is popular for its established predisposition towards Halloween and everything spooky and stretches beyond the annual Fortnitema… [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": null,
+      "title": "Amazon Prime Day Nintendo Switch sales live: save on games, accessories and consoles today - Gamesradar",
+      "description": "We're bringing you all the biggest Amazon Prime Nintendo Switch sales as soon as they happen",
+      "url": "https://www.gamesradar.com/news/live/amazon-prime-day-nintendo-switch-sales-live-save-on-games-accessories-and-consoles-today/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwEFNnDvHDC8okioswSkpi-1200-80.jpeg",
+      "publishedAt": "2022-10-11T21:25:40Z",
+      "content": "2022-10-11T21:25:39.813ZRazer Barracuda X gaming headset, now $59.99 (was $99.99) at Amazon (opens in new tab)\r\n(Image credit: Future)\r\nThe Razer Barracuda X is among our favorite Nintendo Switch hea… [+7475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Network World"
+      },
+      "author": "Sandra Henry-Stocker",
+      "title": "Using functions in bash to selectively run a group of Linux commands - Network World",
+      "description": "Bash functions can group related commands in Linux and run them as frequently or infrequently as needed. They can also make scripts more readable by organizing commands by the roles they play.",
+      "url": "https://www.networkworld.com/article/3676280/using-functions-in-bash-to-selectively-run-a-group-of-linux-commands.html",
+      "urlToImage": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/06/21/rocket-image-article-2-100933141-large.jpg?auto=webp&quality=85,70",
+      "publishedAt": "2022-10-11T21:23:00Z",
+      "content": "Using a function in bash allows you to create something in Linux that works as if it were a script within a script. Whenever the data being processed matches a set of conditions, your script can call… [+3031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Matthew Wilkins",
+      "title": "Fortnite has a secret hiding spot that's almost like cheating, find it here - Sportskeeda",
+      "description": "There's no shortage of secret hiding spots or 'rat' spots in Fortnite.",
+      "url": "https://www.sportskeeda.com/fortnite/fortnite-secret-hiding-spot-almost-like-cheating-find",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/10/22cf0-16654557536983-1920.jpg",
+      "publishedAt": "2022-10-11T21:19:00Z",
+      "content": "There's no shortage of secret hiding spots or 'rat' spots in Fortnite. For players who know the layout of the island like the back of their palm, escaping from opponents or making a quick getaway is … [+2740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "author": null,
+      "title": "Samsung Further Expands Health and Wellness Ecosystem with Even More Connected and Diverse Health Services - Samsung",
+      "description": "Samsung’s expanded developer tool stack supports more accurate health monitoring, preventative safety in driving, medical research and deeper wellness insights",
+      "url": "https://news.samsung.com/ca/samsung-further-expands-health-and-wellness-ecosystem-with-even-more-connected-and-diverse-health-services",
+      "urlToImage": "https://img.global.news.samsung.com/ca/wp-content/uploads/2022/10/Health_Platforms_PR_thumb728-726x410.jpg",
+      "publishedAt": "2022-10-11T21:04:31Z",
+      "content": "Samsungs expanded developer tool stack supports more accurate health monitoring, preventative safety in driving, medical research and deeper wellness insights \r\nSamsung Electronics unveiled a series … [+5992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Den of Geek US"
+      },
+      "author": "Matthew Byrd",
+      "title": "Overwatch 2 Ranking System Explained: How to Unlock Competitive Mode - Den of Geek",
+      "description": "Competitive play is the heart of the Overwatch 2 experience, but before you can start working your way through the ranks, you need to overcome a different kind of challenge.",
+      "url": "https://www.denofgeek.com/games/overwatch-2-ranking-system-explained-how-to-unlock-competitive-play/",
+      "urlToImage": "https://www.denofgeek.com/wp-content/uploads/2022/10/Overwatch-2-ranked.jpg",
+      "publishedAt": "2022-10-11T20:59:00Z",
+      "content": "Overwatch 2: How To Unlock Competitive Mode\r\nIn the original Overwatch, players couldnt participate in Competitive Mode until they reached level 25 (out of 50). Since levels are no longer a thing in … [+2140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "Where Can You Buy an Nvidia RTX 4090 on Launch Day? - PCMag",
+      "description": "The graphics card goes on sale on Wednesday, Oct. 12, likely in the early morning. Here's a list of retailers that'll carry various models of the RTX 4090, which starts at $1,599.",
+      "url": "https://www.pcmag.com/news/where-can-you-buy-an-nvidia-rtx-4090-on-launch-day",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/04UMVMYoQi1GYKfFgat3ucz-1.fit_lim.size_1200x630.v1665505185.jpg",
+      "publishedAt": "2022-10-11T20:55:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Haley Henschel",
+      "title": "Nintendo's new Pokémon Scarlet & Violet Edition OLED Switch is available for pre-order now - Mashable",
+      "description": "Amazon and Target are the only two stores that have it available for pre-order.",
+      "url": "https://mashable.com/article/nintendo-switch-oled-pokemon-scarlet-violet-edition",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01GLUxwQqizLurPSyVgrxdt/hero-image.fill.size_1200x675.v1663598931.png",
+      "publishedAt": "2022-10-11T20:54:38Z",
+      "content": null
     }
   ]
 }
