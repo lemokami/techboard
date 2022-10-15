@@ -1,175 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 778,
+  "totalResults": 803,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "10 Cutting Edge Features to Expect From Apple's Upcoming AR/VR Headset - MacRumors",
+      "description": "Apple next year is planning to enter a new product category, launching its first mixed reality headset. Rumors indicate that the upcoming headset...",
+      "url": "https://www.macrumors.com/2022/10/14/apple-ar-vr-headset-features/",
+      "urlToImage": "https://images.macrumors.com/t/1ZjGCy9t65PxnQjt09BL_o6oGLg=/3840x/article-new/2021/12/apple-ar-headset-concept-1.jpeg",
+      "publishedAt": "2022-10-14T22:09:26Z",
+      "content": "Apple next year is planning to enter a new product category, launching its first mixed reality headset. Rumors indicate that the upcoming headset will support both AR and VR technology, and that it w… [+5539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jason Fanelli",
+      "title": "Pokemon Go Elite Raids Will Offer An Extra Challenge… If You Can Get To Them - GameSpot",
+      "description": "These new raids cannot be challenged remotely.",
+      "url": "https://www.gamespot.com/articles/pokemon-go-elite-raids-will-offer-an-extra-challenge-if-you-can-get-to-them/1100-6508310/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4049395-eliteraid.jpeg",
+      "publishedAt": "2022-10-14T22:07:52Z",
+      "content": "Pokemon Go players will soon have a new challenge to pursue (literally), as Niantic has announced Elite Raids, a brand-new type of raid that can only be challenged in-person.\r\nElite Raids are special… [+1299 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "At home with The Block's Shaynna Blaze | Domain - Domain",
-      "description": "Take a tour through the 1880s Melbourne terrace where The Block's Shaynna Blaze works and lives.Subscribe to Domain: https://bit.ly/2n17LeqTo read the articl...",
-      "url": "https://www.youtube.com/watch?v=RnzQ335JgKs",
-      "urlToImage": "https://i.ytimg.com/vi/RnzQ335JgKs/maxresdefault.jpg",
-      "publishedAt": "2022-10-13T22:30:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Christine Hall",
-      "title": "Daily Crunch: Google holographic video chat booth, Project Starline, finds its way into the real world - TechCrunch",
-      "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "url": "https://techcrunch.com/2022/10/13/daily-crunch-google-holographic-video-chat-booth-project-starline-finds-its-way-into-the-real-world/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/starline-hero.png",
-      "publishedAt": "2022-10-13T22:06:12Z",
-      "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nWe just keep getting more excited about Disrupt, but it turns out t… [+2907 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Samsung SmartThings hubs will be upgraded to Matter this month - The Verge",
-      "description": "Samsung is one of the first companies to gain Matter certification and says it will update its SmartThings hubs and dongles to support the new smart home standard as soon as this month. But they won’t bridge Zigbee and Z-Wave devices into Matter.",
-      "url": "https://www.theverge.com/2022/10/13/23400462/samsung-smartthings-matter-upgrade-hubs",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AVPv0cpOjrqCudEST8kAruJo6MU=/0x0:800x511/1200x628/filters:focal(400x256:401x257)/cdn.vox-cdn.com/uploads/chorus_asset/file/24106259/smartthings_hub_packaging__1x.jpeg",
-      "publishedAt": "2022-10-13T22:03:06Z",
-      "content": "Samsung SmartThings is now Matter certified\r\nSamsung SmartThings is now Matter certified\r\n / Samsung says it will update its SmartThings hubs and dongles to support Matter this month, its newer hubs … [+6430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo Australia"
-      },
-      "author": null,
-      "title": "Targeted Billboard Ads Are a Privacy Nightmare - Gizmodo Australia",
-      "description": "Advertisers are using insights gleaned from targeted digital advertising and applying it to create physical billboards capable of serving up...",
-      "url": "https://www.gizmodo.com.au/2022/10/targeted-billboard-ads-are-a-privacy-nightmare/",
-      "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/10/14/57a62a3380772f4513a610614bcba2c6.jpg?quality=80&resize=1280,720",
-      "publishedAt": "2022-10-13T21:50:00Z",
-      "content": "Advertisers are using insights gleaned from targeted digital advertising and applying it to create physical billboards capable of serving up tailored advertisements catered to the types of people vie… [+6935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Mack DeGeurin",
-      "title": "Targeted Billboard Ads Are a Privacy Nightmare - Gizmodo",
-      "description": "A new report details ways advertisers are taking lessons learned from mobile ads to create intimately targeted ads in the physical world.",
-      "url": "https://gizmodo.com/billboards-facial-recognition-privacy-targeted-ads-1849655599",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/57a62a3380772f4513a610614bcba2c6.jpg",
-      "publishedAt": "2022-10-13T21:50:00Z",
-      "content": "Advertisers are using insights gleaned from targeted digital advertising and applying it to create physical billboards capable of serving up tailored advertisements catered to the types of people vie… [+7177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sound Guys"
-      },
-      "author": null,
-      "title": "What is eARC and how does it compare to HDMI ARC? - Sound Guys",
-      "description": "HDMI ARC and eARC make it easy to connect your home theater, but there are some differences to be aware of with surround sound.",
-      "url": "https://www.soundguys.com/earc-explained-vs-hdmi-arc-78931/",
-      "urlToImage": "https://sgatlas.wpengine.com/wp-content/uploads/2022/09/HDMI_4-scaled.jpg",
-      "publishedAt": "2022-10-13T21:37:58Z",
-      "content": "HDMI cables have been around for some time, and youre likely already familiar with them. These cables make connecting up your home theater, soundbar, or any other recent AV equipment a breeze. Howeve… [+6996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Drive.com.au"
-      },
-      "author": null,
-      "title": "2023 BMW M2: M Performance Parts leaked - Drive - Drive",
-      "description": "Days after BMW revealed the new M2, images of the sports coupe's official performance parts catalogue have appeared online.",
-      "url": "https://www.drive.com.au/news/2023-bmw-m2-performance-parts-revealed/",
-      "urlToImage": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/qys5lqtzrodbpe9j3gxh",
-      "publishedAt": "2022-10-13T21:37:40Z",
+      "title": "Good News For Modern Warfare 2 Players On Console | GameSpot News - GameSpot",
+      "description": "Activision clears up the Call of Duty: Modern Warfare 2 phone number requirement and Gotham Knights confirms a 4-Player mode.#GamingNews #CallofDuty #ModernW...",
+      "url": "https://www.youtube.com/watch?v=U9vVW2yUoxU",
+      "urlToImage": "https://i.ytimg.com/vi/U9vVW2yUoxU/maxresdefault.jpg",
+      "publishedAt": "2022-10-14T22:00:22Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Robot Report"
+        "name": "InfoQ.com"
       },
-      "author": "Brianna Wessling",
-      "title": "Stanford researchers create robotic boot that helps people walk - Robot Report",
-      "description": "Engineers at Stanford University have created a boot-like robotic exoskeleton that can increase walking speed and reduce walking effort.",
-      "url": "https://www.therobotreport.com/stanford-researchers-create-robotic-boot-that-helps-people-walk/",
-      "urlToImage": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-exoskeleton.jpg",
-      "publishedAt": "2022-10-13T21:33:16Z",
-      "content": "Engineers at Stanford University have created a boot-like robotic exoskeleton that can increase walking speed and reduce walking effort in the real world outside of the lab. The team’s research was p… [+2121 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": null,
-      "title": "BMW’s new weapon in fight with Tesla - news.com.au",
-      "description": "<p><a href=\"https://www.news.com.au/technology/motoring/luxury/2023-bmw-xm-plugin-hybrid-suv-revealed-confirmed-for-australia/news-story/7c2375ba51951720835426122d7e9db4\" data-tgev=\"event119\" data-tgev-container=\"bodylink\" data-tgev-order=\"7c2375ba51951720835…",
-      "url": "https://www.news.com.au/technology/motoring/motoring-news/bmw-brings-mobile-gaming-to-the-fight-with-tesla/news-story/c299825f64791a72070e0616e650bed8",
-      "urlToImage": "https://content.api.news/v3/images/bin/84ec9e4ebc68dc595f75c97b24e264c9",
-      "publishedAt": "2022-10-13T21:29:52Z",
-      "content": "BMW owners will be able to play video games using in-car displays from 2023, giving the brand a new advantage over luxury rivals.\r\nA partnership with AirConsole will allow passengers to use their mob… [+1414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Zachary McAuliffe",
-      "title": "Twitter Could Soon Let You Control Who Mentions You - CNET",
-      "description": "A version of the controls were found by an app researcher and engineer.",
-      "url": "https://www.cnet.com/tech/services-and-software/twitter-could-soon-let-you-control-who-mentions-you/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/11df19c4cc1af2bf607461bdf6729643ad312353/hub/2022/04/15/a7ff6653-559d-4bf8-a382-0981d10379b9/twitter-logo-2022-219.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-10-13T21:23:00Z",
-      "content": "You could soon have more control over who can mention you on Twitter. App researcher and engineer Jane Manchun Wong found a version of an unreleased Twitter feature that lets you control who can and … [+1001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Prasad",
-      "title": "Sony launches ZV-1F compact camera for vloggers and content creators - GSMArena.com news - GSMArena.com",
-      "description": "Features a 1.0-type sensor and a fixed 20mm wide angle lens.",
-      "url": "https://www.gsmarena.com/sony_launches_zv1f_compact_camera_for_vloggers_and_content_creators-news-56157.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/sony-zv-1f/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2022-10-13T21:21:02Z",
-      "content": "Sony has launched its second vlogger friendly camera in its ZV series, the ZV-1F. Compared to the ZV-1, the ZV-1F drops a bunch of features for a lower price and simpler operation.\r\nThe ZV-1F feature… [+1696 chars]"
+      "author": "Tomasz Nurkiewicz",
+      "title": "Project Loom: Revolution in Java Concurrency or Obscure Implementation Detail? - InfoQ.com",
+      "description": "Tomasz Nurkiewicz explores what is Loom, how it's implemented, what problems does it solve, what are the shortcomings, and will it make reactive programming obsolete?",
+      "url": "https://www.infoq.com/presentations/loom-java-concurrency/",
+      "urlToImage": "https://res.infoq.com/presentations/loom-java-concurrency/en/mediumimage/Tomasz+Nurkiewicz-m-1665739004716.jpg",
+      "publishedAt": "2022-10-14T21:52:18Z",
+      "content": "Transcript\r\nNurkiewicz: I'd like to talk about Project Loom, a very new and exciting initiative that will land eventually in the Java Virtual Machine. Most importantly, I would like to briefly explai… [+37838 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "David Phelan",
-      "title": "Apple AirPods Pro 2 Suddenly Developing Serious Issues, Users Claim - Forbes",
-      "description": "The latest AirPods Pro are spectacular headphones. But some users are saying that the audio is going astray.",
-      "url": "https://www.forbes.com/sites/davidphelan/2022/10/13/apple-airpods-pro-2-suddenly-developing-serious-issues-users-claim/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/632cd0de9a68b96508dd5387/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-10-13T21:15:46Z",
-      "content": "Apple AirPods Pro second generation. \r\nDavid Phelan\r\nWhen Apple released its latest in-ear headphones, AirPods Pro second generation, the reviews were very positive (including here on Forbes). Astoni… [+1887 chars]"
+      "author": "Max Thielmeyer",
+      "title": "‘Mount & Blade II: Bannerlord’ Adds Steam Workshop Mod Support Ahead Of Official Release Date - Forbes",
+      "description": "Official mod support provides endless hours of fun to the medieval-style sandbox.",
+      "url": "https://www.forbes.com/sites/maxthielmeyer/2022/10/14/mount--blade-ii-bannerlord-adds-steam-workshop-mod-support-ahead-of-official-release-date/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6349d63d496402cb8eb5c03b/0x0.jpg?format=jpg&crop=1031,580,x335,y67,safe&width=1200",
+      "publishedAt": "2022-10-14T21:43:21Z",
+      "content": "Released into Steam Early Access almost 8 years after its announcement, Mount &amp; Blade II: Bannerlord was an immediate success. The medieval sandbox made good on its promises to expand and improve… [+2114 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "BankInfoSecurity.com"
       },
-      "author": "Zack Zwiezen",
-      "title": "Disney Dreamlight Valley's First Big Update Sees Scar Dropping Next Week - Kotaku",
-      "description": "The villainous big cat from The Lion King film will join other villagers like Mickey and Wall-E",
-      "url": "https://kotaku.com/disney-dreamlight-valley-scar-release-date-update-1849655636",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d927967f79b457f8deca245461c571c4.jpg",
-      "publishedAt": "2022-10-13T21:15:00Z",
-      "content": "Let me get the easy joke out of the way. Are yall preparedfor the next Disney character making their way to the popular Animal Crossing-like Dreamlight Valley? I hope so, because the evil and wicked … [+2301 chars]"
+      "author": null,
+      "title": "Windows Common Log File System Driver 0-Day Gets a Close-Up - BankInfoSecurity.com",
+      "description": "Probe deep enough into a once-obscure subsystem in the Windows operating system called the Common Log File System and you might come out the other end with system",
+      "url": "https://www.bankinfosecurity.com/windows-common-log-file-system-driver-0-day-gets-close-up-a-20268",
+      "urlToImage": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/windows-common-log-file-system-driver-0-day-gets-close-up-showcase_image-4-a-20268.jpg",
+      "publishedAt": "2022-10-14T21:12:27Z",
+      "content": "Endpoint Security\r\n ,\r\n Governance &amp; Risk Management\r\n ,\r\n Patch Management\r\nZscaler Researchers Probe File System Base Log File to Expose FlawPrajeet Nair (@prajeetspeaks) •\r\n October 14, 2022  … [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Anthony Alaniz",
+      "title": "2023 BMW M2 In Toronto Red Looks Stunning In Walkaround Video - Motor1 ",
+      "description": "A new walkaround video showcases the 2023 BMW M2 in Toronto Red, which will arrive in the US in April of 2023.",
+      "url": "https://www.motor1.com/news/616444/2023-bmw-m2-walkaround-video/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/W89YYL/s1/new-bmw-m2-walkaround-video-at-bmw-welt.jpg",
+      "publishedAt": "2022-10-14T21:11:00Z",
+      "content": "We will be seeing a lot more of the 2023 BMW M2 now that it has officially debuted. The car broke cover earlier this week but wont reach the US market until next April. While it will be months before… [+1896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Vishnu Sarangapurkar",
+      "title": "Google previews new Play Store redesign aimed at large screens for 2023 - Android Central",
+      "description": "Now we know what the Play Store will look like on the upcoming Google Pixel Tablet.",
+      "url": "https://www.androidcentral.com/apps-software/google-play-store-redesign-2023-large-screens",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/egGhBobZvQEMckiRx3mi3K-1200-80.jpg",
+      "publishedAt": "2022-10-14T21:02:24Z",
+      "content": "<ul><li>Google has new plans for its Play Store starting next year.</li><li>Ahead of the Pixel tablet release, Google is already working on a Play Store redesign.</li><li>The search giant showcases t… [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechRepublic"
+      },
+      "author": null,
+      "title": "April is the end of Exchange 2013: Here’s what you need to know - TechRepublic",
+      "description": "Review this guide on how to shut down Exchange Server 2013, including how to backup Exchange, alternative consoles and support resources.",
+      "url": "https://www.techrepublic.com/article/exchange-2013-is-shutting-down-in-april/",
+      "urlToImage": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/05/exchange-online-alias-tutorial.jpeg?x95853",
+      "publishedAt": "2022-10-14T20:59:00Z",
+      "content": "Image: PhotoGranary/Adobe Stock\r\nWhen it came out, Exchange Server 2013 removed a lot of deployment complexity. It could scale from a single server to the millions of mailboxes in Office 365.\r\nIt als… [+9778 chars]"
     },
     {
       "source": {
@@ -177,90 +125,142 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Apple Watch Ultra: Honest Long Term Review - AppleInsider",
-      "description": "It's been nearly a month using the Apple Watch Ultra. Has it been everything is was promised to be or did it fall flat once all the marketing hype ran dry......",
-      "url": "https://www.youtube.com/watch?v=P-yAdlwsoh0",
-      "urlToImage": "https://i.ytimg.com/vi/P-yAdlwsoh0/maxresdefault.jpg",
-      "publishedAt": "2022-10-13T21:11:17Z",
+      "title": "Checking Out the New iPhone Crash Detection Feature - Inside Edition",
+      "description": "Many are questioning if iPhone's new crash detention feature is too sensitive. Doug Sonders was riding his motorcycle when his iPhone flew off the handlebars...",
+      "url": "https://www.youtube.com/watch?v=0uLeSRFrpaA",
+      "urlToImage": "https://i.ytimg.com/vi/0uLeSRFrpaA/maxresdefault.jpg",
+      "publishedAt": "2022-10-14T20:57:49Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "2.5 Geeks Deep Dive Chat On NVIDIA GeForce RTX 4090 Ada Lovelace! - HotHardware",
-      "description": "HotHardware's Two And A Half Geeks answer your questions and put you in the know on all things NVIDIA's beastly GeForce RTX 4090 and RTX 40 Series, powered b...",
-      "url": "https://www.youtube.com/watch?v=YqyEmjCyfT0",
-      "urlToImage": "https://i.ytimg.com/vi/YqyEmjCyfT0/maxresdefault.jpg",
-      "publishedAt": "2022-10-13T21:02:15Z",
-      "content": null
+      "author": "Dave Johnson",
+      "title": "How to delete a VSCO account and cancel your subscription - Business Insider",
+      "description": "You can delete your VSCO account using your iPhone app or the VSCO website, but you'll have to cancel your subscription separately.",
+      "url": "https://www.businessinsider.com/guides/tech/how-to-delete-vsco-account",
+      "urlToImage": "https://i.insider.com/60abe1005e345700192652d3?width=1200&format=jpeg",
+      "publishedAt": "2022-10-14T20:57:07Z",
+      "content": "VSCO is a popular photo editing and sharing app, and you can use it to explore the work of other artists as well as help promote your own photos and videos. If you decide to stop using the app, howev… [+2260 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Lisa Eadicicco",
-      "title": "Move Over, Google: Samsung Wants to Reinvent the Phone Call, Too - CNET",
-      "description": "Samsung's Bixby virtual assistant will let you answer a phone call via text.",
-      "url": "https://www.cnet.com/tech/mobile/move-over-google-samsung-wants-to-reinvent-the-phone-call-too/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2668e96ffe8c03ac19b9cadd74c664a4ff3c2398/hub/2022/02/22/1c27500c-62d8-4746-a0a1-5ebb98cc230f/samsung-galaxy-s22-and-s22-plus-and-s22-ultra-compared-006.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-10-13T21:00:02Z",
-      "content": "Samsung is taking a page from the Google Pixel playbook with its upcoming One UI 5 software update, which will be adding a new way to take calls on Galaxy phones. The Bixby Text Call feature will bri… [+4844 chars]"
+      "author": "Corinne Reichert",
+      "title": "Here's the $25,000 Mario Kart Watch from TAG Heuer - CNET",
+      "description": "Don't worry, there's also a cheaper version -- for $4,300. Neither of them are smartwatches.",
+      "url": "https://www.cnet.com/tech/gaming/heres-the-25000-mario-kart-watch-from-tag-heuer/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/579cad9a82337b9dd9b7081bddb249dfa14e0d2e/hub/2022/10/13/7cb9074a-6b73-4076-9521-2ddb227ffc66/tourbillon-focus-caz5080-fc6517-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-10-14T20:56:00Z",
+      "content": "TAG Heuer has produced a Mario Kart luxury watch with Nintendo. The price tag? Well, there are two watches to choose from, depending on how accommodating your budget is: a $4,300 watch or a $25,600 v… [+1078 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "The Shure MV7 is a nearly perfect USB microphone - TechCrunch",
+      "description": "This Shure MV7 is the only USB mic I’ll be recommending for the foreseeable future. It's dead simple and sounds great.",
+      "url": "https://techcrunch.com/2022/10/14/the-shure-mv7-is-a-nearly-perfect-usb-microphone/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/MV7_White_Noir_Streaming_Model_Landscape_3.jpg?resize=1200,800",
+      "publishedAt": "2022-10-14T20:45:13Z",
+      "content": "Around late-September/early-October each year, I get a Slack message from Greg asking whether Im interested in writing a gift guide (or two). Sure, I say, never anticipating just how much of a slog t… [+4391 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PRNewswire"
+        "name": "PCGamesN"
+      },
+      "author": "Ken Allsop",
+      "title": "Valorant fans spot unfortunate coincidence with new agent Harbor - PCGamesN",
+      "description": "Valorant fans call out a rather unfortunate Riot naming coincidence in the competitive multiplayer FPS game thanks to its new agent Harbor and its latest map",
+      "url": "https://www.pcgamesn.com/valorant/fans-coincidence-pearl-harbor",
+      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/valorant-fans-spot-new-agent-harbor-pearl-map-coincidence.jpg",
+      "publishedAt": "2022-10-14T20:31:06Z",
+      "content": "Valorant fans have spotted a rather unfortunate coincidence with newcomer Harbor and one of the most recent maps introduced by Riot Games. The newest Valorant Agent Harbor has been unveiled, and the … [+2323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Apptest.ai Proves Efficacy with Fully Autonomous Mobile and Web Testing - PR Newswire",
-      "description": "/PRNewswire/ -- Apptest.ai is pleased to announce their strengthened global sales partnership with LG U+, one of the largest mobile carriers in Korea. The two...",
-      "url": "https://www.prnewswire.com/news-releases/apptestai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-301649035.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1920895/Apptest_ai_Logo.jpg?p=facebook",
-      "publishedAt": "2022-10-13T21:00:00Z",
-      "content": "SAN JOSE, Calif., Oct. 13, 2022 /PRNewswire/ -- Apptest.ai\r\n is pleased to announce their strengthened global sales partnership with LG U+\r\n, one of the largest mobile carriers in Korea. The two comp… [+2592 chars]"
+      "title": "11 Minutes Of Psyker Class | Warhammer Darktide 40000 Beta - GameSpot",
+      "description": "The Warhammer Darktide 40,000 closed beta is showing off new classes including Psyker, Ogryn, and Sharpshooter. In this gameplay clip we're showcasing an ear...",
+      "url": "https://www.youtube.com/watch?v=nHH-FMyRJTI",
+      "urlToImage": "https://i.ytimg.com/vi/nHH-FMyRJTI/maxresdefault.jpg",
+      "publishedAt": "2022-10-14T20:30:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dave Johnson",
+      "title": "How to set a hibernate time in Windows 11 - Business Insider",
+      "description": "You can set a hibernation time for your computer in Windows 11, though you might need to enable the feature first.",
+      "url": "https://www.businessinsider.com/guides/tech/set-hibernate-time-windows-11",
+      "urlToImage": "https://i.insider.com/623e9237093c4d0018052139?width=1200&format=jpeg",
+      "publishedAt": "2022-10-14T20:25:14Z",
+      "content": "Microsoft has been de-emphasizing the hibernation mode in Windows for years, perhaps to reduce confusion with the very similar sleep mode, which is available in the shutdown options. Even so, hiberna… [+3035 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Carsguide.com.au"
+        "name": "MacRumors"
       },
-      "author": null,
-      "title": "Porsche proves the 911 GT3 RS is a track-storming beast with blistering Nurburgring lap time - CarsGuide",
-      "description": "The incoming Porsche 911 GT3 RS has completed a blistering lap of the world's most iconic race track, setting a 6.49.328 time at the Nurburgring Nordschleife.Piloting the fourth-generation GT3 RS was German racer, and Porsche ambassador, J&ouml;rg Bergmeister,",
-      "url": "https://www.carsguide.com.au/car-news/porsche-proves-the-911-gt3-rs-is-a-track-storming-beast-with-blistering-nurburgring-lap",
-      "urlToImage": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/Porsche%20Nurburgring.jpg",
-      "publishedAt": "2022-10-13T20:57:46Z",
-      "content": "The incoming Porsche 911 GT3 RS has completed a blistering lap of the worlds most iconic race track, setting a 6.49.328 time at the Nurburgring Nordschleife.\r\nPiloting the fourth-generation 911 GT3 R… [+2062 chars]"
+      "author": "Juli Clover",
+      "title": "Video Review: One Week With the New iPhone 14 Plus - MacRumors",
+      "description": "Apple last Friday introduced the iPhone 14 Plus, a new 6.7-inch device that replaces the prior-generation iPhone 13 mini. The iPhone 14 Plus marks...",
+      "url": "https://www.macrumors.com/2022/10/14/iphone-14-plus-video-review/",
+      "urlToImage": "https://images.macrumors.com/t/gYHBQYpOckZ3KNAKwuWoa3gDk60=/3840x/article-new/2022/10/iPhone-14-Plus-Thumb.jpg",
+      "publishedAt": "2022-10-14T20:23:10Z",
+      "content": "Apple last Friday introduced the iPhone 14 Plus, a new 6.7-inch device that replaces the prior-generation iPhone 13 mini. The ‌iPhone 14‌ Plus marks the first time that Apple has sold a more affordab… [+1065 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Wrvo.org"
       },
-      "author": "Abner Li",
-      "title": "Full Google Play tablet and foldable design with rich homepages coming in 2023 - 9to5Google",
-      "description": "Google previewed a Play Store tablet redesign at I/O in May, and the most important aspect of it is coming in 2023...",
-      "url": "https://9to5google.com/2022/10/13/google-play-tablet-redesign/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/Google-Play-tablet-redesign.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-10-13T20:47:00Z",
-      "content": "Google previewed a Play Store tablet, foldable, and large screen redesign at I/O in May, and the most important aspect of it is coming in 2023.\r\nThe navigation rail component of the revamp launched i… [+2087 chars]"
+      "author": "Megan Lim, Rebecca Ramirez, Christopher Intagliata, Gisele Grayson, Mary Louise Kelly, Sacha Pfeiffer, Aaron Scott, Emily Kwong",
+      "title": "It's Short Wave's third birthday, so All Things Considered hosts test their knowledge - WRVO Public Media",
+      "description": "In honor of Short Wave's third birthday, hosts Aaron Scott and Emily Kwong quiz All Things Considered hosts about some of the many nuggets of information the science podcast has shared with listeners.",
+      "url": "https://www.wrvo.org/2022-10-14/its-short-waves-third-birthday-so-all-things-considered-hosts-test-their-knowledge",
+      "urlToImage": null,
+      "publishedAt": "2022-10-14T20:18:00Z",
+      "content": "In honor of Short Wave's third birthday, hosts Aaron Scott and Emily Kwong quiz All Things Considered hosts about some of the many nuggets of information the science podcast has shared with listeners… [+20 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "GamesRadar+"
       },
-      "author": "Benj Edwards",
-      "title": "DeepMind breaks 50-year math record using AI; new record falls a week later - Ars Technica",
-      "description": "AlphaTensor discovers better algorithms for matrix math, inspiring another improvement from afar.",
-      "url": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-matrix-math-760x380.jpg",
-      "publishedAt": "2022-10-13T20:46:42Z",
-      "content": "Enlarge/ A colorful 3x3 matrix.\r\n37 with 29 posters participating\r\nMatrix multiplication is at the heart of many machine learning breakthroughs, and it just got fastertwice. Last week, DeepMind annou… [+3997 chars]"
+      "author": "Austin Wood",
+      "title": "Old School Runescape players claim record 16 billion gold bounty after PvP stakeout 600 days in the making - Gamesradar",
+      "description": "You can quite literally buy anything with that kind of gold",
+      "url": "https://www.gamesradar.com/old-school-runescape-players-claim-record-16-billion-gold-bounty-after-pvp-stakeout-600-days-in-the-making/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VUPGGiooZX9BsUabuGeNzg-1200-80.jpg",
+      "publishedAt": "2022-10-14T20:17:34Z",
+      "content": "A group of Old School Runescape players successfully tracked down a famous content creator in the game's PvP mode to kill him and claim the biggest bounty in the history of the game: a staggering 16 … [+3846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Seth Kurkowski",
+      "title": "9to5Mac Daily: October 14, 2022 – AirPods Pro 2 bugs, Apple TV+ with ads? - 9to5Mac",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by WaterMinder: Wat…",
+      "url": "https://9to5mac.com/2022/10/14/9to5mac-daily-october-14-2022/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-10-14T20:16:00Z",
+      "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+973 chars]"
     }
   ]
 }
