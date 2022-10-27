@@ -1,201 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 755,
+  "totalResults": 743,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Batman-News"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Cam Lipham",
-      "title": "Batman: Gotham Knights - Gilded City - Batman-News",
-      "description": "Gotham Knights has been out for about a week ago, and I gotta say- I’m having a blast. The story is heartfelt and interesting, the characters, while a little different than their comic book c…",
-      "url": "https://batman-news.com/2022/10/25/batman-gotham-knights-gilded-city/",
-      "urlToImage": "https://i0.wp.com/batman-news.com/wp-content/uploads/2022/10/Batman-Gotham-Knights-Gilded-City-1-1.jpg?fit=781%2C1200&quality=80&strip=info&ssl=1",
-      "publishedAt": "2022-10-25T22:23:25Z",
-      "content": "Gotham Knights has been out for about a week ago, and I gotta say-\r\nIm having a blast. The story is heartfelt and interesting, the characters, while a little different than their comic book counterpa… [+2958 chars]"
+      "author": "Lily Hay Newman",
+      "title": "Apple MacOS Ventura Bug Breaks Third-Party Security Tools - WIRED",
+      "description": "Your anti-malware software may not work if you upgraded to the new operating system. But Apple says a fix is on the way.",
+      "url": "https://www.wired.com/story/apple-macos-ventura-bug-security-tools/",
+      "urlToImage": "https://media.wired.com/photos/635981d43d7842cc349a21f2/191:100/w_1280,c_limit/MacOS-Ventura-Security-GettyImages-1252420069.jpg",
+      "publishedAt": "2022-10-26T22:21:00Z",
+      "content": "The release ofApple's new macOS 13 Ventura operating system on October 24 brought a host of new features to Mac users, but it's also causing problems for those who rely on third-party security progra… [+3122 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "How to enable Google Assistant quick phrases on your Pixel phone to save time - ZDNet",
-      "description": "If you want a more efficient interaction with Google Assistant, you'll want to enable quick phrases.",
-      "url": "https://www.zdnet.com/article/how-to-enable-google-assistant-quick-phrases-on-your-pixel-phone-to-save-time/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bd2133334c660085c3b22d788a5c6475deb323a4/2022/10/18/6b06e222-5a4f-4798-878a-5decc68f5024/google-pixel-6a.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-10-25T22:23:25Z",
-      "content": "Google\r\nI use Google Assistant quite a bit on my Pixel phones. Being able to take care of certain tasks without having to type on that tiny keyboard makes my life considerably more efficient. \r\nBut w… [+2460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Drive.com.au"
+        "id": "techradar",
+        "name": "TechRadar"
       },
       "author": null,
-      "title": "tips and tricks for driving on sand - Drive",
-      "description": "Sand driving is a fun way to test your four-wheel-drive's capabilities, but comes with its own suite of unique challenges. Here are Drive's tips on how",
-      "url": "https://www.drive.com.au/caradvice/how-to-drive-on-sand-tips-and-tricks/",
-      "urlToImage": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/x4c4hl3nzcf3bbylymui",
-      "publishedAt": "2022-10-25T22:17:41Z",
-      "content": null
+      "title": "Hands-on Sony A7R V review: refined power? - TechRadar",
+      "description": "A full-frame beast with added polish and autofocus skills",
+      "url": "https://www.techradar.com/reviews/sony-a7r-v",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kjfNBVWTypgcXgU2yLr6pU-1200-80.jpg",
+      "publishedAt": "2022-10-26T22:14:43Z",
+      "content": "If you're a landscape, portrait or product photographer, you'll probably be familiar with Sony's A7R series – the Sony A7R V is the latest model in that high-end 'Resolution' range.\r\nIts predecessor,… [+12472 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Airline Ratings"
+        "name": "PureWow"
       },
-      "author": "Geoffrey Thomas",
-      "title": "Firey Show Of Northern Lights Over Quebec From 747 Cockpit - Airline Ratings",
-      "description": "A firey show of the northern lights has been captured over Quebec by 747 Captain Christiaan van Heijst and his copilot",
-      "url": "https://www.airlineratings.com/featured/firey-show-northern-lights-quebec-747-captain/",
-      "urlToImage": "https://www.airlineratings.com/wp-content/uploads/uploads/313011303_10160584174392090_8794268085795294250_n.jpg",
-      "publishedAt": "2022-10-25T22:08:26Z",
-      "content": "Sky on Fire.\r\nA firey show of the northern lights has been captured over Quebec by 747 Captain Christiaan van Heijst.\r\nSubscribe to the Airlineratings.com newsletter to get the relevant news first\r\nV… [+3216 chars]"
+      "author": "Dana Dickey",
+      "title": "The Samsung The Frame TV is On Super-Sale for Samsung Week - PureWow",
+      "description": "The Samsung The Frame TV is a designer favorite with its high performance and great looks—and it's up to $1,000 off during Samsung Week.",
+      "url": "https://www.purewow.com/home/samsung-the-frame-samsung-week-sale",
+      "urlToImage": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/10/samsung-the-frame-sale-universal.jpg?fit=1175%2C630",
+      "publishedAt": "2022-10-26T21:45:22Z",
+      "content": "The Samsung the Frame TV is a fan favorite for its good looks, great TV picture quality and range of sizes, from the bedroom-compatible 32 inches to the massive family-room anchoring 85 inches. And t… [+1134 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Kotaku"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Sisi Jiang",
-      "title": "Report: After Sony, Microsoft Wants Its Own Genshin Impact Now - Kotaku",
-      "description": "It seems Microsoft regrets failing to acquire HoYoverse’s hit RPG",
-      "url": "https://kotaku.com/genshin-impact-microsoft-playstation-hoyoverse-1849701955",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c91d58d89721e3e0fcf618b656499cad.jpg",
-      "publishedAt": "2022-10-25T22:00:00Z",
-      "content": "I was today years old when I found out that Microsoft tried to turn Genshin Impact into an Xbox console exclusive. According to sources, its failure to do so is one of the big reasons why the publish… [+2338 chars]"
+      "author": "Andrea Shearon",
+      "title": "The Xbox Adaptive Controller Was Almost Canceled Before Teams Across Microsoft Rebelled - IGN",
+      "description": "Microsoft's Xbox Adaptive Controller almost didn't make it into production after hitting funding obstacles, but the Xbox and Surface teams rallied to save it.",
+      "url": "https://www.ign.com/articles/microsoft-almost-canceled-xbox-adaptive-controller",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/26/xbox-adaptive-controller-blogroll-1666819937356.jpg?width=1280",
+      "publishedAt": "2022-10-26T21:41:44Z",
+      "content": "Microsofts Xbox Adaptive Controller almost didnt make the cut into production, but it sounds like teams from across the company intervened to see that the project received its funding.\r\nIn an intervi… [+2129 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "SC Magazine"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Steve Zurier",
-      "title": "Tight Internet Explorer integration could lead to vulnerabilities in Windows - SC Media",
-      "description": "Varonis researchers advise security teams to apply the latest Microsoft patch on a vulnerability that could cause a remote denial-of-service attack.",
-      "url": "https://www.scmagazine.com/news/device-security/tight-internet-explorer-integration-could-lead-to-vulnerabilities-in-windows",
-      "urlToImage": "https://files.scmagazine.com/wp-content/uploads/2022/10/102522_microsoft_windows.jpg",
-      "publishedAt": "2022-10-25T21:58:10Z",
-      "content": "Microsoft ended support for Internet Explorer (IE) on June 15, but researchers report that because of very tight IE-Windows integration, an IE Event Log now resides on all current Windows systems tha… [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Samsung's Maintenance mode lets you block access to your data while your phone is serviced - GSMArena.com news - GSMArena.com",
-      "description": "The new feature is now starting to roll out globally.",
-      "url": "https://www.gsmarena.com/samsungs_maintenance_mode_lets_you_block_access_to_your_data_while_your_phone_is_serviced-news-56285.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/samsung-maintenance-mode/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2022-10-25T21:55:36Z",
-      "content": "Following its initial introduction in Korea back in July and a subsequent launch for the Chinese market in September, Samsung is now rolling out Maintenance mode globally. This feature, also known as… [+1289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Free PS Plus For November 2022 Leaked | GameSpot News - GameSpot",
-      "description": "November’s free games for PlayStation Plus and Amazon Prime Gaming have reportedly leaked. #GamingNews #PSPlus #PS5 Nioh 2 is a yokai-slaying action game fro...",
-      "url": "https://www.youtube.com/watch?v=ColqiVPm2gk",
-      "urlToImage": "https://i.ytimg.com/vi/ColqiVPm2gk/maxresdefault.jpg",
-      "publishedAt": "2022-10-25T21:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "Chris Sacca on climate investing right now: The opportunity ‘almost feels unfair’ - TechCrunch",
-      "description": "We interviewed famed investor Chris Sacca, whose investment firm Lowercarbon Capital is managing $2 billion in capital across a wide spectrum of bets.",
-      "url": "https://techcrunch.com/2022/10/25/chris-sacca-on-climate-investing-right-now-were-trying-to-keep-up-with-tailwinds/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/chris-sacca.jpg?resize=1200,675",
-      "publishedAt": "2022-10-25T21:45:00Z",
-      "content": "Today, for a series of climate-related conversations organized by the global venture firm SOSV, we interviewed famed investor Chris Sacca, whose investment firm Lowercarbon Capital is managing $2 bil… [+7828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Jill Goldsmith",
-      "title": "Spotify Will Consider Price Hike After Apple, YouTube Moves, Says CEO Daniel Ek - Deadline",
-      "description": "Spotify blew past subscriber, user and revenue forecasts for the September quarter and said it will explore a U.S. price increase after recent moves by Apple and YouTube. “When our competitors are raising their prices, that is really good for us,” said founde…",
-      "url": "https://deadline.com/2022/10/spotify-apple-music-daniel-ek-podcast-1235154636/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/GettyImages-1242656927.jpg?w=1024",
-      "publishedAt": "2022-10-25T21:36:00Z",
-      "content": "Spotify blew past subscriber, user and revenue forecasts for the September quarter and said it will explore a U.S. price increase after recent moves by Apple and YouTube.\r\n“When our competitors are r… [+1408 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Isabelle Kagan",
-      "title": "Renpho eye massager: Relax at home with this migraine-relief gadget - USA TODAY",
-      "description": "Bring the spa home with the Renpho eye massager, an Amazon best seller that heats and vibrates the temple to reduce strain and provide soothing relief.",
-      "url": "https://www.usatoday.com/story/money/reviewed/2022/10/25/renpho-eye-massager-relax-home-migraine-relief-gadget/10597668002/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/25/USAT/ae68184d-45b5-46ee-9c3d-29f635de6af4-Renpho.png?crop=2990,1682,x5,y0&width=2990&height=1682&format=pjpg&auto=webp",
-      "publishedAt": "2022-10-25T21:31:13Z",
-      "content": "Recommendations are independently chosen by Reviewed's editors. Purchases made through the links below may earn us and our publishing partners a commission.\r\nBetween too much screen time, tons of caf… [+2490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Support App Gains New Look and Revamped Reservation System - MacRumors",
-      "description": "Apple today updated its Apple Support app with new functionality that makes it easier to make a reservation for service in an Apple retail location...",
-      "url": "https://www.macrumors.com/2022/10/25/apple-support-app-revamped-look/",
-      "urlToImage": "https://images.macrumors.com/t/Tm5Rx67xtqt8_QjZULsZmbKYFY0=/2000x/article-new/2022/10/apple-support-app.jpg",
-      "publishedAt": "2022-10-25T21:11:12Z",
-      "content": "Apple today updated its Apple Support app with new functionality that makes it easier to make a reservation for service in an Apple retail location or from an Apple Authorized Service Provider.\r\nThe … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jordan Thomas",
-      "title": "Save Up To $1,000 On The 2022 Samsung Frame TV This Week - Forbes",
-      "description": "During Samsung Week, you can save up to $1,000 on the 2022 version of the popular Samsung Frame TV depending on which size you choose.",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/25/samsung-frame-tv-deal/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63458c5789651965a3de06ab/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-10-25T21:10:24Z",
-      "content": "Samsungs Frame TV is one of the most innovative and aesthetically pleasing televisions you can buy, but its not exactly cheap. A 75-inch 2022 Frame TV will cost you a whopping $3,000 at full price. L… [+4129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blick.ch"
-      },
-      "author": "Martin A. Bartholdi",
-      "title": "Investor Roland Brack will mit Töff-Sharing international durchstarten - BLICK",
-      "description": "",
-      "url": "https://www.blick.ch/auto/news_n_trends/tv-sendung-hoehle-der-loewen-mega-deal-fuer-zuercher-toeff-start-up-id17991994.html",
-      "urlToImage": "https://img.blick.ch/incoming/17989658-v0-10-ribe-bei-ho-hle-der-lo-wen.jpg?imwidth=1000&ratio=16_9&x=0&y=594&width=7660&height=4313",
-      "publishedAt": "2022-10-25T21:07:07Z",
-      "content": "Investor Roland Brack schlägt mit Tesering Selang von Ribe ein.\r\nEinen Töff mieten statt selber kaufen. Das Konzept überzeugt Investor Roland Brack (50). In der heutigen Folge der TV-Sendung «Die Höh… [+2163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thecyberwire.com"
-      },
-      "author": "The CyberWire Staff",
-      "title": "Domestic Kitten updates its FurBall malware. Varonis discovers two Windows vulnerabilities. - The CyberWire",
-      "description": "Domestic Kitten updates its FurBall malware. Varonis discovers two Windows vulnerabilities.",
-      "url": "https://thecyberwire.com/newsletters/research-briefing/4/43",
-      "urlToImage": "https://thecyberwire.com/images/social-media/research-briefing/2022/Research-22-102522.jpg",
-      "publishedAt": "2022-10-25T20:50:06Z",
-      "content": "At a glance.\r\n<ul><li>Domestic Kitten updates its FurBall malware.</li><li>Varonis discovers two Windows vulnerabilities.</li></ul>Domestic Kitten updates its FurBall malware.\r\nResearchers at ESET ha… [+2711 chars]"
+      "author": "Dave Johnson",
+      "title": "How to turn off Silent mode on an iPhone - Business Insider",
+      "description": "You have to turn off Silent mode on your iPhone to unmute any ringtones and notification alerts you need to hear.",
+      "url": "https://www.businessinsider.com/guides/tech/how-to-turn-off-silent-mode-on-iphone",
+      "urlToImage": "https://i.insider.com/626827f21662990018d60559?width=1200&format=jpeg",
+      "publishedAt": "2022-10-26T21:37:27Z",
+      "content": "Your iPhone's Silent mode is a great tool for muting the seemingly endless stream of notifications that arrive throughout the day ideal for meetings, dinnertime, and other occasions when you need a b… [+1907 chars]"
     },
     {
       "source": {
@@ -203,64 +73,194 @@
         "name": "Gizmodo.com"
       },
       "author": "Florence Ion",
-      "title": "Samsung Explains When Android 13 Will Rollout to Galaxy Devices - Gizmodo",
-      "description": "The update is only two months after Google's Pixel and includes a batch of Samsung-only special features.",
-      "url": "https://gizmodo.com/samsung-android-13-rolling-out-galaxy-devices-timeline-1849701454",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4bf714c813fb6f15821c9b81f74cc83e.jpg",
-      "publishedAt": "2022-10-25T20:40:00Z",
-      "content": "When Apple launches a software update on the iPhone, everyone gets it simultaneously. But on the Android side of things, its dependent on individual manufacturers. For instance, Samsungs Android 13 u… [+2169 chars]"
+      "title": "Peloton Brings Its App to Android Smartwatches - Gizmodo",
+      "description": "It's not on par with the Apple Watch's version, but it can track your heart rate during workouts.",
+      "url": "https://gizmodo.com/peloton-brings-app-to-android-smartwatches-wear-os-3-1849707032",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/211bf1dc145fbd3654f762a2dd1566df.jpg",
+      "publishedAt": "2022-10-26T21:35:00Z",
+      "content": "It took a while, but the Peloton app is finally available for Android smartwatches. If youre sporting the Pixel Watch or Samsung Galaxy Watch 4/5 and are a Peloton subscriber, check the Play Store to… [+1690 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCMag.com"
+        "name": "CNET"
       },
-      "author": "Carli Velocci",
-      "title": "How to Refund a Game on Steam - PCMag",
-      "description": "If you act fast enough, Steam lets you make returns, so there's never any reason to be stuck with a bad PC game. Here's how to get your money back.",
-      "url": "https://www.pcmag.com/how-to/return-refund-game-on-steam",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/02LmdKf2h1UHI092398ZTnz-4.fit_lim.size_1200x630.v1665428993.jpg",
-      "publishedAt": "2022-10-25T20:35:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Apple rushes out patch for iPhone and iPad 0-day reported by anonymous source - Ars Technica",
-      "description": "Freshly released iOS 16.1 and iPadOS 16 fix 19 other vulnerabilities.",
-      "url": "https://arstechnica.com/information-technology/2022/10/apple-patches-high-severity-0-day-for-iphones-and-ipads/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg",
-      "publishedAt": "2022-10-25T20:30:59Z",
-      "content": "19 with 16 posters participating, including story author\r\nApple on Monday patched a high-severity zero-day vulnerability that gives attackers the ability to remotely execute malicious code that runs … [+2320 chars]"
+      "author": "Dan Avery",
+      "title": "Apple Reportedly Planning to Release 16-Inch iPad in 2023 - CNET",
+      "description": "The tablet would be Apple's largest, dwarfing the current 12.9-inch model.",
+      "url": "https://www.cnet.com/tech/computing/apple-reportedly-planning-to-release-16-inch-ipad-in-2023/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3f1e21ec5c9d35a973ced9fbd78fe16d4cd4d1d7/hub/2022/10/26/f011b628-3114-4e33-b146-434f13daa92f/ipad-pro-12-9-2022.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-10-26T21:34:00Z",
+      "content": "Apple is planning to release its largest iPad ever late next year, according to a report Wednesday from The Information, which cites an unnamed source. The tablet would have a 16-inch screen, accordi… [+554 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "CNBC"
+      },
+      "author": "Jordan Novet",
+      "title": "Microsoft exec says gaming is 'somewhat resilient' to economic weakness - CNBC",
+      "description": "In the Global Financial Crisis, Microsoft's Xbox console business had the best calendar year to date, and Xbox content and services got a pandemic bump in 2020.",
+      "url": "https://www.cnbc.com/2022/10/26/microsofts-phil-spencer-gaming-somewhat-resilient-to-weak-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107141386-1666819321983-gettyimages-1148845649-338800257_1-6.jpeg?v=1666819941&w=1920&h=1080",
+      "publishedAt": "2022-10-26T21:32:21Z",
+      "content": "Microsoft's head of gaming said Wednesday that video games can stand up to economic weakness, even as the software maker expects slower pickup in other parts of its business targeting consumers.\r\nRis… [+3926 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Amanda Pérez Pintado, USA TODAY",
+      "title": "As companies like Apple raise prices, streaming becomes more expensive for users - Yahoo Finance",
+      "description": "Apple music's price increase, along with it's TV service is just the latest in a trend that is making streaming more expensive for consumers.",
+      "url": "https://www.usatoday.com/story/tech/2022/10/26/apple-tv-music-bumps-streaming-prices-costs-pile-up-consumers/10607182002/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pVOHNVlaB8RcCdq2dJJDuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_tech_153/e9b2eaced9c6a476f6da408ae927f2fb",
+      "publishedAt": "2022-10-26T21:24:06Z",
+      "content": "Another day, another streaming service gets more expensive. \r\nApple increased the prices for its streaming services Apple Music and Apple TV+, as well as its bundle subscription bundle Apple One. \r\nT… [+2863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "Dylan Kelly",
+      "title": "2023 BMW M2 Receives Packed Lineup of M Performance Parts - HYPEBEAST",
+      "description": "Including carbon fiber kits, forged wheels and stylistic interior elements.",
+      "url": "https://hypebeast.com/2022/10/bmw-m-performance-parts-m2",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F10%2Fbmw-m-performance-parts-m2-TW.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-10-26T21:20:47Z",
+      "content": "Following the debut of the 2023 BMW M2 earlier this month, the Munich-based automaker has announced a hefty list of performance parts that will become available as add-ons to the vehicle upon its arr… [+1737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "How the new, darker YouTube look compares to the old design [Gallery] - 9to5Google",
+      "description": "How YouTube is laid out doesn’t fundamentally change, but taken together, these new tweaks led by a darker background make for a more...",
+      "url": "https://9to5google.com/2022/10/26/new-dark-youtube-gallery/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/02/youtube_android_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-10-26T20:57:00Z",
+      "content": "Announced on Monday, YouTube’s new, darker design is actively rolling out. How YouTube is laid out doesnt fundamentally change, but taken together, these tweaks make for a more drastic upgrade than w… [+2923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Claire Jackson",
+      "title": "Modern Warfare II Makes You Aim Your Gun At Civilians To 'De-Escalate' - Kotaku",
+      "description": "The latest Call of Duty campaign’s ‘Borderline’ level has been raising eyebrows with its depiction of police de-escalation",
+      "url": "https://kotaku.com/call-of-duty-modern-warfare-2-de-escalate-civilians-aim-1849706698",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b7a6141d04affac50fa6e468c213c385.jpg",
+      "publishedAt": "2022-10-26T20:45:00Z",
+      "content": "Call of Duty: Modern Warfare II may nail its core gunplay and feature some standout characters across the board, but it also features some of the series most questionably awful depictions of violence… [+5044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Everything New in iPadOS and iOS 16.2 Beta 1: Freeform App, Stage Manager External Display Support, Accidental Emergency SOS Reports and More - MacRumors",
+      "description": "Apple today provided the first betas of iOS 16.2 and iPadOS 16.2 to developers, introducing even more new features that have been promised for the...",
+      "url": "https://www.macrumors.com/guide/everything-new-ios-16-2/",
+      "urlToImage": "https://images.macrumors.com/t/44IRB-ZgFw1GIXl-wHSThASQUSQ=/2500x/article-new/2022/10/iOS-16.2-Feature-2.jpg",
+      "publishedAt": "2022-10-26T20:20:58Z",
+      "content": "Apple today provided the first betas of iOS 16.2 and iPadOS 16.2 to developers, introducing even more new features that have been promised for the iOS 16 update. \r\nWe've outlined all of the changes f… [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Channellife.com.au"
+      },
+      "author": "Darren Price",
+      "title": "Hands-on review: Poly Voyager 4320 UC headset - ChannelLife Australia",
+      "description": "The headset is made from black plastic with a flexible metal headband, which can extend to fit. Even when extended, the headband feels very robust.",
+      "url": "https://channellife.com.au/story/hands-on-review-poly-voyager-4320-uc-headset",
+      "urlToImage": "https://channellife.com.au/uploads/story/2022/10/27/compatible_main_pic_.jpg",
+      "publishedAt": "2022-10-26T20:10:00Z",
+      "content": "Plantronics’ Poly Voyager 4320 UC is a stylish lightweight headset designed for a corporate environment.\r\nThe headset comes with a BT700 Bluetooth dongle and a USB Type-C to Type-A cable for charging… [+3368 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "Deal Alert: 77% Off the HP OMEN Mindframe Prime Headset with Active Thermoelectric Cooling Technology - IGN",
+      "description": "Only $34.99 for the ultimate solution for sweaty ears",
+      "url": "https://www.ign.com/articles/deal-alert-hp-omen-mindframe-headset-active-cooling-technology",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/26/hpmindframe-1666807003499.jpg?width=1280",
+      "publishedAt": "2022-10-26T20:09:21Z",
+      "content": "Right now HP is offering its HP OMEN Mindframe Prime Headset for only $34.99, a huge price drop from its original $150 MSRP. That's a lot cheaper than the prices you'll find at 3rd party vendors. For… [+1391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrustedReviews"
+      },
+      "author": "Chris Smith",
+      "title": "Samsung Galaxy S22 camera update helps you capture the actual galaxy - TrustedReviews",
+      "description": "Samsung is improving the excellent Galaxy S22 camera with an update headlined by a new Astropohoto in Expert RAW mode. The phones' already capable night | Trusted Reviews",
+      "url": "https://www.trustedreviews.com/news/samsung-galaxy-s22-camera-update-helps-you-capture-the-actual-galaxy-4277544",
+      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/s22-rear-landscape-scaled.jpg",
+      "publishedAt": "2022-10-26T20:03:29Z",
+      "content": "Samsung is improving the excellent Galaxy S22 camera with an update headlined by a new Astropohoto in Expert RAW mode.\r\nThe phones’ already capable night photography options have been enhanced with a… [+1946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jon Bitner",
+      "title": "Best Horror Game Deals For Halloween On PS5, Xbox, PC, And Switch - GameSpot",
+      "description": "Need something to play while waiting for Trick or Treaters to knock on your door? Check out these discounted horror games.",
+      "url": "https://www.gamespot.com/gallery/best-horror-game-deals-for-halloween-on-ps5-xbox-pc-and-switch/2900-4420/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4054440-deadbydaylight.jpg",
+      "publishedAt": "2022-10-26T20:00:05Z",
+      "content": "The products discussed here were independently chosen by our editors.\r\n GameSpot may get a share of the revenue if you buy anything featured on our site."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Nintendo Life",
+      "title": "Beacon Pines Review (Switch eShop) - Nintendo Life",
+      "description": "Gives you the warm fuzzies – and the chills",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/beacon-pines",
+      "urlToImage": "https://images.nintendolife.com/60bb3939fa0eb/1280x720.jpg",
+      "publishedAt": "2022-10-26T20:00:00Z",
+      "content": "Captured on Nintendo Switch (Handheld/Undocked)\r\nPlaying Beacon Pines feels a bit like early winter nights, where youre surprised by how quick the darkness creeps up yet comfy and warm under a blanke… [+4271 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Kim",
+      "title": "Callisto Protocol Director Takes Responsibility for Crunching Staff - IGN",
+      "description": "The Callisto Protocol director Glen Schofield accepts blame for crunching staff on the upcoming survival horror game.",
+      "url": "https://www.ign.com/articles/callisto-protocol-director-takes-responsibility-for-crunching-staff",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/06/20/thecallistoprotocol-1655731638707.jpg?width=1280",
+      "publishedAt": "2022-10-26T19:59:28Z",
+      "content": "Callisto Protocol director Glen has addressed his tweet where he proudly celebrated his team crunching towards the finish line on The Callisto Protocol. The director now says it was his fault for put… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
       },
       "author": null,
-      "title": "This Survival Game With Detective Elements Is Looking Quite Intriguing - GamingBolt",
-      "description": "The survival genre has experienced a significant uptick in the number of releases in recent years, which is obviously because there is a lot of interest surr...",
-      "url": "https://www.youtube.com/watch?v=a83MKVyKD60",
-      "urlToImage": "https://i.ytimg.com/vi/a83MKVyKD60/maxresdefault.jpg",
-      "publishedAt": "2022-10-25T20:30:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jordan Thomas",
-      "title": "Apple Pencil Sale: Snag The Apple Pencil (2nd Generation) For The Lowest Price Ever - Forbes",
-      "description": "If you've been holding out for an Apple Pencil sale, the wait is over. You can snag the newest Apple Pencil on Amazon right now for the lowest price ever.",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/25/apple-pencil-sale/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/635825f28819f5321515c73d/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-10-25T20:28:14Z",
-      "content": "Artists, avid notetakers and Apple fanatics rejoice: The Apple Pencil 2 is currently on sale for the lowest price weve ever seen. Right now, you can pick up the newest Pencil for only $89 from Amazon… [+2109 chars]"
+      "title": "Gamevice Flex review: Finally, a controller that works with iPhone cases - AppleInsider",
+      "description": "The Gamevice Flex takes a familiar formula for iPhone-connected controllers and enhances it with one simple feature — the ability to keep your iPhone case on during use.",
+      "url": "https://appleinsider.com/articles/22/10/26/gamevice-flex-review-finally-a-controller-that-works-with-iphone-cases",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51027-100852-Gamevice-1-xl.jpg",
+      "publishedAt": "2022-10-26T19:53:48Z",
+      "content": "The Gamevice Flex works with your iPhone case\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe Gamevice Flex takes a familiar formula for iPhone-connec… [+5916 chars]"
     }
   ]
 }
