@@ -1,32 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 794,
+  "totalResults": 778,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GameSpot"
       },
-      "author": "Ethan Gach",
-      "title": "9 Things We Just Learned About Xbox, Game Pass And Microsoft’s Gaming Future - Kotaku",
-      "description": "Game Pass is just one piece of a plan that takes aim at Apple and Google",
-      "url": "https://kotaku.com/xbox-game-pass-pc-microsoft-series-x-s-apple-app-store-1849735205",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/78682a3dc572eacee385935aba59c8c7.jpg",
-      "publishedAt": "2022-11-02T22:11:35Z",
-      "content": "Microsoft is making big moves and Game Pass is just one piece of the puzzle. The subscription service has kept Xbox Series X/S relevant despite the lack of recent conversation-stealing first-party ex… [+7053 chars]"
+      "author": "Jenny Zheng",
+      "title": "Overwatch 2's Next Hero Will Be Revealed At The Overwatch League Grand Finals - GameSpot",
+      "description": "Activision Blizzard has a surprise for players at OWL 2022 Grand Finals.",
+      "url": "https://www.gamespot.com/articles/overwatch-2s-next-hero-will-be-revealed-at-the-overwatch-league-grand-finals/1100-6508894/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4058489-overwatch2.jpeg",
+      "publishedAt": "2022-11-03T21:57:29Z",
+      "content": "It's been a month since Overwatch 2 launched on October 5, and Activision Blizzard is gearing up to show off the next new hero. \"An early look\" at the next Overwatch 2 hero will happen during the Ove… [+1356 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "YouTube"
       },
-      "author": "Dan Avery",
-      "title": "Google's Prototype AI Tool Can Write a Short Story. But Is It Any Good? - CNET",
-      "description": "This week, Google showed off its Wordcraft editor, conceived with the help of more than a dozen published authors.",
-      "url": "https://www.cnet.com/tech/computing/googles-prototype-ai-tool-can-write-a-short-story-but-is-it-any-good/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/493ce1a9eff8e302467bb42a068271e8e6fe2ae5/hub/2022/11/02/473ef7aa-f6f1-4e14-8ada-f5b54cd6dd0f/gettyimages-1242657903-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-11-02T22:08:33Z",
-      "content": "A conversational AI created by Google is writing fiction using input from published authors, the tech giant said this week. Thirteen writers used Google's LaMDA, or Language Model for Dialogue Applic… [+2010 chars]"
+      "author": null,
+      "title": "Warhammer: Vermintide 2 Trail of Treachery - Official Trailer - IGN",
+      "description": "Here's your look at Warhammer: Vermintide 2's free update, Trail of Treachery, featuring a new snowy adventure mission. Trail of Treachery, which is part one...",
+      "url": "https://www.youtube.com/watch?v=269XW6ZsjRg",
+      "urlToImage": "https://i.ytimg.com/vi/269XW6ZsjRg/maxresdefault.jpg",
+      "publishedAt": "2022-11-03T21:50:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple VP Dr. Sumbul Desai discusses raising health awareness with iPhone and Apple Watch - 9to5Mac",
+      "description": "The Web Summit 2022 conference is now taking place in Lisbon with many guest speakers, including executives from Apple. One of them is the company’s vice president of health, Dr. Sumbul Desai, who discussed how Apple has been raising health awareness with the…",
+      "url": "https://9to5mac.com/2022/11/03/apple-vp-dr-sumbul-desai-discusses-raising-health-awareness-with-iphone-and-apple-watch/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/Dr-Sumbul-Desai-Apple-Web-Summit-2022.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-11-03T21:49:00Z",
+      "content": "The Web Summit 2022 conference is now taking place in Lisbon with many guest speakers, including executives from Apple. One of them is the company’s vice president of health, Dr. Sumbul Desai, who di… [+2468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AnandTech"
+      },
+      "author": "Ryan Smith",
+      "title": "AMD Reveals Radeon RX 7900 XTX and 7900 XT: First RDNA 3 Parts To Hit Shelves in December - AnandTech",
+      "description": null,
+      "url": "https://www.anandtech.com/show/17638/amd-reveals-radeon-rx-7900-xtx-and-7900-xt-first-rdna-3-parts-to-hit-shelves-in-december",
+      "urlToImage": "https://images.anandtech.com/doci/17638/Radeon_RX_7900_XTX_Car_678x452.jpg",
+      "publishedAt": "2022-11-03T21:46:00Z",
+      "content": "With AMD’s first-wave of Zen 4 CPUs now in the books with the Ryzen 7000 series, the consumer arm of AMD is now shifting its attention over to its graphics business. In a presentation that ended mome… [+21878 chars]"
     },
     {
       "source": {
@@ -34,51 +60,12 @@
         "name": "GameSpot"
       },
       "author": "Luis Gutierrez",
-      "title": "Halo Infinite Is Finally Getting Match XP, Here's How It Works - GameSpot",
-      "description": "343 gives more details on what to expect for the Winter Update.",
-      "url": "https://www.gamespot.com/articles/halo-infinite-is-finally-getting-match-xp-heres-how-it-works/1100-6508833/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4057780-4029852-untitled%284%29.png",
-      "publishedAt": "2022-11-02T21:53:22Z",
-      "content": "343 Industries has revealed more details on how the new XP system will work in Halo Infinite going forward. The new XP system will be a part of the Winter Update that's scheduled for November 8 and w… [+1389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Cliff Bleszinski thinks Epic ran out of ideas for Gears of War before selling it to Xbox | VGC - Video Games Chronicle",
-      "description": "The franchise's former lead designer thinks the Fortnite maker also needed the money at the time…",
-      "url": "https://www.videogameschronicle.com/news/cliff-bleszinski-thinks-epic-ran-out-of-ideas-for-gears-of-war-before-selling-it-to-xbox/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2021/05/gears-of-war-3.jpg",
-      "publishedAt": "2022-11-02T21:52:46Z",
-      "content": "Cliff Bleszinski has suggested Epic Games was unsure what to do with the Gears of War franchise before agreeing to sell it to Microsoft.\r\nBleszinski served as lead designer on the first three games i… [+1363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Oscar Gonzalez",
-      "title": "Google Play Android Games Can Now Be Played on Your PC - CNET",
-      "description": "A new beta lets gamers use their computers to play certain mobile games.",
-      "url": "https://www.cnet.com/tech/gaming/google-play-android-games-can-now-be-played-on-your-pc/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8cc21e448f05378541662ba7bba9a3a766eed96d/hub/2022/11/02/cdf9b108-c91b-4608-b1b0-866deae462cf/screen-shot-2022-11-02-at-5-19-18-pm.png?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-11-02T21:43:00Z",
-      "content": "The Google Play Games beta began Wednesday in the US. Those with a Google Play account and a PC with minimum specs can now download the application to play their Android games on a computer using key… [+992 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Benj Edwards",
-      "title": "New Mac app wants to record everything you do—so you can “rewind” it later - Ars Technica",
-      "description": "Find \"anything you've seen, said, or heard\" using 3,750x compression.",
-      "url": "https://arstechnica.com/information-technology/2022/11/new-mac-app-wants-to-record-everything-you-do-so-you-can-rewind-it-later/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/rewind_hero_1-760x380.jpg",
-      "publishedAt": "2022-11-02T21:33:00Z",
-      "content": "Enlarge/ Rewind reportedly lets you search your Mac's usage history for what you've seen, said, or heard.\r\n40 with 38 posters participating\r\nYesterday, a company called Rewind AI announced a self-tit… [+4756 chars]"
+      "title": "Ubisoft Is Teaming Up With Green Game Jam To Fight Climate Change--Here's How Players Can Help - GameSpot",
+      "description": "Ubisoft is helping combat climate change by having special in-game events.",
+      "url": "https://www.gamespot.com/articles/ubisoft-is-teaming-up-with-green-game-jam-to-fight-climate-change-heres-how-players-can-help/1100-6508893/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4058466-green-game-jam-ubinews-image.jpg",
+      "publishedAt": "2022-11-03T21:30:48Z",
+      "content": "Ubisoft has announced that it will participate in the 2022 Green Game Jam hosted by Playing for the Planet Alliance throughout November. Green Game Jam is an industry event dedicated to helping the e… [+1969 chars]"
     },
     {
       "source": {
@@ -86,181 +73,194 @@
         "name": "GSMArena.com"
       },
       "author": "Ivan",
-      "title": "Sony announces Android 13 update for the Xperia 1 IV and Xperia 5 IV - GSMArena.com news - GSMArena.com",
-      "description": "Check your phone now.",
-      "url": "https://www.gsmarena.com/sony_announces_android_13_update_for_the_xperia_1_iv_and_xperia_5_iv-news-56378.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/11/sony-xperia-android-13/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2022-11-02T21:32:01Z",
-      "content": "Sony just announced the start of the rollout of the Android 13 update to the Xperia 1 IV and Xperia 5 IV flagships.\r\nDetails are scarce as to where the rollout would begin, how big the firmware is, o… [+421 chars]"
+      "title": "Samsung's Internet browser can now sync bookmarks with Google Chrome - GSMArena.com news - GSMArena.com",
+      "description": "Samsung Internet 19 update brings a bunch of improvements.",
+      "url": "https://www.gsmarena.com/samsungs_internet_browser_can_now_sync_bookmarks_with_google_chrome-news-56393.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/11/samsung-browser-19/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-11-03T21:27:01Z",
+      "content": "The Samsung Internet browser can now sync bookmarks with Google Chrome. The feature, which was first introduced on the beta channel of the app in the Summer, is finally available to all users.\r\nTo en… [+662 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Sisi Jiang",
-      "title": "These Genshin Impact Fans Spent $1,000 to $90,000 On Its Characters - Kotaku",
-      "description": "It turns out that the biggest spenders in Hoyoverse’s popular gacha game have very different opinions about money and value",
-      "url": "https://kotaku.com/genshin-impact-whales-hoyoverse-gacha-gambling-spending-1849734889",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bef5e5b7a52d42a69d459199cf34030e.jpg",
-      "publishedAt": "2022-11-02T21:30:00Z",
-      "content": "Its like that Ariana Grande song: I see it, I like it, I want it, I got it, said one anonymous investment banker whos spent over $10,000 in the hugely popular, free-to-play action role-playing game G… [+21001 chars]"
+      "author": "Zack Zwiezen",
+      "title": "Bungie Tells PS5 Players To Stop Playing The PS4 Version Of Destiny 2 - Kotaku",
+      "description": "Bungie offered a PSA for PS5 players in a blog post on the studio’s official website",
+      "url": "https://kotaku.com/destiny-2-ps5-ps4-bungie-next-gen-version-psa-1849740325",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/463d8b0f3d6684c6d8a3b3342d3b6136.jpg",
+      "publishedAt": "2022-11-03T21:24:41Z",
+      "content": "Bungie, the studio behindDestiny 2 and the older Halo games, has a public service announcement for all of its PlayStation 5 guardians: Double check that you are actually playing the PS5 version of th… [+2750 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Robb Report"
       },
-      "author": "Mack DeGeurin",
-      "title": "From Generative Images and Video to Responsible AI: Here's What Google Covered During Its AI@ Event - Gizmodo",
-      "description": "The company revealed new advancements in generative AI images and videos and boosted the capabilities of potentially life saving flood and wildfire detection.",
-      "url": "https://gizmodo.com/google-ai-ai-1849734606",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/616db0c5f3888ec94b9c2cfd3c61de4a.png",
-      "publishedAt": "2022-11-02T21:20:00Z",
-      "content": "A recurring theme at Googles AI@ event was one of supposed reflection and cautious optimism. That sentiment rang particularly true on the topic of AI Ethics, an area Googles struggled with in the pas… [+1581 chars]"
+      "author": "Bryan Hood",
+      "title": "Jetson's Electric Surfboard Will Give Your Surfing Skills a Boost – Robb Report - Robb Report",
+      "description": "The board is controlled via a built-in touchpad.",
+      "url": "https://robbreport.com/lifestyle/news/jetson-surf-technology-electric-surfboard-1234768424/",
+      "urlToImage": "https://robbreport.com/wp-content/uploads/2022/11/jetson03.jpg?w=681&h=383&crop=1",
+      "publishedAt": "2022-11-03T21:22:55Z",
+      "content": "Jetson Surf Technology is trying something different with its electric surfboard.\r\nThe Florida startup’s board features a built-in jet drive motor like the rest of its peers, but it only runs for sho… [+2135 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "Sportskeeda"
       },
-      "author": "Sabrina Ortiz",
-      "title": "Google makes massive commitment to support more languages using AI - ZDNet",
-      "description": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
-      "url": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/829ad4b42aac547dd9f38fabaf1a0a8c799a0091/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-11-02T21:11:27Z",
-      "content": "Zoubin Ghahramani, VP Google Research, talks about Google's 1,000 Languages Initiative at a Google AI Keynote in NYC. \r\nSabrina Ortiz/ZDNET\r\nAt an AI keynote event in New York City today, Google anno… [+1959 chars]"
+      "author": "Asmir P.",
+      "title": "Fortnite player sets world record for the fastest win ever - Sportskeeda",
+      "description": "Getting a Fortnite victory in just one second might sound impossible. However, one player managed to achieve this unusual feat, thanks to a glitch that was released with the recent update.",
+      "url": "https://www.sportskeeda.com/fortnite/news-fortnite-player-sets-world-record-fastest-win-ever",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/11/c8f5f-16674940111031-1920.jpg",
+      "publishedAt": "2022-11-03T21:11:00Z",
+      "content": "Getting a Fortnite victory in just one second might sound impossible. However, one player managed to achieve this unusual feat, thanks to a glitch that was released with the recent update. In this in… [+2799 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Kyle Bradshaw",
-      "title": "November Google Play System updates: Tweaks for Wallet and Android parental controls - 9to5Google",
-      "description": "November's changes to Android from the monthly Google Play System updates bring improvements for Wallet and parental controls.",
-      "url": "https://9to5google.com/2022/11/02/november-google-play-system-updates/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/08/google-wallet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-11-02T21:06:00Z",
-      "content": "Google has begun previewing the latest changes to Android as part of November’s Google Play System updates, including improvements for Wallet and parental controls.\r\nWhile major updates to Android ty… [+2617 chars]"
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Samsung's next Odyssey Neo G9 will be the 'first' 8K ultrawide gaming monitor - Engadget",
+      "description": "Samsung has teased the first 8K ultrawide gaming monitor — but you'll need monster hardware to take advantage of it..",
+      "url": "https://www.engadget.com/samsung-odyssey-neo-g9-8k-ultrawide-gaming-monitor-210157893.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/0791bb00-5bb6-11ed-b3f7-4ae91aee1b79",
+      "publishedAt": "2022-11-03T21:03:42Z",
+      "content": "Now that AMD has unveiled Radeon RX 7900 GPUs that can output 8K video at high refresh rates, gamers will need displays that can handle them and Samsung is happy to oblige. The company has teased a n… [+1352 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kevin Purdy",
-      "title": "Google Play Games beta now on Windows desktops, if that’s your thing - Ars Technica",
-      "description": "Try some of Android's quirky games with mice, keyboards, and bigger screens.",
-      "url": "https://arstechnica.com/gadgets/2022/11/google-play-games-beta-now-on-windows-desktops-if-thats-your-thing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/pc_controls-760x380.jpg",
-      "publishedAt": "2022-11-02T21:02:00Z",
-      "content": "Enlarge/ The Play Games available for Windows will often walk you through your uncommon keyboard/mouse controlsreal classy-like, sometimes.\r\n15 with 14 posters participating\r\nFirst Microsoft and Amaz… [+3488 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Matt Kim",
-      "title": "Activision Blizzard and CWA Spar Over Union Election, 'Silenced Employees' Accusations - IGN",
-      "description": "Activision Blizzard has requested the NLRB to impound votes for an upcoming unionization vote in the latest flashpoint in the ongoing saga.",
-      "url": "https://www.ign.com/articles/activision-blizzard-and-cwa-spar-over-union-election-silenced-employees-accusations",
-      "urlToImage": "https://assets-prd.ignimgs.com/2021/11/23/activision-blizzard-logos-black-bg-1-1637668984118.jpg?width=1280",
-      "publishedAt": "2022-11-02T20:59:17Z",
-      "content": "The unionization efforts at Activision Blizzard has hit another impasse as the company asked the National Labor Relations Board to postpone the upcoming vote tabulation scheduled for November 18.\r\nAc… [+2004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Grace Benfell",
-      "title": "Genshin Impact 3.2 Update Introduces New Characters Nahida and Lydia - GameSpot",
-      "description": "Nahida is a five-star Dendro character and Lydia is a four-star Cryo character.",
-      "url": "https://www.gamespot.com/articles/genshin-impact-3-2-update-introduces-new-characters-nahida-and-lydia/1100-6508849/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1690/16904437/4057907-genshinimpact.jpg",
-      "publishedAt": "2022-11-02T20:56:28Z",
-      "content": "Genshin Impact's 3.2 update introduces the divine Dendro character Nahida and the ever-sleepy Cyro character Layla.\r\nIn lore terms, Nahida is the vessel of Lesser Lord Kusanali, the god or Archon of … [+18814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Jon Bitner",
-      "title": "Nintendo Switch Exclusives Get Big Discounts: Bayonetta 3, Pokemon Scarlet/Violet, And More - GameSpot",
-      "description": "Looking for a new Switch game? Here are the best deals currently available on Switch exclusives.",
-      "url": "https://www.gamespot.com/gallery/nintendo-switch-exclusives-get-big-discounts-bayonetta-3-pokemon-scarlet-violet-and-more/2900-4434/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4057953-bayonetta3.jpeg",
-      "publishedAt": "2022-11-02T20:55:33Z",
-      "content": "The products discussed here were independently chosen by our editors.\r\n GameSpot may get a share of the revenue if you buy anything featured on our site."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Intel’s oft-delayed “Sapphire Rapids” Xeon CPUs are finally coming in early 2023 - Ars Technica",
-      "description": "CPUs have been trickling out of Intel, but still waiting for volume shipments.",
-      "url": "https://arstechnica.com/information-technology/2022/11/intels-oft-delayed-sapphire-rapids-xeon-cpus-are-finally-coming-in-early-2023/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/intel-sapphire-rapids-760x380.jpg",
-      "publishedAt": "2022-11-02T20:43:33Z",
-      "content": "Enlarge/ Intel's Sapphire Rapids Xeon CPUs.\r\n20 with 12 posters participating\r\nIntel's next-generation Xeon CPUs based on the new Sapphire Rapids architecture have been delayed more than once, but In… [+3630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "Google Launches New Beta to Play Android Games on PC - Gizmodo",
-      "description": "Western audiences now have access to the beta, which first hit in select Asian regions.",
-      "url": "https://gizmodo.com/google-play-games-pc-android-beta-microsoft-windows-11-1849734664",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/deb9f9f75f7669eca85268469e87d4a3.gif",
-      "publishedAt": "2022-11-02T20:40:00Z",
-      "content": "Are you growing tired of staring at your 5 by 2 inch screen to play Android mobile games? Well, on Tuesday, Googles Android Developers blog announced that the companys launching a new beta for a plat… [+3644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HYPEBEAST"
-      },
-      "author": "Avon Dorsey",
-      "title": "Oakley x STAPLE Throwback Limited-Edition Eyewear Collection - HYPEBEAST",
-      "description": "Featuring a reinterpretation of the brand’s 1992 and 2022 “Sub Zero” glasses.",
-      "url": "https://hypebeast.com/2022/11/oakley-x-staple-throwback-limited-edition-eyewear-collection",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Foakley-x-staple-throwback-eyewear-drop-fw22-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2022-11-02T20:35:18Z",
-      "content": "Delivering a sci-fi punch-up to its already iconic lineup of eyeglasses and shades, Oakley® has teamed up with STAPLE for a new collection that takes inspiration from the brands past. \r\nThe new colle… [+1184 chars]"
+      "author": "Benj Edwards",
+      "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps - Ars Technica",
+      "description": "OpenAI offers integrated AI image generation on a demand—for 2 cents an image.",
+      "url": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-760x380.jpg",
+      "publishedAt": "2022-11-03T21:02:59Z",
+      "content": "Enlarge/ Variations of \"a photo of a happy corgi puppy with fancy sunglasses on sitting and facing forward, studio light, longshot\" generated by OpenAI's DALL-E.\r\n11 with 11 posters participating\r\nOn… [+2570 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "ZDNet"
       },
-      "author": "Sabrina Ortiz",
-      "title": "Google Assistant updates make it more kid friendly - ZDNet",
-      "description": "New Assistant updates include parental controls, a kid's dictionary, and four new kid-friendly voices.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/google-assistant-updates-make-it-more-kid-friendly-than-ever/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/194f09e7f14a1e8d7d600bd6612ecea54bb0324f/2020/01/07/8e6d0b83-09fe-4d2f-831d-8b81de3a900f/google-assistant-ces.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-11-02T20:24:57Z",
-      "content": "Image: Google\r\nWhen you welcome a voice assistant into your home, it becomes part of the entire household's ecosystem, including your little ones'. Today, Google optimized its Google Assistant to cat… [+3043 chars]"
+      "author": "Josh Slate",
+      "title": "Best early smartwatch Black Friday deals 2022: Save big on Apple Watch, Galaxy Watch, and Fitbit - ZDNet",
+      "description": "These days, you can get access to thousands of deals online -- nearly a month in advance of Black Friday. No more waiting in line at the stores. Check out these early Black Friday deals on smartwatches from the comfort of your own home this holiday season.",
+      "url": "https://www.zdnet.com/article/early-black-friday-smartwatch-deals-2022/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/06a117212fd8b6990f593966a9318f9870030363/2022/07/18/00dd0f1c-d79a-4df2-9e32-3bbbf1185d9a/apple-watch-series-7-best-apple-watch-models-compared.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-03T21:00:37Z",
+      "content": "The year has seemingly flown by, and it's holiday season once again. After receiving an Apple Watch for Christmas last year, I can't imagine living without one. Sometimes relying on your phone to see… [+1275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "How to use your mobile phone as a webcam in Windows - ZDNet",
+      "description": "Your iPhone or Android phone can serve as a high-resolution webcam in a virtual meeting.",
+      "url": "https://www.zdnet.com/article/how-to-use-your-mobile-phone-as-a-webcam-in-windows/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/307f1f172af9a35401ff39a8872c4e9db70184a9/2020/10/27/25f9840b-53a3-42fc-9d39-35d2d989e73b/istock-1215121282.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-03T21:00:05Z",
+      "content": "iStockphoto/Getty Images\r\nYour Windows laptop likely has its own webcam that you use for virtual meetings. But many laptop webcams are stuck at a low resolution. And if you're using a desktop, you ma… [+4170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Antony Leather",
+      "title": "AMD Confirms Radeon RX 7900 XTX And 7900 XT Graphics Cards Set To Take The Fight To Nvidia - Forbes",
+      "description": "AMD aims to undercut Nvidia with RX 7900 XTX and RX 7900 XT",
+      "url": "https://www.forbes.com/sites/antonyleather/2022/11/03/amd-confirms-radeon-rx-7900-xtx-and-7900-xt-graphics-cards-set-to-take-the-fight-to-nvidia/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6364185c364f751ae0da32d2/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-11-03T20:51:37Z",
+      "content": "AMD has announced its next generation 'RDNA3' graphics cards, starting with the Radeon RX 7900 XTX and RX 7900XT. The cards will go on sale on December 13th and cost $999 and $899 respectively - noti… [+2335 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GameSpot"
       },
-      "author": "Jenny Zheng",
-      "title": "Call Of Duty Player Showed Up At Activision Blizzard's Office Over Modern Warfare II Ban - GameSpot",
-      "description": "Put that on a list of things not to do, ever.",
-      "url": "https://www.gamespot.com/articles/call-of-duty-player-showed-up-at-activision-blizzards-office-over-modern-warfare-ii-ban/1100-6508847/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4057904-modernwarfar2.jpg",
-      "publishedAt": "2022-11-02T20:24:02Z",
-      "content": "One Call of Duty player made an ill-advised in-person trip to Activision Blizzard's office--all just to appeal their Modern Warfare 2 ban.\r\nThe Reddit post is now deleted, but according to screenshot… [+1948 chars]"
+      "author": "S.E. Doster",
+      "title": "Call Of Duty: Modern Warfare 2 Gun Attachments Are Making Weapons Worse, Players Suggest - GameSpot",
+      "description": "CoD: Modern Warfare 2 lets players equip five attachments, but some believe that's not the best choice.",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-2-gun-attachments-are-making-weapons-worse-players-suggest/1100-6508890/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4058458-dark_water_03%282%29.jpeg",
+      "publishedAt": "2022-11-03T20:50:08Z",
+      "content": "Call of Duty: Modern Warfare 2 launched on October 28 with an overhauled Gunsmith customization feature, but despite all the attachment options available, some players are now suggesting too many add… [+3143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "June Wan",
+      "title": "Secretlab Skins are stylish car seat covers... for your gaming chair - ZDNet",
+      "description": "Blemishes, wear and tear, coffee stains, Cheetos dust, begone!",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/secretlab-skins-are-stylish-car-seat-covers-for-your-gaming-chair/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/aa81264ded9fa37134f6637b366282391147bcc3/2022/11/03/20a64c6b-8ef3-41aa-b688-6e95d1a52093/4057660-secretlab-skins.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-03T20:50:01Z",
+      "content": "Image: Secretlab\r\nMy very first review at ZDNET was of Secretlab's Titan Evo 2022, a premium-built gaming chair that has since become a staple of my home office -- and virtually any major esports lea… [+1777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "AMD Radeon RX 7900 XTX & 7900 XT Specs, Price, Release Date, & “8K” Gaming - Gamers Nexus",
+      "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)AMD today announced its new Radeon RX 7900 XT and 7900 XTX GPUs, unfortunately deviating fr...",
+      "url": "https://www.youtube.com/watch?v=pAUxrWCZV50",
+      "urlToImage": "https://i.ytimg.com/vi/pAUxrWCZV50/maxresdefault.jpg",
+      "publishedAt": "2022-11-03T20:44:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Jazz Tangcay",
+      "title": "Composer Sarah Schachner Exits ‘Call of Duty: Modern Warfare II’ Soundtrack Citing ‘Challenging Working Dynamic’ With Audio Director - Variety",
+      "description": "Composer Sarah Schachner has stepped away from scoring “Modern Warfare II” citing “challenges in the working dynamic with the game’s audio director.” The game’s director of sound design is Stephen Miller, though Schachner didn’t name him or anyone specific in…",
+      "url": "https://variety.com/2022/artisans/news/composer-call-of-duty-sarah-schachner-modern-warfare-2-soundtrack-1235422473/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/11/Modern-Warfare-II-1.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2022-11-03T20:44:00Z",
+      "content": "Composer Sarah Schachner has stepped away from scoring “Modern Warfare II” citing “challenges in the working dynamic with the game’s audio director.”\r\nThe game’s director of sound design is Stephen M… [+1551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "AMD announces FSR 3 and HYPER-RX technologies coming to PCs in 2023 - VideoCardz.com",
+      "description": "AMD FSR 3 and HYPER-RX announced Coming in 2023. The FSR 3 is coming to Unreal Engine 5, confirms Scott Herkelman at Radeon RX 7000 reveal. This engine is capable of utilizing AMD unified compute engine technology and offers excellent ray tracing and rasteriz…",
+      "url": "https://videocardz.com/newz/amd-announces-fsr-3-and-hyper-rx-technologies-coming-to-pcs-in-2023",
+      "urlToImage": "https://cdn.videocardz.com/1/2022/11/AMD-FSR-3.jpg",
+      "publishedAt": "2022-11-03T20:42:00Z",
+      "content": "Coming in 2023.\r\nThe FSR 3 is coming to Unreal Engine 5, confirms Scott Herkelman at Radeon RX 7000 reveal. This engine is capable of utilizing AMD unified compute engine technology and offers excell… [+1066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Allison Murray",
+      "title": "Best early Black Friday tablet deals 2022: Save big on Surface Pro 7, iPad Mini, and Fire HD 10 - ZDNet",
+      "description": "Looking for a tablet? The best tablets from brands like Apple and Samsung are already on sale ahead of Black Friday.",
+      "url": "https://www.zdnet.com/article/early-black-friday-tablet-deals-2022/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4b0c1e23f3b19723c71c14ca38df72724eba1b85/2022/10/27/e4d96796-8e8e-41a7-9da1-f336a6957bf5/159.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-03T20:41:19Z",
+      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
     }
   ]
 }
