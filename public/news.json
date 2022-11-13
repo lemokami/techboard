@@ -1,110 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 775,
+  "totalResults": 730,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Damien Lavizzo",
+      "title": "How to create routes and add stops in Apple Maps - AppleInsider",
+      "description": "Being able to map out your entire drive beforehand, with estimated travel times and future course changes, is a powerful addition to an already handy app. Here's how to create a multi-stop route in the latest version of Apple Maps.",
+      "url": "https://appleinsider.com/inside/apple-maps/tips/how-to-create-routes-and-add-stops-in-apple-maps",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51298-101376-howto_applemaps-xl.jpg",
+      "publishedAt": "2022-11-12T22:20:00Z",
+      "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nBeing able to map out your entire drive beforehand, with estimated travel times and future course changes, … [+2957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Philip Trahan",
+      "title": "Modern Warfare 2 players frustrated with new M13B AR unlock methods - Dexerto",
+      "description": "Activision confirmed multiple different ways to unlock the M13B AR in Modern Warfare 2, leaving some players confused and frustrated.",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-2-players-frustrated-with-new-m13b-ar-unlock-methods-1983020/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2022/11/12/modern-warfare-2-mask-header.jpg",
+      "publishedAt": "2022-11-12T22:18:04Z",
+      "content": "Activision and Infinity Ward have confirmed multiple different ways to unlock the upcoming M13B AR in Modern Warfare 2, leaving players confused and frustrated.\r\nWith Warzone 2s launch right around t… [+2549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Amazon buy 2, get 1 free sale games and more November 2022 - Nintendo Everything",
+      "description": "Amazon has just started a new buy 2, get 1 free sale on video games, books, toys, and more for November 2022.",
+      "url": "https://nintendoeverything.com/amazon-buy-2-get-1-free-sale-games-and-more-for-november-2022/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Amazon-buy-2-get-1-free-sale-November-2022.jpg",
+      "publishedAt": "2022-11-12T22:15:01Z",
+      "content": "Amazon starts buy 2, get 1 free sale on games and more for November 2022\r\nOriginal (11/6): Amazon has joined the same party as Target with a new buy 2, get 1 free sale for November 2022 ahead of the … [+1872 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Nelson Aguilar",
-      "title": "Don't Delete Twitter Before You Download All Your Tweets and Messages - CNET",
-      "description": "It's pretty easy to download everything you've posted on Twitter.",
-      "url": "https://www.cnet.com/tech/services-and-software/dont-delete-twitter-before-you-download-all-your-tweets-and-messages/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/34cf45841abe961d8389d77852acc8df1225f7f9/hub/2021/03/25/78ba84f0-0d10-46cd-9e61-54fb5b3aa0c3/008-twitter-app-logo-on-phone-2021.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-11-11T22:21:02Z",
-      "content": "As the chaotic ownership transition at Twitter unfolds, some users who threatened to leave Twitter if Elon Musk took over are actually following through on those threats. Some Twitter defectors are t… [+3495 chars]"
+      "author": "Zachary McAuliffe",
+      "title": "iOS 16.1: These iPhone Features Just Landed on Your Phone - CNET",
+      "description": "Live Activities in Dynamic Island, a cheaper way to use Apple Fitness Plus and more features to check out.",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-16-1-these-iphone-features-just-landed-on-your-phone/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3acc67bd2152abb6062cdb61e1c0d6101d711580/hub/2022/09/14/2106e5cd-954d-47ea-ab70-e0929879db71/apple-iphone-14-8200.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-11-12T22:00:03Z",
+      "content": "Apple's iOS 16.1 was released in late October, about a month after iOS 16 was released. While iOS 16 came with a way to unsend messages, further lock screen customization and more, iOS 16.1 brings ne… [+4108 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Corey Gaskin",
+      "title": "The weekend’s best deals: Buy two get one free video games, Razer Blade, Apple, GoPro and more - Ars Technica",
+      "description": "We also have deals on streamers, laptops, our favorite smartwatch for the outdoors, and more.",
+      "url": "https://arstechnica.com/staff/2022/11/the-weekends-best-deals-buy-two-get-one-free-video-games-razer-blade-apple-gopro-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dm111222-760x380.jpg",
+      "publishedAt": "2022-11-12T21:09:52Z",
+      "content": "0 with 0 posters participating\r\nIt's the weekend, and that means it's time to round up the week's best deals. Black Friday and Cyber Monday are only two weekends away, which means there's a steady tr… [+9555 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCMag.com"
+        "name": "Digital Trends"
+      },
+      "author": "Jesse Lennox",
+      "title": "How to get Mod Tokens in God of War Ragnarok - Digital Trends",
+      "description": "This series is all about getting as powerful as possible, so why limit yourself? Here's everything you need to know about Mod Tokens in God of War Ragnarok.",
+      "url": "https://www.digitaltrends.com/gaming/god-of-war-ragnarok-mod-tokens/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/09/god-of-war-ragnarok-playstation-showcase-2021-reveal-trailer-_-ps5-0-37-screenshot.jpg?p=1",
+      "publishedAt": "2022-11-12T21:00:55Z",
+      "content": "Even going back to the first entry in the series, God of War has always incorporated RPG elements to some degree. It started out simple — essentially just allowing you to power up weapons — but has e… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
       },
       "author": null,
-      "title": "ZTE AX3000 Pro Review - PCMag",
-      "description": "The ZTE AX3000 Pro is an affordable Wi-Fi 6 router that offers solid performance for the money.",
-      "url": "https://www.pcmag.com/reviews/zte-ax3000-pro",
-      "urlToImage": "https://i.pcmag.com/imagery/reviews/06dUOFGV2HrnVyRKgxOFwor-1.fit_lim.size_1200x630.v1668009477.jpg",
-      "publishedAt": "2022-11-11T22:04:52Z",
-      "content": null
+      "title": "LIVE Best Buy Black Friday deals — $200 off MacBook Pro M2, OLED TVs from $569 - Tom's Guide",
+      "description": "Today's top Best Buy Black Friday deals",
+      "url": "https://www.tomsguide.com/deals/live/live-best-buy-black-friday-deals-dollar200-off-macbook-pro-m2-oled-tvs-from-dollar569",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QQStPKSGZCdWV4cYXartrD-1200-80.jpg",
+      "publishedAt": "2022-11-12T20:56:24Z",
+      "content": "2022-11-12T20:55:15.715Z\r\n(Image credit: Asus)\r\nThe Asus Chromebook 2-in-1 is an ultra compact Chromebook that is suited for everyday use. It can function as both a traditional laptop and a tablet wi… [+6914 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "SheFinds"
       },
-      "author": "Christina Darby",
-      "title": "Best headphone Black Friday deals 2022: Today's lowest prices on AirPods Pro, Bose, Galaxy Buds, and more - ZDNet",
-      "description": "Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price.",
-      "url": "https://www.zdnet.com/article/early-black-friday-headphone-deals-november-11-2022/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3e8a0fbe7028a03225bd83e898eaf972251e6b38/2022/09/29/0f24ef5e-c96f-48f9-b453-8b3bf0817084/beats-studio-buds.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-11-11T21:54:12Z",
-      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
+      "author": "lisa cupido",
+      "title": "The One Battery Setting Tech Experts Say You Should Have Turned On On iPhone 14 - Yahoo Life",
+      "description": "Find out which battery setting you should have turned on on iPhone 14 on SHEFinds.com",
+      "url": "https://www.shefinds.com/collections/battery-setting-turn-on-iphone-14/",
+      "urlToImage": "https://www.shefinds.com/files/2022/11/iphone-14-pro-max.jpg",
+      "publishedAt": "2022-11-12T20:54:43Z",
+      "content": "If you own an iPhone 14, you might be wondering how you can prolong the length of its battery to get the most out of your new device. And theres an answer to that question  the model come equipped wi… [+2064 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Brian Barnett",
-      "title": "What to Expect for Headphone Black Friday 2022 Deals - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/what-to-expect-for-headphone-black-friday-2022-deals",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/11/11/mariorabbids-blogroll-16659747572511-1668202844855.jpg?width=1280",
-      "publishedAt": "2022-11-11T21:49:10Z",
-      "content": "Black Friday 2022 is coming up, and if you've been excited to take advantage of the deals, we have good news; sales are already starting to ramp up! Outlets like Amazon, Walmart, and Dell already hav… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Alyse Stanley",
-      "title": "God of War: The series' developers explain Kratos's evolution - The Washington Post",
-      "description": "The creators of God of War discuss the themes that animate Kratos: brutality, fatherhood and redemption.",
-      "url": "https://www.washingtonpost.com/video-games/2022/11/11/kratos-god-of-war-evolution-story/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HSGBQKEE6BH6PH5Q5HRUY7GKJM.jpg&w=1440",
-      "publishedAt": "2022-11-11T21:38:37Z",
-      "content": "Comment on this story\r\nThis story contains spoilers for God of War games throughout the series, with the exception of God of War Ragnarok\r\nIn the pantheon of video game protagonists, Kratos is up the… [+10905 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Dave Johnson",
-      "title": "What is iCloud Plus? A guide to Apple's upgraded cloud service - Business Insider",
-      "description": "iCloud Plus is Apple's cloud service that includes enhanced online storage and a suite of additional features.",
-      "url": "https://www.businessinsider.com/guides/tech/icloud-plus",
-      "urlToImage": "https://i.insider.com/636ea74c951bdc00182dc0c9?width=1200&format=jpeg",
-      "publishedAt": "2022-11-11T21:04:07Z",
-      "content": "You probably know that iCloud is the online service used by the entire ecosystem of Apple devices. iPhones come with 5GB of storage on iCloud, for example, which can be used for backing up your devic… [+4485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Rebecca Isaacs",
-      "title": "Hisense's gorgeous 50-inch Google TV drops to $340 - ZDNet",
-      "description": "You don't need to wait for Black Friday to score a great price on a Hisense TV. Shop the U6H model and save over $250.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/hisense-u6h-google-tv-deal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d9bf872d356bcb57ec7c153fbc210c07dc63d1ea/2022/11/11/12f795ff-559b-4cad-8390-bc55de5a18c5/hisense-5022-class-u6h-series-mini-led-quantum-uled-4k-tv.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-11-11T20:48:56Z",
-      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ewan Spence",
-      "title": "Apple Loop: iPhone Faces Christmas Chaos, iOS 16 Bug Fight, WWDC Archive Taken Down - Forbes",
-      "description": "This week’s Apple Loop includes iPhone 14's festive problems, Qualcomm reveals iPhone 15 plans, latest iOS 16 bugs, MacBook Pro's time travelling award, WWDC archives taken down, Apple's 2022 cancellations, and more...",
-      "url": "https://www.forbes.com/sites/ewanspence/2022/11/11/apple-headlines-iphone-14-stock-iphone-15-ios-16-wwdc-macbook-pro-best-laptop/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/636eae8fbe04194be2fa6450/0x0.jpg?format=jpg&crop=2353,1323,x768,y764,safe&width=1200",
-      "publishedAt": "2022-11-11T20:39:25Z",
-      "content": "Taking a look back at another week of news and headlines from Cupertino, this weeks Apple Loop includes iPhone 14's festive problems, Qualcomm reveals iPhone 15 plans, latest iOS 16 bugs, MacBook Pro… [+6111 chars]"
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Google is working on a fix for slow Nest WiFi Pro routers - Engadget",
+      "description": "Google said it would roll out the update early next week..",
+      "url": "https://www.engadget.com/google-nest-wifi-pro-fix-in-development-204908582.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/a946e7f0-43c8-11ed-973f-4285faab1c2b",
+      "publishedAt": "2022-11-12T20:50:49Z",
+      "content": "Google will begin rolling out a software update early next week to address an issue with its recently released Nest WiFi Pro\r\n mesh router system. In a statement the company shared with The Verge\r\n, … [+984 chars]"
     },
     {
       "source": {
@@ -112,12 +125,51 @@
         "name": "IGN"
       },
       "author": "Eric Song",
-      "title": "Daily Deals: Xbox Series S, Nintendo Switch OLED, and Buy 2 Get 1 On Select Video Games - IGN",
+      "title": "Daily Deals: Bayonetta 3, God of War Ragnarok Collector's Edition, My Hero Academia, and More - IGN",
       "description": null,
-      "url": "https://www.ign.com/articles/daily-deals-xbox-series-s-nintendo-switch-oled-and-buy-2-get-1-on-select-video-games",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/06/xbox-series-s-on-sale-at-target-ign-2022-days-of-deals-1665052235848.png?width=1280",
-      "publishedAt": "2022-11-11T20:34:48Z",
-      "content": "Check out the hot daily deals for today, including a Nintendo Switch OLED or Xbox Series S that comes with a $75 Dell gift card, a buy 2, get 1 deal on video games at Amazon, or an ASUS gaming PC for… [+14712 chars]"
+      "url": "https://www.ign.com/articles/daily-deals-bayonetta-3-god-of-war-ragnarok-collectors-edition-my-hero-academia-and-more",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/15/bayonetta3-finalpreview-blogroll-1663109412471-1665850777845.jpg?width=1280",
+      "publishedAt": "2022-11-12T20:31:35Z",
+      "content": "Check out the hot daily deals for today, including a Nintendo Switch OLED or Xbox Series S that comes with a $75 Dell gift card, a buy 2, get 1 deal on video games at Amazon, or the first sale on Bay… [+15363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Zackerie Fairfax",
+      "title": "Pokemon Scarlet & Violet leak reveals Shiny Pokemon can’t be knocked out by Let’s Go feature - Dexerto",
+      "description": "Leaked footage of Pokemon Scarlet & Violet has put Shiny Hunter's fears at ease as the new Let's Go mechanic can't knock out Shinies.",
+      "url": "https://www.dexerto.com/pokemon/pokemon-scarlet-violet-leak-reveals-shiny-pokemon-cant-be-knocked-out-by-lets-go-feature-1982977/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2022/11/12/pokemon-scarlet-violet-lets-go.jpg",
+      "publishedAt": "2022-11-12T20:30:36Z",
+      "content": "Leaked footage of Pokemon Scarlet &amp; Violet has put fans at ease after it revealed Shiny Pokemon cant be knocked out when using the new Lets Go feature.\r\nFollowing media previews on October 21, Sh… [+1583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Daniel R Deakin",
+      "title": "Fruitful Samsung Galaxy S23 Ultra camera sample test leaves S22 Ultra and Pixel 7 Pro comparison shots lacking some zest - Notebookcheck.net",
+      "description": "An image comparison between the Samsung Galaxy S23 Ultra, Galaxy S22 Ultra, and the Google Pixel 7 Pro has emerged with what seems an obvious winner in terms of overall quality. A pumpkin fruit was used as the subject for the comparison, with the Galaxy S23 U…",
+      "url": "https://www.notebookcheck.net/Fruitful-Samsung-Galaxy-S23-Ultra-camera-sample-test-leaves-S22-Ultra-and-Pixel-7-Pro-comparison-shots-lacking-some-zest.668195.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Samsung_Galaxy_S23_Ultra_camera_comparison_sample_leak_drdNBC.jpg",
+      "publishedAt": "2022-11-12T20:28:34Z",
+      "content": "The leaker Ice universe has been busy offering up more details about the upcoming Samsung Galaxy S23 series, with the main focus being once again on the Galaxy S23 Ultra and its camera capabilities. … [+1530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Max Thielmeyer",
+      "title": "How To Earn Free Items Through Rocket League’s ‘Jump-Start A Friend’ Event - Forbes",
+      "description": "Rocket League’s newest event is all about getting players back into the game, and Psyonix are offering some pretty sweet rewards to those who party up with current or former players.",
+      "url": "https://www.forbes.com/sites/maxthielmeyer/2022/11/12/how-to-earn-free-items-through-rocket-leagues-jump-start-a-friend-event/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/636ffdd6cda64a4c56fa64cb/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+      "publishedAt": "2022-11-12T20:25:10Z",
+      "content": "Rocket Leagues newest event is all about getting players back into the game, and Psyonix are offering some pretty sweet rewards to those who party up with current or former players. \r\nThe event is ca… [+2442 chars]"
     },
     {
       "source": {
@@ -125,142 +177,90 @@
         "name": "Forbes"
       },
       "author": "Ewan Spence",
-      "title": "Android Circuit: Powerful Pixel 8 Pro Leaks, Honor Teases Foldable Flagship, Pixel Watch Vs Apple Watch - Forbes",
-      "description": "This week’s Android headlines; Pixel 8 Pro leaks, how the Pixel Watch beats the Apple Watch, first details on Xiaomi 13 and 13 Pro, Honor teases next-generation foldable, Huawei still locked out of 5G business, Niagara launcher escapes the Google Play store, …",
-      "url": "https://www.forbes.com/sites/ewanspence/2022/11/11/android-news-google-pixel-8-honor-magic-vs-huawei-5g-xiaomi-13-pro-niagara/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/636ea6c6e760eb7f87611978/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-11-11T20:30:04Z",
-      "content": "Taking a look back at seven days of news and headlines across the world of Android, this weeks Android Circuit includes Samsung's Airbus win, the Pixel 8 Pro leaks, how the Pixel Watch beats the Appl… [+6582 chars]"
+      "title": "Apple’s Shock MacBook Pro Decision - Forbes",
+      "description": "If Apple can offer confidence to the iPhone user base, why can it not do the same for MacBook Pro users?",
+      "url": "https://www.forbes.com/sites/ewanspence/2022/11/12/apple-macbook-pro-m2-pro-m2-ultra-delay-decision/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/636ffee75a2fc54ab061196b/0x0.jpg?format=jpg&crop=2340,1316,x1102,y526,safe&width=1200",
+      "publishedAt": "2022-11-12T20:20:34Z",
+      "content": "Apples decision to delay the launch of the professional 14-inch and 16-inch MacBook Pro laptops into 2023 has impacted the current line-up and those looking to upgrade. Apples smooth presentation and… [+3193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "Slopes iOS app gains Garmin auto-imports as winter sports season nears - 9to5Mac",
+      "description": "Apple Design Award-winning ski and snowboard tracking app Slopes has received another handy update ahead of winter arriving in the Northern Hemisphere. Now Garmin users can set up auto-imports and even bring in past ski/riding data from the last five years. A…",
+      "url": "https://9to5mac.com/2022/11/12/slopes-ios-app-garmin-support/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/slopes-app-garmin-support.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-11-12T19:57:00Z",
+      "content": "Apple Design Award-winning ski and snowboard tracking app Slopes has received another handy update ahead of winter arriving in the Northern Hemisphere. Now Garmin users can set up auto-imports and ev… [+1421 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Drive.com.au"
+      },
+      "author": null,
+      "title": "If the Tesla Model S was built in 1978, it would have been this, the Endura electric car - Drive",
+      "description": "Over 30 years before Tesla changed the world with its original Model S, American company Globe-Union built this family-sized electric car.",
+      "url": "https://www.drive.com.au/caradvice/if-the-tesla-model-s-was-built-in-1978-it-would-have-been-this-the-endura-electric-car/",
+      "urlToImage": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/l8jwb3r6wn0wxg2f1b1n",
+      "publishedAt": "2022-11-12T19:53:17Z",
+      "content": "Then, as now, recharging remained a lengthy process. Globe-Union promised the Enduras on board charger uses a 110-volt, 30-amp circuit and takes 14 to 16 hours to fully recharge a discharged battery … [+140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newzhook.com"
+      },
+      "author": "Hi-Rez",
+      "title": "After you alter the power setting, follow the arrangement - NewzHook",
+      "description": "After you alter the power setting, follow the arrangement utility’s headings to save and leave the board. Search for these three decisions: Stay in arrangement Save changes and leave arrangement Dispose of changes and leave arrangement Once more, the specific…",
+      "url": "https://newzhook.com/story/after-you-alter-the-power-setting-follow-the-arrangement/",
+      "urlToImage": "https://newzhook.com/wp-content/uploads/2020/05/NH_facebook_post_fb.jpg",
+      "publishedAt": "2022-11-12T19:52:02Z",
+      "content": "After you alter the power setting, follow the arrangement utility’s headings to save and leave the board. Search for these three decisions:\r\nStay in arrangementSave changes and leave arrangementDispo… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newzhook.com"
+      },
+      "author": "Max Lin",
+      "title": "Chinese Designers Have Fabricated a Folding iPhone - NewzHook",
+      "description": "For the present discussion about highlights Android and iOS have or don’t have, Android clients actually hold one elite gloat: the foldable cell phone. Between the Samsung Universe V Overlay, the most current Motorola Razr, and a couple other delightfully rat…",
+      "url": "https://newzhook.com/story/chinese-designers-have-fabricated-a-folding-iphone/",
+      "urlToImage": "https://newzhook.com/wp-content/uploads/2020/05/NH_facebook_post_fb.jpg",
+      "publishedAt": "2022-11-12T19:52:02Z",
+      "content": "For the present discussion about highlights Android and iOS have or don’t have, Android clients actually hold one elite gloat: the foldable cell phone. Between the Samsung Universe V Overlay, the mos… [+3200 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Danny Sahbegovic",
-      "title": "GTA Online finally adds Deathmatches to Community Series - Sportskeeda",
-      "description": "Starting this week, GTA Online is offering six new jobs for the Community Series, with a particular focus on combat. It remains unclear whether or not this was due to feedback from the playerbase.",
-      "url": "https://www.sportskeeda.com/gta/news-gta-online-finally-adds-deathmatches-community-series",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/11/84aac-16681905267025-1920.jpg",
-      "publishedAt": "2022-11-11T20:17:40Z",
-      "content": "Starting this week, GTA Online is offering six new jobs for the Community Series, with a particular focus on combat. It remains unclear whether or not this was due to feedback from the playerbase. De… [+3428 chars]"
+      "author": "Dipan Saha",
+      "title": "God of War Ragnarok: How to defeat Svipdagr The Cold - Sportskeeda",
+      "description": "God of War Ragnarok features several mini-bosses with challenging difficulty for players to test their skills against.",
+      "url": "https://www.sportskeeda.com/esports/god-war-ragnarok-beat-svipdagr",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2022/11/41eb3-16682738351177-1920.jpg",
+      "publishedAt": "2022-11-12T19:47:12Z",
+      "content": "God of War Ragnarok features several mini-bosses with challenging difficulty for players to test their skills against. The fights are brutal and challenging, and it is highly recommended to use a mid… [+3366 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Hot Hardware"
       },
-      "author": "Steven T. Wright",
-      "title": "How To Build A MiSTer, The Ultimate Retro Gaming Box - GameSpot",
-      "description": "You've heard of the Raspberry Pi, but the MiSTer is the real best-in-class retro gaming device. Here's how to build one.",
-      "url": "https://www.gamespot.com/articles/how-to-build-a-mister-the-ultimate-retro-gaming-box/1100-6509064/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/4060981-misterfpga.jpg",
-      "publishedAt": "2022-11-11T20:00:00Z",
-      "content": "From humble RetroPie setups to the pricey Analogue Pocket, retro gaming boxes are big business these days. The current crop of gaming consoles like the PS5 and Xbox Series X are great machines in the… [+6951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Osxdaily.com"
-      },
-      "author": null,
-      "title": "Change the Photo Booth Camera on Mac to iPhone - OSXDaily",
-      "description": "How’d you like to use the fantastic camera on your iPhone for Photo Booth on your Mac? You can do that!",
-      "url": "https://osxdaily.com/2022/11/11/change-the-photo-booth-camera-on-mac-to-iphone/",
-      "urlToImage": "https://cdn.osxdaily.com/wp-content/uploads/2017/03/photobooth-icon-mac.jpg",
-      "publishedAt": "2022-11-11T19:57:29Z",
-      "content": "How’d you like to use the fantastic camera on your iPhone for Photo Booth on your Mac? You can do that!\r\nIf your Mac is running the latest macOS version and your iPhone is running the latest iOS vers… [+1299 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Reviewed"
-      },
-      "author": "Matthew S. Smith",
-      "title": "Lenovo ThinkPad X13s Review: Portable but sluggish - Reviewed",
-      "description": "Lenovo’s ThinkPad X13s laptop ditches Intel to improve portability, but at the cost of almost everything else",
-      "url": "https://www.reviewed.com/laptops/content/lenovo-thinkpad-x13s-review",
-      "urlToImage": "https://reviewed-com-res.cloudinary.com/image/fetch/s--SHZL3b0A--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1668121296543/lenovo-thinkpad-x13s-4.jpg",
-      "publishedAt": "2022-11-11T19:51:57Z",
-      "content": "Pros\r\n<ul><li>\r\n Small, thin, and light\r\n</li><li>\r\n Excellent battery life\r\n</li><li>\r\n Great keyboard\r\n</li></ul>\r\nCons\r\n<ul><li>\r\n Sub-par processor performance\r\n</li><li>\r\n Disappointing display … [+14568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Aaron Leong",
-      "title": "Watch a modder transform a Mac Mini into a Nintendo Wii - Digital Trends",
-      "description": "Popular YouTuber Luke Miani has managed to fit the innards of an Apple M1-powered Mac Mini into a Nintendo Wii that can, among other things, game at 4K.",
-      "url": "https://www.digitaltrends.com/computing/watch-modder-transform-mac-mini-into-nintendo-wii/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/11/wii-mac-mini.jpg?p=1",
-      "publishedAt": "2022-11-11T19:48:56Z",
-      "content": "Popular YouTuber Luke Miani has managed to fit the innards of an Apple M1-powered Mac Mini into a Nintendo Wii that can, among other things, game at 4K. Miani wondered what it would be like to fit th… [+1430 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Dave Johnson",
-      "title": "Instagram not sending SMS codes? 7 ways to troubleshoot - Business Insider",
-      "description": "If Instagram is not sending an SMS code when you need it, you can get stuck and locked out of your account. Here are several ways to troubleshoot.",
-      "url": "https://www.businessinsider.com/guides/tech/instagram-not-sending-sms-code",
-      "urlToImage": "https://i.insider.com/636e92abf5877200181c83f6?width=1200&format=jpeg",
-      "publishedAt": "2022-11-11T19:36:54Z",
-      "content": "In an arms race to stay ahead of hackers and cybercriminals, Instagram uses a variety of tools to ensure your identity and ensure only authorized users gain access to their accounts. One of these too… [+4728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Shenzhen Pisoftware Technology Co., Ltd.",
-      "title": "Labpano Announces PilotPano--A 5.7K Versatile 360° AI Camera with 3.1-inch Touchscreen - GlobeNewswire",
-      "description": "Shenzhen, Guangdong, China, Nov.  11, 2022  (GLOBE NEWSWIRE) -- Product Highlights:    5.7K HD resolution and 4K HD Livestreaming3.1\" touchscreen and......",
-      "url": "https://www.globenewswire.com/news-release/2022/11/11/2554389/0/en/Labpano-Announces-PilotPano-A-5-7K-Versatile-360-AI-Camera-with-3-1-inch-Touchscreen.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c3f85725-c247-4e8a-bdc0-f4a96cb0ed6c?size=2",
-      "publishedAt": "2022-11-11T19:31:31Z",
-      "content": "Shenzhen, Guangdong, China, Nov. 11, 2022 (GLOBE NEWSWIRE) -- Product Highlights: \r\n<ul><li>5.7K HD resolution and 4K HD Livestreaming</li><li>3.1\" touchscreen and fluent Android-based operating syst… [+4141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dylan Martin",
-      "title": "Intel’s axed Optane biz spurts out mixed bag of new SSDs - The Register",
-      "description": "Only one of the two new 3D XPoint-based drives offer a performance improvement",
-      "url": "https://www.theregister.com/2022/11/11/intels_axed_optane_biz_spurts/",
-      "urlToImage": "https://regmedia.co.uk/2022/11/11/intel_optane_ssd_p5800x.jpg",
-      "publishedAt": "2022-11-11T19:28:00Z",
-      "content": "From the rotting corpse that is Intel's axed Optane memory business come a pair of new 3D XPoint-based SSDs for servers and workstations. Only one of them seems like an upgrade from drives released t… [+2793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mixed-news.com"
-      },
-      "author": "Tomislav Bezmalinovic",
-      "title": "Robo paramedics: VR robotics in military medical care - MIXED Reality News",
-      "description": "The University of Sheffield is researching robo-paramedics that use virtual reality to remotely help wounded soldiers.",
-      "url": "https://mixed-news.com/en/robo-paramedics-vr-robotics-in-military-medical-care/",
-      "urlToImage": "https://mixed-news.com/en/wp-content/uploads/2022/11/Soldaten-rennen-über-Sand.jpg",
-      "publishedAt": "2022-11-11T19:27:27Z",
-      "content": "The University of Sheffield is researching robo-paramedics using VR robotics to help wounded soldiers.\r\nTo save the lives of injured comrades, medics often put their own lives in danger. Moreover, ba… [+2671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Amerisurv.com"
-      },
-      "author": "Amerisurv-Editor",
-      "title": "Point Clouds to Paradise: 3D Point Clouds Help Manage an Innovative Development Project - Amerisurv",
-      "description": "Caulfield and Wheeler use TrueView 3D Imaging Systems and LP360 Software for Surveying Huntsville, AL– Caulfield & Wheeler, Inc., a professional civil engineering,...",
-      "url": "https://amerisurv.com/2022/11/11/point-clouds-to-paradise-3d-point-clouds-help-manage-an-innovative-development-project/",
-      "urlToImage": "https://amerisurv.com/wp-content/uploads/2022/11/Point-Cloud-to-Paradise-001-400x267.jpg",
-      "publishedAt": "2022-11-11T19:26:11Z",
-      "content": "Caulfield and Wheeler use TrueView 3D Imaging Systems and LP360 Software for Surveying\r\nCaulfield and Wheeler use TrueView drone technology from GeoCue to scan the Avenir Development\r\nHuntsville, AL–… [+5262 chars]"
+      "author": "Nathan Ord",
+      "title": "Artyfact Is A Hot New Unreal Engine 5-Powered Crypto Game Set In The Metaverse - Hot Hardware",
+      "description": "Are all these just buzzwords mashed together or is this the next big trend in the gaming world?",
+      "url": "https://hothardware.com/news/artyfact-pay-to-earn-metaverse-based-cryptocurrency-game",
+      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/60102/content/artyfact-logo.jpg",
+      "publishedAt": "2022-11-12T19:31:00Z",
+      "content": "In the last few years, the terms ‘metaverse’, ‘blockchain’, and ‘NFT’ have become buzzwords that bring certain things to mind. However, a game called Artyfact is trying to bring all those concepts to… [+1541 chars]"
     }
   ]
 }
