@@ -1,97 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 779,
+  "totalResults": 781,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "SC Magazine"
+        "name": "ZDNet"
       },
-      "author": "Steve Zurier",
-      "title": "Microsoft identifies issues with Kerberos authentication on certain Windows Servers - SC Media",
-      "description": "Security researchers say Microsoft has been cautious with this Kerberos issue, promising a fix in a couple of weeks, but point out that the issue is likely buried in complex OS code.",
-      "url": "https://www.scmagazine.com/news/vulnerability-management/microsoft-identifies-issues-with-kerberos-authentication-on-certain-windows-servers",
-      "urlToImage": "https://files.scmagazine.com/wp-content/uploads/2022/11/111422_microsoft_logo.jpg",
-      "publishedAt": "2022-11-14T22:32:24Z",
-      "content": "Microsoft on Sunday reported that after installing updates released on the most recent Patch Tuesday on Nov. 8, security teams might have issues with Kerberos authentication on Windows Servers with t… [+3510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameshub.com"
-      },
-      "author": "Leah J. Williams",
-      "title": "The Witcher 3 gets 'next gen' upgrade in December - GamesHub",
-      "description": "The upgraded 'next gen' version of The Witcher 3 for PlayStation 5 and Xbox Series X/S will officially launch in December 2022.",
-      "url": "https://www.gameshub.com/news/news/the-witcher-3-next-gen-upgrade-december-2022-33711/",
-      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/03/witcher-crunch.jpeg",
-      "publishedAt": "2022-11-14T22:32:16Z",
-      "content": "The Witcher 3: Wild Hunt is set to get a major next gen upgrade on 14 December 2022, free to everyone who already owns a copy of the game. The highly-anticipated pack will add new features to the gam… [+1910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Disentangling five dimensions of animacy in human brain and behaviour | Communications Biology - Nature.com",
-      "description": "An EEG, fMRI, and behavioural investigation of five object dimensions related to animacy provides insights into how distinct dimensions (and animacy) are represented in the brain and behaviour.",
-      "url": "https://www.nature.com/articles/s42003-022-04194-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-022-04194-y/MediaObjects/42003_2022_4194_Fig1_HTML.png",
-      "publishedAt": "2022-11-14T22:29:04Z",
-      "content": "Stimulus selection procedure and stimulus set\r\nEvaluating the contribution of individual dimensions of animacy (being alive, looking like an animal, having mobility, having agency, and being unpredic… [+38177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Dream Factory delivers Mario Brothers surprise to child - KMBC 9",
-      "description": "The Dream Factory makes another dream come true.  A self-proclaimed Mario Brothers expert wanted to visit the Nintendo store in New York City. That's where s...",
-      "url": "https://www.youtube.com/watch?v=LpNkAuSBi8s",
-      "urlToImage": "https://i.ytimg.com/vi/LpNkAuSBi8s/maxresdefault.jpg",
-      "publishedAt": "2022-11-14T22:22:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Will Judd",
-      "title": "This 512GB Integral Micro SD is just £42 right now and ideal for Steam Deck - Rock Paper Shotgun",
-      "description": "Micro SD cards are getting increasingly affordable, with even high-capacity 512GB models breaching the £50 barrier - including this £42 Integral Ultima Pro.",
-      "url": "https://www.rockpapershotgun.com/this-512gb-integral-micro-sd-is-just-42-right-now-and-ideal-for-steam-deck",
-      "urlToImage": "https://assets2.rockpapershotgun.com/71BPc0kQzML._AC_SL1500_.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/71BPc0kQzML._AC_SL1500_.jpg",
-      "publishedAt": "2022-11-14T22:19:59Z",
-      "content": "Micro SD cards are getting increasingly affordable, with even high-capacity 512GB models breaching the £50 barrier. Today we've seen one better though, as this 51GB Integral Ultima Pro model has drop… [+1826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Erik Kain",
-      "title": "How And When To Preload ‘Warzone 2’ Plus File Size On Xbox, PlayStation And PC - Forbes",
-      "description": "Everything you need to know about pre-loading Warzone 2 on Xbox, PlayStation and PC including file size and where to download.",
-      "url": "https://www.forbes.com/sites/erikkain/2022/11/14/how-and-when-to-preload-warzone-2-plus-file-size-on-xbox-playstation-and-pc/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6372b03db956007a5da8fb81/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-11-14T22:19:58Z",
-      "content": "Warzone 2\r\nCredit: Activision\r\nWarzone 2 is almost here, along with the start of Call Of Duty: Modern Warfare II Season 1, the addition of the new DMZ mode and a plethora of new content to dive into.… [+3896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Anshel Sag",
-      "title": "AMD’s New Radeon RX 7900XTX And 7900XT Put The Pressure On NVIDIA - Forbes",
-      "description": "Senior Analyst, Mobility & VR, Anshel Sag, gives his coverage of AMD's new Radeon RX 7900 XTX and 7900 XT in Las Vegas.",
-      "url": "https://www.forbes.com/sites/moorinsights/2022/11/14/amds-new-radeon-rx-7900xtx-and-7900xt-put-the-pressure-on-nvidia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6372bda173c947be168888a8/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2022-11-14T22:17:03Z",
-      "content": "Scott Herkelman Pictured\r\nAnshel Sag\r\nUp until this month, most people only knew AMDs latest GPUs as Navi or RDNA 3, which are the codename and architecture upon which they are based upon. AMD announ… [+10927 chars]"
+      "author": "Jack Wallen",
+      "title": "Follow this one simple rule for better phone security - ZDNet",
+      "description": "Here's a bit of advice that Android users should consider to keep their smartphones and tablets as secure as possible.",
+      "url": "https://www.zdnet.com/article/follow-this-one-simple-rule-for-better-phone-security/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/68b492b67884e4e5159e9d8e8a2c5cb2d290d189/2017/06/19/ba0a1603-2591-47f8-87fd-1272232bffd2/istock-648412962.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-15T22:17:24Z",
+      "content": "NicoElNino, Getty Images/iStockphoto\r\nAndroid devices are everywhere. Google's mobile OS has a massive hold on the global market share and that's not going to change anytime soon. Partly because of t… [+2714 chars]"
     },
     {
       "source": {
@@ -99,103 +21,168 @@
         "name": "ZDNet"
       },
       "author": "Rebecca Isaacs",
-      "title": "Best early Amazon Black Friday deals 2022: Save today on Echo Show, Fire TV, Chromebooks, and more - ZDNet",
-      "description": "Amazon's Black Friday plan involves getting the deals straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.",
-      "url": "https://www.zdnet.com/article/early-amazon-black-friday-deals-november-14-2022/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/738821fc5a0376add578c5bc7c6994fbe417f6a8/2022/11/03/52c07ec6-53be-4053-9489-ea43224aa3f3/amazon-43-inch-omni-fire-smart-tv.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-11-14T22:10:59Z",
-      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
+      "title": "Get the Samsung Galaxy Watch 4 for only $100 - ZDNet",
+      "description": "Right now, you can pick up an excellent new smartwatch for only $100. But this deal at eBay won't last long -- grab it while it lasts.",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-4-deal-coupon-promo-code/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1dc91fa438e817d7b6a7b1a33af4d80c3f74c560/2022/11/02/ef4237bf-7d23-4d24-b00b-3ab7349be0cf/untitled-design-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-11-15T22:15:31Z",
+      "content": "Wanting a brand new Samsung Galaxy Watch? You're in luck today, because you can grab the Samsung Galaxy Watch 4 for only $100. That's not a typo -- originally $279, you can now get one of the best Sa… [+1516 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Popular free Superman Unreal Engine 5 demo 'stolen' and sold as $11 game on Steam - Eurogamer.net",
-      "description": "An eye-catching Superman demo, made in Unreal Engine 5 and widely circulated online earlier this year, has been taken a…",
-      "url": "https://www.eurogamer.net/popular-free-superman-unreal-engine-5-demo-stolen-and-sold-as-11-game-on-steam",
-      "urlToImage": "https://assets.reedpopcdn.com/superman-ue5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/superman-ue5.jpg",
-      "publishedAt": "2022-11-14T22:08:12Z",
-      "content": "An eye-catching Superman demo, made in Unreal Engine 5 and widely circulated online earlier this year, has been taken and sold on Steam as an $11 game.\r\nThe original proof-of-concept demo - titled A … [+3544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "INSIDER"
-      },
-      "author": "Kelly Burch",
-      "title": "Best podcasts for relationship advice - Insider",
-      "description": "Listening to a podcast is a low stress way to work on any challenges you and your partner(s) may be facing.",
-      "url": "https://www.insider.com/guides/health/mental-health/best-relationship-advice-podcasts",
-      "urlToImage": "https://i.insider.com/637258bf951bdc00182deb34?width=1200&format=jpeg",
-      "publishedAt": "2022-11-14T22:05:14Z",
-      "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nLoading\r\nSomething is loading.\r\nBeing in a happy romantic relationship is good for your health. Research shows t… [+978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everyday Health"
-      },
-      "author": "Elena Barrera",
-      "title": "Do Sauna Suits Really Work for a Better Workout? - Everyday Health",
-      "description": "Sweat-inducing clothes are getting attention on social media and in some fitness circles. Here, an exercise scientist weighs in on the benefits and risks of these suits.",
-      "url": "https://www.everydayhealth.com/fitness/does-wearing-a-sauna-suit-really-boost-your-workout/",
-      "urlToImage": "https://images.everydayhealth.com/images/can-a-sauna-suit-really-boost-your-workout-1440x810.jpg?sfvrsn=bd07f13b_1",
-      "publishedAt": "2022-11-14T22:01:31Z",
-      "content": "If youre looking to get your sweat on, the sauna suit gym-wear trend may be for you.\r\nIf youre not familiar, a sauna suit is an outfit designed to trap body heat and increase how much you sweat.\r\nSom… [+6566 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Steven Cohen",
-      "title": "Samsung early Black Friday TV deal: Get an S95B OLED 4K TV for 40% off - Business Insider",
-      "description": "The S95B is one of the most impressive 4K TVs we've ever seen. The high-end display is on sale now for less than competing sets from LG and Sony.",
-      "url": "https://www.businessinsider.com/guides/deals/samsung-s95b-oled-4k-tv-black-friday-deal-2022-11",
-      "urlToImage": "https://i.insider.com/63496f8b2f7a5a00185279da?width=1200&format=jpeg",
-      "publishedAt": "2022-11-14T22:00:58Z",
-      "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nBlack Friday is less than two weeks away, and we're already seeing some excellent early discounts on TVs. One of… [+2874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+        "name": "CNA"
       },
       "author": null,
-      "title": "The Oregon Trail - Launch Trailer - Nintendo Switch - Nintendo of America",
-      "description": "The Oregon Trail is available now on Nintendo Switch: https://www.nintendo.com/store/products/the-oregon-trail-switch/A modern twist on the trials and tribul...",
-      "url": "https://www.youtube.com/watch?v=Q623BxXOM0o",
-      "urlToImage": "https://i.ytimg.com/vi/Q623BxXOM0o/maxresdefault.jpg",
-      "publishedAt": "2022-11-14T22:00:12Z",
+      "title": "'The algorithm does it for you': Why social media users are ditching 'boring' Facebook and Instagram for shiny new toys - CNA",
+      "description": "With talk of a Twitter exodus in the wake of Elon Musk's takeover, CNA looks at why some in Singapore are switching from mainstream social media services to alternative ones.",
+      "url": "https://www.channelnewsasia.com/singapore/social-media-mastodon-bereal-douyin-xiaohongshu-twitter-facebook-instagram-tiktok-3074511",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--lpX9AL8b--/c_crop,h_843,w_1500,x_0,y_152/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/11/15/IMG_2106.jpg?itok=X5uSmEso",
+      "publishedAt": "2022-11-15T22:04:40Z",
+      "content": "Facebook, for Mr Tan, has now mainly become a platform to get updates about friends and family members, not so much for entertainment.\r\nStudent Teo Xin Xi, 22, had one word for the likes of Facebook,… [+1708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "Where Can You Buy an Nvidia GeForce RTX 4080 on Launch Day? - PCMag",
+      "description": "Nvidia's RTX 4080 goes on sale on Wednesday, Nov. 16, likely around 6 a.m. PST. Retailers including Best Buy and Newegg are already preparing to sell it online.",
+      "url": "https://www.pcmag.com/news/where-can-you-buy-an-nvidia-geforce-rtx-4080-on-launch-day",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/07dkKt0FIdkhsIE46e7TZAy-1.fit_lim.size_1200x630.v1668544117.jpg",
+      "publishedAt": "2022-11-15T22:03:49Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "road.cc"
       },
-      "author": "Tom Ivan",
-      "title": "Xbox proactively suspended up to 4.8m user accounts in the first half of 2022 - Video Games Chronicle",
-      "description": "‘Xbox Transparency Report’ reveals scale of the platform holder’s enforcement action…",
-      "url": "https://www.videogameschronicle.com/news/xbox-proactively-suspended-up-to-4-8-million-accounts-in-the-first-half-of-2022/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2020/07/Xbox-Live-Gold-a.jpg",
-      "publishedAt": "2022-11-14T21:57:47Z",
-      "content": "Microsoft has revealed that it proactively suspended up to 4.78 million Xbox user accounts during the first six months of 2022.\r\nThe data was included in the companys inaugural Xbox Transparency Repo… [+2437 chars]"
+      "author": null,
+      "title": "Bike at Bedtime: Check out the “fastest ever” Giant Propel aero road bike - road.cc",
+      "description": "Giant says its 2023 aero road bike is significantly lighter than before as well as being much more aero...",
+      "url": "https://road.cc/content/feature/check-out-fastest-ever-giant-propel-aero-road-bike-296973",
+      "urlToImage": "https://road.cc/sites/default/files/styles/main_width/public/bike-bedtime-2023-giant-propel-advanced-sl-1-1.jpeg",
+      "publishedAt": "2022-11-15T22:01:04Z",
+      "content": "The first 2023 Giant Propel aero road bikes will arrive in the UK this month so lets take a look at the new design which is said to be lighter and stiffer than before (of course!) as well as more aer… [+4298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RoadandTrack.com"
+      },
+      "author": "Lucas Bell",
+      "title": "Manhart TR 900 Is a 945-HP Porsche 911 GT2 RS - Road & Track",
+      "description": "When 690 horsepower just doesn't cut it.",
+      "url": "https://www.roadandtrack.com/news/a41955603/manhart-tr-900-is-a-945-hp-porsche-911-gt2-rs/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/manhart-tr-900-website-1-1668446947.jpeg?crop=1.00xw:0.777xh;0,0.117xh&resize=1200:*",
+      "publishedAt": "2022-11-15T21:58:32Z",
+      "content": "The GT2 RS holds a special place in the canon of Porsche road cars. That’s particularly true of the 991 generation car, which proved to be one of the most capable customer track cars ever to come out… [+2666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Monckton",
+      "title": "New Google Pixel Smartphone Leak Looks Too Good To Be True - Forbes",
+      "description": "Google’s next-gen mid-range smartphone, could pack a surprisingly huge camera upgrade.",
+      "url": "https://www.forbes.com/sites/paulmonckton/2022/11/15/new-google-pixel-smartphone-leak-looks-too-good-to-be-true/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/637407e7d752740662f59b95/0x0.jpg?format=jpg&crop=730,486,x84,y126,safe&width=1200",
+      "publishedAt": "2022-11-15T21:53:20Z",
+      "content": "Exciting details have emerged revealing plans for Googles next-gen mid-range smartphone, the Pixel 7a, including a massive camera upgrade.\r\nAccording to the leak which comes, once again, courtesy of … [+2158 chars]"
     },
     {
       "source": {
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Michael McWhertor",
-      "title": "God of War Ragnarok Easter egg makes PlayStation All-Stars canon - Polygon",
-      "description": "Kratos, the star of God of War Ragnarok, is also one of the all-stars in 2012’s fighting game PlayStation All-Stars Battle Royale. Ragnarok (and Mimir) won’t let Kratos forget.",
-      "url": "https://www.polygon.com/23452012/god-of-war-ragnarok-playstation-all-stars-mortal-kombat-soulcalibur",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1FIi4v1iKGCeJ0gugbIe1k-2eTg=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24185893/kratos_raiden_fujin.jpg",
-      "publishedAt": "2022-11-14T21:55:08Z",
-      "content": "Santa Monica Studios soft reboot of God of War and its new sequel, God of War Ragnarök, focus on the god-slaying hero reckoning with and at times, trying to hide from his violent past. And while much… [+3258 chars]"
+      "author": "Owen S. Good",
+      "title": "MultiVersus patch adds Big Head Mode now, Marvin the Martian later - Polygon",
+      "description": "MultiVersus, Warner Bros. ensemble fighting game starring the likes of Batman and Bugs Bunny, is now in season 2 and Looney Tunes’ Marvin the Martian will soon join the playable roster.",
+      "url": "https://www.polygon.com/23460977/multiversus-season-2-patch-update-notes-marvin-the-martian-big-head",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Sfhk-4TxfthDbJsYLkQpHarqqfw=/0x0:1280x670/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199745/bugs_bunny_in_haredevil_hare.jpg",
+      "publishedAt": "2022-11-15T21:36:36Z",
+      "content": "MultiVersus second season adds Big Head Mode to the Silly Queue, which the Super Smash Bros.-like fighter introduced just two weeks ago. It opens the way, appropriately enough, for Looney Tunes bug-e… [+1616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "macOS: How to Edit Strong Password Suggestions - MacRumors",
+      "description": "Like previous versions of Apple's Mac software, macOS Ventura is able to automatically generate strong passwords for app and website logins, but...",
+      "url": "https://www.macrumors.com/how-to/edit-strong-password-suggestions-macos/",
+      "urlToImage": "https://images.macrumors.com/t/MLMu1YS3U4XkOrQ2SURFet8HyuI=/1600x/article-new/2022/06/macos-ventura-roundup-header.jpg",
+      "publishedAt": "2022-11-15T21:26:01Z",
+      "content": "Like previous versions of Apple's Mac software, macOS Ventura is able to automatically generate strong passwords for app and website logins, but now you can also edit them, and even generate password… [+1412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "How to Disable App Notification Grouping in iOS - MacRumors",
+      "description": "This article explains how to prevent iOS from grouping app notifications on the Lock Screen. Keep reading to learn how it's done.   Since iOS 12,...",
+      "url": "https://www.macrumors.com/how-to/disable-app-notification-grouping-ios/",
+      "urlToImage": "https://images.macrumors.com/t/yE9qPjmjc8oNOMZTxKfgHx6ZVLc=/1600x/article-new/2021/01/ios15-notifications.jpg",
+      "publishedAt": "2022-11-15T21:21:55Z",
+      "content": "This article explains how to prevent iOS from grouping app notifications on the Lock Screen. Keep reading to learn how it's done.\r\nSince iOS 12, iPhone Lock Screens have defaulted to notification gro… [+1184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steven T. Wright",
+      "title": "Sonic Frontiers / Monster Hunter Crossover Features Meat-Grilling Minigame - GameSpot",
+      "description": "A bizarre crossover between Monster Hunter and Sonic Frontiers has the Blue Blur in some interesting costumes.",
+      "url": "https://www.gamespot.com/articles/sonic-frontiers-monster-hunter-crossover-features-meat-grilling-minigame/1100-6509185/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/4063610-sonicfrontiers.jpg",
+      "publishedAt": "2022-11-15T21:19:23Z",
+      "content": "Sonic Frontiers' first piece of free DLC is already here, and it's a strange one. The crossover between Capcom's Monster Hunter and Sonic is perhaps one of the most unexpected we've seen this year, b… [+1222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Mark Delaney",
+      "title": "Somerville Mine Puzzle Guide - GameSpot",
+      "description": "Getting out of the mine in Somerville is a bit tricky, so use our guide for a quick solution.",
+      "url": "https://www.gamespot.com/articles/somerville-mine-puzzle-guide/1100-6509183/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4063309-somerville11_10_20224_36_12pm.png",
+      "publishedAt": "2022-11-15T21:14:12Z",
+      "content": "In Somerville, the aliens are the real threat, but it's the game's puzzles that may stand in your way most often. A mid-game puzzle involving a mine cart demands you use your unique abilities wisely,… [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Alex Perry",
+      "title": "Microsoft debuts an 'ugly' Clippy sweater in time for the holidays - Mashable",
+      "description": "It's only $75!",
+      "url": "https://mashable.com/article/microsoft-clippy-ugly-holiday-sweater",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0535I2rjpKOl2Dwf1pg7tHE/hero-image.fill.size_1200x675.v1668544296.jpg",
+      "publishedAt": "2022-11-15T21:13:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Jason Cross",
+      "title": "Apple is giving users more control over the iPhone 14 Pro's always-on display - Macworld",
+      "description": "If you don't like how the always-on display shows the wallpaper and notifications, iOS 16.2 lets you change it.",
+      "url": "https://www.macworld.com/article/1380925/ios-16-2-iphone-14-pro-always-on-display-wallpaper-notifications.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/11/ios16-2-always-on-hero.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-11-15T21:08:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple is far from th… [+1705 chars]"
     },
     {
       "source": {
@@ -203,64 +190,77 @@
         "name": "Ars Technica"
       },
       "author": "Samuel Axon",
-      "title": "Report: Apple’s mixed reality headset is just a few months away - Ars Technica",
-      "description": "The device could be announced as soon as January.",
-      "url": "https://arstechnica.com/gadgets/2022/11/report-apples-mixed-reality-headset-is-just-a-few-months-away/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/swordofdamocles-640x215.jpg",
-      "publishedAt": "2022-11-14T21:50:23Z",
-      "content": "Enlarge/ The \"Sword of Damocles\" head-mounted display, the original augmented reality headset, circa 1968.\r\n25 with 0 posters participating\r\nApple is wrapping up development of its long-rumored, long… [+2216 chars]"
+      "title": "Apple’s satellite emergency service launches in the US and Canada - Ars Technica",
+      "description": "It'll come to France, Germany, Ireland, and the UK in December.",
+      "url": "https://arstechnica.com/gadgets/2022/11/apples-satellite-emergency-service-launches-in-the-us-and-canada/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone-14-pro-max-back-760x380.jpeg",
+      "publishedAt": "2022-11-15T21:08:00Z",
+      "content": "55 with 0 posters participating\r\n<ul><li>\r\n You'll be prompted to consider this option if you try to contact emergency services but are unable to. \r\n</li><li>\r\n Emergency SOS via satellite can be use… [+3144 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Medscape"
+        "name": "GameSpot"
       },
-      "author": "Steve Stiles",
-      "title": "IRONMAN Galvanizes Case for IV Iron Repletion in Heart Failure - Medscape",
-      "description": "The trial missed its primary endpoint, but makes unique contributions; many see it as further evidence that the treatment helps iron-deficient patients with heart failure.",
-      "url": "https://www.medscape.com/viewarticle/984030",
-      "urlToImage": "https://img.medscape.com/thumbnail_library/dt_221103_saline_iv_drip_800x450.jpg",
-      "publishedAt": "2022-11-14T21:42:50Z",
-      "content": "Another major study appears to back the use of intravenous iron repletion in patients with heart failure (HF) and iron deficiency, strengthening largely consistent evidence, researchers say, that the… [+9622 chars]"
+      "author": "Jenny Zheng",
+      "title": "Rainbow Six Siege Is Getting A Nier Crossover - GameSpot",
+      "description": "Tune in during Rainbow Six Siege's official livestream reveal for Year 7 Season 4 to learn more about the collaboration.",
+      "url": "https://www.gamespot.com/articles/rainbow-six-siege-is-getting-a-nier-crossover/1100-6509181/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4063595-nierrainbowsixsiege.jpg",
+      "publishedAt": "2022-11-15T20:51:06Z",
+      "content": "Nier has had a lot of collaborations with a lot of games--and this time, it's crossing over with Rainbow Six Siege. Ubisoft's tactical shooter will soon be getting a Maverick Nier Replicant bundle in… [+1357 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "author": "Sammy Barker",
-      "title": "God of War Ragnarok Guide: Walkthrough, All Collectibles, and Wiki - Push Square",
-      "description": "Your ultimate 100% completion guide for God of War Ragnarok",
-      "url": "https://www.pushsquare.com/guides/god-of-war-ragnarok-guide-walkthrough-all-collectibles-and-wiki",
-      "urlToImage": "https://images.pushsquare.com/ec16d2850c2cb/1280x720.jpg",
-      "publishedAt": "2022-11-14T21:42:18Z",
-      "content": "Image: Push Square\r\nGod of War Ragnarok is an action adventure game created by PS Studios developer Santa Monica Studio for PS5 and PS4, and is the sequel to 2018's critically acclaimed God of War. I… [+6382 chars]"
+      "author": "Matt Wales",
+      "title": "Phil Spencer says Xbox shelved game streaming box because it cost too much - Eurogamer.net",
+      "description": "Xbox boss Phil Spencer has revealed Microsoft's decision to \"pivot away\" from its previously announced Game Pass stream…",
+      "url": "https://www.eurogamer.net/phil-spencer-says-xbox-shelved-game-streaming-box-because-it-was-too-expensive",
+      "urlToImage": "https://assets.reedpopcdn.com/phils-mystery-box_zVhJG7w.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/phils-mystery-box_zVhJG7w.jpg",
+      "publishedAt": "2022-11-15T20:48:06Z",
+      "content": "Xbox boss Phil Spencer has revealed Microsoft's decision to \"pivot away\" from its previously announced Game Pass streaming box earlier this year was due to pricing concerns, with the company unable t… [+1910 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sneaker News"
+        "name": "PhoneArena"
+      },
+      "author": "Alan Friedman",
+      "title": "Qualcomm officially unveils the powerful Snapdragon 8 Gen 2 chipset - PhoneArena",
+      "description": "Qualcomm has officially announced the Snapdragon 8 Gen 2 SoC which will start powering devices by the end of this year.",
+      "url": "https://www.phonearena.com/news/snapdragon-8-gen-2-official_id143716",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/143716-wide-two_1200/Qualcomm-officially-unveils-the-powerful-Snapdragon-8-Gen-2-chipset.jpg",
+      "publishedAt": "2022-11-15T20:39:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
       },
       "author": null,
-      "title": "This PUMA Wild Rider Is Inspired By The Legendary Porsche 911 Classic Club Coupe - Sneaker News",
-      "description": "Porsche Design is no stranger to the workings of sneaker culture, having previously developed a long-running collection alongside adidas. And while their relationship with the Three Stripes has since come to an end, the German design studio is still as much a…",
-      "url": "https://sneakernews.com/2022/11/14/puma-porsche-911-classic-club-coupe-wild-rider-release-info/",
-      "urlToImage": "https://sneakernews.com/wp-content/uploads/2022/11/PUMA-Porche-911-Classic-Club-Coupe-Release-Info-0.jpg",
-      "publishedAt": "2022-11-14T21:40:28Z",
-      "content": "Porsche Design is no stranger to the workings of sneaker culture, having previously developed a long-running collection alongside adidas. And while their relationship with the Three Stripes has since… [+1023 chars]"
+      "title": "@Breedlove Guitars Wildwood Solo Series - Gear Spotlight - Premier Guitar",
+      "description": "Check out two new models that feature sustainable African mahogany, Fishman electronics, and wildly comfortable necks.Learn More: https://www.premierguitar.c...",
+      "url": "https://www.youtube.com/watch?v=Rg7fMCt9J84",
+      "urlToImage": "https://i.ytimg.com/vi/Rg7fMCt9J84/maxresdefault.jpg",
+      "publishedAt": "2022-11-15T20:30:35Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Theregister.com"
       },
-      "author": "Michael Potuck",
-      "title": "Best USB-C/Thunderbolt displays for MacBooks - 9to5Mac",
-      "description": "This guide covers a list of the best USB-C/Thunderbolt displays available for MacBook Pro, MacBook Air, MacBook, Mac mini, and even PCs.",
-      "url": "https://9to5mac.com/2022/11/14/best-4k-usb-c-displays-for-macbook-and-macbook-pro/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/best-usb-thunderbolt-displays-lg-smart-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-11-14T21:40:00Z",
-      "content": "USB-C/Thunderbolt display options have really grown over the last couple of years. While Apple’s Pro Display XDR isn’t the best fit for most Mac users at $5,000+, it now offers the more affordable St… [+11537 chars]"
+      "author": "Dylan Martin",
+      "title": "Chips in space: Reprogrammable AMD AI SoC gets clear for liftoff - The Register",
+      "description": "Team Red believes chip will allow AI inferencing to proliferate in the cosmos",
+      "url": "https://www.theregister.com/2022/11/15/amd_versal_space_chip/",
+      "urlToImage": "https://regmedia.co.uk/2022/11/15/amd_versal_space.jpg",
+      "publishedAt": "2022-11-15T20:30:00Z",
+      "content": "AMD claims that AI inferencing is about to become cheaper and more widely available for satellites and other space equipment now that a version of its reprogrammable Versal system-on-chip has been de… [+2612 chars]"
     }
   ]
 }
