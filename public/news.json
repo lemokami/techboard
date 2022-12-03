@@ -1,162 +1,227 @@
 {
   "status": "ok",
-  "totalResults": 800,
+  "totalResults": 805,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Gameshub.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Leah J. Williams",
-      "title": "Xbox Game Pass adds Lego Star Wars, High on Life in December - GamesHub",
-      "description": "Xbox Game Pass is adding a range of hits in December 2022, including the excellent Lego Star Wars: The Skywalker Saga, and more.",
-      "url": "https://www.gameshub.com/news/news/xbox-game-pass-december-2022-wave-one-lego-star-wars-35229/",
-      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/12/high-on-life-game.jpg",
-      "publishedAt": "2022-12-01T22:33:26Z",
-      "content": "Xbox Game Pass is flexing hard this December, with a bundle of worthy new additions arriving on the subscription platform shortly, including several new releases. Headlining the new pack is Lego Star… [+2608 chars]"
+      "author": "Benj Edwards",
+      "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix - Ars Technica",
+      "description": "Creating AI-generated images on Macs, iPhones, and iPads just got a lot faster.",
+      "url": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/apple_stable_diffusion_hero_1-760x380.jpg",
+      "publishedAt": "2022-12-02T22:27:03Z",
+      "content": "Enlarge/ Two examples of Stable Diffusion-generated artwork provided by Apple.\r\n5 with 0 posters participating\r\nOn Wednesday, Apple released optimizations that allow the Stable Diffusion AI image gen… [+3060 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "Digital Trends"
       },
-      "author": "Louis Ramirez",
-      "title": "LIVE: Cyber Monday TV deals still available now — $800 off OLED and more - Tom's Guide",
-      "description": "Cheap TV deals from every retailer",
-      "url": "https://www.tomsguide.com/us/best-tv-deals,news-26008.html",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/A37GKGnMeggXSFJEDRoJ6Y-1200-80.jpg",
-      "publishedAt": "2022-12-01T22:21:05Z",
-      "content": "The season for cheap TV deals is here with retailers taking from $100 to $1,000 off our favorite TVs. Plus, with the holiday season in full swing, TV sales are bound to remain low. \r\nCurrently, Amazo… [+9162 chars]"
+      "author": "Billy Givens",
+      "title": "Where to find the Tactical Pistol in the Callisto Protocol - Digital Trends",
+      "description": "The Tactical Pistol is a useful addition to your arsenal, but the schematic to make it can be easy to miss.",
+      "url": "https://www.digitaltrends.com/gaming/the-callisto-protocol-tactical-pistol-location/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/12/callisto-tac-gun-2.jpg?p=1",
+      "publishedAt": "2022-12-02T21:49:13Z",
+      "content": "The Callisto Protocol features a total of five guns to supplement protagonist Jacob’s melee baton and GRP device and you’ll need all the help you can get to fend off the game’s seemingly endless onsl… [+1929 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "Forbes"
       },
-      "author": "Maria Diaz",
-      "title": "Eufy's security cameras send data to the cloud without consent, and that's not the worst part - ZDNet",
-      "description": "Eufy camera users also learned that their camera streams can be accessed remotely using VLC without encryption or authentication.",
-      "url": "https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b6bf6e50da39cc4a5595093f5555951964bd82e7/2022/12/01/72edd7f7-03d3-4fc9-a771-f5bc96dd918a/eufy-security-issues.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-12-01T22:11:54Z",
-      "content": "Illustration: Maria Diaz | ZDNET - Photo: MaryAnnShmueli via Getty Images\r\nEufy's claims to keep \"privacy in your own hands\" have been rendered null, after a researcher caught the security camera com… [+3182 chars]"
+      "author": "Ewan Spence",
+      "title": "Android Circuit: Pixel 7a Leaks, Galaxy Flip 5 Details, The Fall Of Huawei - Forbes",
+      "description": "This week’s Android headlines; Samsung’s Galaxy Flip 5 plans, Pixel 7a design leaks, OnePlus' OxygenOS moves, Microsoft's plans for a Surface Insider program, the fall of Huawei, why Elon Musk is not launching a rival phone, and more...",
+      "url": "https://www.forbes.com/sites/ewanspence/2022/12/02/android-news-google-samsung-flip-pixel-7a-oxygenos-huawei-microsoft-surface-duo/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/638a6dcc08378cee33e2e8e3/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-12-02T21:42:58Z",
+      "content": "Taking a look back at seven days of news and headlines across the world of Android, this weeks Android Circuit includes Samsungs Galaxy Flip 5 plans, Pixel 7a design leaks, OnePlus' OxygenOS moves, n… [+6140 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Sky: Children of Light for PS4 launches December 6 - Gematsu",
-      "description": "thatgamecompany will release free-to-play adventure game Sky: Children of Light for PlayStation 4 on December 6, the developer announced. Sky: Children of Light is currently available for Switch, iOS…",
-      "url": "https://www.gematsu.com/2022/12/sky-children-of-light-for-ps4-launches-december-6",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/12/Sky-PS4_12-01-22.jpg",
-      "publishedAt": "2022-12-01T22:08:52Z",
-      "content": "Sky: Children of Light is currently available for Switch, iOS, and Android.About\r\nExperience the best of humanity in a place where you can meaningfully connect with others. In Sky, you can soar above… [+3231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Synced"
+        "name": "PCMag.com"
       },
       "author": null,
-      "title": "Stanford U & Google’s Convex Analytic Training Framework Improves the Understanding and Optimization of Transformers - Synced",
-      "description": "Although the remarkable power and successes of transformer architectures have been well documented by the machine learning research community in recent years, there remains a lack of literature providing a rigorous theoretical analysis of transformer networks…",
-      "url": "https://syncedreview.com/2022/12/01/stanford-u-googles-convex-analytic-training-framework-improves-the-understanding-and-optimization-of-transformers/",
-      "urlToImage": null,
-      "publishedAt": "2022-12-01T22:05:57Z",
-      "content": "Although the remarkable power and successes of transformer architectures have been well documented by the machine learning research community in recent years, there remains a lack of literature provi… [+3077 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "How to change the ringtone on your doorbell - The Verge",
-      "description": "Many video doorbells can play fun or useful ringtones when someone presses your doorbell. Here’s how to change the doorbell ringtone for a Ring, Google Nest, or Arlo smart doorbell camera.",
-      "url": "https://www.theverge.com/23488326/video-doorbell-ringtone-change-how-to",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IGhACMFOicdBWZligb-cztfrDH4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952409/HT023_smartHome_0005.jpg",
-      "publishedAt": "2022-12-01T21:58:27Z",
-      "content": "How to change your video doorbell ringtone\r\nHow to change your video doorbell ringtone\r\n / Step up your smart doorbell game and surprise your visitors with some fun and festive ringtones on your Nest… [+3340 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alice Newcome-Beill",
-      "title": "Today's Google Doodle celebrates one of gaming's hidden figures - The Verge",
-      "description": "Gerald “Jerry” Lawson, the self-taught Black engineer, is one of the more obscure names responsible for turning video games into what we know today. The inventor of the video game cartridge would’ve turned 82 today.",
-      "url": "https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Y916iebnRDJkLUOWTb4coI8rfr8=/9x3:372x259/1200x628/filters:focal(221x55:222x56)/cdn.vox-cdn.com/uploads/chorus_asset/file/24248116/Jerry_lawson_ca_1980.png",
-      "publishedAt": "2022-12-01T21:51:52Z",
-      "content": "Todays Google Doodle celebrates one of gamings hidden figures\r\nTodays Google Doodle celebrates one of gamings hidden figures\r\n / Gerald Jerry Lawson, the engineer largely responsible for the inventio… [+2789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Spinoff"
-      },
-      "author": "Chris Schulz",
-      "title": "The bumper 2022 Christmas tech gift guide - The Spinoff",
-      "description": "Personalised watches, connected toys and foldable flip phones: there are tech gifts to suit every family member. Yes, even grannie.",
-      "url": "https://thespinoff.co.nz/Business/02-12-2022/the-bumper-2022-christmas-tech-gift-guide",
-      "urlToImage": "https://images.thespinoff.co.nz/1/2022/12/tech-gift-guide.png",
-      "publishedAt": "2022-12-01T21:44:51Z",
-      "content": "Personalised watches, connected toys and foldable flip phones: there are tech gifts to suit every family member. Yes, even grannie.\r\nAfter several years of Covid disruptions and supply chain delays, … [+8683 chars]"
+      "title": "TP-Link Archer AX21 AX1800 Dual-Band Wi-Fi 6 Router Review - PCMag",
+      "description": "TP-Link's Archer AX21 is a value-priced dual-band Wi-Fi 6 router that's short on features but a solid performer.",
+      "url": "https://www.pcmag.com/reviews/tp-link-archer-ax21-ax1800-dual-band-wi-fi-6-router",
+      "urlToImage": "https://i.pcmag.com/imagery/reviews/04JPuTGPw82G74AhfIRSGO6-1.fit_lim.size_1200x630.v1669835936.jpg",
+      "publishedAt": "2022-12-02T21:36:01Z",
+      "content": null
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": null,
-      "title": "Defend Your Valor - How to Defeat Valkyrie Queen Gna - God of War Ragnarok Wiki Guide - IGN",
-      "description": "God of War Ragnarok at IGN: walkthroughs, items, maps, video tips, and strategies",
-      "url": "https://www.ign.com/wikis/god-of-war-ragnarok/Defend_Your_Valor_-_How_to_Defeat_Valkyrie_Queen_Gna",
-      "urlToImage": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/god-of-war-ragnarok/4/4c/GNa_Intro.jpg",
-      "publishedAt": "2022-12-01T21:41:48Z",
-      "content": "Defend Your Valor is a Side Quest Favor that is accessed during the Epilogue of God of War Ragnarok. This page contains information on how to find and defeat the Valkyrie Queen Gna - who is the tough… [+17086 chars]"
+      "author": "Amelia Zollner",
+      "title": "Valve Will Give Away Almost Two Hundred Steam Decks at The Game Awards - IGN",
+      "description": "Valve is giving away one Steam Deck per minute of the Game Awards next week, resulting in almost 200 free Steam Decks going to viewers of the awards show.",
+      "url": "https://www.ign.com/articles/valve-will-give-away-almost-two-hundred-steam-decks-at-the-game-awards",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/02/25/steamdeck-review-blogroll-1645748487903.jpg?width=1280",
+      "publishedAt": "2022-12-02T21:17:48Z",
+      "content": "It's been a big year for Valve after its Steam Decklaunched in February, Valve has finally cleared up supply chain issues and stopped requiring reservations, making the handheld PC a lot easier to ge… [+1526 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Samsung’s Android app-signing key has leaked, is being used to sign malware - Ars Technica",
+      "description": "The cryptographic key proves an update is legit, assuming your OEM doesn't lose it.",
+      "url": "https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/android-figure-640x215.jpg",
+      "publishedAt": "2022-12-02T21:13:04Z",
+      "content": "32 with 0 posters participating\r\nA developer's cryptographic signing key is one of the major linchpins of Android security. Any time Android updates an app, the signing key of the old app on your pho… [+2805 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Sportskeeda"
       },
-      "author": "Benjamin Mayo",
-      "title": "StableDiffusion can generate an image on Apple Silicon Macs in under 18 seconds, thanks to new optimizations in macOS 13.1 - 9to5Mac",
-      "description": "On its machine learning blog, Apple announced resounding support for the StableDiffusion project. This includes updates in the just-released macOS 13.1 beta 4 and iOS 16.2 beta 4 to improve performance running these models on Apple Silicon chips. Apple also p…",
-      "url": "https://9to5mac.com/2022/12/01/ios-16-2-stablediffusion-ai-image-generator/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/stable-diffusion-m2-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-12-01T21:41:00Z",
-      "content": "On its machine learning blog, Apple announced resounding support for the StableDiffusion project. This includes updates in the just-released macOS 13.1 beta 4 and iOS 16.2 beta 4 to improve performan… [+1525 chars]"
+      "author": "Neeraj Bansal",
+      "title": "GTA Online Criminal Enterprises DLC: 5 drip-feed cars that didn't live up to expectations - Sportskeeda",
+      "description": "GTA Online's The Criminal Enterprises DLC update has added a lot of new cars to the already impressive catalog of vehicles.",
+      "url": "https://www.sportskeeda.com/gta/5-gta-online-criminal-enterprises-dlc-drip-feed-cars-live-expectations",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/38aaf-16699880255990-1920.jpg",
+      "publishedAt": "2022-12-02T21:08:53Z",
+      "content": "GTA Online's The Criminal Enterprises DLC update has added a lot of new cars to the already impressive catalog of vehicles. There are a total of 18 different automobiles in the update, with many of t… [+4004 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Sportskeeda"
       },
-      "author": "Julia Musto",
-      "title": "Major password manager suffers another security breach - Fox News",
-      "description": "LastPass said Wednesday it had determined an unauthorized party was able to gain access to certain elements of the password manager's customer information.",
-      "url": "https://www.foxnews.com/tech/major-password-manager-suffers-another-security-breach",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/LP-3.jpg",
-      "publishedAt": "2022-12-01T21:38:27Z",
-      "content": "Password manager LastPass announced Wednesday it had suffered its second data breach in three months.\r\nCEO Karim Toubba said the company recently detected unusual activity within a third-party cloud … [+2128 chars]"
+      "author": "Spencer Whitworth",
+      "title": "Top 5 Minecraft features that only veterans will recognize - Sportskeeda",
+      "description": "Minecraft is a game full of little tricks, features, and glitches that many overlook.",
+      "url": "https://www.sportskeeda.com/minecraft/top-5-minecraft-features-veterans-will-recognize",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/e6c36-16699676478200-1920.jpg",
+      "publishedAt": "2022-12-02T21:07:51Z",
+      "content": "Minecraft is a game full of little tricks, features, and glitches that many overlook. However, a wisened in-game veteran uses all the tricks at their disposal and may be more aware of them than begin… [+3136 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "ZDNet"
       },
-      "author": "Rebecca Bellan",
-      "title": "iPhone users can share car keys in Wallet with non-iPhone users - TechCrunch",
-      "description": "Apple iPhone can share car keys in their Wallet with non-iPhone users, starting with Google Pixel devices, via Mail, Message and WhatsApp.",
-      "url": "https://techcrunch.com/2022/12/01/iphone-users-can-share-car-keys-in-wallet-with-non-iphone-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-1.38.48-PM.png?resize=1200,678",
-      "publishedAt": "2022-12-01T21:32:32Z",
-      "content": "Apple iPhone users with iOS 16.1 software can now share car keys in their Wallet with non-iPhone users, starting with Google Pixel devices. In the future, that capability will extend to other devices… [+1664 chars]"
+      "author": "Stephanie Condon",
+      "title": "Google opens beta program for end-to-end encryption in group chats - ZDNet",
+      "description": "And once again, the tech giant is shaming its frenemy Apple for using SMS over RCS",
+      "url": "https://www.zdnet.com/article/google-opens-beta-program-for-end-to-end-encryption-in-group-chats/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b88bedfb88ca3953e61c35c3b184e53879098220/2022/12/02/ba3f7e12-9e3f-49cf-911c-906d4f39bf1e/texting.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-12-02T20:48:30Z",
+      "content": "Getty Images\r\nGoogle is testing end-to-end encryption in group chats, the company said Friday. \r\nAndroid phone users interested in joining the open beta program can find instructions for signing up i… [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jason Fanelli",
+      "title": "Tekken 8 Confirmed For The Game Awards Appearance - GameSpot",
+      "description": "Get ready for the next battle…announcement!",
+      "url": "https://www.gamespot.com/articles/tekken-8-confirmed-for-the-game-awards-appearance/1100-6509679/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4071022-kazuya.png",
+      "publishedAt": "2022-12-02T20:42:40Z",
+      "content": "After making a pair of surprise appearances earlier in the year, Tekken 8 has been confirmed for an appearance at The Game Awards next week.\r\nThe official Tekken Twitter account posted simply \"GET RE… [+1052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": null,
+      "title": "DeepMind debuts new AI system capable of playing ‘Stratego’ - SiliconANGLE News",
+      "description": "DeepMind debuts new AI system capable of playing ‘Stratego’ - SiliconANGLE",
+      "url": "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png",
+      "publishedAt": "2022-12-02T20:42:26Z",
+      "content": "Alphabet Inc.s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go.\r\nDeepMind detailed the AI system… [+3686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SC Magazine"
+      },
+      "author": "SC Staff",
+      "title": "Over 300K Facebook user credentials compromised in Android malware campaign - SC Media",
+      "description": "Facebook credentials belonging to more than 300,000 users across 71 countries have been compromised by the Android threat campaign dubbed \"Schoolyard Bully Trojan,\" reports The Hacker News.",
+      "url": "https://www.scmagazine.com/brief/privacy/over-300k-facebook-user-credentials-compromised-in-android-malware-campaign",
+      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
+      "publishedAt": "2022-12-02T20:31:55Z",
+      "content": "SecurityWeek reports that several car brands could be compromised by remote attacks leveraging a vulnerability in Sirius XM's connected vehicle services, which are being used by over 12 million vehic… [+137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SC Magazine"
+      },
+      "author": "SC Staff",
+      "title": "Passwordless browser extension unveiled by 1Password | SC Media - SC Media",
+      "description": "Password management provider 1Password has unveiled a new browser extension with automated login saving, storing, and autofilling capabilities in a bid to advance passwordless authentication amid the growing prevalence of credential theft, VentureBeat reports.",
+      "url": "https://www.scmagazine.com/brief/identity-and-access/passwordless-browser-extension-unveiled-by-1password",
+      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
+      "publishedAt": "2022-12-02T20:30:19Z",
+      "content": "Copyright © 2022 CyberRisk Alliance, LLC All Rights Reserved. \r\n This material may not be published, broadcast, rewritten or redistributed\r\n in any form without prior authorization.\r\nYour use of this… [+95 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jason Fanelli",
+      "title": "The Game Awards 2022: How To Watch, Start Times, And What To Expect - GameSpot",
+      "description": "The annual awards show and \"40-50\" world premieres are coming soon.",
+      "url": "https://www.gamespot.com/articles/the-game-awards-2022-how-to-watch-start-times-and-what-to-expect/1100-6509600/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4070270-game-awards-2022-how-to-watch.jpg",
+      "publishedAt": "2022-12-02T20:21:08Z",
+      "content": "The calendar has flipped to December, and in the video game world that means all eyes turn to The Game Awards, the annual end-of-year celebration that mixes honors for Game of the Year with trailers … [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Alex Alderson",
+      "title": "AMD Ryzen 7 7730U: AMD Barcelo refresh leaks with Zen 3 CPU cores and RX Vega iGPU design - Notebookcheck.net",
+      "description": "With CES 2023 around the corner, it seems AMD is preparing to release another APU stack based on older designs. Based on new leaks, some members of the Ryzen 7000U series could combine Zen 3 CPU cores with AMD's old Vega iGPU architecture.",
+      "url": "https://www.notebookcheck.net/AMD-Ryzen-7-7730U-AMD-Barcelo-refresh-leaks-with-Zen-3-CPU-cores-and-RX-Vega-iGPU-design.672407.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/AMD_Ryzen_7000141910.jpg",
+      "publishedAt": "2022-12-02T20:15:51Z",
+      "content": "A new leak has reinforced rumours of AMD releasing another Zen 3-based APU refresh. In October, ASUS Turkey briefly listed a Zenbook 14 powered by the Ryzen 7 7730U, which seemed like a simple refres… [+1293 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Report: Apple’s upcoming VR and AR operating system has a new name - Ars Technica",
+      "description": "Bloomberg report claims that Apple has begun referring to it as \"xrOS.\"",
+      "url": "https://arstechnica.com/gadgets/2022/12/report-apples-upcoming-vr-and-ar-operating-system-has-a-new-name/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/Apple_AR_Experience_01232018-760x380.jpg",
+      "publishedAt": "2022-12-02T20:15:08Z",
+      "content": "Enlarge/ An early augmented reality demo by Apple, using a smartphone instead of a headset.\r\n8 with 0 posters participating\r\nApple's mixed-reality headset is still on track for an unveiling sometime … [+2001 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Owen S. Good",
+      "title": "Free Steam Decks given away during The Game Awards 2022 - Polygon",
+      "description": "Valve will give away one handheld gaming PC Steam Deck every minute for the whole three hours of The Game Awards 2022 on Thursday, Dec. 8 — but you have to be watching on Steam.tv",
+      "url": "https://www.polygon.com/23490298/the-game-awards-2022-announcements-steam-deck-free-award-prize-register",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OS0myWXgdU810UjbeeMuoqi0m5I=/0x94:4800x2607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22719653/Steam_Deck_touchscreen.jpg",
+      "publishedAt": "2022-12-02T20:08:28Z",
+      "content": "Valve is giving away a Steam Deck each minute of The Game Awards when that show airs on Thursday, Dec. 8. The Game Awards 2022 usually runs about three hours, so, thats 180 Steam Decks! \r\nFans can al… [+638 chars]"
     },
     {
       "source": {
@@ -164,38 +229,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "How To Win A Free Steam Deck | GameSpot News - GameSpot",
-      "description": "Watch the Game Awards and win a free Steam Deck, Nintnedo address issues with Pokemon Scarlet and Violet, and Lego Star Wars the Skywalker Saga is coming to ...",
-      "url": "https://www.youtube.com/watch?v=WePAb3q5G4A",
-      "urlToImage": "https://i.ytimg.com/vi/WePAb3q5G4A/maxresdefault.jpg",
-      "publishedAt": "2022-12-01T21:30:05Z",
+      "title": "Warframe - Official Cross-Platform Play Trailer - IGN",
+      "description": "Cross-platform play comes to Warframe. Squad up with your friends wherever they play, and get into the game even faster with reduced matchmaking times thanks...",
+      "url": "https://www.youtube.com/watch?v=gAA5Y8oRA2s",
+      "urlToImage": "https://i.ytimg.com/vi/gAA5Y8oRA2s/maxresdefault.jpg",
+      "publishedAt": "2022-12-02T20:00:23Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "GameSpot"
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
       },
-      "author": "S.E. Doster",
-      "title": "New Call Of Duty: Modern Warfare 2 Playlist Lets You Play Like The Pros - GameSpot",
-      "description": "CDL Moshpit brings pro league-style competitive play to Modern Warfare 2, and here is everything you need to know.",
-      "url": "https://www.gamespot.com/articles/new-call-of-duty-modern-warfare-2-playlist-lets-you-play-like-the-pros/1100-6509647/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4070550-mwii-season-01-roadmap-019%282%29.jpg",
-      "publishedAt": "2022-12-01T21:24:05Z",
-      "content": "Call of Duty Season 1 arrived to Modern Warfare 2 on November 16, bringing a new map, operator, and more weapons to multiplayer, but an update on December 1 has added the new CDL Moshpit playlist. Th… [+2504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Luis Gutierrez",
-      "title": "Blaseball Returns In January With An iOS And Android App - GameSpot",
-      "description": "Will your team survive this season of Blaseball?",
-      "url": "https://www.gamespot.com/articles/blaseball-returns-in-january-with-an-ios-and-android-app/1100-6509644/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4070547-%283%29theblaseballroundup_recapsandreveals-youtube-googlechrome12_1_202212_54_39pm.png",
-      "publishedAt": "2022-12-01T21:06:47Z",
-      "content": "The Game Band has announced that Blaseball, the fantasy sports league and horror metagame, will return on January 9, 2023. In preparation for the upcoming release, the Blaseball website has been reva… [+1145 chars]"
+      "author": null,
+      "title": "10 long reads for the weekend: mortgage stress; Xi Jinping; how your super is taxed - The Australian Financial Review",
+      "description": "Why mortgage stress is on the rise (in four charts); how Perrottet got NSW back on the rails; and here are the drinks to buy as gifts this Christmas.",
+      "url": "https://www.afr.com/property/residential/10-long-reads-for-the-weekend-20221202-p5c38s",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2282%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_161%2C$y_219/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c8a7f1c8f406ff91f26fd76d796ceb61e8900cf3",
+      "publishedAt": "2022-12-02T20:00:00Z",
+      "content": "Another test for Xi Jinping as China mourns a former leaderJiang Zemins death creates another dilemma for Xi Jinping as it gives the Chinese a reason to congregate and mourn, amid a crackdown on wide… [+1084 chars]"
     },
     {
       "source": {
@@ -203,64 +255,12 @@
         "name": "TrustedReviews"
       },
       "author": "Chris Smith",
-      "title": "iMessage on Android could finally arrive in 2023, but without Apple's blessing - TrustedReviews",
-      "description": "A new messaging app called Sunbird is promising to bring Apple's iMessage service to Android phone owners next year. After years of Apple rebuffing calls | Trusted Reviews",
-      "url": "https://www.trustedreviews.com/news/imessage-on-android-could-finally-arrive-in-2023-but-without-apples-blessing-4287574",
-      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/12/51712-102450-sunbird-xl.jpg",
-      "publishedAt": "2022-12-01T21:04:47Z",
-      "content": "A new messaging app called Sunbird is promising to bring Apple’s iMessage service to Android phone owners next year.\r\nAfter years of Apple rebuffing calls to bring its prized IP-based messaging servi… [+1791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Grace Benfell",
-      "title": "Today's Google Doodle Honors The Creator of Video Game Cartridges - GameSpot",
-      "description": "Gerald \"Jerry\" Lawson was one of the first Black engineers in the video game industry and led the development of the first gaming console with interchangeable cartridges.",
-      "url": "https://www.gamespot.com/articles/todays-google-doodle-honors-the-creator-of-video-game-cartridges/1100-6509643/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1690/16904437/4070546-screenshot2022-12-01at2.56.30pm.jpg",
-      "publishedAt": "2022-12-01T21:01:23Z",
-      "content": "Today's Google doodle highlights video cartridge creator Gerald \"Jerry\" Lawson, one of the first Black engineers in the video game industry.\r\nJerry Lawson' team at Fairchild Camera and Instrument dev… [+1662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Neon White - Official PS5 and PS4 Announcement Trailer - IGN",
-      "description": "Neon White is a single-player speedrunning FPS where you can sacrifice your guns for godlike parkour moves. You are White, an assassin handpicked from Hell t...",
-      "url": "https://www.youtube.com/watch?v=d3uckWueulo",
-      "urlToImage": "https://i.ytimg.com/vi/d3uckWueulo/maxresdefault.jpg",
-      "publishedAt": "2022-12-01T21:00:22Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Epic's free app that turns real-life items into 3D models is available now on iOS - The Verge",
-      "description": "Epic Games’ RealityScan app, which lets you scan real-life objects and turn them into 3D models for video games or other projects, is now available on iOS. It launched in a limited beta earlier this year.",
-      "url": "https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/L2A4hhpKJQvRlXhoUGLWdyw-MYM=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/24248310/RealityScan_Available_Now___Capture_the_World_and_Create_Your_Own_0_10_screenshot.png",
-      "publishedAt": "2022-12-01T20:58:39Z",
-      "content": "Epics free app that turns real-life items into 3D models is available now on iOS\r\nEpics free app that turns real-life items into 3D models is available now on iOS\r\n / The RealityScan app launched in … [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "Eufy’s “local storage” cameras can be streamed from anywhere, unencrypted - Ars Technica",
-      "description": "The URLs for accessing your camera streams are also way too easy to brute-force.",
-      "url": "https://arstechnica.com/gadgets/2022/12/more-eufy-camera-flaws-found-including-remote-unencrypted-feed-viewing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/eufy_cam-760x380.jpg",
-      "publishedAt": "2022-12-01T20:57:36Z",
-      "content": "Enlarge/ Eufy's camera footage is stored locally, but with the right URL, you can also watch it from anywhere, unencrypted. It's complicated.\r\n54 with 0 posters participating\r\nWhen security researche… [+3877 chars]"
+      "title": "The Huawei Watch Buds will store wireless ear buds under the display - TrustedReviews",
+      "description": "Huawei is close to launching the most unique smartwatch in the history of the form factor, with the Huawei Watch Buds hiding a pair of true wireless | Trusted Reviews",
+      "url": "https://www.trustedreviews.com/news/the-huawei-watch-buds-will-store-wireless-ear-buds-under-the-display-4287890",
+      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/12/e75a0620-7245-11ed-b9ff-093841077b3f.cf_.jpg",
+      "publishedAt": "2022-12-02T19:52:51Z",
+      "content": "Huawei is close to launching the most unique smartwatch in the history of the form factor, with the Huawei Watch Buds hiding a pair of true wireless earphones beneath a lift-up watch face.\r\nThe compa… [+1341 chars]"
     }
   ]
 }
