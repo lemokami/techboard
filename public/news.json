@@ -1,201 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 772,
+  "totalResults": 738,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "PCMag.com"
       },
-      "author": "Jeff Burt",
-      "title": "Legit Android apps poisoned by sticky 'Zombinder' malware - The Register",
-      "description": "Sure, go ahead and load APKs instead of using an app store. You won't enjoy the results",
-      "url": "https://www.theregister.com/2022/12/09/zombinder_android_windows_malware/",
-      "urlToImage": "https://regmedia.co.uk/2021/09/29/shutterstock_phone_virus.jpg",
-      "publishedAt": "2022-12-09T22:00:00Z",
-      "content": "Threat researchers have discovered an obfuscation platform that attaches malware to legitimate Android applications to lure users to install the malicious payload and make it difficult for security t… [+5231 chars]"
+      "author": "Marco Marcelline",
+      "title": "Riot Games Suing NetEase Over a Valorant 'Copy' - PCMag",
+      "description": "In a global lawsuit, the game developer argues NetEase 'cloned' weapon stats, characters, and maps from Valorant in its shooter Hyper Front.",
+      "url": "https://www.pcmag.com/news/riot-games-suing-netease-over-a-valorant-copy",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/036m59oFnQUDrZlwO2sSbou-1.fit_lim.size_1200x630.v1670711369.jpg",
+      "publishedAt": "2022-12-10T22:36:22Z",
+      "content": null
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Digital Trends"
       },
-      "author": "Julia Lee",
-      "title": "Pokémon Go ‘Something Extraordinary’ Keldeo Special Research guide - Polygon",
-      "description": "By completing ticketed Special Research, you can unlock Keldeo. Our guide lists out the steps for the “Something Extraordinary” Special Research Tasks.",
-      "url": "https://www.polygon.com/pokemon-go-guide/23501836/keldeo-something-extraordinary-special-research-steps-tasks",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DSrm_NubCPJgPBB5zvvTj78yFls=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24279206/chrome_2022_12_06_12_15_21.jpg",
-      "publishedAt": "2022-12-09T21:58:44Z",
-      "content": "As part of the Mythic Blade event, Pokémon Go is adding Keldeo to the game, though it will only be obtainable through buying a paid ticket that unlocks the Something Extraordinary Special Research Ta… [+2857 chars]"
+      "author": "Jon Martindale",
+      "title": "Common GPU problems and how to fix them - Digital Trends",
+      "description": "Every graphics card has problems some times, but do you know how to fix them? Here's a look at some of the most common GPU problems and how to set them right.",
+      "url": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?p=1",
+      "publishedAt": "2022-12-10T22:00:44Z",
+      "content": "If you use a desktop PC or laptop for long enough, chances are you’re going to come across one of the common GPU problems that have plagued gamers and workers since the humble graphics card debuted f… [+8105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theloadout.com"
+      },
+      "author": "Joe Apsey",
+      "title": "Banishers Ghosts of New Eden release date rumours, story, gameplay - The Loadout",
+      "description": "Get an overview of all the Banishers Ghosts of New Eden release date, story, and gameplay information before you jump into the action RPG",
+      "url": "https://www.theloadout.com/banishers-ghosts-of-new-eden/release-date",
+      "urlToImage": "https://www.theloadout.com/wp-content/sites/theloadout/2022/12/banishers-ghosts-of-new-eden-release-date.jpg",
+      "publishedAt": "2022-12-10T21:19:14Z",
+      "content": "Don’t Nod haven’t released an action game since Vampyr all the way back in 2018, but they are back with Banishers Ghosts of New Eden a spiritual action-adventure set in 1695. But, what do you need to… [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deseret News"
+      },
+      "author": "Whitney Shakespear Henry",
+      "title": "Google Home vs. Echo Dot: Which is best? - Deseret News",
+      "description": "Which voice control system is best for your home? Google or Amazon?",
+      "url": "https://www.deseret.com/2022/12/10/23497115/google-home-vs-echo-dot",
+      "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/f35b4b8/2147483647/strip/true/crop/4290x2449+0+165/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FJ69IZX8i7eGsVn9ie-mA-C7NAig%3D%2F0x0%3A4290x2770%2F4290x2770%2Ffilters%3Afocal%282237x1389%3A2238x1390%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24271629%2FAP18295514135040.jpg",
+      "publishedAt": "2022-12-10T21:00:00Z",
+      "content": "With the holiday season rolling around, many families may consider adding additional technology to their homes. A voice control system is one popular technology to add to your home in 2022.\r\nThere ar… [+4836 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Imad Khan",
-      "title": "Elden Ring Wins Big at the Game Awards - CNET",
-      "description": "Hades 2, Death Stranding 2 and Armored Core VI made their big reveals Thursday night.",
-      "url": "https://www.cnet.com/tech/gaming/elden-ring-wins-big-at-the-game-awards/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/60a299e6950d81925e3ef761f7085bae984f7838/hub/2022/12/05/9d51ac47-6654-465e-9dce-1408a219cd37/301112005-2071429449708407-8529265677444916370-n.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-12-09T21:42:29Z",
-      "content": "Elden Ring took home the Game of the Year Award at Thursday's The Game Awards show. The ceremony brings together the biggest names in gaming to honor the year's best titles while also revealing some … [+8904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Krystin Arneson",
-      "title": "The Xbox Series S is back in stock with its Black Friday price tag on Amazon - SFGATE",
-      "description": "The all-digital Xbox Series S Holiday Bundle is 20% off ahead of the holidays.",
-      "url": "https://www.sfgate.com/shopping/article/xbox-series-s-holiday-console-amazon-17643051.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/30/55/61/23256145/3/rawImage.jpg",
-      "publishedAt": "2022-12-09T21:18:09Z",
-      "content": "If youre looking to get in on a new gaming console or gift one over the holidays the Xbox Series S Holiday Console is currently 20% over on Amazon, which is down to its Black Friday price all over ag… [+758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "The Callisto Protocol Patch Adds Ray-Traced Reflections On Xbox Series X - GameSpot",
-      "description": "The horror game has received a new update to close out the week.",
-      "url": "https://www.gamespot.com/articles/the-callisto-protocol-patch-adds-ray-traced-reflections-on-xbox-series-x/1100-6509939/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4074552-callisto.jpg",
-      "publishedAt": "2022-12-09T21:16:42Z",
-      "content": "The Callisto Protocol didn't have the smoothest launch, suffering from some performance issues in certain scenarios. A new patch is out now on console that includes bug fixes and improvements, along … [+1971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Carrie McCabe",
-      "title": "Amazon just dropped the motherlode of Christmas deals — starting at just $7 - Yahoo Life",
-      "description": "Score epic deals on Beats, Lenovo, Ugg and more — up to 75% off!",
-      "url": "https://www.yahoo.com/lifestyle/amazon-weekend-deals-211153510.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/c5c35450-77fc-11ed-bac0-55a7b0735c35",
-      "publishedAt": "2022-12-09T21:12:29Z",
-      "content": "These prices are so great, you'll even be tempted to get something for the Naughty folks on your list. (Photo: Amazon)\r\nWe're well on our way through December now, so it's a good time to start making… [+10472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shacknews"
-      },
-      "author": "Donovan Erskine",
-      "title": "Return to Castlevania is Dead Cells' next DLC - Shacknews",
-      "description": "Dead Cells heads to Castelvania for its next DLC.",
-      "url": "https://www.shacknews.com/article/133424/dead-cells-return-to-castlevania-dlc",
-      "urlToImage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/12/09/dead-cells-castlevania_feature.jpg",
-      "publishedAt": "2022-12-09T21:00:00Z",
-      "content": "Dead Cells heads to Castelvania for its next DLC.\r\nDead Cells was a popular roguelike-Metroidvania game from 2018 that has continued to be a mainstay of the genre thanks to solid support from develop… [+1715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Jake Peterson",
-      "title": "Enable This Setting to Stop Chrome From Hogging So Much Memory - Lifehacker",
-      "description": "Your computer's RAM doesn't need to suffer under the weight of Chrome tabs anymore.",
-      "url": "https://lifehacker.com/enable-this-setting-to-stop-chrome-from-hogging-so-much-1849876138",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7ac69dfbe9adbaca5a9bf0f9b8b90c5a.jpg",
-      "publishedAt": "2022-12-09T21:00:00Z",
-      "content": "Chrome is a popular browser for a reason: Its fast, powerful, and compatible with popular apps, services, and extensions. All that power, though, comes from somewhere, and ends up putting a strain on… [+2460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Steven T. Wright",
-      "title": "Best-Selling Video Games Of November In US Include Call Of Duty, God Of War - GameSpot",
-      "description": "The best-selling games of last month include many of the big names you'd expect, with Call Of Duty, God Of War, and Pokemon leading the way.",
-      "url": "https://www.gamespot.com/articles/best-selling-video-games-of-november-in-us-include-call-of-duty-god-of-war/1100-6509937/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/4074549-callofdutymodernwarfare2.jpg",
-      "publishedAt": "2022-12-09T20:53:12Z",
-      "content": "NPD's monthly report for November is here, which means we now know what games sold the best last month. Though the data doesn't have a lot of surprises, there's one name in the top 5 that might give … [+1442 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Lily Rose, Kaylyn McKenna",
-      "title": "Best holiday deals on headphones: Apple AirPods Pro 2, Samsung Galaxy Buds Live, Bose QuietComfort, gaming headphones and more - CBS News",
-      "description": "Don't miss these impressive holiday headphone and earbud deals.",
-      "url": "https://www.cbsnews.com/essentials/best-holiday-deals-on-headphones-apple-airpods-pro-2-samsung-galaxy-buds-live-bose-quietcomfort-gaming-headphones-and-more/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/21/39e87cfa-01d8-4a31-91fe-fdddf014d319/thumbnail/1200x630/84395b0a6abbf645014e8adec5b0b30c/headphones-hero.jpg",
-      "publishedAt": "2022-12-09T20:44:52Z",
-      "content": "Getty Images\r\nA pair of great headphones will let you tune out the world and tune in to your favorite music, TV shows, podcasts and more. Top-rated headphones and earbuds make an excellent gift -- no… [+9379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Neeraj Bansal",
-      "title": "GTA Online Los Santos Drug Wars DLC to add Acid Lab, MTL Brickade 6x6 vehicle, and more - Sportskeeda",
-      "description": "GTA Online's Los Santos Drug Wars update has been announced by Rockstar Games, and it’s going to add a lot of new content to the title.",
-      "url": "https://www.sportskeeda.com/gta/news-gta-online-los-santos-drug-wars-dlc-add-acid-lab-mtl-brickade-6x6-vehicle",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/aa8b7-16706115938360-1920.jpg",
-      "publishedAt": "2022-12-09T20:44:18Z",
-      "content": "GTA Online's Los Santos Drug Wars update has been announced by Rockstar Games, and its going to add a lot of new content to the title. In their latest newswire post, the developers shared the GTA+ me… [+2672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Cameron Koch",
-      "title": "WoW: Wrath Of The Lich King Classic Players Will Soon Enjoy A 50% XP Boost - GameSpot",
-      "description": "The game's \"Joyous Journeys\" event is making a return, making it the perfect time to level new characters.",
-      "url": "https://www.gamespot.com/articles/wow-wrath-of-the-lich-king-classic-players-will-soon-enjoy-a-50-xp-boost/1100-6509936/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4074547-wowwrathclassicjoyousjourneysxpevent.jpg",
-      "publishedAt": "2022-12-09T20:37:53Z",
-      "content": "World of Warcraft: Wrath of the Lich King Classic players will soon benefit from a 50% XP boost starting on December 13.\r\nThe event, called Joyous Journeys, increases all XP gains, whether it's from … [+2061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Bloomberg",
-      "title": "FTC Confirms Microsoft Plans to Keep Elder Scrolls VI Game Exclusively - HT Tech",
-      "description": "FTC said that video game publisher ZeniMax Media’s highly anticipated Elder Scrolls VI will be exclusive to Microsoft Corp. products.",
-      "url": "https://tech.hindustantimes.com/gaming/news/ftc-confirms-microsoft-plans-to-keep-elder-scrolls-vi-game-exclusively-71670590932298.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/12/09/1600x900/EU-MICROSOFT-CORP-SALESFORCE-ANTITRUST-0_166945101_1670593765638_1670593765861_1670593765861.JPG",
-      "publishedAt": "2022-12-09T20:23:04Z",
-      "content": "The Federal Trade Commission said that video game publisher ZeniMax Media's highly anticipated Elder Scrolls VI will be exclusive to Microsoft Corp. products. \r\n The revelation came in the FTC's comp… [+1376 chars]"
+      "author": "Patrick Holland",
+      "title": "How to Easily Transfer Data from iPhone to Android - CNET",
+      "description": "Transfer your texts, photos and more from Apple's iOS into your new Android phone.",
+      "url": "https://www.cnet.com/tech/mobile/how-to-easily-transfer-data-from-iphone-to-android/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/105d71a87ae140b19c160297d07af8af62afb816/hub/2019/08/25/399e0df9-5486-4099-8253-f47e4105aee8/iphone-to-android-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-10T20:50:36Z",
+      "content": "Making the big leap from an iPhone to an Android phone, you'll find yourself with a pretty long checklist of things you need to do. Whether you're transitioning to Google's Pixel 7 or a new Samsung p… [+4535 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Stephen Shankland",
-      "title": "Chrome Gets Passkey Support for Easier, Safer, Phishing-Proof Logon - CNET",
-      "description": "Passkeys also arrived on Apple devices and browsers in recent weeks as the industry works to dump flawed password technology.",
-      "url": "https://www.cnet.com/tech/mobile/chrome-gets-passkey-support-for-easier-safer-phishing-proof-logon/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/7ddd3014f8fe00839217730343d657416404820b/hub/2022/03/31/0d86aa08-efa3-455e-9138-395b6d305702/20220330-chrome-browser-icon-android-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-12-09T20:18:00Z",
-      "content": "Chrome now can take advantage of new passkey technology developed by Google, Apple and Microsoft as a way to fix the logon shortcomings of passwords.\r\nPasskeys, which arrived in iOS 16 and MacOS Vent… [+994 chars]"
+      "author": "Mike Sorrentino",
+      "title": "The New Moto G Play Will Cost $170 and Come With a Big Camera Upgrade - CNET",
+      "description": "The budget-focused Android phone goes on sale Jan. 12.",
+      "url": "https://www.cnet.com/tech/mobile/the-new-moto-g-play-will-cost-170-and-come-with-a-big-camera-upgrade/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d7870ecebda948b36df7ee71bc50c3a8a6db3dbf/hub/2022/12/07/944f870e-9c8e-4a1d-81d3-8c85d14452df/moto-g-play-2023.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-10T20:42:00Z",
+      "content": "Motorola's upcoming and highly anticipated $170 Moto G Play for 2023 will focus on photography, featuring a 16-megapixel triple sensor camera system.\r\nThe newest version of the Moto G Play, unveiled … [+1388 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "CNET"
       },
-      "author": "Ron Amadeo",
-      "title": "RIP Passwords? Passkey support rolls out to Chrome stable - Ars Technica",
-      "description": "With a huge list of caveats, initial Google passkey support is here.",
-      "url": "https://arstechnica.com/gadgets/2022/12/rip-passwords-passkey-support-rolls-out-to-chrome-stable/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/passwords-760x380.jpg",
-      "publishedAt": "2022-12-09T19:55:28Z",
-      "content": "Enlarge/ Please don't do this.\r\n24 with 0 posters participating\r\nPasskeys are here to (try to) kill the password. Following Google's beta rollout of the feature in October, passkeys are now hitting C… [+5050 chars]"
+      "author": "Sareena Dayaram",
+      "title": "Xiaomi's iPhone 14 Rival Will Launch Tomorrow - CNET",
+      "description": "The Xiaomi 13 and Xiaomi 13 Pro will make their China debut, after the original launch date was pushed back.",
+      "url": "https://www.cnet.com/tech/mobile/xiaomis-iphone-14-rival-will-launch-tomorrow/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/312cd53e1d32ae805ee2249689df8e8575bfdc11/hub/2022/12/08/e67763ed-1f5e-4d2a-ba43-874fb15e1d34/screenshot-2022-12-08-at-4-08-41-pm.png?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-10T20:40:00Z",
+      "content": "Xiaomi plans to launch the Xiaomi 13 series, its flagship line designed to rival Samsung's and Apple's top phones, tomorrow in China.\r\nIn a series of Weibo posts Thursday, Xiaomi shared images of the… [+972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Malcolm Owen",
+      "title": "Two mystery Macs appear in Steam's hardware survey - AppleInsider",
+      "description": "A pair of unreleased Macs have seemingly appeared in game storefront Steam's hardware survey, listings that could be new inbound M2 Mac models.",
+      "url": "https://appleinsider.com/articles/22/12/10/two-mystery-macs-appear-in-steams-hardware-survey",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51884-102911-51116-100967-49954-97914-M2-graphic-xl-xl-xl.jpg",
+      "publishedAt": "2022-12-10T20:33:02Z",
+      "content": "An M2 chip and a MacBook model\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA pair of unreleased Macs have seemingly appeared in game storefront Steam'… [+2173 chars]"
     },
     {
       "source": {
@@ -203,64 +112,155 @@
         "name": "IGN"
       },
       "author": "Eric Song",
-      "title": "The New 3rd Gen Apple TV 4K 64GB Is Cheaper Than on Black Friday With This Deal - IGN",
-      "description": "The best streaming device out there",
-      "url": "https://www.ign.com/articles/best-deal-apple-tv-4k-3rd-gen",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/12/09/appletv4k3g-1670613769879.jpg?width=1280",
-      "publishedAt": "2022-12-09T19:48:57Z",
-      "content": "A few months ago Apple released the 3rd generation variant of its Apple TV 4K. We already thought the 2nd gen model was one of the best streaming devices out there. The 3rd gen model, however, improv… [+4157 chars]"
+      "title": "Daily Deals: Need For Speed Unbound Is Already 40% Off - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/daily-deals-need-for-speed-unbound-is-already-40-off",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/05/needforspeedunboundofficialrevealtrailer-36190303-nfsunbound-trailer-blogroll-1665008054610.jpg?width=1280",
+      "publishedAt": "2022-12-10T20:23:05Z",
+      "content": "There are some new deals that would make for some excellent holiday gift ideas. Need For Speed Unbound just came out two weeks ago, and is already 40% off. Plus, the PS5 God of War Bundle is still av… [+6114 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Hindustan Times"
       },
-      "author": "Jenny Zheng",
-      "title": "Splatoon 3's First Big Run Event Begins On December 9 - GameSpot",
-      "description": "It'll last throughout the weekend.",
-      "url": "https://www.gamespot.com/articles/splatoon-3-big-run-event-begins-on-december-9/1100-6509932/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4074529-splatoon3.jpg",
-      "publishedAt": "2022-12-09T19:48:22Z",
-      "content": "Splatoon 3 entered Chill Season, the first major update, on December 1. And with it comes a modified Salmon Run called Big Run, scheduled to start on December 9 at 4 PM PT / 7 PM ET. The limited even… [+1648 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Spotlight Special",
-      "title": "Destiny 2’s Spire of Watcher Dungeon: All you need to know - Economic Times",
-      "description": "Destiny 2 games Spire of the Watcher dungeon is going to be released. See why it will be special.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/destiny-2s-spire-of-watcher-dungeon-all-you-need-to-know/articleshow/96119003.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-96119002,width-1070,height-580,imgsize-5252,overlay-economictimes/photo.jpg",
-      "publishedAt": "2022-12-09T19:32:00Z",
-      "content": "The latest offering of Destiny 2 game, Spire of the Watcher dungeon, is finally out. Makers of the cult online multiplayer shooter game will reset the servers on December 9 to include new weapons, ar… [+2023 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Travis Northup",
-      "title": "Destiny 2: Where Is Xur Today? Location and Exotic Items for December 9-13 - IGN",
-      "description": "Wondering where to find Xur in Destiny 2 today? Here's his location and exotic items he's selling for December 9.",
-      "url": "https://www.ign.com/articles/destiny-2-where-is-xur-today-location-and-exotic-items-for-december-9-13",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/11/04/whereisxurindestiny2weekofnovember48-36190303-xurthumbnailedz-1667588118250.jpg?width=1280",
-      "publishedAt": "2022-12-09T19:30:57Z",
-      "content": "The food truck but for guns, Xûr, is now live in Destiny 2 for the weekend until next week's reset. If you're looking to get your some shiny new Exotic armor or weapons for your Guardian, look no fur… [+7457 chars]"
+      "author": "ANI",
+      "title": "Asus rolls out Android 13 update for Zenfone 9 - HT Tech",
+      "description": "Asus unveiled its official Android 13 update timeline in November and the first device slated to get it was the Zenfone 9, which has now received the new software.",
+      "url": "https://tech.hindustantimes.com/mobile/news/asus-rolls-out-android-13-update-for-zenfone-9-71670656485106.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/12/10/1600x900/Asus_Zenfone_9_1670658447896_1670658447994_1670658447994.png",
+      "publishedAt": "2022-12-10T20:02:28Z",
+      "content": "Taiwanese multinational tech company Asus unveiled its official Android 13 update timeline in November. The first device slated to get it was the Zenfone 9, which now has received the new software. \r… [+1233 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "IndieWire"
+        "name": "YouTube"
       },
-      "author": "Christian Zilko",
-      "title": "‘Death Stranding 2’ Trailer: Léa Seydoux Gets Motion-Captured in Hideo Kojima’s Video Game Sequel - IndieWire",
-      "description": "Many of the original game's cast members return for the sequel, along with new faces like Elle Fanning and Shioli Kutsuna.",
-      "url": "https://www.indiewire.com/2022/12/death-stranding-2-trailer-lea-seydoux-1234790420/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-09-at-9.37.25-AM.png?w=780",
-      "publishedAt": "2022-12-09T19:30:50Z",
-      "content": "Get ready for more “Death Stranding.”\r\nMore than three years after the release of Hideo Kojima’s acclaimed apocalyptic video game about invisible monsters roaming the earth, the gaming auteur has off… [+2109 chars]"
+      "author": null,
+      "title": "FTC looking to stop Microsoft merger with Blizzard | FOX 13 Seattle - FOX 13 Seattle",
+      "description": "The Federal Trade Commission is going after two major tech giants, Microsoft and Meta. The commission is attempting to block Microsoft's $69 billion dollar b...",
+      "url": "https://www.youtube.com/watch?v=6x868fNcJG0",
+      "urlToImage": "https://i.ytimg.com/vi/6x868fNcJG0/maxresdefault.jpg",
+      "publishedAt": "2022-12-10T19:57:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Nathaniel Pangaro",
+      "title": "Apple services are the best for staying connected when apart - AppleInsider",
+      "description": "The holidays are upon us, and you may have loved ones that you can't visit this year. The last two years have improved how we all stay in touch when separated — and here's how Apple technologies and integrations make it easier.",
+      "url": "https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/50033-98480-IMG_1853-xl.jpg",
+      "publishedAt": "2022-12-10T19:35:52Z",
+      "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe holidays are upon us, and you may have loved ones that you can't visit this year. The last two years ha… [+18228 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "This Week in Apps: Apple App Store’s new pricing, Twitter app makers shift to Mastodon, debate over Lensa AI - TechCrunch",
+      "description": "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, M&As and much more.",
+      "url": "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?resize=1200,637",
+      "publishedAt": "2022-12-10T19:30:57Z",
+      "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nGlobal app spending reached $65 billion in … [+21052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Review of the Realme 10 Pro+ | Cell Guru - NDTV",
+      "description": "We review the latest launch from Realme, the Realme 10 Pro+. Does it live up to its hype? Find out. We also compare the Realme 10 Pro+ with the OnePlus Nord ...",
+      "url": "https://www.youtube.com/watch?v=xa-ixkBuq40",
+      "urlToImage": "https://i.ytimg.com/vi/xa-ixkBuq40/maxresdefault.jpg",
+      "publishedAt": "2022-12-10T19:27:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "IANS",
+      "title": "Google restores Gmail that went down for millions globally - Deccan Herald",
+      "description": "Google finally restored Gmail service after it suffered a massive outage for millions of users globally, including in India, on Saturday. Gmail users complained about mails not being received. Both mobile app and desktop versions were affected across the worl…",
+      "url": "https://www.deccanherald.com/business/technology/google-restores-gmail-that-went-down-for-millions-globally-1170588.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/12/11/clipboard-8-1170500-1670689991-1170588-1670701020.jpg",
+      "publishedAt": "2022-12-10T19:24:54Z",
+      "content": "Google finally restored Gmail service after it suffered a massive outage for millions of users globally, including in India, on Saturday.\r\nGmail users complained about mails not being received. Both … [+1083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "digitalspy.com"
+      },
+      "author": "Joe Anderton",
+      "title": "First trailer for Death Stranding 2 shows Norman Reedus return - Digital Spy",
+      "description": "Get ready for more Hideo Kojima-branded weirdness.",
+      "url": "https://www.digitalspy.com/tech/a42205943/death-stranding-2-trailer-norman-reedus/",
+      "urlToImage": "https://hips.hearstapps.com/vidthumb/images/screenshot-2022-12-10-at-17-10-24-1670692235.jpg?crop=0.9916963226571768xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2022-12-10T19:01:30Z",
+      "content": "Death Stranding is officially getting a sequel.\r\nAt The Game Awards this week, Metal Gear Solid creator Hideo Kojima's next game was revealed to be a follow-up to his star-studded oddball courier gam… [+1659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Chrome address bar looks like Pixel Launcher search with upcoming redesign - 9to5Google",
+      "description": "One in-development redesign plans to \"modernize\" the Chrome Omnibox on Android, and the end result looks a lot like the Pixel Launcher...",
+      "url": "https://9to5google.com/2022/12/10/chrome-android-omnibox-redesign/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/07/Recent-apps-Chrome-link-sharing-Android-12-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-10T19:00:00Z",
+      "content": "Given the large user base, Google rarely makes major changes to the interface of its browser. However, one in-development redesign plans to “modernize” the Chrome Omnibox on Android, and the end resu… [+2831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Essentially Sports"
+      },
+      "author": null,
+      "title": "Overwatch 2: Top Ideal Teams for Ramattra That Will Help You Bag Victories in Season 2 - EssentiallySports",
+      "description": "Overwatch 2 rolled out its second season recently. The new tank Ramattra was brought in this new season and here are his ideal teams.",
+      "url": "https://www.essentiallysports.com/esports-news-overwatch-2-top-ideal-teams-for-ramattra-that-will-help-you-bag-victories-in-season-2/",
+      "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/overwatch-2-hero-36-ramattra-omnic-tank-blizzard-fps-game.jpg",
+      "publishedAt": "2022-12-10T18:57:00Z",
+      "content": "Overwatch 2 was the much-anticipated game from Blizzard Entertainment. After its initiation on October 4, the hero shooter has received tremendous love and support from the gaming community. Recently… [+3307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Two Unreleased Macs Spotted in Steam's Database - MacRumors",
+      "description": "Two unreleased Mac models have been spotted in Steam's November 2022 survey, which gathers anonymous information from willing Steam users on...",
+      "url": "https://www.macrumors.com/2022/12/10/unreleased-macs-in-steams-database/",
+      "urlToImage": "https://images.macrumors.com/t/hRG9LHsUvpQNp5i9-JM12H97F5o=/1600x/article-new/2022/06/apple-silicon-mac-lineup-wwdc-2022.jpg",
+      "publishedAt": "2022-12-10T18:55:29Z",
+      "content": "Two unreleased Mac models have been spotted in Steam's November 2022 survey, which gathers anonymous information from willing Steam users on specific details of their computers, including the compute… [+1301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "Poll: Which navigation app do you prefer? - Android Central",
+      "description": "How do you get from point A to point B?",
+      "url": "https://www.androidcentral.com/apps-software/poll-which-navigation-apps-you-prefer",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ERpQEgeCnpxkoeG283bSR6-1200-80.jpg",
+      "publishedAt": "2022-12-10T18:44:01Z",
+      "content": "The holidays are nearly upon us, which means plenty of people will be traveling. However, no matter what time of year it is, people are trying to get from point A to point B and using apps to find th… [+2700 chars]"
     }
   ]
 }
