@@ -1,58 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 787,
+  "totalResults": 742,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "CNET"
       },
-      "author": "Rebecca Isaacs",
-      "title": "Gaming laptop deal: Get $600 off the Asus ROG Strix G15 - ZDNet",
-      "description": "You can swap out the Armor caps on this portable gaming laptop -- and right now, it's on sale for 35% off.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/asus-rog-strix-g15-laptop-deal-sale-coupon-code/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c0a3622365f2f61e4b5d6deb4ce0e1e50ab85ee4/2022/12/14/f0dc9b06-53fd-4bd8-a40b-0ecef62ab945/asus-rog-strix-15-advantage-edition-gaming-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-12-14T22:35:40Z",
-      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Devin Coldewey",
-      "title": "Apple’s Emergency SOS via satellite prompts rescue after car goes off a cliff north of LA - TechCrunch",
-      "description": "Apple's new \"Emergency SOS\" service has led to what may well be its first successful rescue operation, certainly the first to be posted live.",
-      "url": "https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/montrose-rescue.jpg?resize=1200,755",
-      "publishedAt": "2022-12-14T22:31:06Z",
-      "content": "Apple’s new “Emergency SOS” service that lets off-grid iPhone users call for help via satellite has led to what may very well be its first successful rescue operation, certainly the first to be docum… [+1803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameshub.com"
-      },
-      "author": "Leah J. Williams",
-      "title": "Take-Two and Private Division launch new game developer fund - GamesHub",
-      "description": "Take-Two and Private Division have announced a new development fund designed to help developers launch self-published video games.",
-      "url": "https://www.gameshub.com/news/news/private-division-take-two-game-developer-fund-2022-36716/",
-      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/02/olliolli-world-review-3.jpg",
-      "publishedAt": "2022-12-14T22:27:26Z",
-      "content": "Take-Two and Private Division have teamed up to launch the Private Division Development Fund, a new game funding initiative designed to support small, independent studios with financial opportunities… [+2105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Joey Carr",
-      "title": "The Witcher 3: Wild Hunt Next-Gen Update - Cross-Saves And Cross-Progression Explained - GameSpot",
-      "description": "Your journey through Redania in The Witcher 3: Wild Hunt can now be accessed regardless of what system you're on.",
-      "url": "https://www.gamespot.com/articles/the-witcher-3-wild-hunt-next-gen-update-cross-saves-and-cross-progression-explained/1100-6509998/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1745/17457013/4076410-nextgen.png",
-      "publishedAt": "2022-12-14T22:26:44Z",
-      "content": "From December 14, any player that owns The Witcher 3: Wild Hunt will be treated with a free, next-generation update. This update gives players access to improved graphics as well new quests, cosmetic… [+3784 chars]"
+      "author": "David Anders",
+      "title": "Apple's Released iOS 16.2: Here's What's New in It - CNET",
+      "description": "The new Freeform app, Apple Music Sing and other features debut with the update.",
+      "url": "https://www.cnet.com/tech/mobile/apple-released-ios-16-2-heres-whats-new-in-it/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5b43ae5fa0a3f49853d4e16029858ee3414ea7c7/hub/2022/11/23/d3763471-18a6-4205-aead-b0e5f8b38300/20220916-iphone-14-pro-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-15T22:28:14Z",
+      "content": "Apple's new iOS 16.2 update arrived Tuesday, bringing with it a new Apple productivity tool, a karaoke mode for Apple Music and other new features for you to try out on the iPhone. The update arrives… [+1298 chars]"
     },
     {
       "source": {
@@ -60,64 +21,116 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "How To Fix Witcher 3 Next Gen Launch Issues | GameSpot - GameSpot",
-      "description": "The Witcher 3 launches in a messy state once again, PlayStation announces its December Plus Extra and Premium titles, and Unreal Tournament 3 is back.#Gaming...",
-      "url": "https://www.youtube.com/watch?v=GQuAZ_64S8M",
-      "urlToImage": "https://i.ytimg.com/vi/GQuAZ_64S8M/maxresdefault.jpg",
-      "publishedAt": "2022-12-14T22:15:00Z",
+      "title": "Call of Duty: Modern Warfare 2 - Official Shipment Map Trailer - IGN",
+      "description": "Get a look at the shipment map in this latest trailer for Call of Duty: Modern Warfare II.Deliver mayhem on this reimagined close-quarter classic plus more i...",
+      "url": "https://www.youtube.com/watch?v=1Vuudmw-F0M",
+      "urlToImage": "https://i.ytimg.com/vi/1Vuudmw-F0M/maxresdefault.jpg",
+      "publishedAt": "2022-12-15T22:00:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "CNET"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Zachary McAuliffe",
-      "title": "Netflix Adds Two New Games to its Gaming Service - CNET",
-      "description": "The company announced the games in its end-of-2022 recap video.",
-      "url": "https://www.cnet.com/tech/gaming/netflix-adds-two-new-games-to-its-gaming-service/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/087fc0294f8bbc69682737afd8fa0d67b14fa649/hub/2022/04/27/28739ebc-867f-4f31-b78e-c252d5c49c4b/netflix-logo-2022-521.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2022-12-14T22:06:00Z",
-      "content": "Netflix announced Tuesday in its 2022 recap video that it added two new games to its gaming service. The games are Kentucky Route Zero and 12 Minutes, and subscribers can access them now.\r\nKentucky R… [+1009 chars]"
+      "author": "Andrew Cunningham",
+      "title": "Belkin makes MagSafe iPhone mount for desktop owners who want a better webcam - Ars Technica",
+      "description": "The first version of the mount was only sized to work with MacBooks.",
+      "url": "https://arstechnica.com/gadgets/2022/12/40-belkin-iphone-mount-will-help-replace-your-mac-desktops-mediocre-webcam/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0568-760x380.jpeg",
+      "publishedAt": "2022-12-15T21:51:32Z",
+      "content": "Enlarge/ An iPhone 13 Pro stuck to Belkin's MagSafe camera mount for laptops. The desktop version works similarly, just with a different design for thicker screens.\r\n14 with 0 posters participating\r\n… [+1825 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "VentureBeat"
+        "name": "GameSpot"
       },
-      "author": "Dean Takahashi",
-      "title": "Gayming Awards 2023 unveils its nominations - VentureBeat",
-      "description": "The Gayming Awards 2023 revealed its nominations for its awards that celebrate LGBTQ+ video games.",
-      "url": "https://venturebeat.com/games/gayming-awards-2023-unveils-its-nominations/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/12/Gayming-Awards-23-Red-Curtain.jpg?w=1200&strip=all",
-      "publishedAt": "2022-12-14T22:00:00Z",
-      "content": "Connect with gaming and metaverse leaders online at GamesBeat Summit: Into the Metaverse 3 this February 1-2. Register here.\r\nThe Gayming Awards 2023 revealed its nominations for awards that celebrat… [+756 chars]"
+      "author": "Brendan Hesse",
+      "title": "The Epic Games Store Holiday Sale Is Here, And It's Massive - GameSpot",
+      "description": "Discounts on hundreds of games, coupons for extra savings, and even free game giveaways.",
+      "url": "https://www.gamespot.com/articles/the-epic-games-store-holiday-sale-is-here-and-its-massive/1100-6510096/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4077768-gsepicgamesholiday.jpg",
+      "publishedAt": "2022-12-15T21:48:52Z",
+      "content": "The Epic Games Stores annual holiday sale is now live, giving PC gamers a great way to load up on free and discounted games from now until January 5.\r\nThere are hundreds of PC games from the Epic Gam… [+1627 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Amazon Games branches out, announces it will publish the next Tomb Raider - Ars Technica",
+      "description": "Shadow of the Tomb Raider follow-up will be Amazon's first single-player game.",
+      "url": "https://arstechnica.com/gaming/2022/12/amazon-games-branches-out-announces-it-will-publish-the-next-tomb-raider/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Lara-Croft-screenshot-760x380.jpeg",
+      "publishedAt": "2022-12-15T21:39:49Z",
+      "content": "Enlarge/ A screenshot from the most recent main-series Tomb Raider title, 2018's Shadow of the Tomb Raider\r\n20 with 0 posters participating\r\nAmazon's games division will publish the next big Tomb Rai… [+2768 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Security Boulevard"
+        "name": "ZDNet"
       },
-      "author": "BrianKrebs",
-      "title": "Microsoft Patch Tuesday, December 2022 Edition - Security Boulevard",
-      "description": "Microsoft has released its final monthly batch of security updates for 2022, fixing more than four dozen security holes in its various Windows operating systems and related software. The most pressing patches include a zero-day vulnerability in a Windows feat…",
-      "url": "https://securityboulevard.com/2022/12/microsoft-patch-tuesday-december-2022-edition/",
-      "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
-      "publishedAt": "2022-12-14T21:54:30Z",
-      "content": "Microsoft has released its final monthly batch of security updates for 2022, fixing more than four dozen security holes in its various Windows operating systems and related software. The most pressin… [+4813 chars]"
+      "author": "Steven Vaughan-Nichols",
+      "title": "Windows: Still insecure after all these years - ZDNet",
+      "description": "OPINION: With every Windows release, Microsoft promises better security. And, sometimes, it makes improvements. But then, well then, we see truly ancient security holes show up yet again.",
+      "url": "https://www.zdnet.com/article/windows-still-insecure-after-all-these-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1965627d5d09a4060dc8ce5240add2ea5b934b4c/2014/11/28/1ffbcbe3-76b4-11e4-b569-d4ae52e95e57/patch-the-windows-schannel-bug-now.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-12-15T21:33:49Z",
+      "content": "For longer than some of you have been alive, I've been preaching the gospel of using more secure desktop operating systems. You see, Windows has been insecure since 1985's Windows 1.0, really an MS-D… [+3579 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "GameSpot"
       },
-      "author": "Matt Cox",
-      "title": "CD Projekt Red say they're working on fixes for The Witcher 3's PC update - Rock Paper Shotgun",
-      "description": "Developers CD Projekt Red now say they're \"actively investigating\" the problems with the Witcher 3's next-gen update on PC.",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-red-say-theyre-working-on-fixes-for-the-witcher-3s-pc-update",
-      "urlToImage": "https://assets2.rockpapershotgun.com/the-witcher-netflix-season-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-witcher-netflix-season-2.jpg",
-      "publishedAt": "2022-12-14T21:52:13Z",
-      "content": "Someone hexed The Witcher 3's next-gen update for PC, with players reporting widespread framerate issues along with crashes and weirder problems involving the HUD. Resident RPS hardwaresman James str… [+1309 chars]"
+      "author": "Evan Campbell",
+      "title": "Dead Space Remake Has Gone Gold Ahead Of January Launch - GameSpot",
+      "description": "EA Motive has announced the major milestone for the sci-fi horror game right before the holidays.",
+      "url": "https://www.gamespot.com/articles/dead-space-remake-has-gone-gold-ahead-of-january-launch/1100-6510101/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4077778-deadspace.jpg",
+      "publishedAt": "2022-12-15T21:33:19Z",
+      "content": "The remake of Dead Space has officially gone gold, meaning completion of development to print physical discs. This also signifies the sci-fi horror game should hit its January 27 release date next mo… [+1315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Michael Simon",
+      "title": "The 16-inch M1 Max MacBook Pro is even cheaper than its crazy Cyber Monday sale - Macworld",
+      "description": "Amazon is slashing $450 off Apple's ultimate laptop.",
+      "url": "https://www.macworld.com/article/1432986/the-16-inch-m1-max-macbook-pro-is-even-cheaper-than-its-crazy-cyber-monday-sale.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/12/4303385_original-2.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-12-15T21:24:32Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIf you’re looking fo… [+1324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ANI News"
+      },
+      "author": null,
+      "title": "Instagram launches \"hacked\" hub to troubleshoot account access issues - ANI News",
+      "description": "Instagram announced on Thursday that they are launching a \"hacked\" hub to assist accounts which have been experiencing access issues.",
+      "url": "https://www.aninews.in/news/tech/internet/instagram-launches-hacked-hub-to-troubleshoot-account-access-issues20221216024753",
+      "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221215211743.jpg",
+      "publishedAt": "2022-12-15T21:17:00Z",
+      "content": "Los Angeles [US], December 16 (ANI): Among a number of add-ons and updates, the photo-sharing app recently initiated a new feature recently which can help resolve problems related to accessing accoun… [+1448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "J. Clara Chan",
+      "title": "Amazon to Publish New ‘Tomb Raider’ Video Game - Hollywood Reporter",
+      "description": "Amazon has struck a deal with Crystal Dynamics, a San Mateo, California–based game developer, to publish a new video game based on the Tomb Raider franchise, the companies said on Thursday. The currently untitled game is in early development and does not yet …",
+      "url": "https://www.hollywoodreporter.com/business/digital/amazon-tomb-raider-video-game-1235282991/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/MCDTORA_EC041-H-2022.jpg?w=1024",
+      "publishedAt": "2022-12-15T21:14:06Z",
+      "content": "Amazon has struck a deal with Crystal Dynamics, a San Mateo, California–based game developer, to publish a new video game based on the Tomb Raider franchise, the companies said on Thursday.\r\nThe curr… [+1824 chars]"
     },
     {
       "source": {
@@ -125,51 +138,12 @@
         "name": "ZDNet"
       },
       "author": "Adrian Kingsley-Hughes",
-      "title": "How to take a full-page screenshot in Google Chrome -- four ways - ZDNet",
-      "description": "A full-screen capture on Google Chrome is easier said than done. Follow this how-to for flawless screenshots, every time.",
-      "url": "https://www.zdnet.com/article/how-to-take-a-full-page-screenshot-in-google-chrome-four-ways/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d15e7416521430eb890114b9c64f035b96e2606e/2017/10/09/a3a771f5-4b7d-4740-a42c-3a11830be5b5/businesswoman-by-window-working-on-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2022-12-14T21:44:06Z",
-      "content": "iStockphoto/Getty Images\r\nPicture this: you want to take a screenshot of an entire webpage, small bits at the bottom and all. Usually, you're only able to capture what's within the four corners of yo… [+2579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Brianna Reeves",
-      "title": "How to save custom builds in MW2 & Warzone 2 - Dexerto",
-      "description": "The latest update for Modern Warfare 2 and Warzone 2 sneakily added the option for players to save custom builds - here's how it works.",
-      "url": "https://www.dexerto.com/call-of-duty/mw2-warzone-2-custom-builds-save-how-to-2011507/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2022/12/14/warzone-2-lachmann-gun.jpeg",
-      "publishedAt": "2022-12-14T21:40:52Z",
-      "content": "The new Modern Warfare 2 and Warzone 2 updates stealthily added the option to save custom builds heres how it works.\r\nActivisions deployment of Season 1 Reloaded for MW2 and Warzone 2 comes packed wi… [+1528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamepur"
-      },
-      "author": "Tony Wilson",
-      "title": "Starfield will let you return to Earth, join multiple factions, and decide characters' fates - Gamepur",
-      "description": "Be the space traveler you want to be.",
-      "url": "https://www.gamepur.com/news/starfield-will-let-you-return-to-earth-join-multiple-factions-and-decide-characters-fates/",
-      "urlToImage": "https://www.gamepur.com/wp-content/uploads/2021/11/10162857/Starfield-mod-support.jpg",
-      "publishedAt": "2022-12-14T21:35:38Z",
-      "content": "We’ve still got a bit of a wait before Starfield arrives, and Bethesda has been filling the time with developer diaries that give us an inside scoop on what the interstellar RPG will offer. The lates… [+2199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "iPhone 14 Crash Detection and Emergency SOS via Satellite Lead Rescuers to Car That Fell Into Remote Canyon - MacRumors",
-      "description": "Two people involved in a serious accident that occurred yesterday afternoon were rescued and located through new features available on the latest...",
-      "url": "https://www.macrumors.com/2022/12/14/emergency-sos-saves-two-in-canyon-crash/",
-      "urlToImage": "https://images.macrumors.com/t/NiqVm75fJdfBoWGMCBRbMJjPAU0=/3564x/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
-      "publishedAt": "2022-12-14T21:12:58Z",
-      "content": "Two people involved in a serious accident that occurred yesterday afternoon were rescued and located through new features available on the latest iPhone 14 models, including Emergency SOS via Satelli… [+2301 chars]"
+      "title": "5 tech gadgets I never leave home without (and they make great gifts) - ZDNet",
+      "description": "My iPhone and Apple Watch aside, these five things are the gadgets that I make sure are with me every time I leave home.",
+      "url": "https://www.zdnet.com/home-and-office/5-tech-gadgets-i-never-leave-home-without-and-they-make-great-gifts/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fdf1a9ef3183b11076ae7bf544c93ec62f1714f4/2022/12/13/c0901d14-22c3-4cbd-98a2-927e1ee4ceca/6-12967.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2022-12-15T21:09:45Z",
+      "content": "Apple, Apricorn, KeySmart, Rolling Square, and YubiKey.\r\nI get to handle and review a lot of gadgets over the course of a year. Some good (this is the stuff you get to read about), a lot of it entire… [+3606 chars]"
     },
     {
       "source": {
@@ -177,90 +151,116 @@
         "name": "GameSpot"
       },
       "author": "S.E. Doster",
-      "title": "How To Play CoD: Modern Warfare 2 Atomgrad Raid - GameSpot",
-      "description": "Call of Duty's first-ever Raid has arrived to Modern Warfare 2, and here's everything you need to get started.",
-      "url": "https://www.gamespot.com/articles/how-to-play-cod-modern-warfare-2-atomgrad-raid/1100-6510060/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4077167-mw2raidatomgradb.jpg",
-      "publishedAt": "2022-12-14T21:09:15Z",
-      "content": "Modern Warfare 2's mid-season \"Reloaded\" update for Season 1 is now live, and the big update added Call of Duty's first-ever Destiny-style Raid. Unfortunately, you can't jump in right away, as there … [+3107 chars]"
+      "title": "CoD: Modern Warfare 2 And Warzone 2 Double XP Weekend Is Live - GameSpot",
+      "description": "Leveling up just got easier in Modern Warfare 2 and Warzone 2.",
+      "url": "https://www.gamespot.com/articles/cod-modern-warfare-2-and-warzone-2-double-xp-weekend-is-live/1100-6510097/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4077769-mwii-s01-reloaded-023.jpeg",
+      "publishedAt": "2022-12-15T21:01:45Z",
+      "content": "Following the launch of the big Season 1 Reloaded update, Activision is hosting a double XP weekend for Call of Duty: Modern Warfare 2 and Warzone 2.\r\nSeason 1 Reloaded added more operators and the n… [+1408 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MediaPost Communications"
+        "name": "Macworld"
       },
-      "author": "Tanya Gazdik",
-      "title": "Aston Martin Offers Digital Diecast Collectibles 12/15/2022 - MediaPost Communications",
-      "description": "The company used 3D modeling to produce three vehicles, including the 1980 Vantage V8 seen in the James Bond film \"The Living Daylights.\"",
-      "url": "https://www.mediapost.com/publications/article/380682/aston-martin-offers-digital-diecast-collectibles.html",
-      "urlToImage": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/14/astonmartin_kwnMy6E_TD0Pipd.png",
-      "publishedAt": "2022-12-14T20:55:13Z",
-      "content": "Aston Martin is launching digital diecast\r\ncollectible cars. \r\nThe luxury brand partnered with The Tiny Digital Factory, a developer and publisher of racing and motorsport games. \r\nThe lineup is\r\npla… [+126 chars]"
+      "author": "Michael Simon",
+      "title": "Speedometer 3: Apple, Google, and Mozilla collab on next-gen speed test - Macworld",
+      "description": "Version 3 of the popular Speedometer test will be a joint effort.",
+      "url": "https://www.macworld.com/article/1437170/speedometer-apple-google-mozilla-github.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/12/chrome-99-speedometer.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-12-15T21:01:34Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIt’s a little-known … [+1901 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "GameSpot"
       },
-      "author": "Joseph Yaden",
-      "title": "Fortnite giant snowball guide: How to hide inside a giant snowball for Winterfest - Digital Trends",
-      "description": "The new quest for hiding inside a giant snowball across three locations in Fortnite is available now. Here's how to complete it.",
-      "url": "https://www.digitaltrends.com/gaming/fortnite-hide-inside-giant-snowball-guide-how-to-complete-the-winterfest-quest/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/12/Fortnite_20221214130321.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2022-12-14T20:50:32Z",
-      "content": "A new Fortnite Winterfest quest requires players to hide inside a giant snowball at three different locations. Specifically, you need to hide in a giant snowball at Frosty Firs, Brutal Bastion, and L… [+1929 chars]"
+      "author": "James Carr",
+      "title": "Vampire Survivors Legacy Of Moonspell DLC - How To Get All New Characters, Weapons, And Evolutions - GameSpot",
+      "description": "Here's everything that's new in the Vampire Survivors Legacy of Moonspell DLC.",
+      "url": "https://www.gamespot.com/articles/vampire-survivors-legacy-of-moonspell-dlc-how-to-get-all-new-characters-weapons-and-evolutions/1100-6510098/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4077771-vsmoonspell.jpeg",
+      "publishedAt": "2022-12-15T20:59:20Z",
+      "content": "Vampire Survivors, the bullet-hell rogue-like that is one of GameSpot's best games of the year, just got its first paid DLC, Legacy of Moonspell. Inspired by Japanese monster hunters, the Legacy of M… [+3854 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Securitybrief.com.au"
       },
-      "author": null,
-      "title": "Hogwarts Legacy - Official Room of Requirement Customization Gameplay (4K) - IGN",
-      "description": "Check out an in-depth look at the customization of gear, magical creatures, and the Room of Requirement, a space that can be customized through conjuration s...",
-      "url": "https://www.youtube.com/watch?v=Tcr5Jirj0Bs",
-      "urlToImage": "https://i.ytimg.com/vi/Tcr5Jirj0Bs/maxresdefault.jpg",
-      "publishedAt": "2022-12-14T20:45:56Z",
-      "content": null
+      "author": "Catherine Knowles",
+      "title": "Axonius extends SaaS Management capabilities to combat risk - SecurityBrief Australia",
+      "description": "Axonius has released two new capabilities within Axonius SaaS Management to help organisations better understand their overall SaaS application risk.",
+      "url": "https://securitybrief.com.au/story/axonius-extends-saas-management-capabilities-to-combat-risk",
+      "urlToImage": "https://securitybrief.com.au/uploads/story/2022/12/16/compatible_Axonius.jpg",
+      "publishedAt": "2022-12-15T20:54:00Z",
+      "content": "Axonius has announced the release of two new capabilities within Axonius SaaS Management to help organisations better understand their overall SaaS application risk.\r\nBehavioural Analytics and SaaS A… [+3978 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Gizmodo.com"
       },
-      "author": null,
-      "title": "Super Nintendo World coming to Universal Studios Hollywood in February 2023 - FOX 11 Los Angeles",
-      "description": "It's almost time to play in the Super Nintendo World, which will open in February, Universal Studios Hollywood announced Wednesday.Subscribe to FOX 11 Los An...",
-      "url": "https://www.youtube.com/watch?v=6dx6gHu8rb0",
-      "urlToImage": "https://i.ytimg.com/vi/6dx6gHu8rb0/maxresdefault.jpg",
-      "publishedAt": "2022-12-14T20:37:27Z",
-      "content": null
+      "author": "Florence Ion",
+      "title": "Dell's Concept Luna Modular Laptop Comes Apart in Seconds - Gizmodo",
+      "description": "Concept Luna promises full modularity, so you can make repairs in seconds. But it's still just that—a concept.",
+      "url": "https://gizmodo.com/dell-concept-luna-modular-laptop-design-ces-2023-repair-1849900078",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/958189df1235ae60d40eda5e80a6e91c.png",
+      "publishedAt": "2022-12-15T20:45:00Z",
+      "content": "Dell, one of the worlds major PC makers, is working on bringing more user-friendly repairability to its laptops. It teased us last year with an early version of Concept Luna, which promised to use fe… [+2435 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SC Magazine"
+        "name": "MacRumors"
       },
-      "author": "Stephen Weigand",
-      "title": "Microsoft blocks threat actors that obtained signed drivers to deploy ransomware - SC Media",
-      "description": "Microsoft disclosed that it suspended several developer program accounts that were able to obtain drivers certified by its Windows Hardware Developer Program that likely deployed ransomware.",
-      "url": "https://www.scmagazine.com/news/ransomware/microsoft-blocks-threat-actors-that-obtained-signed-drivers-to-deploy-ransomware",
-      "urlToImage": "https://files.scmagazine.com/wp-content/uploads/2022/12/121422_microsoft_logo.jpg",
-      "publishedAt": "2022-12-14T20:34:44Z",
-      "content": "Microsoft disclosed Tuesday that it suspended several developer program accounts that were able to obtain drivers certified by its Windows Hardware Developer Program that likely deployed ransomware o… [+3053 chars]"
+      "author": "Juli Clover",
+      "title": "'The Galaxy Awaits You' Says Samsung in Anti-Apple Ad Pushing Z Flip 4 - MacRumors",
+      "description": "Samsung today shared another ad in its anti-Apple \"On the Fence\" series that encourages iPhone users to switch over to Samsung devices.   In...",
+      "url": "https://www.macrumors.com/2022/12/15/samsung-anti-apple-z-flip-4-ad/",
+      "urlToImage": "https://images.macrumors.com/t/yCZ_H0CqpcFfu9i2MyLXgm7BJHA=/1600x/article-new/2022/12/samsung-on-the-fence-ad.jpg",
+      "publishedAt": "2022-12-15T20:38:24Z",
+      "content": "Samsung today shared another ad in its anti-Apple \"On the Fence\" series that encourages iPhone users to switch over to Samsung devices.\r\nIn the spot, a man sits on a literal fence while a woman using… [+1207 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Kotaku"
       },
-      "author": "Kate Gray",
-      "title": "Akiba's Trip: Undead & Undressed Is A Game About Taking Off People's Clothes - Nintendo Life",
-      "description": "Well, if you count vampires as \"people\"",
-      "url": "https://www.nintendolife.com/news/2022/12/akibas-trip-undead-and-undressed-is-a-game-about-taking-off-peoples-clothes",
-      "urlToImage": "https://images.nintendolife.com/dee084ce1f253/1280x720.jpg",
-      "publishedAt": "2022-12-14T20:30:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube\r\nThe stakes are high. Sorry, little vampire joke for you there. But the stakes are high in Akiba's Trip: Undead &amp; Undressed, literally, because Akihabara is … [+1413 chars]"
+      "author": "Claire Jackson",
+      "title": "Valve Reveals Plans To Improve Steam Deck’s Screen, Battery - Kotaku",
+      "description": "Designers Lawrence Yang and Pierre-Loup Griffais also hint that a new Steam Controller may be in the works, eventually",
+      "url": "https://kotaku.com/steam-deck-2-valve-upgrade-controller-screen-battery-1849900091",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3c8490f042ec4ced1f2f40eb78c0d0e7.jpg",
+      "publishedAt": "2022-12-15T20:35:01Z",
+      "content": "As we discussed earlier this week, the Steam Deck has had one hell of a launch year. It should be no surprise, then, that Valve has its eye on the future of its new handheld, which it has officially … [+3037 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Microsoft discovers Windows/Linux botnet used in DDoS attacks - Ars Technica",
+      "description": "MCCrash is specially designed to take down Minecraft servers and performs other DDoSes.",
+      "url": "https://arstechnica.com/information-technology/2022/12/microsoft-discovers-windows-linux-botnet-used-in-ddos-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/botnet5-760x380.jpg",
+      "publishedAt": "2022-12-15T20:02:50Z",
+      "content": "6 with 0 posters participating\r\nMicrosoft researchers have discovered a hybrid Windows-Linux botnet that uses a highly efficient technique to take down Minecraft servers and performs distributed deni… [+2707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jessica Howard",
+      "title": "Overwatch 2 Devs On Planting Easter Eggs, The Need For Flamethrowers, And Hero Creation Process - GameSpot",
+      "description": "In an exclusive interview with GameSpot, Overwatch 2 lead hero designer Alec Dawson and art director Dion Rogers shared their creative processes and what's next for the popular hero shooter.",
+      "url": "https://www.gamespot.com/articles/overwatch-2-devs-on-planting-easter-eggs-the-need-for-flamethrowers-and-hero-creation-process/1100-6510093/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394322/4077701-ow2_s2_bpkeyart.png",
+      "publishedAt": "2022-12-15T20:02:47Z",
+      "content": "It might be hard to believe, but we are now two months--and more importantly, two seasons--into Overwatch 2.\r\nThough its predecessor received frequent updates, new maps, new heroes, and plenty of sea… [+20122 chars]"
     }
   ]
 }
