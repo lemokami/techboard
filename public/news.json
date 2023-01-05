@@ -1,71 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 804,
+  "totalResults": 766,
   "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Hisense’s UX Mini LED TV can produce 2,500 nits of peak brightness - Engadget",
+      "description": "At CES 2023, Hisense unveiled the UX, an 85-inch 4K Mini LED TV the company claims can produce 2,500 nits of peak brightness..",
+      "url": "https://www.engadget.com/hisenses-ux-mini-led-tv-can-produce-2500-nits-of-peak-brightness-221515355.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/c6dcd9c0-8c78-11ed-b7ff-f9c39e261c1b",
+      "publishedAt": "2023-01-04T22:17:39Z",
+      "content": "Once you get past the gimmicks, theres a common thread among the TVs announced at CES 2023. Every manufacturer is trying to produce the brightest possible sets. For Samsung\r\n and LG\r\n, that has meant… [+1477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "author": null,
+      "title": "Samsung Takes Sustainable Living to the Next Level at CES 2023 - Samsung",
+      "description": "New innovations unlock more ways for consumers to save energy, cut costs, and reduce their impact on the environment",
+      "url": "https://news.samsung.com/uk/samsung-takes-sustainable-living-to-the-next-level-at-ces-2023",
+      "urlToImage": "https://img.global.news.samsung.com/uk/wp-content/uploads/2023/01/KV1.png",
+      "publishedAt": "2023-01-04T22:14:38Z",
+      "content": "SEOUL, Korea January 5, 2023 Samsung Electronics Co., Ltd. today announced innovations designed to bring about a new era of sustainable living. With services like SmartThings Energy setting new stand… [+7444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Simon Cohen",
+      "title": "TCL’s CES 2023 surprise: it’s going to sell its first QD-OLED TV in 2023 - Digital Trends",
+      "description": "TCL will join Samsung and Sony in the QD-OLED TV game. The company announced that it will sell its first QD-OLED TV sometime in 2023.",
+      "url": "https://www.digitaltrends.com/home-theater/tcl-qd-oled-tv-ces-2023/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/12/tcl-screen-image-logo-feature.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-01-04T22:00:08Z",
+      "content": "Skip to main content\r\nIf all goes according to plan, we’ll have a third option in 2023 when it comes to TVs that use QD-OLED technology. Ahead of CES 2023, TCL has announced that it will sell its fir… [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Prasad",
+      "title": "Panasonic announces LUMIX S5II and S5IIX cameras with phase detection autofocus - GSMArena.com news - GSMArena.com",
+      "description": "The company's first mirrorless cameras to use this feature.",
+      "url": "https://www.gsmarena.com/panasonic_announces_lumix_s5ii_and_s5iix_cameras_with_phase_detection_autofocus-news-57080.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/01/panasonic-s5ii/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-01-04T22:00:01Z",
+      "content": "Panasonic has announced the LUMIX S5II and the S5IIX, the company's newest full-frame mirrorless hybrid cameras with focus on video recording functionality.\r\nThese are the company's first cameras to … [+2125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Philips Hue Brings Its Light Syncing Tech to Samsung TVs - Gizmodo",
+      "description": "All it requires is a pricey app you can download later this week.",
+      "url": "https://gizmodo.com/philips-hue-sync-tv-light-syncing-tech-to-samsung-tvs-1849947547",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d32904497017ccdff3f1697b55ad4e6d.png",
+      "publishedAt": "2023-01-04T22:00:00Z",
+      "content": "Signify, makers of Philips Hue smart bulbs, announced on Wednesday that its bringing its Philips Hue light syncing technology to Samsung TVs. Philips Hue Sync TV is a paid app that lets you sync your… [+1520 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "David Katzmaier",
-      "title": "LG Teases 2023 OLED TV That Boosts Screen Brightness 70% Higher Than 2022 models - CNET",
-      "description": "At CES, LG announced a fresh lineup of Z3, G3 and C3 OLED TV models.",
-      "url": "https://www.cnet.com/tech/home-entertainment/lg-teases-2023-oled-tv-that-boosts-screen-brightness-70-higher-than-2022-models/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b13dc9bacc29fd3f4704c4fc92d689564483c4bf/hub/2022/12/31/dccb36c9-9142-426e-b6ae-2e73d5990a99/oled-evo-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-03T22:26:00Z",
-      "content": "Ahead of the massive CES 2023 consumer tech show here in Las Vegas, LG previewed a few details about its new OLED televisions, with more hands-on time and specs to come. (I'll be there in person to s… [+2812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Press Start Australia"
-      },
-      "author": "Kieron Verbrugge",
-      "title": "NVIDIA GeForce Now Is Getting An Ultimate Tier With RTX 4080 Performance - Press Start Australia",
-      "description": "NVIDIA announced during its CES 2023 keynote today that it's adding a new \"Ultimate\" tier to its GeForce Now game streaming service. The Ultimate tier will replace the current RTX 3080 subscription at the same price of $20 USD (a tier which isn't available in…",
-      "url": "https://press-start.com.au/news/tech-news/2023/01/04/nvidia-geforce-now-is-getting-an-ultimate-tier-with-rtx-4080-performance/",
-      "urlToImage": "https://press-start.com.au/wp-content/uploads/2021/10/geforce-now.jpg",
-      "publishedAt": "2023-01-03T22:16:30Z",
-      "content": "NVIDIA announced during its CES 2023 keynote today that it’s adding a new “Ultimate” tier to its GeForce Now game streaming service.\r\nThe Ultimate tier will replace the current RTX 3080 subscription … [+880 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "LG’s 2023 OLED TVs claim to boost brightness by up to 70% - Ars Technica",
-      "description": "LG's brighter TVs come as Samsung Display's QD-OLED is poised to hit 2,000 nits.",
-      "url": "https://arstechnica.com/gadgets/2023/01/lgs-2023-oled-tvs-claim-to-boost-brightness-by-up-to-70/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/OLED-EVO_01-760x380.jpg",
-      "publishedAt": "2023-01-03T22:10:23Z",
-      "content": "13 with 0 posters participating\r\nJanuary means new technology product announcements from the CES trade show in Las Vegas. LG, a regular CES participant, announced this year's OLED TV lineup at the sh… [+3823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadget.co.za"
-      },
-      "author": null,
-      "title": "CES: LG unveils immersive soundbars - Gadget",
-      "description": "The company's new soundbar models come with improved LG TV integration, convenient functions, and powerful sound.",
-      "url": "https://gadget.co.za/ces-lg/",
-      "urlToImage": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2023/01/image001-10.jpg?resize=600%2C338&ssl=1",
-      "publishedAt": "2023-01-03T22:10:00Z",
-      "content": "At the CES expo in Las Vegas this week, LG Electronics (LG) is unveiling its 2023 soundbar lineup to complement its new TV lineup.\r\nThe soundbars promise to deliver outstanding consumer value with po… [+4283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Euronews"
-      },
-      "author": null,
-      "title": "No 'substantive' settlement talks between U.S. FTC, Microsoft over Activision -lawyer - Euronews",
-      "description": "WASHINGTON  –     There are no “substantive”",
-      "url": "https://www.euronews.com/next/2023/01/03/activision-m-a-microsoft",
-      "urlToImage": "https://static.euronews.com/articles/wires/905/65/9056594/1000x563_o4xyqe.jpg",
-      "publishedAt": "2023-01-03T22:04:40Z",
-      "content": "WASHINGTON There are no substantive settlement discussions under way between the Biden administration and Microsoft Corp to resolve a legal dispute over the Xbox makers $69 billion bid for games make… [+1397 chars]"
+      "author": "Lisa Eadicicco",
+      "title": "Samsung's New $200 Galaxy Phone Takes Better Selfies Than Before - CNET",
+      "description": "The Galaxy A14 5G is a modest update to 2021's Galaxy A13 5G, and it's less expensive.",
+      "url": "https://www.cnet.com/tech/mobile/samsungs-new-200-galaxy-phone-takes-better-selfies-than-before/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/95b770a3ba6b574f0a3be641e2209e4eaa0e334d/hub/2023/01/03/2c5595ae-cebe-4584-8b76-2e9605c6b702/samsung-galaxy-a14.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-04T21:51:00Z",
+      "content": "Samsung's Galaxy A devices are already affordable compared with most phones, but the company is taking that a step further with the new $200 Galaxy A14 5G. Announced at CES 2023, the new phone is $50… [+2996 chars]"
     },
     {
       "source": {
@@ -73,194 +86,181 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "NVIDIA's CES 2023 keynote in under 10 minutes - Engadget",
-      "description": "At CES 2023, NVIDIA announced new hardware such as their updated Geforce GPUs, and a new lineup of RTX 40 series laptops, new and improved cloud based produc...",
-      "url": "https://www.youtube.com/watch?v=nFMIsnmG92o",
-      "urlToImage": "https://i.ytimg.com/vi/nFMIsnmG92o/maxresdefault.jpg",
-      "publishedAt": "2023-01-03T22:04:06Z",
+      "title": "CES 2023: Roku announces smart TVs, Aeva demonstrates autonomous vehicles - Yahoo Finance",
+      "description": "#CES #Roku #Aeva #yahoofinance Yahoo Finance tech reporter Allie Garfinkle reports live from the 2023 CES Tech Conference on the latest innovations that have...",
+      "url": "https://www.youtube.com/watch?v=Y_R3wERWOWo",
+      "urlToImage": "https://i.ytimg.com/vi/Y_R3wERWOWo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLD4PMxeFnEGNROWcd6sUbjXfoWpMw",
+      "publishedAt": "2023-01-04T21:47:46Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Graham Smith",
-      "title": "Stranded Deep has been released on Game Pass - Rock Paper Shotgun",
-      "description": "Stranded Deep has been surprise released on PC Game Pass, while five other games are due to leave the service later this month.",
-      "url": "https://www.rockpapershotgun.com/stranded-deep-has-been-released-on-game-pass",
-      "urlToImage": "https://assets2.rockpapershotgun.com/stranded-deep_DfUvwtg.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stranded-deep_DfUvwtg.jpg",
-      "publishedAt": "2023-01-03T22:03:40Z",
-      "content": "Open world island survival game Stranded Deep has arrived on Game Pass, while five other games have been announced as leaving the service on January 15th. The leavers are The Anucrusis, Nobody Saves … [+1044 chars]"
+      "author": "Jennifer Korn",
+      "title": "A $3,300 self-driving stroller is at this year's CES. Are parents ready? - CNN",
+      "description": "Hang onto your baby bonnets: Self-driving technology is coming to strollers.",
+      "url": "https://www.cnn.com/2023/01/04/tech/self-driving-stroller-ces/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104143009-gluxkind-stroller.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-04T21:37:00Z",
+      "content": "Hang onto your baby bonnets: Self-driving technology is coming to strollers.\r\nCanadian-based baby gear startup Gluxkind was showing off its Ella AI Powered Smart Stroller at this years CES, the consu… [+2261 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Digital Trends"
       },
-      "author": "James Trew",
-      "title": "Roland's first gaming product is the Bridge Cast streaming mixer - Yahoo News Australia",
-      "description": "There are a number of streaming-focused audio interfaces, but not many let you customize how they look.",
-      "url": "https://au.news.yahoo.com/roland-bridge-cast-audio-streaming-interface-220058414.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lFfYdq30z_79bactOyVOSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/f1f8ea00-8ba5-11ed-bedc-75cb5f344d07",
-      "publishedAt": "2023-01-03T22:00:58Z",
-      "content": "Roland may be a mainstay in the electronic music world, but it also dabbles in the occasional creator product, too. This year at CES the company has unveiled an audio interface aimed squarely at stre… [+1249 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/james-trew",
-      "title": "Roland's first gaming product is the Bridge Cast streaming mixer - Yahoo Finance",
-      "description": "There are a number of streaming-focused audio interfaces, but not many let you customize how they look..",
-      "url": "https://www.engadget.com/roland-bridge-cast-audio-streaming-interface-220058414.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/f1f8ea00-8ba5-11ed-bedc-75cb5f344d07",
-      "publishedAt": "2023-01-03T22:00:58Z",
-      "content": "Roland may be a mainstay in the electronic music world, but it also dabbles in the occasional creator product, too. This year at CES the company has unveiled an audio interface aimed squarely at stre… [+1249 chars]"
+      "author": "Simon Cohen",
+      "title": "CES 2023: Hisense’s mini-LED TVs now start under $500, with models up to 85 inches - Digital Trends",
+      "description": "Hisense revealed its 2023 TV lineup, and it had a surprise in addition to the usual flagship features. Its entry-level models are under $500 and have mini-LED.",
+      "url": "https://www.digitaltrends.com/home-theater/hisense-mini-led-4k-tv-lineup-u8k-u7k-u6k-ces-2023/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/hisense-u8k-u7k-u6k-mini-led-ces-2023.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-01-04T21:35:48Z",
+      "content": "Hisense has revealed its 2023 lineup of TVs at CES 2023, and it’s chock-full of high-brightness mini-LEDs, including a new flagship known as the UX. There are 14 models with mini-LED backlighting, fr… [+3676 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Reviewed"
       },
-      "author": "James Trew",
-      "title": "Roland's first gaming product is the Bridge Cast streaming mixer - Yahoo Singapore News",
-      "description": "There are a number of streaming-focused audio interfaces, but not many let you customize how they look.",
-      "url": "https://sg.news.yahoo.com/roland-bridge-cast-audio-streaming-interface-220058414.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lFfYdq30z_79bactOyVOSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/f1f8ea00-8ba5-11ed-bedc-75cb5f344d07",
-      "publishedAt": "2023-01-03T22:00:58Z",
-      "content": "Roland may be a mainstay in the electronic music world, but it also dabbles in the occasional creator product, too. This year at CES the company has unveiled an audio interface aimed squarely at stre… [+1249 chars]"
+      "author": "Michael Desjardin",
+      "title": "Samsung CES 2023 TV Announcement - Reviewed",
+      "description": "Plus MicroLED, health monitoring software, and more",
+      "url": "https://www.reviewed.com/televisions/features/samsung-ces-2023-tv-announcement",
+      "urlToImage": "https://reviewed-com-res.cloudinary.com/image/fetch/s--gjQ5AxwI--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1671571921143/Samsung-CES-2023-Announcement-Micro-LED-TV-Hero.jpg",
+      "publishedAt": "2023-01-04T21:26:04Z",
+      "content": "CES 2023 is officially underway, and Samsung is among the first brands to shed some light on the future of its TV lineup.\r\nAs is usually the case, product names, pricing, and specs have only partiall… [+4189 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "GameSpot"
       },
-      "author": "Jason Cipriani",
-      "title": "CES 2023: OtterBox unveils OtterGrip Symmetry Series iPhone case - ZDNet",
-      "description": "OtterBox built a collapsible grip directly into its Symmetry Series iPhone case, announced ahead of CES 2023, and it looks pretty darn cool.",
-      "url": "https://www.zdnet.com/article/ces-2023-otterbox-unveils-ottergrip-symmetry-series-iphone-case/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4c6851e89f2741e4dffadd32e3dbdf7275121612/2023/01/02/8f0357c5-6e03-4c59-ba92-e8c6d6967444/obnov22-ottergrip-03-copy.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-01-03T22:00:56Z",
-      "content": "OtterBox\r\nOtterBox on Tuesday announced its latest iPhone case, the OtterGrip Symmetry Series for the iPhone 12 and 12 Pro, iPhone 13 Pro Max, and iPhone 14, ahead of CES 2023. OtterBox's Symmetry ca… [+1309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "David Carnoy",
-      "title": "OtterBox's New MagSafe OtterGrip Case Integrates an Innovative Grip for iPhones - CNET",
-      "description": "The OtterGrip is a MagSafe-compatible case that features a built-in grip that allows you to comfortably hold your iPhone when engaged and sits flush with the case when not in use.",
-      "url": "https://www.cnet.com/tech/mobile/otterboxs-new-magsafe-ottergrip-case-integrates-an-innovative-grip-for-iphones/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9f18108fdc3a874513bf0e0f54f03947144ea21f/hub/2023/01/03/bbd99dbe-e54f-4935-9b88-a4cf33cd3c82/otterbox-ottergrip-colors.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-03T22:00:00Z",
-      "content": "One of my favorite MagSafe accessories is Clckr's Stand &amp; Grip ($30), and Clickr also makes a case with an integrated stand for $40. Now OtterBox is getting in on the integrated grip game with it… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": null,
-      "title": "No 'substantive' settlement talks between U.S. FTC, Microsoft over Activision -lawyer - Reuters",
-      "description": "There are no \"substantive\" settlement discussions under way between the Biden administration and Microsoft Corp <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> to resolve a legal dispute over the Xbox maker's $69 billion bid fo…",
-      "url": "https://www.reuters.com/markets/deals/no-substantive-settlement-talks-between-us-ftc-microsoft-over-activision-lawyer-2023-01-03/",
-      "urlToImage": "https://www.reuters.com/resizer/URU6uMu5gRSkhqqVwhj2FOQiiK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F4VN364ZPZINBOP2IY5H6GFNJA.jpg",
-      "publishedAt": "2023-01-03T21:59:00Z",
-      "content": "WASHINGTON, Jan 3 (Reuters) - There are no \"substantive\" settlement discussions under way between the Biden administration and Microsoft Corp (MSFT.O) to resolve a legal dispute over the Xbox maker's… [+1570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bicycleretailer.com"
-      },
-      "author": null,
-      "title": "CES launches start with Acer bike desk - Bicycle Retailer",
-      "description": "LAS VEGAS, Nev. (BRAIN) — CES, the giant consumer electronics trade show, kicked off Tuesday with media preview events. The show opens officially Thursday and runs through Sunday, while news is starting to come out about the many bike, e-bike, and fitness-rel…",
-      "url": "https://www.bicycleretailer.com/product-tech/2023/01/03/ces-launches-start-acer-bike-desk",
-      "urlToImage": "https://www.bicycleretailer.com/sites/default/files/images/article/ekinekt_bd_3_lifestyle_3.png",
-      "publishedAt": "2023-01-03T21:56:46Z",
-      "content": "LAS VEGAS, Nev. (BRAIN) CES, the giant consumer electronics trade show, kicked off Tuesday with media preview events. The show opens officially Thursday and runs through Sunday, while news is startin… [+1383 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Reuters",
-      "title": "No 'substantive' settlement talks between U.S. FTC, Microsoft over Activision -lawyer By Reuters - Investing.com",
-      "description": "No 'substantive' settlement talks between U.S. FTC, Microsoft over Activision -lawyer",
-      "url": "https://www.investing.com/news/stock-market-news/no-substantive-settlement-talks-between-us-ftc-microsoft-over-activision-lawyer-2972551",
-      "urlToImage": "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1643707550.jpg",
-      "publishedAt": "2023-01-03T21:56:00Z",
-      "content": "WASHINGTON (Reuters) - There are no \"substantive\" settlement discussions under way between the Biden administration and Microsoft Corp (NASDAQ:MSFT) to resolve a legal dispute over the Xbox maker's $… [+1469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "No 'substantive' settlement talks between US FTC, Microsoft over Activision -lawyer - CNA",
-      "description": "WASHINGTON : There are no \"substantive\" settlement discussions under way between the Biden administration and Microsoft Corp to resolve a legal dispute over the Xbox maker's $69 billion bid for games maker Activision Blizzard Inc, a Federal Trade Commission a…",
-      "url": "https://www.channelnewsasia.com/business/no-substantive-settlement-talks-between-us-ftc-microsoft-over-activision-lawyer-3181436",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--KFdocQPQ--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-03t215953z_3_lynxmpej020le_rtroptp_3_activision-m-a-microsoft.jpg?itok=2OCKw5X3",
-      "publishedAt": "2023-01-03T21:50:29Z",
-      "content": "WASHINGTON : There are no \"substantive\" settlement discussions under way between the Biden administration and Microsoft Corp to resolve a legal dispute over the Xbox maker's $69 billion bid for games… [+1408 chars]"
+      "author": "Jason Fanelli",
+      "title": "Pokemon Go Twinkling Fantasy Event Brings Mega Salamence To Your Local Pokemon Gym - GameSpot",
+      "description": "The mega monster will descend into Pokemon Go this month.",
+      "url": "https://www.gamespot.com/articles/pokemon-go-twinkling-fantasy-event-brings-mega-salamence-to-your-local-pokemon-gym/1100-6510308/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4082693-pokemon-go-twinkling-fantasy.jpg",
+      "publishedAt": "2023-01-04T21:20:50Z",
+      "content": "Pokemon Go is beginning 2023 with a bang, as Niantic has followed up the recent announcement of the next Community Day Classic with details on the next in-game event, which will be called Twinkling F… [+2554 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Alan Sahbegovic",
-      "title": "5 reasons to play GTA San Andreas in 2023 - Sportskeeda",
-      "description": "GTA San Andreas is a classic that's largely stood the test of time. Unsurprisingly, it's still a ton of fun to play in 2023.",
-      "url": "https://www.sportskeeda.com/gta/5-reasons-play-gta-san-andreas-2023",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/01/128b3-16727790792845-1920.jpg",
-      "publishedAt": "2023-01-03T21:47:20Z",
-      "content": "GTA San Andreas is a classic that's largely stood the test of time. Unsurprisingly, it's still a ton of fun to play in 2023. This timeless masterpiece will be fun for a wide variety of players, but t… [+4957 chars]"
+      "author": "Angshuman Dutta",
+      "title": "Pokemon GO Larvitar Community Day Classic (January 2023): Schedule, featured attack, event bonus, and more - Sportskeeda",
+      "description": "Niantic recently revealed the next Community Day Classic for Pokemon GO that players will get to take part in.",
+      "url": "https://www.sportskeeda.com/pokemon/news-pokemon-go-larvitar-community-day-classic-january-2023-schedule-featured-attack-event-bonus",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/01/9733e-16728606987564-1920.jpg",
+      "publishedAt": "2023-01-04T21:19:55Z",
+      "content": "Niantic recently revealed the next Community Day Classic for Pokemon GO that players will get to take part in. The upcoming iteration of the popular event will take place later on Saturday, January 2… [+3569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Judith BannermanQuist",
+      "title": "LG Electronics' latest partnership seeks to bring interoperable metaverse platforms to TVs - Cointelegraph",
+      "description": "Users will be able to access “super high fidelity interconnected virtual worlds” and experiences including virtual concerts and AI-generative multiplayer games.",
+      "url": "https://cointelegraph.com/news/lg-electronics-latest-partnership-seeks-to-bring-interoperable-metaverse-platforms-to-tvs",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/e36ecd09-e262-4ef8-a578-09d841d690bd.jpg",
+      "publishedAt": "2023-01-04T21:17:08Z",
+      "content": "South Korean tech giant LG Electronics announced that it has teamed up with cloud-based technology platform Oorbit and Pixelynx  a company building an integrated music, gaming and Web3 ecosystem to b… [+1744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "The iPhone Has a New Siri Voice Command You'll Want to Know About - CNET",
+      "description": "This feature only works on iOS 16.",
+      "url": "https://www.cnet.com/tech/services-and-software/the-iphone-has-a-new-siri-voice-command-youll-want-to-know-about/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0a54c39ab785f16c8535d6f7a94018a198d730fe/hub/2019/10/29/41050e7d-a90e-4cdf-9ed8-616904b22219/ios-siri.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-04T21:15:03Z",
+      "content": "This story is part of 12 Days of Tips, helping you make the most of your tech, home and health during the holiday season. \r\nYou can use your voice to do so much on your iPhone. Thanks to Siri, you ca… [+2100 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Kris Holt",
-      "title": "Overwatch 2’s Battle For Olympus Event Is A Free-For-All Deathmatch With ‘Reimagined Abilities’ And Global Leaderboard - Forbes",
-      "description": "There will be a global leaderboard tallying each of the seven heroes' eliminations.",
-      "url": "https://www.forbes.com/sites/krisholt/2023/01/03/overwatch-2s-battle-for-olympus-event-is-a-free-for-all-deathmatch-with-reimagined-abilities-and-global-leaderboard/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b4a2d74752b0a4e8acc323/0x0.jpg?format=jpg&crop=2000,1125,x0,y0,safe&width=1200",
-      "publishedAt": "2023-01-03T21:43:28Z",
-      "content": "Blizzard has revealed some more details about Battle for Olympus, the next Overwatch 2 limited-time event. Its a free-for-all deathmatch mode that features seven heroes with reimagined abilities. The… [+1561 chars]"
+      "author": "Dave Altavilla",
+      "title": "Nvidia GeForce RTX 4070 Ti Arrives With A More Affordable Price, Efficiency And Great Performance - Forbes",
+      "description": "All told, you have to hand it to Nvidia for delivering on very strong performance-per-dollar and performance-per-watt metrics here with the GeForce RTX 4070 Ti.",
+      "url": "https://www.forbes.com/sites/davealtavilla/2023/01/04/nvidia-geforce-rtx-4070-ti-arrives-with-a-more-affordable-price-efficiency-and-great-performance/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b5e4ad1a7862dec8126109/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-01-04T21:13:27Z",
+      "content": "ASUS GeForce RTX 4070 Ti OC Edition Graphics Card And Retail Box\r\nDave Altavilla\r\nThe annual Consumer Electronics Show (CES) is ramping up in Las Vegas, and many innovative tech companies are using t… [+5452 chars]"
     },
     {
       "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
+        "id": null,
+        "name": "GameSpot"
       },
-      "author": "Reuters",
-      "title": "No 'substantive' settlement talks between U.S. FTC, Microsoft over Activision -lawyer - Financial Post",
-      "description": "WASHINGTON — There are no “substantive” settlement discussions under way between the Biden administration and Microsoft Corp to resolve a legal dispute over…",
-      "url": "https://financialpost.com/pmn/business-pmn/no-substantive-settlement-talks-between-u-s-ftc-microsoft-over-activision-lawyer",
-      "urlToImage": null,
-      "publishedAt": "2023-01-03T21:40:15Z",
-      "content": "Article content\r\nWASHINGTON There are no substantive settlement discussions under way between the Biden administration and Microsoft Corp to resolve a legal dispute over the Xbox makers $69 billion b… [+1495 chars]"
+      "author": "Jason Fanelli",
+      "title": "Larvitar Stars In The First Pokemon Go Community Day Classic Of 2023 - GameSpot",
+      "description": "January 21 will be all about Larvitar in Pokemon Go.",
+      "url": "https://www.gamespot.com/articles/larvitar-stars-in-the-first-pokemon-go-community-day-classic-of-2023/1100-6510304/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4082685-pokemon-go-community-day-classic-january-2023-larvitar.jpg",
+      "publishedAt": "2023-01-04T21:10:24Z",
+      "content": "With the Community Day featuring Chespin slated to take place this weekend, Niantic has officially revealed details on the first Pokemon Go Community Day Classic of 2023, which will highlight the Roc… [+1077 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kyle Orland",
-      "title": "EA says it can't recover 60% of players' corrupted Madden franchise save files - Ars Technica",
-      "description": "Issue came after EA said players \"should now be able to play... without issue.\"",
-      "url": "https://arstechnica.com/gaming/2023/01/ea-says-it-cant-help-most-players-affected-by-madden-save-file-corruption/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/madden3-760x380.jpg",
-      "publishedAt": "2023-01-03T21:34:11Z",
-      "content": "Enlarge/ Not exactly a great legacy for the first post-John-Madden Madden game.\r\n26 with 0 posters participating\r\nEA says that a temporary \"data storage issue\" led to the corruption of many Madden NF… [+2446 chars]"
+      "author": "Andrew Cunningham",
+      "title": "Move over, Nvidia: Some AMD 7900 XTX GPUs are having their own heat issues - Ars Technica",
+      "description": "Owners of cards with throttling problems are encouraged to contact AMD support.",
+      "url": "https://arstechnica.com/gadgets/2023/01/amd-says-a-limited-number-of-7900-xtx-gpus-have-a-thermal-throttling-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0772-760x380.jpeg",
+      "publishedAt": "2023-01-04T21:08:45Z",
+      "content": "Enlarge/ The Radeon RX 7900 XTX's three-fan cooler.\r\n21 with 0 posters participating\r\nNvidia's GeForce RTX 4090 has been through the PR wringer for the last few months because of problems with its po… [+1705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Laura Gray",
+      "title": "Pokemon Go Larvitar Community Day Classic: Start time, exclusive move, bonuses - Dexerto",
+      "description": "Pokemon Go players will be able to catch Larvitar in the next January Community Day Classic, with access to an exclusive move.",
+      "url": "https://www.dexerto.com/pokemon/pokemon-go-larvitar-community-day-classic-start-time-exclusive-move-bonuses-2023871/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/01/04/Larvitar-Pokemon-Go-Community-Day-Classic.jpg",
+      "publishedAt": "2023-01-04T21:05:25Z",
+      "content": "Niantic has announced that Pokemon Gos next Community Day Classic will feature Larvitar, offering players a chance to catch it Shiny, obtain an exclusive move, and participate in a paid Special Resea… [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Richik \"anarkiddie\" Bhattacharya",
+      "title": "\"It's been two years\": xQc finally beats Forsen in Minecraft speedrunning - Sportskeeda",
+      "description": "Felix \"xQc\" and Sebastian \"Forsen\" have had a rivalry when it comes to Minecraft speedrunning for years now.",
+      "url": "https://www.sportskeeda.com/esports/news-it-s-two-years-xqc-finally-beats-forsen-minecraft-speedrunning",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/01/ccd51-16728622716407-1920.jpg",
+      "publishedAt": "2023-01-04T21:02:44Z",
+      "content": "Felix \"xQc\" and Sebastian \"Forsen\" have had a rivalry when it comes to Minecraft speedrunning for years now. Both individuals have frequently tried to one-up each other in terms of completing the san… [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Scott Stein",
+      "title": "TCL's RayNeo X2 AR Glasses Live-Translate Conversations for Me - CNET",
+      "description": "TCL's known for TVs. Now the company's working on its own AR and VR hardware, too.",
+      "url": "https://www.cnet.com/tech/computing/tcls-rayneo-x2-ar-glasses-live-translate-conversations-for-me/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f29d5781f99d4da144a504140d1d934d90f43b22/hub/2023/01/04/399b04df-1e0b-4374-b54e-5dc01af7d83a/tcl-ar-glasses.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-04T21:00:03Z",
+      "content": "A wave of VR and AR headsets and glasses are expected in 2023, arriving from companies including Apple, Sony, HTC and Meta. The number of future hardware players is growing, though -- add TCL to that… [+4887 chars]"
     }
   ]
 }
