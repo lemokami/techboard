@@ -1,84 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 766,
+  "totalResults": 796,
   "articles": [
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": null,
+        "name": "VentureBeat"
       },
-      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
-      "title": "Hisense’s UX Mini LED TV can produce 2,500 nits of peak brightness - Engadget",
-      "description": "At CES 2023, Hisense unveiled the UX, an 85-inch 4K Mini LED TV the company claims can produce 2,500 nits of peak brightness..",
-      "url": "https://www.engadget.com/hisenses-ux-mini-led-tv-can-produce-2500-nits-of-peak-brightness-221515355.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/c6dcd9c0-8c78-11ed-b7ff-f9c39e261c1b",
-      "publishedAt": "2023-01-04T22:17:39Z",
-      "content": "Once you get past the gimmicks, theres a common thread among the TVs announced at CES 2023. Every manufacturer is trying to produce the brightest possible sets. For Samsung\r\n and LG\r\n, that has meant… [+1477 chars]"
+      "author": "Rachel Kaser",
+      "title": "Apple Arcade announces January Originals, including Pocket Card Jockey - VentureBeat",
+      "description": "Apple announced its January Originals, including the resurfacing of a 3DS Game Freak title: Pocket Card Jockey.",
+      "url": "https://venturebeat.com/games/apple-arcade-announces-january-originals-including-pocket-card-jockey/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/01/AA-Pocket-Card-Jockey.jpg?w=1200&strip=all",
+      "publishedAt": "2023-01-05T22:23:30Z",
+      "content": "Apple announced which new games its adding to its Arcade subscription service in January. Its launching four new titles on the service this month, including one of the most interesting offerings from… [+1576 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Samsung.com"
+        "name": "The Next Platform"
       },
-      "author": null,
-      "title": "Samsung Takes Sustainable Living to the Next Level at CES 2023 - Samsung",
-      "description": "New innovations unlock more ways for consumers to save energy, cut costs, and reduce their impact on the environment",
-      "url": "https://news.samsung.com/uk/samsung-takes-sustainable-living-to-the-next-level-at-ces-2023",
-      "urlToImage": "https://img.global.news.samsung.com/uk/wp-content/uploads/2023/01/KV1.png",
-      "publishedAt": "2023-01-04T22:14:38Z",
-      "content": "SEOUL, Korea January 5, 2023 Samsung Electronics Co., Ltd. today announced innovations designed to bring about a new era of sustainable living. With services like SmartThings Energy setting new stand… [+7444 chars]"
+      "author": "Timothy Prickett Morgan",
+      "title": "AMD Teases Details On Future MI300 Hybrid Compute Engines - The Next Platform",
+      "description": "We were under the distinct impression that AMD was not going to talk much about its datacenter compute engines at the Consumer Electronics Show, having",
+      "url": "https://www.nextplatform.com/2023/01/05/amd-teases-details-on-future-mi300-hybrid-compute-engines/",
+      "urlToImage": "http://www.nextplatform.com/wp-content/uploads/2023/01/amd-instinct-mi300-logo.jpg",
+      "publishedAt": "2023-01-05T22:19:55Z",
+      "content": "We were under the distinct impression that AMD was not going to talk much about its datacenter compute engines at the Consumer Electronics Show, having just launched its Genoa Epyc 9004 server CPUs i… [+9730 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Goose Goose Duck is a viral hit on Steam, thanks to BTS member V - Polygon",
+      "description": "The Among Us-inspired social deduction game Goose Goose Duck was a moderate hit on Steam, right up until V (Kim Taehyung) from BTS streamed it in November. Now, Goose Goose Duck is an overwhelming success in Korea.",
+      "url": "https://www.polygon.com/23541058/goose-goose-duck-game-steam-bts-v-kim-tae-hyung",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OXYd9H2A_hZvKQ3fyHyq52d3x34=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24338772/GGD_SSMothergoose.jpg",
+      "publishedAt": "2023-01-05T22:18:00Z",
+      "content": "Fire up Steam in the early hours of the day and you might notice a surprising new entry near the top of the platforms Most Played list: Goose Goose Duck. The free-to-play social deduction game was th… [+2443 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "Theregister.com"
       },
-      "author": "Simon Cohen",
-      "title": "TCL’s CES 2023 surprise: it’s going to sell its first QD-OLED TV in 2023 - Digital Trends",
-      "description": "TCL will join Samsung and Sony in the QD-OLED TV game. The company announced that it will sell its first QD-OLED TV sometime in 2023.",
-      "url": "https://www.digitaltrends.com/home-theater/tcl-qd-oled-tv-ces-2023/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/12/tcl-screen-image-logo-feature.jpeg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-01-04T22:00:08Z",
-      "content": "Skip to main content\r\nIf all goes according to plan, we’ll have a third option in 2023 when it comes to TVs that use QD-OLED technology. Ahead of CES 2023, TCL has announced that it will sell its fir… [+2775 chars]"
+      "author": "Dylan Martin",
+      "title": "AMD follows Intel’s lead with alphanumeric soup of new Ryzens - The Register",
+      "description": "New high-end Ryzen laptop CPUs? Huzzah! Now what's the number again?",
+      "url": "https://www.theregister.com/2023/01/05/amd_ryzen_intel/",
+      "urlToImage": "https://regmedia.co.uk/2020/11/12/amd_ryzen_media_library_supplied.jpg",
+      "publishedAt": "2023-01-05T22:15:00Z",
+      "content": "Analysis AMD has revealed an expanded family of Ryzen 7000 processors for laptops and desktops, and, more than ever before, they resemble the alphanumeric soup Intel deploys on its array of PC chips.… [+7461 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Mansion Global"
       },
-      "author": "Prasad",
-      "title": "Panasonic announces LUMIX S5II and S5IIX cameras with phase detection autofocus - GSMArena.com news - GSMArena.com",
-      "description": "The company's first mirrorless cameras to use this feature.",
-      "url": "https://www.gsmarena.com/panasonic_announces_lumix_s5ii_and_s5iix_cameras_with_phase_detection_autofocus-news-57080.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/01/panasonic-s5ii/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-01-04T22:00:01Z",
-      "content": "Panasonic has announced the LUMIX S5II and the S5IIX, the company's newest full-frame mirrorless hybrid cameras with focus on video recording functionality.\r\nThese are the company's first cameras to … [+2125 chars]"
+      "author": "V.L. HENDRICKSON",
+      "title": "MatchesFashion Founders Find Buyer for $25 Million Manhattan Townhouse - Mansion Global",
+      "description": "The Greenwich Village residence has a floor-through main bedroom suite and several outdoor areas",
+      "url": "https://www.mansionglobal.com/articles/matchesfashion-founders-find-buyer-for-25-million-manhattan-townhouse-01672956695",
+      "urlToImage": "https://images.mansionglobal.com/im-698090/social",
+      "publishedAt": "2023-01-05T22:11:00Z",
+      "content": "British fashion power couple Tom and Ruth Chapman have found a buyer for their $25 million residence in Manhattans Greenwich Village.\r\nFirst listed in July, the 12th Street townhouse blurs the line b… [+1771 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "GameSpot"
       },
-      "author": "Florence Ion",
-      "title": "Philips Hue Brings Its Light Syncing Tech to Samsung TVs - Gizmodo",
-      "description": "All it requires is a pricey app you can download later this week.",
-      "url": "https://gizmodo.com/philips-hue-sync-tv-light-syncing-tech-to-samsung-tvs-1849947547",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d32904497017ccdff3f1697b55ad4e6d.png",
-      "publishedAt": "2023-01-04T22:00:00Z",
-      "content": "Signify, makers of Philips Hue smart bulbs, announced on Wednesday that its bringing its Philips Hue light syncing technology to Samsung TVs. Philips Hue Sync TV is a paid app that lets you sync your… [+1520 chars]"
+      "author": "Grace Benfell",
+      "title": "Valorant Season 6 Cinematic Teases New Map As Agents Seek To Find An Overgrown Temple - GameSpot",
+      "description": "The trailer provides hang out time and lore revelations.",
+      "url": "https://www.gamespot.com/articles/valorant-season-6-cinematic-teases-new-map-as-agents-seek-to-find-an-overgrown-temple/1100-6510354/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1690/16904437/4083181-valorantcinematic.jpg",
+      "publishedAt": "2023-01-05T21:58:04Z",
+      "content": "The latest cinematic trailer for Valorant sets the stage for episode 6 by teasing a new map. The cinematic crosscuts between various Valorant characters as they make their way to a ruined temple, ove… [+1421 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Sportskeeda"
       },
-      "author": "Lisa Eadicicco",
-      "title": "Samsung's New $200 Galaxy Phone Takes Better Selfies Than Before - CNET",
-      "description": "The Galaxy A14 5G is a modest update to 2021's Galaxy A13 5G, and it's less expensive.",
-      "url": "https://www.cnet.com/tech/mobile/samsungs-new-200-galaxy-phone-takes-better-selfies-than-before/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/95b770a3ba6b574f0a3be641e2209e4eaa0e334d/hub/2023/01/03/2c5595ae-cebe-4584-8b76-2e9605c6b702/samsung-galaxy-a14.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-04T21:51:00Z",
-      "content": "Samsung's Galaxy A devices are already affordable compared with most phones, but the company is taking that a step further with the new $200 Galaxy A14 5G. Announced at CES 2023, the new phone is $50… [+2996 chars]"
+      "author": "Amitesh Dhar",
+      "title": "All cheats and console commands for The Elder Scrolls V: Skyrim - Sportskeeda",
+      "description": "When it comes to single-player titles, few are as refined as The Elder Scrolls V: Skyrim. Developed by Bethesda, the game is extremely popular even today and has a very active modding community.",
+      "url": "https://www.sportskeeda.com/esports/all-cheats-console-commands-the-elder-scrolls-v-skyrim",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/01/28390-16729288500105-1920.jpg",
+      "publishedAt": "2023-01-05T21:48:51Z",
+      "content": "When it comes to single-player titles, few are as refined as The Elder Scrolls V: Skyrim. Developed by Bethesda, the game is extremely popular even today and has a very active modding community.\r\nWhi… [+4375 chars]"
     },
     {
       "source": {
@@ -86,181 +99,168 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "CES 2023: Roku announces smart TVs, Aeva demonstrates autonomous vehicles - Yahoo Finance",
-      "description": "#CES #Roku #Aeva #yahoofinance Yahoo Finance tech reporter Allie Garfinkle reports live from the 2023 CES Tech Conference on the latest innovations that have...",
-      "url": "https://www.youtube.com/watch?v=Y_R3wERWOWo",
-      "urlToImage": "https://i.ytimg.com/vi/Y_R3wERWOWo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXShTMA8=&rs=AOn4CLD4PMxeFnEGNROWcd6sUbjXfoWpMw",
-      "publishedAt": "2023-01-04T21:47:46Z",
+      "title": "PS5 Shortage Is Over, According To PlayStation | GameSpot News - GameSpot",
+      "description": "So you want a PS5, huh? Well, PlayStation boss Jim Ryan delivered some fantastic news at CES 2023. #GamingNews #PS5 #PlayStationThe PS5 launched in November ...",
+      "url": "https://www.youtube.com/watch?v=9MOUqoendsU",
+      "urlToImage": "https://i.ytimg.com/vi/9MOUqoendsU/maxresdefault.jpg",
+      "publishedAt": "2023-01-05T21:45:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "MacStories"
       },
-      "author": "Jennifer Korn",
-      "title": "A $3,300 self-driving stroller is at this year's CES. Are parents ready? - CNN",
-      "description": "Hang onto your baby bonnets: Self-driving technology is coming to strollers.",
-      "url": "https://www.cnn.com/2023/01/04/tech/self-driving-stroller-ces/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104143009-gluxkind-stroller.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-01-04T21:37:00Z",
-      "content": "Hang onto your baby bonnets: Self-driving technology is coming to strollers.\r\nCanadian-based baby gear startup Gluxkind was showing off its Ella AI Powered Smart Stroller at this years CES, the consu… [+2261 chars]"
+      "author": "By John Voorhees",
+      "title": "CES 2023: Smart Home Devices, EVs, and Gaming - MacStories",
+      "description": "I’ve been through dozens of additional press releases and stories from CES and have collected all of the smart home, electric vehicle, and gaming news that has caught my eye since yesterday’s story on displays and TVs. Smart Home Nanoleaf, which introduced so…",
+      "url": "https://www.macstories.net/news/ces-2023-smart-home-devices-evs-and-gaming/",
+      "urlToImage": "https://cdn.macstories.net/ces-nanoleaf-media-press-2x-1672937677447.png",
+      "publishedAt": "2023-01-05T21:41:43Z",
+      "content": "I’ve been through dozens of additional press releases and stories from CES and have collected all of the smart home, electric vehicle, and gaming news that has caught my eye since yesterday’s story o… [+5747 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "Kotaku"
       },
-      "author": "Simon Cohen",
-      "title": "CES 2023: Hisense’s mini-LED TVs now start under $500, with models up to 85 inches - Digital Trends",
-      "description": "Hisense revealed its 2023 TV lineup, and it had a surprise in addition to the usual flagship features. Its entry-level models are under $500 and have mini-LED.",
-      "url": "https://www.digitaltrends.com/home-theater/hisense-mini-led-4k-tv-lineup-u8k-u7k-u6k-ces-2023/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/hisense-u8k-u7k-u6k-mini-led-ces-2023.jpeg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-01-04T21:35:48Z",
-      "content": "Hisense has revealed its 2023 lineup of TVs at CES 2023, and it’s chock-full of high-brightness mini-LEDs, including a new flagship known as the UX. There are 14 models with mini-LED backlighting, fr… [+3676 chars]"
+      "author": "Zack Zwiezen",
+      "title": "You Should Get In On This Big Nintendo Switch eShop Sale - Kotaku",
+      "description": "Currently, games like Paper Mario: The Origami King, Persona 5 Royal, and Sonic Frontiers are on sale",
+      "url": "https://kotaku.com/nintendo-switch-eshop-sale-new-years-big-best-deals-1849955828",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dbe457bb7a0ebe46d149d7cfabad6d3c.jpg",
+      "publishedAt": "2023-01-05T21:35:58Z",
+      "content": "Happy New Year! Its 2023 now and while Im nervous that this year wont be any better than the last two pandemic-filled years, at least its starting off with a big ol Nintendo Switch eShop sale. Includ… [+1976 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Reviewed"
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Michael Desjardin",
-      "title": "Samsung CES 2023 TV Announcement - Reviewed",
-      "description": "Plus MicroLED, health monitoring software, and more",
-      "url": "https://www.reviewed.com/televisions/features/samsung-ces-2023-tv-announcement",
-      "urlToImage": "https://reviewed-com-res.cloudinary.com/image/fetch/s--gjQ5AxwI--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1671571921143/Samsung-CES-2023-Announcement-Micro-LED-TV-Hero.jpg",
-      "publishedAt": "2023-01-04T21:26:04Z",
-      "content": "CES 2023 is officially underway, and Samsung is among the first brands to shed some light on the future of its TV lineup.\r\nAs is usually the case, product names, pricing, and specs have only partiall… [+4189 chars]"
+      "author": "Graham Smith",
+      "title": "Shadow Tactics: Aiko's Choice and Kerbal Space Program are free from Epic - Rock Paper Shotgun",
+      "description": "Shadow Tactics: Aiko's Choice and Kerbal Space Program are both free to keep from Epic for the next week.",
+      "url": "https://www.rockpapershotgun.com/shadow-tactics-aikos-choice-and-kerbal-space-program-are-free-from-epic",
+      "urlToImage": "https://assets2.rockpapershotgun.com/aikos-choice-shrine-crop.jpg/BROK/thumbnail/1200x630/aikos-choice-shrine-crop.jpg",
+      "publishedAt": "2023-01-05T21:30:37Z",
+      "content": "Shadow Tactics is such a good real-time tactics\r\n stealth strategy game that it rejuvenated the genre. There's a chance you already own the sneaky samurai sim, however, and much less of a chance that… [+1458 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "ZDNet"
       },
-      "author": "Jason Fanelli",
-      "title": "Pokemon Go Twinkling Fantasy Event Brings Mega Salamence To Your Local Pokemon Gym - GameSpot",
-      "description": "The mega monster will descend into Pokemon Go this month.",
-      "url": "https://www.gamespot.com/articles/pokemon-go-twinkling-fantasy-event-brings-mega-salamence-to-your-local-pokemon-gym/1100-6510308/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4082693-pokemon-go-twinkling-fantasy.jpg",
-      "publishedAt": "2023-01-04T21:20:50Z",
-      "content": "Pokemon Go is beginning 2023 with a bang, as Niantic has followed up the recent announcement of the next Community Day Classic with details on the next in-game event, which will be called Twinkling F… [+2554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Angshuman Dutta",
-      "title": "Pokemon GO Larvitar Community Day Classic (January 2023): Schedule, featured attack, event bonus, and more - Sportskeeda",
-      "description": "Niantic recently revealed the next Community Day Classic for Pokemon GO that players will get to take part in.",
-      "url": "https://www.sportskeeda.com/pokemon/news-pokemon-go-larvitar-community-day-classic-january-2023-schedule-featured-attack-event-bonus",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/01/9733e-16728606987564-1920.jpg",
-      "publishedAt": "2023-01-04T21:19:55Z",
-      "content": "Niantic recently revealed the next Community Day Classic for Pokemon GO that players will get to take part in. The upcoming iteration of the popular event will take place later on Saturday, January 2… [+3569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "author": "Judith BannermanQuist",
-      "title": "LG Electronics' latest partnership seeks to bring interoperable metaverse platforms to TVs - Cointelegraph",
-      "description": "Users will be able to access “super high fidelity interconnected virtual worlds” and experiences including virtual concerts and AI-generative multiplayer games.",
-      "url": "https://cointelegraph.com/news/lg-electronics-latest-partnership-seeks-to-bring-interoperable-metaverse-platforms-to-tvs",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/e36ecd09-e262-4ef8-a578-09d841d690bd.jpg",
-      "publishedAt": "2023-01-04T21:17:08Z",
-      "content": "South Korean tech giant LG Electronics announced that it has teamed up with cloud-based technology platform Oorbit and Pixelynx  a company building an integrated music, gaming and Web3 ecosystem to b… [+1744 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Nelson Aguilar",
-      "title": "The iPhone Has a New Siri Voice Command You'll Want to Know About - CNET",
-      "description": "This feature only works on iOS 16.",
-      "url": "https://www.cnet.com/tech/services-and-software/the-iphone-has-a-new-siri-voice-command-youll-want-to-know-about/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/0a54c39ab785f16c8535d6f7a94018a198d730fe/hub/2019/10/29/41050e7d-a90e-4cdf-9ed8-616904b22219/ios-siri.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-04T21:15:03Z",
-      "content": "This story is part of 12 Days of Tips, helping you make the most of your tech, home and health during the holiday season. \r\nYou can use your voice to do so much on your iPhone. Thanks to Siri, you ca… [+2100 chars]"
+      "author": "Christina Darby",
+      "title": "L'Oréal wins two awards for inclusive beauty tech at CES 2023 - ZDNet",
+      "description": "At CES, L'Oreal unveils two prototypes that place accessibility at the forefront of beauty technology.",
+      "url": "https://www.zdnet.com/article/loreal-wins-two-awards-for-inclusive-beauty-tech-at-ces-2023/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad21ea5710974caaa6ab90b67c3955e65082076f/2023/01/05/2c861b81-8c70-41bf-9893-a3b3f33db3e3/1b55198f-fc66-4b1a-b845-f1ffb307f4ec.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-01-05T21:26:50Z",
+      "content": "L'Oréal Groupe/ Screenshot by Christina Darby/ZDNET\r\nEvery year, companies take the CES stage to debut innovations for a better future. And while we've seen our fair share of flashy gimmicks, there's… [+4689 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Dave Altavilla",
-      "title": "Nvidia GeForce RTX 4070 Ti Arrives With A More Affordable Price, Efficiency And Great Performance - Forbes",
-      "description": "All told, you have to hand it to Nvidia for delivering on very strong performance-per-dollar and performance-per-watt metrics here with the GeForce RTX 4070 Ti.",
-      "url": "https://www.forbes.com/sites/davealtavilla/2023/01/04/nvidia-geforce-rtx-4070-ti-arrives-with-a-more-affordable-price-efficiency-and-great-performance/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b5e4ad1a7862dec8126109/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-01-04T21:13:27Z",
-      "content": "ASUS GeForce RTX 4070 Ti OC Edition Graphics Card And Retail Box\r\nDave Altavilla\r\nThe annual Consumer Electronics Show (CES) is ramping up in Las Vegas, and many innovative tech companies are using t… [+5452 chars]"
+      "author": "Martine Paris",
+      "title": "CES 2023: M. Night Shyamalan Releases Terrifying ‘Knock At The Cabin’ Immersive Trailer | Interview - Forbes",
+      "description": "One of the biggest surprises at CES has been the appearance of film director, M. Night Shyamalan, who’s hotly-awaited apocalyptic thriller \"Knock at the Cabin\" premieres in theaters Feb 3. In this interview, he shares why he decided to create a CES experience…",
+      "url": "https://www.forbes.com/sites/martineparis/2023/01/05/ces-2023-m-night-shyamalan-releases-terrifying-knock-at-the-cabin-immersive-trailer--interview/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b733061722ba6ae6429d7b/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-01-05T21:15:06Z",
+      "content": "M. Night Shyamalan and Canon Americas President and CEO Kevin Ogawa on the set of the \"Knock at the ... [+] Cabin\" CES immersive experience\r\nCanon\r\nOne of the biggest surprises at CES has been the ap… [+6289 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Intheknow.com"
       },
-      "author": "Jason Fanelli",
-      "title": "Larvitar Stars In The First Pokemon Go Community Day Classic Of 2023 - GameSpot",
-      "description": "January 21 will be all about Larvitar in Pokemon Go.",
-      "url": "https://www.gamespot.com/articles/larvitar-stars-in-the-first-pokemon-go-community-day-classic-of-2023/1100-6510304/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4082685-pokemon-go-community-day-classic-january-2023-larvitar.jpg",
-      "publishedAt": "2023-01-04T21:10:24Z",
-      "content": "With the Community Day featuring Chespin slated to take place this weekend, Niantic has officially revealed details on the first Pokemon Go Community Day Classic of 2023, which will highlight the Roc… [+1077 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Move over, Nvidia: Some AMD 7900 XTX GPUs are having their own heat issues - Ars Technica",
-      "description": "Owners of cards with throttling problems are encouraged to contact AMD support.",
-      "url": "https://arstechnica.com/gadgets/2023/01/amd-says-a-limited-number-of-7900-xtx-gpus-have-a-thermal-throttling-problem/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0772-760x380.jpeg",
-      "publishedAt": "2023-01-04T21:08:45Z",
-      "content": "Enlarge/ The Radeon RX 7900 XTX's three-fan cooler.\r\n21 with 0 posters participating\r\nNvidia's GeForce RTX 4090 has been through the PR wringer for the last few months because of problems with its po… [+1705 chars]"
+      "author": "Cassie Morris",
+      "title": "Artificial womb facility could one day allow parents to pick the characteristics of their babies - Yahoo Finance Australia",
+      "description": "It could incubate up to 30,000 lab-grown babies per year and allow parents to fully customize their DNA. The post Artificial womb facility could one day...",
+      "url": "https://www.intheknow.com/post/artificial-womb-facility-ectolife/",
+      "urlToImage": "https://media.zenfs.com/en/in_the_know_500/407f446f276021dabebd104e7c2c36ff",
+      "publishedAt": "2023-01-05T21:07:14Z",
+      "content": "A conceptual artificial womb facility called EctoLife is providing a glimpse into one possible future of fertility.\r\nConceived by biotechnologist, filmmaker and sci-fi author Hashem Al-Ghaili, EctoLi… [+2685 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dexerto"
+        "name": "Inverse"
       },
-      "author": "Laura Gray",
-      "title": "Pokemon Go Larvitar Community Day Classic: Start time, exclusive move, bonuses - Dexerto",
-      "description": "Pokemon Go players will be able to catch Larvitar in the next January Community Day Classic, with access to an exclusive move.",
-      "url": "https://www.dexerto.com/pokemon/pokemon-go-larvitar-community-day-classic-start-time-exclusive-move-bonuses-2023871/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/01/04/Larvitar-Pokemon-Go-Community-Day-Classic.jpg",
-      "publishedAt": "2023-01-04T21:05:25Z",
-      "content": "Niantic has announced that Pokemon Gos next Community Day Classic will feature Larvitar, offering players a chance to catch it Shiny, obtain an exclusive move, and participate in a paid Special Resea… [+2373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Richik \"anarkiddie\" Bhattacharya",
-      "title": "\"It's been two years\": xQc finally beats Forsen in Minecraft speedrunning - Sportskeeda",
-      "description": "Felix \"xQc\" and Sebastian \"Forsen\" have had a rivalry when it comes to Minecraft speedrunning for years now.",
-      "url": "https://www.sportskeeda.com/esports/news-it-s-two-years-xqc-finally-beats-forsen-minecraft-speedrunning",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/01/ccd51-16728622716407-1920.jpg",
-      "publishedAt": "2023-01-04T21:02:44Z",
-      "content": "Felix \"xQc\" and Sebastian \"Forsen\" have had a rivalry when it comes to Minecraft speedrunning for years now. Both individuals have frequently tried to one-up each other in terms of completing the san… [+2510 chars]"
+      "author": "Willa Rowe",
+      "title": "'Apex Legends' Spellbound collection event dates, skins, rewards, and modes - Inverse",
+      "description": "'Apex Legends' latest collection event brings with it a myriad of new collectibles and the return of a beloved game mode. Here is everything you need to know.",
+      "url": "https://www.inverse.com/gaming/apex-legends-spellbound-dates-skins-rewards-mode-patch-notes",
+      "urlToImage": "https://imgix.bustle.com/uploads/image/2023/1/5/5b58483f-c2c0-4226-b43a-dfa7dbe3c249-social.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4893&fp-y=0.3832",
+      "publishedAt": "2023-01-05T21:00:08Z",
+      "content": "Something wicked\r\n this way comes to Apex Legends this month. EA and Respawn have announced the newest limited-time event for the game will be Spellbound, a magical event filled with new cosmetics. F… [+3668 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
-      "author": "Scott Stein",
-      "title": "TCL's RayNeo X2 AR Glasses Live-Translate Conversations for Me - CNET",
-      "description": "TCL's known for TVs. Now the company's working on its own AR and VR hardware, too.",
-      "url": "https://www.cnet.com/tech/computing/tcls-rayneo-x2-ar-glasses-live-translate-conversations-for-me/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f29d5781f99d4da144a504140d1d934d90f43b22/hub/2023/01/04/399b04df-1e0b-4374-b54e-5dc01af7d83a/tcl-ar-glasses.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-04T21:00:03Z",
-      "content": "A wave of VR and AR headsets and glasses are expected in 2023, arriving from companies including Apple, Sony, HTC and Meta. The number of future hardware players is growing, though -- add TCL to that… [+4887 chars]"
+      "author": "Lori Grunin",
+      "title": "Razer's Haptic Audio Headrest Wants to Rock Your World - CNET",
+      "description": "It's the company's annual unveiling of not-products from of its design team, this time an audio headrest with haptics.",
+      "url": "https://www.cnet.com/tech/gaming/razers-haptic-audio-headrest-wants-to-rock-your-world/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0d459496ea7d487d9441b51c57dad88f9113efda/hub/2023/01/05/e2c286ec-3029-4c7d-add0-03e262320b50/razer-project-carol-on-enki.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-05T20:56:48Z",
+      "content": "If you're going to have a headrest on your gaming chair, you might as well make it work for you. Razer's Project Carol design concept unveiled at CES tosses near-field 7.1-channel surround sound and … [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Samsung's $200 Galaxy Phone Gets an Upgrade - Bloomberg Technology",
+      "description": "Samsung Electronics Co. announced an upgraded version of its A-series budget smartphone at the CES conference in Las Vegas, adding an improved front-facing c...",
+      "url": "https://www.youtube.com/watch?v=3gBbwDx41mE",
+      "urlToImage": "https://i.ytimg.com/vi/3gBbwDx41mE/maxresdefault.jpg",
+      "publishedAt": "2023-01-05T20:55:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Razer and Verizon co-announced the pricing for Razer's Edge 5G handheld during CES 2023. #shorts - The Verge",
+      "description": "The Switch-like Android handheld will be available through the carrier when you add a new tablet line. Or you can get the Wi-Fi-only model that costs $399.99...",
+      "url": "https://www.youtube.com/watch?v=ZuN7tJiGkYI",
+      "urlToImage": "https://i.ytimg.com/vi/ZuN7tJiGkYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBRKD0wDw==&rs=AOn4CLCqr8moW664m98NmqLmCRAZPfh36Q",
+      "publishedAt": "2023-01-05T20:51:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/daniel-cooper",
+      "title": "Ring offers a first look at its home security drone - Engadget",
+      "description": "Ring's ready to show off its home security drone, but not talk about price or availability..",
+      "url": "https://www.engadget.com/ring-always-home-cam-drone-ces-2023-204743757.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2c129120-8d39-11ed-bdf7-4e3e94c326b7",
+      "publishedAt": "2023-01-05T20:48:35Z",
+      "content": "At the back end of 2020, Ring showed off a concept device it promised would be coming to homes at some point in the future. The Always Home Cam is a mini drone, designed to zoom around your home, pat… [+1529 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "This Dell G16 16\" Gaming Laptop with Intel Core i9 Alder Lake CPU and RTX 3070 GPU is Only $1399 - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/deal-alert-dell-g16-gaming-laptop-intel-core-i9-alder-lake-rtx-3070",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/05/dellg152-1672950448279.jpg?width=1280",
+      "publishedAt": "2023-01-05T20:44:54Z",
+      "content": "Dell is offering a Dell G16 16\" gaming laptop equipped with a 12th generation Intel Core i9 Alder Lake CPU and GeForce RTX 3070 GPU for only $1399.99, after $400 in instant savings and a $100 off cou… [+1294 chars]"
     }
   ]
 }
