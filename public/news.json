@@ -1,97 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 796,
+  "totalResults": 797,
   "articles": [
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Carpenter",
+      "title": "Pokémon Squishmallow rerelease coming ‘soon’ - Polygon",
+      "description": "Pikachu and Gengar Squishmallows started to appear at Walmarts in the U.S., but have been pulled from shelves. A Jazwares rep says they’re coming ‘soon.’",
+      "url": "https://www.polygon.com/pokemon/23543043/pokemon-squishmallow-walmart-target-rerelease",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9vkIziNgUdpUex93M5sau3f_cgM=/0x3:1587x834/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24341847/squish.png",
+      "publishedAt": "2023-01-06T22:29:42Z",
+      "content": "The Squishmallow Pikachu and Gengar plush toys sold out immediately when they were released in November, and The Pokémon Company and Squishmallow maker Jazwares promised that more would be coming in … [+1640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComingSoon.net"
+      },
+      "author": "Michael Leri",
+      "title": "World War Z: Aftermath PS5, Xbox Series X|S Release Date Revealed - ComingSoon.net",
+      "description": "World War Z: Aftermath finally got its PlayStation and Xbox Series X|S release date after coming to other platforms in September 2021.",
+      "url": "https://www.comingsoon.net/games/news/1259307-world-war-z-aftermath-ps5-xbox-series-xs-release-date-revealed",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/wwzaps5.jpg?resize=1200,630",
+      "publishedAt": "2023-01-06T22:23:20Z",
+      "content": "World War Z: Aftermath released in September 2021 on a variety of systems, and now Saber Interactive has revealed when the co-op shooter is coming to PlayStation 5 and Xbox Series X|S. Existing owner… [+1341 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "VentureBeat"
       },
       "author": "Rachel Kaser",
-      "title": "Apple Arcade announces January Originals, including Pocket Card Jockey - VentureBeat",
-      "description": "Apple announced its January Originals, including the resurfacing of a 3DS Game Freak title: Pocket Card Jockey.",
-      "url": "https://venturebeat.com/games/apple-arcade-announces-january-originals-including-pocket-card-jockey/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/01/AA-Pocket-Card-Jockey.jpg?w=1200&strip=all",
-      "publishedAt": "2023-01-05T22:23:30Z",
-      "content": "Apple announced which new games its adding to its Arcade subscription service in January. Its launching four new titles on the service this month, including one of the most interesting offerings from… [+1576 chars]"
+      "title": "CCP Games reveals EVE Online’s 20th anniversary content roadmap - VentureBeat",
+      "description": "CCP Games has announced its plans for EVE Online's 20th anniversary, including two new expansions and Excel integration.",
+      "url": "https://venturebeat.com/games/ccp-games-reveals-eve-onlines-20th-anniversary-content-roadmap/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/01/EVE-Online-2023-Roadmap.jpeg?w=1200&strip=all",
+      "publishedAt": "2023-01-06T22:06:18Z",
+      "content": "CCP Games announced its plans for EVE Online in 2023, the 20th anniversary of the online title. The years roadmap includes two expansions, several smaller updates and the integration of Microsoft Exc… [+1530 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Next Platform"
+        "name": "Notebookcheck.net"
       },
-      "author": "Timothy Prickett Morgan",
-      "title": "AMD Teases Details On Future MI300 Hybrid Compute Engines - The Next Platform",
-      "description": "We were under the distinct impression that AMD was not going to talk much about its datacenter compute engines at the Consumer Electronics Show, having",
-      "url": "https://www.nextplatform.com/2023/01/05/amd-teases-details-on-future-mi300-hybrid-compute-engines/",
-      "urlToImage": "http://www.nextplatform.com/wp-content/uploads/2023/01/amd-instinct-mi300-logo.jpg",
-      "publishedAt": "2023-01-05T22:19:55Z",
-      "content": "We were under the distinct impression that AMD was not going to talk much about its datacenter compute engines at the Consumer Electronics Show, having just launched its Genoa Epyc 9004 server CPUs i… [+9730 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Goose Goose Duck is a viral hit on Steam, thanks to BTS member V - Polygon",
-      "description": "The Among Us-inspired social deduction game Goose Goose Duck was a moderate hit on Steam, right up until V (Kim Taehyung) from BTS streamed it in November. Now, Goose Goose Duck is an overwhelming success in Korea.",
-      "url": "https://www.polygon.com/23541058/goose-goose-duck-game-steam-bts-v-kim-tae-hyung",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OXYd9H2A_hZvKQ3fyHyq52d3x34=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24338772/GGD_SSMothergoose.jpg",
-      "publishedAt": "2023-01-05T22:18:00Z",
-      "content": "Fire up Steam in the early hours of the day and you might notice a surprising new entry near the top of the platforms Most Played list: Goose Goose Duck. The free-to-play social deduction game was th… [+2443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dylan Martin",
-      "title": "AMD follows Intel’s lead with alphanumeric soup of new Ryzens - The Register",
-      "description": "New high-end Ryzen laptop CPUs? Huzzah! Now what's the number again?",
-      "url": "https://www.theregister.com/2023/01/05/amd_ryzen_intel/",
-      "urlToImage": "https://regmedia.co.uk/2020/11/12/amd_ryzen_media_library_supplied.jpg",
-      "publishedAt": "2023-01-05T22:15:00Z",
-      "content": "Analysis AMD has revealed an expanded family of Ryzen 7000 processors for laptops and desktops, and, more than ever before, they resemble the alphanumeric soup Intel deploys on its array of PC chips.… [+7461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mansion Global"
-      },
-      "author": "V.L. HENDRICKSON",
-      "title": "MatchesFashion Founders Find Buyer for $25 Million Manhattan Townhouse - Mansion Global",
-      "description": "The Greenwich Village residence has a floor-through main bedroom suite and several outdoor areas",
-      "url": "https://www.mansionglobal.com/articles/matchesfashion-founders-find-buyer-for-25-million-manhattan-townhouse-01672956695",
-      "urlToImage": "https://images.mansionglobal.com/im-698090/social",
-      "publishedAt": "2023-01-05T22:11:00Z",
-      "content": "British fashion power couple Tom and Ruth Chapman have found a buyer for their $25 million residence in Manhattans Greenwich Village.\r\nFirst listed in July, the 12th Street townhouse blurs the line b… [+1771 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Grace Benfell",
-      "title": "Valorant Season 6 Cinematic Teases New Map As Agents Seek To Find An Overgrown Temple - GameSpot",
-      "description": "The trailer provides hang out time and lore revelations.",
-      "url": "https://www.gamespot.com/articles/valorant-season-6-cinematic-teases-new-map-as-agents-seek-to-find-an-overgrown-temple/1100-6510354/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1690/16904437/4083181-valorantcinematic.jpg",
-      "publishedAt": "2023-01-05T21:58:04Z",
-      "content": "The latest cinematic trailer for Valorant sets the stage for episode 6 by teasing a new map. The cinematic crosscuts between various Valorant characters as they make their way to a ruined temple, ove… [+1421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Amitesh Dhar",
-      "title": "All cheats and console commands for The Elder Scrolls V: Skyrim - Sportskeeda",
-      "description": "When it comes to single-player titles, few are as refined as The Elder Scrolls V: Skyrim. Developed by Bethesda, the game is extremely popular even today and has a very active modding community.",
-      "url": "https://www.sportskeeda.com/esports/all-cheats-console-commands-the-elder-scrolls-v-skyrim",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/01/28390-16729288500105-1920.jpg",
-      "publishedAt": "2023-01-05T21:48:51Z",
-      "content": "When it comes to single-player titles, few are as refined as The Elder Scrolls V: Skyrim. Developed by Bethesda, the game is extremely popular even today and has a very active modding community.\r\nWhi… [+4375 chars]"
+      "author": "Daniel R Deakin",
+      "title": "Nintendo Switch 2 by 2024 as perspicacious analyst forecasts potential next-generation Nintendo console launch - Notebookcheck.net",
+      "description": "It has been forecast that a potential Nintendo Switch 2, or next-generation Nintendo console, could be on the shelves by 2024. A global entertainment business analyst with a decent track record for game and console-related predictions believes that the curren…",
+      "url": "https://www.notebookcheck.net/Nintendo-Switch-2-by-2024-as-perspicacious-analyst-forecasts-potential-next-generation-Nintendo-console-launch.679750.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Nintendo_switch.jpg",
+      "publishedAt": "2023-01-06T22:03:22Z",
+      "content": "Those excited by the possibility of the appearance of a Nintendo Switch 2 or next-generation Switch device turning up in 2023 should temper their expectations, with an insightful analyst forecasting … [+1791 chars]"
     },
     {
       "source": {
@@ -99,168 +60,207 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "PS5 Shortage Is Over, According To PlayStation | GameSpot News - GameSpot",
-      "description": "So you want a PS5, huh? Well, PlayStation boss Jim Ryan delivered some fantastic news at CES 2023. #GamingNews #PS5 #PlayStationThe PS5 launched in November ...",
-      "url": "https://www.youtube.com/watch?v=9MOUqoendsU",
-      "urlToImage": "https://i.ytimg.com/vi/9MOUqoendsU/maxresdefault.jpg",
-      "publishedAt": "2023-01-05T21:45:00Z",
+      "title": "VR in Your Car! Holoride Hands-on - Tom’s Guide",
+      "description": "Holoride has launched its VR entertainment platform in the US market at CES 2023. In addition, the company announced the Retro Fit system, which allows the s...",
+      "url": "https://www.youtube.com/watch?v=qeBM1yhSEGA",
+      "urlToImage": "https://i.ytimg.com/vi/qeBM1yhSEGA/maxresdefault.jpg",
+      "publishedAt": "2023-01-06T22:00:28Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MacStories"
-      },
-      "author": "By John Voorhees",
-      "title": "CES 2023: Smart Home Devices, EVs, and Gaming - MacStories",
-      "description": "I’ve been through dozens of additional press releases and stories from CES and have collected all of the smart home, electric vehicle, and gaming news that has caught my eye since yesterday’s story on displays and TVs. Smart Home Nanoleaf, which introduced so…",
-      "url": "https://www.macstories.net/news/ces-2023-smart-home-devices-evs-and-gaming/",
-      "urlToImage": "https://cdn.macstories.net/ces-nanoleaf-media-press-2x-1672937677447.png",
-      "publishedAt": "2023-01-05T21:41:43Z",
-      "content": "I’ve been through dozens of additional press releases and stories from CES and have collected all of the smart home, electric vehicle, and gaming news that has caught my eye since yesterday’s story o… [+5747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "You Should Get In On This Big Nintendo Switch eShop Sale - Kotaku",
-      "description": "Currently, games like Paper Mario: The Origami King, Persona 5 Royal, and Sonic Frontiers are on sale",
-      "url": "https://kotaku.com/nintendo-switch-eshop-sale-new-years-big-best-deals-1849955828",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dbe457bb7a0ebe46d149d7cfabad6d3c.jpg",
-      "publishedAt": "2023-01-05T21:35:58Z",
-      "content": "Happy New Year! Its 2023 now and while Im nervous that this year wont be any better than the last two pandemic-filled years, at least its starting off with a big ol Nintendo Switch eShop sale. Includ… [+1976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Graham Smith",
-      "title": "Shadow Tactics: Aiko's Choice and Kerbal Space Program are free from Epic - Rock Paper Shotgun",
-      "description": "Shadow Tactics: Aiko's Choice and Kerbal Space Program are both free to keep from Epic for the next week.",
-      "url": "https://www.rockpapershotgun.com/shadow-tactics-aikos-choice-and-kerbal-space-program-are-free-from-epic",
-      "urlToImage": "https://assets2.rockpapershotgun.com/aikos-choice-shrine-crop.jpg/BROK/thumbnail/1200x630/aikos-choice-shrine-crop.jpg",
-      "publishedAt": "2023-01-05T21:30:37Z",
-      "content": "Shadow Tactics is such a good real-time tactics\r\n stealth strategy game that it rejuvenated the genre. There's a chance you already own the sneaky samurai sim, however, and much less of a chance that… [+1458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Christina Darby",
-      "title": "L'Oréal wins two awards for inclusive beauty tech at CES 2023 - ZDNet",
-      "description": "At CES, L'Oreal unveils two prototypes that place accessibility at the forefront of beauty technology.",
-      "url": "https://www.zdnet.com/article/loreal-wins-two-awards-for-inclusive-beauty-tech-at-ces-2023/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad21ea5710974caaa6ab90b67c3955e65082076f/2023/01/05/2c861b81-8c70-41bf-9893-a3b3f33db3e3/1b55198f-fc66-4b1a-b845-f1ffb307f4ec.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-01-05T21:26:50Z",
-      "content": "L'Oréal Groupe/ Screenshot by Christina Darby/ZDNET\r\nEvery year, companies take the CES stage to debut innovations for a better future. And while we've seen our fair share of flashy gimmicks, there's… [+4689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Martine Paris",
-      "title": "CES 2023: M. Night Shyamalan Releases Terrifying ‘Knock At The Cabin’ Immersive Trailer | Interview - Forbes",
-      "description": "One of the biggest surprises at CES has been the appearance of film director, M. Night Shyamalan, who’s hotly-awaited apocalyptic thriller \"Knock at the Cabin\" premieres in theaters Feb 3. In this interview, he shares why he decided to create a CES experience…",
-      "url": "https://www.forbes.com/sites/martineparis/2023/01/05/ces-2023-m-night-shyamalan-releases-terrifying-knock-at-the-cabin-immersive-trailer--interview/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63b733061722ba6ae6429d7b/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-01-05T21:15:06Z",
-      "content": "M. Night Shyamalan and Canon Americas President and CEO Kevin Ogawa on the set of the \"Knock at the ... [+] Cabin\" CES immersive experience\r\nCanon\r\nOne of the biggest surprises at CES has been the ap… [+6289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Intheknow.com"
-      },
-      "author": "Cassie Morris",
-      "title": "Artificial womb facility could one day allow parents to pick the characteristics of their babies - Yahoo Finance Australia",
-      "description": "It could incubate up to 30,000 lab-grown babies per year and allow parents to fully customize their DNA. The post Artificial womb facility could one day...",
-      "url": "https://www.intheknow.com/post/artificial-womb-facility-ectolife/",
-      "urlToImage": "https://media.zenfs.com/en/in_the_know_500/407f446f276021dabebd104e7c2c36ff",
-      "publishedAt": "2023-01-05T21:07:14Z",
-      "content": "A conceptual artificial womb facility called EctoLife is providing a glimpse into one possible future of fertility.\r\nConceived by biotechnologist, filmmaker and sci-fi author Hashem Al-Ghaili, EctoLi… [+2685 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inverse"
-      },
-      "author": "Willa Rowe",
-      "title": "'Apex Legends' Spellbound collection event dates, skins, rewards, and modes - Inverse",
-      "description": "'Apex Legends' latest collection event brings with it a myriad of new collectibles and the return of a beloved game mode. Here is everything you need to know.",
-      "url": "https://www.inverse.com/gaming/apex-legends-spellbound-dates-skins-rewards-mode-patch-notes",
-      "urlToImage": "https://imgix.bustle.com/uploads/image/2023/1/5/5b58483f-c2c0-4226-b43a-dfa7dbe3c249-social.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4893&fp-y=0.3832",
-      "publishedAt": "2023-01-05T21:00:08Z",
-      "content": "Something wicked\r\n this way comes to Apex Legends this month. EA and Respawn have announced the newest limited-time event for the game will be Spellbound, a magical event filled with new cosmetics. F… [+3668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Lori Grunin",
-      "title": "Razer's Haptic Audio Headrest Wants to Rock Your World - CNET",
-      "description": "It's the company's annual unveiling of not-products from of its design team, this time an audio headrest with haptics.",
-      "url": "https://www.cnet.com/tech/gaming/razers-haptic-audio-headrest-wants-to-rock-your-world/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/0d459496ea7d487d9441b51c57dad88f9113efda/hub/2023/01/05/e2c286ec-3029-4c7d-add0-03e262320b50/razer-project-carol-on-enki.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-05T20:56:48Z",
-      "content": "If you're going to have a headrest on your gaming chair, you might as well make it work for you. Razer's Project Carol design concept unveiled at CES tosses near-field 7.1-channel surround sound and … [+1417 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+        "name": "SiliconANGLE News"
       },
       "author": null,
-      "title": "Samsung's $200 Galaxy Phone Gets an Upgrade - Bloomberg Technology",
-      "description": "Samsung Electronics Co. announced an upgraded version of its A-series budget smartphone at the CES conference in Las Vegas, adding an improved front-facing c...",
-      "url": "https://www.youtube.com/watch?v=3gBbwDx41mE",
-      "urlToImage": "https://i.ytimg.com/vi/3gBbwDx41mE/maxresdefault.jpg",
-      "publishedAt": "2023-01-05T20:55:20Z",
-      "content": null
+      "title": "Apple reportedly delays mixed reality headset launch and cancels iPhone SE 4 - SiliconANGLE News",
+      "description": "Apple reportedly delays mixed reality headset launch and cancels iPhone SE 4 - SiliconANGLE",
+      "url": "https://siliconangle.com/2023/01/06/apple-reportedly-delays-mixed-reality-headset-launch-cancels-iphone-se-4/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/apple-1839363_960_720.jpg",
+      "publishedAt": "2023-01-06T21:54:27Z",
+      "content": "Apple Inc. is reportedly delaying the launch of its mixed reality headset and wont introduce a new iPhone SE handset next year as originally expected.\r\nMacRumors reported the changes to the companys … [+3014 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "GSMArena.com"
       },
-      "author": null,
-      "title": "Razer and Verizon co-announced the pricing for Razer's Edge 5G handheld during CES 2023. #shorts - The Verge",
-      "description": "The Switch-like Android handheld will be available through the carrier when you add a new tablet line. Or you can get the Wi-Fi-only model that costs $399.99...",
-      "url": "https://www.youtube.com/watch?v=ZuN7tJiGkYI",
-      "urlToImage": "https://i.ytimg.com/vi/ZuN7tJiGkYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBRKD0wDw==&rs=AOn4CLCqr8moW664m98NmqLmCRAZPfh36Q",
-      "publishedAt": "2023-01-05T20:51:31Z",
-      "content": null
+      "author": "Vlad",
+      "title": "The iPhone SE is dead - GSMArena.com news - GSMArena.com",
+      "description": "According to a reputable source, the next generation isn't coming.",
+      "url": "https://www.gsmarena.com/the_iphone_se_is_dead-news-57109.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/01/iphone-se-dead/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-01-06T21:54:00Z",
+      "content": "Apple refreshes its cheapest smartphone every two years, and since there's been an iPhone SE release in 2022, the next one was slated for 2024. Today a report from reputable analyst of all things App… [+1559 chars]"
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": null,
+        "name": "PhoneArena"
       },
-      "author": "https://www.engadget.com/about/editors/daniel-cooper",
-      "title": "Ring offers a first look at its home security drone - Engadget",
-      "description": "Ring's ready to show off its home security drone, but not talk about price or availability..",
-      "url": "https://www.engadget.com/ring-always-home-cam-drone-ces-2023-204743757.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2c129120-8d39-11ed-bdf7-4e3e94c326b7",
-      "publishedAt": "2023-01-05T20:48:35Z",
-      "content": "At the back end of 2020, Ring showed off a concept device it promised would be coming to homes at some point in the future. The Always Home Cam is a mini drone, designed to zoom around your home, pat… [+1529 chars]"
+      "author": "Johanna Romero",
+      "title": "Google Messages completes rollout of end-to-end encryption for group chats in Beta - PhoneArena",
+      "description": "Google has reportedly completed the rollout of end-to-end encryption for group conversations in its Beta Messages app.",
+      "url": "https://www.phonearena.com/news/google-messages-beta-group-chat-encryption-complete_id144675",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/144675-wide-two_1200/Google-Messages-completes-rollout-of-end-to-end-encryption-for-group-chats-in-Beta.jpg",
+      "publishedAt": "2023-01-06T21:45:03Z",
+      "content": "Google has reportedly completed the rollout of end-to-end encryption for group conversations in its Messages app. This, however, still only applies to users enrolled in the Messages beta program.The … [+1806 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "Games Done Quick’s founder is stepping down - The Verge",
+      "description": "Awesome Games Done Quick 2023 will be founder Mike Uyama’s final GDQ as he steps down from his role for health reasons.",
+      "url": "https://www.theverge.com/2023/1/6/23542796/games-done-quick-2023-mike-uyama-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q5zyQz0XPcfmiG0R3yt_XnfbqN8=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24341678/mike_uyama.png",
+      "publishedAt": "2023-01-06T21:35:31Z",
+      "content": "Mike Uyama, who launched the first GDQ in his mothers basement in 2009, is stepping away due to health reasons.\r\nByAsh Parrish\r\nJan 6, 2023, 9:35 PM UTC|\r\nGames Done Quick (GDQ) started 13 years ago … [+11200 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Eric Song",
-      "title": "This Dell G16 16\" Gaming Laptop with Intel Core i9 Alder Lake CPU and RTX 3070 GPU is Only $1399 - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/deal-alert-dell-g16-gaming-laptop-intel-core-i9-alder-lake-rtx-3070",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/05/dellg152-1672950448279.jpg?width=1280",
-      "publishedAt": "2023-01-05T20:44:54Z",
-      "content": "Dell is offering a Dell G16 16\" gaming laptop equipped with a 12th generation Intel Core i9 Alder Lake CPU and GeForce RTX 3070 GPU for only $1399.99, after $400 in instant savings and a $100 off cou… [+1294 chars]"
+      "author": "Taylor Lyles",
+      "title": "Samsung's Odyssey Neo G9 Refresh is a 57-Inch Gaming Monitor Supports '8K Gaming' - IGN",
+      "description": "Samsung's latest monitor is a refresh of the Odyssey Neo G9, which is 57-inches and promises 8K gaming.",
+      "url": "https://www.ign.com/articles/samsung-odyssey-neo-g9-2023-8k-gaming",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/06/samsung-odyssey-oled-g9-1673038462942.jpg?width=1280",
+      "publishedAt": "2023-01-06T21:33:47Z",
+      "content": "If you thought Samsung's 55-inch Odyssey Ark was not big enough (nor wide enough), the company announced a new ultrawide monitor that's 57 inches and supports 8K resolution as part of its CES 2023 an… [+1071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joshua Goldman",
+      "title": "Lenovo Reimagines Laptops at CES With Acrobatic Dual Screens - CNET",
+      "description": "The ThinkBook Plus Twist could change the future of hybrid work with its OLED and color E Ink display.",
+      "url": "https://www.cnet.com/tech/computing/lenovo-reimagines-laptops-at-ces-with-acrobatic-dual-screens/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8c7b93d133a221a760cdf5eb33e51c46622d4dd1/hub/2023/01/05/ddf12357-fc22-4812-842a-bcc3a44b25d9/lenovo-yoga-book-9i-05.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-06T21:30:00Z",
+      "content": "Lenovo is always good for some interesting announcements at CES and it did not disappoint this year with not one, but two dual-screen laptops. \r\nThe more consumer-focused model is the Yoga Book 9i, w… [+4073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechHive"
+      },
+      "author": "Michael Brown",
+      "title": "SmartThings Station has a Thread radio, but not a Z-Wave one - TechHive",
+      "description": "Samsung continues to move away from supporting Z-Wave in its smart home products.",
+      "url": "https://www.techhive.com/article/1448619/smartthings-station-ces-z-wave.html",
+      "urlToImage": "https://www.techhive.com/wp-content/uploads/2023/01/SmartThings-Station.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2023-01-06T21:28:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSamsung, which exite… [+2051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Karen Haslam",
+      "title": "Next Apple Event 2023: Apple's upcoming keynotes - Macworld",
+      "description": "Everything you should know about Apple's events in 2022, including keynote details and start times, and everything Apple could launch in 2022.",
+      "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/01/apple-event-info-hero-2.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2023-01-06T21:17:11Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple doesn’t often … [+8499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Citizen's new watch uses NASA technology and AI to determine your fatigue - ZDNet",
+      "description": "At CES 2023, Citizen launched its latest smartwatch, which can measure and predict your alertness.",
+      "url": "https://www.zdnet.com/article/citizens-new-watch-utilizes-nasa-technology-and-ai-to-determine-your-fatigue-ces-2023/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fdd83be4429859eed40d30efbb158f1630f5acd6/2023/01/06/b206e23c-cb76-47f5-84d1-a8d7099666da/2022-4.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-01-06T21:08:03Z",
+      "content": "Citizen\r\nAs the smartwatch market continues to grow, brands are forced to come up with innovative ways to make their new smartwatches stand out. At CES, Citizen did exactly that with its newest CZ Sm… [+2200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Isaiah Colbert",
+      "title": "This Device Shoots Smells Anime Smells At Your Face - Kotaku",
+      "description": "The appropriately named Aroma Shooter uses ‘digitalized’ smells to enhance users' anime, movie watching experience",
+      "url": "https://kotaku.com/aroma-shooter-ces-2023-smells-anime-games-1849960545",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d4e1ce9bc6f2d7a7a7f4975e2b4a4c57.jpg",
+      "publishedAt": "2023-01-06T21:05:00Z",
+      "content": "Its official: the ability to smell shows and movies is finally here. \r\nThe cutting-edge tech in question, called the Aroma Shooter, was shown off at CES 2023 today by a Japanese-based developer Aroma… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "HTC VIVE XR Elite Hands-On: Like Nothing We've Ever Seen - CNET",
+      "description": "Hands-On with HTC's newest headsetSubscribe to CNET: https://www.youtube.com/user/CNETTVNever miss a deal again! See CNET’s browser extension 👉 https://bit....",
+      "url": "https://www.youtube.com/watch?v=tbQ153KnIfg",
+      "urlToImage": "https://i.ytimg.com/vi/tbQ153KnIfg/hqdefault.jpg",
+      "publishedAt": "2023-01-06T21:00:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "MKBHD claims that post-processing is ruining iPhone photos – and I agree with that - 9to5Mac",
+      "description": "YouTuber Marques Brownlee, also know as MKBHD, shared the results of his 2022 Smartphone Awards last month. And although the iPhone 14 Pro won in the Best Camera System category, the YouTuber pointed out some flaws regarding the photos taken with Apple’s late…",
+      "url": "https://9to5mac.com/2023/01/06/mkbhd-post-processing-ruining-iphone-photos/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/iPhone-14-Pro-camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-01-06T20:47:00Z",
+      "content": "YouTuber Marques Brownlee, also know as MKBHD, shared the results of his 2022 Smartphone Awards last month. And although the iPhone 14 Pro won in the Best Camera System category, the YouTuber pointed… [+5158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ctvnews.ca"
+      },
+      "author": null,
+      "title": "B.C. video game studio SkyBox Labs acquired by NetEase | CTV News - CTV News VI",
+      "description": "A B.C. videogame development company that has offices in Metro Vancouver and Victoria has been purchased by Chinese tech company NetEase Games.",
+      "url": "https://vancouverisland.ctvnews.ca/b-c-video-game-company-acquired-by-chinese-tech-giant-netease-1.6220816",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/6/skybox-labs-1-6220819-1673037883398.jpg",
+      "publishedAt": "2023-01-06T20:46:23Z",
+      "content": "A B.C. videogame development company that has offices in Metro Vancouver and Victoria has been purchased by Chinese tech company NetEase Games.\r\nSkyBox Labs, which has two offices in Burnaby, B.C., a… [+1510 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/andrew-tarantola",
+      "title": "The U-Safe self-propelled buoy saves drowning swimmers so you don't have to - Engadget",
+      "description": "The U-Safe self-propelled rescue buoy braves dangerous waves to pluck imperiled swimmers from the sea..",
+      "url": "https://www.engadget.com/the-u-safe-self-propelled-buoy-saves-drowning-swimmers-so-you-dont-have-to-203605051.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2123c550-8e00-11ed-a5d8-a47cba13d9d3",
+      "publishedAt": "2023-01-06T20:37:25Z",
+      "content": "The most dangerous aspect of a water rescue for first responders isn't the treacherous environmental conditions, it's the terrified and panicked victim capable of pulling their rescuer under the wave… [+982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Andrew Tarantola",
+      "title": "The U-Safe self-propelled buoy saves drowning swimmers so you don't have to - Yahoo Finance Australia",
+      "description": "The U-Safe self-propelled rescue buoy braves dangerous waves to pluck imperiled swimmers from the sea.",
+      "url": "https://au.news.yahoo.com/the-u-safe-self-propelled-buoy-saves-drowning-swimmers-so-you-dont-have-to-203605051.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9bCpk8cuaHskxCvHpcDmYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/2123c550-8e00-11ed-a5d8-a47cba13d9d3",
+      "publishedAt": "2023-01-06T20:36:05Z",
+      "content": "The most dangerous aspect of a water rescue for first responders isn't the treacherous environmental conditions, it's the terrified and panicked victim capable of pulling their rescuer under the wave… [+1155 chars]"
     }
   ]
 }
