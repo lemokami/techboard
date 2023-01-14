@@ -1,188 +1,214 @@
 {
   "status": "ok",
-  "totalResults": 773,
+  "totalResults": 752,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Google polishes Chromium code with a layer of Rust - The Register",
-      "description": "Mozilla-incubated systems language should make Chrome shine",
-      "url": "https://www.theregister.com/2023/01/12/google_chromium_rust/",
-      "urlToImage": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg",
-      "publishedAt": "2023-01-12T22:03:00Z",
-      "content": "Google plans to support the use of third-party Rust libraries in its open source browser project Chromium, a significant endorsement of the programming language and its security characteristics.\r\nIn … [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everyday Health"
-      },
-      "author": "Michele Lent Hirsch",
-      "title": "3 Science-Backed Reasons You Like Rewatching TV Shows - Everyday Health",
-      "description": "You know what you’re signing up for and it can offer a sense of belonging. Here’s why.",
-      "url": "https://www.everydayhealth.com/emotional-health/science-backed-reasons-you-like-rewatching-tv-shows/",
-      "urlToImage": "https://images.everydayhealth.com/images/why-you-like-rewatching-tv-shows-1440x810.jpg?sfvrsn=f78ed51a_1",
-      "publishedAt": "2023-01-12T21:54:18Z",
-      "content": "Blair Perkins, a 23-year-old based in Fostoria, Ohio, who works as a housekeeper, loves rewatching Friends. Sometimes they binge watch the show during a stressful period of time, or play a few episod… [+5301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Codrut Nistor",
-      "title": "Google Pixel 6 Pro now up to 33% off on Amazon - Notebookcheck.net",
-      "description": "Although it lacks a memory card slot and many potential users will consider 128 GB of internal storage insufficient, the Google Pixel 6 Pro is now available with a massive 33% discount on Amazon. After this discount, the list price of US$899 goes down to a mo…",
-      "url": "https://www.notebookcheck.net/Google-Pixel-6-Pro-now-up-to-33-off-on-Amazon.681279.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/csm_Google_Pixel_6_Pro_2513_cbfd8c7d692378.jpg",
-      "publishedAt": "2023-01-12T21:46:38Z",
-      "content": "Revealed by our in-depth review to be \"a powerful high-end smartphone with pure Android and a good triple-camera array,\" the Google Pixel 6 Pro also comes with a few limitations. The aforementioned a… [+1668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shacknews"
-      },
-      "author": "TJ Denzer",
-      "title": "Fortnite unvaults Scourge & Plague skins for first time since the COVID pandemic - Shacknews",
-      "description": "The Scourge and Plague skins both have plague doctor motifs and were shelved by Epic Games for the last few years when COVID-19 was at its worst.",
-      "url": "https://www.shacknews.com/article/133682/fortnite-scourge-plague-covid-19-pandemic",
-      "urlToImage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/01/12/fortnite-unvaults-scourge-plague-skins-for-first-time-since-the-covid-pandemic_feature.jpg",
-      "publishedAt": "2023-01-12T21:40:00Z",
-      "content": "The Scourge and Plague skins both have plague doctor motifs and were shelved by Epic Games for the last few years when COVID-19 was at its worst.\r\nPlague doctor equipment and outfits have been a popu… [+1952 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Apple previews a trio of apps that will finally replace iTunes for Windows - Ars Technica",
-      "description": "The new apps are all roughly analogous to the versions that run on macOS.",
-      "url": "https://arstechnica.com/gadgets/2023/01/apple-previews-a-trio-of-apps-that-will-finally-replace-itunes-for-windows/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/windows-itunes-760x380.jpeg",
-      "publishedAt": "2023-01-12T21:39:05Z",
-      "content": "Enlarge/ Apple's rendition of what a PC running iTunes looks like.\r\n32 with 0 posters participating\r\nApple discontinued its iTunes music player for macOS in 2019 when it split the app's functionality… [+2320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jason R. Rich",
-      "title": "Best Nintendo Switch Games For Kids 2023 - Forbes",
-      "description": "The best Nintendo Switch games for kids take families on exciting, and sometimes silly, new adventures together. See our top picks for all ages.",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-nintendo-switch-games-for-kids/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63c024c17127d13e35964a41/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-01-12T21:32:40Z",
-      "content": "Its no secret that most kids and teens love playing video games and cant get enough of themand the Nintendo Switch offers a vast library of some of the most family-friendly games and series. Of cours… [+25372 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "PhoneArena"
       },
-      "author": "Alan Friedman",
-      "title": "Pixel 6, Pixel 7 users on T-Mobile fail to receive January update; others still stuck on November - PhoneArena",
-      "description": "T-Mobile subscribers with Pixel 6 and Pixel 7 series phones have not received the January update; some haven't received an update since November.",
-      "url": "https://www.phonearena.com/news/update-late-for-pixel-6-pixel-7-t-mobile_id144825",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/144825-wide-two_1200/Pixel-6-Pixel-7-users-on-T-Mobile-fail-to-receive-January-update-others-still-stuck-on-November.jpg",
-      "publishedAt": "2023-01-12T21:21:23Z",
+      "author": "Johanna Romero",
+      "title": "Android 13 QPR2 Beta may add the ability to change Pixel lockscreen shortcuts - PhoneArena",
+      "description": "Android 13 QPR2 shows hints that we may get the option to customize Pixel lock screen shortcuts.",
+      "url": "https://www.phonearena.com/news/android-13-qpr2-beta-pixel-lockscreen-shortcuts_id144850",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/144850-wide-two_1200/Android-13-QPR2-Beta-may-add-the-ability-to-change-Pixel-lockscreen-shortcuts.jpg",
+      "publishedAt": "2023-01-13T22:10:24Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Nothing Phone (1) gets second Android 13 beta - GSMArena.com news - GSMArena.com",
+      "description": "It's still unclear when a stable build will roll out.",
+      "url": "https://www.gsmarena.com/nothing_phone_1_gets_second_android_13_beta-news-57191.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/01/nothing-phone-1-android-13-beta-2/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-01-13T21:59:01Z",
+      "content": "About a month ago, the Nothing Phone (1) received its first beta of Nothing OS 1.5, based on Android 13. Today, the company is sending out the second beta build of Android 13 to the Nothing Phone (1)… [+1203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jon Fingas",
+      "title": "Your Google Stadia controller won’t be a paperweight after the service shuts down - Yahoo Singapore News",
+      "description": "Now that Stadia is shutting down, Google is unlocking Bluetooth support on the service's controller.",
+      "url": "https://sg.news.yahoo.com/google-stadia-controller-bluetooth-unlock-214830717.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BkQ0qyz4XHOYf5voQf3m7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/afe68640-9384-11ed-bf75-01679dec4f7d",
+      "publishedAt": "2023-01-13T21:48:30Z",
+      "content": "Demonstrators in Peru blocked roads and held mass funerals on Wednesday for those killed in violent anti-government protests that have gripped the country for weeks, as the United States called for \"… [+3619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku Australia"
+      },
+      "author": null,
+      "title": "GTA 6’s Leak Showed Us The Future, Now It’s Hard To Care About GTA Online - Kotaku Australia",
+      "description": "Last year, footage of the next Grand Theft Auto — assumed to be GTA 6 — leaked online. While Rockstar...",
+      "url": "https://www.kotaku.com.au/2023/01/gta-6s-leak-showed-us-the-future-now-its-hard-to-care-about-gta-online/",
+      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/01/14/06e2ae308ecbd570a57b7ab2092b450e.jpg?quality=80&resize=1280,720",
+      "publishedAt": "2023-01-13T21:44:00Z",
+      "content": "Last year, footage of the next Grand Theft Auto assumed to be GTA 6 leaked online. While Rockstar quickly tried to erase the videos from the internet and plug the holes in the ship, it was impossible… [+3618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Zack Zwiezen",
+      "title": "GTA 6’s Leak Showed Us The Future, Now It’s Hard To Care About GTA Online - Yahoo Finance",
+      "description": "Last year, footage of the next Grand Theft Auto—assumed to be GTA 6—leaked online. While Rockstar quickly tried to erase the videos from the internet and...",
+      "url": "https://finance.yahoo.com/news/gta-6-leak-showed-us-214400247.html",
+      "urlToImage": "https://media.zenfs.com/en/kotaku_564/6f32e82a341cdef17aa2d2edf646194e",
+      "publishedAt": "2023-01-13T21:44:00Z",
+      "content": "A screenshot of GTA Vice City shows a car driving down a street near an NPC skating. \r\nGrand Theft Auto: Vice City - 2002\r\nLast year, footage of the next Grand Theft Autoassumed to be GTA 6leaked onl… [+3908 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Ethan Gach",
-      "title": "Destiny 2 Showers Players With Armor Mods Ahead of Lightfall - Kotaku",
-      "description": "Ahead of Lightfall, players are getting free access to all armor mods",
-      "url": "https://kotaku.com/destiny-2-witch-queen-lightfall-armor-mods-update-1849981655",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e8b9d64fad404199694d41ec932dd45f.jpg",
-      "publishedAt": "2023-01-12T21:17:39Z",
-      "content": "Destiny 2 is fixing a bunch of stuff for the month and change ahead of Februarys massive Lightfall expansion. Players wont have to grind so much to get into Grandmaster Nightfall missions. Iron Banne… [+2594 chars]"
+      "author": "Zack Zwiezen",
+      "title": "GTA 6's Massive Leak Makes It Hard To Play GTA Online In 2023 - Kotaku",
+      "description": "After last year's big leak, even Los Santos Drug Wars couldn't pull me back into GTA Online",
+      "url": "https://kotaku.com/gta-6-leak-gameplay-gta-online-old-rockstar-new-update-1849987014",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/06e2ae308ecbd570a57b7ab2092b450e.jpg",
+      "publishedAt": "2023-01-13T21:44:00Z",
+      "content": "Last year, footage of the next Grand Theft Autoassumed to be GTA 6leaked online. While Rockstar quickly tried to erase the videos from the internet and plug the holes in the ship, it was impossible t… [+3613 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Notebookcheck.net"
       },
-      "author": "Enrico Frahn",
-      "title": "Apple's 2023 MacBook Pro with M2 Pro and M2 Max delayed once again, shipments could plunge by 50% - Notebookcheck.net",
-      "description": "The demand for Apple's well-performing laptops could drop off rather dramatically in the first quarter of 2023, also because the highly anticipated MacBook Pro refresh with the improved Apple M2 Pro and M2 Max chipsets has allegedly been pushed back once agai…",
-      "url": "https://www.notebookcheck.net/Apple-s-2023-MacBook-Pro-with-M2-Pro-and-M2-Max-delayed-once-again-shipments-could-plunge-by-50.681278.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_MacBook_Pro_M2_Pro_M2_Max_2023.jpg",
-      "publishedAt": "2023-01-12T21:13:57Z",
-      "content": "The Cupertino-based tech behemoth Apple does not appear to be immune to the weakening PC market, although the company was often able to report above-average growth of its Mac product line in the past… [+1214 chars]"
+      "author": "Daniel R Deakin",
+      "title": "Sort of PS5 Slim: No hardware upgrades and no disc drive compatibility with PlayStation 5 Digital Edition for the modular PS5 \"Gen 2\" console - Notebookcheck.net",
+      "description": "New details about the supposed modular PS5, which could end up being some sort of PlayStation 5 Slim console, have been shared by Tom Henderson. Unfortunately, the latest information about the potential 2023 PlayStation 5 revision with a detachable disc drive…",
+      "url": "https://www.notebookcheck.net/Sort-of-PS5-Slim-No-hardware-upgrades-and-no-disc-drive-compatibility-with-PlayStation-5-Digital-Edition-for-the-modular-PS5-Gen-2-console.681676.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/PlayStation_5_Slim_modular_PS5_concept_drdNBC.jpg",
+      "publishedAt": "2023-01-13T21:31:36Z",
+      "content": "There might be some considerable criticism heading Sonys way soon if new details about the so-called modular PS5 shared by Insider Gamings Tom Henderson are true. The source has frequently discussed … [+2032 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "Hot Hardware"
       },
-      "author": "Monica J. White",
-      "title": "Intel’s Core i9-13900KS hits 6GHz out of the box, but there’s a catch - Digital Trends",
-      "description": "Intel's latest CPU, the Core i9-13900KS, has just arrived. This monstrous chip is pushing the limits in more ways than one.",
-      "url": "https://www.digitaltrends.com/computing/intel-launches-core-i9-13900ks/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/intel-raptor-lake-review-2.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-01-12T21:02:15Z",
-      "content": "Intel has just launched the Core i9-13900KS, a CPU to end all CPUs — at least in this generation. This is Intel’s most powerful chip right now, fully poised to top the list of the best processors on … [+1929 chars]"
+      "author": "Zak Killian",
+      "title": "Corsair Is Redesigning The Modular PSU And It Will Have You Rethinking Cable Management - Hot Hardware",
+      "description": "Leaked images of an upcoming Corsair power supply with an innovative design make us wonder why no one's done this before.",
+      "url": "https://hothardware.com/news/corsair-rmx-shift-modular-psu-rethink-cable-management",
+      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/60658/content/small_angle-corsair-rm1200x-shift.jpg",
+      "publishedAt": "2023-01-13T20:52:00Z",
+      "content": "Skip to content\r\nEvery once in a while, a product comes along that makes you think, \"why weren't we doing it this way in the first place?\" It's quite possible that Corsair's rumored RMx Shift series … [+1718 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TrustedReviews"
+        "name": "Gizmodo.com"
       },
-      "author": "Chris Smith",
-      "title": "Apple Music launch on Windows is our final goodbye to iTunes - TrustedReviews",
-      "description": "The Apple Music and Apple TV apps have finally landed on the Microsoft Store for Windows PCs, albeit in preview. The launch of the apps was originally | Trusted Reviews",
-      "url": "https://www.trustedreviews.com/news/apple-music-launch-on-windows-is-our-final-goodbye-to-itunes-4295021",
-      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/01/apps.30795.14205055896346606.768483c6-3614-4428-9acb-56229771cc71.8763ebbb-1c31-4d6f-a28e-571b60416a7d.jpeg",
-      "publishedAt": "2023-01-12T21:01:58Z",
-      "content": "The Apple Music and Apple TV apps have finally landed on the Microsoft Store for Windows PCs, albeit in preview.\r\nThe launch of the apps was originally announced by Microsoft and Apple back in Octobe… [+1887 chars]"
+      "author": "Florence Ion",
+      "title": "Here's What Samsung's Cooking Up for Its Foldable Displays - Gizmodo",
+      "description": "Samsung's foldables might, more accurately, be referred to as \"slideables\" in future iterations.",
+      "url": "https://gizmodo.com/all-samsung-foldable-displays-at-ces-2023-1849986709",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/21d5f294c4a3c0a08106509e784dfafd.png",
+      "publishedAt": "2023-01-13T20:40:00Z",
+      "content": "CES 2023 as a showcase may be over, but the coming technology is still on our minds. This week, after folks had a chance to recuperate a bit from trawling all over Las Vegas to see the latest and gre… [+719 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "SiliconANGLE News"
       },
-      "author": "Jenny Zheng",
-      "title": "GTA Online Weekly Update: First Dose Mission's New Hard Mode And New Community Series Jobs - GameSpot",
-      "description": "This week has discounted weapons and new player-made Jobs to dig into.",
-      "url": "https://www.gamespot.com/articles/gta-online-weekly-update-first-dose-missions-new-hard-mode-and-new-community-series-jobs/1100-6510539/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4086105-gtav.jpg",
-      "publishedAt": "2023-01-12T20:43:52Z",
-      "content": "It's another week, and that means GTA Online has new bonuses and weapons for players to obtain in the Gun Van, The First Dose Mission's new Hard difficulty setting, and more.\r\nGun Van\r\nA mobile store… [+2699 chars]"
+      "author": null,
+      "title": "Google, Nvidia reportedly express concerns over Microsoft’s Activision Blizzard acquisition - SiliconANGLE News",
+      "description": "Google, Nvidia reportedly express concerns over Microsoft’s Activision Blizzard acquisition - SiliconANGLE",
+      "url": "https://siliconangle.com/2023/01/13/google-nvidia-reportedly-express-concerns-microsofts-activision-blizzard-acquisition/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/building-1011876_1280.jpg",
+      "publishedAt": "2023-01-13T20:35:34Z",
+      "content": "Google LLC and Nvidia Corp. have reportedly raised concerns to the Federal Trade Commission about Microsoft Corp.’s proposed acquisition of Activision Blizzard Inc. for $68.7 billion.\r\nBloomberg repo… [+2952 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Billy Givens",
-      "title": "New PS5 Update Prepares Console For DualSense Edge Controller - IGN",
-      "description": "A new system update for PS5 prepares the console for Sony's upcoming DualSense Edge controller.",
-      "url": "https://www.ign.com/articles/new-ps5-update-prepares-console-for-dualsense-edge-controller",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/18/ps5dualsenseedgecontrollerfeaturestrailer-ign-blogroll1-1666099132140.jpg?width=1280",
-      "publishedAt": "2023-01-12T20:39:46Z",
-      "content": "A new system update for PlayStation 5 is now available to download, and with it comes added support for Sony's upcoming DualSense Edge controller, which is set to launch later this month.\r\nWhile the … [+1456 chars]"
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Your Google Stadia controller won’t be a paperweight after the service shuts down - Engadget",
+      "description": "Now that Stadia is shutting down, Google is unlocking Bluetooth support on the service's controller..",
+      "url": "https://www.engadget.com/google-stadia-controller-bluetooth-unlock-214830717.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/afe68640-9384-11ed-bf75-01679dec4f7d",
+      "publishedAt": "2023-01-13T20:34:48Z",
+      "content": "Google is giving Stadia users some consolation prizes before the game streaming service shuts down on January 18th. To start, it's planning to release a tool that will enable Bluetooth support on the… [+1649 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "PC Perspective"
       },
-      "author": "Kyle Bradshaw",
-      "title": "A new Chromecast with Google TV is in the works - 9to5Google",
-      "description": "New evidence strongly suggests that a new Chromecast with Google TV dongle is currently in development.",
-      "url": "https://9to5google.com/2023/01/12/new-chromecast-google-tv/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/Chromecast-HD-Chromecast-4K-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-01-12T20:30:00Z",
-      "content": "New evidence strongly suggests that a new Chromecast with Google TV dongle is on the way.\r\nIn 2020, Google made a significant change to the Chromecast lineup, ditching the longstanding Cast OS in fav… [+2049 chars]"
+      "author": "Jeremy Hellstrom",
+      "title": "The Micron 9400 Pro Series Of Enterprise SSDs - PC Perspective",
+      "description": "The Micron 9400 Pro Series Of Enterprise SSDs TweakTown took a look at two of the Micron 9400 Pro models available, a smaller 7.68TB and a huge 30.72TB PCIe",
+      "url": "https://pcper.com/2023/01/the-micron-9400-pro-series-of-enterprise-ssds/",
+      "urlToImage": "https://pcper.com/wp-content/uploads/2023/01/10326-28-micron-9400-pro-7-68tb-enterprise-ssd-review-new-level-of-performance-full.jpg",
+      "publishedAt": "2023-01-13T20:33:40Z",
+      "content": "It took a while for vendors to stop charging exorbitant fees for and SSDs contained their mass storage products.  While Enterprise drives require significantly higher standards compared to the ones i… [+927 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "YouTube may fix controversial policy to demonetize videos with swearing - Engadget",
+      "description": "YouTube says it's tweaking its policy on swearing in videos, but hasn't said just how it will tackle complaints..",
+      "url": "https://www.engadget.com/youtube-to-fix-swearing-policy-demonetization-203130542.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/24d23d30-9378-11ed-b7e5-7adbb9dd8803",
+      "publishedAt": "2023-01-13T20:33:18Z",
+      "content": "YouTube is rethinking its approach to colorful language after an uproar. In a statement to The Verge, the Google brand says it's \"making some adjustments\" to a profanity policy it unveiled in Novembe… [+1498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jon Fingas",
+      "title": "YouTube may fix controversial policy to demonetize videos with swearing - Yahoo Movies Canada",
+      "description": "YouTube says it's tweaking its policy on swearing in videos, but hasn't said just how it will tackle complaints.",
+      "url": "https://ca.movies.yahoo.com/youtube-to-fix-swearing-policy-demonetization-203130542.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gW_Zpvu5Tw72kLhPIafdUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/24d23d30-9378-11ed-b7e5-7adbb9dd8803",
+      "publishedAt": "2023-01-13T20:31:30Z",
+      "content": "YouTube is rethinking its approach to colorful language after an uproar. In a statement to The Verge, the Google brand says it's \"making some adjustments\" to a profanity policy it unveiled in Novembe… [+1498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Pranay Parab",
+      "title": "Don't Buy Apple's iPhone Cases - Lifehacker",
+      "description": "A good case is worth its asking price. Apple's iPhone cases, sadly, are not.",
+      "url": "https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/be4762c5a6b4fcf12fe3884292ce6e29.jpg",
+      "publishedAt": "2023-01-13T20:30:00Z",
+      "content": "When you get a new iPhone, its always a good idea to get a case to go with it: Accidents happen, and you dont want a crack on the expensive new phone you just bought. And if youre buying your phone f… [+2329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku Australia"
+      },
+      "author": null,
+      "title": "Halo Infinite Devs Use Fan’s Pokémon Map To Help With Game’s Aiming Issues - Kotaku Australia",
+      "description": "Halo has a long tradition of community-made maps and game modes that range everywhere from serious to silly. Recently, one...",
+      "url": "https://www.kotaku.com.au/2023/01/halo-infinite-devs-use-fans-pokmon-map-to-help-with-games-aiming-issues/",
+      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/01/14/3065f32bd40c8db2b6b6e0d2fcfeacc4.jpg?quality=80&resize=1280,720",
+      "publishedAt": "2023-01-13T20:25:00Z",
+      "content": "Halo has a long tradition of community-made maps and game modes that range everywhere from serious to silly. Recently, one map and mode combo thats more on the playful and fun side of things caught t… [+3030 chars]"
     },
     {
       "source": {
@@ -190,77 +216,51 @@
         "name": "Kotaku"
       },
       "author": "Claire Jackson",
-      "title": "The Standing Your PS5 May Damage Your Console Panic, Explained - Kotaku",
-      "description": "While the PS5’s thermal paste can leak out and fail, right now there’s no need to sound the alarm",
-      "url": "https://kotaku.com/ps5-playstation-5-repair-leak-vertical-liquid-youtube-1849981264",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0278def667b01655660e19646dabcea4.jpg",
-      "publishedAt": "2023-01-12T20:30:00Z",
-      "content": "Recently, theres been some concern about whether or not PS5s are safe to stand vertically. Videos and observations from independent console technician TheCod3r and a followup article from Wololo that… [+6476 chars]"
+      "title": "Halo Infinite Devs Use Fan's Pokémon Map To Help With Game's Aiming Issues - Kotaku",
+      "description": "Digletts has a very simple premise, one that seems to be helping 343 Industries pinpoint specific issues in Halo Infinite",
+      "url": "https://kotaku.com/halo-infinite-xbox-pokemon-forge-diglett-343-industries-1849986942",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3065f32bd40c8db2b6b6e0d2fcfeacc4.jpg",
+      "publishedAt": "2023-01-13T20:25:00Z",
+      "content": "Halo has a long tradition of community-made maps and game modes that range everywhere from serious to silly. Recently, one map and mode combo thats more on the playful and fun side of things caught t… [+2685 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ExtremeTech"
+        "name": "ComingSoon.net"
       },
-      "author": "Josh Norem",
-      "title": "AMD Flip Flops on Ryzen 7000 X3D Launch Date - ExtremeTech",
-      "description": "Off in the distance, you can hear the sound of an intern's desk being cleaned out.",
-      "url": "https://www.extremetech.com/computing/342239-amd-flip-flops-on-ryzen-7000-x3d-launch-date",
-      "urlToImage": "https://www.extremetech.com/wp-content/uploads/2023/01/AMD-Ryzen-7000-X3D-3D-V-Cache-CPUs-Launch-scaled-1-640x360.jpg",
-      "publishedAt": "2023-01-12T20:19:00Z",
-      "content": "Well, this is awkward: AMD seems to be stuck in limbo regarding the upcoming launch of its highly-anticipated X3D line of CPUs. If you recall at the paper launch it said they’d arrive in February, an… [+2373 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Frederic Lardinois",
-      "title": "Keychron gets it right with its Q10 Alice-style keyboard - TechCrunch",
-      "description": "Keychron's Q10 is an easy recommendation. It's an Alice-style mechanical keyboard that could bring this unusual layout to the mainstream.",
-      "url": "https://techcrunch.com/2023/01/12/keychron-gets-it-right-with-its-q10-alice-style-keyboard/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/keychron-q10-mechanical-keyboard-qmkvia-alice-layout-1-1661936404343.webp?resize=1200,675",
-      "publishedAt": "2023-01-12T20:16:53Z",
-      "content": "Are you thinking about getting a mechanical keyboard and asked a friend which one to get? Chances are, they said: get a Keychron. It’s basically a meme at this point. After making its name with affor… [+6513 chars]"
+      "author": "Michael Leri",
+      "title": "Hogwarts Legacy PS5, Xbox Series X|S Graphics Modes & Accessibility Detailed - ComingSoon.net",
+      "description": "Avalanche Software released details about Hogwarts Legacy's graphics modes on PS5 and Xbox Series X|S alongside its accessibility settings.",
+      "url": "https://www.comingsoon.net/games/news/1260753-hogwarts-legacy-ps5-xbox-series-xs-graphics-modes-accessibility-detailed",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/hogwarts.jpg?resize=1200,630",
+      "publishedAt": "2023-01-13T20:19:56Z",
+      "content": "While Hogwarts Legacy is coming to the last batch of platforms at a later date, it is also shortly coming out PlayStation 5, Xbox Series X|S, and PC. And with that imminent launch, Avalanche Software… [+1373 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "CNBC"
       },
-      "author": "Cameron Koch",
-      "title": "New League Of Legends Cinematic Is So Bad, Riot Is Officially Apologizing For It - GameSpot",
-      "description": "Fans accustomed to \"action-packed, champion-led\" cinematic trailers got a boring map flythrough instead.",
-      "url": "https://www.gamespot.com/articles/new-league-of-legends-cinematic-is-so-bad-riot-is-officially-apologizing-for-it/1100-6510536/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4086100-leagueoflegends2023seasoncinematicdisappoints.jpg",
-      "publishedAt": "2023-01-12T20:10:57Z",
-      "content": "The latest season of League of Legends is off to the races, but a new cinematic trailer meant to hype up players for the year to come looks to have had the opposite effect, with developer Riot Games … [+2177 chars]"
+      "author": "Sarah Whitten",
+      "title": "Hasbro delays new Dungeons & Dragons licensing rules following fan backlash - CNBC",
+      "description": "The attempt to create a new license comes as Hasbro's Wizards of the Coast unit looks to capitalize on a surge in Dungeons & Dragons' popularity.",
+      "url": "https://www.cnbc.com/2023/01/13/hasbro-delays-new-dungeons-dragons-licensing-rules.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107177884-1673539422361-gettyimages-1280198175-r_dhlozx201014-520259-01.jpeg?v=1673640817&w=1920&h=1080",
+      "publishedAt": "2023-01-13T20:13:37Z",
+      "content": "Set of pen, notebook, and dices to play role game like dungeons and dragons. Purple bag to storage the dices. in Barcelona, CT, Spain\r\nDungeons &amp; Dragons fans were ready to roll for initiative ag… [+11920 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Nerd Stash"
+        "name": "Gamepur"
       },
-      "author": "Danish Taleef",
-      "title": "COD Mobile Season 1 Reawakening Trailer Released - The Nerd Stash",
-      "description": "CoD Mobile Season 1 Reawakening patch notes have been released along with the trailer and the game is getting some fun new modes.",
-      "url": "https://thenerdstash.com/cod-mobile-season-1-reawakening-trailer-released/",
-      "urlToImage": "https://thenerdstash.com/wp-content/uploads/2023/01/cod-mobile-reawakening-trailer.jpg",
-      "publishedAt": "2023-01-12T20:10:01Z",
-      "content": "Season 1 for CoD Mobile has arrived, and here are all the changes and improvements mentioned in the patch notes. The new year update is called Reawakening and will be released on January 18th. Apart … [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sisi Jiang",
-      "title": "RIP: Programmer 'Euthanizes' His $1,000 AI VTuber 'Waifu' - Yahoo Finance",
-      "description": "You’ve met an AI YouTuber who plays Minecraft and denies the Holocaust. Now meet a fully responsive AI girlfriend who can converse with its user. Except it’s...",
-      "url": "https://finance.yahoo.com/news/rip-programmer-euthanizes-1-000-201000338.html",
-      "urlToImage": "https://media.zenfs.com/en/kotaku_564/8a3500dead3e33b700ae196baa40453f",
-      "publishedAt": "2023-01-12T20:10:00Z",
-      "content": "ChatGPT-Chan looks out from her monitor prison.\r\nYouve met an AI YouTuber who plays Minecraft and denies the Holocaust. Now meet a fully responsive AI girlfriend who can converse with its user. Excep… [+2389 chars]"
+      "author": "Sterling Silver",
+      "title": "Classic sprite animation Super Mario Bros. Z has its intro remade with startlingly official-looking 3D visuals - Gamepur",
+      "description": "Nintendo, hire this person.",
+      "url": "https://www.gamepur.com/news/classic-sprite-animation-super-mario-bros-z-has-its-intro-remade-with-startlingly-official-looking-3d-visuals/",
+      "urlToImage": "https://www.gamepur.com/wp-content/uploads/2023/01/image-30.jpg",
+      "publishedAt": "2023-01-13T20:09:29Z",
+      "content": "The early days of YouTube and Newgrounds paved the way for fan animations/stories featuring some of gaming’s most popular characters. Super Mario Bros. Z, a fan animation show created by Mark Hayes (… [+1596 chars]"
     }
   ]
 }
