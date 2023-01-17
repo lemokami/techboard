@@ -1,58 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 623,
+  "totalResults": 744,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Gadget.co.za"
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Matt Cox",
+      "title": "Hero dog saves streamer's life (in Elden Ring) - Rock Paper Shotgun",
+      "description": "My dog is undeniably a good boy, but he's never saved my life in a videogame. He could learn a trick or two from MissMikaa's dog.",
+      "url": "https://www.rockpapershotgun.com/hero-dog-saves-streamers-life-in-elden-ring",
+      "urlToImage": "https://assets2.rockpapershotgun.com/MissMikaadog.webp/BROK/thumbnail/1200x630/MissMikaadog.webp",
+      "publishedAt": "2023-01-16T22:26:53Z",
+      "content": "My dog is undeniably a good boy, but he's never saved my life in a videogame. He could learn a trick or two from MissMikaa's dog, who apparently knows when to step in and move her Elden Ring characte… [+1142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo Australia"
       },
       "author": null,
-      "title": "A bot previews the Samsung S23 Ultra - Gadget",
-      "description": "The new Samsung flagship smartphone is due out next month. Our robot reporter, AGGIE Z GATEMAND, offers a dodgy preview.",
-      "url": "https://gadget.co.za/samsung-s23-ultra/",
-      "urlToImage": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2023/01/SAMSUNG-S23.jpg?resize=811%2C445&ssl=1",
-      "publishedAt": "2023-01-15T22:10:00Z",
-      "content": "The Samsung Galaxy S23 Ultra Smartphone is a phone that is sleek and stylish. It’s a fashionable phone that is perfect for anyone who loves to stay up to date on the latest technology.\r\nIt is a high-… [+5439 chars]"
+      "title": "Tech News: 5 Things to Know in Australia Today - Gizmodo Australia",
+      "description": "From a new antitrust warning for Microsoft to a new contract for IBM, here are five things headlining tech news today.",
+      "url": "https://www.gizmodo.com.au/2023/01/tech-news-australia-5-things-to-know-104/",
+      "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/17/telstra-digicel-pacific.png?quality=80&resize=1280,720",
+      "publishedAt": "2023-01-16T22:24:00Z",
+      "content": "Hello and welcome to Tuesday. Let’s jump into your morning tech news briefing.\r\n1. Microsoft potentially facing EU antitrust warning\r\nReuters is reporting that Microsoft is likely to receive an EU an… [+3104 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku Australia"
+        "name": "Gameshub.com"
       },
-      "author": null,
-      "title": "This Week In Games Australia: Fire Emblem Engages, And An Overlooked Game Freak Classic Returns - Kotaku Australia",
-      "description": "Fire Emblem Engage leads a big week of strategy games, the great Roberta Williams returns, and Game Freak relaunches a lost classic on mobile",
-      "url": "https://www.kotaku.com.au/2023/01/this-week-in-games-australia-fire-emblem-engages-and-an-overlooked-game-freak-classic-returns/",
-      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/01/16/fireemblemengage.jpg?quality=80&resize=1280,720",
-      "publishedAt": "2023-01-15T22:05:00Z",
-      "content": "Welcome back to This Week In Games Australia! This week: Fire Emblem Engage leads a week full of strategy and management sims. Also on the docket: Sierra co-founder Roberta Williams returns with Colo… [+5149 chars]"
+      "author": "Leah J. Williams",
+      "title": "Microsoft's Activision Blizzard deal may face EU antitrust warning - GamesHub",
+      "description": "Microsoft's Activision Blizzard acquisition may hit another roadblock shortly, with the EU expected to issue a major antitrust warning.",
+      "url": "https://www.gameshub.com/news/news/microsoft-activision-blizzard-eu-antitrust-warning-38272/",
+      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/02/activision-blizzard-report.jpg",
+      "publishedAt": "2023-01-16T22:04:20Z",
+      "content": "Microsoft’s bid to acquire Activision Blizzard may have hit another roadblock, with sources speaking to Reutersclaiming the European Commission will issue an antitrust warning to Microsoft, to preven… [+2115 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Xfire.com"
+        "name": "Notebookcheck.net"
       },
-      "author": "Scott Kostov",
-      "title": "Hogwarts Legacy PS5 And Xbox Series graphics modes have been revealed - Xfire",
-      "description": "Performance Mode will target 60 fps displays while Fidelity Mode can be used to run Hogwarts Legacy at 30 fps",
-      "url": "https://www.xfire.com/hogwarts-legacy-ps5-and-xbox-series-graphics-modes-have-been-revealed/",
-      "urlToImage": "https://www.xfire.com/wp-content/uploads/2023/01/hogwarts-legacy-modes-1600x900.png",
-      "publishedAt": "2023-01-15T21:52:22Z",
-      "content": "The upcoming Harry Potter video game is touted as the biggest project in developer Avalanche Software's history, as well as Warner Bros. most anticipated game to date. They have already come out with… [+2656 chars]"
+      "author": "Andreas Osthoff",
+      "title": "Intel Alder Lake-U Review - The fine line between Efficiency and insufficient Performance - Notebookcheck.net",
+      "description": "Intel’s Alder Lake-U chips in the 15W segment are primarily designed for thin and light laptops. However, there can be massive performance differences depending on the implementation and it does not always make sense for the manufacturers to use U-series CPUs…",
+      "url": "https://www.notebookcheck.net/Intel-Alder-Lake-U-Review-The-fine-line-between-Efficiency-and-insufficient-Performance.682220.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/HP/ZBook_Firefly_14_G9_6B8A2EA/Intel_Alder_Lake_P_teaser.jpg",
+      "publishedAt": "2023-01-16T22:02:11Z",
+      "content": "Our measurements and benchmark scores show that Alder Lake-U processors can make sense, but both Intel as well as notebook manufacturers make it rather difficult for the customer. There are multiple … [+2208 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Notebookcheck.net"
       },
-      "author": "Ewan Spence",
-      "title": "Surface Pro 9 Review: Microsoft’s Evolution Of Versatility And Power - Forbes",
-      "description": "Microsoft's Surface Pro 9 is the next 2-in-1 from the long-running premium brand, which brings a tight focus on Microsoft’s vision of modern computing. I’ve spent time with the Pro 9 to find out Redmond’s latest thinking in the tablet space.",
-      "url": "https://www.forbes.com/sites/ewanspence/2023/01/15/microsoft-surface-pro-9-intel-windows-11-tablet-review/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63c46029686b63e0afc92cf6/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-01-15T21:47:26Z",
-      "content": "Microsoft'sSurface Pro 9 is the next 2-in-1 from the long-running premium brand, which brings a tight focus on Microsofts vision of modern computing. Ive spent time with the Pro 9 to find out Redmond… [+5789 chars]"
+      "author": "Enrico Frahn",
+      "title": "Bluetti EB3A power station with PV68 solar panel now 40% off - Notebookcheck.net",
+      "description": "The fairly compact power station with 268Wh of capacity and an included 68-watt solar panel is currently discounted by a whopping US$200 on Amazon, which brings the Bluetti EB3A down to a quite reasonable price of US$299.",
+      "url": "https://www.notebookcheck.net/Bluetti-EB3A-power-station-with-PV68-solar-panel-now-40-off.682221.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Bluetti_EB3A_power_station_solar_PV68.jpg",
+      "publishedAt": "2023-01-16T21:55:30Z",
+      "content": "The well-known Chinese accessory and gadget maker Anker is certainly not the only company that has entered the booming power station market in recent years. Bluetti is another brand that many prospec… [+1312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "What to Expect From the Next-Generation 14-Inch and 16-Inch MacBook Pro - MacRumors",
+      "description": "Following a rumor that Apple has a product announcement planned for tomorrow, and the discovery of an unreleased MacBook Pro in a Canadian regulatory...",
+      "url": "https://www.macrumors.com/2023/01/16/what-to-expect-from-next-macbook-pro/",
+      "urlToImage": "https://images.macrumors.com/t/pmF870YLs0NpuUfqltDlQeuockc=/2068x/article-new/2021/10/14-16-inch-2021-mbps-back-to-back-feature.jpg",
+      "publishedAt": "2023-01-16T21:51:07Z",
+      "content": "Following a rumor that Apple has a product announcement planned for tomorrow, and the discovery of an unreleased MacBook Pro in a Canadian regulatory database, it appears that new 14-inch and 16-inch… [+1717 chars]"
     },
     {
       "source": {
@@ -60,168 +86,77 @@
         "name": "Notebookcheck.net"
       },
       "author": "Daniel R Deakin",
-      "title": "Seamless Galaxy Z Fold5 display on the cards as Samsung creates its own muscular take on the waterdrop hinge - Notebookcheck.net",
-      "description": "A new report about the Samsung Galaxy Z Fold5 has offered substance to the belief that the upcoming premium foldable smartphone will have a wrinkle-free display. It appears Samsung has opted to use a waterdrop hinge for the Galaxy Z Fold5 that offers a seamle…",
-      "url": "https://www.notebookcheck.net/Seamless-Galaxy-Z-Fold5-display-on-the-cards-as-Samsung-creates-its-own-muscular-take-on-the-waterdrop-hinge.681965.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Samsung_Galaxy_Z_Fold5_seam_crease_Z_Fold_4_drdNBC.jpg",
-      "publishedAt": "2023-01-15T21:39:51Z",
-      "content": "Despite the Samsung Galaxy Z Fold4 being one of the best phones we have reviewed (foldable or otherwise), one of the cons highlighted by our tester was the visibility of the display seam. Recently, w… [+1707 chars]"
+      "title": "Condensed Samsung Galaxy S23 Ultra 200 MP camera image sizes mean even a 256 GB model can store thousands of photos - Notebookcheck.net",
+      "description": "The Samsung Galaxy S23 Ultra’s 200 MP camera will apparently be capable of producing images that will not fill up the device’s storage within a few hundred shots. Considering the least-expensive Galaxy S23 Ultra will obviously have the smallest amount of stor…",
+      "url": "https://www.notebookcheck.net/Condensed-Samsung-Galaxy-S23-Ultra-200-MP-camera-image-sizes-mean-even-a-256-GB-model-can-store-thousands-of-photos.682038.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Samsung_Galaxy_S23_Ultra_200_MP_camera_photo_file_size_drdNBC.jpg",
+      "publishedAt": "2023-01-16T21:39:45Z",
+      "content": "The leaker Ice universe has offered up an interesting Samsung Galaxy S23 Ultra leak in regard to the size of the images that will be produced by the smartphones 200 MP camera. The tipster offered a c… [+1540 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PhoneArena"
+        "name": "Android Headlines"
       },
-      "author": "Alan Friedman",
-      "title": "Micro-LED iPhone, iPad, and Mac screens could be in Apple's future - PhoneArena",
-      "description": "According to Bloomberg's Mark Gurman, after debuting micro-LED panels on the Apple Watch Ultra and Apple Watch, Apple could use the tech on the iPhone, iPad, and Macs.",
-      "url": "https://www.phonearena.com/news/micro-led-iphones-ipads-in-apples-future_id144866",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/144866-wide-two_1200/Micro-LED-iPhone-iPad-and-Mac-screens-could-be-in-Apples-future.jpg",
-      "publishedAt": "2023-01-15T21:38:45Z",
-      "content": null
+      "author": "Justin Diaz",
+      "title": "Best shooter games for Android - Android Headlines",
+      "description": "Like action games, some of the best shooter games for Android can be some of the most fun if you enjoy things like fast-paced combat, multiplayer",
+      "url": "https://www.androidheadlines.com/best-shooter-games-android.html",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2023/01/Best-Shooter-Games-Android.jpg",
+      "publishedAt": "2023-01-16T21:31:03Z",
+      "content": "Like action games, some of the best shooter games for Android can be some of the most fun if you enjoy things like fast-paced combat, multiplayer gameplay, and general moment to moment action. This d… [+9923 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MobileSyrup"
+        "name": "TVLine"
       },
-      "author": "Brad Bennett",
-      "title": "If your iCloud storage is full and you have TikTok try this - MobileSyrup",
-      "description": "They're might be a lot of extra iCloud storage buried in your iPhone backups.",
-      "url": "https://mobilesyrup.com/2023/01/15/if-your-icloud-storage-is-full-and-you-have-tiktok-try-this/",
-      "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2022/08/icloud-9-scaled.jpg",
-      "publishedAt": "2023-01-15T21:32:00Z",
-      "content": "Having maxed-out iCloud storage is all too common among iPhone users, and it often seems futile to even try clearing it out, or so I thought.\r\nIf you do video editing on your phone with TikTok and Ca… [+991 chars]"
+      "author": "Michael Ausiello",
+      "title": "Ice-T, Chris Meloni Deny ‘Law & Order: SVU’ Feud Rumor in Tabloid - TVLine",
+      "description": "Two veterans of Dick Wolf’s Law & Order universe are getting out ahead of a forthcoming tabloid report alleging a feud between the pair",
+      "url": "https://tvline.com/2023/01/16/ice-t-chris-meloni-feud-law-and-order-svu-taboid-report/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2023/01/Law-and-Order-Feud.png?w=621",
+      "publishedAt": "2023-01-16T21:26:00Z",
+      "content": "Two veterans of Dick Wolf’s Law &amp; Order universe are getting out ahead of a forthcoming tabloid report alleging a feud between the pair.\r\nLongtime Law &amp; Order: SVU cast member Ice-T posted on… [+1050 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Motor1 "
       },
-      "author": "Deirdre O'Donnell",
-      "title": "LeTV S1 Pro debuts as a new budget iPhone 14 Pro Max clone complete with \"Dynamic Island\" display - Notebookcheck.net",
-      "description": "LeTV's new S1 Pro has launched with a suspiciously familiar, supposedly premium, design that even has an updated pill-shaped punch-hole selfie camera to complete the effect. The OEM claims that it is integrated into the UI with a number of useful features suc…",
-      "url": "https://www.notebookcheck.net/LeTV-S1-Pro-debuts-as-a-new-budget-iPhone-14-Pro-Max-clone-complete-with-Dynamic-Island-display.682012.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/LEECOS1PROTEASER.png",
-      "publishedAt": "2023-01-15T21:24:43Z",
-      "content": "Those who like the look of the iPhone 14 Pro Max have a number of choices to make, spending US$1,099 or more on a new unit included. However, some now have another option in the form of a new Letv S1… [+1212 chars]"
+      "author": "Adrian Padeanu",
+      "title": "Lamborghini Aventador Replacement Shows Wild Styling In Design Patent - Motor1 ",
+      "description": "Ahead of its official reveal in late March 2023, the Lamborghini Aventador successor reveals its exterior design in full on the WIPO website.",
+      "url": "https://www.motor1.com/news/631419/lamborghini-aventador-replacement-design-patent/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/RqnNZx/s1/lamborghini-aventador-replacement-patent-image.jpg",
+      "publishedAt": "2023-01-16T21:17:00Z",
+      "content": "The long-awaited successor to the Aventador will finally debut in March but Lamborghini's next V12 machine is making an early debut on the WIPO website. If the acronym doesn't ring a bell, it stands … [+2118 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Deirdre O'Donnell",
-      "title": "Motorola Moto \"G73\" with a 5G Dimensity-series processor and 120Hz display leaks out - Notebookcheck.net",
-      "description": "Motorola is now rumored to release a new mid-range Android 13 smartphone soon. The alleged Moto G73 is depicted as looking a lot like many of its 2022 siblings, albeit with possible upgrades in some respects. It is also thought to have on-point dual rear came…",
-      "url": "https://www.notebookcheck.net/Motorola-Moto-G73-with-a-5G-Dimensity-series-processor-and-120Hz-display-leaks-out.682014.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/moto_g73_devon_5g_allphones_ocean_The_Tech_Outlook_2_9.jpg",
-      "publishedAt": "2023-01-15T21:24:41Z",
-      "content": "According to TheTechOutlook, Motorola is now \"expected\" to launch a new addition to the Moto G line of smartphones soon. The blog asserts that it is the one that leaked previously with the code-name … [+1201 chars]"
+      "author": "Matt Cox",
+      "title": "Fresh Lies Of P footage shows off a fight with a lightning gorilla robocop - Rock Paper Shotgun",
+      "description": "Bloodborne was great, but it didn't have any lightning gorilla robocops. This is a problem the upcoming Lies of P hopes to fix.",
+      "url": "https://www.rockpapershotgun.com/fresh-lies-of-p-footage-shows-off-a-fight-with-a-lightning-gorilla-robocop",
+      "urlToImage": "https://assets2.rockpapershotgun.com/pgorilla2.jpg/BROK/thumbnail/1200x630/pgorilla2.jpg",
+      "publishedAt": "2023-01-16T20:58:07Z",
+      "content": "Bloodborne was great, but it didn't have any lightning gorilla robocops. This is a problem the upcoming Lies of P hopes to fix, as revealed in a new gameplay trailer designed to show off how nice it … [+1282 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Explosionnetwork.com"
+        "name": "http://mp1st.com/category/news"
       },
-      "author": "Dylan Blight",
-      "title": "PS Plus Extra/Deluxe Games - January 2023: Life Is Strange, Back 4 Blood, Sayonara Wild Hearts — Explosion Network | Independent Australian Reviews, News, Podcasts, Opinions - Explosion Network",
-      "description": "PlayStation has revealed the PlayStation Plus Extra/Deluxe games for the month of January 2023.&nbsp;",
-      "url": "https://explosionnetwork.com/news/ps-plus-extra-deluxe-games-january-2023",
-      "urlToImage": "http://static1.squarespace.com/static/58b3cae5d1758e0132a008c6/5b3425566d2a7317ca096f4c/63c3c37dfcf4423ec850fac3/1673817132225/ps-plus-extra-deluxe-tier-jan-23-thhumbnail.jpg?format=1500w",
-      "publishedAt": "2023-01-15T21:12:00Z",
-      "content": "PlayStation has revealed the PlayStation Plus Extra/Deluxe games for the month of January 2023. \r\nIt's getting a bit strange in January with the addition of two Life is Strange games to the PS Extra … [+901 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Chip",
-      "title": "Top 10 trending phones of week 2 - GSMArena.com news - GSMArena.com",
-      "description": "Three of the phones in the top 10 are yet to go official!",
-      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_2-news-57199.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_003.jpg",
-      "publishedAt": "2023-01-15T20:22:01Z",
-      "content": "As we reach the half-way point of January we have a rather unusual leader. Not that Samsung's Galaxy A5x series aren't used to topping our trending chart - no other series has more regular presence t… [+890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hot Hardware"
-      },
-      "author": "Nathan Ord",
-      "title": "NVIDIA’s GeForce RTX 4080 Migration To AD103-301 GPU Variant, What You Should Know - Hot Hardware",
-      "description": "NVIDIA is aiming to lower prices of the GeForce RTX 4080 and 4070, but do new changes amount to much?",
-      "url": "https://hothardware.com/news/nvidia-introducing-new-gpu-variants-for-4080-and-4070",
-      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/60665/content/nvidia-introducing-new-gpu-variants-for-4080-and-4070.jpg",
-      "publishedAt": "2023-01-15T19:59:00Z",
-      "content": "Now that we are past the 4070Ti launch from CES earlier this month, we can begin to look toward the future of NVIDIA products. Of course, we are still hoping there is a 4090Ti waiting in the wings, b… [+1672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Camera World"
-      },
-      "author": null,
-      "title": "Tamron 20-40mm F2.8 Di III VXD review - Digital Camera World",
-      "description": "The quirky Tamron 20-40mm F2.8 Di III VXD is highly competent and convenient lens for everyday shooting",
-      "url": "https://www.digitalcameraworld.com/reviews/tamron-20-40mm-f28-di-iii-vxd-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/peAWPmFpNpxny4ajJaGd5A-1200-80.jpg",
-      "publishedAt": "2023-01-15T19:58:15Z",
-      "content": "The Tamron 20-40mm F2.8 Di III VXD is yet another different take on the ‘standard’ zoom lens. Tamron already makes alternatives to ‘trinity’ wide-angle and standard zooms, with its impressive 17-28mm… [+8558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yomiprof.net"
-      },
-      "author": "Yomi Prof",
-      "title": "WhatsApp Latest Update: Text From Images, Block Shortcut, Chat Transfer - Wealth Creation - YomiProf",
-      "description": null,
-      "url": "https://www.yomiprof.net/2023/01/whatsapp-latest-update-text-from-images-block-shortcut-chat-transfer.html",
-      "urlToImage": "https://www.yomiprof.net/wp-content/uploads/2020/10/whatsapp-face-unlock.png",
-      "publishedAt": "2023-01-15T19:46:01Z",
-      "content": "As we all know, WhatsApp instant messenger is always working on updates to enhance the functionality of the chatting app, and to improve user experience. Another update has been discovered, already r… [+1458 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Adam Bankhurst",
-      "title": "Google Stadia Has Released One Final Game Ahead of Its Shutdown On January 18 - IGN",
-      "description": "Google Stadia is officially shutting down on January 18, and the team behind the video game streaming service has gifted the world Worm Game, the final title that will be released for the platform and one that was used to test many of Stadia's features before…",
-      "url": "https://www.ign.com/articles/google-stadia-has-released-one-final-game-ahead-of-its-shutdown-on-january-18",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/14/snak1-1673673365898.png?width=1280",
-      "publishedAt": "2023-01-15T19:42:35Z",
-      "content": "Google Stadia is officially shutting down on January 18, and the team behind the video game streaming service has gifted the world Worm Game, the final title that will be released for the platform an… [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Ricci Rox",
-      "title": "Xiaomi 13 Ultra: New leak rules out imminent release for Xiaomi's upcoming juggernaut - Notebookcheck.net",
-      "description": "While the Xiaomi 13 and Xiaomi 13 Pro are set to launch globally at MWC next month, it appears Xiaomi may be taking its time with the more premium Xiaomi 13 Ultra. According to word on the grapevine, the line-leading model could debut as late as April instead.",
-      "url": "https://www.notebookcheck.net/Xiaomi-13-Ultra-New-leak-rules-out-imminent-release-for-Xiaomi-s-upcoming-juggernaut.681964.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/XIAOMI_13_PRO_3.jpg",
-      "publishedAt": "2023-01-15T19:39:25Z",
-      "content": "The Xiaomi 13 Ultra is coming. Xiaomi has since confirmed its plans to launch the Xiaomi 13 Ultra as its main flagship phone both in China and on the global market. Recent rumors hinted at a possible… [+929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crunchyroll News"
-      },
-      "author": "Joseph Luster",
-      "title": "Awesome Games Done Quick 2023 Marathon Speeds Its Way Past $2.6 Million for Charity - Crunchyroll News",
-      "description": "This year's online-only event was held January 8-15",
-      "url": "https://www.crunchyroll.com/anime-news/2023/01/15/awesome-games-done-quick-2023-marathon-speeds-its-way-past-26-million-for-charity",
-      "urlToImage": "https://img1.ak.crunchyroll.com/i/spire1/4f29695d5ea252d2415682235fc6d74e1673811381_main.jpg",
-      "publishedAt": "2023-01-15T19:36:52Z",
-      "content": "Another installment of the Awesome Games Done Quick speedrunning marathon is in the books as of today, and that means another monumental amount of money has been raised for charity. This year's onlin… [+1067 chars]"
+      "author": "Carlos Perez",
+      "title": "PlayStation Games of 2023 Montage Highlights Games Coming Out This 2023 - MP1st",
+      "description": "A recent montage video highlights some of PlayStation's most anticipated games of 2023, including Final Fantasy 16 and Hogwarts Legacy.",
+      "url": "https://mp1st.com/news/playstation-games-of-2023-montage-highlights-games-coming-out-this-2023",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2023/01/playstation-games-2023.jpg",
+      "publishedAt": "2023-01-16T20:45:44Z",
+      "content": "2023’s set to be a big year in gaming, and this is especially true for PlayStation consoles. With multiple high-profile exclusives such as Final Fantasy 16 and  Marvel’s Spider-Man 2, there’s a whole… [+1199 chars]"
     },
     {
       "source": {
@@ -229,38 +164,103 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Amazon is blocking apps from bringing Google TV’s best feature to Fire TV - 9to5Google",
-      "description": "Amazon appears to be blocking guide apps that make it easier to curate TV shows and movies on Fire TV, including Plex Discover.",
-      "url": "https://9to5google.com/2023/01/15/amazon-fire-tv-guide-apps/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/02/amazon_fire_tv_stick_max_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-01-15T19:24:00Z",
-      "content": "As content keeps moving around between various streaming services, Google TV has turned out to be a lifeboat of sorts in making it easy to figure out what content is available on which service. Some … [+1582 chars]"
+      "title": "Supposed Google Pixel Fold case model shows off thin design, hinge, and bezels [Video] - 9to5Google",
+      "description": "After many false starts, the Google Pixel Fold finally seems to be on its way, and now a case model of the device gives us some further insight into what the physical hardware, hinge, and inner display will bring to the table. YouTuber Dave2D obtained what ap…",
+      "url": "https://9to5google.com/2023/01/16/pixel-fold-case-model-leak-video/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/pixel-fold-case-model-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-01-16T20:43:00Z",
+      "content": "After many false starts, the Google Pixel Fold finally seems to be on its way, and now a case model of the device gives us some further insight into what the physical hardware, hinge, and inner displ… [+2205 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "Stevivor.com"
       },
-      "author": "Neeraj Bansal",
-      "title": "GTA Online Gun Van location for January 15, 2023, revealed today - Sportskeeda",
-      "description": "It’s the fourth day that GTA Online's Gun Van is selling high-end weapons like the Railgun at exclusive and lucrative discounts.",
-      "url": "https://www.sportskeeda.com/gta/gta-online-gun-van-location-january-15-2023-revealed-today",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/01/e4da6-16738073955734-1920.jpg",
-      "publishedAt": "2023-01-15T19:01:34Z",
-      "content": "Its the fourth day that GTA Online's Gun Van is selling high-end weapons like the Railgun at exclusive and lucrative discounts. However, the vehicle spawns at different places every day, making it ne… [+2988 chars]"
+      "author": "Steve Wright, Steve Wright",
+      "title": "Lies of P 8K gameplay video shows off new Radeon RX 7900 XTX - Stevivor",
+      "description": "A new Lies of P 8K gameplay video shows off not only the game itself, but performance from the upcoming Radeon RX 7900 XTX graphics card.",
+      "url": "https://stevivor.com/news/lies-of-p-8k-gameplay-video-radeon-rx-7900/",
+      "urlToImage": "https://stevivor.com/wp-content/uploads/2023/01/lies-of-p.jpg",
+      "publishedAt": "2023-01-16T20:40:51Z",
+      "content": "A new Lies of P 8K gameplay video shows off not only the game itself, but performance from the upcoming Radeon RX 7900 XTX graphics card.\r\n“Lies of P is a highly-anticipated Action RPG launching late… [+797 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PC Perspective"
+        "name": "ComingSoon.net"
       },
-      "author": "PCPer Staff",
-      "title": "Podcast #706 - Ryzen Non-X CPUs, AMD Responds to XTX Throttling, Sapphire NITRO+ Review, Password hacking + MORE - PC Perspective",
-      "description": "Podcast #706 - Ryzen Non-X CPUs, AMD Responds to XTX Throttling, Sapphire NITRO+ Review, Password hacking + MORE In the news: AMD responds to XTX throttling,",
-      "url": "https://pcper.com/2023/01/podcast-706/",
-      "urlToImage": "https://pcper.com/wp-content/uploads/2023/01/podcast706.jpg",
-      "publishedAt": "2023-01-15T19:00:09Z",
-      "content": "Our second show of 2023, and, debatably, our best so far this year. You be the judge perhaps.\r\nIn the news: AMD responds to XTX throttling, our Sapphire NITRO+ RX 7900 XTX GPU review, so many securit… [+542 chars]"
+      "author": "Michael Leri",
+      "title": "Silent Hill’s Future ‘Will Only Continue’ With ‘Highly Artistic’ Titles - ComingSoon.net",
+      "description": "Silent Hill's future looks bright, according to Producer Motoi Okamoto, who spoke more about the Silent Hill 2 remake and upcoming entries.",
+      "url": "https://www.comingsoon.net/games/news/1261218-silent-hills-future-will-only-continue-with-highly-artistic-titles",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/sh2-remake.jpg?resize=1200,630",
+      "publishedAt": "2023-01-16T20:37:22Z",
+      "content": "Konami recently announced a slate of upcoming Silent Hill games and a film to mark the franchises resurgence. Producer Motoi Okamoto spoke about this revival and explained how it will continue into t… [+3188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Deirdre O'Donnell",
+      "title": "OPPO Find X6: Further display specs for the supposed vanilla Android flagship allegedly leak out - Notebookcheck.net",
+      "description": "The Find X6 is thought to launch soon with most of the latest flagship Android smartphone features from the brand OPPO. Now, according to its latest leak, the theory extends to its display too. Then again, it is thought to come with a new top-end eye-care fea…",
+      "url": "https://www.notebookcheck.net/OPPO-Find-X6-Further-display-specs-for-the-supposed-vanilla-Android-flagship-allegedly-leak-out.682217.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/findx6teaser84.jpg",
+      "publishedAt": "2023-01-16T20:35:43Z",
+      "content": "OPPO is projected to step into the 2023 top-end, Snapdragon 8 Gen 2-powered Android smartphone arena with the Find X6 series, which may comprise direct successors to the X5 and X5 Pro, although each … [+1171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "How to delete a slide in PowerPoint - Android Authority",
+      "description": "PowerPoint makes it easy to remove content. However, there isn't a button in the toolbar. This is how to delete a slide in PowerPoint.",
+      "url": "https://www.androidauthority.com/delete-slide-powerpoint-3267095/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/01/PowerPoint-on-laptop-stock-photo-4.jpg",
+      "publishedAt": "2023-01-16T20:20:33Z",
+      "content": "Putting together PowerPoint presentations involves knowing what you want to say and when. For a better effect, you may want to present one piece of information before another. If you find that conten… [+1742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rick Broida",
+      "title": "Rick's Picks: The 8 best tech deals right now — up to 45% off - Yahoo News Australia",
+      "description": "Score solid discounts on everything from Beats earbuds ($40 off) to the Fitbit Versa 4 smartwatch ($75 off).",
+      "url": "https://au.lifestyle.yahoo.com/best-tech-deals-155948901.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/30f7da10-935b-11ed-bb78-f669988e45c3",
+      "publishedAt": "2023-01-16T20:07:44Z",
+      "content": "Amazon has some solid deals running on some great tech products right now. Below I've rounded up my top picks (a top-rated space heater down to $28; Beats wireless noise-cancelling earbuds for $75 of… [+396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insomnia.gr"
+      },
+      "author": "nchatz",
+      "title": "Η Apple παρουσιάζει μια τριάδα εφαρμογών που θα αντικαταστήσουν σύντομα το iTunes στα Windows - insomnia.gr",
+      "description": "Apple Music στο Microsoft Store των Windows 11",
+      "url": "https://www.insomnia.gr/articles/apple/apple/apple-music-app-kai-apple-tv-erxontai-sta-windows-11/",
+      "urlToImage": "https://cdn-bb-eu1.insomnia.gr/file/insomnia-s3/monthly_2023_01/Apple-Music-Apple-TV-apps-for-Wi.jpg.ce601163278026d83212c89de60a816f.jpg",
+      "publishedAt": "2023-01-16T20:06:34Z",
+      "content": "(7 )\r\nApple iTunes macOS 2019, macOS Catalina.\r\nWindows Apple Music, iTunes . , Apple .\r\nWindows 11 Windows Insiders, Microsoft Apple Music, Apple TVApple Devices Microsoft Store download.\r\nApple Mus… [+464 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Belen Edwards",
+      "title": "Viral app Retro Pod removed from Apple's app store - Mashable",
+      "description": "The early 2000s vibes were too good to last.",
+      "url": "https://mashable.com/article/retropod-ipod-removed-from-apple-app-store",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06i9fPO595fc4r3uZzYcOqI/hero-image.fill.size_1200x675.v1673893354.jpg",
+      "publishedAt": "2023-01-16T19:58:45Z",
+      "content": null
     }
   ]
 }
