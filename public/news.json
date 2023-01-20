@@ -1,201 +1,214 @@
 {
   "status": "ok",
-  "totalResults": 757,
+  "totalResults": 740,
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Dungeons & Dragons’ publisher will put the game under a Creative Commons license - TechCrunch",
+      "description": "This gives the community a royalty-free, non-exclusive, irrevocable license to publish and sell works based on Dungeons & Dragons.",
+      "url": "https://techcrunch.com/2023/01/19/dungeons-dragons-creative-commons/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/DND_Art7.jpg?resize=1200,675",
+      "publishedAt": "2023-01-19T22:18:57Z",
+      "content": "It looks like Dungeons &amp; Dragons just succeeded on a death-saving throw. After weeks of backlash and protests from fans and content creators, Wizards of the Coast — the Hasbro-owned publisher of … [+4347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrustedReviews"
+      },
+      "author": "Chris Smith",
+      "title": "iOS 16.3 Features: Update will fix annoying iPhone 14 Pro Max bug - TrustedReviews",
+      "description": "Apple has confirmed the forthcoming iOS 16.3 release will deal with a nagging bug on the company's flagship iPhone 14 Pro Max | Trusted Reviews",
+      "url": "https://www.trustedreviews.com/news/ios-16-3-features-4296429",
+      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/01/FmzZDxdaMAASgjx.jpeg",
+      "publishedAt": "2023-01-19T22:08:50Z",
+      "content": "Apple has confirmed the forthcoming iOS 16.3 release will deal with a nagging bug on the company’s flagship iPhone 14 Pro Max smartphone.\r\nIn the release notes for the latest iOS 16.3 beta, which is … [+1679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "author": null,
+      "title": "Samsung Introduces the 200-Megapixel Image Sensor for the Ultimate High Resolution Experience in Flagship Smartphones - Samsung",
+      "description": "The new Samsung ISOCELL HP2 boosts capacity for maximum pixel performance, allowing for detailed and seamless photos in any light condition.",
+      "url": "https://news.samsung.com/au/samsung-introduces-the-200-megapixel-image-sensor-for-the-ultimate-high-resolution-experience-in-flagship-smartphones",
+      "urlToImage": "https://img.global.news.samsung.com/au/wp-content/uploads/2023/01/ISOCELL-HP2-Product-Image-01-e1674110039500.jpg",
+      "publishedAt": "2023-01-19T22:02:24Z",
+      "content": "Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today introduced its latest 200-megapixel (MP) image sensor, the ISOCELL HP2, with improved pixel technology and fu… [+3083 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "New HomePod, iOS & iPadOS 16.3 RC | Everything New! - 9to5Mac",
-      "description": "Apple released the New HomePod Gen 2 along side iOS & iPadOS 16.3 RC.  We are roughly one week away from the public release.  Here is everything new!Products...",
-      "url": "https://www.youtube.com/watch?v=o-nWtd-79qw",
-      "urlToImage": "https://i.ytimg.com/vi/o-nWtd-79qw/maxresdefault.jpg",
-      "publishedAt": "2023-01-18T22:37:20Z",
+      "title": "No Shame I Inclusion is Innovation - Microsoft",
+      "description": "Thiago struggled to keep his ADHD and anxiety a secret, until working through a mental health crisis led him to realize that his differences brought a unique...",
+      "url": "https://www.youtube.com/watch?v=RmQkDN-rrGA",
+      "urlToImage": "https://i.ytimg.com/vi/RmQkDN-rrGA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gGihFMA8=&rs=AOn4CLC1rrm2xu5PtHL70T4J_1RcspADIQ",
+      "publishedAt": "2023-01-19T21:51:39Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mb.com.ph"
+      },
+      "author": null,
+      "title": "HONOR X9a 5G delivers incredible visuals all-day long - Manila Bulletin",
+      "description": "The Nation's Leading Newspaper",
+      "url": "https://mb.com.ph/2023/01/20/honor-x9a-5g-delivers-incredible-visuals-all-day-long/",
+      "urlToImage": "https://mb.com.ph/wp-content/uploads/2023/01/121372.png",
+      "publishedAt": "2023-01-19T21:49:00Z",
+      "content": "HONOR, the leading global provider of smart devices, officially announced today the launch of the first-ever premium budget phone, the HONOR X9a 5G.\r\nThe latest addition to the HONOR X Series deliver… [+4855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Johanna Romero",
+      "title": "Google's \"Find my Device\" app gets a Material You redesign - PhoneArena",
+      "description": "Google has updated its \"Find my Device\" Android app with a new Material You look and feel.",
+      "url": "https://www.phonearena.com/news/google-find-my-device-app-gets-material-you_id144975",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/144975-wide-two_1200/Googles-Find-my-Device-app-gets-a-Material-You-redesign.jpg",
+      "publishedAt": "2023-01-19T21:37:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Liminal VR",
+      "title": "Cosmic Flow coming to Liminal on Meta Quest - GlobeNewswire",
+      "description": "Melbourne, Victoria, Australia, Jan.  19, 2023  (GLOBE NEWSWIRE) -- World renowned virtual reality artist and developer Dmitri Medvedev is making his......",
+      "url": "https://www.globenewswire.com/news-release/2023/01/19/2592161/0/en/Cosmic-Flow-coming-to-Liminal-on-Meta-Quest.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0447d268-61d0-46c0-88fd-9163c49dac61?size=1",
+      "publishedAt": "2023-01-19T21:33:05Z",
+      "content": "Melbourne, Victoria, Australia, Jan. 19, 2023 (GLOBE NEWSWIRE) -- World renowned virtual reality artist and developer Dmitri Medvedev is making his iconic experience Cosmic Flow available on Liminal.… [+2586 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Karl Freund",
-      "title": "Tenstorrent Shifts Leadership Roles - Forbes",
-      "description": "The Toronto-based startup is growing, swapping CEO and CTO leadership roles, and laying out a compelling roadmap.",
-      "url": "https://www.forbes.com/sites/karlfreund/2023/01/18/tenstorrent-shifts-leadership-roles/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63c81fad844ae6c73f766ebe/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-01-18T22:30:00Z",
-      "content": "The Toronto-based startup is growing fast, swapping CEO and CTO roles, and laying out a compelling roadmap for AI and\r\n RISC-V.\r\nTenstorrent, a Toronto-based startup who raised over $200M in venture … [+3683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Anthony Alaniz",
-      "title": "New Lamborghini V12 Supercar Shows Off Cool Third Brake Light In Spy Video - Motor1 ",
-      "description": "A spy video captures the new Lamborghini V12 supercar’s intricate third brake light and hexagonal tailpipes.",
-      "url": "https://www.motor1.com/news/632010/lamborghini-v12-brake-light-spy-video/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/ZnKYeo/s1/new-lamborghini-v12-supercar-spy-video.jpg",
-      "publishedAt": "2023-01-18T22:25:00Z",
-      "content": "Lamborghinis Aventador successor will debut soon. A new spy video captures the supercar covered in a thin camouflage wrap, but it also reveals an intricate third brake light for the first time, which… [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Diego Nicolás Argüello",
-      "title": "Destiny 2: Lightfall Is Introducing Multiple Loadouts And Huge Mod Tweaks - GameSpot",
-      "description": "Champion mods, in particular, are getting a long-awaited rework.",
-      "url": "https://www.gamespot.com/articles/destiny-2-lightfall-multiple-loadouts-new-mod-system-announced/1100-6510674/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1814/18142392/4088134-destiny2lightfallmodsrework1.jpg",
-      "publishedAt": "2023-01-18T22:17:49Z",
-      "content": "Destiny 2: Lightfall is only a month away from release, and we're beginning to learn more about what to expect. Developer Bungie has now detailed a rundown of tweaks regarding loadouts, presenting a … [+4751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Cipriani",
-      "title": "This hidden iPhone feature can help you fall asleep faster - ZDNet",
-      "description": "Deep inside your iPhone’s Settings app is a feature that can help lull you to sleep or drown out your neighbor's snoring. You just have to know where to find it.",
-      "url": "https://www.zdnet.com/article/this-hidden-iphone-feature-can-help-you-fall-asleep-faster/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9ffadcd41bfd5cc0bd332b5aadd44c0b6a2baa33/2023/01/17/92a9ef85-caa0-4d2a-bdb2-01ceae9fecd4/background-sounds-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-01-18T22:10:26Z",
-      "content": "Jason Cipriani/ZDNET\r\nThere are plenty of apps available to iPhone users that can play white noise such as crashing waves or a gentle rain, but did you know there's a white noise tool built directly … [+2585 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": null,
-      "title": "Video gamers fight Microsoft bid to block lawsuit over Activision deal - Reuters",
-      "description": "Video game players suing Microsoft Corp over its $69 billion bid to buy \"Call of Duty\" maker Activision Blizzard Inc have asked a U.S. judge to deny the technology giant's effort to pause the consumer antitrust lawsuit pending the resolution of the U.S. Feder…",
-      "url": "https://www.reuters.com/legal/transactional/video-gamers-fight-microsoft-bid-block-lawsuit-over-activision-deal-2023-01-18/",
-      "urlToImage": "https://www.reuters.com/resizer/0VlLbgZssR2p1LkSNjw1rt6VG0k=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6F5ST22I7BPWDF3OWQXFTTYSEQ.jpg",
-      "publishedAt": "2023-01-18T22:08:00Z",
-      "content": "(Reuters) - Video game players suing Microsoft Corp over its $69 billion bid to buy \"Call of Duty\" maker Activision Blizzard Inc have asked a U.S. judge to deny the technology giant's effort to pause… [+2928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sneaker News"
-      },
-      "author": null,
-      "title": "The Nike ISPA Universal Is Akin To Freshly-Discovered Fossils - Sneaker News",
-      "description": "Nike ISPA is known to borrow inspiration from the most atypical of places, every release more unexpected than the last. And while their newest silhouette, the Universal, may feel familiar in its design — which is somewhat reminiscent of clogs, slides, and oth…",
-      "url": "https://sneakernews.com/2023/01/18/nike-ispa-universal-foam-shoes/",
-      "urlToImage": "https://sneakernews.com/wp-content/uploads/2023/01/Nike-ISPA-Universal-00.jpg",
-      "publishedAt": "2023-01-18T22:03:39Z",
-      "content": "Nike ISPA is known to borrow inspiration from the most atypical of places, every release more unexpected than the last. And while their newest silhouette, the Universal, may feel familiar in its desi… [+994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "author": "Matt G. Southern",
-      "title": "Google Removes Embedded Podcasts From Search Results - Search Engine Journal",
-      "description": "Google has removed the ability to listen to podcasts directly from search results, which may indicate a shift to promote podcasts on YouTube.",
-      "url": "https://www.searchenginejournal.com/google-removes-embedded-podcasts-from-search-results/476830/",
-      "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/google-podcasts-63c86bd83486a-sej.png",
-      "publishedAt": "2023-01-18T22:01:38Z",
-      "content": "Google has quietly removed embedded podcasts from search results, which means users will no longer be able to listen to podcast episodes directly from the SERPs.\r\nThis change was first spotted by Pod… [+2488 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Brendan Hesse",
-      "title": "Get 10 Random Steam Games For Only $7 - GameSpot",
-      "description": "There's even a chance to win $1,000 worth of Steam keys.",
-      "url": "https://www.gamespot.com/articles/get-10-random-steam-games-for-only-7/1100-6510672/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4088074-gsmysterystarsbundle.png",
-      "publishedAt": "2023-01-18T21:53:27Z",
-      "content": "The first weeks of the year are often a slow time for new video game releases, but you can add some excitement to your Steam library with Fanaticals Mystery Star Bundle of random PC games for cheap. … [+1517 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jaina Grey",
-      "title": "5 Best Sex Tech Deals From Lelo’s Anniversary Sale: Vibrators, Lube, Condoms - WIRED",
-      "description": "There are discounts on vibrators, lube, and other accessories—it's a great time to stock up for Valentine's Day.",
-      "url": "https://www.wired.com/story/lelo-anniversary-sale-january-2023/",
-      "urlToImage": "https://media.wired.com/photos/63c8686d1628debb3e3ed5f8/191:100/w_1280,c_limit/Lelo-Sona-2-Gear.jpg",
-      "publishedAt": "2023-01-18T21:49:00Z",
-      "content": "If you peruse our Best Sex Toys guide, you'll come across several products from Lelo, but let's be honestthey can be pretty expensive. That's why Lelo's 20th-anniversary sale caught my eye. There are… [+3038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Gabriel Zamora",
-      "title": "Can Your PC Run Forspoken? - PCMag",
-      "description": "On Jan. 24, Square Enix delivers a spell-slinging, action-RPG that requires hefty hardware. See if your PC can handle this open-world adventure.",
-      "url": "https://www.pcmag.com/news/can-your-pc-run-forspoken",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/00fewvUzcgQ4VAZClIhWC94-1.fit_lim.size_1200x630.v1673985138.jpg",
-      "publishedAt": "2023-01-18T21:38:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Chris Bruce",
-      "title": "Jay Leno Gets Behind The Wheel Of A 1971 Ferrari 365 GTS/4 Daytona - Motor1 ",
-      "description": "Jay Leno gets to drive a 1971 Ferrari 365 GTS/4 Daytona Spyder in the latest video from his garage.",
-      "url": "https://www.motor1.com/news/632002/jay-leno-drives-1971-ferrari-365-gts-4-daytona-spyder/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/6ZKqg7/s1/ferrari-daytona-spyder.jpg",
-      "publishedAt": "2023-01-18T21:35:00Z",
-      "content": "Older readers of Motor1.com might look at this 1971 Ferrari 365 GTS/4 Daytona Spyder and immediately think of Don Johnson as Sonny Crockett in the early seasons of Miami Vice. Others probably see one… [+1668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Answering the Call of Duty - TechCrunch",
-      "description": "Johanna Faries is no stranger to the world of games. After a stint at the NFL, she led Activision’s esports leagues (the CDL and the OWL) before taking over ...",
-      "url": "https://www.youtube.com/watch?v=lCQRWj9ufvs",
-      "urlToImage": "https://i.ytimg.com/vi/lCQRWj9ufvs/maxresdefault.jpg",
-      "publishedAt": "2023-01-18T21:34:42Z",
-      "content": null
+      "author": "Erik Kain",
+      "title": "A Major Change Is Coming To Warzone 2’s Gulag - Forbes",
+      "description": "Infinity Ward is listening to the community's complaints.",
+      "url": "https://www.forbes.com/sites/erikkain/2023/01/19/a-major-change-is-coming-to-warzone-2s-gulag/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63c9b485398e44ffaa922d82/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-01-19T21:32:31Z",
+      "content": "The Gulag is changing.\r\nCredit: Activision\r\nBig changes are coming to Warzone 2 next month. After weeks of complaints from the Call Of Duty community, one of the most irritating changes from the orig… [+1739 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Mark Gurman",
-      "title": "Apple to Expand Smart-Home Lineup, Taking On Amazon and Google - Yahoo Finance Australia",
-      "description": "(Bloomberg) -- Apple Inc. is working on a slate of devices aimed at challenging Amazon.com Inc. and Google in the smart-home market, including new displays...",
-      "url": "https://au.finance.yahoo.com/news/apple-expand-smart-home-lineup-213218332.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pBRJXHbnSmrhh8cJD6S8LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/a3cf6c7bed69c6998f2aa077b04e1a47",
-      "publishedAt": "2023-01-18T21:32:18Z",
-      "content": "(Bloomberg) -- Apple Inc. is working on a slate of devices aimed at challenging Amazon.com Inc. and Google in the smart-home market, including new displays and a faster TV set-top box, after relaunch… [+3656 chars]"
+      "author": "CNH Industrial",
+      "title": "CNH Industrial Brand Raven Is Encouraging the Next Generation of Engineers - Yahoo Finance",
+      "description": "CNH Industrial (NYSE:CNHI) brand Raven proactively invests in STEM education because it believes the need is great, and it believes it has excellent...",
+      "url": "https://finance.yahoo.com/news/cnh-industrial-brand-raven-encouraging-213000934.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ccGWv7nbB6kNIEE_TfIwyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/accesswire.ca/5a6fabf4d9c01cb463e8974ab53d2f11",
+      "publishedAt": "2023-01-19T21:30:00Z",
+      "content": "NORTHAMPTON, MA / ACCESSWIRE / January 19, 2023 /CNH Industrial (NYSE:CNHI) brand Raven proactively invests in STEM education because it believes the need is great, and it believes it has excellent o… [+3105 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "ZDNet"
       },
-      "author": "Taylor Martin",
-      "title": "12 Amazon Alexa Tips and Hacks for the Kitchen - CNET",
-      "description": "Your Amazon Echo device can be essential to helping you cook, bake and more.",
-      "url": "https://www.cnet.com/home/smart-home/12-amazon-alexa-tips-and-hacks-for-the-kitchen/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/374185c51beb132c9124a54d7eb75b19d8dfb6bb/hub/2018/11/05/892279f2-64eb-4935-8081-d2c819e354a5/cnet-smart-home-kitchen-coffee-maker-smart-switch-amazon-echo-show-5687.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-01-18T21:30:02Z",
-      "content": "This story is part of Home Tips, CNET's collection of practical advice for getting the most out of your home, inside and out. \r\nWhether you're a cooking novice or seasoned chef, cooking can be daunti… [+8241 chars]"
+      "author": "Michael Gariffo",
+      "title": "How to connect your AirPods to an iPhone (and just about any other device) - ZDNet",
+      "description": "This quick guide details the easy steps required to connect your AirPods (regardless of their generation) and AirPods Pro to your iPhone, Mac, iPad, Windows 10 PCs, and Android phones and tablets.",
+      "url": "https://www.zdnet.com/article/how-to-connect-airpods-to-iphone-and-just-about-any-other-device/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d97971a1d066a6311d10d4ea71ad874e704daa5d/2022/05/13/9da54b2a-cfaf-4e75-9f1f-afefdfcef3c8/airpods-pro-case-open.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-01-19T21:27:44Z",
+      "content": "Apple's AirPods pro. All generation of AirPod and the AirPods pro share the same pairing process.\r\nMichael Gariffo\r\nSo you've got a shiny new pair of AirPods (1st, 2nd, or 3rd gen) or AirPods Pro (1s… [+14411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Computer History Museum Releases Apple Lisa Source Code on 40th Launch Anniversary - MacRumors",
+      "description": "The Computer History Museum located in Mountain View, California, today released the Apple Lisa source code, including its system and applications...",
+      "url": "https://www.macrumors.com/2023/01/19/computer-history-museum-apple-lisa-code/",
+      "urlToImage": "https://images.macrumors.com/t/bwcr-Go33bTWVfCCxotH6kVvhdA=/1800x/article-new/2023/01/apple-lisa-1.jpg",
+      "publishedAt": "2023-01-19T21:26:52Z",
+      "content": "The Computer History Museum located in Mountain View, California, today released the Apple Lisa source code, including its system and applications software. Today happens to be the 40th anniversary o… [+1292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrustedReviews"
+      },
+      "author": "Chris Smith",
+      "title": "How Instagram's new Quiet Mode can help you shut out the din - TrustedReviews",
+      "description": "Instagram has announced a new Quiet Mode that'll encourage people to spend less time scrolling through the app and more time focusing on studying and, | Trusted Reviews",
+      "url": "https://www.trustedreviews.com/news/how-instagrams-new-quiet-mode-can-help-you-shut-out-the-din-4296408",
+      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/01/Screenshot-2023-01-19-at-4.12.08-PM.png",
+      "publishedAt": "2023-01-19T21:25:48Z",
+      "content": "Instagram has announced a new Quiet Mode that’ll encourage people to spend less time scrolling through the app and more time focusing on studying and, erm, driving.\r\nEnabling Quiet Mode will silence … [+1978 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Boston Dynamics’ Atlas robot grows a set of hands, attempts construction work - Ars Technica",
+      "description": "Atlas goes for \"inertially significant\" lifts, learns all about Newton's third law.",
+      "url": "https://arstechnica.com/gadgets/2023/01/boston-dynamics-atlas-robot-grows-a-set-of-hands-attempts-construction-work/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Atlas-760x380.jpg",
+      "publishedAt": "2023-01-19T21:24:17Z",
+      "content": "36 with 0 posters participating\r\n<ul><li>\r\n \"Give 'em the clamps!\" Atlas now has a pair of gripper claws. It also may be time for a new torso cover. \r\n</li><li>\r\n Previous Atlas hands have been flat … [+3224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "7NEWS.com.au"
+      },
+      "author": "AAP",
+      "title": "Apple Maps Australia update: iPhone and Apple Watch app to undergo major changes for cyclists - 7NEWS",
+      "description": "Australia will be just the fourth country in the world to adopt the new feature.",
+      "url": "https://7news.com.au/technology/major-update-to-apple-maps-in-australia-as-cyclists-to-receive-turn-by-turn-directions-c-9503683",
+      "urlToImage": "https://images.7news.com.au/publication/C-9503683/30e3fd97a3d89a4dafd235dbd0fb6361606d168c-16x9-x0y0w2000h1125.png?imwidth=1200",
+      "publishedAt": "2023-01-19T21:20:00Z",
+      "content": "Australian cyclists will get turn-by-turn directions to their destinations - as well as warnings about routes with punishing hills - in a major update to Apples mapping app.\r\nThe tech giant will laun… [+2407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pointe-claire.ca"
+      },
+      "author": "catherine Dorion",
+      "title": "Call for applications: Montréal West Island artist for the Pointe-Claire Public Art Committee - Pointe-Claire",
+      "description": "The City of Pointe-Claire is currently looking for a West Island artist to join its Public Art Committee. This advisory committee’s mandate is to issue recommendations to support the development and promotion of works already present on its territory and to d…",
+      "url": "http://www.pointe-claire.ca/en/news/call-for-applications-montreal-west-island-artist-for-the-pointe-claire-public-art-committee/",
+      "urlToImage": "http://www.pointe-claire.ca/content/uploads/2020/01/comite-dart-public.jpg",
+      "publishedAt": "2023-01-19T21:11:51Z",
+      "content": "The City of Pointe-Claire is currently looking for a West Island artist to join its Public Art Committee. This advisory committees mandate is to issue recommendations to support the development and p… [+1339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamespress.com"
+      },
+      "author": null,
+      "title": "\"Onskull Games: The prologue demo of Escape First Alchemist is available on Steam!\" - Games Press",
+      "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+      "url": "https://www.gamespress.com/Onskull-Games-The-prologue-demo-of-Escape-First-Alchemist-is-available",
+      "urlToImage": null,
+      "publishedAt": "2023-01-19T21:07:58Z",
+      "content": "Greetings! We are a Greek game development studio that specializes in puzzle and escape room games. We have recently released the prologue of our upcoming game, Escape First Alchemist, which is a fre… [+621 chars]"
     },
     {
       "source": {
@@ -203,51 +216,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Huesera: The Bone Woman - Exclusive Trailer (2023) Natalia Solián, Alfonso Dosal - IGN",
-      "description": "Directed by Michelle Garza Cervera, the supernatural Mexican horror feature is led by Natalia Solián as Valeria, a young woman expecting her first child who ...",
-      "url": "https://www.youtube.com/watch?v=9wdbU14ZRAo",
-      "urlToImage": "https://i.ytimg.com/vi/9wdbU14ZRAo/maxresdefault.jpg",
-      "publishedAt": "2023-01-18T21:22:23Z",
+      "title": "Wo Long: Fallen Dynasty: High-Level Superplay with Epic Boss Battle – IGN First - IGN",
+      "description": "Take a look at a playthrough of Wo Long: Fallen Dynasty by one of Team Ninja’s developers of mid-game stage Hulaoguan Pass. Here you'll get a look at what hi...",
+      "url": "https://www.youtube.com/watch?v=yBUEbBrLmXY",
+      "urlToImage": "https://i.ytimg.com/vi/yBUEbBrLmXY/maxresdefault.jpg",
+      "publishedAt": "2023-01-19T21:06:38Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "PRNewswire"
       },
-      "author": "Steven T. Wright",
-      "title": "Ubisoft CEO Apologizes For Controversial All-Hands Email Amid Public Struggles - GameSpot",
-      "description": "Ubisoft boss Yves Guillemot apologized for the phrasing of an internal memo, as the company continues to face an uncertain future.",
-      "url": "https://www.gamespot.com/articles/ubisoft-ceo-apologizes-for-controversial-all-hands-email-amid-public-struggles/1100-6510673/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1596/15969599/4088076-acvalhalla.jpg",
-      "publishedAt": "2023-01-18T21:10:59Z",
-      "content": "Ubisoft, one of the largest video game publishers, has endured a number of highly-publicized roadblocks in recent weeks, especially after the release of disappointing financial results. Now, the comp… [+1987 chars]"
+      "author": null,
+      "title": "COSM STUDIOS RELEASES PRODUCTION OF FULLDOME PLANETARIUM FILM 'BLACK HOLE FIRST PICTURE' - PR Newswire",
+      "description": "/PRNewswire/ -- Cosm, a global leader in experiential media and immersive technology, announced today that its fulldome production and distribution division,...",
+      "url": "https://www.prnewswire.com/news-releases/cosm-studios-releases-production-of-fulldome-planetarium-film-black-hole-first-picture-301726217.html",
+      "urlToImage": null,
+      "publishedAt": "2023-01-19T21:05:00Z",
+      "content": "The 8K film features the human attempt to create the world's first image of a black hole with the Event Horizon Telescope\r\nLOS ANGELES, Jan. 19, 2023 /PRNewswire/ -- Cosm, a global leader in experien… [+4890 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "Wastemanagementreview.com.au"
       },
-      "author": "Mark Coppock",
-      "title": "Asus Zenbook Pro 16X vs. Apple MacBook Pro 16: creator laptop battle - Digital Trends",
-      "description": "The Apple MacBook Pro 16 has enjoyed its place at the top of the heap for creators since its introduction. But the Asus ZenBook Pro 16X is aimed at dethroning it.",
-      "url": "https://www.digitaltrends.com/computing/asus-zenbook-pro-16x-vs-apple-mackbook-pro-16/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/11/macbook-pro-2021-14.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-01-18T21:00:54Z",
-      "content": "Apple’s MacBook Pro 16 is one of the best laptops you can buy today, with an elegant design, beautiful display, outstanding performance, and industry-leading battery life. If you’re a creator, it’s b… [+9360 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Carson Burton",
-      "title": "Report: Ubisoft CEO Apologizes to Employees Over 'Ball in Your Court' Comments - IGN",
-      "description": "Ubisoft CEO Yves Guillemot held a company-wide Q&A on Wednesday, and he was forced to reckon with recent comments he made shifting the blame to the staff.",
-      "url": "https://www.ign.com/articles/report-ubisoft-ceo-apologizes-to-employees-over-ball-in-your-court-comments",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/18/ubisoft-1674075469806.png?width=1280",
-      "publishedAt": "2023-01-18T21:00:27Z",
-      "content": "Ubisoft is facing turbulent times financially and in-house, and CEO Yves Guillemot was forced to reckon with recent comments he made shifting the blame to the staff.\r\nAfter cancelling three unannounc… [+1937 chars]"
+      "author": "Lisa Korycki",
+      "title": "Satellites used to monitor waste sites on Earth - Waste Management Review",
+      "description": "Researchers are using satellites to monitor waste on Earth and reveal sites that may lead plastic into waterways.",
+      "url": "https://wastemanagementreview.com.au/satellites-used-to-monitor-waste-sites-on-earth/",
+      "urlToImage": "https://wastemanagementreview.com.au/wp-content/uploads/2023/01/satellite.jpg",
+      "publishedAt": "2023-01-19T21:00:31Z",
+      "content": "A new computational system uses satellite data to identify sites on land where people dispose of waste, providing a new tool to monitor waste and revealing sites that may lead plastic into waterways.… [+2773 chars]"
     },
     {
       "source": {
@@ -255,11 +255,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Mob Psycho 100 Is The Anime Of The Decade - Kotaku",
-      "description": "Hear me out: Mob Psycho 100 is the anime of the decade. Studio Bones' anime adaptation of Mob Psycho 100 is a strong contender for best anime of the last ten...",
-      "url": "https://www.youtube.com/watch?v=6axRXouB5h8",
-      "urlToImage": "https://i.ytimg.com/vi/6axRXouB5h8/maxresdefault.jpg",
-      "publishedAt": "2023-01-18T21:00:02Z",
+      "title": "Dead Cells: Return to Castlevania - Official Teaser Trailer - IGN",
+      "description": "Get a glimpse at the upcoming Dead Cells: Return to Castlevania DLC in this new teaser trailer showcasing a peek at what awaits in Dracula’s castle, includin...",
+      "url": "https://www.youtube.com/watch?v=9MjMGSmoOxU",
+      "urlToImage": "https://i.ytimg.com/vi/9MjMGSmoOxU/maxresdefault.jpg",
+      "publishedAt": "2023-01-19T21:00:04Z",
       "content": null
     }
   ]
