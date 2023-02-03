@@ -1,214 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 816,
+  "totalResults": 1000,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Carolina Milanesi",
-      "title": "Samsung’s Everyday Sustainability Philosophy Embodied In The New Galaxy S23 - Forbes",
-      "description": "Today, Samsung launched its latest flagship smartphone family and, with it, its renewed effort to make sustainability part of its technological innovation.",
-      "url": "https://www.forbes.com/sites/carolinamilanesi/2023/02/01/samsungs-everyday-sustainability-philosophy-embodied-in-the-new-galaxy-s23/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63dae2d4e3f01841339afec2/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-02-01T22:19:08Z",
-      "content": "SAN FRANCISCO, CA - FEBRUARY 1: Samsung Electronics unveils its latest flagship Galaxy S23 series ... [+] smartphones on February 1, 2023 in San Francisco, California, United States. (Photo by Tayfun… [+6845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Peter",
-      "title": "Samsung Galaxy S23 and Galaxy Book3 series announcement coverage wrap-up - GSMArena.com news - GSMArena.com",
-      "description": "Links to everything you might want to know about the new flagship phones and laptops in one place.",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s23_and_galaxy_book3_series_announcement_coverage_wrapup-news-57413.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/02/samsung-galaxy-s23-series-wrapup/-952x498w6/gsmarena_0000.jpg",
-      "publishedAt": "2023-02-01T22:12:01Z",
-      "content": "The big Unpacked event is over and Samsung unveiled three new S-series flagships, plus the next-generation of Galaxy Book laptops. We have extensive coverage of the event, including some face-to-face… [+443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "New HomePod Delivered to One Lucky Customer Two Days Early - MacRumors",
-      "description": "The second-generation HomePod is set to be released on Friday, February 3, which is the day that pre-orders will be delivered and when the speakers...",
-      "url": "https://www.macrumors.com/2023/02/01/new-homepod-delivered-early/",
-      "urlToImage": "https://images.macrumors.com/t/FlqvP_QzvEpKeyYtP_O83n1PNO4=/2250x/article-new/2023/02/homepod-early-macrumors-reader.jpg",
-      "publishedAt": "2023-02-01T22:09:13Z",
-      "content": "The second-generation HomePod is set to be released on Friday, February 3, which is the day that pre-orders will be delivered and when the speakers will be available for purchase in retail stores. On… [+887 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "Juniper Networks Empowers Partners to Elevate their Juniper Success through New Programs in 2023 - Business Wire",
-      "description": "Juniper Networks, a leader in secure, AI-driven networks, today announced the next evolution of the global Juniper Partner Advantage (JPA) Program. La",
-      "url": "https://www.businesswire.com/news/home/20230201005842/en/Juniper-Networks-Empowers-Partners-to-Elevate-their-Juniper-Success-through-New-Programs-in-2023",
-      "urlToImage": "https://mms.businesswire.com/media/20230201005842/en/1018775/23/Juniper_cmyk_black.jpg",
-      "publishedAt": "2023-02-01T22:05:00Z",
-      "content": "SUNNYVALE, Calif.--(BUSINESS WIRE)--Juniper Networks, a leader in secure, AI-driven networks, today announced the next evolution of the global Juniper Partner Advantage (JPA) Program. Last year Junip… [+4873 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Luis Gutierrez",
-      "title": "WoW Trading Post Introduces A New Way For Players To Buy Items - GameSpot",
-      "description": "The Trading Post will update its inventory monthly.",
-      "url": "https://www.gamespot.com/articles/wow-trading-post-introduces-a-new-way-for-players-to-buy-items/1100-6511091/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4094127-trading_post_.jpg",
-      "publishedAt": "2023-02-01T22:02:08Z",
-      "content": "Blizzard has introduced a new shop called the Trading Post into its MMORPG World of Warcraft. Players can earn new mounts, pets, and gear with the Trading Post.\r\nThe Trading Post will have its own cu… [+1278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "John Archer",
-      "title": "Sky Introduces Four New Sky Glass And Sky Stream Features - Forbes",
-      "description": "The push for personalisation continues",
-      "url": "https://www.forbes.com/sites/johnarcher/2023/02/01/sky-introduces-four-new-sky-glass-and-sky-stream-features/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63dadf374c29e69ad8e6ed8a/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-02-01T21:59:06Z",
-      "content": "Sky has revealed that it will be rolling out a new firmware update to Sky Glass TVs and Sky Stream set top boxes this week that will add four new features to the subscription broadcasters unique and … [+3700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Telstra.com.au"
-      },
-      "author": "Harry Tucker",
-      "title": "Samsung Galaxy S23, S23+ and S23 Ultra features, price and pre-order details - Telstra Exchange",
-      "description": "The new Samsung Galaxy S23, S23+ and S23 Ultra have arrived. Here's what's new, how much they cost and when you can buy one from Telstra.",
-      "url": "https://exchange.telstra.com.au/samsung-galaxy-s23-s23-ultra-pricing-dates/",
-      "urlToImage": "https://exchange.telstra.com.au/wp-content/uploads/2023/02/original-2.jpeg",
-      "publishedAt": "2023-02-01T21:53:52Z",
-      "content": "The epic Samsung Galaxy S23 Series is finally here! And the whole series will be available to pre-order with incredible exclusive bonuses from Telstra today.\r\nThe Galaxy S23 comes in three variants S… [+6131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everyday Health"
-      },
-      "author": null,
-      "title": "What Is Your 'Tweenager' Really Thinking? - Everyday Health",
-      "description": "Family therapist Amanda Craig, PhD, explains that there’s a lot going on in a preteen’s brain that makes this a really critical time of development — and for parenting.",
-      "url": "https://www.everydayhealth.com/emotional-health/whats-your-middle-school-kid-really-thinking/",
-      "urlToImage": "https://images.everydayhealth.com/images/video-whats-really-going-on-in-your-tweens-brain-720.jpg?sfvrsn=806f1f16_1",
-      "publishedAt": "2023-02-01T21:51:55Z",
-      "content": "Parenting during the tween-age years can be tough.\r\nIts the age of adolescence (typically between the ages of 9 and 12) when kids arent necessarily the small children they once were theyre developing… [+6094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Jeffrey Rousseau",
-      "title": "GitHub founder Chris Wanstrath unveils Null Games - GamesIndustry.biz",
-      "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox GitHub founder Chris Wanstrath has launche…",
-      "url": "https://www.gamesindustry.biz/github-founder-chris-wanstrath-unveils-null-games",
-      "urlToImage": "https://assets.reedpopcdn.com/Null-Games.png/BROK/thumbnail/1200x630/Null-Games.png",
-      "publishedAt": "2023-02-01T21:50:25Z",
-      "content": "Sign up for the GI Daily here to get the biggest news straight to your inbox\r\nGitHub founder Chris Wanstrath has launched Null Games, a new video games publisher.\r\nThe company intends to use Wanstrat… [+563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "You Can't Play One Of The Best Dead Space Games In 2023 - Kotaku",
-      "description": "A fantastic gem of a horror game, Dead Space mobile shouldn’t be left for dead by EA",
-      "url": "https://kotaku.com/dead-space-remake-phone-mobile-android-ios-rerelease-1850061662",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e1bca4423cacfb93f3ae94dac75f6230.jpg",
-      "publishedAt": "2023-02-01T21:45:11Z",
-      "content": "The recently released Dead Space remake is a triumph among video game remakes, many of which havent been very well received by fans over the last few years. And as a massive Dead Space fan, Im so dam… [+4849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Preslav Mladenov",
-      "title": "Samsung One UI 5.1 is now official; check out the new features - PhoneArena",
-      "description": "The latest version of One UI now lets you co-edit a document with your friends by using Samsung notes and more",
-      "url": "https://www.phonearena.com/news/Samsung-One-UI-5.1-is-now-official-check-out-the-new-features_id145321",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/145321-wide-two_1200/Samsung-One-UI-5.1-is-now-official-check-out-the-new-features.jpg",
-      "publishedAt": "2023-02-01T21:34:35Z",
+      "title": "The Sims 4: Growing Together launches in March 2023 - GamesHub",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmdhbWVzaHViLmNvbS9uZXdzL25ld3MvdGhlLXNpbXMtNC1ncm93aW5nLXRvZ2V0aGVyLWV4cGFuc2lvbi1wYWNrLXJlbGVhc2UtZGF0ZS1kbGMtaXRlbXMtY2FzLTQwMDQ0L9IBAA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T21:53:52Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "M2 Max 16\" MacBook Pro (2023) Review! Benchmarked, Thermal Tested, & Real-World Use! - AppleInsider",
-      "description": "I put the new 2023 16-inch MacBook Pro through the test, pushing the M2 Max processor and 38-core GPU to their limits with benchmarks, thermal tests, and rea...",
-      "url": "https://www.youtube.com/watch?v=SDU5Lgqi-IY",
-      "urlToImage": "https://i.ytimg.com/vi/SDU5Lgqi-IY/maxresdefault.jpg",
-      "publishedAt": "2023-02-01T21:34:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Now we know how the Galaxy S23's Snapdragon 8 Gen 2 chip differs from the rest - Android Authority",
-      "description": "We knew the Galaxy S23's chip would be an overclocked version of the Snapdragon 8 Gen 2, but we didn't know the details. Until now.",
-      "url": "https://www.androidauthority.com/galaxy-s23-snapdragon-chip-3274987/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-reference-phone-in-hand.jpg",
-      "publishedAt": "2023-02-01T21:34:00Z",
-      "content": "<ul><li>Samsungs latest Galaxy phone has a custom Snapdragon 8 Gen 2 chip.</li><li>The Snapdragon 8 Gen 2 for Galaxy may essentially be what this years Plus variant would have been.</li><li>Users lik… [+1613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Dead Space 2023 - PS5 Options, Settings & Controls (4K HD) - Shacknews",
-      "description": "#Shacknews #Gameplay #deadspace2023 Read Our Review Here: https://www.shacknews.com/article/133858/dead-space-2023-review-scoreHow do you improve upon a mast...",
-      "url": "https://www.youtube.com/watch?v=iROvkm4zrVc",
-      "urlToImage": "https://i.ytimg.com/vi/iROvkm4zrVc/maxresdefault.jpg",
-      "publishedAt": "2023-02-01T21:30:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Elementary OS 7 is now available and it's the same old desktop goodness - ZDNet",
-      "description": "The newly released seventh iteration of the popular Elementary OS is as impressive as you'd expect.",
-      "url": "https://www.zdnet.com/article/elementary-os-7-is-now-available-and-its-the-same-old-desktop-goodness/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d7b2dde74d97057e3b864dc8d3ed67c2eb210a44/2023/01/31/6b8f3c9b-6363-4184-aaaa-707d803cbf90/elementaryos71.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-02-01T21:21:26Z",
-      "content": "Elementary OS 7 builds on everything the previous version did right.\r\nScreenshot by Jack Wallen/ZDNET\r\nOnce upon a time, Elementary OS was my go-to Linux desktop distribution. However, upon purchasin… [+7258 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Julia Lee",
-      "title": "FFXIV Valentione’s Day 2023 event guide - Polygon",
-      "description": "Our guide details where to start FFXIV’s 2023 Valentione’s Day event and get the free outfit and emote.",
-      "url": "https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/2/1/23581794/valentiones-day-2023-quest-location-outfit-emote-emissary-eat-chocolate",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2CbF03RgKMXC3c3cH-hniKw50yw=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24402133/ffxiv_dx11_2023_02_01_14_44_16.jpg",
-      "publishedAt": "2023-02-01T21:06:54Z",
-      "content": "Valentines is in full swing in Final Fantasy 14, with its yearly Valentiones Day event taking place from Feb. 1 until Feb. 15 at 9:59 a.m. EST. As usual, these limited-time rewards are adorable, so y… [+1837 chars]"
     },
     {
       "source": {
@@ -216,51 +21,246 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Samsung predstavil Galaxy S23 - Monitor",
+      "title": "Tech News: 5 Things to Know in Australia Today - Gizmodo Australia",
       "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1vbml0b3Iuc2kvbm92aWNhL3NhbXN1bmctcHJlZHN0YXZpbC1nYWxheHktczIzLzIyMjQ1Ni_SAQA",
-      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "publishedAt": "2023-02-01T21:01:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmdpem1vZG8uY29tLmF1LzIwMjMvMDIvdGVjaC1uZXdzLWF1c3RyYWxpYS01LXRoaW5ncy10by1rbm93LTExNy_SAQA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T21:39:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Spotlight Special",
-      "title": "Netflix to come up with video game adaptations in 2023. See list - Economic Times",
-      "description": "Netflix is set to release several video game adaptations in 2023, including Resident Evil, Tomb Raider and Assassin's Creed. Get ready for a thrilling ride!",
-      "url": "https://economictimes.indiatimes.com/news/international/us/netflix-to-come-up-with-video-game-adaptations-in-2023-see-list/articleshow/97535394.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-97535399,width-1070,height-580,imgsize-10960,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-02-01T21:00:00Z",
-      "content": "Netflix has been investing in creating original content, including video game adaptations, for its viewers. In 2023, the streaming platform is set to release several video game adaptations, which is … [+2227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "EA Kills In-Development Mash-Up Of Titanfall And Apex Legends - Kotaku",
-      "description": "A spin-off, called Titanfall Legends,was apparently canned yesterday amid other EA cuts",
-      "url": "https://kotaku.com/titanfall-3-apex-legends-respawn-ea-cancelled-layoffs-1850061241",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a73dc61352eb6039b95c7fc8239bd805.jpg",
-      "publishedAt": "2023-02-01T20:50:00Z",
-      "content": "Titanfall 2fans have been desperate for something resembling a sequel for years now, and it sounds like Electronic Arts may have just cancelled the next best thing. Bloomberg reports that a project c… [+1863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku Australia"
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "First Team To Clear Challenging New Final Fantasy XIV Raid Gets Caught Cheating - Kotaku Australia",
-      "description": "A Final Fantasy XIV raid team had their world-record achievement revoked after they got caught using tools developer Square Enix...",
-      "url": "https://www.kotaku.com.au/2023/02/first-team-to-clear-challenging-new-final-fantasy-xiv-raid-gets-caught-cheating/",
-      "urlToImage": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2023/02/02/e3a1894978064b0c20fe36453f4f7609.jpg?quality=80&resize=1280,720",
-      "publishedAt": "2023-02-01T20:45:00Z",
-      "content": "A Final Fantasy XIV raid team had their world-record achievement revoked after they got caught using tools developer Square Enix considers a form of cheating. \r\nUnnamed_ , an FFXIV raid team, became … [+4785 chars]"
+      "title": "The Sims 4’s latest expansion gives you even more family options to play God with - Polygon",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIzNTgzNDI3L3NpbXMtNC1ncm93aW5nLXRvZ2V0aGVyLWV4cGFuc2lvbi1wYWNrLXRyYWlsZXItcmVsZWFzZS1kYXRl0gFpaHR0cHM6Ly93d3cucG9seWdvbi5jb20vcGxhdGZvcm0vYW1wLzIzNTgzNDI3L3NpbXMtNC1ncm93aW5nLXRvZ2V0aGVyLWV4cGFuc2lvbi1wYWNrLXRyYWlsZXItcmVsZWFzZS1kYXRl",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T21:30:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Você sabia? Cientistas encontram nova estrutura no cérebro humano - Escola Educação",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vZXNjb2xhZWR1Y2FjYW8uY29tLmJyL25vdmEtZXN0cnV0dXJhLWVuY29udHJhZGEtbm8tY2VyZWJyby_SAQA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T21:25:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "En video | “Un esquema de máxima seguridad”: la petición del abogado de John Poulos - El Colombiano",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVsY29sb21iaWFuby5jb20vY29sb21iaWEvYWJvZ2Fkby1kZS1wb3Vsb3MtcGlkaW8tdW4tZXNxdWVtYS1kZS1tYXhpbWEtc2VndXJpZGFkLUJHMjAyNjYyMTTSAWtodHRwczovL3d3dy5lbGNvbG9tYmlhbm8uY29tL2FtcC9jb2xvbWJpYS9hYm9nYWRvLWRlLXBvdWxvcy1waWRpby11bi1lc3F1ZW1hLWRlLW1heGltYS1zZWd1cmlkYWQtQkcyMDI2NjIxNA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T21:20:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Amazon-Quartalszahlen besser, aber schwacher Ausblick - finanzmarktwelt.de",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZmluYW56bWFya3R3ZWx0LmRlL2FtYXpvbi1xdWFydGFsc3phaGxlbi1iZXNzZXItYWJlci1zY2h3YWNoZXItYXVzYmxpY2stMjYwMDQ3L9IBW2h0dHBzOi8vZmluYW56bWFya3R3ZWx0LmRlL2FtYXpvbi1xdWFydGFsc3phaGxlbi1iZXNzZXItYWJlci1zY2h3YWNoZXItYXVzYmxpY2stMjYwMDQ3Lz9hbXA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T21:13:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Con optimismo tras la decisión de la Fed, las tecnológicas impulsaron a Wall Street a cerrar con ganancias - Infobae America",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2VldXUvMjAyMy8wMi8wMi9jb24tb3B0aW1pc21vLXRyYXMtbGEtZGVjaXNpb24tZGUtbGEtZmVkLWxhcy10ZWNub2xvZ2ljYXMtaW1wdWxzYXJvbi1hLXdhbGwtc3RyZWV0LWEtY2VycmFyLWNvbi1nYW5hbmNpYXMv0gGuAWh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvZWV1dS8yMDIzLzAyLzAyL2Nvbi1vcHRpbWlzbW8tdHJhcy1sYS1kZWNpc2lvbi1kZS1sYS1mZWQtbGFzLXRlY25vbG9naWNhcy1pbXB1bHNhcm9uLWEtd2FsbC1zdHJlZXQtYS1jZXJyYXItY29uLWdhbmFuY2lhcy8_b3V0cHV0VHlwZT1hbXAtdHlwZQ",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T21:05:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Google are banning 12 dangerous Android apps as millions urged to delete them immediately - Daily Record",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CCAiC18wRHJpNlh3Q0owmAEB",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T21:00:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Steam: Valve bringt Steam-OS-Oberfläche für den Desktop-Client - ComputerBase",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNvbXB1dGVyYmFzZS5kZS8yMDIzLTAyL3N0ZWFtLXZhbHZlLWJyaW5ndC1zdGVhbS1vcy1vYmVyZmxhZWNoZS1mdWVyLWRlbi1kZXNrdG9wLWNsaWVudC_SAQA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T20:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Proteção à prova d'água de aparelhos eletrônicos de fato funciona? - Multiverso Notícias",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vbXVsdGl2ZXJzb25vdGljaWFzLmNvbS5ici9wcm90ZWNhby1hLXByb3ZhLWRhZ3VhLWZ1bmNpb25hLXJlYWxtZW50ZS1mdW5jaW9uYS_SAQA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:23:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "WhatsApp: receba as notícias do Correio Braziliense direto no celular; é de graça - Correio Braziliense",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5jb3JyZWlvYnJhemlsaWVuc2UuY29tLmJyL2NpZGFkZXMtZGYvMjAyMy8wMi81MDcwOTE3LXdoYXRzYXBwLXJlY2ViYS1hcy1ub3RpY2lhcy1kby1jb3JyZWlvLWJyYXppbGllbnNlLWRpcmV0by1uby1jZWx1bGFyLWUtZGUtZ3JhY2EuaHRtbNIBAA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:23:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "سعر جوال iPhone 13 Pro Max في السعودية.. جوكر الايفون الرائع بمواصفات مثالية - عرب فايف",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMi5wJodHRwczovL3d3dy5hcmFiZml2ZS5uZXdzLzE0MTMzOS8yMDIzLzAyLzAyLyVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQUMlRDklODglRDglQTclRDklODQtaXBob25lLTEzLXByby1tYXgtJUQ5JTgxJUQ5JThBLSVEOCVBNyVEOSU4NCVEOCVCMyVEOCVCOSVEOSU4OCVEOCVBRiVEOSU4QSVEOCVBOS0lRDglQUMlRDklODglRDklODMlRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JThBJUQ5JTgxJUQ5JTg4JUQ5JTg2LSVEOCVBNyVEOSU4NCVEOCVCMSVEOCVBNyVEOCVBNiVEOCVCOS0lRDglQTglRDklODUlRDklODglRDglQTclRDglQjUlRDklODElRDglQTclRDglQUEtJUQ5JTg1JUQ4JUFCJUQ4JUE3JUQ5JTg0JUQ5JThBJUQ4JUE5L9IBAA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:19:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Deliver Us Mars - Launch Trailer | PS5 & PS4 - PlayStation Universe",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CCAiC3BUUXBGQ1R4YlFvmAEB",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:15:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "GA-ASI Flight Tests LEO SATCOM on MQ-9A - Financial Post",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vZ2xvYmUtbmV3c3dpcmUvZ2EtYXNpLWZsaWdodC10ZXN0cy1sZW8tc2F0Y29tLW9uLW1xLTlh0gF-aHR0cHM6Ly9maW5hbmNpYWxwb3N0LmNvbS9nbG9iZS1uZXdzd2lyZS9nYS1hc2ktZmxpZ2h0LXRlc3RzLWxlby1zYXRjb20tb24tbXEtOWEvd2NtL2ExOWQ2MWM1LTEwYTQtNDIwMi05OGU4LTMzNzZhYTg2ZmE5NS9hbXAv",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:07:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Após depoimento, Valdemar Costa Neto entrega celular para a PF - UOL Confere",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL25vdGljaWFzLnVvbC5jb20uYnIvY29sdW5hcy9qdWxpYW5hLWRhbC1waXZhLzIwMjMvMDIvMDIvYXBvcy1kZXBvaW1lbnRvLXZhbGRlbWFyLWNvc3RhLW5ldG8tZW50cmVnYS1jZWx1bGFyLXBhcmEtYS1wZi5odG3SAQA",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T20:06:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "JBS pagou segundo maior resgate com Bitcoin da história após ataque hacker, mostra relatório - InfoMoney",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL2picy1wYWdvdS1zZWd1bmRvLW1haW9yLXJlc2dhdGUtY29tLWJpdGNvaW4tZGEtaGlzdG9yaWEtYXBvcy1hdGFxdWUtaGFja2VyLW1vc3RyYS1yZWxhdG9yaW8v0gGGAWh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvbWVyY2Fkb3MvamJzLXBhZ291LXNlZ3VuZG8tbWFpb3ItcmVzZ2F0ZS1jb20tYml0Y29pbi1kYS1oaXN0b3JpYS1hcG9zLWF0YXF1ZS1oYWNrZXItbW9zdHJhLXJlbGF0b3Jpby9hbXAv",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T20:03:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "TM Roh, presidente de Samsung Mobile: “Seguiremos con la política de colaboración abierta, es lo que quieren los clientes” - Infobae America",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9lY29ub21pYS8yMDIzLzAyLzAyL3RtLXJvaC1wcmVzaWRlbnRlLWRlLXNhbXN1bmctbW9iaWxlLXNlZ3VpcmVtb3MtY29uLWxhLXBvbGl0aWNhLWRlLWNvbGFib3JhY2lvbi1hYmllcnRhLWVzLWxvLXF1ZS1xdWllcmVuLWxvcy1jbGllbnRlcy_SAbYBaHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vZWNvbm9taWEvMjAyMy8wMi8wMi90bS1yb2gtcHJlc2lkZW50ZS1kZS1zYW1zdW5nLW1vYmlsZS1zZWd1aXJlbW9zLWNvbi1sYS1wb2xpdGljYS1kZS1jb2xhYm9yYWNpb24tYWJpZXJ0YS1lcy1sby1xdWUtcXVpZXJlbi1sb3MtY2xpZW50ZXMvP291dHB1dFR5cGU9YW1wLXR5cGU",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T19:55:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Ходорковски, а не властта в Русия, е поканен на Мюнхенската конференция по сигурността - ДНЕВНИК",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRuZXZuaWsuYmcvc3ZpYXQvdm9pbmF0YV92X3VrcmFpbmEvMjAyMy8wMi8wMi80NDQ1NjcyX2hvZG9ya292c2tpX2FfbmVfdmxhc3R0YV92X3J1c2lpYV9lX3Bva2FuZW5fbmEv0gFyaHR0cHM6Ly9tLmRuZXZuaWsuYmcvc3ZpYXQvdm9pbmF0YV92X3VrcmFpbmEvMjAyMy8wMi8wMi80NDQ1NjcyX2hvZG9ya292c2tpX2FfbmVfdmxhc3R0YV92X3J1c2lpYV9lX3Bva2FuZW5fbmEvYW1w",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T19:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Trucos para tener un internet en casa con excelente velocidad - Revista Semana",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnNlbWFuYS5jb20vdGVjbm9sb2dpYS9hcnRpY3Vsby90cnVjb3MtcGFyYS10ZW5lci11bi1pbnRlcm5ldC1lbi1jYXNhLWNvbi1leGNlbGVudGUtdmVsb2NpZGFkLzIwMjM0Mi_SAXRodHRwczovL3d3dy5zZW1hbmEuY29tL2FtcC90ZWNub2xvZ2lhL2FydGljdWxvL3RydWNvcy1wYXJhLXRlbmVyLXVuLWludGVybmV0LWVuLWNhc2EtY29uLWV4Y2VsZW50ZS12ZWxvY2lkYWQvMjAyMzQyLw",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "publishedAt": "2023-02-02T19:41:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Dona do ChatGPT lança ferramenta 'imperfeita' para detectar texto gerado por Inteligência Artificial - Brasil 247",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5icmFzaWwyNDcuY29tL21pZGlhL2RvbmEtZG8tY2hhdGdwdC1sYW5jYS1mZXJyYW1lbnRhLWltcGVyZmVpdGEtcGFyYS1kZXRlY3Rhci10ZXh0by1nZXJhZG8tcG9yLWludGVsaWdlbmNpYS1hcnRpZmljaWFs0gGGAWh0dHBzOi8vd3d3LmJyYXNpbDI0Ny5jb20vbWlkaWEvZG9uYS1kby1jaGF0Z3B0LWxhbmNhLWZlcnJhbWVudGEtaW1wZXJmZWl0YS1wYXJhLWRldGVjdGFyLXRleHRvLWdlcmFkby1wb3ItaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWw_YW1w",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2023-02-02T19:41:00Z",
+      "content": null
     }
   ]
 }
