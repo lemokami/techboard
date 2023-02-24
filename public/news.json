@@ -1,149 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 836,
+  "totalResults": 825,
   "articles": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "PhoneArena"
       },
-      "author": "Gerrit De Vynck",
-      "title": "Microsoft starts reversing Bing's AI chatbot restrictions - The Washington Post",
-      "description": "Microsoft put limits on its chatbot after it acted bizarre in conversations. It's already backpedaling on those limits after some users complained.",
-      "url": "https://www.washingtonpost.com/technology/2023/02/21/microsoft-bing-ai-chatbot/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6TI3ZQ455PSVIQCWBZDVU5BME.JPG&w=1440",
-      "publishedAt": "2023-02-22T00:17:15Z",
-      "content": "Comment on this story\r\nMicrosoft is backpedaling on the restrictions it imposed on its Bing artificial intelligence chatbot after early users of the tech got it to engage in bizarre and troubling con… [+2506 chars]"
+      "author": "Alan Friedman",
+      "title": "Update to Bixby allows some users to create a custom wake phrase, use Text Call in English, and more - PhoneArena",
+      "description": "Samsung announced a major update for Bixby that adds some cool features to the digital assistant.",
+      "url": "https://www.phonearena.com/news/bixby-gets-major-update_id145783",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/145783-wide-two_1200/Update-to-Bixby-allows-some-users-to-create-a-custom-wake-phrase-use-Text-Call-in-English-and-more.jpg",
+      "publishedAt": "2023-02-23T00:18:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Tiktok is coming to cars, starting with Mercedes-Benz - TechCrunch",
+      "description": "Tiktok is coming to vehicles, starting with the new Mercedes-Benz E-Class that's coming to market in fall 2023.",
+      "url": "https://techcrunch.com/2023/02/22/tiktok-is-coming-to-cars-starting-with-mercedes-benz/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/tiktok-mercedes.jpg?resize=1200,675",
+      "publishedAt": "2023-02-23T00:17:42Z",
+      "content": "TikTok, the social media app, is everywhere it seems. It’s even making its way into vehicles, starting with the new Mercedes-Benz E-Class that’s coming to market in fall 2023.\r\nThe Mercedes-Benz E-Cl… [+2552 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "9News"
       },
-      "author": "Ivan",
-      "title": "Motorola ThinkPhone in for review - GSMArena.com news - GSMArena.com",
-      "description": "Motorola's phone take on Lenovo's ThinkPad is surprisingly good.",
-      "url": "https://www.gsmarena.com/motorola_thinkphone_in_for_review-news-57639.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/02/motorola-thinkphone-ifr/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-02-22T00:02:02Z",
-      "content": "Say hello to the Motorola ThinkPhone or as some call it - the Lenovo ThinkPhone by Motorola - we won't though.\r\nIt's clearly a Motorola phone but the ThinkPad-styling is also evident. Underneath the … [+1912 chars]"
+      "author": "CNN",
+      "title": "New Mercedes will let you take Zoom calls, do TikToks without a phone - 9News",
+      "description": "<p>For those who have ever felt the urge to whip off a TikTok video from inside their car, Mercedes-Benz owners will be able to do that from inside the 2024 E-class without even having get out their phones.</p>",
+      "url": "https://www.9news.com.au/world/mercedes-2024-e-class-to-have-tiktok-zoom-call-functions-built-in/c604ee22-4dae-4eee-926b-88e8ebe6ae33",
+      "urlToImage": "https://imageresizer.static9.net.au/cr7X2Pq6UkJ9iC1GSJaClpKjPwI=/0x65:2000x1190/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F9365381b-ce39-4123-b299-52edb277b3db",
+      "publishedAt": "2023-02-23T00:07:44Z",
+      "content": "Auto news: 2022 Maserati SUV lineup due by the end of the year  - drive.com.au"
     },
     {
       "source": {
         "id": null,
-        "name": "Australiangolfdigest.com.au"
+        "name": "SpaceNews"
       },
-      "author": "Erin Rollestone",
-      "title": "2023 Equipment guide: Ping - Australian Golf Digest",
-      "description": "Ping G430 Max & SFT drivers In the new drivers, Ping’s engineering team developed several new technologies common to all three models while applying specific advancements to each individual head, producing measurable ball-speed gains while improving sound thr…",
-      "url": "https://www.australiangolfdigest.com.au/2023-equipment-guide-ping/",
-      "urlToImage": "https://australiangolfdigest.com.au/wp-content/uploads/2023/02/Ping.jpg",
-      "publishedAt": "2023-02-21T23:44:28Z",
-      "content": "Ping G430 Max &amp; SFT drivers\r\nIn the new drivers, Pings engineering team developed several new technologies common to all three models while applying specific advancements to each individual head,… [+3314 chars]"
+      "author": "Jason Rainbow",
+      "title": "SAR solutions provider Asterra in talks for first satellite - SpaceNews",
+      "description": "Israeli geospatial analytics firm Asterra is considering ordering its own satellite as it struggles to compete with government agencies for images, an executive said Feb. 22.",
+      "url": "https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2023/02/SpaceCom-panel-scaled.jpg",
+      "publishedAt": "2023-02-23T00:04:33Z",
+      "content": "ORLANDO, Fla. Israeli geospatial analytics firm Asterra is considering ordering its own satellite as it struggles to compete with government agencies for images, an executive said Feb. 22.\r\nSpeaking … [+2389 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Decrypt"
+        "name": "Kotaku"
       },
-      "author": "Andrew Hayward",
-      "title": "Ubisoft Continues Web3 Push With Rabbids NFTs in The Sandbox - Decrypt",
-      "description": "The Assassin’s Creed publisher is still building in Web3, adding Rabbids NFT avatars to its growing pile of crypto industry moves.",
-      "url": "https://decrypt.co/121872/ubisoft-rabbids-nfts-sandbox",
-      "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/rabbids-sandbox-gID_4.jpeg@png",
-      "publishedAt": "2023-02-21T23:43:36Z",
-      "content": "Ubisoft was the first major video game publisher to release in-game NFT items with Ghost Recon Breakpoint in December 2021and while the reception was decidedly mixed, the firm has continued to make m… [+3952 chars]"
+      "author": "Luke Plunkett",
+      "title": "Sega's Iconic Akihabara Arcade is Being Taken Over By A Rival - Kotaku",
+      "description": "The arcade, which closed a few years back, will reopen as a Bandai Namco joint",
+      "url": "https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/def6ce0a4705cf8ce34a3f45adfbbb9a.png",
+      "publishedAt": "2023-02-23T00:00:00Z",
+      "content": "For a very long time, Segas big arcades were a mainstay of the Akihabara skyline, and some of the main attractions for anyone making a gaming-related pilgrimage through the streets of Tokyo.\r\nSadly t… [+1502 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Biometric Update"
+        "name": "Digital Trends"
       },
-      "author": "Chris Burt",
-      "title": "IDloop develops 3D fingerprint scanner with microscopic resolution, joins accelerator - Biometric Update",
-      "description": "Germany-based IDloop has developed a contactless 3D fingerprint scanner that it says is the first of its kind with microscopic resolution.",
-      "url": "https://www.biometricupdate.com/202302/idloop-develops-3d-fingerprint-scanner-with-microscopic-resolution-joins-accelerator",
-      "urlToImage": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/08130132/digital-identity-fingerprint-scaled.jpg",
-      "publishedAt": "2023-02-21T23:41:00Z",
-      "content": "Germany-based IDloop has developed a contactless 3D fingerprint scanner that it says is the first of its kind with microscopic resolution.\r\nThe company pitches its new biometric technology as a way t… [+1796 chars]"
+      "author": "Tomas Franzese",
+      "title": "How to find PlayStation VR2 games on the PS5’s PlayStation Store - Digital Trends",
+      "description": "Searching for PSVR2 games manually on the PlayStation Store is a little more complicated than it might seem. Here's how to buy some new PSVR2 games.",
+      "url": "https://www.digitaltrends.com/gaming/how-to-find-playstation-vr2-games-ps5-playstation-store/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/02/List-of-PlayStationVR2-launch-window-games.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-02-22T23:51:06Z",
+      "content": "PlayStation VR2 is out now, and many of us are trying out the headset for the first time. If you didn’t buy the Horizon Call of the Mountain bundle, you’ll need to buy some games for the headset on t… [+2936 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Australiangolfdigest.com.au"
+        "name": "YouTube"
       },
-      "author": "Erin Rollestone",
-      "title": "2023 Equipment guide: Srixon - Australian Golf Digest",
-      "description": "Srixon ZX MkII ZX MkII irons are a culmination of fast and pure. A pure feeling at impact, for pure strikes, and a pure sound. With tech-driven ball speed in every number, energisingevery shot. ZX7 Mk II irons – $239 (steel) / $269 (graphite) ZX5 Mk II irons …",
-      "url": "https://www.australiangolfdigest.com.au/2023-equipment-guide-srixon/",
-      "urlToImage": "https://australiangolfdigest.com.au/wp-content/uploads/2023/02/SrixonLogo.jpg",
-      "publishedAt": "2023-02-21T23:38:17Z",
-      "content": "Srixon ZX MkII\r\nZX MkII irons are a culmination of fast and pure. A pure feeling at impact, for pure strikes, and a pure sound. With tech-driven ball speed in every number, energisingevery shot.\r\nZX7… [+1308 chars]"
+      "author": null,
+      "title": "Dexcom drops on report that Apple has made glucose tracking breakthrough - CNBC Television",
+      "description": "A new breakthrough by Apple could be bad news for medical device company Dexcom. With CNBC's Melissa Lee and the Fast Money traders, Karen Finerman, Dan Nath...",
+      "url": "https://www.youtube.com/watch?v=5mj-ceYFSD8",
+      "urlToImage": "https://i.ytimg.com/vi/5mj-ceYFSD8/maxresdefault.jpg",
+      "publishedAt": "2023-02-22T23:47:16Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Space Ref"
+        "name": "Aviation Week"
       },
-      "author": "Keith Cowing",
-      "title": "A Parker Solar Probe Instrument Is Temporarily Offline - Space Ref",
-      "description": "An instrument on NASA’s Parker Solar Probe was powered off by the spacecraft autonomy system on Feb. 12.",
-      "url": "https://spaceref.com/science-and-exploration/a-parker-solar-probe-instrument-is-temporarily-offline/",
-      "urlToImage": "https://media2.spaceref.com/wp-content/uploads/2022/12/30122401/ParkerSolar.jpg",
-      "publishedAt": "2023-02-21T23:29:54Z",
-      "content": "An instrument on NASAs Parker Solar Probe was powered off by the spacecraft autonomy system on Feb. 12.\r\nIt happened during the application of an approved flight software patch to the Energetic Parti… [+579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameshub.com"
-      },
-      "author": "Leah J. Williams",
-      "title": "PlayStation announces new State of Play for February 2023 - GamesHub",
-      "description": "PlayStation has announced a new State of Play showcase for February 2023 that will spotlight PS VR2, and the upcoming Suicide Squad game.",
-      "url": "https://www.gameshub.com/news/news/playstation-state-of-play-february-2023-times-2607622/",
-      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/03/suicide-squad-kill-the-justice-league.jpg",
-      "publishedAt": "2023-02-21T23:29:45Z",
-      "content": "PlayStation has announced a new State of Play showcase for 23 February 2023, promising new looks at the PlayStation VR2 and its lineup of VR games, as well as a deep dive into Rocksteady Studios’ Sui… [+1548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "author": "Roger Montti",
-      "title": "Google February 2023 Product Reviews Update - Search Engine Journal",
-      "description": "Google's February 2023 Product Reviews Update announced. It will take about two weeks to roll out. Product reviews update guidance also updated",
-      "url": "https://www.searchenginejournal.com/google-february-2023-product-reviews-update/480580/",
-      "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2023/02/google-product-reviews-update-02-2023-63f5524243d7f-sej.jpg",
-      "publishedAt": "2023-02-21T23:27:44Z",
-      "content": "Google announced the release of the February 2023 Product Reviews Update. The update applies globally to eleven languages and will take approximately two weeks to fully roll out.\r\nChange to Product R… [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Arif Bacchus",
-      "title": "Newest Windows 11 22H2 Release Preview build brings many big features - XDA Developers",
-      "description": "This fresh Release Preview build is bringing over many features previously tested in the Dev and Beta channels of the Windows Insider program.",
-      "url": "https://www.xda-developers.com/release-preview-build-new-features-windows-11-22h2/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/11/windows-11-hero-page.jpg",
-      "publishedAt": "2023-02-21T23:27:00Z",
-      "content": "Microsoft is kicking off the week with a big treat for Windows Insiders. Just released is a new Release Preview Channel build for those running Windows 11 22H2. This build is one of the biggest yet, … [+9303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Alex Alderson",
-      "title": "Xiaomi Pad 5 gets MIUI 14 and Android 13 with performance improvements, novelties and other refinements - Notebookcheck.net",
-      "description": "Xiaomi has started rolling out a major update to the Pad 5, one it’s most popular tablets. Not only has the tablet received MIUI 14, but it has also received Android 13. Android 13 and MIUI 14 bring several new features to the Xiaomi Pad 5, such as new widget…",
-      "url": "https://www.notebookcheck.net/Xiaomi-Pad-5-gets-MIUI-14-and-Android-13-with-performance-improvements-novelties-and-other-refinements.696441.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitledxiaomipad5.jpg",
-      "publishedAt": "2023-02-21T23:17:14Z",
-      "content": "Xiaomi may have unveiled MIUI 14 in mid-December, but it has taken a while for the company to bring the update to many devices. For example, Xiaomi has still not announced a global rollout yet, despi… [+914 chars]"
+      "author": null,
+      "title": "Enstrom And MD Plot Return To The Rotorcraft Market - Aviation Week",
+      "description": "New CEOs of both Enstrom and MD Helicopters can forge a new niche in the rotorcraft market for their companies.",
+      "url": "https://aviationweek.com/business-aviation/aircraft-propulsion/enstrom-md-plot-return-rotorcraft-market",
+      "urlToImage": "https://aviationweek.com/sites/default/files/2023-02/hai-usoems-1_md_helicopters_promo.jpg",
+      "publishedAt": "2023-02-22T23:05:23Z",
+      "content": "Enstrom And MD Plot Return To The Rotorcraft Market is available to both Aviation Week &amp; Space Technology and AWIN subscribers.\r\nSubscribe now to read this content, plus receive critical analysis… [+226 chars]"
     },
     {
       "source": {
@@ -151,64 +112,51 @@
         "name": "Android Police"
       },
       "author": "Dallas Thomas",
-      "title": "Google Messages finally seems to be getting comfortable calling RCS what it is - Android Police",
-      "description": "Chat features are being rebranded",
-      "url": "https://www.androidpolice.com/google-messages-calling-chat-rcs/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/rcs-chats-settings-hero.jpg",
-      "publishedAt": "2023-02-21T23:08:00Z",
-      "content": "Google is never satisfied with its messaging clients — it seems like when the company isn't busy killing off one messenger service to replace it with another, it's renaming apps and features. This dr… [+1754 chars]"
+      "title": "YouTube's latest test threatens to downgrade video quality if you don't pay up - Android Police",
+      "description": "A new 1080p Premium tier has shown up for some users",
+      "url": "https://www.androidpolice.com/youtube-1080p-premium-bitrate/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/youtube-hero-2022.jpg",
+      "publishedAt": "2023-02-22T22:55:00Z",
+      "content": "With ad tracking facing intense scrutiny in courts around the globe, tech companies are looking to subscription models as a way to make up for lost revenue. Twitter has recently tried multiple differ… [+2089 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "AppleInsider"
       },
-      "author": "Brandon Vigliarolo",
-      "title": "Apple: No more sneak-peek previews of iOS unless you pay for the privilege - The Register",
-      "description": "iGiant shuts dev beta loophole",
-      "url": "https://www.theregister.com/2023/02/21/apple_ios_developer_loophole/",
-      "urlToImage": "https://regmedia.co.uk/2022/01/28/apple_shutterstock.jpg",
-      "publishedAt": "2023-02-21T23:04:00Z",
-      "content": "Sorry, early adopters, cash-strapped developers or anyone else that wants to test developer builds of iOS and iPadOS before public betas are available the latest beta is doing away with configuration… [+2900 chars]"
+      "author": "Wesley Hilliard",
+      "title": "iPhone 15 display & USB-C port shown off in leaked photos - AppleInsider",
+      "description": "An accurate leaker has shared supposed photos of the base-model iPhone 15 display with Dynamic Island cutout and USB-C port.",
+      "url": "https://appleinsider.com/articles/23/02/22/iphone-15-display-usb-c-port-shown-off-in-leaked-photos",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/53153-106497-iPhoen-14-Pro-Dynanmic-Island-Voice-Memoes-xl.jpg",
+      "publishedAt": "2023-02-22T22:50:26Z",
+      "content": "iPhone 15 to gain the Dynamic Island\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAn accurate leaker has shared supposed photos of the base-model iPhon… [+1379 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "New York Post"
       },
-      "author": "Kyle Hyatt",
-      "title": "2024 BMW X5M Competition and X6M Competition Specs and Pricing - Jalopnik",
-      "description": "With more than 600 hp on tap from a 4.4-liter turbo V8 and some of the best looks in the BMW lineup, the new X5M and X6M seem mighty promising.",
-      "url": "https://jalopnik.com/2024-bmw-x5m-competition-x6m-competition-specs-pricing-1850129353",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fc27a3fb1a373822026f72f76540f2a4.jpg",
-      "publishedAt": "2023-02-21T23:01:00Z",
-      "content": "The 2024 BMW X5 (and, by extension, the X6) looks pretty promising. It skips BMWs latest tradition of confrontational styling touches on the exterior, which is a good thing. And on the inside, its do… [+1974 chars]"
+      "author": "Jeanette Settembre",
+      "title": "Why NYC diners hate kids at restaurants: 'The suburbs is for that' - New York Post ",
+      "description": "If you require chicken nuggets, maybe you shouldn’t be eating out.",
+      "url": "https://nypost.com/2023/02/22/nyc-diners-are-fed-up-with-kids-at-nice-restaurants/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/kids-at-restaurants.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-02-22T22:50:00Z",
+      "content": "On a Friday around 8 p.m. in the West Village, Julia Foster and her boyfriend, Brandon, were just about to indulge in a bottle of Cabernet Sauvignon in the candlelit dining room of Via Carota. The co… [+4740 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bmwgroup.com"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "The new BMW X5 M Competition and the new BMW X6 M Competition. - BMW Press",
-      "description": "BMW M GmbH has set about honing the profile of its high-performance cars in the luxury Sports Activity Vehicle and Sports Activity Coupé segments with extensive modifications in terms of performance, presence and digitalisation. The new BMW X5 M Competition (…",
-      "url": "https://www.press.bmwgroup.com/global/article/detail/T0409039EN/the-new-bmw-x5-m-competition-and-the-new-bmw-x6-m-competition?language=en",
-      "urlToImage": "https://mediapool.bmwgroup.com/cache/P9/202302/P90495452/P90495452-the-new-bmw-x5-m-competition-and-the-new-bmw-x6-m-competition-on-location-02-2023-2250px.jpg",
-      "publishedAt": "2023-02-21T23:01:00Z",
-      "content": "The drive system upgrades and electrification result in even more\r\n responsive power delivery. Fresh design accents emphasise the dynamic\r\n and extravagant aura of both models. Digital technology not… [+10170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Microsoft prepares for E.U. negotiations over Activision acquisition, anti-trust concerns - Yahoo Finance",
-      "description": "#Microsoft #Activision #youtube Yahoo Finance tech editor Dan Howley joins Yahoo Finance Live anchors  to discuss the latest negotiations over Microsoft's pr...",
-      "url": "https://www.youtube.com/watch?v=kFdLZkGl-u0",
-      "urlToImage": "https://i.ytimg.com/vi/kFdLZkGl-u0/maxresdefault.jpg",
-      "publishedAt": "2023-02-21T23:00:52Z",
-      "content": null
+      "author": "Matt Wales",
+      "title": "Impressive Half-Life 1 ray tracing mod now available to download - Eurogamer.net",
+      "description": "Half-Life: Ray Traced, a new mod adding hardware accelerated ray tracing to Valve's seminal first-person shooter, is no…",
+      "url": "https://www.eurogamer.net/impressive-half-life-1-ray-tracing-mod-now-available-to-download",
+      "urlToImage": "https://assets.reedpopcdn.com/half-life-ray-tracing.jpg/BROK/thumbnail/1200x630/half-life-ray-tracing.jpg",
+      "publishedAt": "2023-02-22T22:42:55Z",
+      "content": "Half-Life: Ray Traced, a new mod adding hardware accelerated ray tracing to Valve's seminal first-person shooter, is now available to download following its reveal last summer.\r\nHalf-Life: Ray Traced… [+1148 chars]"
     },
     {
       "source": {
@@ -216,51 +164,103 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Official Suicide Squad Game Details Finally Incoming | GameSpot News - GameSpot",
-      "description": "This week's PlayStation State of Play will finally reveal with Suicide Squad: Kill the Justice League actually is, more launch games coming to PSVR2, Xbox Ga...",
-      "url": "https://www.youtube.com/watch?v=siaWsItgmcY",
-      "urlToImage": "https://i.ytimg.com/vi/siaWsItgmcY/maxresdefault.jpg",
-      "publishedAt": "2023-02-21T23:00:23Z",
+      "title": "PlayStation State of Play: PSVR 2 Reveals and Suicide Squad Gameplay - Game Freaks 365",
+      "description": "The latest State of Play focuses on PlayStation VR 2 game reveals and Suicide Squad: Kill the Justice League gameplay. More details at https://gamefreaks365....",
+      "url": "https://www.youtube.com/watch?v=JwpD4bVJJrU",
+      "urlToImage": "https://i.ytimg.com/vi/JwpD4bVJJrU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXSg9MA8=&rs=AOn4CLDBQb6hJDIVV4IGovK4puOR-zddWQ",
+      "publishedAt": "2023-02-22T22:30:08Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "KERA News"
+        "name": "SpaceNews"
       },
-      "author": "Laura Kwerel",
-      "title": "She found herself cornered in a train station. Then a stranger came to her aid - KERA News",
-      "description": "Cynthia Page was alone in a train station trying to get home from New York City when men surrounded her. She was frightened until another man came and helped her get away from those circling her.",
-      "url": "https://www.keranews.org/2023-02-21/she-found-herself-cornered-in-a-train-station-then-a-stranger-came-to-her-aid",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/73a7e99/2147483647/strip/true/crop/2307x1211+0+259/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F20%2Fcynthia-page-7eb4a29feedf7d38195278b8bc084e6d092b3093.jpg",
-      "publishedAt": "2023-02-21T23:00:03Z",
-      "content": "This story is part of the My Unsung Hero series, from the Hidden Brain team, about people whose kindness left a lasting impression on someone else.\r\nIn the 1970s, Cynthia Page was a young copywriter … [+1754 chars]"
+      "author": "Sandra Erwin",
+      "title": "The future of Starship includes national security missions - SpaceNews",
+      "description": "As SpaceX prepares to attempt Starship’s first orbital flight, the company is contemplating military applications for the super-heavy launch vehicle.",
+      "url": "https://spacenews.com/the-future-of-starship-includes-national-security-missions/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2023/02/52646538061_e51638f20d_k.jpg",
+      "publishedAt": "2023-02-22T22:27:56Z",
+      "content": "ORLANDO As SpaceX prepares to attempt Starships first orbital flight, the company is contemplating military applications for the super-heavy launch vehicle.\r\nStarship holds the potential to become a … [+4572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "NASA"
       },
-      "author": "Adam Benjamin",
-      "title": "Try Ditching These Windows 11 Default Settings - CNET",
-      "description": "Not all defaults are worth keeping. These settings might be holding you back.",
-      "url": "https://www.cnet.com/tech/services-and-software/try-ditching-these-windows-11-default-settings/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8ca2875cd53af925d6c81401b4fa23096bccc5d4/hub/2022/04/27/14bfa490-eecf-4e64-afd8-04b73c30bc06/windows-11-laptop-green-promo.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-02-21T23:00:00Z",
-      "content": "Windows 11 was launched in October 2021, and the operating system has been gradually adding even more features aimed at making your computer a little bit better. However, sometimes the optimal settin… [+4250 chars]"
+      "author": null,
+      "title": "NASA Continues Testing Redesigned Artemis Moon Rocket Engines - NASA",
+      "description": "Engineers hot fire tested a redesigned RS-25 engine Feb. 22 for future flights of the Space Launch System (SLS) rocket on Artemis missions to the Moon.",
+      "url": "https://www.nasa.gov/centers/stennis/news/releases/2023/NASA-Continues-Testing-Redesigned-Artemis-Moon-Rocket-Engines/",
+      "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/ssc-20230222-s00036h.jpg",
+      "publishedAt": "2023-02-22T22:26:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Johnny Yu",
+      "title": "Hogwarts Legacy: ‘Well, Well, Well’ side quest walkthrough - Polygon",
+      "description": "Hogwarts Legacy’s “Well, Well, Well” side quest has you searching for treasure from an enchanted well. Lift the tree to find it’s rooted treasure.",
+      "url": "https://www.polygon.com/hogwarts-legacy-guide/23610949/well-well-well-side-quest-walkthrough-location-map-tree",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5gHWvuUjpUt1Ek2_DHs6R3sMkWs=/0x70:1920x1075/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24453225/HogwartsLegacy_RgJwvcdiML.jpg",
+      "publishedAt": "2023-02-22T22:26:34Z",
+      "content": "As youre exploring the Highlands in Hogwarts Legacy, you may come across the quest Well, Well, Well to the southeast of Aranshire. An enchanted well gives you a treasure map showing a hidden treasure… [+2405 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Australiangolfdigest.com.au"
+        "name": "Autotrader.ca"
       },
-      "author": "Erin Rollestone",
-      "title": "2023 Equipment guide: Tour Edge - Australian Golf Digest",
-      "description": "Tour Edge Hot Launch E523 driver  Every aspect of the Tour Edge E523 driver is focused on improving launch and accuracy. The 460cc titanium driver is incredibly stable at impact thanks to its extreme Moment of Inertia (MOI) properties. The technology built in…",
-      "url": "https://www.australiangolfdigest.com.au/2023-equipment-guide-tour-edge/",
-      "urlToImage": "https://australiangolfdigest.com.au/wp-content/uploads/2023/02/TourEdgeLogo.jpg",
-      "publishedAt": "2023-02-21T22:48:41Z",
-      "content": "Tour Edge Hot Launch E523 driver \r\nEvery aspect of the Tour Edge E523 driver is focused on improving launch and accuracy.\r\nThe 460cc titanium driver is incredibly stable at impact thanks to its extre… [+7494 chars]"
+      "author": "Evan Williams",
+      "title": "2024 Mercedes-Benz E-Class Cabin Revealed with TikTok Integration - AutoTrader",
+      "description": "Benz also announces new Google partnerships",
+      "url": "https://www.autotrader.ca/editorial/20230222/2024-mercedes-benz-e-class-cabin-revealed-with-tiktok-integration/",
+      "urlToImage": "https://editorials.autotrader.ca/media/qafjdstw/23c0014_003.jpg?anchor=center&mode=crop&width=1920&height=1080&rnd=133215650497600000",
+      "publishedAt": "2023-02-22T22:19:47Z",
+      "content": "Mercedes-Benz has just revealed the interior of the new E-Class sedan with a focus on the company's latest infotainment interface. The company is also previewing its next-generation system, which wil… [+3183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "MacRumors Exclusive: iPhone 15 Design Shown Off in Leaked Images Shared by Unknownz21 - MacRumors",
+      "description": "Images said to depict the standard iPhone 15 model were today provided to MacRumors and shared on Twitter by leaker Unknownz21, giving us our first...",
+      "url": "https://www.macrumors.com/2023/02/22/iphone-15-images/",
+      "urlToImage": "https://images.macrumors.com/t/9qInVmUrNsPw6EY3WX3E62-mdck=/1600x/article-new/2023/02/iphone-15-design.jpg",
+      "publishedAt": "2023-02-22T22:19:42Z",
+      "content": "Images said to depict the standard iPhone 15 model were today provided to MacRumors and shared on Twitter by leaker Unknownz21, giving us our first look at the ‌iPhone 15‌'s design in full. \r\nThe ima… [+1493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steven Petite",
+      "title": "Microsoft Office 2021 Lifetime Access Is Only $40 - GameSpot",
+      "description": "This deal is available to both PC and Mac users.",
+      "url": "https://www.gamespot.com/articles/microsoft-office-2021-lifetime-access-is-only-40/1100-6510571/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4086403-msofficepro%281%29.jpg",
+      "publishedAt": "2023-02-22T22:19:19Z",
+      "content": "Microsoft Office 2021 is currently on sale for only $40 through GameSpot Deals (via StackCommerce). The deal is available for both PC and Mac users. On PC, you'll get Microsoft Office 2021 Profession… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Releases Safari Technology Preview 164 With Bug Fixes and Performance Improvements - MacRumors",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the...",
+      "url": "https://www.macrumors.com/2023/02/22/apple-releases-safari-technology-preview-164/",
+      "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
+      "publishedAt": "2023-02-22T22:18:00Z",
+      "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+993 chars]"
     }
   ]
 }
