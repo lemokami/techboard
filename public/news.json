@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 93,
+  "totalResults": 259,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "New York Post ",
-      "title": "See how a family of five makes their NYC one-bedroom feel roomy - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAzLzAyL3NlZS1ob3ctdGhpcy1mYW1pbHktbWFrZXMtdGhlaXItc21hbGwtbnljLWhvbWUtZmVlbC1yb29teS_SAVxodHRwczovL255cG9zdC5jb20vMjAyMy8wMy8wMi9zZWUtaG93LXRoaXMtZmFtaWx5LW1ha2VzLXRoZWlyLXNtYWxsLW55Yy1ob21lLWZlZWwtcm9vbXkvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T22:41:00Z",
-      "content": null
+      "author": "Jennifer Elias",
+      "title": "Google execs tell employees in testy all-hands meeting that Bard A.I. isn't just about search - CNBC",
+      "description": "After rolling out Bard as an AI service largely for search, Google executives appear to be pivoting away from that focus without providing specific use cases.",
+      "url": "https://www.cnbc.com/2023/03/03/google-execs-say-in-all-hands-meeting-bard-ai-isnt-all-for-search-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105337412-1531920840924gettyimages-956103868.jpeg?v=1677881198&w=1920&h=1080",
+      "publishedAt": "2023-03-03T22:06:38Z",
+      "content": "Sundar Pichai, chief executive officer of Google Inc., speaks during the Google I/O Developers Conference in Mountain View, California, U.S., on Tuesday, May 8, 2018.\r\nGoogle executives are continuin… [+8618 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "AI-powered Bing Chat gains three distinct personalities - Ars Technica",
+      "description": "Bing Chat is no longer unhinged, but it can hallucinate more if you want it to.",
+      "url": "https://arstechnica.com/information-technology/2023/03/microsoft-equips-bing-chat-with-multiple-personalities-creative-balanced-precise/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/three_bings_hero_1-760x380.jpg",
+      "publishedAt": "2023-03-03T21:05:58Z",
+      "content": "45 with \r\nOn Wednesday, Microsoft employee Mike Davidson announced that the company has rolled out three distinct personality styles for its experimental AI-powered Bing Chat bot: Creative, Balanced,… [+2851 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Catherine Thorbecke",
+      "title": "Meta is cutting prices for its VR headsets - CNN",
+      "description": "Meta is cutting prices for two of its virtual reality headsets as it continues trying to boost adoption for the nascent technology on which it has bet its future.",
+      "url": "https://www.cnn.com/2023/03/03/tech/meta-vr-headsets-price-cut/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230303143729-meta-quest-pro-vr-headset-0104.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-03T20:59:00Z",
+      "content": "Meta is cutting prices for two of its virtual reality headsets as it continues trying to boost adoption for the nascent technology on which it has bet its future.\r\nThe company announced Friday that i… [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Owen S. Good",
+      "title": "See the game that turns toilet paper into a Nintendo Switch controller - Polygon",
+      "description": "No Paper! is a downloadable title available in Japan only. Using a roll of toilet paper, a flat piece of cardboard, and a Nintendo Switch Joy-Con, players navigate a platform puzzle full of hazards.",
+      "url": "https://www.polygon.com/23624233/nintendo-switch-toilet-paper-game-controller-japan-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-ETPtw5xITprHcZGY3X-gu1GhJ0=/0x12:560x305/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24476905/ssimg04.jpg",
+      "publishedAt": "2023-03-03T20:47:05Z",
+      "content": "Thats just the beginning of the hilarity inside No Paper!"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Long-Hated Minecraft Steve Banned In Competitive Smash Bros. - Kotaku",
+      "description": "A newly discovered glitch in Steve’s toolset has made him a contentious pick for Smash players",
+      "url": "https://kotaku.com/super-smash-bros-tournament-ban-steve-minecraft-glitch-1850185818",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e757af746f487cd61158b02cbb6e27a1.jpg",
+      "publishedAt": "2023-03-03T20:30:00Z",
+      "content": "Steve from Minecraft was added to Super Smash Bros. Ultimate in October of 2020. In the years since, sentiment around the character has gotten worse and worse due to accusations that the character is… [+4304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Square Enix president Yosuke Matsuda to be replaced by Takashi Kiryu - Gematsu",
+      "description": "Yosuke Matsuda will step down as president and representative director of Square Enix Holdings, and be succeeded by current company director Takashi Kiryu, Square Enix announced. The change is to be…",
+      "url": "https://www.gematsu.com/2023/03/square-enix-president-yosuke-matsuda-to-be-replaced-by-takashi-kiryu",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/03/Square-Enix-Matsuda_03-03-23.jpg",
+      "publishedAt": "2023-03-03T20:14:03Z",
+      "content": "Yosuke Matsuda will step down as president and representative director of Square Enix Holdings, and be succeeded by current company director Takashi Kiryu, Square Enix announced. The change is to be … [+1735 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Ars Technica",
-      "title": "Pixel Watch bill of materials estimate can’t explain the sky-high price - Ars Technica",
+      "author": "9to5Google",
+      "title": "Android 15’s dessert is apparently ‘Vanilla Ice Cream’ - 9to5Google",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMy9lc3RpbWF0ZXMtZ2l2ZS10aGUtcGl4ZWwtd2F0Y2gtaGlnaGVyLXByb2ZpdC1tYXJnaW5zLXRoYW4tYW4tYXBwbGUtd2F0Y2gv0gF1aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIzLzAzL2VzdGltYXRlcy1naXZlLXRoZS1waXhlbC13YXRjaC1oaWdoZXItcHJvZml0LW1hcmdpbnMtdGhhbi1hbi1hcHBsZS13YXRjaC9hbXAv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyMy8wMy8wMy9hbmRyb2lkLTE1LWRlc3NlcnQtdmFuaWxsYS1pY2UtY3JlYW0v0gFLaHR0cHM6Ly85dG81Z29vZ2xlLmNvbS8yMDIzLzAzLzAzL2FuZHJvaWQtMTUtZGVzc2VydC12YW5pbGxhLWljZS1jcmVhbS9hbXAv?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-03-02T22:15:14Z",
+      "publishedAt": "2023-03-03T20:14:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Gizmodo",
-      "title": "Everything You Missed From Mobile World Congress 2023 - Gizmodo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vZ2l6bW9kby5jb20vbXdjLW1vYmlsZS13b3JsZC1jb25ncmVzcy1mYXN0LWNoYXJnaW5nLWxpcXVpZC1jb29saW5nLTE4NTAxODA2MzPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T22:05:00Z",
-      "content": null
+      "author": "Alessandro Fillari",
+      "title": "Destiny 2: Lightfall's Launch Has Fans Polarized Amid Negative Reviews - IGN",
+      "description": "Destiny 2: Lightfall's launch has polarized fans, earning negative reviews on Steam and elsewhere. Here's why.",
+      "url": "https://www.ign.com/articles/destiny-2-lightfall-launch-reception-news",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/02/28/destinythumb-1677598498099.jpg?width=1280",
+      "publishedAt": "2023-03-03T19:14:39Z",
+      "content": "This weeks release of Destiny 2: Lightfall saw a massive influx of players on Steam and console to check out Bungies next expansion for its online shooter. As the penultimate story for its Light and … [+10537 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Dexerto",
-      "title": "Warzone 2 March 2 update: AI nerf, UI changes, crash fixes - Dexerto",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRleGVydG8uY29tL2NhbGwtb2YtZHV0eS93YXJ6b25lLTItbWFyY2gtMi11cGRhdGUtYWktbmVyZi11aS1jaGFuZ2VzLWNyYXNoLWZpeGVzLTIwNzY0MDIv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T21:17:43Z",
-      "content": null
+      "author": "Lisa Marie Segarra",
+      "title": "What's Coming To Sims 4 Isn't Just Game-Changing, It's Drama - Kotaku",
+      "description": "A hands-on look teases a number of changes, both in the new expansion pack and the free update",
+      "url": "https://kotaku.com/sims-4-babies-update-growing-together-expansion-pack-1850184994",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/90793ab692b43148363f6df91659f2bc.jpg",
+      "publishedAt": "2023-03-03T19:00:00Z",
+      "content": "The big baby update for The Sims 4 is nearly here, and Kotaku got an inside look at how the new Growing Together Expansion Pack DLC and the free base game updates will play out.\r\nYes, the babies will… [+5971 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Android Police"
       },
-      "author": "Pokémon GO Hub",
-      "title": "Festival of Colours 2023 | Pokémon GO Hub - Pokémon GO Hub",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vcG9rZW1vbmdvaHViLm5ldC9wb3N0L2V2ZW50L2Zlc3RpdmFsLW9mLWNvbG91cnMtMjAyMy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T21:00:50Z",
-      "content": null
+      "author": "Chandraveer Mathur",
+      "title": "Android Auto split-screen tests a much-needed layout tweak - Android Police",
+      "description": "Improving the trick borrowed from CarPlay’s playbook",
+      "url": "https://www.androidpolice.com/android-auto-split-screen-layout-customization-option/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/android-auto-maps-mirrored.jpg",
+      "publishedAt": "2023-03-03T18:51:00Z",
+      "content": "Any modern in-dash infotainment system is going to have to juggle media playback and navigation duties, and while Android Auto had struggled with that for a while, an update rolled out earlier this y… [+1418 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Polygon",
-      "title": "Overwatch 2 One-Punch Man collab adds Kiriko as Terrible Tornado - Polygon",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIzNjIyNDc0L292ZXJ3YXRjaC0yLW9uZS1wdW5jaC1tYW4tcmVsZWFzZS1kYXRlLWtpcmlrby10ZXJyaWJsZS10b3JuYWRv0gFsaHR0cHM6Ly93d3cucG9seWdvbi5jb20vcGxhdGZvcm0vYW1wLzIzNjIyNDc0L292ZXJ3YXRjaC0yLW9uZS1wdW5jaC1tYW4tcmVsZWFzZS1kYXRlLWtpcmlrby10ZXJyaWJsZS10b3JuYWRv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T20:54:38Z",
-      "content": null
+      "author": "Kat Bailey",
+      "title": "Pokémon Needs Its Game Boy Games On Nintendo Switch Online More Than Ever - IGN",
+      "description": "It's more urgent than ever for Pokémon's Game Boy and GBA games to release on Nintendo Switch Online after failing to materialize at Pokémon Day earlier this week.",
+      "url": "https://www.ign.com/articles/pokemon-needs-its-game-boy-games-on-eshop-more-than-ever",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/03/312jzkfe6bfpslqgdppwskd28lcp-5zzut-zpljafai-1677868872863.jfif?width=1280",
+      "publishedAt": "2023-03-03T18:36:39Z",
+      "content": "About a month ago, I decided on a whim to dig out all of my old Pokémon games and play them one by one to see what I would find.\r\nSpreading a handful of GBA, DS, and 3DS games on a table, I was fille… [+5557 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Ars Technica",
-      "title": "With peer group benchmarks, Apple undercuts third-party app analytics tools - Ars Technica",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMy9uZXctYXBwbGUtdG9vbC1sZXRzLWRldmVsb3BlcnMtY29tcGFyZS10aGVpci1hcHBzLXRvLXRob3NlLW9mLWNvbXBldGl0b3JzL9IBdmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMy9uZXctYXBwbGUtdG9vbC1sZXRzLWRldmVsb3BlcnMtY29tcGFyZS10aGVpci1hcHBzLXRvLXRob3NlLW9mLWNvbXBldGl0b3JzL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T20:42:39Z",
-      "content": null
+      "author": "https://www.engadget.com/about/editors/kris-holt",
+      "title": "Nintendo takes Wii U games 'Mario Kart 8' and 'Splatoon' offline over security issues | Engadget - Engadget",
+      "description": "Nintendo has taken the Wii U versions of 'Mario Kart 8' and 'Splatoon' offline indefinitely while it attempts to resolve security issues..",
+      "url": "https://www.engadget.com/nintendo-takes-wii-u-games-mario-kart-8-and-splatoon-offline-over-security-issues-183052954.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/eAuV7kxVK_VXlhcTWhK4Cw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ca1a9c50-b9ee-11ed-bfff-db34ef8db50e.cf.jpg",
+      "publishedAt": "2023-03-03T18:32:02Z",
+      "content": "Nintendo\r\n has taken Wii U titles Mario Kart 8\r\n and Splatoon\r\n offline indefinitely while it attempts to resolve security issues. \"This network service is currently unavailable due to urgent mainten… [+1946 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Destructoid",
-      "title": "Nintendo addresses Metroid Prime Remastered stock issues due to scalping - Destructoid",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRlc3RydWN0b2lkLmNvbS9uaW50ZW5kby12b3dzLXRvLWRvLWV2ZXJ5dGhpbmctdGhleS1jYW4tdG8tYWRkcmVzcy1tZXRyb2lkLXByaW1lLXJlbWFzdGVyZWQtc3RvY2sv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T20:17:37Z",
-      "content": null
+      "author": "Kif Leswing",
+      "title": "Apple crackdown on ChatGPT apps unlikely, but it could impose new rules down the road - CNBC",
+      "description": "A email maker called Blix recently clashed with Apple over an AI-powered update to its email app, but that does not mean a ban or crackdown is imminent.",
+      "url": "https://www.cnbc.com/2023/03/03/apple-crackdown-on-chatgpt-apps-unlikely-new-rules-possible-later.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105249619-GettyImages-967224852r.jpg?v=1677868118&w=1920&h=1080",
+      "publishedAt": "2023-03-03T18:28:38Z",
+      "content": "Large language models like ChatGPT can produce entire blocks of text that read like a human wrote them. Companies are racing to integrate ChatGPT into their apps, including Microsoft, Snap, and Shopi… [+3119 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Ars Technica",
-      "title": "Dealmaster: Save on Ring home security systems before features get paywalled - Ars Technica",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMy9kZWFsbWFzdGVyLXNhdmUtb24tcmluZy1ob21lLXNlY3VyaXR5LXN5c3RlbXMtYmVmb3JlLWZlYXR1cmVzLWdldC1wYXl3YWxsZWQv0gF4aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIzLzAzL2RlYWxtYXN0ZXItc2F2ZS1vbi1yaW5nLWhvbWUtc2VjdXJpdHktc3lzdGVtcy1iZWZvcmUtZmVhdHVyZXMtZ2V0LXBheXdhbGxlZC9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T19:44:01Z",
-      "content": null
+      "author": "Chuong Nguyen",
+      "title": "Dealmaster: Top deals on gaming laptops - Ars Technica",
+      "description": "We have deals from Acer, Alienware, Asus, Lenovo, MSI, Razer, and more.",
+      "url": "https://arstechnica.com/gadgets/2023/03/dealmaster-top-deals-on-gaming-laptops/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/razer-blade-14-760x380.jpeg",
+      "publishedAt": "2023-03-03T18:27:15Z",
+      "content": "3 with \r\nGaming laptops aren't just for gaming; these powerful notebooks come with plenty of processing and graphics power, making them versatile enough to be everyday computing systems. Whatever you… [+5641 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Wccftech"
       },
-      "author": "The New York Times",
-      "title": "Sons of the Forest, Wo Long, Resident Evil 4 Remake, and Other Video Games We’re Playing (and Loving) in March 2023 - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL3dpcmVjdXR0ZXIvcmV2aWV3cy9mYXZvcml0ZS12aWRlby1nYW1lcy1tYXJjaC0yMDIzL9IBT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL3dpcmVjdXR0ZXIvcmV2aWV3cy9mYXZvcml0ZS12aWRlby1nYW1lcy1tYXJjaC0yMDIzL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T19:43:19Z",
-      "content": null
+      "author": "Hassan Mujtaba",
+      "title": "AMD Ryzen 9 7950X3D CPU Review Ft. MSI MAG X670E Tomahawk – The Most Efficient High-End CPU - Wccftech",
+      "description": "AMD has unleased its Ryzen 9 7950X3D 3D V-Cache CPU which offers some stunning gaming performance with incredible efficiency.",
+      "url": "https://wccftech.com/review/amd-ryzen-9-7950x3d-cpu-review-ft-msi-mag-x670e-tomahawk-the-most-efficient-high-end-cpu/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/03/DSC_1532-Custom-gigapixel-standard-scale-2_00x-scaled.jpg",
+      "publishedAt": "2023-03-03T18:18:00Z",
+      "content": "Product Info\r\nA new era is upon us, an era that involves a reenvisioned focus on performance and efficiency leadership in the CPU landscape. There are two companies that are battling hard to hold the… [+3881 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Slate",
-      "title": "Online dating with ChatGPT: My epic, embarrassing quest to find a Tinder match for my friend using A.I. - Slate",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2xhdGUuY29tL3RlY2hub2xvZ3kvMjAyMy8wMy9jaGF0Z3B0LXRpbmRlci1idW1ibGUtb25saW5lLWRhdGluZy1hcnRpZmljaWFsLWludGVsbGlnZW5jZS5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T19:17:00Z",
-      "content": null
+      "author": "Andrew Cunningham",
+      "title": "New Windows 11 preview improves volume mixer, color management, and more - Ars Technica",
+      "description": "Microsoft is likely working to finalize the feature list for the 23H2 update.",
+      "url": "https://arstechnica.com/gadgets/2023/03/revamped-per-app-volume-mixer-and-other-features-in-latest-windows-11-preview/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Mixer-Image-760x380.png",
+      "publishedAt": "2023-03-03T18:04:12Z",
+      "content": "Enlarge/ Windows 11 is mixing things up with an improved volume mixer, among other features.\r\n48 with \r\nMicrosoft released a batch of significant updates to Windows 11 earlier this week, adding tabs … [+3407 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Android Police",
-      "title": "Google's Phone app brings a new visual aesthetic to the call screen - Android Police",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1waG9uZS1hcHAtbmV3LWNhbGwtc2NyZWVuL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T19:08:00Z",
-      "content": null
+      "author": "Oli Welsh",
+      "title": "Octopath Traveler 2’s RPG battle system is one of the greats - Polygon",
+      "description": "The Square Enix retro RPG for Switch, PC, and PlayStation brings back the clever Break and Boost battle system from its predecessor, which keeps players on their toes across eight characters.",
+      "url": "https://www.polygon.com/23622020/octopath-traveler-2-rpg-battle-system-break-boost-characters-skills",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0hCSI1YfHWX2YE0XeFUHPDp06OM=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24473337/OT2_202302_PUB05_SS079.jpeg",
+      "publishedAt": "2023-03-03T18:00:00Z",
+      "content": "Octopath Traveler 2 is quintessential gaming comfort food. Its expansive, but simple and streamlined, changing virtually nothing that made the original game work. Its nostalgic and figurative; it boi… [+4820 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Dexerto",
-      "title": "Overwatch 2 Kiriko Terrible Tornado One Punch Man skin revealed - Dexerto",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRleGVydG8uY29tL292ZXJ3YXRjaC9vdmVyd2F0Y2gtMi1raXJpa28tdGVycmlibGUtdG9ybmFkby1vbmUtcHVuY2gtbWFuLXNraW4tcmV2ZWFsZWQtMjA3NjM3Mi_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T19:04:18Z",
-      "content": null
+      "author": "Kyle Bradshaw",
+      "title": "First look at Google Chrome’s Blink engine running on an iPhone - 9to5Google",
+      "description": "Google is bringing Chrome's Blink browser engine to iOS against App Store rules, and now we have our first look at the test browser in action.",
+      "url": "https://9to5google.com/2023/03/03/first-look-google-chrome-blink-engine-iphone-ios/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/chromium-blink-ios-preview-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-03T17:54:00Z",
+      "content": "Google has begun the process of bringing Chrome’s full Blink browser engine to iOS against current App Store rules, and now we have our first look at the test browser in action.\r\nLast month, Google q… [+3434 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "New York Post ",
-      "title": "Mindy Kaling finds a buyer for her downtown NYC loft - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAzLzAyL21pbmR5LWthbGluZ3MtZG93bnRvd24tbnljLWxvZnQtZW50ZXJzLWNvbnRyYWN0L9IBUmh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAzLzAyL21pbmR5LWthbGluZ3MtZG93bnRvd24tbnljLWxvZnQtZW50ZXJzLWNvbnRyYWN0L2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T18:49:00Z",
-      "content": null
+      "author": "Matt Kim",
+      "title": "Every FromSoftware SoulsBorne DLC Ranked - IGN",
+      "description": "With Elden Ring Shadow of the Erdtree DLC officially announced, we ranked all the past FromSoftware DLC expansions from Dark Souls to Bloodborne.",
+      "url": "https://www.ign.com/articles/every-fromsoftware-dlc-ranked",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/03/fromsoft-dlc-ranked-blogroll-1677863442346.jpg?width=1280",
+      "publishedAt": "2023-03-03T17:42:39Z",
+      "content": "FromSoftware has finally announced the first DLC expansion for Elden Ring, Shadow of the Erdtree.\r\nWhile we only know that the new expansion is officially being developed, FromSoftware has a history … [+10072 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "TrueAchievements"
       },
-      "author": "Kotaku",
-      "title": "Mario Day: Three New Switch Bundles, And Cheaper Games To Boot - Kotaku",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8va290YWt1LmNvbS9tYXJpby1kYXktbmludGVuZG8tc3dpdGNoLWJ1bmRsZS1zYWxlLWZyZWUtMTg1MDE3OTQ2NdIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T18:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Neowin",
-      "title": "Windows 11 Dev build 25309 lands with new OOBE, WinUI 3, volume mixer, and lots more - Neowin",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy93aW5kb3dzLTExLWRldi1idWlsZC0yNTMwOS1sYW5kcy13aXRoLW5ldy1vb2JlLXdpbnVpLTMtdm9sdW1lLW1peGVyLWFuZC1sb3RzLW1vcmUv0gFtaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvd2luZG93cy0xMS1kZXYtYnVpbGQtMjUzMDktbGFuZHMtd2l0aC1uZXctb29iZS13aW51aS0zLXZvbHVtZS1taXhlci1hbmQtbG90cy1tb3JlLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T18:32:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Kotaku",
-      "title": "Sonic Creator Admits To Illegally Trading Over $1 Million - Kotaku",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8va290YWt1LmNvbS95dWppLW5ha2Etc3F1YXJlLWVuaXgtaW5zaWRlci10cmFkaW5nLWNvdXJ0LTE4NTAxNzkyNzfSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T18:15:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Engadget",
-      "title": "The next batch of 'Mario Kart 8 Deluxe' tracks arrives on March 9th | Engadget - Engadget",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS90aGUtbmV4dC1iYXRjaC1vZi1tYXJpby1rYXJ0LTgtZGVsdXhlLXRyYWNrcy1hcnJpdmVzLW9uLW1hcmNoLTl0aC0xNzE3MTMzODcuaHRtbNIBbWh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9hbXAvdGhlLW5leHQtYmF0Y2gtb2YtbWFyaW8ta2FydC04LWRlbHV4ZS10cmFja3MtYXJyaXZlcy1vbi1tYXJjaC05dGgtMTcxNzEzMzg3Lmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T17:20:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "PR Week",
-      "title": "AI meets PR: Why a wobbly debut shouldn't be mistaken for a flop - PR Week",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnByd2Vlay5jb20vYXJ0aWNsZS8xODE1MTI2L2FpLW1lZXRzLXByLXdoeS13b2JibHktZGVidXQtc2hvdWxkbnQtbWlzdGFrZW4tZmxvcNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T16:51:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox News",
-      "title": "This iPhone charging feature is facing scrutiny: report - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3RlY2gvaXBob25lLWNoYXJnaW5nLWZlYXR1cmUtZmFjaW5nLXNjcnV0aW550gFIaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdGVjaC9pcGhvbmUtY2hhcmdpbmctZmVhdHVyZS1mYWNpbmctc2NydXRpbnkuYW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T16:32:00Z",
-      "content": null
+      "author": "Sean Carey",
+      "title": "Forza Horizon 5: Rally Adventure DLC map revealed - TrueAchievements",
+      "description": "Forza Horizon 5: Rally Adventure launches later this month, and Playground Games has now revealed the map for the upcoming rally-themed expansion.",
+      "url": "https://www.trueachievements.com/n53080/forza-horizon-5-rally-adventure-map-sierra-nueva",
+      "urlToImage": "https://www.trueachievements.com/imgs/137322/forza-horizon-5-rally-adventure-map.jpg",
+      "publishedAt": "2023-03-03T17:42:06Z",
+      "content": "The second expansion for Forza Horizon 5, Rally Adventure, launches on March 29th, and Xbox Game Studios' Playground Games has finally given us a proper look at the map for the new Sierra Nueva area … [+1043 chars]"
     }
   ]
 }
