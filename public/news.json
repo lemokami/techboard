@@ -1,71 +1,149 @@
 {
   "status": "ok",
-  "totalResults": 252,
+  "totalResults": 217,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "HODINKEE"
+      },
+      "author": "Danny Milton",
+      "title": "MoonSwatch Mission To Moonshine Gold Photos - HODINKEE",
+      "description": "Well, it wasn't the solid-gold Swatch some were hoping for – but this collector had to have it anyway. Read on for coverage of the scenes in both Tokyo and London.",
+      "url": "https://www.hodinkee.com/articles/live-pics-of-the-moonswatch-mission-to-moonshine-gold-and-the-first-person-on-the-planet-to-buy-it",
+      "urlToImage": "https://hodinkee.imgix.net/uploads/images/2e5bcd58-d3ed-446c-90c3-efeef13d0c9d/2023-03-07185504-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "publishedAt": "2023-03-07T23:00:36Z",
+      "content": "The scene in London was no boring affair with queues (I know my local jargon) roughly 2,000 strong. Duck Kim was the lucky first in line and first to buy, having camped out overnight beginning at 4:3… [+200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Daniel Oropeza",
+      "title": "The Best 'Mario Day' Deals Nintendo Has to Offer - Lifehacker",
+      "description": "Nintendo's Mario Day is March 10, but you don't have to wait until then for the games.",
+      "url": "https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a3a4def756996b7b4d31bbdca4189260.jpg",
+      "publishedAt": "2023-03-07T22:00:00Z",
+      "content": "For years, March 10 has come with Nintendo fans dressing up for themed parties and playing their favorite Mario games. In 2016, Nintendo decided to officially adopt the celebration as Mario Day, acco… [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9to5Mac",
+      "title": "iPhone 15 and iPhone 15 Plus won't offer these two display features - 9to5Mac",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNW1hYy5jb20vMjAyMy8wMy8wNy9pcGhvbmUtMTUtYWx3YXlzLW9uLXByb21vdGlvbi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-07T21:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Adorable Playdate handheld gets new free games alongside $20 price increase - Ars Technica",
+      "description": "Interested customers have until April 7 to lock in current $179 price.",
+      "url": "https://arstechnica.com/gaming/2023/03/adorable-playdate-handheld-gets-new-free-games-alongside-20-price-increase/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/playdate-760x380.jpg",
+      "publishedAt": "2023-03-07T21:23:43Z",
+      "content": "Enlarge/ Is the Playdate the most adorable portable console out there? You gotta believe!\r\n13 with \r\nLast April, we enthused that the tiny, yellow Playdate portable game console \"earns its $179 price… [+2892 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Clark",
+      "title": "Master Chief is here to teach you how to file your taxes - Polygon",
+      "description": "A YouTuber has used AI voice over technology to make Master Chief explain the intricacies of tax season, oil changing a 2006 Nissan Murano, and more. Let the Spartan help you with this sage advice.",
+      "url": "https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dOIX1FVfEc4hJpH3O5JhfIQbkeM=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15956557/81d638fc_4071_4185_b659_d2ca38bbd7f7.jpg",
+      "publishedAt": "2023-03-07T20:42:31Z",
+      "content": "And change your oil, and ask out your crush, and ..."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNET",
+      "title": "The iPhone 14 Does Yellow Very Mellow - CNET",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL3RoZS1pcGhvbmUtMTQtZG9lcy15ZWxsb3ctdmVyeS1tZWxsb3cv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-07T20:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "iOS 16.4 hints at Car Key feature dropping NFC support - 9to5Mac",
+      "description": "Car Key was introduced in 2020 with iOS 13.6, and as the name suggests, the feature lets car owners use...",
+      "url": "https://9to5mac.com/2023/03/07/ios-16-4-car-key-dropping-nfc-support/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-car-key.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-07T20:34:00Z",
+      "content": "Car Key was introduced in 2020 with iOS 13.6, and as the name suggests, the feature lets car owners use their iPhone or Apple Watch to unlock the doors and even start the car. Currently, Car Key work… [+2367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Andrew Court",
+      "title": "Reclusive Gene Hackman, 93, looks fit as he pumps gas, performs yard work - New York Post ",
+      "description": "The two-time Oscar winner — who celebrated his 93rd birthday back in January — looked fit and healthy as he made a rare outing in New Mexico on Sunday.",
+      "url": "https://nypost.com/2023/03/07/reclusive-gene-hackman-93-looks-fit-as-he-pumps-gas-performs-yard-work/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000007833176.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-03-07T20:32:00Z",
+      "content": "Talk about good Genes.\r\nHollywood legend Gene Hackman proved he’s still in tip-top shape as he performed yard work at his ranch in Santa Fe, New Mexico, on Sunday.\r\nThe “Unforgiven” actor who celebra… [+3506 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Luke Plunkett",
-      "title": "Paradox Announces Cities: Skylines 2, Plus Loads Of Other Stuff - Kotaku",
-      "description": "There's new games, plus expansions for fans of Crusader Kings III and Europa Universalis IV",
-      "url": "https://kotaku.com/cities-skylines-2-paradox-lamplighters-xcom-ck3-pc-new-1850194992",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/824cf0041339b04508dd3c51eb38337b.jpg",
-      "publishedAt": "2023-03-06T23:30:00Z",
-      "content": "Strategy specialists Paradox had a big day today, taking the lid off a bunch of new projects due for release over the next couple of years, including both new games and expansions to existing ones.\r\n… [+3201 chars]"
+      "author": "Levi Winslow",
+      "title": "FIFA Loot Boxes Violate Austrian Gambling Laws, Court Rules - Kotaku",
+      "description": "Sony has been ordered to refund players, though the PlayStation maker can still appeal the decision",
+      "url": "https://kotaku.com/fifa-ultimate-team-gambling-sony-ea-lawsuit-austria-1850199000",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2c64255a29defcc30dd01897c0408d54.jpg",
+      "publishedAt": "2023-03-07T20:00:00Z",
+      "content": "Loot boxes have been a thorn in gamers sides for as long as theyve been around, with lawsuits and players deriding them as exploitative gambling mechanics. EA has been a prominent example of publishe… [+2100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Destiny 2’ Launches Secret ‘Vexcalibur’ Exotic Mission, Live Now - Forbes",
+      "description": "How to get Destiny 2's Vexcalibur, its new, secret exotic.",
+      "url": "https://www.forbes.com/sites/paultassi/2023/03/07/destiny-2-launches-secret-vexcalibur-exotic-mission-live-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/640793a0cf89db4f8525191c/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-03-07T19:45:08Z",
+      "content": "Destiny 2\r\nBungie\r\nAlright Bungie, you got me. I was just about to record my weekly video commenting that there wasnt all that much content at reset this week, just a new battleground and Vex mini-mi… [+3336 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Andrew Liszewski",
-      "title": "Help Convince Me to Buy This $1,500 3D Printer For Chocolate - Gizmodo",
-      "description": "Everything the Cocoa Press 3D printer creates can and should be eaten.",
-      "url": "https://gizmodo.com/3d-printer-chocolate-cocoa-press-candy-desert-make-home-1850194666",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/baf3a3b8101edcb4f5c392648bcb73df.jpg",
-      "publishedAt": "2023-03-06T22:50:00Z",
-      "content": "Its unfortunately arriving a little too late to woo whoever was your Valentine this year, but next month, youll be able to pre-order a 3D printer that swaps melted plastic for melted chocolate, allow… [+2492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Dallas Thomas",
-      "title": "Google shares March Android Security Bulletin, but Pixel updates are running mysteriously late - Android Police",
-      "description": "Several critical vulnerabilities in Android System and Qualcomm chips were patched",
-      "url": "https://www.androidpolice.com/march-2023-android-security-bulletin/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/android-13-random-ap-hero.jpg",
-      "publishedAt": "2023-03-06T22:26:00Z",
-      "content": "Almost like clockwork, Google releases security patches for Android and its Pixel phones shortly after 10 a.m. Pacific on the first Monday of every month. This month’s update has been hotly anticipat… [+2586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple's Announcement of New iPhone 14 Color Option is 'Imminent' - MacRumors",
-      "description": "Apple's rumored announcement of at least one new iPhone 14 color option is \"imminent,\" Bloomberg's Mark Gurman said today in a tweet....",
-      "url": "https://www.macrumors.com/2023/03/06/new-iphone-14-color-imminent/",
-      "urlToImage": "https://images.macrumors.com/t/0OzaZYUyETMXFhHA1PDGnCSnwic=/2500x/article-new/2023/03/iPhone14-Yellow-Mock-3.jpg",
-      "publishedAt": "2023-03-06T22:04:00Z",
-      "content": "Apple's rumored announcement of at least one new iPhone 14 color option is \"imminent,\" Bloomberg's Mark Gurman said today in a tweet.\r\nIt was rumored last week that Apple plans to make the iPhone 14 … [+1249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kevin Hurler",
-      "title": "The 16 Best Google Animations Unlocked with a Simple Search - Gizmodo",
-      "description": "These Google animations reference The Last of Us, RRR, The Mandalorian, and BTS.",
-      "url": "https://gizmodo.com/google-the-last-of-us-the-mandalorian-baby-yoda-1850193184",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8387031d61658f7a180257e85ffbf866.png",
-      "publishedAt": "2023-03-06T21:53:00Z",
-      "content": "The internet is full of Easter eggs and tricks, you just gotta know where to find them. Google is no stranger to its Daily Doodle, but Google also has some fun animations wrapped up in search results… [+53 chars]"
+      "author": "Nikki Main",
+      "title": "ADHD-Friendly Browser Looks to Curb Distractions Online - Gizmodo",
+      "description": "Sidekick, a new browser, is working to help internet users stay focused while navigating the web.",
+      "url": "https://gizmodo.com/adhd-sidekick-adderall-private-browser-1850197491",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/418cc887e3d226332a81b62df5c25828.jpg",
+      "publishedAt": "2023-03-07T19:45:00Z",
+      "content": "An ADHD-friendly browser launched today and features tools to better help those easily distracted minimize the noise online. Dubbed a productivity browser, Sidekick protects the users data while also… [+2772 chars]"
     },
     {
       "source": {
@@ -73,194 +151,116 @@
         "name": "Polygon"
       },
       "author": "Michael McWhertor",
-      "title": "Redfall cross-play confirmed for Xbox, Steam, Game Pass, and Epic Store - Polygon",
-      "description": "Bethesda Softworks and Arkane Studios confirm that Redfall will have full cross-play on Xbox Series X, PC, Steam, Epic Games Store, and Game Pass when the game launches in May.",
-      "url": "https://www.polygon.com/23627953/redfall-cross-play-xbox-steam-pc-epic-games-store-game-pass-bethesda-arkane",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Dfyvthhlf0YzDLKeQ_zp416LkH0=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23622575/Team_Walk.jpg",
-      "publishedAt": "2023-03-06T21:50:30Z",
-      "content": "Arkane Studios open-world, cooperative shooter Redfall will include full cross-play across platforms and wherever you purchase it, the developer confirmed Monday. In a tweet from the official Redfall… [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Kyle Bradshaw",
-      "title": "Material You redesign of Google Docs, Sheets, and Slides web apps begins rolling out - 9to5Google",
-      "description": "The Material You inspired redesigns of Google Docs, Sheets, and Slides on the web are beginning to appear for some Workspace customers.",
-      "url": "https://9to5google.com/2023/03/06/material-you-google-docs-sheets-slides-web/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/Google-Docs-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-03-06T21:29:00Z",
-      "content": "Formally announced last month, the Material You inspired redesigns of Google Docs, Sheets, and Slides on the web are beginning to appear for some Workspace customers.\r\nThe most noticeable change in f… [+2293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Ionut Ilascu",
-      "title": "Proof-of-Concept released for critical Microsoft Word RCE bug - BleepingComputer",
-      "description": "A proof-of-concept for CVE-2023-21716, a critical vulnerability in Microsoft Word that allows remote code execution, has been published over the weekend.",
-      "url": "https://www.bleepingcomputer.com/news/security/proof-of-concept-released-for-critical-microsoft-word-rce-bug/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/02/10/Office-headpic.jpg",
-      "publishedAt": "2023-03-06T20:55:26Z",
-      "content": "A proof-of-concept for CVE-2023-21716, a critical vulnerability in Microsoft Word that allows remote code execution, has been published over the weekend.\r\nThe vulnerability was assigned a 9.8 out of … [+3747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Jordan Middler",
-      "title": "Switch's successor faces backwards compatibility challenges, developer suggests - Video Games Chronicle",
-      "description": "A new video has suggested that a successor to the Nintendo Switch could face backward compatibility issues, due to the technical hurdles of moving from the Nintendo Switch’s architecture to new hardware.",
-      "url": "https://www.videogameschronicle.com/news/switchs-successor-faces-backwards-compatibility-challenge-developer-suggests/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2021/07/HEGS_001_heroWA_03_R_ad-0-scaled.jpg",
-      "publishedAt": "2023-03-06T20:34:42Z",
-      "content": "Nintendo‘s Switch successor could face significant challenges implementing backwards compatibility, according to a new analysis by respected content creator and NightDive Studios developer ModernVint… [+2542 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "Final Fantasy 14 Shoe Line Coming From Puma - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/final-fantasy-14-shoe-line-coming-from-puma",
-      "urlToImage": null,
-      "publishedAt": "2023-03-06T20:32:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jennifer Elias",
-      "title": "Google CEO defends desk-sharing policy, says some offices are like a 'ghost town' - CNBC",
-      "description": "In responding to employee criticism of Google's new desk-sharing policy for the cloud unit, CEO Sundar Pichai reminded staffers that real estate is pricey.",
-      "url": "https://www.cnbc.com/2023/03/06/google-ceo-defends-desk-sharing-policy-says-offices-like-ghost-town.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106984648-1638712288851-gettyimages-1195292748-AFP_1O526V.jpeg?v=1678134366&w=1920&h=1080",
-      "publishedAt": "2023-03-06T20:26:06Z",
-      "content": "Google CEO Sundar Pichai defended the cloud unit's new desk-sharing policy for employees, describing some of the company's offices as practically empty and reminding staffers that real estate is pric… [+3578 chars]"
+      "title": "Overwatch 2’s One-Punch Man collab is live with new skins, free unlocks - Polygon",
+      "description": "One-Punch Man comes to Blizzard’s Overwatch 2 with new skins for Genji, Kiriko, Doomfist and Soldier: 76 inspired by the anime and manga series. Players can earn six cosmetic items by playing games of Overwatch.",
+      "url": "https://www.polygon.com/23629250/overwatch-2-one-punch-man-skins-collab-blizzard",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u_zSYeAmzjAMxbRCGdtSxs5riXU=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24486628/FqkBDllXgAA9Nu3.jpeg",
+      "publishedAt": "2023-03-07T19:35:22Z",
+      "content": "Blizzard is going full anime for Overwatch 2s first major crossover"
     },
     {
       "source": {
         "id": "engadget",
         "name": "Engadget"
       },
-      "author": "https://www.engadget.com/about/editors/jon-fingas",
-      "title": "Microsoft makes Outlook free to use for Mac | Engadget - Engadget",
-      "description": "Microsoft Outlook for Mac is now free..",
-      "url": "https://www.engadget.com/microsoft-makes-outlook-free-to-use-for-mac-201328421.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/D09jXieGS4c3v1zOYivULw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/356675b0-bc56-11ed-affb-b8c14a5cc703.cf.jpg",
-      "publishedAt": "2023-03-06T20:15:02Z",
-      "content": "You now have another major alternative to the built-in Mail app on your Mac. Microsoft has made Outlook for Mac free to use. You previously needed either a Microsoft 365 subscription or an Office pur… [+1245 chars]"
+      "author": "https://www.engadget.com/about/editors/kris-holt",
+      "title": "Messenger is returning to the Facebook mobile app after nine years away | Engadget - Engadget",
+      "description": "Meta is 'testing the ability for people to access their Messenger inbox within the Facebook app.' It wants Facebook to be 'the best place for social discovery and sharing.'.",
+      "url": "https://www.engadget.com/messenger-is-returning-to-the-facebook-mobile-app-after-nine-years-away-191426674.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6n4GoQmpe3u1MmbZWjCmVA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/338b7410-bd1a-11ed-bd7d-8e33ef2f86b6.cf.jpg",
+      "publishedAt": "2023-03-07T19:17:14Z",
+      "content": "It's been so long since Meta cut Messenger out of the Facebook mobile app\r\n that Windows Phone was still somewhat of a thing at the time. Almost nine years later, Meta is ready to bring them back tog… [+1988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Vanessa Serna",
+      "title": "Georgia graduate, 29, paralyzed when chiropractor severed arteries is home after eight months - Daily Mail",
+      "description": "Caitlin Jensen, 29, was released from a treatment center on February 16 after regaining movement in her head, arms and legs, months after she was hospitalized on June 16.",
+      "url": "https://www.dailymail.co.uk/news/article-11831479/Georgia-graduate-29-paralyzed-chiropractor-severed-arteries-home-eight-months.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/07/18/68432615-0-image-a-26_1678213881496.jpg",
+      "publishedAt": "2023-03-07T19:14:43Z",
+      "content": "A Georgia Southern University graduate returned home eight months after she suffered strokes and was paralyzed when a chiropractor severed her arteries.\r\nCaitlin Jensen, 29, was released from a treat… [+7265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "The Teaser Puzzle For Google I/O 2023's Date Is Up - Gizmodo",
+      "description": "The date has yet to be revealed, but the developer conference is likely happening in the spring.",
+      "url": "https://gizmodo.com/google-io-puzzle-2023-conference-date-time-glass-onion-1850198432",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/562ed48dd93f123cf9241bcc03c39f9c.png",
+      "publishedAt": "2023-03-07T19:10:00Z",
+      "content": "Leave it to Google to tease us with a puzzle instead of just coming out and telling us when Google I/O 2023 is happening. If youre curious about joining the collective of developers determining when … [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "How to tell if your laptop camera has been hacked and someone is spying on you - Fox News",
+      "description": "Kurt \"CyberGuy\" Knutsson gives his top choices of webcam covers to protect you from being filmed unknowingly by hackers and to protect your private space.",
+      "url": "https://www.foxnews.com/tech/how-tell-your-laptop-camera-hacked-someone-spying-you",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/3-CLOUDVALLEY.jpg",
+      "publishedAt": "2023-03-07T19:02:00Z",
+      "content": "You use your computer daily, although I bet you rarely, if ever, consider that someone could be spying on you through your built-in camera on a laptop or a standalone camera that connects via USB. Wo… [+6780 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Daily Deals: Gloomhaven Jaws of the Lion, Calvin and Hobbes, MTG Strixhaven Set Boosters, Xbox Elite Controller, and More - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvZGFpbHktZGVhbHMtZ2xvb21oYXZlbi1qYXdzLW9mLXRoZS1saW9uLW1hcmlvLWRheS1zYWxlLXhib3gtZWxpdGUtY29udHJvbGxlctIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-07T18:54:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Facebook’s latest test brings back in-app messaging - TechCrunch",
+      "description": "Facebook is testing the ability for users to access their Messenger inbox within the Facebook app.",
+      "url": "https://techcrunch.com/2023/03/07/facebooks-latest-test-brings-back-in-app-messaging/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1245156419.jpg?resize=1200,800",
+      "publishedAt": "2023-03-07T18:34:22Z",
+      "content": "Facebook head Tom Alison announced today that the company is testing the ability for users to access their Messenger inbox within the Facebook app. Back in 2016, Facebook removed messaging capabiliti… [+2546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Pixel Buds Pro spatial audio with head tracking update rolling out - 9to5Google",
+      "description": "Google is now rolling out the Pixel Buds Pro update that enables spatial audio with head tracking. The January security patch introduced...",
+      "url": "https://9to5google.com/2023/03/07/pixel-buds-pro-spatial-audio-update/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/11/Pixel-Buds-Pro-earbuds-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-07T18:21:00Z",
+      "content": "The January security patch already introduced support for static spatial audio on the latest Pixel phones. Google is now rolling out the Pixel Buds Pro update that enables spatial audio with head tra… [+1579 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "New “Canary” channel will showcase more-experimental, less-stable Windows builds - Ars Technica",
-      "description": "More frequently released updates means more channels for public beta testing.",
-      "url": "https://arstechnica.com/gadgets/2023/03/new-canary-channel-will-showcase-more-experimental-less-stable-windows-builds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg",
-      "publishedAt": "2023-03-06T19:46:46Z",
-      "content": "Enlarge/ A PC running Windows 11.\r\n13 with \r\nMicrosoft started its Windows Insider program in 2014 to get public feedback on Windows 10 as it was being developed. Ever since then, the company has con… [+3072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Sisi Jiang",
-      "title": "Pokémon Scarlet And Violet's Big Update Is Deleting Save Files - Kotaku",
-      "description": "PSA: Do not connect your copy of Scarlet or Violet with other games right now",
-      "url": "https://kotaku.com/pokemon-scarlet-violet-save-wipe-go-dlc-1850193690",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7c8f5ff7176f8e081b41b30ca92a8d97.jpg",
-      "publishedAt": "2023-03-06T19:41:28Z",
-      "content": "Pokémon Scarlet and Violet launched in an incredibly rough state last November, and it seems that the latest patch has introduced an even bigger problem for its players. Fans on Reddit have reported … [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Mary K. Jacob",
-      "title": "Home of Macy's heir whose father died on the Titanic lists for $1.3M - New York Post ",
-      "description": "Cobble Close Farm, which belonged to the son of Isidor Straus, quickly found a new owner — as the Middletown spread has entered contract.",
-      "url": "https://nypost.com/2023/03/06/new-jersey-home-of-macys-heir-herbert-straus-lists-for-sale/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/newspress-collage-26016155-1678128728584.jpg?quality=75&strip=all&1678113533&w=1024",
-      "publishedAt": "2023-03-06T19:39:00Z",
-      "content": "A New Jersey home built for Macy’s heir Herbert Straus in the 1920s listed for $1.3 million — but the offering didn’t last long for sale. \r\nAn offer has been submitted and the spread is currently in … [+2620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alexandra Garfinkle",
-      "title": "Why Apple's headset could seriously boost the flagging VR market - Yahoo Finance",
-      "description": "The virtual reality (VR) market didn't have a great 2022, but if Apple's (AAPL) long-rumored headset drops this year, some analysts say it could send VR...",
-      "url": "https://finance.yahoo.com/news/why-apples-headset-could-seriously-boost-the-flagging-vr-market-192922101.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Rteem8tVknJ1h.EEYjicIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/a53a9df0-6155-11ed-bd1b-b0029a02c734",
-      "publishedAt": "2023-03-06T19:29:22Z",
-      "content": "The virtual reality (VR) market didn't have a great 2022, but if Apple's (AAPL) long-rumored headset drops this year, some analysts say it could send VR barreling toward mainstream consumers.\r\nIn 202… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Wii U may break for some system owners if not used, reports claim - Nintendo Everything",
-      "description": "New reports claim that some Wii U consoles may break simply if the system isn't used for a long period of time.",
-      "url": "https://nintendoeverything.com/wii-u-may-break-for-some-system-owners-if-not-used-reports-claim/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Wii-U-breaking-nonuse.jpg",
-      "publishedAt": "2023-03-06T19:25:38Z",
-      "content": "Some reports are making the rounds regarding an issue with Wii Uconsoles in which they could be corrupted due to nonuse.\r\nLingering memory system errors seem to be the culprit here with the error cod… [+1083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cyclingnews.com"
-      },
-      "author": "Jackie Tyson",
-      "title": "Swenson, Villafane dominate in the desert at Belgian Waffle Ride Arizona - Cyclingnews",
-      "description": "Inaugural multi-surface 'hell of the north desert' begins seven-event schedule for BWR",
-      "url": "https://www.cyclingnews.com/news/swenson-villafane-dominate-in-the-desert-at-belgian-waffle-ride-arizona/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EYYBqLeR5siZcDm8mMbYpd-1200-80.jpg",
-      "publishedAt": "2023-03-06T19:25:12Z",
-      "content": "Sofia Gomez Villafane and Keegan Swenson won the 122-mile ‘waffle distance’ of the inaugural Belgian Waffle Ride Arizona on March 5, 2023. The field for the women came down to three riders at the fro… [+4700 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Tim Schafer Opens Up About Life With Xbox, Building Better Work Cultures, and What's Next - IGN",
-      "description": "Over 30-year industry veteran and Double Fine CEO Tim Schafer talks to IGN about Xbox and Game Pass, making weirder games, his inspirations, the Psychonauts 2 documentary, improving work culture, his future plans, and the deep importance of making games with …",
-      "url": "https://www.ign.com/articles/tim-schafer-opens-up-about-life-with-xbox-building-better-work-cultures-and-whats-next",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/06/f5drslwniuteawxwomz3-hdgx2c5osm3tiqwokmzdbg-1678124054088.jpg?width=1280",
-      "publishedAt": "2023-03-06T19:01:46Z",
-      "content": "Double Fine Productions CEO Tim Schafer has touched the development of a lot of video games, so its natural that hes hard-pressed to pick a favorite. But his answer is ultimately driven by one of Sch… [+17963 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "Daily Deals: Early Mario Day Sale Deals, Powerful RTX 4060 Gaming Laptop Finally Available, 20% Off Apple AirPods Pro, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/daily-deals-early-mario-day-sale-deals-powerful-rtx-4060-gaming-laptop-finally-available-20-off-apple-airpods-pro-and-more",
-      "urlToImage": null,
-      "publishedAt": "2023-03-06T18:42:14Z",
-      "content": null
+      "author": "Chuong Nguyen",
+      "title": "Dealmaster: Eufy’s smartest door lock is now on sale - Ars Technica",
+      "description": "We've got smart cameras, locks, and doorbells to secure your home.",
+      "url": "https://arstechnica.com/gadgets/2023/03/dealmaster-eufys-smartest-door-lock-is-now-on-sale/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/eufy_doorbell-760x380.jpeg",
+      "publishedAt": "2023-03-07T18:19:33Z",
+      "content": "62 with \r\nEufy's home security products are on sale, with several discounts across a wide array of smart home accessories, including door locks, cameras, and doorbells. One of my favorite items from … [+6181 chars]"
     }
   ]
 }
