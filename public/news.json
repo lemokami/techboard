@@ -1,149 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 217,
+  "totalResults": 335,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "HODINKEE"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Danny Milton",
-      "title": "MoonSwatch Mission To Moonshine Gold Photos - HODINKEE",
-      "description": "Well, it wasn't the solid-gold Swatch some were hoping for – but this collector had to have it anyway. Read on for coverage of the scenes in both Tokyo and London.",
-      "url": "https://www.hodinkee.com/articles/live-pics-of-the-moonswatch-mission-to-moonshine-gold-and-the-first-person-on-the-planet-to-buy-it",
-      "urlToImage": "https://hodinkee.imgix.net/uploads/images/2e5bcd58-d3ed-446c-90c3-efeef13d0c9d/2023-03-07185504-2.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-      "publishedAt": "2023-03-07T23:00:36Z",
-      "content": "The scene in London was no boring affair with queues (I know my local jargon) roughly 2,000 strong. Duck Kim was the lucky first in line and first to buy, having camped out overnight beginning at 4:3… [+200 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Daniel Oropeza",
-      "title": "The Best 'Mario Day' Deals Nintendo Has to Offer - Lifehacker",
-      "description": "Nintendo's Mario Day is March 10, but you don't have to wait until then for the games.",
-      "url": "https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a3a4def756996b7b4d31bbdca4189260.jpg",
-      "publishedAt": "2023-03-07T22:00:00Z",
-      "content": "For years, March 10 has come with Nintendo fans dressing up for themed parties and playing their favorite Mario games. In 2016, Nintendo decided to officially adopt the celebration as Mario Day, acco… [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "9to5Mac",
-      "title": "iPhone 15 and iPhone 15 Plus won't offer these two display features - 9to5Mac",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNW1hYy5jb20vMjAyMy8wMy8wNy9pcGhvbmUtMTUtYWx3YXlzLW9uLXByb21vdGlvbi_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-07T21:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Adorable Playdate handheld gets new free games alongside $20 price increase - Ars Technica",
-      "description": "Interested customers have until April 7 to lock in current $179 price.",
-      "url": "https://arstechnica.com/gaming/2023/03/adorable-playdate-handheld-gets-new-free-games-alongside-20-price-increase/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/playdate-760x380.jpg",
-      "publishedAt": "2023-03-07T21:23:43Z",
-      "content": "Enlarge/ Is the Playdate the most adorable portable console out there? You gotta believe!\r\n13 with \r\nLast April, we enthused that the tiny, yellow Playdate portable game console \"earns its $179 price… [+2892 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Nicole Clark",
-      "title": "Master Chief is here to teach you how to file your taxes - Polygon",
-      "description": "A YouTuber has used AI voice over technology to make Master Chief explain the intricacies of tax season, oil changing a 2006 Nissan Murano, and more. Let the Spartan help you with this sage advice.",
-      "url": "https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dOIX1FVfEc4hJpH3O5JhfIQbkeM=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15956557/81d638fc_4071_4185_b659_d2ca38bbd7f7.jpg",
-      "publishedAt": "2023-03-07T20:42:31Z",
-      "content": "And change your oil, and ask out your crush, and ..."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNET",
-      "title": "The iPhone 14 Does Yellow Very Mellow - CNET",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL3RoZS1pcGhvbmUtMTQtZG9lcy15ZWxsb3ctdmVyeS1tZWxsb3cv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-07T20:37:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Filipe Espósito",
-      "title": "iOS 16.4 hints at Car Key feature dropping NFC support - 9to5Mac",
-      "description": "Car Key was introduced in 2020 with iOS 13.6, and as the name suggests, the feature lets car owners use...",
-      "url": "https://9to5mac.com/2023/03/07/ios-16-4-car-key-dropping-nfc-support/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-car-key.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-03-07T20:34:00Z",
-      "content": "Car Key was introduced in 2020 with iOS 13.6, and as the name suggests, the feature lets car owners use their iPhone or Apple Watch to unlock the doors and even start the car. Currently, Car Key work… [+2367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Andrew Court",
-      "title": "Reclusive Gene Hackman, 93, looks fit as he pumps gas, performs yard work - New York Post ",
-      "description": "The two-time Oscar winner — who celebrated his 93rd birthday back in January — looked fit and healthy as he made a rare outing in New Mexico on Sunday.",
-      "url": "https://nypost.com/2023/03/07/reclusive-gene-hackman-93-looks-fit-as-he-pumps-gas-performs-yard-work/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000007833176.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-03-07T20:32:00Z",
-      "content": "Talk about good Genes.\r\nHollywood legend Gene Hackman proved he’s still in tip-top shape as he performed yard work at his ranch in Santa Fe, New Mexico, on Sunday.\r\nThe “Unforgiven” actor who celebra… [+3506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "FIFA Loot Boxes Violate Austrian Gambling Laws, Court Rules - Kotaku",
-      "description": "Sony has been ordered to refund players, though the PlayStation maker can still appeal the decision",
-      "url": "https://kotaku.com/fifa-ultimate-team-gambling-sony-ea-lawsuit-austria-1850199000",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2c64255a29defcc30dd01897c0408d54.jpg",
-      "publishedAt": "2023-03-07T20:00:00Z",
-      "content": "Loot boxes have been a thorn in gamers sides for as long as theyve been around, with lawsuits and players deriding them as exploitative gambling mechanics. EA has been a prominent example of publishe… [+2100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "‘Destiny 2’ Launches Secret ‘Vexcalibur’ Exotic Mission, Live Now - Forbes",
-      "description": "How to get Destiny 2's Vexcalibur, its new, secret exotic.",
-      "url": "https://www.forbes.com/sites/paultassi/2023/03/07/destiny-2-launches-secret-vexcalibur-exotic-mission-live-now/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/640793a0cf89db4f8525191c/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-03-07T19:45:08Z",
-      "content": "Destiny 2\r\nBungie\r\nAlright Bungie, you got me. I was just about to record my weekly video commenting that there wasnt all that much content at reset this week, just a new battleground and Vex mini-mi… [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Nikki Main",
-      "title": "ADHD-Friendly Browser Looks to Curb Distractions Online - Gizmodo",
-      "description": "Sidekick, a new browser, is working to help internet users stay focused while navigating the web.",
-      "url": "https://gizmodo.com/adhd-sidekick-adderall-private-browser-1850197491",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/418cc887e3d226332a81b62df5c25828.jpg",
-      "publishedAt": "2023-03-07T19:45:00Z",
-      "content": "An ADHD-friendly browser launched today and features tools to better help those easily distracted minimize the noise online. Dubbed a productivity browser, Sidekick protects the users data while also… [+2772 chars]"
+      "author": "Amanda Pérez Pintado, USA TODAY",
+      "title": "Facebook tests bringing back Messenger to its app - USA TODAY",
+      "description": "Facebook and Messenger split nearly a decade ago.",
+      "url": "https://www.usatoday.com/story/tech/2023/03/08/facebook-tests-messenger-app/11427785002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/04/USAT/cf41ee93-589c-4e05-b7ae-83b656d08a0f-AP_Facebook_Papers_House_of_Cards.jpg?auto=webp&crop=3153,1774,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2023-03-08T21:55:55Z",
+      "content": "Facebook is testing the ability for users to access their Messenger inbox within its mobile app. \r\nFacebook head Tom Alison said Tuesday that the company will expand the test soon as it looks for way… [+1319 chars]"
     },
     {
       "source": {
@@ -151,90 +21,233 @@
         "name": "Polygon"
       },
       "author": "Michael McWhertor",
-      "title": "Overwatch 2’s One-Punch Man collab is live with new skins, free unlocks - Polygon",
-      "description": "One-Punch Man comes to Blizzard’s Overwatch 2 with new skins for Genji, Kiriko, Doomfist and Soldier: 76 inspired by the anime and manga series. Players can earn six cosmetic items by playing games of Overwatch.",
-      "url": "https://www.polygon.com/23629250/overwatch-2-one-punch-man-skins-collab-blizzard",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u_zSYeAmzjAMxbRCGdtSxs5riXU=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24486628/FqkBDllXgAA9Nu3.jpeg",
-      "publishedAt": "2023-03-07T19:35:22Z",
-      "content": "Blizzard is going full anime for Overwatch 2s first major crossover"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/kris-holt",
-      "title": "Messenger is returning to the Facebook mobile app after nine years away | Engadget - Engadget",
-      "description": "Meta is 'testing the ability for people to access their Messenger inbox within the Facebook app.' It wants Facebook to be 'the best place for social discovery and sharing.'.",
-      "url": "https://www.engadget.com/messenger-is-returning-to-the-facebook-mobile-app-after-nine-years-away-191426674.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6n4GoQmpe3u1MmbZWjCmVA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/338b7410-bd1a-11ed-bd7d-8e33ef2f86b6.cf.jpg",
-      "publishedAt": "2023-03-07T19:17:14Z",
-      "content": "It's been so long since Meta cut Messenger out of the Facebook mobile app\r\n that Windows Phone was still somewhat of a thing at the time. Almost nine years later, Meta is ready to bring them back tog… [+1988 chars]"
+      "title": "Call of Duty: Warzone and Modern Warfare 2 meet TMNT with Shredder DLC - Polygon",
+      "description": "Shredder from Teenage Mutant Ninja Turtles is coming to Call of Duty MWII and Warzone 2.0 as an Operator, according to a teaser video from Activision.",
+      "url": "https://www.polygon.com/23631148/call-of-duty-warzone-modern-warfare-2-tmnt-shredder-operator",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SucvW-NgTiyVPxGd7r9RL306Qvs=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24489610/shredder_cod.jpg",
+      "publishedAt": "2023-03-08T21:55:31Z",
+      "content": "In recent years, the Call of Duty series and its Warzone battle royale spinoffs have welcomed an eclectic group of guest characters: John Rambo and Die Hards John McClane, Godzilla and King Kong, var… [+1071 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Mail"
+        "name": "MacRumors"
       },
-      "author": "Vanessa Serna",
-      "title": "Georgia graduate, 29, paralyzed when chiropractor severed arteries is home after eight months - Daily Mail",
-      "description": "Caitlin Jensen, 29, was released from a treatment center on February 16 after regaining movement in her head, arms and legs, months after she was hospitalized on June 16.",
-      "url": "https://www.dailymail.co.uk/news/article-11831479/Georgia-graduate-29-paralyzed-chiropractor-severed-arteries-home-eight-months.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/07/18/68432615-0-image-a-26_1678213881496.jpg",
-      "publishedAt": "2023-03-07T19:14:43Z",
-      "content": "A Georgia Southern University graduate returned home eight months after she suffered strokes and was paralyzed when a chiropractor severed her arteries.\r\nCaitlin Jensen, 29, was released from a treat… [+7265 chars]"
+      "author": "Juli Clover",
+      "title": "Video Review: AirPods Pro 2 After Six Months - MacRumors",
+      "description": "Apple released a second-generation version of the AirPods Pro back in September 2022, and the updated earbuds have now been available for six months....",
+      "url": "https://www.macrumors.com/2023/03/08/airpods-pro-2-video-review/",
+      "urlToImage": "https://images.macrumors.com/t/oCwVUibr26MsJYfjSJ_xNY_nM4k=/3840x/article-new/2023/03/airpods-pro-2.jpg",
+      "publishedAt": "2023-03-08T20:49:08Z",
+      "content": "Apple released a second-generation version of the AirPods Pro back in September 2022, and the updated earbuds have now been available for six months. MacRumors videographer Dan Barbera has been using… [+1047 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "A more powerful Steam Deck is “a few years” off, Valve says - Ars Technica",
+      "description": "Valve sees value in keeping \"a solid [hardware] target throughout the generation.\"",
+      "url": "https://arstechnica.com/gaming/2023/03/a-more-powerful-steam-deck-is-a-few-years-off-valve-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/steamdeckcalendar-760x380.jpg",
+      "publishedAt": "2023-03-08T20:31:00Z",
+      "content": "Enlarge/ Calendar Man is marking the many, many days until a more powerful Steam Deck shows up.\r\n43 with \r\nIf you're waiting for a more powerful version of the Steam Deck before diving in on Valve's … [+2903 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Sportskeeda"
       },
-      "author": "Florence Ion",
-      "title": "The Teaser Puzzle For Google I/O 2023's Date Is Up - Gizmodo",
-      "description": "The date has yet to be revealed, but the developer conference is likely happening in the spring.",
-      "url": "https://gizmodo.com/google-io-puzzle-2023-conference-date-time-glass-onion-1850198432",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/562ed48dd93f123cf9241bcc03c39f9c.png",
-      "publishedAt": "2023-03-07T19:10:00Z",
-      "content": "Leave it to Google to tease us with a puzzle instead of just coming out and telling us when Google I/O 2023 is happening. If youre curious about joining the collective of developers determining when … [+2346 chars]"
+      "author": "Mridul Dutta",
+      "title": "5 hidden Easter Eggs in GTA Vice City Definitive Edition that are hard to find - Sportskeeda",
+      "description": "GTA Vice City Definitive Edition is a remastered HD Universe version of Grand Theft Auto: Vice City that shares many parallels with the original game.",
+      "url": "https://www.sportskeeda.com/gta/5-hidden-easter-eggs-gta-vice-city-definitive-edition-hard-find",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/b3812-16782836045389-1920.jpg",
+      "publishedAt": "2023-03-08T20:08:01Z",
+      "content": "GTA Vice City Definitive Edition is a remastered HD Universe version of Grand Theft Auto: Vice City that shares many parallels with the original game. Rockstar Games has also imported most of the Eas… [+3247 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Sportskeeda"
       },
-      "author": "Kurt Knutsson, CyberGuy Report",
-      "title": "How to tell if your laptop camera has been hacked and someone is spying on you - Fox News",
-      "description": "Kurt \"CyberGuy\" Knutsson gives his top choices of webcam covers to protect you from being filmed unknowingly by hackers and to protect your private space.",
-      "url": "https://www.foxnews.com/tech/how-tell-your-laptop-camera-hacked-someone-spying-you",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/3-CLOUDVALLEY.jpg",
-      "publishedAt": "2023-03-07T19:02:00Z",
-      "content": "You use your computer daily, although I bet you rarely, if ever, consider that someone could be spying on you through your built-in camera on a laptop or a standalone camera that connects via USB. Wo… [+6780 chars]"
+      "author": "Neeraj Bansal",
+      "title": "Top 5 Dragon Ball Super mods for GTA 5 in 2023 - Sportskeeda",
+      "description": "GTA 5 has been one of the most popular games of the past decade, and part of this massive success goes to the dedicated modding community.",
+      "url": "https://www.sportskeeda.com/gta/top-5-dragon-ball-super-mods-gta-5-2023",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/13123-16782914829813-1920.jpg",
+      "publishedAt": "2023-03-08T20:06:58Z",
+      "content": "GTA 5 has been one of the most popular games of the past decade, and part of this massive success goes to the dedicated modding community.\r\nOne of the best things players can do with the help of mods… [+3361 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "HODINKEE"
       },
-      "author": "IGN",
-      "title": "Daily Deals: Gloomhaven Jaws of the Lion, Calvin and Hobbes, MTG Strixhaven Set Boosters, Xbox Elite Controller, and More - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvZGFpbHktZGVhbHMtZ2xvb21oYXZlbi1qYXdzLW9mLXRoZS1saW9uLW1hcmlvLWRheS1zYWxlLXhib3gtZWxpdGUtY29udHJvbGxlctIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-03-07T18:54:32Z",
-      "content": null
+      "author": "James Stacey",
+      "title": "Introducing: Seiko Announces More Dive-GMTs Are Coming Our Way With The Prospex GMT SPB381, SPB383, and SPB385 - HODINKEE",
+      "description": "Not just more, but we're talking a higher-spec Dive-GMT with a brand new movement.",
+      "url": "https://www.hodinkee.com/articles/seiko-announces-more-dive-gmts-are-coming-our-way-with-the-prospex-gmt-spb381-spb383-and-spb385",
+      "urlToImage": "https://hodinkee.imgix.net/uploads/images/164d3698-45e1-4e3b-814b-2e66b83007d2/Seiko-GMT-SPB381-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "publishedAt": "2023-03-08T20:00:09Z",
+      "content": "Above, you can see the three references that make up the line of the Prospex 1968 Diver's Modern Re-interpretation GMT and Seiko Watchmaking 110th Anniversary Seiko Prospex Save the Ocean Limited Edi… [+320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Mishaal Rahman",
+      "title": "Android 14 could let you create an emoji wallpaper on your Pixel - XDA Developers",
+      "description": "Google may let you create an emoji wallpaper on your Pixel phone when it gets the Android 14 update. Here's what it looks like right now!",
+      "url": "https://www.xda-developers.com/android-14-emoji-wallpaper/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/03/emoji_wallpaper_stitched_android_14.png",
+      "publishedAt": "2023-03-08T19:42:00Z",
+      "content": "Google rolled out the second Developer Preview of Android 14 earlier today, bringing with it the selected photos access feature we told you about earlier. As always, a lot of the new features in the … [+2117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tubefilter"
+      },
+      "author": "James Hale",
+      "title": "Spotify doubles up on video podcasts with Markiplier, Drew Afualo deals (Exclusive) - Tubefilter",
+      "description": "Spotify's latest video podcast deal is with none other than Markiplier. The agreement will bring video versions of his podcasts Distractible (co-hosted The agreement will bring video versions of his podcasts Distractible (co-hosted with longtime friends and f…",
+      "url": "https://www.tubefilter.com/2023/03/08/spotify-markiplier-distractible-go-my-favorite-sports-team-video-podcasts/",
+      "urlToImage": "https://www.tubefilter.com/wp-content/uploads/2023/03/markiplier-spotify1.jpg",
+      "publishedAt": "2023-03-08T19:21:19Z",
+      "content": "Spotify‘s latest video podcast deal is with none other than Markiplier.\r\nThe agreement will bring video versions of his podcasts Distractible (co-hosted with longtime friends and fellow content creat… [+3352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Simon Cohen",
+      "title": "Sonos CEO on Bluetooth: 'you have to be humble enough to listen to customers' - Digital Trends",
+      "description": "In an interview with Digital Trends, Sonos CEO Patrick Spence explains why the company changed its tune on Bluetooth, and what might be in store for future products.",
+      "url": "https://www.digitaltrends.com/home-theater/sonos-patrick-spence-listening-customers-era-100-era-300/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Sonos-era-100-4.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-03-08T19:14:09Z",
+      "content": "It can be hard for brands to admit when they got something wrong — especially when theyve spent time, money, and customer trust on a message. But taking a sober second look at a previous strategy, pa… [+4942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Rachel Seo",
+      "title": "YouTube Gaming Star Markiplier Signs Exclusive Video Podcast Partnership with Spotify - Variety",
+      "description": "Digital creator, podcaster and filmmaker Markiplier has signed an exclusive video partnership with Spotify for his two podcasts, “Distractible” and “Go! My Favorite Sports Team.” Video episodes of …",
+      "url": "https://variety.com/2023/digital/tech/markiplier-spotify-podcast-partnership-five-nights-at-freddys-1235547022/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/03/markiplier.png?w=1000&h=563&crop=1",
+      "publishedAt": "2023-03-08T18:58:00Z",
+      "content": "Digital creator, podcaster and filmmaker Markiplier has signed an exclusive video partnership with Spotify for his two podcasts, “Distractible” and “Go! My Favorite Sports Team.” Video episodes of bo… [+7046 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Wargroove 2 announced for Nintendo Switch, PC release in 2023 - Polygon",
+      "description": "Chucklefish announces Wargroove 2, a sequel to the 2019 Advance Wars-inspired strategy game. Wargroove 2 is heading to Nintendo Switch and PC via Steam this year.",
+      "url": "https://www.polygon.com/23630774/wargroove-2-nintendo-switch-pc-steam-announcement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yFpLEaBVSlggpEhsF7gJ8HiD49Q=/0x0:1680x880/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24489146/wargroove_2.jpg",
+      "publishedAt": "2023-03-08T18:55:41Z",
+      "content": "The next Wargroove is also getting a roguelike mode"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Claire Jackson",
+      "title": "This 2D Titanfall-Like On Steam Is Already Wowing The Internet - Kotaku",
+      "description": "Taking inspiration from classic action platformers like Metal Slug, Steelborn delivers positive first impressions",
+      "url": "https://kotaku.com/steelborn-steam-indie-titanfall-metroid-reddit-pc-1850203611",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/94814b2207a12e469be8b9d66e659b81.jpg",
+      "publishedAt": "2023-03-08T18:38:33Z",
+      "content": "If youve been eagerly awaiting a new Titanfall gamewell, I dont bring any news of that (but know that Im as sad as you are). What I am here to tell you about, however, is this neat little side-scroll… [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Logan Plant",
+      "title": "Resident Evil 4 Remake's Infamous Rain Will Be Fixed With Day One Patch - IGN",
+      "description": "Clearer skies are ahead for the Resident Evil 4 remake, as Capcom said there's a patch in the works to diminish the extreme rain effects.",
+      "url": "https://www.ign.com/articles/resident-evil-4-remakes-infamous-rain-will-be-fixed-with-day-one-patch",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/02/23/residentevil4-blogroll-01-1677188167868.jpg?width=1280",
+      "publishedAt": "2023-03-08T18:32:36Z",
+      "content": "Clearer skies are ahead for the Resident Evil 4 remake, as Capcom said there's a patch in the works to diminish the extreme rain effects.\r\nIn an interview with Press Start Australia, Resident Evil 4 … [+1530 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Aisha Malik",
-      "title": "Facebook’s latest test brings back in-app messaging - TechCrunch",
-      "description": "Facebook is testing the ability for users to access their Messenger inbox within the Facebook app.",
-      "url": "https://techcrunch.com/2023/03/07/facebooks-latest-test-brings-back-in-app-messaging/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1245156419.jpg?resize=1200,800",
-      "publishedAt": "2023-03-07T18:34:22Z",
-      "content": "Facebook head Tom Alison announced today that the company is testing the ability for users to access their Messenger inbox within the Facebook app. Back in 2016, Facebook removed messaging capabiliti… [+2546 chars]"
+      "author": "Sarah Perez",
+      "title": "Spotify revamps its app with TikTok-style discovery feeds, Smart Shuffle for playlists and more - TechCrunch",
+      "description": "At launch, Spotify's redesign will be mobile-only but it will arrive on more devices in the future.",
+      "url": "https://techcrunch.com/2023/03/08/spotify-revamps-its-app-with-tiktok-style-discovery-feeds-smart-shuffle-for-playlists-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Preview-On-Home_Music.jpg?resize=1200,683",
+      "publishedAt": "2023-03-08T18:30:18Z",
+      "content": "At Spotify’s Stream On event today in LA, the company introduced a significant redesign of its app, which capitalizes on its investments in personalization technology while also adopting a similar sh… [+8840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Barry Schwartz",
+      "title": "Google rolled out new site names, favicon and sponsored label on desktop search - Search Engine Land",
+      "description": "After launching this design for the mobile search results last October, this is now officially live for desktop search.",
+      "url": "https://searchengineland.com/google-rolled-out-new-site-names-favicon-and-sponsored-label-on-desktop-search-394084",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2018/07/google-building-logo-shutterstock_559400386.jpg",
+      "publishedAt": "2023-03-08T18:30:00Z",
+      "content": "Google has rolled out the site names, updated favicons, and sponsored labels on desktop search after launching this on mobile search last October. Google has been testing the desktop version since la… [+1923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Releases Third Public Betas of iOS 16.4 and iPadOS 16.4 With New Emoji, Safari Web Push Notifications and More - MacRumors",
+      "description": "Apple today seeded the third betas of upcoming iOS 16.4 and iPadOS 16.4 updates to public beta testers, allowing non-developers to test the software...",
+      "url": "https://www.macrumors.com/2023/03/08/apple-releases-ios-16-4-public-beta-3/",
+      "urlToImage": "https://images.macrumors.com/t/biE0KvIg5fcmskdu2vm-xaot-J4=/2500x/article-new/2023/01/iOS-16.4-Feature-Red.jpg",
+      "publishedAt": "2023-03-08T18:25:24Z",
+      "content": "Apple today seeded the third betas of upcoming iOS 16.4 and iPadOS 16.4 updates to public beta testers, allowing non-developers to test the software ahead of its launch. Today's betas come one week a… [+1689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple rolling out third iOS 16.4 public beta with new emoji, 5G Standalone, more - 9to5Mac",
+      "description": "Following Tuesday’s release of iOS 16.4 beta 3 to developers, Apple is now rolling out the third iOS 16.4 public...",
+      "url": "https://9to5mac.com/2023/03/08/apple-third-ios-16-4-public-beta/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/ios-16-hero-16.4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-08T18:21:00Z",
+      "content": "Following Tuesday’s release of iOS 16.4 beta 3 to developers, Apple is now rolling out the third iOS 16.4 public beta to users registered in the Apple Beta Software Program. As we previously covered,… [+1644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Danny Goodwin",
+      "title": "Google AI in search: From stalling to scrambling? - Search Engine Land",
+      "description": "Google had a 'revolutionary' chatbot ready two years ago. Now, it's slowly rushing to put AI into more products. What happened?",
+      "url": "https://searchengineland.com/google-ai-search-stalling-scrambling-394051",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2023/03/code-red-alert-1920.jpg",
+      "publishedAt": "2023-03-08T18:20:00Z",
+      "content": "Did Google move too slowly with AI? Is that why Google is now scrambling to put AI into everything? Two new reports paint two entirely different pictures of Google before – and since – the launch of … [+3917 chars]"
     },
     {
       "source": {
@@ -242,25 +255,12 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Pixel Buds Pro spatial audio with head tracking update rolling out - 9to5Google",
-      "description": "Google is now rolling out the Pixel Buds Pro update that enables spatial audio with head tracking. The January security patch introduced...",
-      "url": "https://9to5google.com/2023/03/07/pixel-buds-pro-spatial-audio-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/11/Pixel-Buds-Pro-earbuds-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-03-07T18:21:00Z",
-      "content": "The January security patch already introduced support for static spatial audio on the latest Pixel phones. Google is now rolling out the Pixel Buds Pro update that enables spatial audio with head tra… [+1579 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Chuong Nguyen",
-      "title": "Dealmaster: Eufy’s smartest door lock is now on sale - Ars Technica",
-      "description": "We've got smart cameras, locks, and doorbells to secure your home.",
-      "url": "https://arstechnica.com/gadgets/2023/03/dealmaster-eufys-smartest-door-lock-is-now-on-sale/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/eufy_doorbell-760x380.jpeg",
-      "publishedAt": "2023-03-07T18:19:33Z",
-      "content": "62 with \r\nEufy's home security products are on sale, with several discounts across a wide array of smart home accessories, including door locks, cameras, and doorbells. One of my favorite items from … [+6181 chars]"
+      "title": "These blurry subway photos may offer the latest Pixel Fold leak [Gallery] - 9to5Google",
+      "description": "The latest example of Google phones leaking on planes, trains, and automobiles is here with blurry shots of what's possibly a Pixel Fold...",
+      "url": "https://9to5google.com/2023/03/08/pixel-fold-leak-subway/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/11/pixel-fold-fpt-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-08T18:14:00Z",
+      "content": "Google phones have literally been spotted on planes, trains, and automobiles ahead of their official unveiling. The latest example of this are blurry shots of what’s possibly a Pixel Fold, thus makin… [+1401 chars]"
     }
   ]
 }
