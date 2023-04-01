@@ -1,84 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 377,
+  "totalResults": 353,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "GameSpot"
       },
-      "author": "Jennifer Elias",
-      "title": "Google reshuffles virtual assistant unit with focus on Bard A.I. technology - CNBC",
-      "description": "Google is reorganizing its Assistant team to include more focus on Bard as the company shifts more resources to artificial intelligence.",
-      "url": "https://www.cnbc.com/2023/03/29/google-reorganization-in-assistant-follows-bard-launch-memo-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105193472-RTS1QG9H.jpg?v=1680135074&w=1920&h=1080",
-      "publishedAt": "2023-03-30T00:11:00Z",
-      "content": "Google is reshuffling the reporting structure of its virtual assistant unit called Assistant to focus more on Bard, the company's new artificial intelligence chat technology.\r\nIn a memo to employees … [+2498 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Microsoft's Bing chatbot is getting ads - The Verge",
-      "description": "Bing’s AI-powered chatbot will how show ads. Microsoft still seems to be experimenting with them, but the company has confirmed that they’re going to start showing up.",
-      "url": "https://www.theverge.com/2023/3/29/23662476/microsoft-bing-chatbot-ads-revenue-sharing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wKatGnSnx41XmTEjfvZMWTCFue8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24435315/STK150_Bing_AI_Chatbot_01.jpg",
-      "publishedAt": "2023-03-30T00:02:00Z",
-      "content": "Microsofts Bing chatbot is getting ads\r\nMicrosofts Bing chatbot is getting ads\r\n / The AI-powered chatbot will start to show ads though exactly what those ads look like isnt final just yet.\r\nByJay Pe… [+2228 chars]"
+      "author": "Jenny Zheng",
+      "title": "E3 2023 Is Canceled - GameSpot",
+      "description": "This comes after months of publishers announcing they're skipping the event and general confusion over what's happening at E3 2023.",
+      "url": "https://www.gamespot.com/articles/e3-is-canceled/1100-6512853/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4118671-e3.jpeg",
+      "publishedAt": "2023-03-30T22:08:36Z",
+      "content": "E3 2023 has been canceled, an official statement by the ESA and ReedPop confirms. The event had been scheduled to take place June 13-16 in Los Angeles.\r\n\"This was a difficult decision because of all … [+1866 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Variety"
       },
-      "author": null,
-      "title": "Chris Pine played Mario Kart for the first time #dndmovie #nintendo #mariokart #gaming #shorts - IGN",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=FTlVMU3C_1c",
-      "urlToImage": "https://i.ytimg.com/vi/FTlVMU3C_1c/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBOKEIwDw==&rs=AOn4CLC4M3sBJIIIlT_HHYP8vuaPJm0A3Q",
-      "publishedAt": "2023-03-29T22:16:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "April PS Plus Games Announced | GameSpot News - GameSpot",
-      "description": "Sackboy: A Big Adventure, Meet Your Maker, and Tails of Iron are coming to PS Plus in April, The Last of Us Part 1 is having issues on PC, and Atlas Fallen g...",
-      "url": "https://www.youtube.com/watch?v=0tJfxfpDh_0",
-      "urlToImage": "https://i.ytimg.com/vi/0tJfxfpDh_0/maxresdefault.jpg",
-      "publishedAt": "2023-03-29T22:08:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizchina.com"
-      },
-      "author": "Efe Udin",
-      "title": "iPhone 15 Pro / Max will use a low-power microprocessor - Gizchina.com",
-      "description": "iPhone 15 Pro / Max will use a low-power microprocessor. The leaker of this info also correctly leaked info on the Dynamic Island",
-      "url": "https://www.gizchina.com/2023/03/29/iphone-15-pro-max-will-use-a-low-power-microprocessor/",
-      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/03/Apple-iPhone-15-Pro.jpg",
-      "publishedAt": "2023-03-29T21:29:12Z",
-      "content": "According to a source on the MacRumors forum, Apple’s iPhone 15 Pro and Pro Max will have new features and low-power microprocessors. These chips can ensure the use of specific features even while th… [+2064 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ron Amadeo",
-      "title": "Lenovo gives up on its dream of Android gaming phones - Ars Technica",
-      "description": "Phones brought special gaming-centric Android hardware, but nobody made games for it.",
-      "url": "https://arstechnica.com/gadgets/2023/03/lenovo-is-killing-its-gaming-smartphone-android-business/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/11-1-760x380.jpg",
-      "publishedAt": "2023-03-29T21:27:41Z",
-      "content": "12 with \r\n<ul><li>\r\n The Lenovo Legion Phone Duel 2, with its wild center-bump design. \r\n</li><li>\r\n The main guts of the phone, including a huge cooling system, live in the middle. \r\n</li><li>\r\n The… [+3304 chars]"
+      "author": "Ethan Shanfeld",
+      "title": "E3 Gaming Expo Cancels 2023 Event - Variety",
+      "description": "The Electronic Entertainment Expo, or E3, has canceled its 2023 event. E3 was previously scheduled to take place June 13-16 at the Los Angeles Convention Center, in-person for the first time since …",
+      "url": "https://variety.com/2023/gaming/news/e3-canceled-1235569377/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/03/GettyImages-1233463459.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-03-30T21:31:00Z",
+      "content": "The Electronic Entertainment Expo, or E3, has canceled its 2023 event. \r\nE3 was previously scheduled to take place June 13-16 at the Los Angeles Convention Center, in-person for the first time since … [+1511 chars]"
     },
     {
       "source": {
@@ -86,12 +34,25 @@
         "name": "Engadget"
       },
       "author": "https://www.engadget.com/about/editors/jon-fingas",
-      "title": "PS5 launch title 'Sackboy' is free on PlayStation Plus in April - Engadget",
-      "description": "The PS5 launch game 'Sackboy' is now free on PS Plus..",
-      "url": "https://www.engadget.com/ps5-launch-title-sackboy-is-free-on-playstation-plus-in-april-211530313.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.qFfnveNtrUps.Qlzy3_Ow--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/999fecc0-ce6f-11ed-b9da-f9f1d6f7d2e7.cf.jpg",
-      "publishedAt": "2023-03-29T21:17:11Z",
-      "content": "Let's be honest: you were probably curious about Sackboy: A Big Adventure when it launched alongside the PlayStation 5, but not so much that you were willing to buy that instead of Demon's Souls or M… [+1248 chars]"
+      "title": "NVIDIA's GeForce RTX 4070 will reportedly cost $599 | Engadget - Engadget",
+      "description": "NVIDIA is said to be pricing the GeForce RTX 4070 at $599, or the same price as a 3070 Ti..",
+      "url": "https://www.engadget.com/nvidias-geforce-rtx-4070-will-reportedly-cost-599-210058860.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3CdqvGXG_Bn3TMny6gXiZQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/6580c0b0-cf30-11ed-bcf7-558e27af22de.cf.jpg",
+      "publishedAt": "2023-03-30T21:01:55Z",
+      "content": "RTX 40-series graphics card prices may soon come down to Earth... if ever so slightly. VideoCardzsources claim NVIDIA will price the standard GeForce RTX 4070 at $599. That's decidedly more affordabl… [+1393 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Rebekah Valentine",
+      "title": "E3 Has Been Canceled - IGN",
+      "description": "After months of speculation and multiple companies confirming it would not be attending, the ESA announced today to its members that E3 2023 has been canceled.",
+      "url": "https://www.ign.com/articles/e3-has-been-canceled",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/28/e3-blogroll-logos-1680016054570.jpg?width=1280",
+      "publishedAt": "2023-03-30T20:29:37Z",
+      "content": "Almost a year after announcing its return, the Entertainment Software Association announced today to its members that this year's Electronic Entertainment Expo (E3), has been canceled, IGN can confir… [+2157 chars]"
     },
     {
       "source": {
@@ -99,25 +60,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Fortnite - Official Spring Breakout 2023 Trailer - IGN",
-      "description": "Check out the latest Fortnite trailer revealing the Fortnite Spring Breakout, available now until April 11, 2023 at 12 a.m. ET. During Fortnite's Spring Brea...",
-      "url": "https://www.youtube.com/watch?v=otx32Fc9kS4",
-      "urlToImage": "https://i.ytimg.com/vi/otx32Fc9kS4/maxresdefault.jpg",
-      "publishedAt": "2023-03-29T21:00:32Z",
+      "title": "Resident Evil 4 – How to Get the Best Shooting Range Scores - IGN",
+      "description": "Like the iconic horror classic, the Resident Evil 4 remake features the fan-favorite Shooting Range minigame. However, this revamped side hustle is dramatica...",
+      "url": "https://www.youtube.com/watch?v=JTf3DCqG02Y",
+      "urlToImage": "https://i.ytimg.com/vi/JTf3DCqG02Y/maxresdefault.jpg",
+      "publishedAt": "2023-03-30T20:00:05Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "The Drive"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "2023 Toyota GR Corolla Engine's Colossal Failure Is a $32000 Bill You Don't Want - The Drive",
-      "description": "A dealership employee is documenting a catastrophic engine failure on a new GR Corolla, and it hurts to see.",
-      "url": "https://www.thedrive.com/news/2023-toyota-gr-corolla-engines-colossal-failure-is-a-32000-bill-you-dont-want#article",
-      "urlToImage": "https://www.thedrive.com/uploads/2023/03/29/20230329-Toyota-GR-Corolla-Engine-Failure.jpg?auto=webp",
-      "publishedAt": "2023-03-29T21:00:00Z",
-      "content": "It isn't every day that you see a newer car roll into the shop with catastrophic engine failurebut it does occasionally happen. Today's example happens to be a new GR Corolla that didn't just fail si… [+2691 chars]"
+      "author": "Tom Phillips",
+      "title": "Pokémon Go developer teases \"blockbuster slate\" of summer features, amidst major Remote Raid changes - Eurogamer.net",
+      "description": "Pok&eacute;mon Go maker Niantic has announced a set of changes to Remote Raid gameplay, in a bid to rebalance a lockdow…",
+      "url": "https://www.eurogamer.net/pokemon-go-developer-teases-blockbuster-slate-of-summer-features-as-it-makes-major-remote-raid-changes",
+      "urlToImage": "https://assets.reedpopcdn.com/pokemon_93htLKo.jpg/BROK/thumbnail/1200x630/pokemon_93htLKo.jpg",
+      "publishedAt": "2023-03-30T20:00:00Z",
+      "content": "Pokémon Go maker Niantic has announced a set of changes to Remote Raid gameplay, in a bid to rebalance a lockdown-era feature it says has grown to overly dominate the app's economy and game balance.\r… [+17994 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Google Assistant might be doomed: Division “reorganizes” to focus on Bard - Ars Technica",
+      "description": "The Google Assistant makes no money and hasn't released hardware in two years.",
+      "url": "https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg",
+      "publishedAt": "2023-03-30T19:37:39Z",
+      "content": "Enlarge/ The lettering \"Hey Google\" on the Google pavilion at the CES consumer electronics show in Las Vegas in 2018. These words activate Google Assistant, Google's virtual personal assistant.\r\n60 w… [+5085 chars]"
     },
     {
       "source": {
@@ -125,116 +99,12 @@
         "name": "GameSpot"
       },
       "author": "Jenny Zheng",
-      "title": "Naughty Dog Releases Update For The Last Of Us Part I PC Port - GameSpot",
-      "description": "The patch improves stability and performance.",
-      "url": "https://www.gamespot.com/articles/naughty-dog-releases-update-for-the-last-of-us-part-i-pc-port/1100-6512808/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4117844-tlouparti.jpeg",
-      "publishedAt": "2023-03-29T20:57:04Z",
-      "content": "The Last Of Us Part I isn't running so great on PC and Steam Deck, and Naughty Dog has released a hotfix mostly focused on improving stability and performance. The studio confirmed this is the first … [+1857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Sisi Jiang",
-      "title": "Congress Finds Time To Yell At Sony On Microsoft's Behalf - Kotaku",
-      "description": "10 sitting Congress members sent letters to Biden officials about Japanese antitrust laws",
-      "url": "https://kotaku.com/congress-sony-playstation-microsoft-xbox-acquisition-1850280353",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dfda91494463de84c7053bb46cc2675a.jpg",
-      "publishedAt": "2023-03-29T20:55:00Z",
-      "content": "There are so many issues that Congress could be focusing on right now. Banking regulations following SVBs collapse, for example. Or helping Americans who struggle with basic living expenses. Maybe th… [+2421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "author": null,
-      "title": "Apple sets June 5 start date for WWDC 2023 to debut iOS7 and more - SiliconANGLE News",
-      "description": "Apple sets June 5 start date for WWDC 2023 to debut iOS7 and more - SiliconANGLE",
-      "url": "https://siliconangle.com/2023/03/29/apple-sets-june-5-start-date-wwdc-2023/",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Apple.jpg",
-      "publishedAt": "2023-03-29T20:54:15Z",
-      "content": "Apple Inc. today announced that its annual Worldwide Developers Conference will run June 5-9 in an online format.\r\nThe company plans to detail new versions of its iOS, iPadOS, macOS, watchOS and tvOS… [+2835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Fi makes 5G on iPhone official - 9to5Google",
-      "description": "Following the launch of iOS 16.4 on Monday, Google Fi today made official that 5G service is now available on the iPhone...",
-      "url": "https://9to5google.com/2023/03/29/google-fi-5g-iphone-official/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-fi-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-03-29T20:28:00Z",
-      "content": "Following the launch of iOS 16.4 on Monday, Google Fi today officially announced that 5G service is now available on the iPhone.\r\nTo enable, upgrade to iOS 16.4 on your iPhone 12, 13, 14, or 3rd-gen … [+1078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Angshuman Dutta",
-      "title": "The Last of US Part 1 PC v1.0.1.5 patch notes: Performance fixes, extra crash diagnostic information and more - Sportskeeda",
-      "description": "Naughty Dog has found itself in hot waters with the launch of the PC port of The Last of Us Part 1.",
-      "url": "https://www.sportskeeda.com/esports/news-the-last-us-part-1-pc-v1-0-1-5-patch-notes-performance-fixes-extra-crash-diagnostic-information",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/402a6-16801215788058-1920.jpg",
-      "publishedAt": "2023-03-29T20:27:09Z",
-      "content": "Naughty Dog has found itself in hot waters with the launch of the PC port of The Last of Us Part 1. Released on March 28, 2023, the game was met with overwhelmingly negative reviews on Steam, with pl… [+3055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Jeff Benjamin",
-      "title": "Hands-on with 50+ new iOS 16.4 changes and features [Video] - 9to5Mac",
-      "description": "Hnads-on with over 50 new changes and features found in iOS 16.4. In this post, we step through a few of the standout updates.",
-      "url": "https://9to5mac.com/2023/03/29/hands-on-with-50-new-ios-16-4-changes-and-features-video/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/iOS-16.4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-03-29T20:24:00Z",
-      "content": "On Monday Apple officially rolled out iOS 16.4 to the public, and it’s not hyperbole to say that’s it’s a huge release with tons of new changes, features, emoji, bug fixes, and more. In this hands-on… [+3970 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "After two years, Autodesk Maya and AutoCAD become Apple Silicon-native - Ars Technica",
-      "description": "Autodesk has never said why this took so long compared to competitors.",
-      "url": "https://arstechnica.com/gadgets/2023/03/after-two-years-autodesk-maya-and-autocad-become-apple-silicon-native/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/AutoCAD-for-Mac-2024-Feature-760x380.webp",
-      "publishedAt": "2023-03-29T20:12:42Z",
-      "content": "Enlarge/ A woman uses AutoCAD on a MacBook Pro in this promotional image from Autodesk.\r\n16 with \r\nIt has been two years and four months since the first Apple Silicon Mac hit the market, and now Auto… [+1929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Chris Ciaccia",
-      "title": "Intel stock pops as investor event details Xeon demand, timeline for lower power chip - Seeking Alpha",
-      "description": "Intel (INTC) shares spiked more than 7.5% on Wednesday after the company held an investor event focused on its data center business and made several announcements. Read for more.",
-      "url": "https://seekingalpha.com/news/3952404-intel-spikes-investor-event-details-xeon-demand-lower-power-chip",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458660127/image_458660127.jpg?io=getty-c-w750",
-      "publishedAt": "2023-03-29T20:02:00Z",
-      "content": "JasonDoiy/iStock Unreleased via Getty Images\r\nIntel (NASDAQ:INTC) shares gained more than 7.5% on Wednesday after the company held an investor event focused on its data center business and made sever… [+1393 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Song",
-      "title": "Daily Deals: Nintendo Switch OLED Zelda Tears of the Kingdom Console up for Preorder, 2TB PS5 SSD for $112.50, AirPods Pro for $195 - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/daily-deals-nintendo-switch-oled-zelda-tears-of-the-sun-ps5-ssd-apple-airpods-pro",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/29/032923-1680113833726.jpg?width=1280",
-      "publishedAt": "2023-03-29T19:46:09Z",
-      "content": "Today's daily deals include a brand new themed Nintendo Switch OLED up for preorder (the biggest one yet), $50 off a PS5 console, a 2TB SSD to go along with that for a mere $112.50, a 65\" TLC 4K QLED… [+7052 chars]"
+      "title": "Diablo 4 Had The Biggest Beta In Diablo History - GameSpot",
+      "description": "A record amount of players joined Diablo 4's beta weekends.",
+      "url": "https://www.gamespot.com/articles/diablo-4-had-the-biggest-beta-in-diablo-history/1100-6512844/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4118594-diablo4thebutcher_rightsize.jpg",
+      "publishedAt": "2023-03-30T19:06:25Z",
+      "content": "Diablo 4's had the most participants of any beta in the history of Diablo games. Whether it was the irresistible allure of KFC's Double Down or just pure excitement for the first Diablo console game … [+1461 chars]"
     },
     {
       "source": {
@@ -242,25 +112,155 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Mac Products From 1970's Going Up for Auction - Inside Edition",
-      "description": "How much would you pay for obsolete technology? If you’re a collector of ancient gadgets, this event may be for you. Julien’s Auctions is selling what it say...",
-      "url": "https://www.youtube.com/watch?v=nqy0jMYPHDk",
-      "urlToImage": "https://i.ytimg.com/vi/nqy0jMYPHDk/maxresdefault.jpg",
-      "publishedAt": "2023-03-29T19:33:07Z",
+      "title": "NEW Emoji With iOS 16.4! (How To Download) #shorts - CNET",
+      "description": "AT LAST! 😍 Here's how to download iOS 16.4 to get the NEW emoji! Which new emoji is your fave? #shorts #newemoji #ios164 #ios16update #ios16 #iphoneupdate  ...",
+      "url": "https://www.youtube.com/watch?v=1Y_pO82zlNY",
+      "urlToImage": "https://i.ytimg.com/vi/1Y_pO82zlNY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ab4EgAKACIoCDAgAEAEYZSBRKE8wDw==&rs=AOn4CLAL5EkurEkn4Al9S03CDtFtjJTEog",
+      "publishedAt": "2023-03-30T19:00:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "XDA Developers"
+        "name": "Sportskeeda"
       },
-      "author": "Mishaal Rahman",
-      "title": "Android 14 will make it easier to hide your phone's PIN from shoulder surfers - XDA Developers",
-      "description": "Android is adding a new &quot;enhanced PIN privacy&quot; setting that will make it safer for you to enter your phone's PIN in public.",
-      "url": "https://www.xda-developers.com/android-14-enhanced-pin-privacy/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/03/android_enhanced_pin_privacy_hero_image.png",
-      "publishedAt": "2023-03-29T19:21:00Z",
-      "content": "Google just released the second beta for the upcoming Android 13 QPR3 release this June, but the new release doesn’t offer a whole lot in terms of new features and improvements. Since QPR3 will be An… [+2576 chars]"
+      "author": "Saud Hashmi",
+      "title": "Why players should avoid Gauntlet Hellfire in GTA Online The Last Dose update - Sportskeeda",
+      "description": "The Gauntlet Hellfire is a popular sports car in GTA Online, offering high speed and exceptional handling. Despite its attractive qualities, owning this vehicle can prove to be more trouble than fun.",
+      "url": "https://www.sportskeeda.com/gta/why-players-avoid-gauntlet-hellfire-gta-online-the-last-dose-update",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/88cc0-16801797420619-1920.jpg",
+      "publishedAt": "2023-03-30T18:53:55Z",
+      "content": "The Gauntlet Hellfire is a popular sports car in GTA Online, offering high speed and exceptional handling. Despite its attractive qualities, owning this vehicle can prove to be more trouble than fun.… [+2679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Alan Sahbegovic",
+      "title": "How to easily make millions from GTA Online Biker Businesses using simple AFK tricks? - Sportskeeda",
+      "description": "GTA Online has several AFK tricks that players may wish to use to accumulate more products for their Biker Businesses. You could potentially earn millions of dollars.",
+      "url": "https://www.sportskeeda.com/gta/how-easily-make-millions-gta-online-biker-businesses-using-simple-afk-tricks",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/264a7-16801997478576-1920.jpg",
+      "publishedAt": "2023-03-30T18:41:10Z",
+      "content": "GTA Online has several AFK tricks that players may wish to use to accumulate more products for their Biker Businesses. You could potentially earn millions of dollars. Any event week that boosts the S… [+3172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Kyle Hyatt",
+      "title": "The A90 Supra's BMW Engine Is More Than Equal to the 2JZ - Jalopnik",
+      "description": "Papadakis Racing's 1,200-hp drift Supra runs a stock engine block and cylinder liners, proving that the Toyota 2JZ isn't the only rock-solid Supra engine.",
+      "url": "https://jalopnik.com/a90-supra-bmw-b58-engine-vs-toyota-2jz-durability-power-1850280901",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3b7587d5037ad05b3e64f38c983fe478.jpg",
+      "publishedAt": "2023-03-30T18:30:00Z",
+      "content": "When the current A90 Toyota Supra came out, many enthusiasts collectively raged over the fact that the engine in the car came from BMW. I mean, how could BMWs B58 inline-six be as strong and reliable… [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Rajan Sarma",
+      "title": "Best Free Fire headshot tricks in OB39 update - Sportskeeda",
+      "description": "Headshots are one of the best ways to get a quick kill in shooter and battle royale titles like COD Mobile, BGMI, and Garena's Free Fire.",
+      "url": "https://www.sportskeeda.com/free-fire/best-free-fire-headshot-tricks-ob39-update",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/5647c-16801884485540-1920.jpg",
+      "publishedAt": "2023-03-30T18:09:31Z",
+      "content": "Headshots are one of the best ways to get a quick kill in shooter and battle royale titles like COD Mobile, BGMI, and Garena's Free Fire. While veterans can pull them off on a regular basis, register… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Instagram now lets you bookmark posts with friends and store them in a dedicated space | Latest News - WION",
+      "description": "Instagram launched a bookmarking feature called “collections,” which allows users to organize the posts they save into private groupings for easier access.#i...",
+      "url": "https://www.youtube.com/watch?v=tg02lKgIhk0",
+      "urlToImage": "https://i.ytimg.com/vi/tg02lKgIhk0/maxresdefault.jpg",
+      "publishedAt": "2023-03-30T17:56:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Dustin Bailey",
+      "title": "Cyberpunk 2077: Phantom Liberty is \"at the final production phase,\" and we'll get more info in June - Gamesradar",
+      "description": "It won't be a phantom for much longer",
+      "url": "https://www.gamesradar.com/cyberpunk-2077-phantom-liberty-is-at-the-final-production-phase-and-well-get-more-info-in-june/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/snYFsVqpdTE69tKRoksbSY-1200-80.jpg",
+      "publishedAt": "2023-03-30T17:34:45Z",
+      "content": "We'll hear more on Cyberpunk 2077: Phantom Liberty in a few months, as developer CD Projekt Red has confirmed that its big marketing blitz is kicking off this summer.\r\n\"Exciting news, chooms: in June… [+1425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Krishanu Ranjan Sarma",
+      "title": "Microsoft monetizes Bing AI Chatbot: What is next for ChatGPT in browsing? - Sportskeeda",
+      "description": "Microsoft Bing AI chatbot users have reported seeing a few ads while utilizing the intelligent tool.",
+      "url": "https://www.sportskeeda.com/gaming-tech/microsoft-monetizes-bing-ai-chatbot-what-next-chatgpt-browsing",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/c6cea-16801878346466-1920.jpg",
+      "publishedAt": "2023-03-30T17:31:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "The OverDrive library ebook app is shutting down on May 1st - The Verge",
+      "description": "OverDrive makes two ebook and audiobook borrowing apps used by libraries, OverDrive and Libby. The company will shut down OverDrive on May 1st and is helping libraries fully transition to Libby.",
+      "url": "https://www.theverge.com/2023/3/30/23662976/overdrive-libby-ebook-lending-library-apps-transition",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vYI3ZuSb1odRwwHTUL4lJIDhyqI=/0x0:2040x1536/1200x628/filters:focal(1020x768:1021x769)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148701/PXL_20221028_153550267.jpg",
+      "publishedAt": "2023-03-30T17:31:12Z",
+      "content": "The OverDrive library ebook app is shutting down on May 1st\r\nThe OverDrive library ebook app is shutting down on May 1st\r\n / OverDrive, maker of the well-loved library ebook app Libby, is shutting do… [+2535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Zachary Roberts",
+      "title": "Minecraft Legends release date and time for all regions - Sportskeeda",
+      "description": "Minecraft Legends is coming soon. Mojang is poised to release its fourth major game in just under three weeks on April 18, 2023.",
+      "url": "https://www.sportskeeda.com/minecraft/minecraft-legends-release-date-time-regions",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/03/761d2-16801946483744-1920.jpg",
+      "publishedAt": "2023-03-30T17:30:32Z",
+      "content": "Minecraft Legends is coming soon. Mojang is poised to release its fourth major game in just under three weeks on April 18, 2023. After the raging success of Minecraft Dungeons, the developer is offer… [+2592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "New Doom Game Is Cute And Fun Until You Run Out Of Energy - Kotaku",
+      "description": "Mighty Doom is cute and silly, but it definitely doesn’t hold back on the gore",
+      "url": "https://kotaku.com/mighty-doom-come-out-ios-android-redeem-code-archero-1850283779",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c727cca36e4870c2c84cfb9cf0d4f730.jpg",
+      "publishedAt": "2023-03-30T17:30:00Z",
+      "content": "Mighty Doom, out now on iOS and Android, is a free-to-play Archero-like top-down shooter starring the one and only Doom Slayer, aka the Doomguy. In many ways, it reminds me of those weird 80s cartoon… [+3047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "CD Projekt explains why Witcher game 'Project Sirius' has seemingly been restarted - Video Games Chronicle",
+      "description": "It's better to cut costs early and even restart if needed than to carry on\"",
+      "url": "https://www.videogameschronicle.com/news/cd-projekt-explains-why-witcher-game-project-sirius-has-seemingly-been-restarted/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2022/11/witcher-3-next-gen-update.jpg",
+      "publishedAt": "2023-03-30T17:28:45Z",
+      "content": "CD Projekt has shed more light on the apparent decision to go back to the drawing board with Project Sirius, a new take on the Witcher series first announced last October.\r\nIn a regulatory announceme… [+2389 chars]"
     }
   ]
 }
