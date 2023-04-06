@@ -4,159 +4,211 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": null,
-      "title": "Why Ark's Next-Gen Unreal 5 Remaster Is a F*** You To Fans - IGN Daily Fix - IGN",
-      "description": "On today's Daily Fix:There's some bad and worse news coming for fans of survival game Ark. The developer, Studio Wildcard, announced that the upcoming sequel...",
-      "url": "https://www.youtube.com/watch?v=vTiULQDyapA",
-      "urlToImage": "https://i.ytimg.com/vi/vTiULQDyapA/maxresdefault.jpg",
-      "publishedAt": "2023-04-04T00:02:45Z",
+      "author": "Dan Goodin",
+      "title": "Open garage doors anywhere in the world by exploiting this “smart” device - Ars Technica",
+      "description": "A universal password. Unencrypted user data and commands. What could go wrong?",
+      "url": "https://arstechnica.com/information-technology/2023/04/open-garage-doors-anywhere-in-the-world-by-exploiting-this-smart-device/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/garage-door-opener-760x380.jpg",
+      "publishedAt": "2023-04-04T22:30:15Z",
+      "content": "66 with \r\nA market-leading garage door controller is so riddled with severe security and privacy vulnerabilities that the researcher who discovered them is advising anyone using one to immediately di… [+6174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Harshwardhan Sisodia",
+      "title": "What Call of Duty game is coming in 2024? All leaks so far - Sportskeeda",
+      "description": "Call of Duty: Modern Warfare 2, released on October 28, 2022, was supposed to run a two-year cycle to push out the succeeding CoD title in 2024.",
+      "url": "https://www.sportskeeda.com/esports/rumor-what-call-duty-game-coming-2024-all-leaks-far",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/67293-16806391294797-1920.jpg",
+      "publishedAt": "2023-04-04T21:40:06Z",
+      "content": "Call of Duty: Modern Warfare 2, released on October 28, 2022, was supposed to run a two-year cycle to push out the succeeding CoD title in 2024. However, Activision altered its plans while developing… [+2306 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Video Games Chronicle",
+      "title": "Miyamoto says to watch out for Mario game news in a future Nintendo Direct - Video Games Chronicle",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnZpZGVvZ2FtZXNjaHJvbmljbGUuY29tL25ld3MvbWl5YW1vdG8tc2F5cy10by13YXRjaC1vdXQtZm9yLW1hcmlvLWdhbWUtbmV3cy1pbi1hLWZ1dHVyZS1uaW50ZW5kby1kaXJlY3Qv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-04T20:50:11Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Luke Plunkett",
-      "title": "The Last Of Us' PC Port Not 'The Quality Level You Expect' - Kotaku",
-      "description": "The first two updates are 'slated for' later this week",
-      "url": "https://kotaku.com/last-of-us-pc-port-broken-busted-refund-patch-update-1850296305",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4157b30870ecc1fdf508b0cddde11151.png",
-      "publishedAt": "2023-04-03T23:00:00Z",
-      "content": "The Last Of Us was re-released for the 117th time last week, this time on the PC (which was admittedly a first!), and like the huge launches for games like Horizon and God of War should have been cau… [+2310 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Asia Grace",
-      "title": "Gen Z is 'reverse dieting' to easily lose weight - New York Post ",
-      "description": "One Gen Zer got into her skinny jeans by eating more, not less.",
-      "url": "https://nypost.com/2023/04/03/gen-z-is-reverse-dieting-to-easily-lose-weight/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009181301.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-04-03T22:02:00Z",
-      "content": "This past January, Tyla Gomez, 24, was feeling overweight and miserable. \r\nShe was on an extremely restrictive diet, limiting herself to just 1250 calories a day, but she wasn’t losing weight. \r\nIt s… [+6348 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
-      "title": "Spotify is shutting down its standalone live audio app | Engadget - Engadget",
-      "description": "Spotify is shutting down Spotify Live, it's short-lived live audio app..",
-      "url": "https://www.engadget.com/spotify-is-shutting-down-its-standalone-live-audio-app-211056429.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/mXtvaaI2Bm6UY9kLZg6qUA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-06/8be3d480-cea2-11eb-bf86-2f13a546c0ca.cf.jpg",
-      "publishedAt": "2023-04-03T21:12:15Z",
-      "content": "Spotify is shutting down Spotify Live, the company told Music Ally on Monday. Previously known as Spotify Greenroom\r\n, the standalone live audio app came out of Spotifys $62 million acquisition of Be… [+1838 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Cristina Alexander",
-      "title": "Sony Rolling Out Accessibility Tags On PlayStation Store for PS5 - IGN",
-      "description": "Sony is rolling out Accessibility Tags on the PlayStation Store for PS5 later this week.",
-      "url": "https://www.ign.com/articles/sony-rolling-out-accessibility-tags-on-playstation-store-for-ps5",
-      "urlToImage": "https://assets-prd.ignimgs.com/2021/11/02/image-2021-11-02-121222-1635855143077.png?width=1280",
-      "publishedAt": "2023-04-03T20:53:20Z",
-      "content": "Sony has announced it will be rolling out Accessibility Tags on the PlayStation Store on the PS5 this week.\r\nThe company explained in the latest PlayStation Blog post that Accessibility Tags give gam… [+2543 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Mitchell Clark",
-      "title": "Google Flights' price guarantee could pay you back if your tickets get cheaper - The Verge",
-      "description": "Google Flights now has a price guarantee for some flights in the US, which will give you a partial refund if the price of a ticket goes down after you book it.",
-      "url": "https://www.theverge.com/2023/4/3/23668308/google-flights-price-guarantee-ticket-price-change",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
-      "publishedAt": "2023-04-03T20:40:48Z",
-      "content": "Google Flights price guarantee could pay you back if your tickets get cheaper\r\nGoogle Flights price guarantee could pay you back if your tickets get cheaper\r\n / Google is putting its money on the lin… [+2149 chars]"
+      "author": "Ariel Shapiro",
+      "title": "Spotify shows how the live audio boom has gone bust - The Verge",
+      "description": "In the latest sign that live audio is well and truly on its way out, Spotify is shutting down its Spotify Live app.",
+      "url": "https://www.theverge.com/2023/4/4/23670193/spotify-live-shut-down-obamas-audible-amazon-jay-shetty-iheart",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oaNdxtfeU3sXEbIdR2rGWZb-sd4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg",
+      "publishedAt": "2023-04-04T20:45:00Z",
+      "content": "Spotify shows how the live audio boom has gone bust\r\nSpotify shows how the live audio boom has gone bust\r\n / Plus, the Obamas land another podcast deal.\r\nThis is Hot Pod, The Verges newsletter about … [+6597 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Clark",
+      "title": "AI turns Furby into an object of (even more) eldritch horror - Polygon",
+      "description": "A new AI-powered modification of Furby went viral on Twitter, thanks to its desire for world domination. Its creator, Jessica Card, used ChatGPT to prompt the Furby’s answer to some terrifying questions.",
+      "url": "https://www.polygon.com/23668486/ai-furby-chatgpt-eldritch-horror",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UxZdQveVKymx_1JvWs0D2Pyvzis=/0x161:1012x691/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24561214/Screen_Shot_2023_04_04_at_1.15.32_PM.png",
+      "publishedAt": "2023-04-04T20:35:01Z",
+      "content": "We all know and love Furby. Or perhaps we fear Furby, the 1990s toy that has a reputation for both its indestructible nature, and cursed DIY community. A new AI-powered modification of Furby took Twi… [+2586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Road to VR"
+      },
+      "author": "Ben Lang",
+      "title": "Apple CEO Tim Cook is Hyping XR Ahead of WWDC - Road to VR",
+      "description": "In an interview ahead of Apple’s upcoming Worldwide Developers Conference event, CEO Tim Cook talks about the potential of XR and why elements of it may be “even better than the real world.” In an interview by GQ’s Zach Baron, Apple CEO Tim Cook explained tha…",
+      "url": "https://www.roadtovr.com/apple-ceo-tim-cook-is-hyping-xr-ahead-of-wwdc/",
+      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/04/apple-tim-cook.jpg",
+      "publishedAt": "2023-04-04T20:31:02Z",
+      "content": "In an interview ahead of Apple’s upcoming Worldwide Developers Conference event, CEO Tim Cook talks about the potential of XR and why elements of it may be “even better than the real world.”\r\nIn an i… [+3163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Cyberpunk 2077 - Official Ray Tracing: Overdrive Mode - 4K Technology Preview Reveal - IGN",
+      "description": "The technology preview of Cyberpunk 2077’s Ray Tracing: Overdrive Mode arrives on April 11, bringing full ray tracing, also known as path tracing, to the gam...",
+      "url": "https://www.youtube.com/watch?v=INe75T1YdFs",
+      "urlToImage": "https://i.ytimg.com/vi/INe75T1YdFs/maxresdefault.jpg",
+      "publishedAt": "2023-04-04T20:30:03Z",
+      "content": null
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "John Timmer",
-      "title": "Proton’s mass radius is apparently shorter than its charge radius - Ars Technica",
-      "description": "The quarks that give it charge aren't hanging out with the gluons that provide mass.",
-      "url": "https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Jefferson-Lab-Aerial-Photo-760x380.jpg",
-      "publishedAt": "2023-04-03T20:30:42Z",
-      "content": "Enlarge/ The Jefferson Lab particle accelerator, where the work took place. Electrons in the oval at top center are sent to different underground target rooms (circles at lower right).\r\n30 with \r\nIf … [+4122 chars]"
+      "author": "Scharon Harding",
+      "title": "New buckling spring keyboards re-create IBM’s iconic Model F for modern computers - Ars Technica",
+      "description": "USB, modern OS support and customization options meet vintage IBM inspiration.",
+      "url": "https://arstechnica.com/gadgets/2023/04/new-buckling-spring-keyboards-recreate-ibms-iconic-model-f-for-modern-computers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/f104-classic-760x380.jpg",
+      "publishedAt": "2023-04-04T20:00:49Z",
+      "content": "Enlarge/ Model F Labs' Classic Style F104 Model F keyboard starts at $420.\r\n31 with \r\nIBMs Model F keyboards are prized among keyboard enthusiasts. Introducing buckling spring switches over a capacit… [+4500 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Teslarati"
       },
-      "author": "Zachary McAuliffe",
-      "title": "New Privacy-Focused Browser Aims to Fight Data Tracking - CNET",
-      "description": "The browser is free and available for Windows, MacOS and Linux.",
-      "url": "https://www.cnet.com/tech/services-and-software/new-privacy-focused-browser-aims-to-fight-data-tracking/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b85361319d79268a92d4019349f121b66461016e/hub/2021/02/12/2f1eeabe-731f-475c-a0f7-eb0922e0571b/locks-privacy-security-hack-hackers-2638.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-04-03T20:18:49Z",
-      "content": "On Monday, the Tor Project and Mullvad VPN, two organizations focused on user privacy, released a new privacy-focused web browser called Mullvad Browser. The browser is free to download and works on … [+1581 chars]"
+      "author": "Joey Klender",
+      "title": "Tesla Steering Wheel Retrofits have started, and it’s easy to get rid of your yoke - TESLARATI",
+      "description": "Tesla drivers are ditching the Yoke steering wheel in favor of a round option, and retrofits have officially started.",
+      "url": "https://www.teslarati.com/tesla-yoke-retrofits-process-easy-video/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/04/tesla-retrofit-steering-wheel-process-video.jpg",
+      "publishedAt": "2023-04-04T19:55:03Z",
+      "content": "Tesla Yoke Steering wheels are being replaced by round ones thanks to the automaker’s new retrofit kit that rolled out last month, and it is a pretty easy process to get the traditional wheel back.\r\n… [+2261 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "ComingSoon.net"
       },
-      "author": "Kenneth Shepard",
-      "title": "Overwatch 2's Hot New Support Hero Lifeweaver Leaks, Fans Already Obsessed - Kotaku",
-      "description": "Blizzard promises that more information on the pansexual king is coming this week",
-      "url": "https://kotaku.com/overwatch-2-lifeweaver-pansexual-support-hero-patch-1850295449",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dff83a69003982f61039bb5d72fe002c.png",
-      "publishedAt": "2023-04-03T19:53:28Z",
-      "content": "Overwatch 2 is revealing its next hero tomorrow, April 4, but the character has already been leaked in a since-pulled article from PCGamesN. While the article in question is down, fans still saw enou… [+1816 chars]"
+      "author": "Michael Leri",
+      "title": "Xbox Game Pass April 2023 Additions Revealed - ComingSoon.net",
+      "description": "Xbox has revealed what games are coming to Game Pass for April 2023, and the list includes a few new games and some old ones.",
+      "url": "http://www.comingsoon.net/games/news/1278978-xbox-game-pass-april-2023-additions",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/nhl-ghost.jpg?resize=1200,630",
+      "publishedAt": "2023-04-04T19:51:17Z",
+      "content": "While one of its biggest entry has already been revealed, Xbox has announced the slate of games coming to Game Pass for April 2023. The list includes Ghostwire: Tokyo, NHL 23, Minecraft Legends, and … [+1869 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Zoom"
+        "name": "Sportskeeda"
       },
-      "author": "Shubham Arora",
-      "title": "Redmi Note 12 Pro 4G with Snapdragon 732G SoC, 108MP Quad Cameras Launched in Indonesia - Times Now",
-      "description": "After the Redmi Note 12 4G, Redmi Note 12 5G, Redmi Note 12 Pro 5G, and Redmi Note 12 Pro Plus 5G, it will be the fifth smartphone in the Note 12 series. The new smartphone is similar to the global variant of the Redmi Note 10 Pro, which launched back in Marc…",
-      "url": "https://www.timesnownews.com/technology-science/redmi-note-12-pro-4g-with-snapdragon-732g-soc-108mp-quad-cameras-launched-in-indonesia-article-99223192",
-      "urlToImage": "https://static.tnn.in/thumb/msid-99223192,updatedat-1680551097732,width-1280,height-720,resizemode-75/99223192.jpg",
-      "publishedAt": "2023-04-03T19:44:57Z",
-      "content": "Horoscope Today, April 4, 2023: Gemini will receive money unexpectedly, Pisces will overcome all obstacles"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ron Amadeo",
-      "title": "Google brings “Nearby Share” to Windows, making it easy to transfer files - Ars Technica",
-      "description": "Google dives into the competitive world of Windows + Android file sharing.",
-      "url": "https://arstechnica.com/gadgets/2023/04/google-brings-nearby-share-to-windows-making-it-easy-to-transfer-files/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/8-760x380.jpg",
-      "publishedAt": "2023-04-03T19:42:44Z",
-      "content": "Enlarge/ Google's Nearby Share can quickly send a photo to your computer. \r\n18 with \r\nGoogle is bringing Android's \"Nearby Share\" feature to the desktop with a new Windows app. Google says the new pr… [+3982 chars]"
+      "author": "Angshuman Dutta",
+      "title": "The Last of Us Part I PC v1.0.1.7 patch notes: Addresses Xbox controller stick inputs, memory crashes, graphics settings issue, and more - Sportskeeda",
+      "description": "The official release of the PC port of The Last of Us Part I has left the developers at Naughty Dog and Iron Galaxy in hot waters.",
+      "url": "https://www.sportskeeda.com/esports/news-the-last-us-part-i-pc-v1-0-1-7-patch-notes-addresses-xbox-controller-stick-inputs-memory-crashes-graphics-settings-issue",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/13658-16806359932121-1920.jpg",
+      "publishedAt": "2023-04-04T19:34:53Z",
+      "content": "The official release of the PC port of The Last of Us Part I has left the developers at Naughty Dog and Iron Galaxy in hot waters. To say that the recent release has been in terrible shape is an unde… [+3541 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "GSMArena.com"
       },
-      "author": "Kyle Barr",
-      "title": "Apple Reportedly Ordering Fewer M2 Chips as MacBook Demand Falters - Gizmodo",
-      "description": "Apple reportedly cut production of its M2 series chip for MacBooks in January and February, and only went half as hard in March.",
-      "url": "https://gizmodo.com/apple-macbook-m2-chip-demand-supply-tsmc-report-mac-1850294237",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0a8d23726329e4c8ca8bbb4151f6a833.jpg",
-      "publishedAt": "2023-04-03T19:20:00Z",
-      "content": "Apple is reportedly facing lagging demand for its M2-powered MacBooks, so much so its held back significantly on any more M2 chip production in whats turning out to be a rough start for Apples 2023 l… [+3386 chars]"
+      "author": "Ro",
+      "title": "Asus unveils the ROG Ally, a handheld gaming console to rival Steam Deck - GSMArena.com news - GSMArena.com",
+      "description": "The resolution will be increased to maintain the same pixel density as the Watch5 models. Just like that, Asus dropped the bomb and announced a brand new...",
+      "url": "https://www.gsmarena.com/asus_unveils_the_rog_ally_a_handheld_gaming_console_to_rival_steam_deck-news-58123.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/asus-rog-ally-announced/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-04-04T19:33:01Z",
+      "content": "Just like that, Asus dropped the bomb and announced a brand new gaming console under the Republic of Gamers brand - ROG Ally. It's a handheld device running on Windows 11 and it's supposed to rival t… [+701 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Asus announced the ROG Ally in the worst way possible - The Verge",
+      "description": "Asus’ ROG Ally is actually real. But because of the messy and ill-informed communications about the device that, of course, involved April Fools’ Day, you’d be forgiven for not knowing that.",
+      "url": "https://www.theverge.com/2023/4/4/23669875/asus-rog-ally-handheld-gaming-pc-announcement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OdS_twYvUYwdjrBd07BDL4oDB30=/0x0:2560x1440/1200x628/filters:focal(1467x712:1468x713)/cdn.vox-cdn.com/uploads/chorus_asset/file/24561046/ROG_ALLY___ROG_s_First_Gaming_Handheld_Console_____ROG_ALLY___ROG_s_First_Gaming_Handheld_Console_2023_4_4_122219.77_1440p_streamshot.png",
+      "publishedAt": "2023-04-04T19:30:09Z",
+      "content": "Asus announced its handheld gaming PC in the worst way possible\r\nAsus announced its handheld gaming PC in the worst way possible\r\n / It was a joke until it wasnt. Companies: please stop doing this.\r\n… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "Samsung is said to be putting the Galaxy Z Fold 5 'on a diet' - Android Central",
+      "description": "More confirmation that we're going to see big changes this year.",
+      "url": "https://www.androidcentral.com/phones/report-samsung-galaxy-z-fold-5-thinner-lighter",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5wn7ehaX9mQWWugUvJg7qm-1200-80.jpg",
+      "publishedAt": "2023-04-04T19:20:27Z",
+      "content": "<ul><li>A new report notes that one Galaxy Z Fold 5 prototype is 13g lighter than the Galaxy Z Fold 4.</li><li>The new hinge design is lighter and thinner, allowing the phone to fold flat and come in… [+2106 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bloomberg",
+      "title": "Amazon lays off about 100 employees in its gaming divisions - The Economic Times",
+      "description": "Amazon has struggled to capitalize on its resources in gaming, including through its Crown channel, an entertainment show on the Twitch streaming service.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-lays-off-about-100-employees-in-its-gaming-divisions/articleshow/99249748.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-99249745,width-1070,height-580,imgsize-32800,overlay-ettech/photo.jpg",
+      "publishedAt": "2023-04-04T19:14:59Z",
+      "content": "Amazon.com Inc. laid off about 100 employees in its video-game divisions as part of its broader cutbacks, affecting workers at Prime Gaming, Game Growth and the companys San Diego studio.Our resource… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "WION Web Team",
+      "title": "Charging of phones using body heat or sunlight? What future phones will look like? - WION",
+      "description": "Charging of phones using body heat or sunlight? What future phones will look like?",
+      "url": "https://www.wionews.com/technology/charging-of-phones-using-body-heat-or-sunlight-what-future-phones-will-look-like-579180",
+      "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/04/04/343090-phone-charge.png",
+      "publishedAt": "2023-04-04T19:13:23Z",
+      "content": "Journey of the mobile phones is quite fascinating. Those who have used, or seen, the first mobile phone ever launched, can tell about how phones have evolved over the period of time. \r\nFrom taking hi… [+2290 chars]"
     },
     {
       "source": {
@@ -164,103 +216,51 @@
         "name": "Engadget"
       },
       "author": "https://www.engadget.com/about/editors/jon-fingas",
-      "title": "Google Drive now caps the number of files you can create | Engadget - Engadget",
-      "description": "Google has capped the number of files you can create on Drive, even if you don't come close to your storage limit..",
-      "url": "https://www.engadget.com/google-drive-now-caps-the-number-of-files-you-can-create-191230988.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Oox4X2MV1laJqGkiyCJNsA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-01/7ccb6f30-9c05-11ed-bf9c-2aee0f1c469f.cf.jpg",
-      "publishedAt": "2023-04-03T19:13:36Z",
-      "content": "You might not want to use Google Drive for large system backups or other many-file transfers. Ars Technica has learned Google quietly instituted a user \"creation limit\" of 5 million files sometime in… [+1363 chars]"
+      "title": "Amazon lays off more than 100 employees across its gaming divisions | Engadget - Engadget",
+      "description": "Amazon has laid off about 100 staffers in its gaming divisions, including its San Diego studio..",
+      "url": "https://www.engadget.com/amazon-lays-off-more-than-100-employees-across-its-gaming-divisions-190634108.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/cAO0mIAjEJIm00K0V6T0yw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/44a95c60-65fb-11ed-b6de-9d4a35ddd125.cf.jpg",
+      "publishedAt": "2023-04-04T19:07:21Z",
+      "content": "Amazon's ongoing layoffs now include those more directly involved in game production. The company has provided an internal memo from gaming VP Christoph Hartmann (originally shared by Bloomberg) anno… [+1636 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "Scalzi.com"
       },
-      "author": "Liam Croft",
-      "title": "Accessibility Tags Rolling Out Across PS Store This Week - Push Square",
-      "description": "Select PS5 games supported",
-      "url": "https://www.pushsquare.com/news/2023/04/accessibility-tags-rolling-out-across-ps-store-this-week",
-      "urlToImage": "https://images.pushsquare.com/df8aa3316c538/1280x720.jpg",
-      "publishedAt": "2023-04-03T19:00:00Z",
-      "content": "Subscribe to Push Square on YouTube\r\nSony has announced the PS Store will be updated with accessibility tags this week, allowing select PS5 games to detail the options they have before the title is b… [+1402 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "How to transfer files from Android to Windows using Nearby Share and vice versa: A complete guide - Times of India",
-      "description": "Google has launched its Nearby Share app for Windows in beta. The app, which is available to download for free from the Android website rather than th",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/how-to-transfer-files-from-android-to-windows-using-nearby-share-and-vice-versa-a-complete-guide/articleshow/99222925.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-99222925,width-1070,height-580,imgsize-53695,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-04-03T18:58:00Z",
-      "content": "<ul><li>News</li>\r\n<li>Gadgets News News</li>\r\n<li>How to transfer files from Android to Windows using Nearby Share and vice versa: A complete guide</li></ul>\r\nGoogle has launched its Nearby Share ap… [+570 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Overwatch 2’s new support hero Lifeweaver revealed by Blizzard - Polygon",
-      "description": "Blizzard teases the new support-class hero for Overwatch 2, Lifeweaver, ahead of his official unveiling on Tuesday, April 4.",
-      "url": "https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0TVf4yGtgrrPv6k7EGo8ZR5x9u4=/0x0:2234x1170/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24557778/Fsz2eVFWIBcO2xy.jpeg",
-      "publishedAt": "2023-04-03T18:52:39Z",
-      "content": "Overwatch 2s next hero is Lifeweaver, a support-class character who will debut in season 4 of Blizzard Entertainments free-to-play shooter. Lifeweavers design incorporates lotus flowers; he appears t… [+935 chars]"
+      "author": "John Scalzi",
+      "title": "Wanted: Researcher. Details Below. | Whatever - John Scalzi's Whatever",
+      "description": "I’m looking for a freelance researcher to help me generate some data for my upcoming novel. The data I require will be (to put it mildly) somewhat esoteric but absolutely needs to be rooted in phys…",
+      "url": "https://whatever.scalzi.com/2023/04/04/wanted-researcher-details-below/",
+      "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2022/05/JS2022Byline2.jpg",
+      "publishedAt": "2023-04-04T19:05:10Z",
+      "content": "Posted onApril 4, 2023\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n24 Comments\r\nIm looking for a freelance researcher to help me generate some data for my upcoming novel. The data I require will be (to put it m… [+2297 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mtgrocks.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Riley Hicks",
-      "title": "New Two-Card MTG Combo Can Cast Your Opponent's Deck!? - MTG Rocks",
-      "description": "Etali, Primal Conqueror when paired with a Commander menace, has the potential to cast your opponent's entire deck!",
-      "url": "https://mtgrocks.com/new-two-card-mtg-combo-can-cast-your-opponents-deck/",
-      "urlToImage": "https://mtgrocks.com/wp-content/uploads/2023/04/137.jpg",
-      "publishedAt": "2023-04-03T18:52:08Z",
-      "content": "It’s been almost a week since March of the Machine spoiler season kicked off, and many new cards have been revealed! A concerning amount of silly two-card combos have already been discovered among Ma… [+7359 chars]"
+      "author": "Kyle Barr",
+      "title": "YouTuber Proves ChatGPT Can Manufacture Free Windows Keys - Gizmodo",
+      "description": "Sure, Windows 95 is easy to spoof, but OpenAI’s ChatGPT is already proving a pretty handy tool for generating fake and potentially malicious content.",
+      "url": "https://gizmodo.com/chatgpt-free-windows-keys-95-old-youtube-enderman-1850298614",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/930f4be766c894a9ea8b58b563856600.jpg",
+      "publishedAt": "2023-04-04T19:05:00Z",
+      "content": "Theres still quite a bit of lingering nostalgia for Windows 95, and even though its notoriously easy to fake your way back into the days of blocky menus and balding men screaming at you that its only… [+5328 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Kotaku"
       },
-      "author": "Aran Richardson",
-      "title": "Coders And Developers Beware: ChatGPT4 Can Make New Fully-Coded Applications - Yahoo Finance",
-      "description": "Early reviews of ChatGPT-4, released by OpenAI on March 14, outline its astonishing ability to produce a wide range of intelligent and contextually relevant ...",
-      "url": "https://finance.yahoo.com/news/coders-developers-beware-chatgpt4-fully-182240958.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/72d99f77173f000c07dab7f98e5596a3",
-      "publishedAt": "2023-04-03T18:22:40Z",
-      "content": "Early reviews of ChatGPT-4, released by OpenAI on March 14, outline its astonishing ability to produce a wide range of intelligent and contextually relevant responses.\r\nThese impressive capabilities … [+4237 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/amy-skorheim",
-      "title": "Yale's Assure Lock 2 is down to its lowest price ever | Engadget - Engadget",
-      "description": "The Yale Assure Lock 2 works with any smart home assistant and is seeing its biggest discount so far..",
-      "url": "https://www.engadget.com/yales-assure-lock-2-is-down-to-its-lowest-price-ever-182029122.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Gouy0yBVMGMz10mqDwovTg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/d4ae54f0-d243-11ed-b7f6-eee5287bd7fa.cf.jpg",
-      "publishedAt": "2023-04-03T18:20:49Z",
-      "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link… [+2225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Bill Toulas",
-      "title": "WinRAR SFX archives can run PowerShell without being detected - BleepingComputer",
-      "description": "Hackers are adding malicious functionality to WinRAR self-extracting archives that contain harmless decoy files, allowing them to plant backdoors without triggering the security agent on the target system.",
-      "url": "https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/08/21/compressed-folder-light-rays.jpg",
-      "publishedAt": "2023-04-03T18:20:07Z",
-      "content": "Hackers are adding malicious functionality to WinRAR self-extracting archives that contain harmless decoy files, allowing them to plant backdoors without triggering the security agent on the target s… [+3238 chars]"
+      "author": "Claire Jackson",
+      "title": "Popular Call of Duty Fortnite Map Hyped By Millions Gets Pulled - Kotaku",
+      "description": "The takedowns follow explicit guidelines laid out by Epic Games concerning what can and cannot be made in Fortnite",
+      "url": "https://kotaku.com/fortnite-uefn-call-of-duty-dmca-creator-copyright-1850299456",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/93f8b8963e7239ed4ce0d4c4b9c8c5bf.jpg",
+      "publishedAt": "2023-04-04T19:05:00Z",
+      "content": "Kotaku reported on March 23, 2023 that Epic Games had outlined specific dos and donts when it comes to what kinds of maps creators can build and publish using Fortnites new Unreal Editor. Essentially… [+2371 chars]"
     }
   ]
 }
