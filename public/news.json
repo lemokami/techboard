@@ -1,84 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 378,
+  "totalResults": 342,
   "articles": [
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Open garage doors anywhere in the world by exploiting this “smart” device - Ars Technica",
-      "description": "A universal password. Unencrypted user data and commands. What could go wrong?",
-      "url": "https://arstechnica.com/information-technology/2023/04/open-garage-doors-anywhere-in-the-world-by-exploiting-this-smart-device/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/garage-door-opener-760x380.jpg",
-      "publishedAt": "2023-04-04T22:30:15Z",
-      "content": "66 with \r\nA market-leading garage door controller is so riddled with severe security and privacy vulnerabilities that the researcher who discovered them is advising anyone using one to immediately di… [+6174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Harshwardhan Sisodia",
-      "title": "What Call of Duty game is coming in 2024? All leaks so far - Sportskeeda",
-      "description": "Call of Duty: Modern Warfare 2, released on October 28, 2022, was supposed to run a two-year cycle to push out the succeeding CoD title in 2024.",
-      "url": "https://www.sportskeeda.com/esports/rumor-what-call-duty-game-coming-2024-all-leaks-far",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/67293-16806391294797-1920.jpg",
-      "publishedAt": "2023-04-04T21:40:06Z",
-      "content": "Call of Duty: Modern Warfare 2, released on October 28, 2022, was supposed to run a two-year cycle to push out the succeeding CoD title in 2024. However, Activision altered its plans while developing… [+2306 chars]"
-    },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Video Games Chronicle",
-      "title": "Miyamoto says to watch out for Mario game news in a future Nintendo Direct - Video Games Chronicle",
+      "author": "Nintendo Life",
+      "title": "Final Fantasy Pixel Remaster Series Launches On Switch Later This Month - Nintendo Life",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnZpZGVvZ2FtZXNjaHJvbmljbGUuY29tL25ld3MvbWl5YW1vdG8tc2F5cy10by13YXRjaC1vdXQtZm9yLW1hcmlvLWdhbWUtbmV3cy1pbi1hLWZ1dHVyZS1uaW50ZW5kby1kaXJlY3Qv0gEA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDIzLzA0L2ZpbmFsLWZhbnRhc3ktcGl4ZWwtcmVtYXN0ZXItc2VyaWVzLWxhdW5jaGVzLW9uLXN3aXRjaC1sYXRlci10aGlzLW1vbnRo0gEA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-04-04T20:50:11Z",
+      "publishedAt": "2023-04-05T23:55:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Ariel Shapiro",
-      "title": "Spotify shows how the live audio boom has gone bust - The Verge",
-      "description": "In the latest sign that live audio is well and truly on its way out, Spotify is shutting down its Spotify Live app.",
-      "url": "https://www.theverge.com/2023/4/4/23670193/spotify-live-shut-down-obamas-audible-amazon-jay-shetty-iheart",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oaNdxtfeU3sXEbIdR2rGWZb-sd4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985252/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg",
-      "publishedAt": "2023-04-04T20:45:00Z",
-      "content": "Spotify shows how the live audio boom has gone bust\r\nSpotify shows how the live audio boom has gone bust\r\n / Plus, the Obamas land another podcast deal.\r\nThis is Hot Pod, The Verges newsletter about … [+6597 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Nicole Clark",
-      "title": "AI turns Furby into an object of (even more) eldritch horror - Polygon",
-      "description": "A new AI-powered modification of Furby went viral on Twitter, thanks to its desire for world domination. Its creator, Jessica Card, used ChatGPT to prompt the Furby’s answer to some terrifying questions.",
-      "url": "https://www.polygon.com/23668486/ai-furby-chatgpt-eldritch-horror",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UxZdQveVKymx_1JvWs0D2Pyvzis=/0x161:1012x691/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24561214/Screen_Shot_2023_04_04_at_1.15.32_PM.png",
-      "publishedAt": "2023-04-04T20:35:01Z",
-      "content": "We all know and love Furby. Or perhaps we fear Furby, the 1990s toy that has a reputation for both its indestructible nature, and cursed DIY community. A new AI-powered modification of Furby took Twi… [+2586 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Road to VR"
+        "name": "GSMArena.com"
       },
-      "author": "Ben Lang",
-      "title": "Apple CEO Tim Cook is Hyping XR Ahead of WWDC - Road to VR",
-      "description": "In an interview ahead of Apple’s upcoming Worldwide Developers Conference event, CEO Tim Cook talks about the potential of XR and why elements of it may be “even better than the real world.” In an interview by GQ’s Zach Baron, Apple CEO Tim Cook explained tha…",
-      "url": "https://www.roadtovr.com/apple-ceo-tim-cook-is-hyping-xr-ahead-of-wwdc/",
-      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/04/apple-tim-cook.jpg",
-      "publishedAt": "2023-04-04T20:31:02Z",
-      "content": "In an interview ahead of Apple’s upcoming Worldwide Developers Conference event, CEO Tim Cook talks about the potential of XR and why elements of it may be “even better than the real world.”\r\nIn an i… [+3163 chars]"
+      "author": "Vlad",
+      "title": "Redmi Note 12S and Redmi Note 12 Pro 4G make sneaky official debut in Europe - GSMArena.com",
+      "description": "These made a surprise appearance at a regional launch event in Greece. Only a few hours ago we announced the completed rollout of the new Redmi Note 12...",
+      "url": "https://www.gsmarena.com/redmi_note_12s_price_availability_redmi_note_12_pro_4g-news-58141.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/redmi-note-12s-12-pro-4g-europe/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-04-05T22:59:01Z",
+      "content": "Only a few hours ago we announced the completed rollout of the new Redmi Note 12 series in Europe, but it turns out there was more to the story. At a regional launch event in Athens, Greece, Xiaomi u… [+1467 chars]"
     },
     {
       "source": {
@@ -86,11 +34,24 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Cyberpunk 2077 - Official Ray Tracing: Overdrive Mode - 4K Technology Preview Reveal - IGN",
-      "description": "The technology preview of Cyberpunk 2077’s Ray Tracing: Overdrive Mode arrives on April 11, bringing full ray tracing, also known as path tracing, to the gam...",
-      "url": "https://www.youtube.com/watch?v=INe75T1YdFs",
-      "urlToImage": "https://i.ytimg.com/vi/INe75T1YdFs/maxresdefault.jpg",
-      "publishedAt": "2023-04-04T20:30:03Z",
+      "title": "God of War Ragnarök's New Game Plus Is Available TODAY - IGN Daily Fix - IGN",
+      "description": "In today's Daily Fix:God of War Ragnarök just received a substantial content update today in the form of a New Game Plus mode. The update gives players the a...",
+      "url": "https://www.youtube.com/watch?v=3izPvXQINsA",
+      "urlToImage": "https://i.ytimg.com/vi/3izPvXQINsA/maxresdefault.jpg",
+      "publishedAt": "2023-04-05T22:06:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TMZ",
+      "title": "Pete Davidson's Alleged Stalker Found Unfit To Stand Trial, Sent To Psych Facility - TMZ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRtei5jb20vMjAyMy8wNC8wNS9wZXRlLWRhdmlkc29uLXN0YWxrZXItdW5maXQtc3RhbmQtdHJpYWwtcHN5Y2gtZmFjaWxpdHkv0gFWaHR0cHM6Ly9hbXAudG16LmNvbS8yMDIzLzA0LzA1L3BldGUtZGF2aWRzb24tc3RhbGtlci11bmZpdC1zdGFuZC10cmlhbC1wc3ljaC1mYWNpbGl0eS8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-05T22:05:00Z",
       "content": null
     },
     {
@@ -98,65 +59,39 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "New buckling spring keyboards re-create IBM’s iconic Model F for modern computers - Ars Technica",
-      "description": "USB, modern OS support and customization options meet vintage IBM inspiration.",
-      "url": "https://arstechnica.com/gadgets/2023/04/new-buckling-spring-keyboards-recreate-ibms-iconic-model-f-for-modern-computers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/f104-classic-760x380.jpg",
-      "publishedAt": "2023-04-04T20:00:49Z",
-      "content": "Enlarge/ Model F Labs' Classic Style F104 Model F keyboard starts at $420.\r\n31 with \r\nIBMs Model F keyboards are prized among keyboard enthusiasts. Introducing buckling spring switches over a capacit… [+4500 chars]"
+      "author": "Ron Amadeo",
+      "title": "After the death of Stadia, VP Phil Harrison has left Google - Ars Technica",
+      "description": "There's now nothing left of Google's once-grand gaming ambitions.",
+      "url": "https://arstechnica.com/gadgets/2023/04/after-the-death-of-stadia-vp-phil-harrison-has-left-google/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/chrome_ErWpiw6o5J-760x380.png",
+      "publishedAt": "2023-04-05T21:34:07Z",
+      "content": "Enlarge/ Phil Harrison announces Stadia to the world.\r\n39 with \r\nGoogle Stadia and all its associated projectsare dead, and that means it's finally time for the division's leader, Phil Harrison, to m… [+2177 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Teslarati"
+        "name": "YouTube"
       },
-      "author": "Joey Klender",
-      "title": "Tesla Steering Wheel Retrofits have started, and it’s easy to get rid of your yoke - TESLARATI",
-      "description": "Tesla drivers are ditching the Yoke steering wheel in favor of a round option, and retrofits have officially started.",
-      "url": "https://www.teslarati.com/tesla-yoke-retrofits-process-easy-video/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/04/tesla-retrofit-steering-wheel-process-video.jpg",
-      "publishedAt": "2023-04-04T19:55:03Z",
-      "content": "Tesla Yoke Steering wheels are being replaced by round ones thanks to the automaker’s new retrofit kit that rolled out last month, and it is a pretty easy process to get the traditional wheel back.\r\n… [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComingSoon.net"
-      },
-      "author": "Michael Leri",
-      "title": "Xbox Game Pass April 2023 Additions Revealed - ComingSoon.net",
-      "description": "Xbox has revealed what games are coming to Game Pass for April 2023, and the list includes a few new games and some old ones.",
-      "url": "http://www.comingsoon.net/games/news/1278978-xbox-game-pass-april-2023-additions",
-      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/nhl-ghost.jpg?resize=1200,630",
-      "publishedAt": "2023-04-04T19:51:17Z",
-      "content": "While one of its biggest entry has already been revealed, Xbox has announced the slate of games coming to Game Pass for April 2023. The list includes Ghostwire: Tokyo, NHL 23, Minecraft Legends, and … [+1869 chars]"
+      "author": null,
+      "title": "New PlayStation Handheld Rumors Explained | GameSpot News - GameSpot",
+      "description": "Following the announced of ASUS's ROG Ally handheld, new portable PlayStation rumors sprout up once again.#gaming #PlayStation5 #gamespot The PlayStation Vit...",
+      "url": "https://www.youtube.com/watch?v=QqBefWMgA7k",
+      "urlToImage": "https://i.ytimg.com/vi/QqBefWMgA7k/maxresdefault.jpg",
+      "publishedAt": "2023-04-05T21:15:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Angshuman Dutta",
-      "title": "The Last of Us Part I PC v1.0.1.7 patch notes: Addresses Xbox controller stick inputs, memory crashes, graphics settings issue, and more - Sportskeeda",
-      "description": "The official release of the PC port of The Last of Us Part I has left the developers at Naughty Dog and Iron Galaxy in hot waters.",
-      "url": "https://www.sportskeeda.com/esports/news-the-last-us-part-i-pc-v1-0-1-7-patch-notes-addresses-xbox-controller-stick-inputs-memory-crashes-graphics-settings-issue",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/13658-16806359932121-1920.jpg",
-      "publishedAt": "2023-04-04T19:34:53Z",
-      "content": "The official release of the PC port of The Last of Us Part I has left the developers at Naughty Dog and Iron Galaxy in hot waters. To say that the recent release has been in terrible shape is an unde… [+3541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ro",
-      "title": "Asus unveils the ROG Ally, a handheld gaming console to rival Steam Deck - GSMArena.com news - GSMArena.com",
-      "description": "The resolution will be increased to maintain the same pixel density as the Watch5 models. Just like that, Asus dropped the bomb and announced a brand new...",
-      "url": "https://www.gsmarena.com/asus_unveils_the_rog_ally_a_handheld_gaming_console_to_rival_steam_deck-news-58123.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/asus-rog-ally-announced/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-04-04T19:33:01Z",
-      "content": "Just like that, Asus dropped the bomb and announced a brand new gaming console under the Republic of Gamers brand - ROG Ally. It's a handheld device running on Windows 11 and it's supposed to rival t… [+701 chars]"
+      "author": "Mridul Dutta",
+      "title": "5 lesser-known money hacks in GTA Online that still work in 2023 - Sportskeeda",
+      "description": "The grind in GTA Online can be tedious at times, prompting players to look for alternate money-making methods frequently.",
+      "url": "https://www.sportskeeda.com/gta/5-lesser-known-money-hacks-gta-online-still-work-2023",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/cca45-16806954717575-1920.jpg",
+      "publishedAt": "2023-04-05T20:26:50Z",
+      "content": "The grind in GTA Online can be tedious at times, prompting players to look for alternate money-making methods frequently. Fortunately, Rockstar Games provides a plethora of ways one can earn some cas… [+3587 chars]"
     },
     {
       "source": {
@@ -164,103 +99,168 @@
         "name": "The Verge"
       },
       "author": "Jay Peters",
-      "title": "Asus announced the ROG Ally in the worst way possible - The Verge",
-      "description": "Asus’ ROG Ally is actually real. But because of the messy and ill-informed communications about the device that, of course, involved April Fools’ Day, you’d be forgiven for not knowing that.",
-      "url": "https://www.theverge.com/2023/4/4/23669875/asus-rog-ally-handheld-gaming-pc-announcement",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OdS_twYvUYwdjrBd07BDL4oDB30=/0x0:2560x1440/1200x628/filters:focal(1467x712:1468x713)/cdn.vox-cdn.com/uploads/chorus_asset/file/24561046/ROG_ALLY___ROG_s_First_Gaming_Handheld_Console_____ROG_ALLY___ROG_s_First_Gaming_Handheld_Console_2023_4_4_122219.77_1440p_streamshot.png",
-      "publishedAt": "2023-04-04T19:30:09Z",
-      "content": "Asus announced its handheld gaming PC in the worst way possible\r\nAsus announced its handheld gaming PC in the worst way possible\r\n / It was a joke until it wasnt. Companies: please stop doing this.\r\n… [+2825 chars]"
+      "title": "Apple might be getting into VR at the worst possible time - The Verge",
+      "description": "Sales of high-end VR headsets are reportedly quite low, according to analyst Ming-Chi Kuo, meaning Apple’s rumored mixed reality headset might be launching at perhaps exactly the wrong time.",
+      "url": "https://www.theverge.com/2023/4/5/23671673/apple-vr-ar-mixed-reality-headset-worst-possible-time",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5ctJfP3Z7AlcBki6nfIIJYVNUFg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401977/STK071_ACastro_apple_0001.jpg",
+      "publishedAt": "2023-04-05T20:24:02Z",
+      "content": "Apple might be getting into VR at the worst possible time\r\nApple might be getting into VR at the worst possible time\r\n / Sales of high-end VR headsets are reportedly low, meaning Apples rumored devic… [+2919 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Central"
+        "name": "Jagran Josh"
       },
-      "author": "Nicholas Sutrich",
-      "title": "Samsung is said to be putting the Galaxy Z Fold 5 'on a diet' - Android Central",
-      "description": "More confirmation that we're going to see big changes this year.",
-      "url": "https://www.androidcentral.com/phones/report-samsung-galaxy-z-fold-5-thinner-lighter",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5wn7ehaX9mQWWugUvJg7qm-1200-80.jpg",
-      "publishedAt": "2023-04-04T19:20:27Z",
-      "content": "<ul><li>A new report notes that one Galaxy Z Fold 5 prototype is 13g lighter than the Galaxy Z Fold 4.</li><li>The new hinge design is lighter and thinner, allowing the phone to fold flat and come in… [+2106 chars]"
+      "author": "Astha Pasricha",
+      "title": "Today’s Wordle: 656 Hints and Clues for 6th April with Solution for Word Puzzle Game - Jagran Josh",
+      "description": "Wordle Today: Get here today’s hints and clues for the Wordle 656 game for 6th April 2023. Wordle is a very popular game related to word puzzle games.",
+      "url": "https://www.jagranjosh.com/general-knowledge/today-wordle-656-word-of-the-day-6-april-hint-clues-1680726112-1",
+      "urlToImage": "https://img.jagranjosh.com/images/2023/April/642023/KKKKK.webp",
+      "publishedAt": "2023-04-05T20:19:00Z",
+      "content": "Can you believe around 3 million people in the world enjoy Wordle? Wordle is a game that is loved by all. No matter whether you are in school, in your teenage years, or a grown-up adult; everyone sha… [+2240 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Bloomberg",
-      "title": "Amazon lays off about 100 employees in its gaming divisions - The Economic Times",
-      "description": "Amazon has struggled to capitalize on its resources in gaming, including through its Crown channel, an entertainment show on the Twitch streaming service.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-lays-off-about-100-employees-in-its-gaming-divisions/articleshow/99249748.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-99249745,width-1070,height-580,imgsize-32800,overlay-ettech/photo.jpg",
-      "publishedAt": "2023-04-04T19:14:59Z",
-      "content": "Amazon.com Inc. laid off about 100 employees in its video-game divisions as part of its broader cutbacks, affecting workers at Prime Gaming, Game Growth and the companys San Diego studio.Our resource… [+1821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "WION Web Team",
-      "title": "Charging of phones using body heat or sunlight? What future phones will look like? - WION",
-      "description": "Charging of phones using body heat or sunlight? What future phones will look like?",
-      "url": "https://www.wionews.com/technology/charging-of-phones-using-body-heat-or-sunlight-what-future-phones-will-look-like-579180",
-      "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/04/04/343090-phone-charge.png",
-      "publishedAt": "2023-04-04T19:13:23Z",
-      "content": "Journey of the mobile phones is quite fascinating. Those who have used, or seen, the first mobile phone ever launched, can tell about how phones have evolved over the period of time. \r\nFrom taking hi… [+2290 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/jon-fingas",
-      "title": "Amazon lays off more than 100 employees across its gaming divisions | Engadget - Engadget",
-      "description": "Amazon has laid off about 100 staffers in its gaming divisions, including its San Diego studio..",
-      "url": "https://www.engadget.com/amazon-lays-off-more-than-100-employees-across-its-gaming-divisions-190634108.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/cAO0mIAjEJIm00K0V6T0yw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/44a95c60-65fb-11ed-b6de-9d4a35ddd125.cf.jpg",
-      "publishedAt": "2023-04-04T19:07:21Z",
-      "content": "Amazon's ongoing layoffs now include those more directly involved in game production. The company has provided an internal memo from gaming VP Christoph Hartmann (originally shared by Bloomberg) anno… [+1636 chars]"
+      "author": "IGN",
+      "title": "Blizzard Lead Reveals Global Release Times for Diablo IV - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvYmxpenphcmQtbGVhZC1yZXZlYWxzLWdsb2JhbC1yZWxlYXNlLXRpbWVzLWZvci1kaWFibG8taXbSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-05T20:05:25Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Scalzi.com"
+        "name": "YouTube"
       },
-      "author": "John Scalzi",
-      "title": "Wanted: Researcher. Details Below. | Whatever - John Scalzi's Whatever",
-      "description": "I’m looking for a freelance researcher to help me generate some data for my upcoming novel. The data I require will be (to put it mildly) somewhat esoteric but absolutely needs to be rooted in phys…",
-      "url": "https://whatever.scalzi.com/2023/04/04/wanted-researcher-details-below/",
-      "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2022/05/JS2022Byline2.jpg",
-      "publishedAt": "2023-04-04T19:05:10Z",
-      "content": "Posted onApril 4, 2023\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n24 Comments\r\nIm looking for a freelance researcher to help me generate some data for my upcoming novel. The data I require will be (to put it m… [+2297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "YouTuber Proves ChatGPT Can Manufacture Free Windows Keys - Gizmodo",
-      "description": "Sure, Windows 95 is easy to spoof, but OpenAI’s ChatGPT is already proving a pretty handy tool for generating fake and potentially malicious content.",
-      "url": "https://gizmodo.com/chatgpt-free-windows-keys-95-old-youtube-enderman-1850298614",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/930f4be766c894a9ea8b58b563856600.jpg",
-      "publishedAt": "2023-04-04T19:05:00Z",
-      "content": "Theres still quite a bit of lingering nostalgia for Windows 95, and even though its notoriously easy to fake your way back into the days of blocky menus and balding men screaming at you that its only… [+5328 chars]"
+      "author": null,
+      "title": "Yahtzee Interviews Andrew Shouldice, Creator of Tunic - The Escapist",
+      "description": "Support us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapistYahtzee ...",
+      "url": "https://www.youtube.com/watch?v=cWoFpUqq9AI",
+      "urlToImage": "https://i.ytimg.com/vi/cWoFpUqq9AI/maxresdefault.jpg",
+      "publishedAt": "2023-04-05T20:00:14Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Claire Jackson",
-      "title": "Popular Call of Duty Fortnite Map Hyped By Millions Gets Pulled - Kotaku",
-      "description": "The takedowns follow explicit guidelines laid out by Epic Games concerning what can and cannot be made in Fortnite",
-      "url": "https://kotaku.com/fortnite-uefn-call-of-duty-dmca-creator-copyright-1850299456",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/93f8b8963e7239ed4ce0d4c4b9c8c5bf.jpg",
-      "publishedAt": "2023-04-04T19:05:00Z",
-      "content": "Kotaku reported on March 23, 2023 that Epic Games had outlined specific dos and donts when it comes to what kinds of maps creators can build and publish using Fortnites new Unreal Editor. Essentially… [+2371 chars]"
+      "author": "Levi Winslow",
+      "title": "OK, These Elden Ring Mods Are Getting Outta Control - Kotaku",
+      "description": "Garden of Eyes’ ‘Broken AF Edition’ mod lets you bring jets and tanks to The Lands Between's knife fights",
+      "url": "https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8e596058e474f6d8a847938d81d11bce.jpg",
+      "publishedAt": "2023-04-05T19:50:00Z",
+      "content": "I was scrolling my TikTok (the social media app governments love to ban), enjoying the usual Elden Ring memes, when I stumbled upon a new mod that lets you call up and hop into jets and tanks to murk… [+3732 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Kobo’s $400 Elipsa 2E jumps into the “big e-readers with a pen” fight - Ars Technica",
+      "description": "Kobo is also introducing an $8-a-month service offering unlimited books.",
+      "url": "https://arstechnica.com/gadgets/2023/04/kobos-400-elipsa-2e-jumps-into-the-big-e-readers-with-a-pen-fight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/kobo-elipsa-1-760x380.jpeg",
+      "publishedAt": "2023-04-05T19:48:45Z",
+      "content": "45 with \r\n<ul><li>\r\n</li><li>\r\n The device has a textured back (and also a big logo). \r\n</li><li>\r\n The Elipsa can be used to read books, but it can also be used for taking notes, doodling, or annota… [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Corey Gaskin",
+      "title": "Dealmaster: New low on Mac mini, Samsung 980 Pro, and Amazon Fire Kids; plus AirPods and iPad - Ars Technica",
+      "description": "$100 off the 2023 entry-level Mac mini is the steepest discount we've seen to date.",
+      "url": "https://arstechnica.com/gadgets/2023/04/todays-best-deals-new-low-on-mac-mini-and-samsung-980-pro-ssd-plus-amazon-fire-kids-airpods/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/IMG_0919-760x380.jpeg",
+      "publishedAt": "2023-04-05T19:41:18Z",
+      "content": "Enlarge/ Apple's 2023 Mac mini. If you've seen one, you've seen them all, but it's what's on the inside that counts.\r\n12 with \r\nToday's best deals feature a $100 price cut on the 2023 entry-level Mac… [+4362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Chris Pereira",
+      "title": "The Way You Get Destiny 2 Exotic Armor Is Changing For The Better - GameSpot",
+      "description": "Bungie is also planning to buff and adjust a bunch of Exotic armor.",
+      "url": "https://www.gamespot.com/articles/the-way-you-get-destiny-2-exotic-armor-is-changing-for-the-better/1100-6512999/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/123/1239113/4122244-destiny2lightfallhunterexotic.jpg",
+      "publishedAt": "2023-04-05T19:32:08Z",
+      "content": "Recent years have seen Bungie provide Destiny 2 players with an increasing number of ways to influence what type of rewards they obtain in-game. Now, Exotic armor drops are the next area to get this … [+4125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iOS 17 Rumored to Feature 'Major' Changes to iPhone's Control Center - MacRumors",
+      "description": "iOS 17 will feature \"major\" changes to Control Center on the iPhone, according to a MacRumors forum member who leaked accurate details about...",
+      "url": "https://www.macrumors.com/2023/04/05/ios-17-control-center-changes-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/ba0iGvEIgMo8Kt7hg0rkYZdDfAo=/2500x/article-new/2023/04/iOS-17-Control-Center-Feature.jpg",
+      "publishedAt": "2023-04-05T19:14:09Z",
+      "content": "iOS 17 will feature \"major\" changes to Control Center on the iPhone, according to a MacRumors forum member who leaked accurate details about the Dynamic Island on the iPhone 14 Pro before the device … [+1247 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Realme 10 Pro+ 5G receives April OTA update: New changes and more - Times of India",
+      "description": "Realme 10 Pro+ 5G smartphone has received an OTA update for April, bringing new features, optimised network compatibility, system stability and Androi",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/realme-10-pro-5g-receives-april-ota-update-new-changes-and-more/articleshow/99277758.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-99277759,width-1070,height-580,imgsize-286600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-04-05T19:11:00Z",
+      "content": "Realme GT Neo 5 SE with Snapdragon 7+ Gen 2 chipset launched: All you need to knowRealme has launched a new smartphone in the GT lineup the GT Neo 5 SE in China. The smartphone comes with Qualcomms l… [+153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gearrice.com"
+      },
+      "author": "Helen Harrison",
+      "title": "This is the one I would definitely buy - Gearrice",
+      "description": "We tell you what are the main differences between the Samsung Galaxy S23 and the S22 so that you can know if it has improved a lot and that you can know which",
+      "url": "https://www.gearrice.com/update/this-is-the-one-i-would-definitely-buy/",
+      "urlToImage": "https://www.movilzona.es/app/uploads-movilzona.es/2023/03/diferencias-entre-samsung-galaxy-s23-y-s22-y-cual-comprar.jpg",
+      "publishedAt": "2023-04-05T19:04:46Z",
+      "content": "Its screen is the same, with 6.10 inches AMOLED with a refresh rate of 120 Hz, although somewhat brighter due to its 1750 nits. Its rear camera system does not experience major changes either, althou… [+2609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gearrice.com"
+      },
+      "author": "Ronan Byrne",
+      "title": "The best and cheapest wireless chargers in AliExpress - Gearrice",
+      "description": "Wireless chargers have become a popular and convenient solution for charging mobile devices without having to deal with messy cables and cumbersome",
+      "url": "https://www.gearrice.com/update/the-best-and-cheapest-wireless-chargers-in-aliexpress/",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2019/04/hipertextual-mejores-bases-carga-inalambrica-alternativa-airpower-2019531709.png",
+      "publishedAt": "2023-04-05T18:53:31Z",
+      "content": "Wireless chargers have become a popular and convenient solution for charging mobile devices without having to deal with messy cables and cumbersome connectors. With such a wide range of options on th… [+2323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Stocks, bonds and slowing economy: The next move for your money - CNBC Television",
+      "description": "\"Halftime\" traders Bryn Talkington, Joe Terranova and Kari Firestone discuss Wednesday's market action. For access to live and exclusive video from CNBC subs...",
+      "url": "https://www.youtube.com/watch?v=z77oXhZFnTM",
+      "urlToImage": "https://i.ytimg.com/vi/z77oXhZFnTM/maxresdefault.jpg",
+      "publishedAt": "2023-04-05T18:36:55Z",
+      "content": null
     }
   ]
 }
