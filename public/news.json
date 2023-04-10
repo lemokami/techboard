@@ -1,45 +1,253 @@
 {
   "status": "ok",
-  "totalResults": 365,
+  "totalResults": 361,
   "articles": [
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Vlad",
-      "title": "Here's the iPhone 15 Pro in newly leaked high quality renders - GSMArena.com",
-      "description": "It will have a USB-C port, much smaller bezels, and much bigger camera protrusions. Back in February, we saw the upcoming iPhone 15 Pro in some rough...",
-      "url": "https://www.gsmarena.com/heres_the_iphone_15_pro_in_newly_leaked_high_quality_renders-news-58171.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/iphone-15-pro-renders/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-04-07T22:12:56Z",
-      "content": "Back in February, we saw the upcoming iPhone 15 Pro in some rough CAD-based renders, and then again in its rumored 'hero color', a deep red. Today the same source of the previous renders is back with… [+1682 chars]"
+      "author": "Ro",
+      "title": "Pixel phone users randomly receiving money from Google - GSMArena.com",
+      "description": "The rewards were supposed to reach certain Google employees instead. Some users on the /r/GooglePixel subreddit are getting free cash from Google with a...",
+      "url": "https://www.gsmarena.com/pixel_phone_users_randomly_receiving_money_from_google-news-58178.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/03/google-pixel-feature-drop-match-leak/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-04-08T20:30:01Z",
+      "content": "Some users on the /r/GooglePixel subreddit are getting free cash from Google with a notification saying that they are receiving the money for \"dogfooding the Google Pay remittance experience\". Some g… [+569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Luke Filipowicz",
+      "title": "10 excellent wireless earbuds that cost less than Apple AirPods - Android Police",
+      "description": "AirPods can be great but also expensive – here are some cheaper alternatives",
+      "url": "https://www.androidpolice.com/wireless-earbuds-that-cost-less-than-apple-airpods/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/jabra-elite-5-in-case-1.jpg",
+      "publishedAt": "2023-04-08T20:00:00Z",
+      "content": "Apple AirPods are trendy wireless earbuds that offer some great features, but as with most things Apple makes, they are a bit pricey. The good news is that there are plenty of great alternatives that… [+2208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Rajan Sarma",
+      "title": "5 best champions for beginners in Raid Shadow Legends - Sportskeeda",
+      "description": "Raid Shadow Legends is one of the most-played turn-based competitive multiplayer RPGs in the world right, with over a million users playing it on a daily basis.",
+      "url": "https://www.sportskeeda.com/esports/5-best-champions-beginners-raid-shadow-legends",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/7c00a-16809733908386-1920.jpg",
+      "publishedAt": "2023-04-08T19:55:26Z",
+      "content": "Raid Shadow Legends is one of the most-played turn-based competitive multiplayer RPGs in the world right, with over a million users playing it on a daily basis. Raid Shadow Legends is stoked with cha… [+5331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Stephen Council",
+      "title": "Burglars cut through wall to rob Seattle-area Apple Store - SFGATE",
+      "description": "An Apple Store in the Seattle area was robbed of 436 iPhones after burglars cut a rectangular hole through the wall of a neighboring shop.",
+      "url": "https://www.sfgate.com/tech/article/burglars-cut-hole-rob-seattle-apple-store-17885360.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/32/20/07/23658993/3/rawImage.jpg",
+      "publishedAt": "2023-04-08T19:03:44Z",
+      "content": "Burglars in a Seattle suburb reportedly managed a brazen heist last Sunday, tunneling through the bathroom wall of a coffee appliance shop before sneaking into a neighboring Apple Store and making of… [+1511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Jason R. Wilson",
+      "title": "NVIDIA DLSS 2 Outshines AMD FSR 2 Across 26 Game Test By HardwareUnboxed - Wccftech",
+      "description": "NVIDIA DLSS 2 is tested against AMD FSR 2 in twenty six game titles to see which company offers the best upscaling performance and quality.",
+      "url": "https://wccftech.com/nvidia-dlss-2-outshines-amd-fsr-2-across-26-game-test-by-hardwareunboxed/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/04/AMD-FSR-2-vs-NVIDIA-DLSS-2-gigapixel-standard-scale-4_00x-Custom.jpg",
+      "publishedAt": "2023-04-08T18:59:00Z",
+      "content": "NVIDIA DLSS 2 has outclassed AMD FSR 2 across 26 games which shows the green team's superior upscaling implementation.\r\nIn today's PC games, gamers can utilize AMD FSR 2 and NVIDIA DLSS 2 upscaling t… [+4384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Roman Loyola",
+      "title": "The iOS 16.4.1 and macOS 13.3.1 updates fix much more than Apple says - Macworld",
+      "description": "iOS 16.4 and macOS Ventura 13.3 broke a lot of things.",
+      "url": "https://www.macworld.com/article/1717319/ios-16-4-1-macos-13-3-1updates-bug-fixes-weather-home-handoff.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/04/macbook-pro-with-bugs-12.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2023-04-08T18:48:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhen it comes to OS … [+3290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizchina.com"
+      },
+      "author": "Abdullah",
+      "title": "WhatsApp for Android to adopt iOS-like design in an upcoming update - Gizchina.com",
+      "description": "WhatsApp for Android to adopt iOS like design in the upcoming update. WhatsApp on Android is set to adopt iOS style design.",
+      "url": "https://www.gizchina.com/2023/04/08/whatsapp-for-android-to-adopt-ios-like-design-in-an-upcoming-update/",
+      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/04/whatsapp-features.jpg",
+      "publishedAt": "2023-04-08T18:43:25Z",
+      "content": "WhatsApp will roll out a major change to its Android interface. The change is aiming to make the navigation bar more accessible by moving it to the bottom of the screen, similar to what is already av… [+1618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google Home app's 'Climate' tab now shows fans, heaters, more - 9to5Google",
+      "description": "The \"Climate\" hub within the Google Home app has quietly been updated to add support for showing fans, heaters, and other devices.",
+      "url": "https://9to5google.com/2023/04/08/google-home-climate-fans-heaters/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-home-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-04-08T18:12:00Z",
+      "content": "Among a few other changes this week, the new Google Home app is also updating its “Climate” tab to show more types of devices such as fans.\r\nThe new Google Home app defaults to opening up on a custom… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jules Wang",
+      "title": "Pocket City 2 comes out as love child of SimCity, GTA, and Animal Crossing - Android Police",
+      "description": "It's a lot to take in and worth every penny of the $5 admission fee",
+      "url": "https://www.androidpolice.com/pocket-city-2-release/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/pocket-city-2-header-1.jpg",
+      "publishedAt": "2023-04-08T18:02:00Z",
+      "content": "After nearly 5 years since its original release, city-building simulator Pocket City has gotten a sequel. One-man studio Codebrew Games has just released Pocket City 2 and it features quite a few imp… [+1959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Giantfreakinrobot.com"
+      },
+      "author": "Jason Collins",
+      "title": "Zelda's Greatest Game Is Being Totally Rebuilt - Giant Freakin Robot",
+      "description": "The greatest Legend of Zelda game is finding new life in an unexpected location thanks to thousands of hours of hard work.",
+      "url": "https://www.giantfreakinrobot.com/games/breath-of-the-wild-minecraft.html",
+      "urlToImage": "https://www.giantfreakinrobot.com/wp-content/uploads/2022/01/zelda-ocarina-of-time.jpeg",
+      "publishedAt": "2023-04-08T17:56:40Z",
+      "content": "Breath of the Wild is being completely remade inside Minecraft. \r\nBy Jason Collins\r\n| Published 8 mins ago\r\nOne of the reasons why Minecraft is so popular is because of the breadth of creativity it g… [+3524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Neha LM Tripathi",
+      "title": "DGCA steps in to solveP&W aircraft engines’ supply chain issues - Hindustan Times",
+      "description": "IndiGo has more than 300 aircraft in its fleet that runs on engines made by P&W and CFM International. Go First has 61 aircraft powered by P&W engines. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/indigo-go-first-face-operational-issues-as-60-airbus-a320-planes-grounded-dgca-takes-up-matter-with-p-w-over-non-availability-of-engines-101680976574260.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/08/1600x900/IndiGo-has-more-than-300-aircraft-in-its-fleet-tha_1680976561209.jpg",
+      "publishedAt": "2023-04-08T17:56:13Z",
+      "content": "Indias aviation regulator has stepped in after 60 Airbus A320 planes of budget airlines IndiGo and Go First powered by Pratt &amp; Whitney (P&amp;W) engines were grounded due to maintenance problems … [+3110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "My Nintendo News"
+      },
+      "author": "Sickr",
+      "title": "Reddit user seemingly leaks new Pikmin 4 information along with screenshot - My Nintendo News",
+      "description": "We haven't got too long to wait until Pikmin 4 releases as it is finally due out on Nintendo Switch on 21st July. Today, new information has seemingly appeared on Reddit which has presumably been…",
+      "url": "https://mynintendonews.com/2023/04/08/reddit-user-seemingly-leaks-new-pikmin-4-information-along-with-screenshot/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/04/pikmin_4.jpg?fit=1600%2C800&ssl=1",
+      "publishedAt": "2023-04-08T17:46:32Z",
+      "content": "We haven’t got too long to wait until Pikmin 4 releases as it is finally due out on Nintendo Switch on 21st July. Today, new information has seemingly appeared on Reddit which has presumably been pos… [+1900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "PS5 Freebie Saves PlayStation Fans $42 - ComicBook.com",
+      "description": "A special freebie is currently available to both PS4 and PS5 users, saving users of the former $21 and saving users of the latter $42. $21 is enough to buy a variety of indie and downloadable games on PS4, while $42 is almost enough to buy a brand new AAA gam…",
+      "url": "https://comicbook.com/gaming/news/ps5-playstation-5-freebie-apple/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/2022/03/15/1b76fc23-5848-4124-a1d2-577e596e2faf/ps5.png?width=1200",
+      "publishedAt": "2023-04-08T16:58:00Z",
+      "content": "A special freebie is currently available to both PS4 and PS5 users, saving users of the former $21 and saving users of the latter $42. $21 is enough to buy a variety of indie and downloadable games o… [+1783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Cassidy Stephenson",
+      "title": "Pokemon Go Remote Raid limit prevents players from retrying failed raids - Dexerto",
+      "description": "Pokemon Go players discover a daily Remote Raid limit even if trainers failed to complete the selected raid .",
+      "url": "https://www.dexerto.com/pokemon/pokemon-go-remote-raid-limit-2108327/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/02/20/pokemon-go-remote-raid-limit.jpg",
+      "publishedAt": "2023-04-08T16:52:07Z",
+      "content": "Pokemon Go players expressed frustration over Niantics daily Remote Raid limit even if trainers failed the selected event. \r\nRecently, Niantic has landed itself in hot water over increasing the price… [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kalinga TV"
+      },
+      "author": "Pratyay",
+      "title": "Motorola Edge 40 to offer Dimensity 8020 SoC and 6.65 inch display, renders surface out - Kalinga TV",
+      "description": "Motorola is all set to launch its next premium smartphone Moto Edge 40 soon. The company has recently launched the Moto Edge 40 Pro in the European market and the Edge 40 is expected to sit below it. Prior to the launch, the rendered images as well a",
+      "url": "https://kalingatv.com/technology/motorola-edge-40-to-offer-dimensity-8020-soc-and-6-65-inch-display-renders-surface-out/",
+      "urlToImage": "https://kalingatv.com/wp-content/uploads/2023/04/Motorola-Edge-40-render.jpg",
+      "publishedAt": "2023-04-08T16:50:02Z",
+      "content": "Motorola is all set to launch its next premium smartphone Moto Edge 40 soon. The company has recently launched the Moto Edge 40 Pro in the European market and the Edge 40 is expected to sit below it.… [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DNA India"
+      },
+      "author": "DNA Web Team",
+      "title": "Apple iPhone gets IOS 16.4.1, bringing security fixes and enhancements - DNA India",
+      "description": "Six weeks after iOS 16.3.1, Apple has launched iOS 16.4, which is filled with new features and security enhancements.",
+      "url": "https://www.dnaindia.com/technology/report-apple-iphone-gets-ios-1641-bringing-security-fixes-and-enhancements-3035212",
+      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/04/08/2583985-untitled-design-16.jpg",
+      "publishedAt": "2023-04-08T16:50:00Z",
+      "content": "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Apr 08, 2023, 10:40 PM ISTApple, a US tech firm headquartered in Cupertino, California, released versions 16.4.1 of iOS and iPadO… [+1890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Barnik Podder",
+      "title": "5 best budget laptops for students in 2023 - Sportskeeda",
+      "description": "hen you're a student, it's important to have a good laptop since learning and technology go hand in hand these days.",
+      "url": "https://www.sportskeeda.com/gaming-tech/5-best-budget-laptops-students-2023",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/7bd68-16809665807583-1920.jpg",
+      "publishedAt": "2023-04-08T16:46:24Z",
+      "content": "W\r\n<table><tr><td>Device</td><td>Microsoft Surface Go 2</td></tr><tr><td>Processor</td><td>Intel Core i5-1135G7</td></tr><tr><td>Memory </td><td>8 GB </td></tr><tr><td>Graphics </td><td>Intel Iris Xe… [+5490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Vikas Yadav",
+      "title": "Google Bringing WebGPU For Next-Gen Gaming Experience In Chrome Browser; All You Need To Know - Jagran English",
+      "description": "WebGPU will allow better performance of apps and games on the web",
+      "url": "https://english.jagran.com/technology/google-bringing-webgpu-for-nextgen-gaming-experience-in-chrome-browser-all-you-need-to-know-10072654",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/apr/google-chrome-webgpu1680972763196.jpg",
+      "publishedAt": "2023-04-08T16:43:00Z",
+      "content": "THE CHROME team announced the coming of WebGPU to Chrome 113 in a blog post on Thursday. It will allow better performance of web apps via the graphics card on the computer. Currently, the API is unde… [+1910 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Mitchell Clark",
-      "title": "Microsoft's rolling out Edge's AI image generator to everyone - The Verge",
-      "description": "Microsoft has said that Edge’s Image Creator tool, which uses OpenAI’s DALL-E image generation tech, will be available to the browser’s users worldwide.",
-      "url": "https://www.theverge.com/2023/4/6/23672862/microsoft-image-creator-edge-sidebar-dall-e-ai-generator",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QgefHWEPNDkBFDUUDTdGUuWqJjc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg",
-      "publishedAt": "2023-04-07T22:01:33Z",
-      "content": "Microsofts rolling out Edges AI image generator to everyone\r\nMicrosofts rolling out Edges AI image generator to everyone\r\n / It says the Image Creator tool is now available on desktop for Edge users … [+2315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Why Zelda: Tears of the Kingdom Fans Keep Bringing Up The Zonai - Kotaku",
-      "description": "The information on the tribe is scarce, but Zelda fans are trying to put the pieces together",
-      "url": "https://kotaku.com/legend-of-zelda-tears-of-the-kingdom-theory-zonai-ruins-1850314256",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e6b32f78b13ec7dc7bcbed13dfa3b1c5.jpg",
-      "publishedAt": "2023-04-07T21:48:07Z",
-      "content": "The Legend of Zelda: Tears of the Kingdom is almost here, and from the looks of it, the enigmatic faction called the Zonai may play a big role in the sequel after mostly existing in the background of… [+5080 chars]"
+      "author": "Mia Sato",
+      "title": "Organizing my pretty pile of garbage - The Verge",
+      "description": "Scrapbooking content regularly goes viral, and some accounts document scrapbooks from a century ago. Collaging together scraps, tickets, and photos is more rewarding than posting pictures online.",
+      "url": "https://www.theverge.com/23672998/organizing-scrapbooking-collaging-digital-archives-weekend-plans-offline",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IVElPJJOIIqGboA963dyNoF6GHA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24566616/236597_offline_scrapbooking_MSato_0004.jpg",
+      "publishedAt": "2023-04-08T16:00:00Z",
+      "content": "Organizing my pretty pile of garbage\r\nOrganizing my pretty pile of garbage\r\n / Scrapbooking makes for great #content. But the best version is still the one you can hold in your hands.\r\nByMia Sato\r\nAp… [+4639 chars]"
     },
     {
       "source": {
@@ -47,220 +255,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Advance Wars 1+2: Re-Boot Camp — Overview Trailer — Nintendo Switch - Nintendo of America",
-      "description": "Ten-hut! It’s time for basic training on the Advance Wars 1+2: Re-Boot Camp game! Guide your units in tactical, turn-based battles, find the CO Power that be...",
-      "url": "https://www.youtube.com/watch?v=95dbXS1tPbI",
-      "urlToImage": "https://i.ytimg.com/vi/95dbXS1tPbI/maxresdefault.jpg",
-      "publishedAt": "2023-04-07T21:44:08Z",
+      "title": "15 Games That Take Physics to a WHOLE NEW LEVEL - GamingBolt",
+      "description": "Modern video games do a great job of mimicking real life visuals with highly detailed environments and smooth animations, but they generally lack in terms of...",
+      "url": "https://www.youtube.com/watch?v=qXgLlbKTVnM",
+      "urlToImage": "https://i.ytimg.com/vi/qXgLlbKTVnM/maxresdefault.jpg",
+      "publishedAt": "2023-04-08T15:30:09Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ian Zelbo",
-      "title": "Exclusive: iPhone 15 Pro design revealed - 9to5Mac",
-      "description": "Last month, 9to5Mac exclusively shared the upcoming iPhone 15 Pro design with basic CAD images. Since then, we’ve been working...",
-      "url": "https://9to5mac.com/2023/04/07/iphone-15-pro-design-exclusive-images/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Explode-4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-04-07T21:29:00Z",
-      "content": "Last month, 9to5Mac exclusively shared the upcoming iPhone 15 Pro design with basic CAD images. Since then, we’ve been working to gather more exclusive details from MFi accessory makers, new detailed… [+4205 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "There’s a new form of keyless car theft that works in under 2 minutes - Ars Technica",
-      "description": "As car owners grow hip to one form a theft, crooks are turning to new ones.",
-      "url": "https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/vehicle-theft-760x380.jpg",
-      "publishedAt": "2023-04-07T21:24:48Z",
-      "content": "Enlarge/ Infrared image of a person jimmying open a vehicle.\r\n40 with \r\nWhen a London man discovered the front left-side bumper of his Toyota RAV4 torn off and the headlight partially dismantled not … [+3779 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Resident Evil 4 remake gets new weapon upgrade microtransactions - Polygon",
-      "description": "Capcom has released Resident Evil 4 remake’s Mercenaries mode and a bunch of microtransactions that offer easy weapon upgrades for $3 each.",
-      "url": "https://www.polygon.com/23674468/resident-evil-4-remake-microtransactions-mercenaries-mode",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/stxUIW5G5EtFEmbdBzDvOB9zak8=/0x0:7680x4021/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24569621/RE4_Merchant_png_jpgcopy.jpg",
-      "publishedAt": "2023-04-07T21:01:04Z",
-      "content": "Capcoms remake of Resident Evil 4 now includes the option to play The Mercenaries game mode, part of a promised free update to the game. The replayable, high score-focused mode returns from the origi… [+1639 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Why Ninja Gaiden Black is the Best Pure Action Game - Video Column - IGN",
-      "description": "While we’ve seen modern sequels and reimaginings of classic series like God of War, Devil May Cry, and Bayonetta, there’s one 3D action game pioneer that sti...",
-      "url": "https://www.youtube.com/watch?v=UU09kIVYyIc",
-      "urlToImage": "https://i.ytimg.com/vi/UU09kIVYyIc/maxresdefault.jpg",
-      "publishedAt": "2023-04-07T21:00:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Nikki Main",
-      "title": "Amazon Bans Flipper Zero, Claiming It Violates Policy Against Card Skimming Devices - Gizmodo",
-      "description": "The pen-testing tool that's gained popularity on TikTok has a lot of uses, but Amazon has decided to no longer promote it.",
-      "url": "https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7a2cb8cc1532bb442ec601f0e797ea6b.png",
-      "publishedAt": "2023-04-07T20:10:00Z",
-      "content": "Amazon has banned the incredibly versatile Flipper Zero pen-testing tool on its platform, labeling it as a prohibited card-skimming device. \r\nThe Flipper Zero almost looks like a kids toy, with a whi… [+3085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "'Operation Cookie Monster' Keeping People Safe Online - Inside Edition",
-      "description": "An online marketplace for cyber crimes has been shut down through \"Operation Cookie Monster.\" The FBI and other international law enforcement agencies shut d...",
-      "url": "https://www.youtube.com/watch?v=CwVLrAK2PYU",
-      "urlToImage": "https://i.ytimg.com/vi/CwVLrAK2PYU/maxresdefault.jpg",
-      "publishedAt": "2023-04-07T20:09:12Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Joshua Rivera",
-      "title": "The Last of Us Part 1’s PC port will no longer randomly soak characters - Polygon",
-      "description": "The funniest bug in the troubled PC version of Naughty Dog’s acclaimed PS5 remake has been axed, as well as an actually troubling bug.",
-      "url": "https://www.polygon.com/23674574/the-last-of-us-pc-port-dry-now-thanks",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rYTrwtfe4cEBN0hx4VBcWu5KZMk=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24569854/tlou_i_MonUvPvEw3.jpg",
-      "publishedAt": "2023-04-07T19:56:16Z",
-      "content": "Alas, the work of game development involves fixing all bugs, including the ones that are very funny. The recent PC port of The Last of Us Part 1had a great one, too perhaps the only amusing thing abo… [+825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoNintendo"
-      },
-      "author": "rawmeatcowboy",
-      "title": "Monster Energy goes after Capcom and Pokémon Co. over use of the word 'Monster' - GoNintendo",
-      "description": "Tough to swallow",
-      "url": "https://gonintendo.com/contents/18715-monster-energy-goes-after-capcom-and-pokemon-co-over-use-of-the-word-monster",
-      "urlToImage": "https://gonintendo.com/attachments/image/26272/file/medium-17ccb8258581b9eaa9c0814a1670a4b1.webp",
-      "publishedAt": "2023-04-07T19:28:56Z",
-      "content": "In a legal battle ended as quickly as it began, Monster Energy went after Pokémon Co. and Capcom over their use of the word Monster in their trademarks. As you might expect, these trademark complaint… [+733 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "https://www.engadget.com/about/editors/kris-holt",
-      "title": "Three Samsung employees reportedly leaked sensitive data to ChatGPT | Engadget - Engadget",
-      "description": "Be careful what information you give to chatbots, folks..",
-      "url": "https://www.engadget.com/three-samsung-employees-reportedly-leaked-sensitive-data-to-chatgpt-190221114.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7BcOJP3yehCLwOBRJIJSJQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/7d0cb1e0-d574-11ed-bfdd-fa6bbbba6ced.cf.jpg",
-      "publishedAt": "2023-04-07T19:03:48Z",
-      "content": "On the surface, ChatGPT\r\n might seem like a tool that can come in useful for an array of work tasks. But before you ask the chatbot to summarize important memos or check your work for errors, it's wo… [+1746 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Microsoft Addresses Xbox Emulator Ban, Says It's Based on 'Long-Standing Policy' - IGN",
-      "description": "Microsoft has finally cracked down on a loophole in the Xbox Store that allowed emulators to be downloaded and used on Xbox consoles to play older games, including many unavailable on Xbox consoles. And while rumors are flying as to the impetus for the sudden…",
-      "url": "https://www.ign.com/articles/microsoft-addresses-xbox-emulator-ban-says-its-based-on-long-standing-policy",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/30/xbox-pink-blogroll-logos-1680181222041.jpg?width=1280",
-      "publishedAt": "2023-04-07T18:54:21Z",
-      "content": "Microsoft has finally cracked down on a loophole in the Xbox Store that allowed emulators to be downloaded and used on Xbox consoles to play older games, including many unavailable on Xbox consoles. … [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Mridul Dutta",
-      "title": "Niko Bellic and a few GTA 5 characters who are likely to return in GTA 6 - Sportskeeda",
-      "description": "The plot of GTA 6 is yet to be revealed by Rockstar Games, but fans have already begun to speculate.",
-      "url": "https://www.sportskeeda.com/gta/niko-bellic-gta-5-characters-likely-return-gta-6",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/9e1ad-16808651196054-1920.jpg",
-      "publishedAt": "2023-04-07T18:53:38Z",
-      "content": "The plot of GTA 6 is yet to be revealed by Rockstar Games, but fans have already begun to speculate. It is one of the most anticipated games of recent times, with thousands of fan theories and rumors… [+2687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Mario Kart Players Land Groundbreaking Trick After 27 Years - Kotaku",
-      "description": "The Bowser's Castle speedrun trick was discovered in 2021",
-      "url": "https://kotaku.com/mario-kart-64-bowsers-castle-speedrun-skip-world-record-1850313563",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9978c9d1a4fcfaf532d729a87ee93f77.jpg",
-      "publishedAt": "2023-04-07T18:50:00Z",
-      "content": "Skips and speedruns are basically like magic, to me. The tenacity it takes to find ways to break a game and circumvent entire sections is a skill and patience I dont have. That being said, Im always … [+3030 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "Burglars tunnel through Apple Store’s neighbor, allegedly steal $500K in iPhones - Ars Technica",
-      "description": "436 phones gone, 1 bathroom wall left gaping.",
-      "url": "https://arstechnica.com/gadgets/2023/04/bathroom-tunneling-burglars-allegedly-lift-500k-in-iphones-from-apple-store/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-544526344-760x380.jpg",
-      "publishedAt": "2023-04-07T18:36:11Z",
-      "content": "Enlarge/ The store recently burgled is in Lynnwood, Washington. The one pictured is in Palo Alto, California, but last year was infamously robbed. \r\n70 with \r\nBreaking through an Apple Store's secure… [+3896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Wordle 658 Answer, April 8: Check Out Hints And Clues To Solve Today's Wordle Puzzle - ABP Live",
-      "description": "Wordle 658 Answer Today: Do you need help with today's Wordle? Here are some clues and hints for you.",
-      "url": "https://news.abplive.com/gaming/wordle-658-answer-today-april-8-wordle-solution-puzzle-hints-1593833",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/04/07/f51ca2764e75bbffb3917cf551e6eeac1680850944915236_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-04-07T18:30:56Z",
-      "content": "Wordle 658 Answer Today, April 8: The Wordle challenge today could be difficult. Though it's a word everyone is familiar with, and it refers to something we find in our normal surroundings, it's the … [+1832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Elon Musk's Satellites Are Falling from Sky | China's Big Space Push | Vantage with Palki Sharma - Firstpost",
-      "description": "Elon Musk’s Satellites Are Falling from Sky | China’s Big Space Push | Vantage with Palki SharmaSpaceX’s satellites are falling from the sky, posing a challe...",
-      "url": "https://www.youtube.com/watch?v=wbzXw8sjdBk",
-      "urlToImage": "https://i.ytimg.com/vi/wbzXw8sjdBk/maxresdefault.jpg",
-      "publishedAt": "2023-04-07T18:30:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Animesh Talukdar",
-      "title": "Modern Warfare 2 is bringing another brand new 6v6 map with the Season 3 reloaded update - Sportskeeda",
-      "description": "The third seasonal update for Call of Duty: Modern Warfare 2 is on the way, and it will be a big one.",
-      "url": "https://www.sportskeeda.com/esports/modern-warfare-2-bringing-another-brand-new-6v6-map-season-3-reloaded-update",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/2b135-16808889357163-1920.jpg",
-      "publishedAt": "2023-04-07T17:57:15Z",
-      "content": "The third seasonal update for Call of Duty: Modern Warfare 2 is on the way, and it will be a big one. It will provide a plethora of new playable content to the game, such as new levels, weaponry, mod… [+2302 chars]"
     }
   ]
 }
