@@ -1,71 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 334,
+  "totalResults": 361,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "YouTube"
       },
-      "author": "Luke Plunkett",
-      "title": "MMO Players Take Over Company, Steal $20,000 Worth Of Stuff - Kotaku",
-      "description": "Rules are rules, and this heist followed every single one of them",
-      "url": "https://kotaku.com/eve-online-heist-steal-theft-crime-ccp-corporation-mmo-1850330636",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/762a5e7631f36c3c7b24c4e363357455.png",
-      "publishedAt": "2023-04-13T00:15:00Z",
-      "content": "EVE Online is, for some, a video game they play. For the rest of us its a crime beat, an MMO we only ever read about when someone does something nefarious, and todays coverage of the game is another … [+2022 chars]"
+      "author": null,
+      "title": "Diablo 4 - Official Sorcerer Trailer - IGN",
+      "description": "See the Sorcerer class in action in this latest Diablo IV trailer. Control elemental forces as the Sorcerer when Diablo IV launches on June 6, 2023.#IGN #Gam...",
+      "url": "https://www.youtube.com/watch?v=Un0cAffu7kA",
+      "urlToImage": "https://i.ytimg.com/vi/Un0cAffu7kA/maxresdefault.jpg",
+      "publishedAt": "2023-04-14T00:00:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Suicide Squad: Kill the Justice League Officially Delayed to February 2024 - IGN Daily Fix - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC19ONnhCN1E1TktjmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-13T23:31:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Artie Lange selling longtime New Jersey home of 20 years as website shuts down - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA0LzEzL2FydGllLWxhbmdlLWluLWNvbnRyYWN0LXRvLXNlbGwtbG9uZ3RpbWUtbmV3LWplcnNleS1ob21lL9IBW2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA0LzEzL2FydGllLWxhbmdlLWluLWNvbnRyYWN0LXRvLXNlbGwtbG9uZ3RpbWUtbmV3LWplcnNleS1ob21lL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-13T22:26:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5google.com"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Supposedly Considering Interactive Widgets for iOS 17 - MacRumors",
-      "description": "Earlier today, an anonymous source who shared accurate information in the past revealed potential new features coming to the iPhone with iOS 17,...",
-      "url": "https://www.macrumors.com/2023/04/12/ios-17-interactive-widgets-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/DRDAZhoTWDRrKYQX6GafQ0YOh_0=/1600x/article-new/2023/04/iOS-17-Widgets.jpeg",
-      "publishedAt": "2023-04-12T22:55:40Z",
-      "content": "Earlier today, an anonymous source who shared accurate information in the past revealed potential new features coming to the iPhone with iOS 17, including improvements to Search, the Dynamic Island, … [+1426 chars]"
+      "author": "Ben Schoon",
+      "title": "How to buy an Android TV box without malware - 9to5Google",
+      "description": "You need to be careful if you buy an Android TV device, as while some can be safe, there are others packed with malware.",
+      "url": "https://9to5google.com/2023/04/13/android-tv-box-malware/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/04/google_adt3_android_tv_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-04-13T22:07:00Z",
+      "content": "“Android TV” has essentially two meanings on the market today. There’s the official Android TV OS by Google, which powers TV sets, streaming dongles, and set-top boxes, and then there’s Android, but … [+4458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Mansab Sayyad",
+      "title": "5 interesting Minecraft Redstone contraptions (2023) - Sportskeeda",
+      "description": "In Minecraft, Redstone is like the electricity that powers up and brings it to life. It's the secret sauce that takes the game from \"just another sandbox\" to a world where anything is possible.",
+      "url": "https://www.sportskeeda.com/minecraft/5-interesting-minecraft-redstone-contraptions-2023",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/ba9fc-16814040302553-1920.jpg",
+      "publishedAt": "2023-04-13T21:36:53Z",
+      "content": "In Minecraft, Redstone is like the electricity that powers up and brings it to life. It's the secret sauce that takes the game from \"just another sandbox\" to a world where anything is possible. With … [+4759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Final Fantasy 16 - Eikon Battles Gameplay Overview | State of Play 2023 - IGN",
+      "description": "Eikon battles, the giant kaiju-like clashes that pepper throughout Final Fantasy 16, span multiple genres and storylines. From Phoenix, to Titan, and even If...",
+      "url": "https://www.youtube.com/watch?v=4GcgmKukFxs",
+      "urlToImage": "https://i.ytimg.com/vi/4GcgmKukFxs/maxresdefault.jpg",
+      "publishedAt": "2023-04-13T21:35:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Owen S. Good",
+      "title": "Ubisoft Plus is now available on Xbox Series X, Xbox One - Polygon",
+      "description": "Ubisoft and Microsoft announced April 13 that Ubisoft Plus, the publisher’s subscription service with a catalog of more than 100 games, would come to Xbox players under its Multi Access tier of service, for $17.99 a month.",
+      "url": "https://www.polygon.com/23682550/ubisoft-plus-xbox-subscription-price-cost",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mz8DBe2vRIS0RWiyq4dtIchGZHg=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22546135/FC6_comeback_Shredder.jpg",
+      "publishedAt": "2023-04-13T21:16:13Z",
+      "content": "Ubisoft Plus, the publishers monthly subscription offering its back catalog on an all-you-can-eat basis, is now available on Xbox consoles, Microsoft announced on Thursday. A membership costs $17.99 … [+1262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Vampire Survivors - Official Tides of the Foscari DLC Launch Trailer - IGN",
+      "description": "Vampire Survivors has launched the Tides of the Foscari DLC that adds a high fantasy trope slant to the game. The DLC adds 8 characters, 13 weapons, 7 music ...",
+      "url": "https://www.youtube.com/watch?v=PPXQeOZL-Yg",
+      "urlToImage": "https://i.ytimg.com/vi/PPXQeOZL-Yg/maxresdefault.jpg",
+      "publishedAt": "2023-04-13T21:00:12Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sean Hollister",
-      "title": "What we've learned about Sony PlayStation's new smartphone games team - The Verge",
-      "description": "Job descriptions suggest Sony is starting small with PlayStation Studios Mobile — it’s not a game studio itself, but a house working with external developers and internal studios alike.",
-      "url": "https://www.theverge.com/2023/4/12/23680947/sony-playstation-studios-mobile-team-internal-external-studios-f2p",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Bz2ZA45S-0mA4QHkh80XVxQOZsA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11515157/acastro_180604_1777_playstation_0001.jpg",
-      "publishedAt": "2023-04-12T22:24:53Z",
-      "content": "What weve learned about Sony PlayStations new smartphone games team\r\nWhat weve learned about Sony PlayStations new smartphone games team\r\n / Will the third time be the charm? \r\nSony wants 20 percent … [+4988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Michael Gwilliam",
-      "title": "Overwatch 2 devs confirm “alternative controls” for Lifeweaver are already in the works - Dexerto",
-      "description": "The Overwatch 2 devs have confirmed changes to Lifeweaver's controls are in the works after a rocky launch.",
-      "url": "https://www.dexerto.com/overwatch/overwatch-2-devs-confirm-alternative-controls-for-lifeweaver-are-already-in-the-works-2112632/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/04/12/overwatch-2-devs-lifeweaver-secondary-explained.jpg",
-      "publishedAt": "2023-04-12T21:53:40Z",
-      "content": "The new Overwatch 2 hero, Lifeweaver, has left the community bewildered by his default controls, but the devs have a reason behind having his damage tied to a weapon swap.\r\nLifeweaver is finally out … [+2792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Alan Sahbegovic",
-      "title": "List of all GTA Online businesses tied to Passive Income, ranked - Sportskeeda",
-      "description": "Passive Income is money that GTA Online players can earn through businesses every in-game day. Some gamers count Sell Missions under this category, while others don't.",
-      "url": "https://www.sportskeeda.com/gta/list-gta-online-businesses-tied-passive-income-ranked",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/b5821-16813323313186-1920.jpg",
-      "publishedAt": "2023-04-12T21:23:40Z",
-      "content": "Passive Income is money that GTA Online players can earn through businesses every in-game day. Some gamers count Sell Missions under this category, while others don't. This article will side with the… [+3539 chars]"
+      "author": "Jay Peters",
+      "title": "EA shares new trailer for its single-player shooter with magic spells - The Verge",
+      "description": "EA has released a new trailer for Immortals of Aveum, a single-player “first-person magic shooter” developed by Ascendant Studios. EA will be publishing the game under its EA Originals label.",
+      "url": "https://www.theverge.com/2023/4/13/23682477/ea-immortals-of-aveum-single-player-shooter-magic-spells-originals-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5m1olHiZh-2caIul0Fs1i99hXsY=/0x0:1024x576/1200x628/filters:focal(512x288:513x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/24584030/ioa_rvl_shieldsmall.jpg.adapt.1024w.jpg",
+      "publishedAt": "2023-04-13T20:50:05Z",
+      "content": "EA shares new trailer for its single-player shooter with magic spells\r\nEA shares new trailer for its single-player shooter with magic spells\r\n / Immortals of Aveum will be released on July 20th.\r\nByJ… [+1553 chars]"
     },
     {
       "source": {
@@ -73,142 +125,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Wartales - Official Release Trailer - IGN",
-      "description": "Wartales leaves early access and version 1.0 is available now on PC via Steam. Get another look at various locations like snowy landscapes, combat, and more ...",
-      "url": "https://www.youtube.com/watch?v=r2pkdtoY7rA",
-      "urlToImage": "https://i.ytimg.com/vi/r2pkdtoY7rA/maxresdefault.jpg",
-      "publishedAt": "2023-04-12T21:00:23Z",
+      "title": "XDefiant - Official Factions and Loadout Overview Trailer - IGN",
+      "description": "In this trailer for XDefiant, take a deeper dive into factions and loadout from this upcoming free-to-play, first-person arena shooter game, including variou...",
+      "url": "https://www.youtube.com/watch?v=XVu0blClf1o",
+      "urlToImage": "https://i.ytimg.com/vi/XVu0blClf1o/maxresdefault.jpg",
+      "publishedAt": "2023-04-13T20:30:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoNintendo"
-      },
-      "author": "rawmeatcowboy",
-      "title": "Reminder: Nintendo Switch Sports' last new set arrives this week - GoNintendo",
-      "description": "Its been a year already!?",
-      "url": "https://gonintendo.com/contents/18904-reminder-nintendo-switch-sports-last-new-set-arrives-this-week",
-      "urlToImage": "https://gonintendo.com/attachments/image/26505/file/medium-b2c982e0a9f7edebbcb9392b9dea9c85.png",
-      "publishedAt": "2023-04-12T20:59:53Z",
-      "content": "Nintendo has been offering in-game rewards for Nintendo Switch Sports ever since the game launched back on April 29th, 2023. As were just about at the one-year anniversary of the game, Nintendo is ab… [+773 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Alyssa Mercante",
-      "title": "Here's What's Going On With Your Overwatch 2 Rank - Kotaku",
-      "description": "Rank decay this, season reset that, here’s why your Overwatch competitive rank is what it is in season 4",
-      "url": "https://kotaku.com/overwatch-2-rank-lookup-bug-patch-notes-tracker-1850329833",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b4bf0c1a4682cfcb10b262f8a4671747.jpg",
-      "publishedAt": "2023-04-12T20:55:00Z",
-      "content": "Although Blizzard promised that the dreaded Overwatch 2 rank decay would not happen in its latest season, some players are finding that their competitive rankings are, well, decaying. Theyve taken to… [+3604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Prasad",
-      "title": "Nvidia announces GeForce RTX 4070 for $599 - GSMArena.com news - GSMArena.com",
-      "description": "Available starting April 13. Nvidia today announced the GeForce RTX 4070, the newest model in the 40-series of desktop graphics card and also the cheapest...",
-      "url": "https://www.gsmarena.com/nvidia_announces_geforce_rtx_4070_for_599-news-58229.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/nvidia-rtx-4070/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-04-12T20:52:25Z",
-      "content": "Nvidia today announced the GeForce RTX 4070, the newest model in the 40-series of desktop graphics card and also the cheapest so far. The graphics card will go on sale starting April 13.\r\nThe RTX 407… [+1504 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Logan Plant",
-      "title": "Diablo 4 Battle Pass Will Take Around 80 Hours to Complete - IGN",
-      "description": "Diablo 4 will have a seasonal model much like its predecessor, and it seems like there will be a lot of content for players to tackle.",
-      "url": "https://www.ign.com/articles/diablo-4-battle-pass-will-take-around-80-hours-to-complete",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/06/06/diablo-immortal-adv-1280-1654489599239.jpg?width=1280",
-      "publishedAt": "2023-04-12T20:23:18Z",
-      "content": "Diablo 4 will have a seasonal model much like its predecessor, and it seems like there will be a lot of content for players to tackle.\r\nIn an interview with PC Gamer\r\n, associate game director Joe Pi… [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Zachary Roberts",
-      "title": "All major DMZ changes in Warzone 2 Season 3: New faction, Barter system, Workbench, and more - Sportskeeda",
-      "description": "Call of Duty: Warzone 2 Season 3 has finally arrived, and its major update was released today, April 12. With it comes a ton of new additions, key changes, and more to lead into the new season.",
-      "url": "https://www.sportskeeda.com/esports/all-major-dmz-changes-warzone-2-season-3-new-faction-barter-system-workbench",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/419a6-16813171616822-1920.jpg",
-      "publishedAt": "2023-04-12T19:42:51Z",
-      "content": "Call of Duty: Warzone 2 Season 3 has finally arrived, and its major update was released today, April 12. With it comes a ton of new additions, key changes, and more to lead into the new season. Moreo… [+3229 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GameSpot"
       },
-      "author": "Jenny Zheng",
-      "title": "Final Fantasy XVI State Of Play: Start Time And How To Watch - GameSpot",
-      "description": "More than 20 minutes of new Final Fantasy XVI gameplay footage will be shown.",
-      "url": "https://www.gamespot.com/articles/final-fantasy-xvi-state-of-play-start-time-and-how-to-watch/1100-6513180/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4124399-ff16.jpeg",
-      "publishedAt": "2023-04-12T18:45:31Z",
-      "content": "PlayStation is holding a new State of Play presentation focused solely on Final Fantasy XVI. The presentation will include 20 minutes of gameplay, so it's one you won't want to miss if you're anxious… [+1909 chars]"
+      "author": "Joseph Yaden",
+      "title": "GameStop Employee Reportedly Fired For Leaking Zelda-Themed Switch - GameSpot",
+      "description": "After the leak, the employee says he was told \"off the record\" that Nintendo requested the move.",
+      "url": "https://www.gamespot.com/articles/nintendo-reportedly-forced-gamestop-to-fire-employee-who-leaked-zelda-themed-switch/1100-6513247/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1725/17256179/4125229-totkswitchsystem.jpg",
+      "publishedAt": "2023-04-13T20:11:58Z",
+      "content": "A GameStop employee was reportedly fired after posting about The Legend of Zelda: Tears of the Kingdom Nintendo Switch OLED system before its announcement. The now-former employee leaked details of t… [+1546 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abplive.com"
+        "name": "Gizmodo.com"
       },
-      "author": "ABP News Bureau",
-      "title": "Wordle 663 Answer, April 13: Check Out Hints And Clues To Solve Today's Wordle Puzzle - ABP Live",
-      "description": "Wordle 663 Answer Today: Do you need help with today's Wordle? Here are some clues and hints for you.",
-      "url": "https://news.abplive.com/gaming/wordle-663-answer-today-april-13-wordle-solution-puzzle-hints-1595111",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/04/12/00deaf6f5d5fac8a76a8c06829d93eeb1681304437993236_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-04-12T18:34:17Z",
-      "content": "Wordle 663 Answer Today, April 13: The Wordle challenge today should be easy, especially after what the players were confronted with on Wednesday. It's a word everyone is likely to be familiar with, … [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "This First-Person Horror Game Set Underwater LOOKS CREEPY - GamingBolt",
-      "description": "The indie games industry continues to grow at a rapid pace with a buffet of exciting releases that challenge the many norms of AAA game development. There’s ...",
-      "url": "https://www.youtube.com/watch?v=lOGY4-OSwUY",
-      "urlToImage": "https://i.ytimg.com/vi/lOGY4-OSwUY/maxresdefault.jpg",
-      "publishedAt": "2023-04-12T18:30:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Anil Ganti",
-      "title": "PlayStation Plus April 2022 game catalogue adds 16 new games including Doom Eternal, Kena: Bridge of Spirits and The Evil Within - Notebookcheck.net",
-      "description": "PlayStation Plus Extra/Premium game catalogue for April includes Kena: Bridge of Spirits, Doom Eternal, The Evil Within, Wolfenstein II: The New Colossus, and more. PS Plus Premium subscribers also get to play the original Doom Games and Dishonored. All the g…",
-      "url": "https://www.notebookcheck.net/PlayStation-Plus-April-2022-game-catalogue-adds-16-new-games-including-Doom-Eternal-Kena-Bridge-of-Spirits-and-The-Evil-Within.707023.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/3238bf38f4485c3d98635f3f0481f5960c814857_jpg.png",
-      "publishedAt": "2023-04-12T18:21:42Z",
-      "content": "PlayStation Plus Extra/Premium users are in for a treat this month. Sony has revealed the titles set to arrive on the platform, and it is stacked with many high-quality AAA games spanning a wide rang… [+1273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Ashim",
-      "title": "Call of Duty Mobile Arsenal Overdrive: How to get a Lucky Draw Coupon, a Reaper camo, and more for free - Sportskeeda",
-      "description": "Call of Duty Mobile (COD Mobile) is one of the best games for players who love collecting in-game cosmetics.",
-      "url": "https://www.sportskeeda.com/esports/call-duty-mobile-arsenal-overdrive-how-get-lucky-draw-coupon-reaper-camo-free",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/21e92-16813195494581-1920.jpg",
-      "publishedAt": "2023-04-12T18:11:55Z",
-      "content": "Call of Duty Mobile (COD Mobile) is one of the best games for players who love collecting in-game cosmetics. The popularity of in-app items has allowed Activision to bring new lucky draws into this t… [+2866 chars]"
+      "author": "Florence Ion",
+      "title": "The Rumors Have Flipped: Apple Will Not Release the iPhone SE 4 Anytime Soon - Gizmodo",
+      "description": "Whatever work the company has done to make its own 5G modem will eventually rear its head.",
+      "url": "https://gizmodo.com/apple-iphone-se-4-canceled-prototype-5g-modem-cheap-1850333881",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/994d0371d4e12a51cabacd8933c4ff0b.jpg",
+      "publishedAt": "2023-04-13T20:10:00Z",
+      "content": "This year has seen leakers saying the new Apple iPhone SE would be scrapped, then walking that back, and now reasserting that its not coming after all, at least for a while. Its a lot of back-and-for… [+1884 chars]"
     },
     {
       "source": {
@@ -216,51 +164,103 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Scientists create robotic hand able to hold objects - BBC News - BBC News",
-      "description": "Scientists at the University of Cambridge have designed a robotic hand that can grasp and hold objects using only the movement of its wrist.The 3D printed mo...",
-      "url": "https://www.youtube.com/watch?v=ksV1BkcT2WI",
-      "urlToImage": "https://i.ytimg.com/vi/ksV1BkcT2WI/maxresdefault.jpg",
-      "publishedAt": "2023-04-12T18:00:19Z",
+      "title": "Total War: Warhammer 3 - Official Forge of the Chaos Dwarfs Launch Trailer - IGN",
+      "description": "Total War: Warhammer 3's Forge of the Chaos Dwarfs DLC is available now. Check out the exciting Total War Warhammer 3 Forge of the Chaos Dwarfs launch traile...",
+      "url": "https://www.youtube.com/watch?v=YuhHfnUI6dM",
+      "urlToImage": "https://i.ytimg.com/vi/YuhHfnUI6dM/maxresdefault.jpg",
+      "publishedAt": "2023-04-13T20:00:15Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": null,
-      "title": "Sherlock Holmes: The Awakened | Review in 3 Minutes - The Escapist",
-      "description": "Support us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapistSebastia...",
-      "url": "https://www.youtube.com/watch?v=ORo8_XK88W0",
-      "urlToImage": "https://i.ytimg.com/vi/ORo8_XK88W0/maxresdefault.jpg",
-      "publishedAt": "2023-04-12T18:00:16Z",
-      "content": null
+      "author": "Emma Roth",
+      "title": "Google Chat is getting a new look to match Docs, Sheets, and Gmail - The Verge",
+      "description": "Google Chat is getting a redesign that matches the Material Design 3-inspired interfaces of Google Drive, Docs, Sheets, Slides, and Gmail. It’s rolling out over the next several weeks.",
+      "url": "https://www.theverge.com/2023/4/13/23682345/google-chat-new-look-material-3-design",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+      "publishedAt": "2023-04-13T19:48:58Z",
+      "content": "Google Chat is getting a new look to match Docs, Sheets, and Gmail\r\nGoogle Chat is getting a new look to match Docs, Sheets, and Gmail\r\n / Google Chats getting a Material Design 3 overhaul, complete … [+1265 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Push Square"
       },
-      "author": "Chance Miller",
-      "title": "This shortcut brings deep ChatGPT integration to native iOS features and apps - 9to5Mac",
-      "description": "We’ve seen OpenAI’s ChatGPT technology come to Apple devices in a number of different ways, including with dedicated apps for...",
-      "url": "https://9to5mac.com/2023/04/12/this-shortcut-brings-deep-chatgpt-integration-to-native-ios-features-and-apps/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/coldplay-s-gpt-2@0.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-04-12T17:57:00Z",
-      "content": "Weve seen OpenAIs ChatGPT technology come to Apple devices in a number of different ways, including with dedicated apps for iPhone and Apple Watch. The newest entry to the scene is an incredibly powe… [+4946 chars]"
+      "author": "Liam Croft",
+      "title": "Suicide Squad PS5 Game Delay Now Official, Out in February 2024 - Push Square",
+      "description": "To make it the best game possible",
+      "url": "https://www.pushsquare.com/news/2023/04/suicide-squad-ps5-game-delay-now-official-out-in-february-2024",
+      "urlToImage": "https://images.pushsquare.com/3916df5af432a/1280x720.jpg",
+      "publishedAt": "2023-04-13T19:39:49Z",
+      "content": "Definitely think this delay won't help. I actually think they should release asap. This may overall Doom the developer and clearly this game will flop but I think in a larger scope we need more of th… [+1346 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "GameSpot"
       },
-      "author": "Logan Plant",
-      "title": "The Legend of Zelda: Tears of the Kingdom Is Getting Its Final Pre-Launch Trailer Tomorrow - IGN",
-      "description": "The final pre-launch trailer for The Legend of Zelda: Tears of the Kingdom will debut tomorrow, Nintendo has announced.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-is-getting-its-final-pre-launch-trailer-tomorrow",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/02/20/legend-of-zelda-tears-of-the-kingdom-1663081213439-1675804568959-1676863480057.jpg?width=1280",
-      "publishedAt": "2023-04-12T17:56:09Z",
-      "content": "Today marks exactly one month until the launch of The Legend of Zelda: Tears of the Kingdom on May 12. To celebrate, Nintendo is giving us a brand new trailer for the game.\r\nThe final pre-launch trai… [+2266 chars]"
+      "author": "Eddie Makuch",
+      "title": "Suicide Squad: Kill The Justice League Delayed To 2024 - GameSpot",
+      "description": "Rocksteady pushes the anticipated game back to next year.",
+      "url": "https://www.gamespot.com/articles/suicide-squad-kill-the-justice-league-delayed-to-2024/1100-6513257/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4125342-suicidesquad.png",
+      "publishedAt": "2023-04-13T19:36:27Z",
+      "content": "Suicide Squad: Kill the Justice League has been delayed to 2024. In a social media post, developer Rocksteady confirmed that the action game is now slated to release on February 2, 2024.\r\n\"We have ma… [+1627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "PlayStation Plus Game Catalog and Classics Catalog lineup for April 2023 announced - Gematsu",
+      "description": "Sony Interactive Entertainment has announced the April 2023 Game Catalog lineup for Extra and Premium subscribers, and Classics Catalog titles for Premium subscribers. Get the details below.",
+      "url": "https://www.gematsu.com/2023/04/playstation-plus-game-catalog-and-classics-catalog-lineup-for-april-2023-announced",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/04/PS-Plus_04-12-23.jpg",
+      "publishedAt": "2023-04-13T19:26:11Z",
+      "content": "Sony Interactive Entertainment has announced the April 2023 Game Catalog lineup for Extra and Premium subscribers, and Classics Catalog titles for Premium subscribers. Get the details below.All title… [+8654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Chat rolling out Material You web redesign - 9to5Google",
+      "description": "Following Gmail, Drive, and Docs/Sheets/Slides, Google Chat is now the latest Workspace web app to get a Material You redesign...",
+      "url": "https://9to5google.com/2023/04/13/google-chat-material-you/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/01/google_chat_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-04-13T19:23:00Z",
+      "content": "Following Gmail, Drive, and Docs/Sheets/Slides, Google Chat is now the latest Workspace web app to get a Material You redesign.\r\nGoogle touts “updated font, colors, layouts, panel sizing and more.” T… [+1365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sabina Graves",
+      "title": "Disney's New Tron: Identity Game Interview With Mike Bithell - Gizmodo",
+      "description": "io9 talks to the creators behind the new release from Disney and Bithell Games, now available on Steam and the Nintendo Switch.",
+      "url": "https://gizmodo.com/tron-identity-new-disney-game-interview-mike-bithell-1850323703",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f7e1f92f967ad8fd7e8604a08e9242ea.jpg",
+      "publishedAt": "2023-04-13T19:15:00Z",
+      "content": "In new video game Tron: Identity, the story of Tron and Tron: Legacy continues in a whole new Grid of Kevin Flynns making. \r\nio9 interviewed Bithell Games creative director Mike Bithell and game prod… [+8954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Microsoft Devs Built a Basic Version of Windows Optimized for Steam Deck - Gizmodo",
+      "description": "Leaked video from an internal 2022 Microsoft hackathon show devs found ways to build a version of Windows to work on handheld consoles for gaming.",
+      "url": "https://gizmodo.com/microsoft-windows-steam-deck-gaming-pc-handheld-interna-1850332962",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/404f05fc2b0be1b41fa97a67ab3910e1.jpg",
+      "publishedAt": "2023-04-13T19:10:00Z",
+      "content": "Even with the Xbox being over 20 years old (let that sink in), Microsoft has yet to jump into the booming gaming handheld console market. Still, at least its employeesboth past and presenthave made i… [+3799 chars]"
     }
   ]
 }
