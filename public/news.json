@@ -1,45 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 374,
+  "totalResults": 353,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": null,
-      "title": "Cult of the Lamb - Official Relics of the Old Faith Update Trailer - IGN",
-      "description": "The Cult of the Lamb: Relics of the Old Faith update brings dozens of new items and relics scattered across remixed dungeons, as well as a post-game storylin...",
-      "url": "https://www.youtube.com/watch?v=3H5G1o-s284",
-      "urlToImage": "https://i.ytimg.com/vi/3H5G1o-s284/maxresdefault.jpg",
-      "publishedAt": "2023-04-19T22:00:03Z",
+      "author": "Maddy Myers",
+      "title": "Aloy gets romance options in Horizon Forbidden West: Burning Shores DLC - Polygon",
+      "description": "Horizon Forbidden West heroine Aloy didn’t get any romance options in the original game, despite forming many close bonds with multiple NPCs. In the Burning Shores DLC, Aloy finally gets a shot at love — specifically, with the female character Seyka.",
+      "url": "https://www.polygon.com/23691822/horizon-forbidden-west-burning-shores-dlc-aloy-romance-queer-lgbt",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4d7DbhmaBNqf44avFOqNT-TTnm4=/0x96:2432x1369/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24599438/horizon_forbidden_west_burning_shores___edit.jpg",
+      "publishedAt": "2023-04-20T21:45:51Z",
+      "content": "Aloy didnt have much time for romance during the breakneck events of Horizon Zero Dawn, but in the sequel to the post-apocalyptic open world RPG, called Forbidden West, the heroine formed many close … [+2429 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "Stack Overflow Will Charge AI Giants for Training Data - WIRED",
+      "description": "The programmer Q&A site joins Reddit in demanding compensation when its data is used to train algorithms and ChatGPT-style bots",
+      "url": "https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/",
+      "urlToImage": "https://media.wired.com/photos/644185dd7b25a434b1f3bbc2/191:100/w_1280,c_limit/Stack-Overflow-Wants-Payment-Business-1425147764.jpg",
+      "publishedAt": "2023-04-20T21:19:44Z",
+      "content": "Large language models can generate strings of text based on word patterns learned from the web pages, books, and other bodies of text in their training data. Besides ChatGPT, the programs make up the… [+2959 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Street Fighter 6 Showcase Livestream - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC2dGZGc5MHN3SUdJmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-20T21:00:37Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Beebom"
+        "name": "Search Engine Journal"
       },
-      "author": "Anmol",
-      "title": "Xiaomi Launches Mi Band 8 with Improved Battery Life and Design - Beebom",
-      "description": "Xiaomi has launched the Mi band 8 with an upgraded design, fast-charging, many sports modes, and more. Check out the specs and price details!",
-      "url": "http://beebom.com/xiaomi-mi-band-8-launched/",
-      "urlToImage": "https://beebom.com/wp-content/uploads/2023/04/xiaomi-launches-mi-band-8.jpg",
-      "publishedAt": "2023-04-19T21:25:50Z",
-      "content": "While the Xiaomi 13 Ultra and the Pad 6 were highlights of the company’s launch event in China, several users have been eagerly waiting to learn all about the much-awaited Mi Band 8. Yeah, we saw the… [+3819 chars]"
+      "author": "Roger Montti",
+      "title": "Google Announces Internal Shakeup To Create Google DeepMind - Search Engine Journal",
+      "description": "Google combines Google Brain and DeepMind to form Google DeepMind, a new unit tasked with faster and more powerful AI innovation",
+      "url": "https://www.searchenginejournal.com/google-deepmind/485141/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/04/google-deepmind-6441a2ad8df3f-sej.jpg",
+      "publishedAt": "2023-04-20T20:41:08Z",
+      "content": "Google and DeepMind announced the creation of a new group called Google DeepMind that will combine the infrastructure and research of two units within Alphabet in order to achieve faster and stronger… [+3002 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ron Amadeo",
-      "title": "Google Fi gets third rebrand in 8 years, adds free trial for eSim phones - Ars Technica",
-      "description": "There's a new app coming and an option for a free phone after 24 months of service.",
-      "url": "https://arstechnica.com/gadgets/2023/04/google-fi-gets-third-rebrand-in-8-years-adds-free-trial-for-esim-phones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/42-760x380.jpg",
-      "publishedAt": "2023-04-19T21:13:13Z",
-      "content": "Enlarge/ Google Fi's new brand and logo.\r\n32 with \r\nGoogle Fi, Google's cellular service, is getting its third rebrand in eight years. First it was Project Fi, then Google Fi, and now it's \"Google Fi… [+2017 chars]"
+      "author": "Ash Parrish",
+      "title": "Diablo IV is getting a surprise third beta - The Verge",
+      "description": "Diablo IV is getting a third beta to take place May 12th–14th. Dubbed the “Server Slam,” the beta is designed to have as many players online as possible to test server capabilities.",
+      "url": "https://www.theverge.com/2023/4/20/23691679/diablo-iv-beta-server-slam-blizzard",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QJDeZG1c-HBdD3EY1QTwvEbrRdA=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24599314/D4_Rogue_Campfire_png_jpgcopy.jpg",
+      "publishedAt": "2023-04-20T20:34:30Z",
+      "content": "Surprise! Theres a third Diablo IV beta coming\r\nSurprise! Theres a third Diablo IV beta coming\r\n / Announced during a developer livestream, this third beta is aiming to test server loads\r\nByAsh Parri… [+1405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Jay Sarma",
+      "title": "Apex Legends' 3 best Legend compositions to dominate ranked games on World's Edge - Sportskeeda",
+      "description": "World's Edge, released in Season 3 of Apex Legends, is possibly the game's most popular map among casuals and pros alike.",
+      "url": "https://www.sportskeeda.com/esports/apex-legends-3-best-legend-compositions-dominate-ranked-games-world-s-edge",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/d0d67-16819802235322-1920.jpg",
+      "publishedAt": "2023-04-20T20:32:00Z",
+      "content": "World's Edge, released in Season 3 of Apex Legends, is possibly the game's most popular map among casuals and pros alike. Often considered one of the most balanced maps for ALGS, World's Edge feature… [+4644 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Police bodycam shooter Unrecord shocks viewers with its unsettling realism - Polygon",
+      "description": "The studio behind the new cop first-person shooter seen through the lens of a body camera says it’s “not inspired by any real-life events.”",
+      "url": "https://www.polygon.com/23691482/unrecord-bodycam-fps-steam-unreal-engine-5",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lShFGok43G1diBcHwyyt8fvjG14=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24598905/unrecord_game.jpg",
+      "publishedAt": "2023-04-20T20:22:05Z",
+      "content": "The studio behind it says its not inspired by any real-life events"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Jason Wright",
+      "title": "Minecraft Bedrock beta/preview 1.20.0.21 patch notes: All you need to know - Sportskeeda",
+      "description": "Minecraft has rolled out the latest update for the Preview and Beta version of 1.20.0.21, bringing new features, bug fixes, and accessibility improvements to the popular sandbox game.",
+      "url": "https://www.sportskeeda.com/minecraft/minecraft-bedrock-beta-preview-1-20-0-21-patch-notes-all-need-know",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/9e9d9-16820031291120-1920.jpg",
+      "publishedAt": "2023-04-20T20:19:00Z",
+      "content": "Minecraft has rolled out the latest update for the Preview and Beta version of 1.20.0.21, bringing new features, bug fixes, and accessibility improvements to the popular sandbox game. The Preview ver… [+4618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Nerd Stash"
+      },
+      "author": "Ramses Miaco",
+      "title": "'Street Fighter 6' Demo Has Been Leaked - The Nerd Stash",
+      "description": "A leak reveals that a Street Fighter 6 demo is now available. Visit this article to know all the details about the leak.",
+      "url": "https://thenerdstash.com/street-fighter-6-demo-has-been-leaked/",
+      "urlToImage": "https://thenerdstash.com/wp-content/uploads/2023/04/street-fighter-6.jpg",
+      "publishedAt": "2023-04-20T20:06:24Z",
+      "content": "The whole world knows that there is a new Street Fighter game coming. It is one of the most awaited games to this date. Fortunately, an ad might have leaked the demo of the upcoming Street Fighter 6 … [+1454 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "PlayStation acquires Firewalk Studios, which is building an “original AAA multiplayer game” - The Verge",
+      "description": "Sony is acquiring Firewalk Studios from current owner ProbablyMonsters to help build an “original AAA multiplayer game” for PlayStation 5 and PC, Sony announced on Thursday. Sony has been investing heavily in live service titles recently.",
+      "url": "https://www.theverge.com/2023/4/20/23691580/sony-playstation-firewalk-studios-acquisition-bungie",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_BPjZzJejHR1bALkKniwyc_r9e0=/0x0:1088x612/1200x628/filters:focal(544x306:545x307)/cdn.vox-cdn.com/uploads/chorus_asset/file/24599071/e9c24073dc63f0570e2c1281eb634253.jpg",
+      "publishedAt": "2023-04-20T19:59:46Z",
+      "content": "PlayStation acquires Firewalk Studios, which is building an original AAA multiplayer game\r\nPlayStation acquires Firewalk Studios, which is building an original AAA multiplayer game\r\n / Sony is adding… [+1633 chars]"
     },
     {
       "source": {
@@ -47,12 +138,77 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Bomb Rush Cyberfunk - Official Release Date Announcement Trailer - IGN",
-      "description": "Bomb Rush Cyberfunk will be available on Steam and Nintendo Switch on August 18, 2023. Watch the latest trailer to see skateboarding and more of this stylish...",
-      "url": "https://www.youtube.com/watch?v=45iSONCqMU8",
-      "urlToImage": "https://i.ytimg.com/vi/45iSONCqMU8/maxresdefault.jpg",
-      "publishedAt": "2023-04-19T21:00:02Z",
+      "title": "Apex Legends - Official Veiled Collection Event Trailer - IGN",
+      "description": "Apex Legends is introducing the new Veiled Collection Event coming packed with 24 time-limited cosmetic items including new Legendary skins for Wattson, Ramp...",
+      "url": "https://www.youtube.com/watch?v=N0BZdGxiMZc",
+      "urlToImage": "https://i.ytimg.com/vi/N0BZdGxiMZc/maxresdefault.jpg",
+      "publishedAt": "2023-04-20T19:00:06Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Graham Smith",
+      "title": "Cult Of The Lamb's free Relics Of The Old Faith update revamps combat next week - Rock Paper Shotgun",
+      "description": "Cult Of The Lamb's major free update will release on April 14th, revamping combat with new moves, enemies and bosses and adding new buildings for your cult.",
+      "url": "https://www.rockpapershotgun.com/cult-of-the-lambs-major-relics-of-the-old-faith-revamps-combat-next-week",
+      "urlToImage": "https://assetsio.reedpopcdn.com/cult-of-the-lamb-relic-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-04-20T18:42:44Z",
+      "content": "Hack-and-slash management game Cult Of The Lamb released last year to glowing reviews and plentiful awards. Developers Massive Monster didn't drink their own Kool Aid, however. They've been working o… [+1512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "ABP News Bureau",
+      "title": "Wordle 671 Answer, April 21: Check Out Hints And Clues To Solve Today's Wordle Puzzle - ABP Live",
+      "description": "Wordle 671 Answer Today: Do you need help with today's Wordle? Here are some clues and hints for you.",
+      "url": "https://news.abplive.com/gaming/wordle-671-answer-today-april-21-wordle-solution-puzzle-hints-1596831",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/04/20/26615a15df28760fcaed828a931214641681985100858236_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2023-04-20T18:37:44Z",
+      "content": "Wordle 671 Answer Today, April 21: The Wordle challenge today will be difficult. It may not be an unheard-of word, but it's not used in regular conversations. Players are going to take some time crac… [+2040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google rolls out Android 13 QPR3 Beta 3 to Pixel - 9to5Google",
+      "description": "While Android 14 is now in public preview, the Android 13 QPR3 preview continues with Beta 3 today. QPR3 will...",
+      "url": "https://9to5google.com/2023/04/20/android-13-qpr3-beta-3/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Android-13-QPR.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-04-20T18:31:00Z",
+      "content": "While Android 14 is now in public preview, the Android 13 QPR3 preview continues with Beta 3 today.\r\nQPR3 will see its consumer launch in June as the last quarterly update for Android 13. \r\nUnlike de… [+2605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Division 2's New Rogue-Lite Mode Offers a Hassle-Free Way to Jump Back In - IGN",
+      "description": "A brand new rogue-lite mode is coming to The Division 2 called \"Descent\". This mode puts a roguelike twist on that classic Division 2 gameplay, and we got a ...",
+      "url": "https://www.youtube.com/watch?v=Hvse-TV7q1A",
+      "urlToImage": "https://i.ytimg.com/vi/Hvse-TV7q1A/maxresdefault.jpg",
+      "publishedAt": "2023-04-20T18:30:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Ubisoft's free-to-play Division Heartland still coming, but more player testing to be done - Eurogamer.net",
+      "description": "Tonight brings a dollop of news from Ubisoft's The Division franchise, which will soon be extended by the arrival of fr…",
+      "url": "https://www.eurogamer.net/ubisofts-free-to-play-division-heartland-still-coming-but-more-player-testing-to-be-done",
+      "urlToImage": "https://assetsio.reedpopcdn.com/Heartland_DivDay_Extraction_Day.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-04-20T18:30:00Z",
+      "content": "Tonight brings a dollop of news from Ubisoft's The Division franchise, which will soon be extended by the arrival of free-to-play spin-off The Division Heartland. \r\nOriginally announced in May 2021, … [+2161 chars]"
     },
     {
       "source": {
@@ -60,207 +216,51 @@
         "name": "The Verge"
       },
       "author": "Emma Roth",
-      "title": "Stability AI announces new open-source large language model - The Verge",
-      "description": "Stability AI, the company behind the Stable Diffusion AI art tool, has released an open-source large language model it calls StableLM. Developers can adapt the model to create new tools and integrations.",
-      "url": "https://www.theverge.com/2023/4/19/23689883/stability-ai-open-source-large-language-model-stablelm",
-      "urlToImage": null,
-      "publishedAt": "2023-04-19T20:21:40Z",
-      "content": "Stability AI announces new open-source large language model\r\nStability AI announces new open-source large language model\r\n / Stability AI, the same company behind the AI image generator Stable Diffus… [+2152 chars]"
+      "title": "Proton launches an end-to-end encrypted password manager - The Verge",
+      "description": "Proton has launched Proton Pass, a password manager that lets users store usernames, passwords, notes, and email addresses in an end-to-end encrypted vault.",
+      "url": "https://www.theverge.com/2023/4/20/23691097/proton-end-to-end-encrypted-password-manager-e2ee",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RewK3D9FcJ-UOqiFCGmsctcPLGs=/0x0:2400x1200/1200x628/filters:focal(1200x600:1201x601)/cdn.vox-cdn.com/uploads/chorus_asset/file/24598546/proton_pass_sec_model_blog_2x.jpg",
+      "publishedAt": "2023-04-20T18:15:56Z",
+      "content": "Proton launches an end-to-end encrypted password manager\r\nProton launches an end-to-end encrypted password manager\r\n / In addition to encrypting your passwords, Proton Pass applies the same layer of … [+2958 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "MacRumors"
       },
-      "author": "Diwas Budhathoki",
-      "title": "What is the best moveset for Victreebel in Pokemon GO? - Sportskeeda",
-      "description": "The end of \"A Mystic Hero\" event changed the Pokemon GO Raid bosses' lineup once again.",
-      "url": "https://www.sportskeeda.com/pokemon/what-best-moveset-victreebel-pokemon-go",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/6e589-16819310918968-1920.jpg",
-      "publishedAt": "2023-04-19T20:14:00Z",
-      "content": "The end of \"A Mystic Hero\" event changed the Pokemon GO Raid bosses' lineup once again. Victreebel is returning as a Tier-3 Raid boss this April 2023, including other powerful monsters like Vileplume… [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Jim Norman",
-      "title": "Round Up: The Reviews Are In For Advance Wars 1+2: Re-Boot Camp - Nintendo Life",
-      "description": "Victory march",
-      "url": "https://www.nintendolife.com/news/2023/04/round-up-the-reviews-are-in-for-advance-wars-1plus2-re-boot-camp",
-      "urlToImage": "https://images.nintendolife.com/2aebc8e8d0b79/1280x720.jpg",
-      "publishedAt": "2023-04-19T20:00:00Z",
-      "content": "Image: Nintendo\r\nAfter a couple of lengthy delays, we are finally on the home straight for the return of Nintendo's tiny tactics series as Advance Wars 1+2: Re-Boot Camp rolls onto Switch on 21st Apr… [+3542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/victor-dasgupta/",
-      "title": "Samsung Galaxy A24 Launched With 50-Megapixel Camera, 5,000mAh Battery | Check Price Here - India.com",
-      "description": "The Samsung Galaxy A24 is currently available in Vietnam in only two variants - Lime Green and Vampire Black.",
-      "url": "https://www.india.com/technology/samsung-galaxy-a24-launched-with-50-megapixel-camera-5000mah-battery-check-price-here-6005403/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/04/Sam-2.jpg",
-      "publishedAt": "2023-04-19T19:51:44Z",
-      "content": "The Samsung Galaxy A24 is currently available in Vietnam in only two variants - Lime Green and Vampire Black.\r\nSamsung Galaxy A24 Launched\r\nSouth Korean technology giant Samsung launched Samsung Gala… [+2647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Alan Sahbegovic",
-      "title": "GTA 6 leaks allegedly reveal upcoming weapons in game - Sportskeeda",
-      "description": "Some players might be interested in learning about some of the upcoming weapons for GTA 6 revealed in the old video leaks.",
-      "url": "https://www.sportskeeda.com/gta/news-gta-6-leaks-allegedly-reveal-upcoming-weapons-game",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/04/7310b-16819279272129-1920.jpg",
-      "publishedAt": "2023-04-19T19:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Alan Lopez",
-      "title": "Pokémon TCG Community Engulfed In Potential Fraud Scandal - Nintendo Life",
-      "description": "Conflicting details have been shared online",
-      "url": "https://www.nintendolife.com/features/pokemon-tcg-community-engulfed-in-potential-fraud-scandal",
-      "urlToImage": "https://images.nintendolife.com/75c0dc7b64a0e/1280x720.jpg",
-      "publishedAt": "2023-04-19T19:06:16Z",
-      "content": "Image: Alex Olney / Nintendo Life\r\nThe Pokémon Trading Card Game (TCG) community is knee-deep in the biggest scandal it has ever known.\r\nOver the weekend, a picture was posted on the subreddit r/Poke… [+7310 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Unrecord - Official Early Gameplay Trailer - IGN",
-      "description": "Here's your look at early gameplay from Unrecord, an upcoming single-player FPS that tells the story of a tactical police officer from the perspective of his...",
-      "url": "https://www.youtube.com/watch?v=IK76q13Aqt0",
-      "urlToImage": "https://i.ytimg.com/vi/IK76q13Aqt0/maxresdefault.jpg",
-      "publishedAt": "2023-04-19T19:00:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "Sonic The Hedgehog can actually spin in Lego's new sets - The Verge",
-      "description": "Lego’s new $100 Sonic The Hedgehog set actually lets you send Sonic spinning through an entire miniature level. Others include his friends and foes.",
-      "url": "https://www.theverge.com/23689860/lego-sonic-the-hedgehog-2023-price-release-date-speed-sphere",
-      "urlToImage": null,
-      "publishedAt": "2023-04-19T18:48:17Z",
-      "content": "Sonic The Hedgehog can actually spin in Legos new sets\r\nSonic The Hedgehog can actually spin in Legos new sets\r\n / Legos third stab at Sonic isnt just a showpiece you can actively play.\r\nLego has mad… [+1612 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "mint",
-      "title": "PVR Pic reports strong revenue | Mint - Mint",
-      "description": "It is now looking to scale up the business with more independent films across languages, Bijli said.",
-      "url": "https://www.livemint.com/companies/news/pvr-pic-reports-strong-revenue-11681929506134.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/04/19/600x338/Sanjeev_Kumar_1645988156229_1681929599159.jpg",
-      "publishedAt": "2023-04-19T18:43:19Z",
-      "content": "PVR Pictures Ltd, the film distribution arm of PVR Ltd, posted revenues of nearly 200 crore for FY23, on the back of strong box office performances of Drishyam 2, Vikram Vedha and John Wick 4. It is … [+2350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "Google Staff Warned Its AI Was a \"Pathological Liar\" Before They Released It Anyway - Futurism",
-      "description": "Google asked around 80,000 of its employees to test its still-unreleased Bard AI chatbot before it released it to the public last month, Bloomberg reports.",
-      "url": "https://futurism.com/the-byte/google-staff-warned-ai-pathological-liar",
-      "urlToImage": "https://wp-assets.futurism.com/2023/04/google-staff-warned-ai-pathological-liar.jpg",
-      "publishedAt": "2023-04-19T18:43:09Z",
-      "content": "\"AI ethics has taken a back seat.\"\r\nPathological Liar\r\nGoogle asked around 80,000 of its employees to test its still-unreleased Bard AI chatbot before it released it to the public last month, Bloombe… [+2531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Jim Norman",
-      "title": "Monster Hunter Rise: Sunbreak's Free Title Update 5 Flies Onto Switch Tomorrow - Nintendo Life",
-      "description": "Plus one final update announced for June 2023",
-      "url": "https://www.nintendolife.com/news/2023/04/monster-hunter-rise-sunbreaks-free-title-update-5-flies-onto-switch-tomorrow",
-      "urlToImage": "https://images.nintendolife.com/aed06432162e3/1280x720.jpg",
-      "publishedAt": "2023-04-19T18:30:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube\r\nCapcom has today announced all of the details about the upcoming fifth free title update for Monster Hunter Rise: Sunbreak, which we now know will be coming to … [+1262 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Tester Claims to Be 'Blown Away' by AR/VR Headset, Says There Was Giant Development Leap - MacRumors",
+      "description": "Ahead of the unveiling of Apple's AR/VR product, there has been skepticism that the device will be well-received, both because of its rumored...",
+      "url": "https://www.macrumors.com/2023/04/20/apple-tester-blown-away-ar-vr-headset/",
+      "urlToImage": "https://images.macrumors.com/t/Q86EYMilHMYtwTq-8TjlT1UnwhE=/1600x/article-new/2023/04/apple-ar-concept-2-ornange.jpg",
+      "publishedAt": "2023-04-20T18:03:50Z",
+      "content": "Ahead of the unveiling of Apple's AR/VR product, there has been skepticism that the device will be well-received, both because of its rumored $3,000 price tag and the lackluster performance of compet… [+2836 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sarah Perez",
-      "title": "Snapchat’s AI chatbot is now free for all global users, says the AI will later ‘Snap’ you back - TechCrunch",
-      "description": "Snapchat's AI chatbot is opening to a global audience. The feature originally allowed Snapchat's paid subscribers to chat with an AI chatbot. Now it's free.",
-      "url": "https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
-      "publishedAt": "2023-04-19T18:20:46Z",
-      "content": "Snapchat’s AI chatbot is now opening up to a global audience, the company announced today at its Snap Partner Summit. Initially launched in February, the feature originally allowed Snapchat’s paid su… [+4223 chars]"
+      "author": "Kyle Wiggers",
+      "title": "Google consolidates AI research divisions into Google DeepMind - TechCrunch",
+      "description": "Google is consolidating several of its AI research divisions into one, Google DeepMind, as it seeks new AI breakthroughs.",
+      "url": "https://techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1243527327.jpg?resize=1200,800",
+      "publishedAt": "2023-04-20T18:00:00Z",
+      "content": "As Google looks to maintain pace in AI with the rest of the tech giants, it’s consolidating its AI research divisions.\r\nGoogle today announced Google DeepMind, a new unit made up of the DeepMind team… [+5101 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MakeUseOf"
+        "name": "The A.V. Club"
       },
-      "author": "Abhishek Kumar Mishra",
-      "title": "How to Enable the Gallery in File Explorer in Windows 11 - MUO - MakeUseOf",
-      "description": "Get a better view of your images with the File Explorer gallery on Windows 11",
-      "url": "https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/",
-      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mockuper-10.jpg",
-      "publishedAt": "2023-04-19T18:15:00Z",
-      "content": "Windows 11’s File Explorer has a tabs feature now. You can open a new location on the disk in a new tab rather than opening a new File Explorer window. Switching between multiple file locations is se… [+6979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "Leidos working with NASCAR on Artemis lunar rover - SpaceNews",
-      "description": "Leidos is working with the racing company NASCAR to develop a lunar rover they will offer for an upcoming NASA competition.",
-      "url": "https://spacenews.com/leidos-working-with-nascar-on-artemis-lunar-rover/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2023/04/leidos-rover.jpg",
-      "publishedAt": "2023-04-19T18:08:46Z",
-      "content": "COLORADO SPRINGS Leidos is working with the racing company NASCAR to develop a lunar rover they will offer for an upcoming NASA competition.\r\nLeidos unveiled its design April 18 for a Lunar Terrain V… [+3107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Dustin Bailey",
-      "title": "Zelda fans pleasantly surprised by Tears of the Kingdom theory that actually makes sense - Gamesradar",
-      "description": "Everyone's on board for Tears of the Kingdom's \"#1 most sane and probably theory\"",
-      "url": "https://www.gamesradar.com/zelda-fans-pleasantly-surprised-by-tears-of-the-kingdom-theory-that-actually-makes-sense/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fhi2A6FMYKSUYjZmz83YbL-1200-80.jpg",
-      "publishedAt": "2023-04-19T18:01:50Z",
-      "content": "We're in the part of the hype cycle for The Legend of Zelda: Tears of the Kingdom where longtime series fans take the absence of regularly distributed information about the game as a chance to start … [+3025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Chants of Sennaar - Announcement Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Chants of Sennaar is coming to Nintendo Switch on September 5, 2023! Wishlist today: https://www.nintendo.com/store/products/chants-of-sennaar-switch/Explore...",
-      "url": "https://www.youtube.com/watch?v=ayVhom77Mlg",
-      "urlToImage": "https://i.ytimg.com/vi/ayVhom77Mlg/maxresdefault.jpg",
-      "publishedAt": "2023-04-19T17:44:34Z",
-      "content": null
+      "author": "William Hughes",
+      "title": "14 years of Minecraft: Microsoft's block-based business success - The A.V. Club",
+      "description": "With Minecraft Legends out this week, let's look back at 14 years of block-based business success",
+      "url": "https://www.avclub.com/the-state-of-minecraft-in-2023-1850355386",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f2257fd3361f19ea894e6e4becf0a9fc.jpg",
+      "publishedAt": "2023-04-20T18:00:00Z",
+      "content": "Microsofts Minecraft franchise released a new game this weekMinecraft Legends, a kid-friendly take on the hyper-competitive real-time strategy genre. In case youd lost trackfair!the Minecraft franchi… [+4579 chars]"
     }
   ]
 }
