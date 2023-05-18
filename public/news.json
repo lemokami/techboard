@@ -1,97 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 360,
+  "totalResults": 381,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "IGN",
-      "title": "Zelda Players are Committing War Crimes On Koroks in Tears of the Kingdom - IGN Daily Fix - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC2tMd2ZrV05HQWtnmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-15T23:31:19Z",
-      "content": null
+      "author": "Vlad",
+      "title": "Samsung Galaxy Buds2 Pro update brings enhanced ambient sound for hard of hearing people - GSMArena.com",
+      "description": "The rollout is happening in the coming weeks. Today Samsung has announced a very interesting new update for the Galaxy Buds2 Pro. This will be rolling out...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_buds2_pro_update_brings_enhanced_ambient_sound_for_hard_of_hearing_people-news-58580.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/05/galaxy-buds2-pro-enhanced-ambient-sound/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-05-16T23:59:02Z",
+      "content": "Today Samsung has announced a very interesting new update for the Galaxy Buds2 Pro. This will be rolling out in the coming weeks, and it brings enhanced ambient sound volume for people who are hard o… [+1345 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "CNBC"
       },
-      "author": "Rohit Singh Jaswal",
-      "title": "Top 3 ways to use the new Builder Hall 10 in Clash of Clans - Sportskeeda",
-      "description": "Clash of Clans has received one of the most awaited updates with many fresh additions. The update features a brand new Builder Base Hall 10 with fresh content.",
-      "url": "https://www.sportskeeda.com/esports/top-ways-use-new-builder-hall-10-clash-clans",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/4d04b-16841838866236-1920.jpg",
-      "publishedAt": "2023-05-15T23:09:00Z",
-      "content": "Clash of Clans has received one of the most awaited updates with many fresh additions. The update features a brand new Builder Base Hall 10 with fresh content. With the latest Builder Hall, you can u… [+2398 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Kim Mackrael, Sarah E. Needleman",
-      "title": "EU Approves Microsoft's $75 Billion Activision Blizzard Deal - WSJ - The Wall Street Journal",
-      "description": "European Union decision comes after rejection from U.K. regulator threatened the deal’s prospects",
-      "url": "https://www.wsj.com/articles/microsofts-75-billion-activision-blizzard-deal-gets-eu-approval-116b7d9a",
-      "urlToImage": "https://images.wsj.net/im-781801/social",
-      "publishedAt": "2023-05-15T22:07:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Microsoft's Activision Blizzard acquisition approved by EU regulators. #shorts - The Verge",
-      "description": "EU gave the green light to the biggest gaming deal in history, but that doesn’t mean Microsoft owns Activision/Blizzard just yet. Subscribe: http://goo.gl/G5...",
-      "url": "https://www.youtube.com/watch?v=nRrLTDPnQ2Q",
-      "urlToImage": "https://i.ytimg.com/vi/nRrLTDPnQ2Q/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBNKD4wDw==&rs=AOn4CLDo2hIQknzEMAFCl7kArnXroHZxxA",
-      "publishedAt": "2023-05-15T22:02:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Timi Cantisano",
-      "title": "WhatsApp's Chat Lock lets you secure conversations behind a password or biometrics - XDA Developers",
-      "description": "WhatsApp is rolling out a new level of protection for its users.",
-      "url": "https://www.xda-developers.com/whatsapp-chat-lock-release/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/xda-11.png",
-      "publishedAt": "2023-05-15T21:23:00Z",
-      "content": "We've all been in that situation at one point or another where we have to share our phone with someone for whatever reason, and we start to get a little nervous about what might happen. Luckily, ther… [+1531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "TCL's 2023 Google TV lineup launches today starting at $199 - 9to5Google",
-      "description": "TCL is now selling its 2023 Google TV series, starting at just $199 for the most affordable models.",
-      "url": "https://9to5google.com/2023/05/15/tcl-google-tv-2023-available/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/tcl-2023-q7-tvs-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-05-15T21:03:00Z",
-      "content": "TCL has today launched its 2023 smart TVs with Google TV, with the TCL Q-Series starting at $499 with 4K support and a variety of sizes and features, and the S-Series keeping with affordable TVs that… [+998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Lisa Marie Segarra",
-      "title": "Switch Fans, Get Ready For Tears of the Kingdom Notifications - Kotaku",
-      "description": "Every five minutes it seems I get a notification that a friend is playing the same game as I",
-      "url": "https://kotaku.com/zelda-totk-tears-of-the-kingdom-switch-nintendo-success-1850439116",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d006c00062aa4703b623fb76588ce3c0.jpg",
-      "publishedAt": "2023-05-15T20:40:00Z",
-      "content": "Everyone seems to be playing The Legend of Zelda: Tears of the Kingdom, and my Switch wont let me forget it. This weekend, as I too paraded around Hyrule exploring the Breath of the Wild sequel, I ke… [+1629 chars]"
+      "author": "Jennifer Elias",
+      "title": "Google's newest A.I. model uses nearly five times more text data for training than its predecessor - CNBC",
+      "description": "In announcing its PaLM 2 large language model, Google neglected to say how much training data was used for its most advanced LLM.",
+      "url": "https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107239360-1683754310776-gettyimages-1253650136-GOOGLE_DEVELOPERS.jpeg?v=1684276802&w=1920&h=1080",
+      "publishedAt": "2023-05-16T22:40:02Z",
+      "content": "Google's new large language model, which the company announced last week, uses almost five times as much training data as its predecessor from 2022, allowing its to perform more advanced coding, math… [+3669 chars]"
     },
     {
       "source": {
@@ -99,89 +34,180 @@
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "Popular Call of Duty 4 Map Was Left In The Game By Accident - Kotaku",
-      "description": "The devs forgot they left one of the franchise’s smallest, most chaotic maps in Modern Warfare, and the rest is history",
-      "url": "https://kotaku.com/call-of-duty-4-modern-warfare-shipment-map-accident-cod-1850438933",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f2a55ec040ddbef66b7ea38bc3cc8748.jpg",
-      "publishedAt": "2023-05-15T20:35:00Z",
-      "content": "2007sCall of Duty 4: Modern Warfare was a smash hit, and many of its beloved maps have continued to pop up in subsequent CoD entries over the last 15 years. Classics, Im sure you agree. But it turns … [+2177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Microsoft Completes Rollout of Basic iMessage Support on Windows 11 - MacRumors",
-      "description": "Microsoft today announced it has completed its rollout of iPhone support for its Phone Link app on Windows 11, as spotted by The Verge.   With the...",
-      "url": "https://www.macrumors.com/2023/05/15/microsoft-completes-imessage-phone-link-rollout/",
-      "urlToImage": "https://images.macrumors.com/t/KschyoDO7smA39MaRhdnQmM7xG0=/1600x/article-new/2023/02/Windows-11-Phone-Link-iMessage.jpeg",
-      "publishedAt": "2023-05-15T20:19:34Z",
-      "content": "Microsoft today announced it has completed its rollout of iPhone support for its Phone Link app on Windows 11, as spotted by The Verge.\r\nWith the Phone Link app for Windows 11 and the Link to Windows… [+857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Vedant Kottapalle",
-      "title": "Pitaya Dragon confirmed in next Cookie Run: Kingdom update - Sportskeeda",
-      "description": "A few hours after Butter Dragon was teased on the official Cookie Run: Kingdom Twitter handle, the developers shared a small trailer for the next episode, confirming the release of both Pitaya and But",
-      "url": "https://www.sportskeeda.com/esports/pitaya-dragon-confirmed-next-cookie-run-kingdom-update",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/b479c-16841686524346-1920.jpg",
-      "publishedAt": "2023-05-15T20:14:00Z",
-      "content": "A few hours after Butter Dragon was teased on the official Cookie Run: Kingdom Twitter handle, the developers shared a small trailer for the next episode, confirming the release of both Pitaya and Bu… [+2339 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chrome Unboxed"
-      },
-      "author": "Robby Payne",
-      "title": "With its silence, Google may have quietly announced the Assistant's demise - Chrome Unboxed",
-      "description": "As a joke during the Google I/O 2023 Keynote, I suggested to the guys here in the office that our entire watch party on Discord should do a shot every time Google said AI during the presentation. It's a very good thing that we were only kidding, since Google …",
-      "url": "https://chromeunboxed.com/google-assistant-ai-bard-google-io-2023/",
-      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2023/05/GoogleAssistantLeftBehindAI-Bard.jpg",
-      "publishedAt": "2023-05-15T19:40:33Z",
-      "content": "As a joke during the Google I/O 2023 Keynote, I suggested to the guys here in the office that our entire watch party on Discord should do a shot every time Google said AI during the presentation. Its… [+3672 chars]"
+      "title": "Blizzard 'Confident' Diablo IV Won't Be Broken At Launch - Kotaku",
+      "description": "The Overwatch 2 developer is feeling good that its next big ARPG will work come June 6",
+      "url": "https://kotaku.com/diablo-4-launch-release-day-servers-account-necromancer-1850443293",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6e7140dcba1e2271e3f296a94c4ae2c8.jpg",
+      "publishedAt": "2023-05-16T22:40:00Z",
+      "content": "Players are more nervous than ever these days about games launching in poor states. And with a not-so-great history of busted Diablo launches, Blizzard knows a lot of people are worried that its upco… [+3354 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jay Peters",
-      "title": "Amazon is building an AI-powered “conversational experience” for search - The Verge",
-      "description": "Amazon job listings describe how the company is working on “reimagining Amazon Search” with a new “interactive conversational experience,” as reported by Bloomberg. Amazon would join other Big Tech companies in releasing an AI-powered chatbot.",
-      "url": "https://www.theverge.com/2023/5/15/23724357/amazon-ai-powered-conversational-experience-search",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gGXG4F_gdAUOH7ys60vQz873lYs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935559/acastro_STK103__02.jpg",
-      "publishedAt": "2023-05-15T19:34:19Z",
-      "content": "Amazon is building an AI-powered conversational experience for search\r\nAmazon is building an AI-powered conversational experience for search\r\n / Job listings indicate that Amazon is the next company … [+2397 chars]"
+      "author": "Umar Shakir",
+      "title": "Tesla’s humanoid robot can pick things up and put them down - The Verge",
+      "description": "Tesla’s revealed a new video of its humanoid robot, Optimus, and it shows a bunch of them walking together slowly but with less stumbling. The robots can also now recognize objects and also perform simple tasks.",
+      "url": "https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pnovZ3-v79qbvtv3ByP_CTtkMbU=/0x0:1452x883/1200x628/filters:focal(726x442:727x443)/cdn.vox-cdn.com/uploads/chorus_asset/file/24662089/tesla_bot_23.jpg",
+      "publishedAt": "2023-05-16T21:43:03Z",
+      "content": "Tesla Bot can walk very slowly and pick up stuff now\r\nTesla Bot can walk very slowly and pick up stuff now\r\n / A new video shows off Teslas humanoid robots that are now all walking together, with cha… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Apple details upcoming AI-driven iOS 17 accessibility features - Ars Technica",
+      "description": "You'll be able to create an AI voice for yourself and more.",
+      "url": "https://arstechnica.com/gadgets/2023/05/apple-details-upcoming-ai-driven-ios-17-accessibility-features/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Apple-accessibility-iPad-iPhone-14-Pro-Max-Home-Screen-760x380.jpg",
+      "publishedAt": "2023-05-16T21:11:44Z",
+      "content": "31 with \r\n<ul><li>\r\n Apple plans to roll out new accessibility features to its devices in iOS 17. \r\n</li><li>\r\n This is what the Photos app looks like in Assistive Access mode. \r\n</li></ul>\r\nAround t… [+2117 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Jagran.com"
+        "name": "Pure Xbox"
       },
-      "author": "Vikas Yadav",
-      "title": "OnePlus Nord Buds 2r Box Leaked Ahead Of Possible Debut With Nord 3 5G: Check Expected Launch Timeline - Jagran English",
-      "description": "OnePlus Nord Buds 2r MySmartPrice revealed a real-life image of the retail box pack of the TWS leaking key design elements",
-      "url": "https://english.jagran.com/technology/oneplus-nord-buds-2r-box-leaked-ahead-of-possible-debut-with-nord-3-5g-check-expected-launch-date-10078106",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/may/oneplus-nord-buds-21684179458142.jpg",
-      "publishedAt": "2023-05-15T19:13:00Z",
-      "content": "ONEPLUS is reportedly prepping to announce the OnePlus Nord Buds 2r in India with the OnePlus Nord 3 5G smartphone. And before its debut in the country, MySmartPrice revealed a real-life image of the… [+1791 chars]"
+      "author": "Fraser Gilbert",
+      "title": "Microsoft CEO Raises Eyebrows With Comment About UK & Activision Blizzard - Pure Xbox",
+      "description": "\"Let's wait for it all to play out\"",
+      "url": "https://www.purexbox.com/news/2023/05/microsoft-ceo-raises-eyebrows-with-comment-about-uk-and-activision-blizzard",
+      "urlToImage": "https://images.purexbox.com/8c2a6192ba9ca/1280x720.jpg",
+      "publishedAt": "2023-05-16T21:10:00Z",
+      "content": "Subscribe to Pure Xbox on YouTube\r\nMicrosoft boss Satya Nadella has been getting a lot of attention over the past few hours courtesy of an interview he recently conducted with CNBC, in which he addre… [+1696 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Android Police",
-      "title": "WhatsApp Chat Lock introduces extra security for your most private conversations - Android Police",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3doYXRzYXBwLWNoYXQtbG9jay1leHRyYS1zZWN1cml0eS1tb3N0LXByaXZhdGUtY29udmVyc2F0aW9ucy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-15T18:55:00Z",
+      "author": "Kenneth Shepard",
+      "title": "7 Zelda: Tears Of The Kingdom Sidequests Worth Seeking Out - Kotaku",
+      "description": "From joining the newspaper to finding the Great Fairies, here are some detours worth taking in Hyrule",
+      "url": "https://kotaku.com/zelda-tears-of-the-kingdom-sidequests-newspaper-great-f-1850442713",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9299c1d7f9aed78e2d9a345152722bed.png",
+      "publishedAt": "2023-05-16T20:30:00Z",
+      "content": "The Legend of Zelda: Tears of the Kingdom is a big game, and it can be easy to miss some of its best quests if you dont know where to look. In the same breath (of the wild), its also easy to get real… [+6323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "How Google is branding AI: Sparkles, Duet, and 'generative' - 9to5Google",
+      "description": "9to5Google has a rebooted newsletter that highlights the biggest Google stories with added commentary and other tidbits. Sign up to...",
+      "url": "https://9to5google.com/2023/05/16/how-google-is-branding-ai/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/05/google-ai-brand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-05-16T20:00:00Z",
+      "content": "9to5Google has a rebooted newsletter that highlights the biggest Google stories with added commentary and other tidbits. Sign up to get it early in your inbox, or continue reading 9to5Google Log Out … [+4584 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Logan Plant",
+      "title": "Overwatch 2 PvE Hero Mode Canceled: 'A Difficult Choice' - IGN",
+      "description": "Blizzard has officially scrapped Overwatch 2's long-awaited PvE mode, but the game's creative leads are assuring fans that PvE is still a focus for the game moving forward.",
+      "url": "https://www.ign.com/articles/overwatch-2-pve-hero-mode-canceled-a-difficult-choice",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/02/19/sequence-02-00-24-42-13-still104-1613733759985.jpg?width=1280",
+      "publishedAt": "2023-05-16T19:26:34Z",
+      "content": "Blizzard has officially scrapped Overwatch 2's long-awaited PvE Hero mode, but the game's creative leads are assuring fans that PvE is still a focus for the game moving forward.\r\nOn a Twitch stream d… [+4628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Louis Pavlakos",
+      "title": "Google TV's Live tab is headed to Android TV - Android Police",
+      "description": "Hundreds of free channels for everyone to enjoy",
+      "url": "https://www.androidpolice.com/google-tv-live-tab-android-tv/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/google-tv-generic-hero.jpg",
+      "publishedAt": "2023-05-16T19:21:00Z",
+      "content": "Last month, Google brought hundreds of ad supported channels to Google TV devices like the Chromecast and a handful of smart TVs. To make these channels more accessible to anyone in the Google ecosys… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Sisi Jiang",
+      "title": "Witcher 3 Fans Think New Patch Gameplay Change Breaks Immersion - Kotaku",
+      "description": "Players are rioting against auto-oiling for Geralt’s weapons",
+      "url": "https://kotaku.com/witcher-3-auto-oil-patch-cd-projekt-red-patch-4-03-1850442440",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/164829e33014682be804a6f91be83374.jpg",
+      "publishedAt": "2023-05-16T19:20:19Z",
+      "content": "CD Projekt Red just released a new patch for its open world RPG Witcher 3: The Wild Hunt. However, players arent happy with all of the changes. One of the most controversial ones is the ability to au… [+2975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Tamoor Hussain",
+      "title": "Overwatch 2's PvE Hero Mode Is Being Scrapped, Blizzard Explains What Happened and Why - GameSpot",
+      "description": "Game director Aaron Keller and executive producer Jared Neuss discuss why the eagerly-anticipated mode will no longer be released and the future of Overwatch 2.",
+      "url": "https://www.gamespot.com/articles/overwatch-2s-pve-mode-is-being-scrapped-blizzard-explains-what-happened-and-why/1100-6514242/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/43/434805/4138607-2755527326-395111.jpeg",
+      "publishedAt": "2023-05-16T19:15:02Z",
+      "content": "Overwatch is a game that rose from the ashes of Titan, an ambitious MMO that Blizzard pulled the plug on. In the wake of this decision, developers at the studio reworked ideas they had for Titan into… [+25098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Edward Hays",
+      "title": "3 best Minecraft Build Battle servers - Sportskeeda",
+      "description": "The popularity of Minecraft, which has been around for a while, is still growing.",
+      "url": "https://www.sportskeeda.com/minecraft/3-best-minecraft-build-battle-servers",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/f679e-16842262428154-1920.jpg",
+      "publishedAt": "2023-05-16T19:11:00Z",
+      "content": "The popularity of Minecraft, which has been around for a while, is still growing. Due to its widespread use, many users have built structures that resemble real-world structures, automobiles, and oth… [+4905 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Does Bard know how many times “e” appears in “ketchup”? - The Verge",
+      "description": "No one actually understands how intelligence works. Maybe the actual use case for LLMs is researching their failure modes.",
+      "url": "https://www.theverge.com/2023/5/16/23725747/bard-chatbot-google-neither-artificial-nor-intelligent",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HnzSJn3YdJM5hoUksiJ3tl_sPb0=/0x0:2322x958/1200x628/filters:focal(378x567:379x568)/cdn.vox-cdn.com/uploads/chorus_asset/file/24661498/Screenshot_2023_05_16_at_11.26.25_AM.png",
+      "publishedAt": "2023-05-16T19:09:14Z",
+      "content": "Does Bard know how many times e appears in ketchup?\r\nDoes Bard know how many times e appears in ketchup?\r\n / What LLMs can teach us about cognition.\r\nByElizabeth Lopatto, a reporter who writes about … [+4516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Alex Alderson",
+      "title": "Razr 40 Ultra: New leak details cover display versatility as Motorola confirms global launch - Notebookcheck.net",
+      "description": "Motorola has now confirmed the global launch date for its next-generation foldable smartphones. Rumoured to be the Razr 40 and Razr 40 Ultra, the pair have now been seen in more leaked official images showcasing the utility of the latter's huge cover display.",
+      "url": "https://www.notebookcheck.net/Razr-40-Ultra-New-leak-details-cover-display-versatility-as-Motorola-confirms-global-launch.717940.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/FwPFiZ1XwAMT3Jo.jpg",
+      "publishedAt": "2023-05-16T19:06:46Z",
+      "content": "Based on the image above, Motorola will market both Razr 40 models simultaneously, albeit targeted at different audiences. For example, the Razxr 40 Ultra's spacious cover display will allow it to se… [+612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Humanity | Review in 3 Minutes - The Escapist",
+      "description": "Support us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapistKC Nwosu...",
+      "url": "https://www.youtube.com/watch?v=OvNyznozUWE",
+      "urlToImage": "https://i.ytimg.com/vi/OvNyznozUWE/maxresdefault.jpg",
+      "publishedAt": "2023-05-16T19:00:08Z",
       "content": null
     },
     {
@@ -189,78 +215,52 @@
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Levi Winslow",
-      "title": "Tears of the Kingdom Fans Are Using Penises To Kill Bosses - Kotaku",
-      "description": "Folks are using Link’s Fuse and Ultrahand abilities for some juvenile creations",
-      "url": "https://kotaku.com/zelda-tears-of-the-kingdom-fuse-ultrahand-penis-hinox-1850438598",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f788ac28ba74df89955abeb58e287f9e.jpg",
-      "publishedAt": "2023-05-15T18:55:00Z",
-      "content": "Since The Legend of Zelda: Tears of the Kingdom dropped on May 12, fans have been obsessed with the games new creation abilities. Thanks to Links new skills, particularly Fuse and Ultrahand, players … [+3008 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "Sonos is ending support for local file playback on Android | Engadget - Engadget",
-      "description": "Sonos will soon end support for a feature that allows users to stream files stored locally on their Android devices directly to its speakers..",
-      "url": "https://www.engadget.com/sonos-is-ending-support-for-local-file-playback-on-android-184537921.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/_1NMsTt8.G79GX3.qYDvhg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/077d4e30-f34c-11ed-bbbe-0f57b2d595b8.cf.jpg",
-      "publishedAt": "2023-05-15T18:47:23Z",
-      "content": "Sonos\r\n will soon end support for a feature that allows users to stream files stored locally on their Android\r\n devices directly to its speakers. \"As newer versions of mobile operating systems are re… [+1507 chars]"
+      "author": "Zack Zwiezen",
+      "title": "Smash Bros. Pro Trash Talks 15-Year-Old, Gets Roasted By Kid's Mom - Kotaku",
+      "description": "After winning a match, pro Smash player Maister told a younger competitor that they ‘fucking suck’",
+      "url": "https://kotaku.com/smash-bros-ultimate-mom-trash-talks-syrup-maister-pro-1850442280",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a6fd18ef111b8adbfdec5a7235aa410c.jpg",
+      "publishedAt": "2023-05-16T18:50:00Z",
+      "content": "At a recent video game competition in Texas, a pro Super Smash Bros. Ultimate player trash-talked a 15-year-old after winning an important match against the young player. The Smash communitys reactio… [+3049 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Hackaday"
       },
-      "author": "Andrew Liszewski",
-      "title": "You Can Play Doom Eternal and N64 Games on this $10 Desktop Calculator - Gizmodo",
-      "description": "Will it run Doom? Yes, even 2020's Doom Eternal, if you install the right apps.",
-      "url": "https://gizmodo.com/calculator-emulator-10-android-doom-eternal-game-stream-1850437628",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dab6ba369de15ce10ad9df03371ff92f.gif",
-      "publishedAt": "2023-05-15T18:45:00Z",
-      "content": "When was the last time you checked in on the state of cheap desktop calculators? Apparently, theyve evolved well past those low-cost monochromatic LCD screens and now feature full-color touchscreen d… [+2184 chars]"
+      "author": "Joseph Long",
+      "title": "Prize 2023: Learn DSP With The Portable All-in-One Workstation | Hackaday - Hackaday",
+      "description": "Learning Digital Signal Processing (DSP) techniques traditionally involves working through a good bit of mathematics and signal theory. To promote a hands-on approach, [Clyne] developed the DSP PAW…",
+      "url": "https://hackaday.com/2023/05/16/hackaday-prize-2023-learn-dsp-with-the-portable-all-in-one-workstation/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2023/05/DSP-PAW.png",
+      "publishedAt": "2023-05-16T18:30:00Z",
+      "content": "Learning Digital Signal Processing (DSP) techniques traditionally involves working through a good bit of mathematics and signal theory. To promote a hands-on approach, [Clyne] developed the DSP PAW (… [+1750 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Matt Wales",
-      "title": "The Witcher spin-off studio The Molasses Flood hit by layoffs after project reboot - Eurogamer.net",
-      "description": "The Molasses Flood, the CD-Projekt-owned studio currently working on The Witcher spin-off Project Sirius, has been hit …",
-      "url": "https://www.eurogamer.net/the-witcher-spin-off-studio-the-molasses-flood-hit-by-layoffs-following-project-reboot",
-      "urlToImage": "https://assetsio.reedpopcdn.com/molasses-flood-cd-projekt-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-05-15T18:37:44Z",
-      "content": "The Molasses Flood, the CD-Projekt-owned studio currently working on The Witcher spin-off Project Sirius, has been hit by layoffs following the game's recent reboot.\r\nDevelopment on Project Sirius - … [+1722 chars]"
+      "author": "Ash Parrish",
+      "title": "Zelda players turned Tears of the Kingdom into a Korok torture chamber - The Verge",
+      "description": "In Tears of the Kingdom, players have chosen to abuse the Korok spirit creatures instead of helping them find their friends.",
+      "url": "https://www.theverge.com/2023/5/16/23725487/tears-of-the-kingdom-koroks-torture-nintendo",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-cy_2o-IOGKDsL_acC_8GshrnXU=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/24661489/FwRQxoLaMAE8x7L.jpeg",
+      "publishedAt": "2023-05-16T18:28:11Z",
+      "content": "Zelda players turned Tears of the Kingdom into a Korok torture chamber\r\nZelda players turned Tears of the Kingdom into a Korok torture chamber\r\n / Yall Ganon fighters need Hylia.\r\nByAsh Parrish, a re… [+2416 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Jalopnik"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Collin Woodard",
-      "title": "Here's How the Best Ultra-High-Performance Tires Compare - Jalopnik",
-      "description": "Ultimately, they're all great tires. It's just a matter of what your priorities are.",
-      "url": "https://jalopnik.com/heres-how-the-best-ultra-high-performance-tires-compare-1850437957",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f3f8ff8368ecc3c3c0e1bdd2af282467.jpg",
-      "publishedAt": "2023-05-15T18:30:00Z",
-      "content": "If you want to get the most out of your performance car, you need to make sure it has good tires. But good tires, especially ultra-high-performance tires, cost a lot of money, so you want to make sur… [+1535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Michail",
-      "title": "Asus ROG Phone 7 Ultimate goes through torture test, lives to tell the story - GSMArena.com",
-      "description": "Spoiler alert - it did not snap in half like its predecessors. We reviewed the Asus ROG Phone 7 Ultimate not too long ago and crowned as arguably the best...",
-      "url": "https://www.gsmarena.com/asus_rog_phone_7_ultimate_goes_through_torture_test-news-58556.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/05/rog-phone-7-ultimate-jerryrig/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-05-15T18:23:01Z",
-      "content": "We reviewed the Asus ROG Phone 7 Ultimate not too long ago and crowned as arguably the best gaming phone at the moment. One of the main differentiating factors between the standard ROG Phone 7 and th… [+743 chars]"
+      "author": "Zack Whittaker",
+      "title": "Telly, the ‘free’ smart TV with ads, has privacy policy red flags - TechCrunch",
+      "description": "The smart television startup left behind annotations in its company's privacy policy that raise red flags about its data practices.",
+      "url": "https://techcrunch.com/2023/05/16/telly-free-smart-tv-privacy-policy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/pluto-ads-tv-free-telly.jpg?resize=1200,792",
+      "publishedAt": "2023-05-16T18:20:32Z",
+      "content": "Yesterday, we looked at a new hardware startup called Telly that’s giving away half a million of its new smart televisions for free. The catch is that the 55-inch smart television is fitted with a se… [+4853 chars]"
     }
   ]
 }
