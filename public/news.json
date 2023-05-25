@@ -1,97 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 334,
+  "totalResults": 384,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "GSMArena.com"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Vlad",
-      "title": "iPhone 16 Pro Max renders leak showing it next to the iPhone 15 Pro Max - GSMArena.com",
-      "description": "It's going to be larger than its yet-to-be-launched predecessor. The iPhone 15 family is due to arrive this fall. That's still some months away. And yet,...",
-      "url": "https://www.gsmarena.com/iphone_16_pro_max_renders_leak_showing_it_next_to_the_iphone_15_pro_max-news-58638.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/05/iphone-16-pro-max-renders/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-05-22T23:59:01Z",
-      "content": "The iPhone 15 family is due to arrive this fall. That's still some months away. And yet, today we get our first look at the iPhone 16 Pro Max, which is expected to launch in the fall of 2024. While f… [+1525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Gordon Kelly",
-      "title": "New Apple Leak Reveals iPhone 15 Upgrade Warning - Forbes",
-      "description": "Interested in an iPhone 15? A new leak claims that you should stay away from the whole range...",
-      "url": "https://www.forbes.com/sites/gordonkelly/2023/05/22/apple-iphone-15-pro-max-new-iphone-upgrade-warning/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63fa3390146518bf6a8ba852/0x0.jpg?format=jpg&crop=1083,609,x164,y104,safe&width=1200",
-      "publishedAt": "2023-05-22T22:22:00Z",
-      "content": "iPhone 15 Pro renders based on its new leaked dark red finish\r\n@Hanstsaiz\r\n05/22 Update below. This post was originally published on May 19\r\niPhone 15 leaks have revealed a mix of exciting upgrades a… [+5005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pocket-lint"
-      },
-      "author": "Jules Wang",
-      "title": "What is Google Privacy Sandbox and how will it replace cookies? - Pocket-lint",
-      "description": "Google Privacy Sandbox will change web browsing in the future by replacing cookies. Here's a timeline for this initiative and what it all means.",
-      "url": "https://www.pocket-lint.com/what-is-google-privacy-sandbox-how-will-it-replace-cookies/",
-      "urlToImage": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2023/05/google-privacy-sandbox.png",
-      "publishedAt": "2023-05-22T21:22:00Z",
-      "content": "Google generates hundreds of billions of dollars in revenue every year selling ads across the internet. It's able to do so against information about you and me that's been collected from a variety of… [+6375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Diego Lasarte",
-      "title": "Meta is giving users 15 minutes to edit WhatsApp messages - Quartz",
-      "description": "The company will roll out the new feature globally over the next few weeks",
-      "url": "https://qz.com/meta-is-giving-users-15-minutes-to-edit-whatsapp-messag-1850462168",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/20bc2a17bd890b4d714ef301b21040c7.jpg",
-      "publishedAt": "2023-05-22T21:19:41Z",
-      "content": "WhatsApp, the worlds most popular messaging app, officially announced an edit button on May 22, putting typo-prone texters at ease. Meta, which owns WhatsApp as well as Facebook, unveiled the change … [+2400 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "Mimestream, the Ars pick for Mac Gmail client, hits 1.0 with new features - Ars Technica",
-      "description": "Home/Work profiles, notification schedules, and a lack of inbox advertisements.",
-      "url": "https://arstechnica.com/gadgets/2023/05/mimestream-the-ars-pick-for-mac-gmail-client-hits-1-0-with-new-features/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/mimestream3-760x380.jpg",
-      "publishedAt": "2023-05-22T21:13:08Z",
-      "content": "Enlarge/ Mimestream's got a lot of direct Gmail integrations, but its own Profiles separation is quite useful.\r\n23 with \r\nWhen I searched for the best Mac email clients for Gmail/Google Apps users in… [+2716 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Emily Bary",
-      "title": "Apple readies launch of $3,000 headset: Will it succeed where others have failed? - MarketWatch",
-      "description": "Goldman Sachs analysts say the company’s installed device base and wide developer network will prove advantageous",
-      "url": "https://www.marketwatch.com/story/apple-readies-launch-of-3-000-headset-will-it-succeed-where-others-have-failed-efaf90f4",
-      "urlToImage": "https://images.mktw.net/im-619064/social",
-      "publishedAt": "2023-05-22T21:09:00Z",
-      "content": "Apple Inc.s annual WWDC developers conference is fast approaching and this one promises to be a bit more eventful than most, as the consumer-electronics giant is expected to debut its long-awaited mi… [+2519 chars]"
+      "author": "IGN",
+      "title": "Miasma Chronicles - Official Launch Trailer - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC2NsQzJUU240ZGt3mAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-05-23T22:00:30Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sean Hollister",
-      "title": "Buyer beware: some SanDisk Extreme SSDs are wiping people's data - The Verge",
-      "description": "Western Digital is de facto admitting that its SanDisk Extreme Pro SSDs have been vulnerable to a massive glitch that can wipe all your data — by issuing a firmware update for only one of the reportedly affected models.",
-      "url": "https://www.theverge.com/2023/5/22/23733267/sandisk-extreme-pro-failure-ssd-firmware",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EJgK-uLDCXDL5lmYaF7w_G92H-w=/0x0:1481x987/1200x628/filters:focal(866x441:867x442)/cdn.vox-cdn.com/uploads/chorus_asset/file/24674481/sandisk_extreme_pro.jpg",
-      "publishedAt": "2023-05-22T20:11:33Z",
-      "content": "Buyer beware: some SanDisk Extreme SSDs are wiping peoples data\r\nBuyer beware: some SanDisk Extreme SSDs are wiping peoples data\r\n / Western Digital finally has a firmware update meanwhile, its been … [+2548 chars]"
+      "author": "Allison Johnson",
+      "title": "Photoshop’s Generative Fill tool turns vacation photos into nightmares - The Verge",
+      "description": "Photoshop’s new Generative Fill tool uses AI to add and remove elements from your photos. It’s an impressive tool for edits... and can also make the stuff of nightmares.",
+      "url": "https://www.theverge.com/2023/5/23/23734821/photoshop-generative-ai-fill-tool-adobe",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xz_xfCp_Cy3E0IOGhjT5rb4bYPU=/0x0:4080x3060/1200x628/filters:focal(2040x1530:2041x1531)/cdn.vox-cdn.com/uploads/chorus_asset/file/24676983/IMG_20230323_133713_volcano.jpg",
+      "publishedAt": "2023-05-23T21:30:00Z",
+      "content": "Photoshops generative AI tool turned my vacation photos into nightmare fuel\r\nPhotoshops generative AI tool turned my vacation photos into nightmare fuel\r\n / The new generative AI tool looks like an i… [+3322 chars]"
     },
     {
       "source": {
@@ -99,25 +34,77 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "F1 23 - Official Braking Point 2 and F1 World Deep Dive Trailer - IGN",
-      "description": "Join Sky Sports F1 presenter Natalie Pinkham for a deep dive into F1 23's Braking Point story mode, as well as details on the new feature F1 World. Earn rewa...",
-      "url": "https://www.youtube.com/watch?v=eq-O50_3YRs",
-      "urlToImage": "https://i.ytimg.com/vi/eq-O50_3YRs/maxresdefault.jpg",
-      "publishedAt": "2023-05-22T20:00:21Z",
+      "title": "Tear-Down Speedrun of NVIDIA RTX 4060 Ti Founders Edition - Gamers Nexus",
+      "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)We already reviewed and benchmarked the NVIDIA RTX 4060 Ti Founders Edition GPU -- and it d...",
+      "url": "https://www.youtube.com/watch?v=pKbpsphNVUI",
+      "urlToImage": "https://i.ytimg.com/vi/pKbpsphNVUI/maxresdefault.jpg",
+      "publishedAt": "2023-05-23T21:00:32Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "YouTube"
       },
-      "author": "Jon Bitner",
-      "title": "Mortal Kombat 1 Preorders - Kollector's Edition Available At Best Buy - GameSpot",
-      "description": "Mortal Kombat 1 is launching on September 18, although a beta will run this August, and you can get early access with select editions.",
-      "url": "https://www.gamespot.com/articles/mortal-kombat-1-preorder-guide/1100-6514329/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4139909-mortalkombat1-keyart.png",
-      "publishedAt": "2023-05-22T19:52:07Z",
-      "content": "Mortal Kombat 1 is launching on September 18, and its looking to shake up the iconic series. NetherRealm Studios will be bringing players to a reborn universe that offers reimagined versions of iconi… [+960 chars]"
+      "author": null,
+      "title": "F1 Manager 2023 - Official Announce Trailer - IGN",
+      "description": "Check out the announcement trailer for F1 Manager 2023, the next game in the series coming to PC, PlayStation 5, PlayStation 4, Xbox Series X/S, and Xbox One...",
+      "url": "https://www.youtube.com/watch?v=xD8kB0vNsAg",
+      "urlToImage": "https://i.ytimg.com/vi/xD8kB0vNsAg/maxresdefault.jpg",
+      "publishedAt": "2023-05-23T21:00:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Road to VR"
+      },
+      "author": "Ben Lang",
+      "title": "Apple Invites XR Media Outlets to WWDC Keynote for the First Time - Road to VR",
+      "description": "Apple has sent invitations to its upcoming WWDC keynote to select media outlets, including Road to VR. Apple has historically not invited XR media to its events, let alone commented in any way on its XR R&D that has been reportedly happening behind the scenes…",
+      "url": "https://www.roadtovr.com/apple-invites-xr-media-outlets-wwdc-keynote/",
+      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/05/apple-wwdc-xr.png",
+      "publishedAt": "2023-05-23T20:17:27Z",
+      "content": "Apple has sent invitations to its upcoming WWDC keynote to select media outlets, including Road to VR.\r\nApple has historically not invited XR media to its events, let alone commented in any way on it… [+897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Final Cut Pro for iPad! Overview, First Impressions, & Missing Features! - AppleInsider",
+      "description": "Final Cut Pro is finally available on iPad for the first time. We downloaded the app on our M2 iPad Pro to try it out. I walk you through the basics of how t...",
+      "url": "https://www.youtube.com/watch?v=0D5Lida9bE4",
+      "urlToImage": "https://i.ytimg.com/vi/0D5Lida9bE4/maxresdefault.jpg",
+      "publishedAt": "2023-05-23T20:17:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "NVDA Stock: Nvidia, Microsoft Azure Team On Generative AI | Investor's Business Daily - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/nvda-stock-nvidia-microsoft-azure-team-on-generative-ai/",
+      "urlToImage": null,
+      "publishedAt": "2023-05-23T20:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "CONVERGENCE: A League of Legends Story - Official Launch Trailer - IGN",
+      "description": "CONVERGENCE: A League of Legends Story is a story-driven 2D action platformer where players will explore the world of Zaun as champion Ekko, a young inventor...",
+      "url": "https://www.youtube.com/watch?v=99Y5rWwEW-o",
+      "urlToImage": "https://i.ytimg.com/vi/99Y5rWwEW-o/maxresdefault.jpg",
+      "publishedAt": "2023-05-23T20:00:04Z",
+      "content": null
     },
     {
       "source": {
@@ -125,142 +112,155 @@
         "name": "Sportskeeda"
       },
       "author": "Harshwardhan Sisodia",
-      "title": "Call of Duty modders to bring back Cold War's 'Outbreak' zombie mode in Black Ops 3 - Sportskeeda",
-      "description": "An upcoming Call of Duty: Black Ops 3 community project is set to bring a brand new map featuring Outbreak, an open-world, co-op zombies game mode from Black Ops Cold War.",
-      "url": "https://www.sportskeeda.com/esports/news-call-duty-modders-bring-back-cold-war-s-outbreak-zombie-mode-black-ops-3",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/512a1-16847822587208-1920.jpg",
-      "publishedAt": "2023-05-22T19:50:00Z",
-      "content": "An upcoming Call of Duty: Black Ops 3 community project is set to bring a brand new map featuring Outbreak, an open-world, co-op zombies game mode from Black Ops Cold War. The latest map will also fe… [+2179 chars]"
+      "title": "How to download the free-to-play CoD Modern Warfare clone 'Combat Master' - Sportskeeda",
+      "description": "Combat Master is a new free-to-play first-person shooter that is similar to Call of Duty in certain ways.",
+      "url": "https://www.sportskeeda.com/esports/how-download-free-to-play-cod-modern-warfare-clone-combat-master",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/f6e2c-16848665652934-1920.jpg",
+      "publishedAt": "2023-05-23T19:43:00Z",
+      "content": "Combat Master is a new free-to-play first-person shooter that is similar to Call of Duty in certain ways. It focuses on fast-paced gameplay and has multiple weapon types that players can level up, va… [+2818 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
+        "name": "9to5Mac"
       },
-      "author": null,
-      "title": "Great Mysteries of Physics: Is Time an Illusion? - SciTechDaily",
-      "description": "The first episode of the new podcast, Great Mysteries of Physics, delves into the complex nature of time. Challenging traditional notions of time as absolute, researchers discuss theories suggesting time is relative and intertwined with space, a concept contr…",
-      "url": "https://scitechdaily.com/great-mysteries-of-physics-is-time-an-illusion/",
-      "urlToImage": "https://scitechdaily.com/images/Time-Physics-Artists-Illustration.jpg",
-      "publishedAt": "2023-05-22T19:47:05Z",
-      "content": "The nature of time, a concept fundamental to human life but still ambiguous in scientific parlance, is explored in the first episode of the new podcast series, Great Mysteries of Physics.\r\nThe first … [+3905 chars]"
+      "author": "Michael Potuck",
+      "title": "Samsung unveils next-gen Smart Monitor M8 with iMac-like design, USB-C, AirPlay, webcam - 9to5Mac",
+      "description": "Samsung has announced that its popular Smart Monitor M8 is getting an update for 2023. The latest version of the...",
+      "url": "https://9to5mac.com/2023/05/23/samsung-next-gen-smart-monitor-m8-imac-like-design/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/samsung-smart-monitor-m8-imac-like-2023.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-05-23T19:41:00Z",
+      "content": "Samsung has announced that its popular Smart Monitor M8 is getting an update for 2023. The latest version of the display will come in 32- and 27-inch options with an updated version of the super slim… [+1787 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "Fanbyte.com"
       },
-      "author": "Wesley LeBlanc",
-      "title": "A Day One Patch For Final Fantasy 16 Is Not Currently Planned - Game Informer",
-      "description": "But of course, things could change.",
-      "url": "https://www.gameinformer.com/exclusive-feature/2023/05/22/a-day-one-patch-for-final-fantasy-16-is-not-currently-planned",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/05/15/43e13379/young_rosfields_2.jpg",
-      "publishedAt": "2023-05-22T19:45:00Z",
-      "content": "Since the PlayStation 3 generation, updates released on a games launch day, colloquially known as Day One patches or updates, have been the norm. Sometimes theyre small, squashing a few last-minute b… [+1575 chars]"
+      "author": "merritt k",
+      "title": "All Three New Armor Exotics in Destiny 2 Season of the Deep - Fanbyte",
+      "description": "Here are the new armor Exotics available for Titans, Warlocks, and Hunters in Destiny 2's new Season of the Deep.",
+      "url": "https://www.fanbyte.com/games/news/all-three-new-armor-exotics-in-destiny-2-season-of-the-deep/",
+      "urlToImage": "https://cdn.fanbyte.com/wp-content/uploads/2023/05/destiny2seasonofthedeepwarlockcenotaphmask.jpg?x25640",
+      "publishedAt": "2023-05-23T19:33:02Z",
+      "content": "The Season of the Deep is here (in theory, at least) in Destiny 2, and like previous seasons, this one brings some new Exotics to the game. Hunters, Titans, and Warlocks each have one new Exotic armo… [+1549 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sheena Vasani",
-      "title": "The M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today - The Verge",
-      "description": "B&H Photo is taking $800 off of the last-gen 16-inch MacBook Pro with an M1 Pro chip, 16GB of RAM, and 1TB of storage until the end of today. You can also buy it refurbished for $1,659.99 until the end of May 26th.",
-      "url": "https://www.theverge.com/2023/5/22/23733200/apple-16-inch-macbook-pro-m1-pro-laptop-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n6aWSageMyZLLttn52ShqGQ1V8s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22965883/akrales_211027_4820_0244.jpg",
-      "publishedAt": "2023-05-22T19:38:58Z",
-      "content": "The M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today\r\nThe M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today\r\n / B&amp;H Photo is selling the beefy 16-inch MacBook Pro f… [+1417 chars]"
+      "author": "Wes Davis",
+      "title": "Bluesky is now integrated with Flipboard, with Pixelfed coming soon - The Verge",
+      "description": "Bluesky users can now view their feed in Flipboard, a social magazine app for perusing various news and social feeds. The company plans to add Pixelfed soon as well.",
+      "url": "https://www.theverge.com/2023/5/23/23734581/flipboard-bluesky-pixelfed-federated-networks-activitypub-at-protocol",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/55loFrs29QHs0OSTP-4STlBvAMg=/0x0:1024x630/1200x628/filters:focal(512x315:513x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/24676545/Bluesky_Flipboard_Pixelfed_1024x630.png",
+      "publishedAt": "2023-05-23T19:26:13Z",
+      "content": "Flipboard is ready to work with Bluesky and Pixelfed\r\nFlipboard is ready to work with Bluesky and Pixelfed\r\n / iOS and Android Flipboard users can see posts from the federated social platforms that c… [+2451 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Alice Newcome-Beill",
-      "title": "Today is your last chance to save on Warhammer 40K: Boltgun before launch - Polygon",
-      "description": "The Warhammer 40K boomer shooter launches tomorrow, but you can still save a couple bucks if you pre-order the game through Fanatical.",
-      "url": "https://www.polygon.com/deals/2023/5/22/23733203/warhammer-40k-boltgun-preorder-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rBrce5AWxSTJBf8Xyasb5L8rIbs=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24515942/ss_7501be3211de4d44290f28479c16bf0a0f46d639.jpg",
-      "publishedAt": "2023-05-22T19:10:00Z",
-      "content": "Warhammer 40K is occasionally about galaxy-spanning lore, but it's also about purging heretics in the name of the imperium. Thankfully, Warhammer 40K: Boltgun leans more heavily towards the latter. \r… [+1088 chars]"
+      "author": null,
+      "title": "Windows 11 finally gets native RAR support | Engadget - Engadget",
+      "description": "Windows 11 is finally getting native rar support, ending the tyranny of third-party apps like WinRAR.",
+      "url": "https://www.engadget.com/windows-11-finally-gets-native-rar-support-192034673.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dwq4.9P8ZCFsOcuFBGWcRw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-09/8143a120-1094-11ec-9fd1-0997b068eeb7.cf.jpg",
+      "publishedAt": "2023-05-23T19:22:18Z",
+      "content": "The Microsoft Build developers conference has been heavily focused on all things AI,\r\n per usual, but the companys making announcements in other spaces, including a particularly useful update for Win… [+838 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Sportskeeda"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Suyash Sahay",
-      "title": "5 money hacks for playing GTA Online Cayo Perico Heist solo - Sportskeeda",
-      "description": "The Cayo Perico Heist made its debut in Grand Theft Auto (GTA) Online on December 15, 2020.",
-      "url": "https://www.sportskeeda.com/gta/money-hacks-playing-gta-online-cayo-perico-heist-solo",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/d17b6-16847724817279-1920.jpg",
-      "publishedAt": "2023-05-22T19:07:00Z",
-      "content": "The Cayo Perico Heist made its debut in Grand Theft Auto (GTA) Online on December 15, 2020. Doing Heists and running illegal businesses have been the two most popular in-game activities since they ar… [+3404 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Logan Plant",
-      "title": "Halo Infinite Is Finally Getting Infection Mode Next Month - IGN",
-      "description": "Fan-favorite Halo multiplayer mode Infection is coming to Season 4 of Halo Infinite. The mode will drop the same day the next season kicks off on June 20, developer 343 Industries has announced.",
-      "url": "https://www.ign.com/articles/halo-infinite-is-finally-getting-infection-mode-next-month",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/22/s4infection4k-1684780492666.jpg?width=1280",
-      "publishedAt": "2023-05-22T19:02:43Z",
-      "content": "Fan-favorite Halo multiplayer mode Infection is coming to Season 4 of Halo Infinite. The mode will drop the same day the next season kicks off on June 20, developer 343 Industries has announced.\r\nInf… [+1898 chars]"
+      "author": "Benj Edwards",
+      "title": "Adobe Photoshop’s new “Generative Fill” AI tool lets you manipulate photos with text - Ars Technica",
+      "description": "Firefly-powered AI generations match image perspective, lighting, and style.",
+      "url": "https://arstechnica.com/information-technology/2023/05/adobe-photoshops-new-generative-fill-ai-tool-lets-you-manipulate-photos-with-text/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/generative_fill_hero_3-760x380.jpg",
+      "publishedAt": "2023-05-23T19:07:19Z",
+      "content": "Enlarge/ An example of a 1983 file photo of the Apple Lisa computer that has been significantly enhanced by the new \"Generative Fill\" AI tool in the Adobe Photoshop beta.\r\n23 with \r\nOn Tuesday, Adobe… [+4496 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "Gizchina.com"
       },
-      "author": "Neeraj Bansal",
-      "title": "Why Auto Shop is the best investment in GTA Online after The Last Dose update - Sportskeeda",
-      "description": "For good reasons, Auto Shop is one of the most popular businesses in GTA Online. Rockstar Games added the purchasable property in 2021 as part of the Los Santos Tuners update.",
-      "url": "https://www.sportskeeda.com/gta/why-auto-shop-best-investment-gta-online-the-last-dose-update",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/1a47f-16847781224224-1920.jpg",
-      "publishedAt": "2023-05-22T18:43:00Z",
-      "content": "For good reasons, Auto Shop is one of the most popular businesses in GTA Online. Rockstar Games added the purchasable property in 2021 as part of the Los Santos Tuners update. While the game offers v… [+2558 chars]"
+      "author": "Marco Lancaster",
+      "title": "iQOO Pad launched with Dimensity 9000+, TWS Air Pro tag along - Gizchina.com",
+      "description": "The iQOO Pad goes official as a rebadged Vivo Pad2 with Dimensity 9000+. The iQOO TWS Air Pro earbuds tag alongside.",
+      "url": "https://www.gizchina.com/2023/05/23/iqoo-pad-launched-with-dimensity-9000-tws-air-pro-tag-along/",
+      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/05/imagem_2023-05-23_153620333.png",
+      "publishedAt": "2023-05-23T18:42:43Z",
+      "content": "iQOOunveiled the iQOO Neo 8 series today, and the stage was shared with the new iQOO Pad and the iQOO TWS Air Pro wireless earbuds. The former is the company’s highly-anticipated tablet that comes as… [+2478 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "News18"
       },
-      "author": "Zachary Roberts",
-      "title": "How to prepare for Minecraft 1.20 Trails & Tales update - Sportskeeda",
-      "description": "The Minecraft 1.20 Trails & Tales update does not yet have an official release date. With that in mind, the release is impending.",
-      "url": "https://www.sportskeeda.com/minecraft/news-how-prepare-minecraft-1-20-trails-tales-update",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/dc643-16847789654885-1920.jpg",
-      "publishedAt": "2023-05-22T18:42:00Z",
-      "content": "The Minecraft 1.20 Trails &amp; Tales update does not yet have an official release date. With that in mind, the release is impending. Mojang initially stated that it would come in 2023, which means, … [+2326 chars]"
+      "author": "S Aadeetya",
+      "title": "Apple WWDC 2023 Keynote Kicks Off On June 5: Mixed Reality Headset, iOS 17 And More Expected - News18",
+      "description": "The company is going to showcase its new platforms for iPhones, iPad and Macs along with new additions.",
+      "url": "https://www.news18.com/tech/apple-wwdc-2023-keynote-kicks-off-on-june-5-mixed-reality-headset-ios-17-and-more-expected-7898155.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/05/apple-wwdc-2023-1-168486310516x9.jpg",
+      "publishedAt": "2023-05-23T18:35:17Z",
+      "content": "Apple WWDC 2023 is just around the corner, and the company has now shared the detailed lineup of this years developer conference which kickstarts with the keynote address by Tim Cook, CEO, Apple and … [+1581 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "YouTube"
       },
-      "author": "TIMESOFINDIA.COM",
-      "title": "WhatsApp makes it better to create custom sticker on iOS - Times of India",
-      "description": "WhatsApp’s rival platforms -- Telegram and Signal -- have been offering ways to create custom stickers on their platforms.",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/whatsapp-makes-it-better-to-create-custom-sticker-on-ios/articleshow/100428551.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-100428551,width-1070,height-580,imgsize-12106,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-05-22T18:34:00Z",
-      "content": "Redmi A2 series is now official: Specs, price and more"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Pure Xbox",
-      "title": "Random: Remember When Don Mattrick Told Us All To Buy An Xbox 360 In 2013? - Pure Xbox",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnB1cmV4Ym94LmNvbS9uZXdzLzIwMjMvMDUvcmFuZG9tLXJlbWVtYmVyLXdoZW4tZG9uLW1hdHRyaWNrLXRvbGQtdXMtYWxsLXRvLWJ1eS1hbi14Ym94LTM2MC1pbi0yMDEz0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-22T18:30:00Z",
+      "author": null,
+      "title": "The Callisto Protocol - Official Riot Mode Bundle Trailer - IGN",
+      "description": "The Callisto Protocol has launched a new game mode called Riot Mode enabling players access to the ultimate test to compete for high scores. An undiscovered ...",
+      "url": "https://www.youtube.com/watch?v=VRTBUbt21Zw",
+      "urlToImage": "https://i.ytimg.com/vi/VRTBUbt21Zw/maxresdefault.jpg",
+      "publishedAt": "2023-05-23T18:30:34Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Danny Goodwin",
+      "title": "Google Bard adds images in responses - Search Engine Land",
+      "description": "Bard now includes Google Search images for visual responses. You can also ask Bard for images. Each image will be accompanied by its source.",
+      "url": "https://searchengineland.com/google-bard-image-responses-427511",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2023/03/google-bard-robot.jpg",
+      "publishedAt": "2023-05-23T18:29:00Z",
+      "content": "Bard is now showing images in responses – and Bard will show the source of each image, Google announced today. \r\nWhat’s new. This update continues Google’s push to try to make Bard more visual and us… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "Renata Geraldo",
+      "title": "Microsoft to bring Copilot, an AI personal assistant, to Windows - The Seattle Times",
+      "description": "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-to-bring-copilot-an-ai-personal-assistant-to-windows/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/05/05232023_tzr_tzr_110027.jpg?d=1200x630",
+      "publishedAt": "2023-05-23T18:26:30Z",
+      "content": "Microsoft will integrate a ChatGPT-like system, called Windows Copilot, in all PC apps, the Redmond-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in Ju… [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Andrew Liszewski",
+      "title": "HP Is Selling a 40-Year-Old Calculator Again—For $120 - Gizmodo",
+      "description": "The HP-15C is reborn with a collector's edition model and a jaw-dropping price tag.",
+      "url": "https://gizmodo.com/hp-15c-scientific-calculator-collectors-edition-price-r-1850464801",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d865d753822674c09efd317d2e785a17.jpg",
+      "publishedAt": "2023-05-23T18:20:00Z",
+      "content": "Youd assume that calculators would have been one of the many technological casualties of the smartphone, joining MP3 players and point-and-shoot cameras as standalone devices no one really uses any m… [+1924 chars]"
     }
   ]
 }
