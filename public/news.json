@@ -1,44 +1,44 @@
 {
   "status": "ok",
-  "totalResults": 384,
+  "totalResults": 363,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Car and Driver"
+      },
+      "author": "Eric Stafford",
+      "title": "2024 Aston Martin DB12 Revealed as a 671-HP 'Super' Tourer - Car and Driver",
+      "description": "For those with a quarter-million dollars to throw around, the DB12 is a mightier, shapelier, and sportier successor to the DB11.",
+      "url": "https://www.caranddriver.com/news/a43991974/2024-aston-martin-db12-revealed/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2024-aston-martin-db12-123-646e1d6217920.jpg?crop=0.830xw:0.621xh;0.170xw,0.130xh&resize=1200:*",
+      "publishedAt": "2023-05-24T22:02:36Z",
+      "content": "<ul><li>Expected to start at $245K, the </li>2024 Aston Martin DB12 debuts as the successor to the outgoing DB11.<li>The DB12 features a 671-hp twin-turbo 4.0-liter V-8, and Aston claims it'll hit 60… [+6045 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "PlayStation Showcase 2023: all the news from Sony's big gaming event - The Verge",
+      "description": "Sony’s PlayStation Showcase on May 24th, was packed with news about games and hardware accessories for the PS5 and PSVR 2. We saw the Project Q handheld, Marathon, and a new trailer for Spider-Man 2. Here’s our coverage of the event.",
+      "url": "https://www.theverge.com/2023/5/24/23734469/sony-playstation-showcase-2023-news-announcements",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8OjMfHDMDT9Q6-06dzxjFhi8ykk=/0x0:2040x1360/1200x628/filters:focal(924x608:925x609)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg",
+      "publishedAt": "2023-05-24T21:53:16Z",
+      "content": "Filed under:\r\nByJay Peters, a news editor who writes about technology, video games, and virtual worlds. Hes submitted several accepted emoji proposals to the Unicode Consortium.\r\nSonys latest PlaySta… [+10155 chars]"
+    },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "IGN",
-      "title": "Miasma Chronicles - Official Launch Trailer - IGN",
+      "author": "GameSpot",
+      "title": "Assassin's Creed Mirage Trailer Shows Off AC Unity-Looking Parkour, Confirms Release Date - GameSpot",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC2NsQzJUU240ZGt3mAEB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5nYW1lc3BvdC5jb20vYXJ0aWNsZXMvYXNzYXNzaW5zLWNyZWVkLW1pcmFnZS10cmFpbGVyLXNob3dzLW9mZi1hYy11bml0eS1sb29raW5nLXBhcmtvdXItY29uZmlybXMtcmVsZWFzZS1kYXRlLzExMDAtNjUxNDUyOS_SAYsBaHR0cHM6Ly93d3cuZ2FtZXNwb3QuY29tL2FtcC1hcnRpY2xlcy9hc3Nhc3NpbnMtY3JlZWQtbWlyYWdlLXRyYWlsZXItc2hvd3Mtb2ZmLWFjLXVuaXR5LWxvb2tpbmctcGFya291ci1jb25maXJtcy1yZWxlYXNlLWRhdGUvMTEwMC02NTE0NTI5Lw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-05-23T22:00:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Photoshop’s Generative Fill tool turns vacation photos into nightmares - The Verge",
-      "description": "Photoshop’s new Generative Fill tool uses AI to add and remove elements from your photos. It’s an impressive tool for edits... and can also make the stuff of nightmares.",
-      "url": "https://www.theverge.com/2023/5/23/23734821/photoshop-generative-ai-fill-tool-adobe",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xz_xfCp_Cy3E0IOGhjT5rb4bYPU=/0x0:4080x3060/1200x628/filters:focal(2040x1530:2041x1531)/cdn.vox-cdn.com/uploads/chorus_asset/file/24676983/IMG_20230323_133713_volcano.jpg",
-      "publishedAt": "2023-05-23T21:30:00Z",
-      "content": "Photoshops generative AI tool turned my vacation photos into nightmare fuel\r\nPhotoshops generative AI tool turned my vacation photos into nightmare fuel\r\n / The new generative AI tool looks like an i… [+3322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Tear-Down Speedrun of NVIDIA RTX 4060 Ti Founders Edition - Gamers Nexus",
-      "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)We already reviewed and benchmarked the NVIDIA RTX 4060 Ti Founders Edition GPU -- and it d...",
-      "url": "https://www.youtube.com/watch?v=pKbpsphNVUI",
-      "urlToImage": "https://i.ytimg.com/vi/pKbpsphNVUI/maxresdefault.jpg",
-      "publishedAt": "2023-05-23T21:00:32Z",
+      "publishedAt": "2023-05-24T21:49:07Z",
       "content": null
     },
     {
@@ -47,25 +47,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "F1 Manager 2023 - Official Announce Trailer - IGN",
-      "description": "Check out the announcement trailer for F1 Manager 2023, the next game in the series coming to PC, PlayStation 5, PlayStation 4, Xbox Series X/S, and Xbox One...",
-      "url": "https://www.youtube.com/watch?v=xD8kB0vNsAg",
-      "urlToImage": "https://i.ytimg.com/vi/xD8kB0vNsAg/maxresdefault.jpg",
-      "publishedAt": "2023-05-23T21:00:22Z",
+      "title": "Fairgames - Official Reveal Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Get your first look at Fairgame$, the first game from Jade Raymond's Haven Studios. Fairgame$ is a competitive modern heist game where you team up to break i...",
+      "url": "https://www.youtube.com/watch?v=P-LIHtSk-IA",
+      "urlToImage": "https://i.ytimg.com/vi/P-LIHtSk-IA/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:46:11Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Road to VR"
-      },
-      "author": "Ben Lang",
-      "title": "Apple Invites XR Media Outlets to WWDC Keynote for the First Time - Road to VR",
-      "description": "Apple has sent invitations to its upcoming WWDC keynote to select media outlets, including Road to VR. Apple has historically not invited XR media to its events, let alone commented in any way on its XR R&D that has been reportedly happening behind the scenes…",
-      "url": "https://www.roadtovr.com/apple-invites-xr-media-outlets-wwdc-keynote/",
-      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/05/apple-wwdc-xr.png",
-      "publishedAt": "2023-05-23T20:17:27Z",
-      "content": "Apple has sent invitations to its upcoming WWDC keynote to select media outlets, including Road to VR.\r\nApple has historically not invited XR media to its events, let alone commented in any way on it… [+897 chars]"
     },
     {
       "source": {
@@ -73,24 +60,154 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Final Cut Pro for iPad! Overview, First Impressions, & Missing Features! - AppleInsider",
-      "description": "Final Cut Pro is finally available on iPad for the first time. We downloaded the app on our M2 iPad Pro to try it out. I walk you through the basics of how t...",
-      "url": "https://www.youtube.com/watch?v=0D5Lida9bE4",
-      "urlToImage": "https://i.ytimg.com/vi/0D5Lida9bE4/maxresdefault.jpg",
-      "publishedAt": "2023-05-23T20:17:21Z",
+      "title": "Concord - Announcement Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "A new space adventure for PS5, Concord, gives a brief glimpse at a new space game coming to PlayStation.",
+      "url": "https://www.youtube.com/watch?v=6Fz9b710Kzo",
+      "urlToImage": "https://i.ytimg.com/vi/6Fz9b710Kzo/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:33:14Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "YouTube"
       },
-      "author": "Investor's Business Daily",
-      "title": "NVDA Stock: Nvidia, Microsoft Azure Team On Generative AI | Investor's Business Daily - Investor's Business Daily",
+      "author": null,
+      "title": "Tower of Fantasy - Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Fight giant mechanical beasts in Tower of Fantasy, the colorful sci-fi anime open-world adventure game from Hotta Studio.",
+      "url": "https://www.youtube.com/watch?v=e9elEs_gDEs",
+      "urlToImage": "https://i.ytimg.com/vi/e9elEs_gDEs/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:31:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ana Diaz",
+      "title": "Night in the Woods developers announce new game: Revenant Hill - Polygon",
+      "description": "Night in the Woods’ creators came to Sony’s PlayStation Showcase with a trailer for Revenant Hill, bringing more cute cats and politics to PlayStation 4 and 5.",
+      "url": "https://www.polygon.com/23736560/night-in-the-woods-creators-announce-revenant-hill",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RR9gSUmft0Ob7zTRvBXYkPF5jy8=/0x32:1632x886/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24679638/revnenthill.jpg",
+      "publishedAt": "2023-05-24T21:30:42Z",
+      "content": "It looks like another autumnal game focusing on social systems and survival"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Metal Gear Solid Delta: Snake Eater - Official Reveal Trailer (MGS 3 Remake) | PlayStation Showcase - IGN",
+      "description": "Watch the reveal trailer for Metal Gear Solid Delta: Snake Eater, an upcoming remake of Metal Gear Solid 3: Snake Eater originally released in 2004 for the P...",
+      "url": "https://www.youtube.com/watch?v=_owZdwjvCe4",
+      "urlToImage": "https://i.ytimg.com/vi/_owZdwjvCe4/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:16:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Neva - Announcement Trailer - Nintendo Switch - Nintendo of America",
+      "description": "Neva is releasing for Nintendo Switch in 2024.Neva is an emotionally-charged action adventure from the visionary team behind the critically acclaimed GRIS.Ne...",
+      "url": "https://www.youtube.com/watch?v=LiVRCNCDHKU",
+      "urlToImage": "https://i.ytimg.com/vi/LiVRCNCDHKU/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:15:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Arizona Sunshine 2 Trailer | PlayStation Showcase 2023 - GameSpot",
+      "description": "Arizona Sunshine 2, the next zombie survival game from Vertigo Games is coming to PSVR 2 in 2023.#arizonasunshine #playstation #gaming",
+      "url": "https://www.youtube.com/watch?v=ZaEtGk320-w",
+      "urlToImage": "https://i.ytimg.com/vi/ZaEtGk320-w/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:13:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "PlayStation 5 - Project Q Reveal Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Project Q has an 8-inch HD screen attached to DualSense-style grips, and offers all the same haptic features as the regular DualSense controller.",
+      "url": "https://www.youtube.com/watch?v=03DEcB2ny4E",
+      "urlToImage": "https://i.ytimg.com/vi/03DEcB2ny4E/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T21:05:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Petrana Radulovic",
+      "title": "Giant Squid debuts post-apocalyptic skater game at PlayStation Showcase - Polygon",
+      "description": "From the studio behind Journey and The Pathless comes a new meditative skater game called Sword of the Sea, where players explore a ruined world on a Hoversword.",
+      "url": "https://www.polygon.com/2023/5/24/23736496/giant-squid-sword-of-the-sea-journey-pathless",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/N2hh-NqaGvTeXDlcG6LWH_Oi9Q0=/0x18:1203x648/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24679549/Screen_Shot_2023_05_24_at_4.14.16_PM__3_.png",
+      "publishedAt": "2023-05-24T20:48:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Kyle Hilliard",
+      "title": "Dragon's Dogma II Gets First Gameplay Footage On PlayStation Showcase - Game Informer",
+      "description": "We now have a good idea of what Dragon's Dogma II will look like in action.",
+      "url": "https://www.gameinformer.com/playstation-showcase/2023/05/24/dragons-dogma-ii-gets-first-gameplay-footage-on-playstation",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/05/24/1ed8c076/playstation-showcase-2023-_-english-1-32-55-screenshot.jpg",
+      "publishedAt": "2023-05-24T20:45:00Z",
+      "content": "The fan-demanded sequel to Dragon's Dogma has been announced for some time, but during the 2023 PlayStation Showcase, we got our first look at the game's visual direction with a bit of what appears t… [+256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Granblue Fantasy Relink - Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "The next Granblue Fantasy game is coming to PS5 and brings anime sword and sorcery action later this year.",
+      "url": "https://www.youtube.com/watch?v=MF57aVTQxKE",
+      "urlToImage": "https://i.ytimg.com/vi/MF57aVTQxKE/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T20:42:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Alan Wake 2 - Release Date Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Get your latest look at the upcoming sequel to Remedy's beloved survival horror game. Alan Wake 2 launches on October 17, 2023.",
+      "url": "https://www.youtube.com/watch?v=q6TmhvIpIoI",
+      "urlToImage": "https://i.ytimg.com/vi/q6TmhvIpIoI/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T20:38:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Video Games Chronicle",
+      "title": "Official: Konami announces Metal Gear Solid 3 remake and remaster collection - Video Games Chronicle",
       "description": null,
-      "url": "https://www.investors.com/news/technology/nvda-stock-nvidia-microsoft-azure-team-on-generative-ai/",
+      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnZpZGVvZ2FtZXNjaHJvbmljbGUuY29tL25ld3Mvb2ZmaWNpYWwta29uYW1pLWFubm91bmNlcy1tZXRhbC1nZWFyLXNvbGlkLTMtcmVtYWtlLWFuZC1yZW1hc3Rlci1jb2xsZWN0aW9uL9IBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-05-23T20:15:00Z",
+      "publishedAt": "2023-05-24T20:29:34Z",
       "content": null
     },
     {
@@ -99,116 +216,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "CONVERGENCE: A League of Legends Story - Official Launch Trailer - IGN",
-      "description": "CONVERGENCE: A League of Legends Story is a story-driven 2D action platformer where players will explore the world of Zaun as champion Ekko, a young inventor...",
-      "url": "https://www.youtube.com/watch?v=99Y5rWwEW-o",
-      "urlToImage": "https://i.ytimg.com/vi/99Y5rWwEW-o/maxresdefault.jpg",
-      "publishedAt": "2023-05-23T20:00:04Z",
+      "title": "Foamstars - Reveal Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Competitive shooter from Square Enix has you battling to foam as much of the city as you can while avoiding your opponents traps and weapons.",
+      "url": "https://www.youtube.com/watch?v=OuGOh6GYN0E",
+      "urlToImage": "https://i.ytimg.com/vi/OuGOh6GYN0E/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T20:29:22Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Harshwardhan Sisodia",
-      "title": "How to download the free-to-play CoD Modern Warfare clone 'Combat Master' - Sportskeeda",
-      "description": "Combat Master is a new free-to-play first-person shooter that is similar to Call of Duty in certain ways.",
-      "url": "https://www.sportskeeda.com/esports/how-download-free-to-play-cod-modern-warfare-clone-combat-master",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/f6e2c-16848665652934-1920.jpg",
-      "publishedAt": "2023-05-23T19:43:00Z",
-      "content": "Combat Master is a new free-to-play first-person shooter that is similar to Call of Duty in certain ways. It focuses on fast-paced gameplay and has multiple weapon types that players can level up, va… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Potuck",
-      "title": "Samsung unveils next-gen Smart Monitor M8 with iMac-like design, USB-C, AirPlay, webcam - 9to5Mac",
-      "description": "Samsung has announced that its popular Smart Monitor M8 is getting an update for 2023. The latest version of the...",
-      "url": "https://9to5mac.com/2023/05/23/samsung-next-gen-smart-monitor-m8-imac-like-design/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/samsung-smart-monitor-m8-imac-like-2023.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-05-23T19:41:00Z",
-      "content": "Samsung has announced that its popular Smart Monitor M8 is getting an update for 2023. The latest version of the display will come in 32- and 27-inch options with an updated version of the super slim… [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fanbyte.com"
-      },
-      "author": "merritt k",
-      "title": "All Three New Armor Exotics in Destiny 2 Season of the Deep - Fanbyte",
-      "description": "Here are the new armor Exotics available for Titans, Warlocks, and Hunters in Destiny 2's new Season of the Deep.",
-      "url": "https://www.fanbyte.com/games/news/all-three-new-armor-exotics-in-destiny-2-season-of-the-deep/",
-      "urlToImage": "https://cdn.fanbyte.com/wp-content/uploads/2023/05/destiny2seasonofthedeepwarlockcenotaphmask.jpg?x25640",
-      "publishedAt": "2023-05-23T19:33:02Z",
-      "content": "The Season of the Deep is here (in theory, at least) in Destiny 2, and like previous seasons, this one brings some new Exotics to the game. Hunters, Titans, and Warlocks each have one new Exotic armo… [+1549 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Bluesky is now integrated with Flipboard, with Pixelfed coming soon - The Verge",
-      "description": "Bluesky users can now view their feed in Flipboard, a social magazine app for perusing various news and social feeds. The company plans to add Pixelfed soon as well.",
-      "url": "https://www.theverge.com/2023/5/23/23734581/flipboard-bluesky-pixelfed-federated-networks-activitypub-at-protocol",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/55loFrs29QHs0OSTP-4STlBvAMg=/0x0:1024x630/1200x628/filters:focal(512x315:513x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/24676545/Bluesky_Flipboard_Pixelfed_1024x630.png",
-      "publishedAt": "2023-05-23T19:26:13Z",
-      "content": "Flipboard is ready to work with Bluesky and Pixelfed\r\nFlipboard is ready to work with Bluesky and Pixelfed\r\n / iOS and Android Flipboard users can see posts from the federated social platforms that c… [+2451 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "Windows 11 finally gets native RAR support | Engadget - Engadget",
-      "description": "Windows 11 is finally getting native rar support, ending the tyranny of third-party apps like WinRAR.",
-      "url": "https://www.engadget.com/windows-11-finally-gets-native-rar-support-192034673.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dwq4.9P8ZCFsOcuFBGWcRw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-09/8143a120-1094-11ec-9fd1-0997b068eeb7.cf.jpg",
-      "publishedAt": "2023-05-23T19:22:18Z",
-      "content": "The Microsoft Build developers conference has been heavily focused on all things AI,\r\n per usual, but the companys making announcements in other spaces, including a particularly useful update for Win… [+838 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Benj Edwards",
-      "title": "Adobe Photoshop’s new “Generative Fill” AI tool lets you manipulate photos with text - Ars Technica",
-      "description": "Firefly-powered AI generations match image perspective, lighting, and style.",
-      "url": "https://arstechnica.com/information-technology/2023/05/adobe-photoshops-new-generative-fill-ai-tool-lets-you-manipulate-photos-with-text/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/generative_fill_hero_3-760x380.jpg",
-      "publishedAt": "2023-05-23T19:07:19Z",
-      "content": "Enlarge/ An example of a 1983 file photo of the Apple Lisa computer that has been significantly enhanced by the new \"Generative Fill\" AI tool in the Adobe Photoshop beta.\r\n23 with \r\nOn Tuesday, Adobe… [+4496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizchina.com"
-      },
-      "author": "Marco Lancaster",
-      "title": "iQOO Pad launched with Dimensity 9000+, TWS Air Pro tag along - Gizchina.com",
-      "description": "The iQOO Pad goes official as a rebadged Vivo Pad2 with Dimensity 9000+. The iQOO TWS Air Pro earbuds tag alongside.",
-      "url": "https://www.gizchina.com/2023/05/23/iqoo-pad-launched-with-dimensity-9000-tws-air-pro-tag-along/",
-      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/05/imagem_2023-05-23_153620333.png",
-      "publishedAt": "2023-05-23T18:42:43Z",
-      "content": "iQOOunveiled the iQOO Neo 8 series today, and the stage was shared with the new iQOO Pad and the iQOO TWS Air Pro wireless earbuds. The former is the company’s highly-anticipated tablet that comes as… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "S Aadeetya",
-      "title": "Apple WWDC 2023 Keynote Kicks Off On June 5: Mixed Reality Headset, iOS 17 And More Expected - News18",
-      "description": "The company is going to showcase its new platforms for iPhones, iPad and Macs along with new additions.",
-      "url": "https://www.news18.com/tech/apple-wwdc-2023-keynote-kicks-off-on-june-5-mixed-reality-headset-ios-17-and-more-expected-7898155.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/05/apple-wwdc-2023-1-168486310516x9.jpg",
-      "publishedAt": "2023-05-23T18:35:17Z",
-      "content": "Apple WWDC 2023 is just around the corner, and the company has now shared the detailed lineup of this years developer conference which kickstarts with the keynote address by Tim Cook, CEO, Apple and … [+1581 chars]"
     },
     {
       "source": {
@@ -216,51 +229,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Callisto Protocol - Official Riot Mode Bundle Trailer - IGN",
-      "description": "The Callisto Protocol has launched a new game mode called Riot Mode enabling players access to the ultimate test to compete for high scores. An undiscovered ...",
-      "url": "https://www.youtube.com/watch?v=VRTBUbt21Zw",
-      "urlToImage": "https://i.ytimg.com/vi/VRTBUbt21Zw/maxresdefault.jpg",
-      "publishedAt": "2023-05-23T18:30:34Z",
+      "title": "Ghostrunner 2 - Gameplay Teaser Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "505 Games and One More Level bring you the sequel to Ghostrunner, an upcoming cyberpunk action game and follow-up to 2020's original game.",
+      "url": "https://www.youtube.com/watch?v=MFGwssNevqk",
+      "urlToImage": "https://i.ytimg.com/vi/MFGwssNevqk/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T20:17:32Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Search Engine Land"
+        "name": "YouTube"
       },
-      "author": "Danny Goodwin",
-      "title": "Google Bard adds images in responses - Search Engine Land",
-      "description": "Bard now includes Google Search images for visual responses. You can also ask Bard for images. Each image will be accompanied by its source.",
-      "url": "https://searchengineland.com/google-bard-image-responses-427511",
-      "urlToImage": "https://searchengineland.com/wp-content/seloads/2023/03/google-bard-robot.jpg",
-      "publishedAt": "2023-05-23T18:29:00Z",
-      "content": "Bard is now showing images in responses – and Bard will show the source of each image, Google announced today. \r\nWhat’s new. This update continues Google’s push to try to make Bard more visual and us… [+1417 chars]"
+      "author": null,
+      "title": "Helldivers 2 - Reveal Trailer | PlayStation Showcase 2023 - IGN",
+      "description": "Join the fight for freedom and democracy by enlisting with the Helldivers to protect Super Earth and its inhabitants. From Arrowhead Games and Sony Computer ...",
+      "url": "https://www.youtube.com/watch?v=RDhaY8T9fyw",
+      "urlToImage": "https://i.ytimg.com/vi/RDhaY8T9fyw/maxresdefault.jpg",
+      "publishedAt": "2023-05-24T20:14:19Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "The Seattle Times"
+        "name": "Datanami"
       },
-      "author": "Renata Geraldo",
-      "title": "Microsoft to bring Copilot, an AI personal assistant, to Windows - The Seattle Times",
-      "description": "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”",
-      "url": "https://www.seattletimes.com/business/microsoft/microsoft-to-bring-copilot-an-ai-personal-assistant-to-windows/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/05/05232023_tzr_tzr_110027.jpg?d=1200x630",
-      "publishedAt": "2023-05-23T18:26:30Z",
-      "content": "Microsoft will integrate a ChatGPT-like system, called Windows Copilot, in all PC apps, the Redmond-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in Ju… [+2348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Andrew Liszewski",
-      "title": "HP Is Selling a 40-Year-Old Calculator Again—For $120 - Gizmodo",
-      "description": "The HP-15C is reborn with a collector's edition model and a jaw-dropping price tag.",
-      "url": "https://gizmodo.com/hp-15c-scientific-calculator-collectors-edition-price-r-1850464801",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d865d753822674c09efd317d2e785a17.jpg",
-      "publishedAt": "2023-05-23T18:20:00Z",
-      "content": "Youd assume that calculators would have been one of the many technological casualties of the smartphone, joining MP3 players and point-and-shoot cameras as standalone devices no one really uses any m… [+1924 chars]"
+      "author": "Alex Woodie",
+      "title": "Microsoft Unifies Data Management, Analytics, and ML Into 'Fabric' - Datanami",
+      "description": "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single",
+      "url": "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/",
+      "urlToImage": "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png",
+      "publishedAt": "2023-05-24T20:09:48Z",
+      "content": "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single offering. The solution is built on OneLake, … [+4336 chars]"
     }
   ]
 }
