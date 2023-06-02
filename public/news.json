@@ -1,45 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 319,
+  "totalResults": 345,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "GameSpot"
       },
-      "author": "Louis Pavlakos",
-      "title": "Motorola unveils the Moto G Stylus 5G (2023) - Android Police",
-      "description": "Not to be confused with the Moto G Stylus (2023)",
-      "url": "https://www.androidpolice.com/moto-g-stylus-5g-2023-announced/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/moto-g-stylus-5g-2023-group-hero.jpg",
-      "publishedAt": "2023-05-30T21:41:00Z",
-      "content": "Motorola is priming itself to have a big year. Between the excellent Moto Edge+ (2023) and a flurry of other recently revealed devices, it seems like there's something for everyone. The company isn't… [+2666 chars]"
+      "author": "Cameron Koch",
+      "title": "Diablo 4's Microtransaction Prices Revealed, And They Aren't Cheap - GameSpot",
+      "description": "A full set of cosmetic armor for one class looks like it will cost around $28.",
+      "url": "https://www.gamespot.com/articles/diablo-4s-microtransaction-prices-revealed-and-they-arent-cheap/1100-6514687/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4145944-diablo4microtransactionpricesleaked.jpg",
+      "publishedAt": "2023-05-31T22:20:30Z",
+      "content": "Images of Diablo 4's in-game cosmetic store have revealed some hefty price tags, and it is causing some concern among fans of Blizzard's ARPG series.\r\nDiablo IV has received rave reviews ahead of its… [+3194 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Kyle Barr",
-      "title": "Apple's Corny 'AR Experience' All But Confirms We'll See Its Rumored Headset At WWDC - Gizmodo",
-      "description": "Apple is expected to show off its mixed reality headset at its major trade show in June. We hope it's cooler than this.",
-      "url": "https://gizmodo.com/apple-wwdc-ar-vr-headset-experience-iphone-ipad-2023-wa-1850488659",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0f761ab8b10bd68249be76f095635d33.gif",
-      "publishedAt": "2023-05-30T21:20:00Z",
-      "content": "Apple is really excited to share its next steps into augmented reality tech at this years WWDC, so much so that its released a teaser of its AR experience to iPhones and iPads. We hope the companys r… [+1844 chars]"
+      "author": "Benj Edwards",
+      "title": "AI-expanded album cover artworks go viral thanks to Photoshop’s Generative Fill - Ars Technica",
+      "description": "Generative Fill uses AI to dream up larger versions of famous artwork.",
+      "url": "https://arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/beatles_hero_1-760x380.jpg",
+      "publishedAt": "2023-05-31T22:05:24Z",
+      "content": "Enlarge/ An AI-expanded version of a famous album cover involving four lads and a certain road created using Adobe Generative Fill.\r\n21 with \r\nOver the weekend, AI-powered makeovers of famous music a… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Ratchet & Clank: Rift Apart is coming to PC—and it will be a technical showstopper - Ars Technica",
+      "description": "We'll see how lower-spec PCs handle its innovative fast-loading features.",
+      "url": "https://arstechnica.com/gaming/2023/05/ratchet-clank-rift-apart-is-coming-to-pc-and-it-will-be-a-technical-showstopper/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/12252698af40de4700ad00dbcbb4ecbe15ae20c6-scaled-1-760x380.jpg",
+      "publishedAt": "2023-05-31T21:17:53Z",
+      "content": "22 with \r\n<ul><li>\r\n This game is all about tracing the rays, so to speak. It looks fantastic. \r\n</li><li>\r\n Ultra-wide support will be new in the PC verison. \r\n</li></ul>\r\nRatchet &amp; Clank: Rift … [+4552 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Isaiah Colbert",
-      "title": "Game Developers Open Up About The 'Worst' Games They Worked On - Kotaku",
-      "description": "The Lord of The Rings: Gollum’s poor reviews inspired developers to share lessons they learned from their own ‘lowest-reviewed game’",
-      "url": "https://kotaku.com/lord-of-rings-gollum-metacritic-score-final-fantasy-14-1850488691",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ef526d431e53c435f011f61f50f407b3.jpg",
-      "publishedAt": "2023-05-30T21:05:00Z",
-      "content": "Last week, Daedalic Entertainment, the developers of the stealth adventure J.R.R. Tolkien video game The Lord of The Rings: Gollum, posted an apology for the game failing to meet the expectations of … [+4443 chars]"
+      "author": "Ashley Bardhan",
+      "title": "PlayStation Fans Refuse To Throw Away Box Even After Sony Tells Them To - Kotaku",
+      "description": "What if these PS3, PS4, and PS5 boxes are a surprise tool that will help us later?",
+      "url": "https://kotaku.com/sony-playstation-ps5-box-twitter-june-free-games-1850493005",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0bcd7337bb21ec9d6330f012887c36c1.jpg",
+      "publishedAt": "2023-05-31T20:37:35Z",
+      "content": "The official PlayStation UK Twitter account has decreed its OK to throw away the cardboard box your PlayStation came in now, but squirrelly fans arent convinced. What if they might actually one day n… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Hollow Knight, Blasphemous, Bloodstained, and more cost $15 at Humble - Polygon",
+      "description": "Humble is offering up an exciting $15 bundle that includes Hollow Knight, Blasphemous, Bloodstained: Ritual of the Night, and other great Metroidvania games on PC.",
+      "url": "https://www.polygon.com/deals/23744286/metroidvania-humble-bundle-hollow-knight-blasphemous-bloodstained-pc-steam-deck-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HYFpcS5Cs_v35YBlYRd1xuTgvkU=/0x164:2638x1545/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24694314/hollowknight.jpg",
+      "publishedAt": "2023-05-31T20:13:41Z",
+      "content": "Id gladly pay $15 to experience Hollow Knight again for the first time. However, at Humble, thats all it costs to get that stellar game, plus 6 other Metroidvania titles on Steam, including Blasphemo… [+991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Simon Cohen",
+      "title": "Google ends support for the original Chromecast - Digital Trends",
+      "description": "Google has ended support of its first-gen Chromecast dongle. These alternatives are your best bet for a replacement.",
+      "url": "https://www.digitaltrends.com/home-theater/google-ends-support-first-gen-chromecast-alternatives/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/google-chromecast-first-gen-obsolete.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-05-31T19:50:02Z",
+      "content": "Simon Cohen / Digital Trends\r\nTen years is not a bad run in the world of smart devices. That’s how long it’s been since Google released the very first Chromecast, a tiny $35 HDMI dongle that let you … [+3089 chars]"
     },
     {
       "source": {
@@ -47,77 +86,25 @@
         "name": "The Verge"
       },
       "author": "Jay Peters",
-      "title": "The Metal Gear Solid 3 remake will reuse the original game's voice lines — with no changes - The Verge",
-      "description": "Metal Gear Solid Delta: Snake Eater, the remake of Metal Gear Solid 3: Snake Eater, will reuse the voice lines from the original game with no changes.",
-      "url": "https://www.theverge.com/2023/5/30/23742786/metal-gear-solid-delta-3-snake-eater-remake-voice-actors-no-changes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QvCBOj0Rx7NAT_h0RJH64poZztQ=/0x0:1920x1080/1200x628/filters:focal(1117x517:1118x518)/cdn.vox-cdn.com/uploads/chorus_asset/file/24680494/MGS_Delta_Key_visual.png",
-      "publishedAt": "2023-05-30T20:49:07Z",
-      "content": "The Metal Gear Solid 3 remake will reuse the original games voice lines with no changes\r\nThe Metal Gear Solid 3 remake will reuse the original games voice lines with no changes\r\n / At least one eleme… [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "Google's Pixel Watch 2 will reportedly have significantly improved battery life | Engadget - Engadget",
-      "description": "Google's Pixel Watch 2 is said to be switching to a Snapdragon chip that will deliver much-improved battery life..",
-      "url": "https://www.engadget.com/googles-pixel-watch-2-will-reportedly-have-significantly-improved-battery-life-201057558.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xQ095RULNVPS7d2hOZSawg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/22633e90-ff1c-11ed-9faa-9a324046e975.cf.jpg",
-      "publishedAt": "2023-05-30T20:11:40Z",
-      "content": "What complaints you had about the Pixel Watch's battery life might disappear with its sequel. Sources speaking to 9to5Google claim the Pixel Watch 2 will switch from Samsung's 2018-era Exynos 9110 to… [+1111 chars]"
+      "title": "Apple might announce “several” Macs at WWDC - The Verge",
+      "description": "Apple could have a pretty big Worldwide Developers Conference next week, according to Bloomberg’s Mark Gurman. In addition to the rumored mixed reality headset and the usual updates to its operating system, Gurman said in a tweet that he’s expecting Apple to …",
+      "url": "https://www.theverge.com/2023/5/31/23744193/apple-wwdc-2023-several-macs-macbook-air-15-inch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tqMQ0bh87oHsNkc_QNJ0lOnw0E8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23759761/bfarsace_190101_5333_0008.jpg",
+      "publishedAt": "2023-05-31T19:10:54Z",
+      "content": "Apple might announce several Macs at WWDC\r\nApple might announce several Macs at WWDC\r\n / Bloombergs Mark Gurman says we might be seeing some new Macs very soon.\r\nByJay Peters, a news editor who write… [+2384 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "InfoQ.com"
+        "name": "Digital Trends"
       },
-      "author": "Sergio De Simone",
-      "title": "OpenAI Launches its Official ChatGPT App for iOS - InfoQ.com",
-      "description": "OpenAI made its official ChatGPT app available on the US App Store, providing voice-based input, GPT-4 support for paying users, and faster response times. The company said they will soon start the roll out to additional countries and that an Android version …",
-      "url": "https://www.infoq.com/news/2023/05/openai-chatgpt-ios-app/",
-      "urlToImage": "https://res.infoq.com/news/2023/05/openai-chatgpt-ios-app/en/headerimage/openai-chatgpt-ios-app-1685475766736.jpeg",
-      "publishedAt": "2023-05-30T20:00:15Z",
-      "content": "OpenAI made its official ChatGPT app available on the US App Store, providing voice-based input, GPT-4 support for paying users, and faster response times. The company said they will soon start the r… [+2350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Josh Dinner",
-      "title": "Relive SpaceX Starship's epic launch in amazing highlight video - Space.com",
-      "description": "It was almost too dramatic to believe.",
-      "url": "https://www.space.com/spacex-starships-launch-highlights-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/83jXfNZmts7jiNTCFmdooh-1200-80.jpeg",
-      "publishedAt": "2023-05-30T19:40:46Z",
-      "content": "The first test launch of SpaceX's fully stacked Starship happened just over a month ago, and recently released footage shows just how amazing the shakedown flight was before the rocket met its fiery … [+3229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Tears Of The Kingdom's Best Duplication Glitch After Patch - Kotaku",
-      "description": "The Breath of the Wild sequel still has tricks for infinite Gerudo Claymores and Gleeok Flame Horns",
-      "url": "https://kotaku.com/zelda-tears-of-the-kingdom-duplication-glitch-diamonds-1850488161",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1d6642beb13cfc8096f2fa07abf05ea6.jpg",
-      "publishedAt": "2023-05-30T19:29:54Z",
-      "content": "The Legend of Zelda: Tears of the Kingdom players briefly fell on hard times last week when Nintendo patched out a bevy of exploits, including some super easy and lucrative glitches for getting infin… [+2272 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Apple's rumored VR headset could have ridiculously high-end screens - The Verge",
-      "description": "Apple’s rumored mixed reality headset will be equipped with two 1.41-inch Micro OLED screens, each with 4,000 ppi, and they’ll be able to go beyond 5,000 nits of brightness, according to display analyst Ross Young.",
-      "url": "https://www.theverge.com/2023/5/30/23742631/apple-vr-ar-mixed-reality-headset-screens-displays-ppi",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5ctJfP3Z7AlcBki6nfIIJYVNUFg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401977/STK071_ACastro_apple_0001.jpg",
-      "publishedAt": "2023-05-30T19:12:23Z",
-      "content": "Apples rumored VR headset could have ridiculously high-end screens\r\nApples rumored VR headset could have ridiculously high-end screens\r\n / The two 1.41-inch Micro OLED in the headset might each offer… [+1566 chars]"
+      "author": "Caleb Denison",
+      "title": "Are TCL and Hisense the next LG and Samsung? - Digital Trends",
+      "description": "TCL and Hisense are on the offensive and challenging the status quo with awesomely specced TVs at competitive prices and major brand partnerships.",
+      "url": "https://www.digitaltrends.com/home-theater/are-tcl-and-hisense-the-next-lg-and-samsung/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/Hisense-U6K.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-05-31T19:00:56Z",
+      "content": "If you had told me 20 years ago or, heck, even 15 that Samsung and LG were going to be the top TV brands in the U.S., Id have laughed in your face. But I feel like Ive learned to see the writing on t… [+6734 chars]"
     },
     {
       "source": {
@@ -125,51 +112,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Ratchet & Clank: Rift Apart - Official PC Trailer - IGN",
-      "description": "Ratchet & Clank: Rift Apart will be available on PC on July 26, 2023. Watch the trailer to see some of the PC features of the game, including ultrawide displ...",
-      "url": "https://www.youtube.com/watch?v=_cL88ofpeh0",
-      "urlToImage": "https://i.ytimg.com/vi/_cL88ofpeh0/maxresdefault.jpg",
-      "publishedAt": "2023-05-30T19:00:29Z",
+      "title": "Amnesia: The Bunker - Official Developer Gameplay Overview - IGN",
+      "description": "Amnesia: The Bunker is a first-person horror game taking place in an old vacant World War 1 bunker. In this gameplay overview, Creative Lead Fredrik Olsson f...",
+      "url": "https://www.youtube.com/watch?v=wHcSUxC4Mwo",
+      "urlToImage": "https://i.ytimg.com/vi/wHcSUxC4Mwo/maxresdefault.jpg",
+      "publishedAt": "2023-05-31T19:00:33Z",
       "content": null
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": null,
-      "title": "Amazon ditches Alexa's celebrity voices and will issue refunds upon request | Engadget - Engadget",
-      "description": "Amazon is ditching all of its Alexa-enabled celebrity voices, including Shaquille O’Neal, Melissa McCarthy and Samuel L.",
-      "url": "https://www.engadget.com/amazon-ditches-alexa-celebrity-voices-165511851.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/PcJijl5EzdEIHdDQeR4MUQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/eacbcf00-ff08-11ed-bb2e-377536ac01f3.cf.jpg",
-      "publishedAt": "2023-05-30T18:56:15Z",
-      "content": "If youve been saving up to integrate Shaqs voice into your Alexa devices, youve officially blown it. Amazon is ditching all of its Alexa-enabled celebrity voices, including Shaquille ONeal, Melissa M… [+2198 chars]"
+      "author": "Mia Sato",
+      "title": "Here's how Instagram recommends the content you see - The Verge",
+      "description": "Instagram’s ranking algorithm has long been scrutinized by users. In a blog post, the company lays out what kind of data it pulls in to decide what content to serve up.",
+      "url": "https://www.theverge.com/2023/5/31/23744125/instagram-algorithm-recommendation-posts-reels-stories-shadow-banning",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rq6xprLeu3HJPyAx9rDe94jtcPo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932739/acastro_STK070__01.jpg",
+      "publishedAt": "2023-05-31T18:59:50Z",
+      "content": "Heres how Instagram recommends the content you see\r\nHeres how Instagram recommends the content you see\r\n / Instagrams ranking algorithm has long been scrutinized by users. The company lays out a few … [+2263 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "ThePrint"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "ANI",
-      "title": "Screen sharing feature coming to WhatsApp for Android users - ThePrint",
-      "description": "Washington [US], May 30 (ANI): WhatsApp keeps its users engaged with new features and updates for the platform. Now it appears like Android phones are constantly a beat behind iOS in the view of app developers. According to the Mashable website, screen sharin…",
-      "url": "https://theprint.in/tech/screen-sharing-feature-coming-to-whatsapp-for-android-users/1603409/",
-      "urlToImage": null,
-      "publishedAt": "2023-05-30T18:16:49Z",
-      "content": "Washington [US], May 30 (ANI): WhatsApp keeps its users engaged with new features and updates for the platform. Now it appears like Android phones are constantly a beat behind iOS in the view of app … [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Iqoo's Chief Gaming Officer To Be Paid In Lakhs For 6 Months - ABP Live",
-      "description": "Vivo Group's brand Iqoo is seeking to appoint its first chief gaming officer and that person will be paid in lakhs in the first six months.",
-      "url": "https://news.abplive.com/technology/gadgets/iqoo-looking-for-chief-gaming-officer-to-be-paid-rs-10-lakh-for-6-months-1605854",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/05/30/223a1ae9753525083a00b0a7f3f00e401685469957843295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-05-30T18:08:12Z",
-      "content": "Vivo Group's brand Iqoo is seeking to appoint its first chief gaming officer and that person will be paid in lakhs in the first six months. According to the company, it is looking for a gaming enthus… [+1695 chars]"
+      "author": "Sarah Perez",
+      "title": "Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week - TechCrunch",
+      "description": "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI’s ChatGPT mobile app topping half a million downloads in its first six days. Now, another AI app is touting its own launch success, as the a16z-backed Character.AI app is clai…",
+      "url": "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
+      "publishedAt": "2023-05-31T18:59:43Z",
+      "content": "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI’s ChatGPT mobile app topping half a million downloads in its first six days. Now, another AI app is touting its own… [+4532 chars]"
     },
     {
       "source": {
@@ -177,90 +151,116 @@
         "name": "MacRumors"
       },
       "author": "Juli Clover",
-      "title": "Apple's AR/VR Headset Display Specs: 5000+ Nits Brightness for HDR, 1.41-Inch Diagonal Display and More - MacRumors",
-      "description": "The AR/VR headset that Apple plans to introduce at the Worldwide Developers Conference next week has long been rumored to feature 4K micro OLED...",
-      "url": "https://www.macrumors.com/2023/05/30/apple-ar-vr-headset-display-specs/",
-      "urlToImage": "https://images.macrumors.com/t/Q86EYMilHMYtwTq-8TjlT1UnwhE=/1600x/article-new/2023/04/apple-ar-concept-2-ornange.jpg",
-      "publishedAt": "2023-05-30T18:04:44Z",
-      "content": "The AR/VR headset that Apple plans to introduce at the Worldwide Developers Conference next week has long been rumored to feature 4K micro OLED displays with an 8K total resolution, but notable displ… [+3511 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft's Activision Blizzard deal heads to a summer showdown with regulators - The Verge",
-      "description": "Microsoft’s appeal process against UK regulators for its Activision Blizzard deal will start fully in July. A judge has penciled in the week of July 24th for Microsoft v. the CMA.",
-      "url": "https://www.theverge.com/2023/5/30/23742359/microsoft-activision-blizzard-acquisition-uk-cma-cat-appeal-date",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GalKF0fR2wjfO31X1lrEiIQFVtA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg",
-      "publishedAt": "2023-05-30T18:00:34Z",
-      "content": "Microsofts Activision Blizzard deal heads to a summer showdown with regulators\r\nMicrosofts Activision Blizzard deal heads to a summer showdown with regulators\r\n / Microsofts UK appeal started today, … [+4601 chars]"
+      "title": "Popular Reddit App Apollo Would Need to Pay $20 Million Per Year Under New API Pricing - MacRumors",
+      "description": "Popular Reddit app Apollo might not be able to operate as is in the future due to planned API pricing that Reddit is implementing.   Apollo developer...",
+      "url": "https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/",
+      "urlToImage": "https://images.macrumors.com/t/Zt_gIMjqyHhz5Cq_8VkX7cT5NS8=/1820x/article-new/2020/05/Apollo-for-Reddit-Feature.png",
+      "publishedAt": "2023-05-31T18:20:50Z",
+      "content": "Popular Reddit app Apollo might not be able to operate as is in the future due to planned API pricing that Reddit is implementing.\r\nApollo developer Christian Selig was today told that Reddit plans t… [+2859 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Sportskeeda"
       },
-      "author": "Zac Hall",
-      "title": "There's a new software update awaiting Apple Watch users - 9to5Mac",
-      "description": "Apple has released a new software update for Apple Watch that all users should download and install today. The update...",
-      "url": "https://9to5mac.com/2023/05/30/apple-watch-watchos-9-5-1/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/watchos-951.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-05-30T18:00:00Z",
-      "content": "Apple has released a new software update for Apple Watch that all users should download and install today. The update is available for Apple Watch Series 4 and later, Apple Watch SE, and Apple Watch … [+1489 chars]"
+      "author": "Nishant Kotai",
+      "title": "What do the Satori Cherry Blossom Trees do in The Legend of Zelda Tears of the Kingdom? - Sportskeeda",
+      "description": "The Legend of Zelda Tears of the Kingdom is a rewarding experience for fans of exploration games and encourages creativity, aloowing players the freedom to play in any manner they wish.",
+      "url": "https://www.sportskeeda.com/esports/what-satori-cherry-blossom-trees-the-legend-zelda-tears-kingdom",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/c5c69-16855446397393-1920.jpg",
+      "publishedAt": "2023-05-31T18:09:00Z",
+      "content": "The Legend of Zelda Tears of the Kingdom is a rewarding experience for fans of exploration games and encourages creativity, aloowing players the freedom to play in any manner they wish. The world of … [+2864 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Inverse"
-      },
-      "author": "Jess Reyes",
-      "title": "How to Get the Wicked Implement Exotic Scout Rifle in 'Destiny 2' - Inverse",
-      "description": "'Destiny 2's Season of the Deep includes an exotic weapon that you won't want to miss. Here's how to get the Wicked Implement scout rifle.",
-      "url": "https://www.inverse.com/gaming/destiny-2-wicked-implement-unlock-exotic-quest-deep-dives-whetstone",
-      "urlToImage": "https://imgix.bustle.com/uploads/image/2023/5/30/3096b8ac-2897-4640-80bf-0e447aed7ec5-s21-media-screenshots-4.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5147&fp-y=0.4787",
-      "publishedAt": "2023-05-30T17:57:23Z",
-      "content": "Sometimes, the best part of a content update is the guns. Destiny 2just started its Season of the Deep, a sea-themed season for its Lightfall expansion. Now, as we enter this seasons second week, Des… [+3883 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Motorola's next Razr foldable specs revealed in leaked slide - The Verge",
-      "description": "The specs for the upcoming Motorola Razr 40 Ultra have been leaked, revealing details about its processor, display size, storage, camera, and more.",
-      "url": "https://www.theverge.com/2023/5/30/23742503/motorola-razr-40-ultra-foldable-specs-cpu-leak",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0hPs0Vb5ZYReAtkqW723FhhWAlo=/0x0:1962x1314/1200x628/filters:focal(981x657:982x658)/cdn.vox-cdn.com/uploads/chorus_asset/file/24691266/razr_40_snoopytech_crop.jpg",
-      "publishedAt": "2023-05-30T17:54:54Z",
-      "content": "Motorolas next Razr foldable specs revealed in leaked slide\r\nMotorolas next Razr foldable specs revealed in leaked slide\r\n / Motorolas next foldable phone appears set for a US launch, and a new leak … [+2327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Microsoft's appeal against UK Activision Blizzard block pencilled in for late July - Eurogamer.net",
-      "description": "Microsoft's appeal against the UK Competition and Merger Authority's decision to reject its Activision Blizzard deal ha…",
-      "url": "https://www.eurogamer.net/microsofts-appeal-against-uk-activision-blizzard-block-pencilled-in-for-late-july",
-      "urlToImage": "https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-05-30T17:37:23Z",
-      "content": "Microsoft's appeal against the UK Competition and Merger Authority's decision to reject its Activision Blizzard deal has been given a preliminary 24th July start date.\r\nThe CMA made the shock decisio… [+1626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "engadget",
+        "name": "Engadget"
       },
       "author": null,
-      "title": "NV7 Buyer's Remorse - Phanteks NV5 & NV9 are COMING! - Hardware Canucks",
-      "description": "The Phanteks NV7 has been one of the best gaming cases of 2023 so far but now Phanteks is following it up with two more models: the smaller NV5 and massive N...",
-      "url": "https://www.youtube.com/watch?v=XjXIgYJm8QE",
-      "urlToImage": "https://i.ytimg.com/vi/XjXIgYJm8QE/maxresdefault.jpg",
-      "publishedAt": "2023-05-30T17:34:13Z",
+      "title": "The PlayStation Plus monthly games for June include 'NBA 2K23' - Engadget",
+      "description": "'NBA 2K23,' 'Jurassic World Evolution 2' and 'Trek to Yomi' are the PS Plus monthly games for June..",
+      "url": "https://www.engadget.com/the-playstation-plus-monthly-games-for-june-include-nba-2k23-175506332.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/sxzBv3I7yN2sDrDRKtdg1A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f5788ad0-ffd8-11ed-8ebf-28b44081b992.cf.jpg",
+      "publishedAt": "2023-05-31T17:58:11Z",
+      "content": "Sony has revealed\r\n the PlayStation Plus monthly games lineup for June. These are the three titles that folks on the Essential, Extra and Premium tiers can all claim and retain access to as long as t… [+1165 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Firaxis hit by layoffs after Marvel's Midnight Suns flop - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2023/05/31/firaxis-layoffs",
+      "urlToImage": null,
+      "publishedAt": "2023-05-31T17:17:52Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Brianna Reeves",
+      "title": "Diablo 4 players slam microtransactions as “more expensive than OW2 skins” - Dexerto",
+      "description": "Diablo 4 players are already calling out the prices of microtransactions, which they say cost more than Overwatch 2 skins.",
+      "url": "https://www.dexerto.com/diablo/diablo-4-microtransactions-expensive-players-slam-blizzard-2162527/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/05/31/diablo-4-mtx.jpeg",
+      "publishedAt": "2023-05-31T17:12:19Z",
+      "content": "Diablo 4 players are already calling out the high prices of microtransactions, which they say cost more than Overwatch 2 skins.\r\nBlizzard Entertainment developers previously confirmed the new Diablo … [+1887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Amazon To Discontinue Alexa's Celebrity Voices Soon, Including Amitabh Bachchan's - NDTV",
+      "description": "Launched in 2019, the feature allowed users to set their favorite celebrity's voice as the voice of Alexa.",
+      "url": "https://www.ndtv.com/feature/amazon-to-discontinue-alexas-celebrity-voices-soon-including-amitabh-bachchans-4083519",
+      "urlToImage": "https://c.ndtvimg.com/2023-05/89fhc5fo_amitabh-bachchan_650x400_17_May_23.jpg",
+      "publishedAt": "2023-05-31T17:09:11Z",
+      "content": "It's not exactly clear why Amazon has decided to discontinue the feature.\r\nAmazon has confirmed the discontinuation of the celebrity voices features on its virtual assistant Alexa, as per a report by… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Sambit Pal",
+      "title": "PlayStation Plus June Monthly Games 2023: Release Date & List of Games Revealed - Sportskeeda",
+      "description": "According to official sources, PlayStation Plus will add three new Monthly Games for June 2023. This will also bring the revamped three-tiered service model for the subscription program into effect.",
+      "url": "https://www.sportskeeda.com/esports/playstation-plus-june-monthly-games-2023-release-date-list-games-revealed",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/05/777b7-16855517827380-1920.jpg",
+      "publishedAt": "2023-05-31T17:08:00Z",
+      "content": "According to official sources, PlayStation Plus will add three new Monthly Games for June 2023. This will also bring the revamped three-tiered service model for the subscription program into effect. … [+1974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI is pursuing a new way to fight A.I. 'hallucinations' - CNBC",
+      "description": "AI hallucinations occur when models like OpenAI's ChatGPT or Google's Bard fabricate information entirely.",
+      "url": "https://www.cnbc.com/2023/05/31/openai-is-pursuing-a-new-way-to-fight-ai-hallucinations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107236335-1683293583646-AP23124580482542.jpg?v=1685552484&w=1920&h=1080",
+      "publishedAt": "2023-05-31T17:01:24Z",
+      "content": "OpenAI is taking up the mantle against AI \"hallucinations,\" the company announced Wednesday, with a newer method for training artificial intelligence models.\r\nThe research comes at a time when misinf… [+5001 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "Asus swears that it has totally fixed the ROG Ally's battery life - The Verge",
+      "description": "The first Asus ROG Ally reviews came out a few weeks ago, and it was a bit of a mess. We talked to Asus marketing director Galip Fu about the lessons learned and how the system will change before it launches on June 13th.",
+      "url": "https://www.theverge.com/2023/5/31/23743656/asus-rog-ally-battery-life-launch-galip-fu-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AgMt2WXv1eAMNrrMmrQ7MputvS8=/438x187:1835x1175/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24648944/asus_rog_ally_vjeran_pavic_the_verge_003.jpg",
+      "publishedAt": "2023-05-31T16:50:33Z",
+      "content": "Asus swears that it has totally fixed the ROG Allys battery life\r\nAsus swears that it has totally fixed the ROG Allys battery life\r\n / Galip Fu, Asus director of consumer and gaming PC brands, wants … [+4976 chars]"
     }
   ]
 }
