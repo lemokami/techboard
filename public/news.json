@@ -1,45 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 393,
+  "totalResults": 377,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Sportskeeda"
       },
-      "author": "Ewan Spence",
-      "title": "Android Circuit: Samsung Galaxy Z Fold 5 Confirmed, Zenphone 10 Revealed, Pixel 8 Pro Leaks - Forbes",
-      "description": "This week’s Android headlines; Samsung, Galaxy Z Fold 5 confirmed, Pixel 8 Pro performance leaks, Nothing Phone (2) software changes, ZenPhone 10 details, and more...",
-      "url": "https://www.forbes.com/sites/ewanspence/2023/06/09/android-news-digest-samsung-galaxy-unpacked-pixel-8-nothing-phone-2-zenphone-10/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64835e0e95ba82c5b4620c65/0x0.jpg?format=jpg&crop=3944,2217,x276,y496,safe&width=1200",
-      "publishedAt": "2023-06-09T22:01:52Z",
-      "content": "Taking a look back at seven days of news and headlines across the world of Android, this weeks Android Circuit includes Samsungs Galaxy Unpacked details, Galaxy Z Fold 5 confirmed, Pixel 8 Pro perfor… [+6466 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Logan Plant",
-      "title": "Sonic Superstars Developers Explain Why They're Finally Abandoning Green Hill Zone - IGN",
-      "description": "In a new interview with IGN, Sonic Superstars' developers explained how they're fixing Sonic's Green Hill Zone problem in the new revival.",
-      "url": "https://www.ign.com/articles/sonic-superstars-developers-interview",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/08/sonicthumb-1686253410260.jpg?width=1280",
-      "publishedAt": "2023-06-09T21:44:48Z",
-      "content": "For the past few years, the Sonic franchise has had a Green Hill Zone problem. The opening level to 1991's original Sonic the Hedgehog is certainly iconic, but it seemed like the Blue Blur was return… [+4306 chars]"
+      "author": "Alan Sahbegovic",
+      "title": "Can Genshin Impact mods get you banned? Official guidelines and past instances - Sportskeeda",
+      "description": "Genshin Impact mods are against the official terms of service and can get a player banned for using them. Note that it doesn't mean 100% of modders will get caught.",
+      "url": "https://www.sportskeeda.com/esports/can-genshin-impact-mods-get-banned-official-guidelines-past-instances",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/843a9-16864268890495-1920.jpg",
+      "publishedAt": "2023-06-10T23:15:00Z",
+      "content": "Genshin Impact mods are against the official terms of service and can get a player banned for using them. Note that it doesn't mean 100% of modders will get caught. Instead, players should remember t… [+3048 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Robb Report"
+        "name": "XDA Developers"
       },
-      "author": "Justin Ray",
-      "title": "Scott Disick Bought a One-of-a-Kind Carbon-Fiber Rolls-Royce Cullinan for His 40th Birthday - Yahoo Life",
-      "description": "That's what we call treating yourself.",
-      "url": "https://robbreport.com/lifestyle/news/scott-disick-rolls-royce-cullinan-40th-birthday-1234854196/",
-      "urlToImage": "https://media.zenfs.com/en/robb_report_967/42527d1414f8d4f991a7fa47a8b449e5",
-      "publishedAt": "2023-06-09T21:37:22Z",
-      "content": "When you want something done right, do it yourself. That seems to be the ethos behind reality TV star Scott Disicks newest milestone gift.\r\nThe Keeping Up with the Kardashians regular and entrepreneu… [+1870 chars]"
+      "author": "Timi Cantisano",
+      "title": "Android 14 Beta 3's new feature could further extend battery life on Pixels - XDA Developers",
+      "description": "A new feature has been added to Battery Saver mode, potentially extending the life of Pixel devices.",
+      "url": "https://www.xda-developers.com/android-14-beta-3-battery-saver-mode/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/pixel-7a-xda-review-xda-3401091.jpg",
+      "publishedAt": "2023-06-10T21:43:00Z",
+      "content": "Every year, smartphones are getting better and better, but even the best Android phones still struggle to provide amazing battery life. While they've definitely gotten better, sometimes, you just nee… [+1834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Ollie Reynolds",
+      "title": "Hands On: Mortal Kombat 1's Stunning Presentation Has Us Anxious About The Switch Port - Nintendo Life",
+      "description": "Can this really hold up on Nintendo's platform?",
+      "url": "https://www.nintendolife.com/features/hands-on-mortal-kombat-1s-stunning-presentation-has-us-anxious-about-the-switch-port",
+      "urlToImage": "https://images.nintendolife.com/f231b0fd0c82d/1280x720.jpg",
+      "publishedAt": "2023-06-10T20:45:00Z",
+      "content": "Image: Warner Bros. Games\r\nAgainst all odds, Mortal Kombat 11 turned out pretty well on the Nintendo Switch. Like many ports from the PS4 and Xbox One, there was always a concern that Netherrealm Stu… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizchina.com"
+      },
+      "author": "Frederick Nyame",
+      "title": "Introducing the Revolutionary Upgrade: Nothing OS 2.0 for the Company's Smartphones - Gizchina.com",
+      "description": "Stay ahead of the game with the latest news on the upcoming release of Nothing OS 2.0 and Nothing Phone (2).",
+      "url": "https://www.gizchina.com/2023/06/10/introducing-the-revolutionary-upgrade-nothing-os-2-0-for-the-companys-smartphones/",
+      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/06/Nothing-Phone-OS-ftr-1200x588.jpg",
+      "publishedAt": "2023-06-10T20:13:22Z",
+      "content": "The Nothing phone (2) is set to launch next month, and there are already some details available about its features. For instance, sources have claimed that it will feature the Snapdragon 8+ Gen 1 chi… [+7106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Built Into the Genome of the Microbes – Scientists Uncover Over 30,000 “Hidden” Viruses - SciTechDaily",
+      "description": "Unveiled within the DNA of unicellular organisms lie thousands of enigmatic viruses. Researchers at the University of Innsbruck, utilizing the high-performance computing cluster known as \"Leo,\" have identified more than 30,000 new viruses embedded within the …",
+      "url": "https://scitechdaily.com/built-into-the-genome-of-the-microbes-scientists-uncover-over-30000-hidden-viruses/",
+      "urlToImage": "https://scitechdaily.com/images/Stowaways-in-the-Genome-scaled.jpg",
+      "publishedAt": "2023-06-10T19:50:57Z",
+      "content": "ByUniversity of InnsbruckJune 10, 2023\r\nThe scientists analysed several gigabyte of microbial DNA sequences. Credit: Fabian Oswald\r\nUnveiled within the DNA of unicellular organisms lie thousands of e… [+6072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Animesh Talukdar",
+      "title": "How does the wallet work in Warzone 2's DMZ? - Sportskeeda",
+      "description": "The fourth season of Call of Duty: Warzone 2 is almost around the corner, and fans are anticipating game-changing upgrades.",
+      "url": "https://www.sportskeeda.com/esports/how-wallet-work-warzone-2-s-dmz",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/abf26-16864234975613-1920.jpg",
+      "publishedAt": "2023-06-10T19:30:00Z",
+      "content": "The fourth season of Call of Duty: Warzone 2 is almost around the corner, and fans are anticipating game-changing upgrades. The upcoming update will alter the DMZ experience and provide several new e… [+2625 chars]"
     },
     {
       "source": {
@@ -47,103 +86,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Call of Duty: Modern Warfare 2 - Official Season 4 Multiplayer Trailer - IGN",
-      "description": "Call of Duty: Modern Warfare 2 and Warzone are ringing in a new season with Season 4 delivering new maps and weapons. Classic favorite map Showdown makes its...",
-      "url": "https://www.youtube.com/watch?v=oJZI8umvFtk",
-      "urlToImage": "https://i.ytimg.com/vi/oJZI8umvFtk/maxresdefault.jpg",
-      "publishedAt": "2023-06-09T20:39:56Z",
+      "title": "Sonic Superstars Gameplay | Summer Game Fest 2023 - GameSpot",
+      "description": "From the Sonic Team and developer Arzest comes a brand new 2D platforming Sonic game in Sonic Superstars.Sonic Superstars brings Sonic back to his 2D roots w...",
+      "url": "https://www.youtube.com/watch?v=glTHQgiwxCE",
+      "urlToImage": "https://i.ytimg.com/vi/glTHQgiwxCE/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T19:14:40Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Polygon",
-      "title": "Call of Duty removes Nickmercs skin after streamer’s anti-LGBTQ tweet - Polygon",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIzNzU1NjYxL2NhbGwtb2YtZHV0eS1uaWNrbWVyY3Mtc2tpbi1yZW1vdmVkLWFudGktbGdidHEtdHdlZXTSAWJodHRwczovL3d3dy5wb2x5Z29uLmNvbS9wbGF0Zm9ybS9hbXAvMjM3NTU2NjEvY2FsbC1vZi1kdXR5LW5pY2ttZXJjcy1za2luLXJlbW92ZWQtYW50aS1sZ2J0cS10d2VldA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-06-09T20:28:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Fans claim this popular energy drink is like Ozempic — but it only costs $5 - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA2LzA5L2NlbHNpdXMtZml0bmVzcy1kcmlua3MtYXJlLWxpa2Utb3plbXBpYy1mYW5zLXNheS1qdXN0LWNoZWFwZXIv0gFgaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjMvMDYvMDkvY2Vsc2l1cy1maXRuZXNzLWRyaW5rcy1hcmUtbGlrZS1vemVtcGljLWZhbnMtc2F5LWp1c3QtY2hlYXBlci9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-06-09T20:16:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "author": "Roger Montti",
-      "title": "Bing AI Voice Chat Comes to Desktop - Search Engine Journal",
-      "description": "Microsoft announces Bing Voice Chat on Desktop, offering AI voice chat and search on the desktop",
-      "url": "https://www.searchenginejournal.com/bing-ai-voice-chat-for-desktop/488901/",
-      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/06/bing-voice-chat-desktop-648375ec95f00-sej.jpg",
-      "publishedAt": "2023-06-09T19:01:31Z",
-      "content": "Bing announced an update to the Bing AI Chat that brings voice chat capabilities to the desktop search user interface. Voice interaction is two-way and is available in five languages.\r\nBing Chat is a… [+1594 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google Chrome's password manager adds biometric unlocking on desktop - The Verge",
-      "description": "Google Chrome’s password manager on desktop will now let you use your webcam or your fingerprint to verify your identity and autofill your passwords.",
-      "url": "https://www.theverge.com/2023/6/9/23755136/google-chrome-password-manager-biometric-unlocking-desktop",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/k-FkaEym-3yZH29NMsZcfmTUIzM=/0x0:1000x614/1200x628/filters:focal(500x307:501x308)/cdn.vox-cdn.com/uploads/chorus_asset/file/24713692/google_password_manager_biometric.jpg",
-      "publishedAt": "2023-06-09T18:45:12Z",
-      "content": "Google Chromes password manager adds biometric unlocking on desktop\r\nGoogle Chromes password manager adds biometric unlocking on desktop\r\n / Its also getting easier to import your passwords from anot… [+2287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Diablo 4 Players, Please, You're Not All 'Trash' - Kotaku",
-      "description": "Blizzard’s latest ARPG is currently filled with a lot of players calling themselves ‘Magic Trash’ but you're all better than that",
-      "url": "https://kotaku.com/diablo-iv-4-trash-rubbish-title-popular-nicknames-1850523771",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0fd4322722ae5a05a338e3d43ea8c9f9.jpg",
-      "publishedAt": "2023-06-09T18:25:00Z",
-      "content": "I met Rare Trash during the middle of (yet another) late-night session of Diablo IV. The large barbarian leaped into action to help me out during a random event involving demons attacking helpless tr… [+2434 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Polygon",
-      "title": "Tekken 8 Closed Network Test dates announced for PS5, Xbox, PC - Polygon",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIwMjMvNi85LzIzNzU1NTU0L3Rla2tlbi04LWNsb3NlZC1uZXR3b3JrLXRlc3QtZGF0ZXMtcHM1LXhib3gtc2VyaWVzLXgtcGPSAW5odHRwczovL3d3dy5wb2x5Z29uLmNvbS9wbGF0Zm9ybS9hbXAvMjAyMy82LzkvMjM3NTU1NTQvdGVra2VuLTgtY2xvc2VkLW5ldHdvcmstdGVzdC1kYXRlcy1wczUteGJveC1zZXJpZXMteC1wYw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-06-09T18:21:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ron Amadeo",
-      "title": "Google’s Bard AI can now write and execute code to answer a question - Ars Technica",
-      "description": "Google says having an LLM write code is akin to humans doing long division.",
-      "url": "https://arstechnica.com/google/2023/06/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg",
-      "publishedAt": "2023-06-09T18:07:39Z",
-      "content": "35 with \r\nLarge language models (LLMs) like ChatGPT and Google Bard can provide some decent answers to certain types of questions, but these computers are ironically pretty bad at computing stuff. Go… [+3090 chars]"
     },
     {
       "source": {
@@ -151,51 +99,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Essential Cooking Recipes for The Legend of Zelda: Tears of the Kingdom - IGN",
-      "description": "Here are four recipes that will help you on your way in The Legend of Zelda: Tears of the Kingdom and it’s all presented by Boar’s Head. The Legend of Zelda:...",
-      "url": "https://www.youtube.com/watch?v=GwxqsD0ITAo",
-      "urlToImage": "https://i.ytimg.com/vi/GwxqsD0ITAo/maxresdefault.jpg",
-      "publishedAt": "2023-06-09T18:00:06Z",
+      "title": "Luto - Official Trailer | Future Games Show 2023 - IGN",
+      "description": "Luto is a first-person psychological horror narrative game where players embody a person that is trapped in his own home. As players search for a way to esca...",
+      "url": "https://www.youtube.com/watch?v=NEoGoaC16zY",
+      "urlToImage": "https://i.ytimg.com/vi/NEoGoaC16zY/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T19:13:49Z",
       "content": null
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "Jagran.com"
       },
-      "author": "Samantha Murphy Kelly",
-      "title": "Mark Zuckerberg has thoughts on Apple’s new mixed reality headset - CNN",
-      "description": "Days after Apple unveiled its $3,499 mixed reality headset, Meta CEO Mark Zuckerberg appeared to take a jab at the company’s pricing and vision for the product.",
-      "url": "https://www.cnn.com/2023/06/09/tech/mark-zuckerberg-apple-vision-pro/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609121242-mark-zuckerberg-file-102519.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-06-09T18:00:00Z",
-      "content": "Days after Apple unveiled its $3,499 mixed reality headset, Meta CEO Mark Zuckerberg appeared to take a jab at the companys pricing and vision for the product. \r\nOur device is also about being active… [+3767 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "Blue Microphones branding is going away after 28 years - Ars Technica",
-      "description": "The Blue name was a hat tip to the co-founder's Latvian roots.",
-      "url": "https://arstechnica.com/gadgets/2023/06/blue-microphones-branding-is-going-away-after-28-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/blue-760x380.jpg",
-      "publishedAt": "2023-06-09T17:47:37Z",
-      "content": "20 with \r\nIf you were to search among tech review sites for a USB microphone recommendation, you'd almost definitely see a Blue product listed. Founded in 1995 and gaining consumer recognition with d… [+4341 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Mortal Kombat 1’s first gameplay had hidden details and roster reveals - Polygon",
-      "description": "NetherRealm’s gameplay reveal for Mortal Kombat 1 reveals its roster size, new stages, fun character details, and much more. Here are some hidden details.",
-      "url": "https://www.polygon.com/23755383/mortal-kombat-1-gameplay-trailer-breakdown-kameo-fighters",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aEv1sEQunH7dBX3O0NMbqRKOK3o=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24714098/Mortal_Kombat_1_Kitana___Kenshi_6.8.jpg",
-      "publishedAt": "2023-06-09T17:30:00Z",
-      "content": "NetherRealm Studios showed off the first gameplay from Mortal Kombat 1 on Thursday at Summer Game Fest, revealing more of its roster, teases of a story, and our first look at a new feature called Kam… [+3848 chars]"
+      "author": "Vikas Yadav",
+      "title": "OnePlus Fold And Nord 3 Precise Launch Timeline Leaked; Full Details Here - Jagran English",
+      "description": "OnePlus Nord 3 will likely be a rebranded version of the OnePlus Ace 2V Secondly the OnePlus Fold could be a rehashed OPPO Find N3",
+      "url": "https://english.jagran.com/technology/oneplus-nord-3-price-oneplus-fold-launch-date-in-india-specifications-folding-phone-leaks-latest-updates-10082092",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/jun/oneplus-nord-3-5g-fold-launch-date1686425436077.jpg",
+      "publishedAt": "2023-06-10T19:01:00Z",
+      "content": "JE Technology Desk: Oneplus, a Chinese smartphone maker, is reportedly planning to launch the highly-anticipated OnePlus Fold and OnePlus Nord 3 5G smartphone in the upcoming months. While several le… [+1917 chars]"
     },
     {
       "source": {
@@ -203,25 +125,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "This is why Noctua Fans & Coolers are So Good! - Hardware Canucks",
-      "description": "The new 2nd Gen Noctua D15 is coming along with an advanced 140mm high airflow fan but maybe not in 2023.  In this video we interview the head Noctua guru Ja...",
-      "url": "https://www.youtube.com/watch?v=BAJAJ3KKfRA",
-      "urlToImage": "https://i.ytimg.com/vi/BAJAJ3KKfRA/maxresdefault.jpg",
-      "publishedAt": "2023-06-09T17:09:41Z",
+      "title": "Mineko's Night Market - The Night Market Trailer - Nintendo Switch - Nintendo of America",
+      "description": "Mineko’s Night Market is releasing for Nintendo Switch on September 26, 2023! Wishlist today: https://www.nintendo.com/store/products/minekos-night-market-sw...",
+      "url": "https://www.youtube.com/watch?v=wvN3h76eXiA",
+      "urlToImage": "https://i.ytimg.com/vi/wvN3h76eXiA/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T19:00:31Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Feed",
-      "title": "Mortal Kombat 1 gameplay trailer is out. Watch video, check release date - The Economic Times",
-      "description": "Mortal Kombat 1 gameplay trailer has been released. The video game will be out on Nintendo Switch, Xbox Series X|S, PS5, and PC in September",
-      "url": "https://economictimes.indiatimes.com/news/international/us/mortal-kombat-1-gameplay-trailer-is-out-watch-video-check-release-date/articleshow/100883238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-100883262,width-1070,height-580,imgsize-2101746,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-06-09T17:02:00Z",
-      "content": "Mortal Kombat 1 gameplay trailer is out now. The makers of the iconic video game has showcased the trailer during Summer Game fest. Mortal Kombat 1 gameplay will be released on Nintendo Switch, Xbox … [+1115 chars]"
     },
     {
       "source": {
@@ -229,38 +138,129 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Shadows of the Damned: Remastered - Official Announcement Trailer - IGN",
-      "description": "Check out the reveal for Shadows of the Damned: Remaster, coming from Suda51 and the Grasshopper Manufacture team. Shadows of the Damned: Remastered is an up...",
-      "url": "https://www.youtube.com/watch?v=OEd7DAwJIFE",
-      "urlToImage": "https://i.ytimg.com/vi/OEd7DAwJIFE/maxresdefault.jpg",
-      "publishedAt": "2023-06-09T17:00:13Z",
+      "title": "Cookie Cutter - Official Gameplay Trailer | Future Games Show 2023 - IGN",
+      "description": "Take a fresh look at gameplay from Cookie Cutter in this latest brutal trailer for the upcoming 2D Metroidvania game, where you play as a revenge-seeking and...",
+      "url": "https://www.youtube.com/watch?v=4sKfLxUgX-I",
+      "urlToImage": "https://i.ytimg.com/vi/4sKfLxUgX-I/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T18:53:24Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Dexerto"
+        "name": "Gematsu"
       },
-      "author": "Michael Gwilliam",
-      "title": "Dr Disrespect uninstalls CoD and demands apology to NICKMERCS for removing skin - Dexerto",
-      "description": "Dr Disrespect responded by Call of Duty's decision to remove NICKMERCS' operator skin by uninstalling the game and demanding they apologize.",
-      "url": "https://www.dexerto.com/call-of-duty/dr-disrespect-uninstalls-cod-and-demands-apology-to-nickmercs-for-removing-skin-2172371/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2022/08/09/Dr-Disrespect-Dead-Silence.jpg",
-      "publishedAt": "2023-06-09T16:59:01Z",
-      "content": "Dr Disrespect has sided with NICKMERCS over Call of Dutys decision to remove his operator skin due to the FaZe co-owners controversial comments.\r\nActivision shocked the internet on June 9 by removing… [+2080 chars]"
+      "author": "Sal Romano",
+      "title": "'Swashbuckler action game' En Garde! announced for PC - Gematsu",
+      "description": "Fireplace Games has announced “swashbuckler action game” En Garde! for PC. It will launch via Steam in August. A demo is available now.",
+      "url": "https://www.gematsu.com/2023/06/swashbuckler-action-game-en-garde-announced-for-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/06/En-Garden-Ann_06-10-23.jpg",
+      "publishedAt": "2023-06-10T18:29:03Z",
+      "content": "Fireplace Games has announced “swashbuckler action game” En Garde! for PC. It will launch via Steam in August. A demo is available now. \r\nEn Garde! began as a student project back in 2018. The recept… [+2262 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "YouTube"
       },
-      "author": "Nathan Birch",
-      "title": "Assassin’s Creed Mirage Shows Off Classic Parkour, Improved Sealth, New Enemy Types, More - Wccftech",
-      "description": "Assassin's Creed Mirage shows off surprisingly promising-looking parkour and stealth in a new deep dive dev video.",
-      "url": "https://wccftech.com/assassins-creed-mirage-deep-dive-parkour-better-stealth-new-enemies/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/09/WCCFassassinscreedmirage1.jpg",
-      "publishedAt": "2023-06-09T16:58:00Z",
-      "content": "A couple weeks ago during the big PlayStation Showcase, we got our first look at Assassins Creed Mirage in action, and the reaction was somewhat mixed. While many were excited about its back-to-basic… [+2634 chars]"
+      "author": null,
+      "title": "Pacific Drive - Official Game Overview | Future Games Show 2023 - IGN",
+      "description": "Join members of the development team at Ironwood Studios and creative director Alexander Dracott of Pacific Drive for a behind-the-scenes look at the upcomin...",
+      "url": "https://www.youtube.com/watch?v=mJ77BEGxpqk",
+      "urlToImage": "https://i.ytimg.com/vi/mJ77BEGxpqk/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T18:21:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Highly Stylised Racing RPG Resistor Looks Like a PS5 Winner - Push Square",
+      "description": "Inspired by Burnout, SSX, WipEout, and more",
+      "url": "https://www.pushsquare.com/news/2023/06/highly-stylised-racing-rpg-resistor-looks-like-a-ps5-winner",
+      "urlToImage": "https://images.pushsquare.com/11a99fcb5fea3/1280x720.jpg",
+      "publishedAt": "2023-06-10T18:15:00Z",
+      "content": "Subscribe to Push Square on YouTube\r\nThere arent anywhere near enough racing RPGs, but Resistor looks set to fill the void on PS5 in the future. While theres no release date just yet, the release has… [+784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "https://www.india.com/author/ians/",
+      "title": "WhatsApp Rolling Out New Interface For Group Settings Screen On iOS - India.com",
+      "description": "Along with a redesigned group setting screen, the company is adding a new 'Add Other Participants' option that allows group administrators to choose who can add new members to the group.",
+      "url": "https://www.india.com/technology/whatsapp-rolling-out-new-interface-for-group-settings-screen-on-ios-6103101/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2019/07/WhatsApp-logo-photo-805px.jpg",
+      "publishedAt": "2023-06-10T18:12:43Z",
+      "content": "Along with a redesigned group setting screen, the company is adding a new 'Add Other Participants' option that allows group administrators to choose who can add new members to the group.\r\nGroup admin… [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Upcoming Xbox Game Pass platformer cooks up new trailer - TrueAchievements",
+      "description": "Upcoming Xbox Game Pass addition Magical Delicacy just dropped a new trailer during Wholesome Direct; pretty fitting, given that it's a \"wholesome pixel art platformer.\"",
+      "url": "https://www.trueachievements.com/n54072/magical-delicacy-game-pass",
+      "urlToImage": "https://www.trueachievements.com/imgs/139841/magical-delicacy-game-pass.jpg",
+      "publishedAt": "2023-06-10T18:11:34Z",
+      "content": "Use the button below to let us know if you are subscribed to Xbox Game Pass. \r\nWhile subscribed, new games which are added to the service will be automatically added to your collection if you don't a… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NewsBytes"
+      },
+      "author": "Zoya Zaidi",
+      "title": "Xiaomi Pad 6 is launching in India - NewsBytes",
+      "description": "Xiaomi's Pad 6 set to launch June 13. Already available in China, it could be a solid alternative to OnePlus Pad if priced competitively. Here's how it'll compare.",
+      "url": "https://www.newsbytesapp.com/visualstories/science/xiaomi-pad-6-is-launching-in-india",
+      "urlToImage": "https://i.cdn.newsbytesapp.com/web/story168605201933853.jpg?tr=w-360",
+      "publishedAt": "2023-06-10T18:11:27Z",
+      "content": "Xiaomi Pad 6 is launching in India"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Madison VR - Official Announcement Trailer | Future Games Show 2023 - IGN",
+      "description": "Madison VR is a survival horror VR game that utilizes an instant camera in your virtual hands that bridges the gap between our world and the unknown. Snap ph...",
+      "url": "https://www.youtube.com/watch?v=NdYieWXJVpc",
+      "urlToImage": "https://i.ytimg.com/vi/NdYieWXJVpc/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T18:02:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Smushi Come Home - Launch Trailer - Nintendo Switch - Nintendo of America",
+      "description": "Smushi Come Home is available now on Nintendo Switch!Play as a tiny mushroom who's lost in the forest and can't find its way home. Explore unique areas freel...",
+      "url": "https://www.youtube.com/watch?v=8gu5aAjtOOs",
+      "urlToImage": "https://i.ytimg.com/vi/8gu5aAjtOOs/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T18:00:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Layers of Fear - Official Cinematic Story Trailer | Future Games Show 2023 - IGN",
+      "description": "Watch the latest chilling cinematic trailer for Layers of Fear to learn more about the story of The Writer, and get a peek at the unsettling and creepy light...",
+      "url": "https://www.youtube.com/watch?v=82NMQnZp7xs",
+      "urlToImage": "https://i.ytimg.com/vi/82NMQnZp7xs/maxresdefault.jpg",
+      "publishedAt": "2023-06-10T17:48:28Z",
+      "content": null
     }
   ]
 }
