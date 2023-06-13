@@ -1,84 +1,188 @@
 {
   "status": "ok",
-  "totalResults": 377,
+  "totalResults": 404,
   "articles": [
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Xbox Games Showcase 2023: Everything Announced - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMveGJveC1nYW1lcy1zaG93Y2FzZS0yMDIzLWV2ZXJ5dGhpbmctYW5ub3VuY2Vk0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-06-11T23:48:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Sand - Official Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Get a peek at the world of Sand in this reveal trailer for the upcoming multiplayer sandbox shooter from Hologryph, developers of Secret Neighbor. Sand, whic...",
+      "url": "https://www.youtube.com/watch?v=8uwQHfTRzZA",
+      "urlToImage": "https://i.ytimg.com/vi/8uwQHfTRzZA/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T23:12:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Breathedge 2 - Official Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Breathedge 2 is an outer space survival game that continues the story of the original game. Humanity will now face intergalactic problems in a more sandbox a...",
+      "url": "https://www.youtube.com/watch?v=jNFEZbVacVY",
+      "urlToImage": "https://i.ytimg.com/vi/jNFEZbVacVY/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T22:30:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Fortune's Run - Official Early Access Release Date Trailer | PC Gaming Show 2023 - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiCy1yRXpXS0hPcDZBmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-06-11T22:25:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Undead Inc. - Official Announcement Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Watch the announcement trailer for Undead Inc., an upcoming high-risk, high-reward resource management simulator where you establish and manage a local subsi...",
+      "url": "https://www.youtube.com/watch?v=BfQRmPkvJ3w",
+      "urlToImage": "https://i.ytimg.com/vi/BfQRmPkvJ3w/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T22:00:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Chimera - Official Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Chimera is a sci-fi first-person co-op shooter combining base building, exploration, combat, and resource management. Set on an alien planet, the environment...",
+      "url": "https://www.youtube.com/watch?v=sPZORcnF548",
+      "urlToImage": "https://i.ytimg.com/vi/sPZORcnF548/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T22:00:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Invincible - Official Yasna Story Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Learn about Yasna, her motivations, and more in this story trailer for The Invincible, an upcoming narrative-focused hard sci-fi adventure game coming to PC,...",
+      "url": "https://www.youtube.com/watch?v=ZlEWpYPPxPs",
+      "urlToImage": "https://i.ytimg.com/vi/ZlEWpYPPxPs/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T22:00:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Charles Harte",
+      "title": "Vampire Survivors 1.5 Update Announced, Out Tomorrow - Game Informer",
+      "description": "Do vampire updates need to ask permission before entering your computer?",
+      "url": "https://www.gameinformer.com/2023/06/11/vampire-survivors-15-update-announced-out-tomorrow",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/06/11/4b8896d7/vampire_survivors_-_1.5_update_trailer_screenshot.png",
+      "publishedAt": "2023-06-11T22:00:00Z",
+      "content": "Vampire Survivors just can't seem to die, but it's unclear whether that's due to its attentive development team or the immortal nature of vampires. Whatever the case, developer Poncle put out a new t… [+833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Citizen Sleeper 2 Starward Vector - Official Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Citizen Sleeper 2 Starward Vector is a sci-fi narrative RPG game where players embody an escaped android, with a malfunctioning body, a price on your head, a...",
+      "url": "https://www.youtube.com/watch?v=KWRITiVZOJI",
+      "urlToImage": "https://i.ytimg.com/vi/KWRITiVZOJI/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T21:50:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Mariachi Legends - Official Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Check out the reveal trailer for Mariachi Legends to see the characters and more from this upcoming action-packed mystery Metroidvania from Mexico-based deve...",
+      "url": "https://www.youtube.com/watch?v=8-pvnXiyojs",
+      "urlToImage": "https://i.ytimg.com/vi/8-pvnXiyojs/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T21:47:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ewan Spence",
+      "title": "Forget The New MacBook Pro, Apple Has Something Much Better - Forbes",
+      "description": "The new MacBook Air may not have changed much, but it's more than enough for the vast majority of consumers to forget about the MacBook Pro.",
+      "url": "https://www.forbes.com/sites/ewanspence/2023/06/11/apple-macbook-air-m2-15-inch-macbook-pro-wwdc-specs-release-price/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/648494c39310479072750fc7/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-06-11T21:45:00Z",
+      "content": "Updated June 11th: article originally posted June 10th.\r\nAs expected, Apple released a new MacBook Air at its Worldwide Developer Conference this month. As expected, it is the first consumer-focused … [+3992 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Alan Sahbegovic",
-      "title": "Can Genshin Impact mods get you banned? Official guidelines and past instances - Sportskeeda",
-      "description": "Genshin Impact mods are against the official terms of service and can get a player banned for using them. Note that it doesn't mean 100% of modders will get caught.",
-      "url": "https://www.sportskeeda.com/esports/can-genshin-impact-mods-get-banned-official-guidelines-past-instances",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/843a9-16864268890495-1920.jpg",
-      "publishedAt": "2023-06-10T23:15:00Z",
-      "content": "Genshin Impact mods are against the official terms of service and can get a player banned for using them. Note that it doesn't mean 100% of modders will get caught. Instead, players should remember t… [+3048 chars]"
+      "author": "Rohit Singh Jaswal",
+      "title": "Best Royal Match tips and tricks to complete every puzzle easily - Sportskeeda",
+      "description": "Royal Match is a largely popular puzzle game. The title boasts over 50 million downloads on the Google Play Store and has an impressive 4.6-star rating.",
+      "url": "https://www.sportskeeda.com/esports/best-royal-match-tips-tricks-complete-every-puzzle-easily",
+      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/dbf42-16861494832149-1920.jpg",
+      "publishedAt": "2023-06-11T21:26:00Z",
+      "content": "Royal Match is a largely popular puzzle game. The title boasts over 50 million downloads on the Google Play Store and has an impressive 4.6-star rating. It offers immersive puzzle gameplay with numer… [+2090 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "XDA Developers"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Timi Cantisano",
-      "title": "Android 14 Beta 3's new feature could further extend battery life on Pixels - XDA Developers",
-      "description": "A new feature has been added to Battery Saver mode, potentially extending the life of Pixel devices.",
-      "url": "https://www.xda-developers.com/android-14-beta-3-battery-saver-mode/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/pixel-7a-xda-review-xda-3401091.jpg",
-      "publishedAt": "2023-06-10T21:43:00Z",
-      "content": "Every year, smartphones are getting better and better, but even the best Android phones still struggle to provide amazing battery life. While they've definitely gotten better, sometimes, you just nee… [+1834 chars]"
+      "author": "Kyle Orland",
+      "title": "Microsoft announces new $350, 1 TB Carbon Black Xbox Series S - Ars Technica",
+      "description": "\"Carbon Black\" edition will launch worldwide on September 1.",
+      "url": "https://arstechnica.com/gaming/2023/06/microsoft-announces-new-350-1-tb-xbox-series-s/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Family-Duo-Console-Post-1920-x-1080_01-760x380.png",
+      "publishedAt": "2023-06-11T21:23:07Z",
+      "content": "Enlarge/ The \"Carbon Black\" Series S, seen alongside the original console.\r\n42 with \r\nAs much as we like the Xbox Series S as a cheap but powerful all-digital entry point into the Xbox console ecosys… [+1651 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ollie Reynolds",
-      "title": "Hands On: Mortal Kombat 1's Stunning Presentation Has Us Anxious About The Switch Port - Nintendo Life",
-      "description": "Can this really hold up on Nintendo's platform?",
-      "url": "https://www.nintendolife.com/features/hands-on-mortal-kombat-1s-stunning-presentation-has-us-anxious-about-the-switch-port",
-      "urlToImage": "https://images.nintendolife.com/f231b0fd0c82d/1280x720.jpg",
-      "publishedAt": "2023-06-10T20:45:00Z",
-      "content": "Image: Warner Bros. Games\r\nAgainst all odds, Mortal Kombat 11 turned out pretty well on the Nintendo Switch. Like many ports from the PS4 and Xbox One, there was always a concern that Netherrealm Stu… [+4367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizchina.com"
-      },
-      "author": "Frederick Nyame",
-      "title": "Introducing the Revolutionary Upgrade: Nothing OS 2.0 for the Company's Smartphones - Gizchina.com",
-      "description": "Stay ahead of the game with the latest news on the upcoming release of Nothing OS 2.0 and Nothing Phone (2).",
-      "url": "https://www.gizchina.com/2023/06/10/introducing-the-revolutionary-upgrade-nothing-os-2-0-for-the-companys-smartphones/",
-      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/06/Nothing-Phone-OS-ftr-1200x588.jpg",
-      "publishedAt": "2023-06-10T20:13:22Z",
-      "content": "The Nothing phone (2) is set to launch next month, and there are already some details available about its features. For instance, sources have claimed that it will feature the Snapdragon 8+ Gen 1 chi… [+7106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Built Into the Genome of the Microbes – Scientists Uncover Over 30,000 “Hidden” Viruses - SciTechDaily",
-      "description": "Unveiled within the DNA of unicellular organisms lie thousands of enigmatic viruses. Researchers at the University of Innsbruck, utilizing the high-performance computing cluster known as \"Leo,\" have identified more than 30,000 new viruses embedded within the …",
-      "url": "https://scitechdaily.com/built-into-the-genome-of-the-microbes-scientists-uncover-over-30000-hidden-viruses/",
-      "urlToImage": "https://scitechdaily.com/images/Stowaways-in-the-Genome-scaled.jpg",
-      "publishedAt": "2023-06-10T19:50:57Z",
-      "content": "ByUniversity of InnsbruckJune 10, 2023\r\nThe scientists analysed several gigabyte of microbial DNA sequences. Credit: Fabian Oswald\r\nUnveiled within the DNA of unicellular organisms lie thousands of e… [+6072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Animesh Talukdar",
-      "title": "How does the wallet work in Warzone 2's DMZ? - Sportskeeda",
-      "description": "The fourth season of Call of Duty: Warzone 2 is almost around the corner, and fans are anticipating game-changing upgrades.",
-      "url": "https://www.sportskeeda.com/esports/how-wallet-work-warzone-2-s-dmz",
-      "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/abf26-16864234975613-1920.jpg",
-      "publishedAt": "2023-06-10T19:30:00Z",
-      "content": "The fourth season of Call of Duty: Warzone 2 is almost around the corner, and fans are anticipating game-changing upgrades. The upcoming update will alter the DMZ experience and provide several new e… [+2625 chars]"
+      "author": "Tom Warren",
+      "title": "Microsoft is bringing PC Game Pass to Nvidia's GeForce Now service - The Verge",
+      "description": "Microsoft is bringing PC Game Pass to GeForce Now. Nvidia’s rival streaming service will get access to select titles from PC Game Pass in the coming months.",
+      "url": "https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DqERRyX0Xo2CPaA6jCZJMHoW3bk=/0x0:2048x1024/1200x628/filters:focal(1024x512:1025x513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24665619/GFN_Thursday_GeForce_NOW_Microsoft.jpg",
+      "publishedAt": "2023-06-11T21:19:25Z",
+      "content": "Microsoft is bringing PC Game Pass to Nvidias GeForce Now service\r\nMicrosoft is bringing PC Game Pass to Nvidias GeForce Now service\r\n / Youll be able to play Xbox PC games on Nvidias GeForce Now str… [+2413 chars]"
     },
     {
       "source": {
@@ -86,11 +190,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Sonic Superstars Gameplay | Summer Game Fest 2023 - GameSpot",
-      "description": "From the Sonic Team and developer Arzest comes a brand new 2D platforming Sonic game in Sonic Superstars.Sonic Superstars brings Sonic back to his 2D roots w...",
-      "url": "https://www.youtube.com/watch?v=glTHQgiwxCE",
-      "urlToImage": "https://i.ytimg.com/vi/glTHQgiwxCE/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T19:14:40Z",
+      "title": "Cyberpunk 2077: Phantom Liberty - Official Trailer | Xbox Games Showcase 2023 - IGN",
+      "description": "Keanu Reeves introduces the official trailer for the upcoming Cyberpunk 2077 expansion from CD Projekt Red. Visit Dogtown, rescue the president, and fight fo...",
+      "url": "https://www.youtube.com/watch?v=it7cRnw_V3c",
+      "urlToImage": "https://i.ytimg.com/vi/it7cRnw_V3c/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T20:51:14Z",
       "content": null
     },
     {
@@ -99,37 +203,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Luto - Official Trailer | Future Games Show 2023 - IGN",
-      "description": "Luto is a first-person psychological horror narrative game where players embody a person that is trapped in his own home. As players search for a way to esca...",
-      "url": "https://www.youtube.com/watch?v=NEoGoaC16zY",
-      "urlToImage": "https://i.ytimg.com/vi/NEoGoaC16zY/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T19:13:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jagran.com"
-      },
-      "author": "Vikas Yadav",
-      "title": "OnePlus Fold And Nord 3 Precise Launch Timeline Leaked; Full Details Here - Jagran English",
-      "description": "OnePlus Nord 3 will likely be a rebranded version of the OnePlus Ace 2V Secondly the OnePlus Fold could be a rehashed OPPO Find N3",
-      "url": "https://english.jagran.com/technology/oneplus-nord-3-price-oneplus-fold-launch-date-in-india-specifications-folding-phone-leaks-latest-updates-10082092",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/jun/oneplus-nord-3-5g-fold-launch-date1686425436077.jpg",
-      "publishedAt": "2023-06-10T19:01:00Z",
-      "content": "JE Technology Desk: Oneplus, a Chinese smartphone maker, is reportedly planning to launch the highly-anticipated OnePlus Fold and OnePlus Nord 3 5G smartphone in the upcoming months. While several le… [+1917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Mineko's Night Market - The Night Market Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Mineko’s Night Market is releasing for Nintendo Switch on September 26, 2023! Wishlist today: https://www.nintendo.com/store/products/minekos-night-market-sw...",
-      "url": "https://www.youtube.com/watch?v=wvN3h76eXiA",
-      "urlToImage": "https://i.ytimg.com/vi/wvN3h76eXiA/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T19:00:31Z",
+      "title": "Jumplight Odyssey - Official Combat Reveal Trailer | PC Gaming Show 2023 - IGN",
+      "description": "Take a look at combat in this latest trailer for Jumplight Odyssey, an upcoming roguelite colony sim game inspired by genre staples and classic ‘70s sci-fi a...",
+      "url": "https://www.youtube.com/watch?v=2Xx-fZtIB20",
+      "urlToImage": "https://i.ytimg.com/vi/2Xx-fZtIB20/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T20:31:53Z",
       "content": null
     },
     {
@@ -138,128 +216,50 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Cookie Cutter - Official Gameplay Trailer | Future Games Show 2023 - IGN",
-      "description": "Take a fresh look at gameplay from Cookie Cutter in this latest brutal trailer for the upcoming 2D Metroidvania game, where you play as a revenge-seeking and...",
-      "url": "https://www.youtube.com/watch?v=4sKfLxUgX-I",
-      "urlToImage": "https://i.ytimg.com/vi/4sKfLxUgX-I/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T18:53:24Z",
+      "title": "Frostpunk 2 Official Cinematic Trailer - GameSpot",
+      "description": "Thirty years have passed since the vicious storm that concluded the first chapter of humankind's survival story in Frostpunk. The City, settled around the Ge...",
+      "url": "https://www.youtube.com/watch?v=uDBwO2rRPG4",
+      "urlToImage": "https://i.ytimg.com/vi/uDBwO2rRPG4/maxresdefault.jpg",
+      "publishedAt": "2023-06-11T20:21:15Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Gematsu"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Sal Romano",
-      "title": "'Swashbuckler action game' En Garde! announced for PC - Gematsu",
-      "description": "Fireplace Games has announced “swashbuckler action game” En Garde! for PC. It will launch via Steam in August. A demo is available now.",
-      "url": "https://www.gematsu.com/2023/06/swashbuckler-action-game-en-garde-announced-for-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/06/En-Garden-Ann_06-10-23.jpg",
-      "publishedAt": "2023-06-10T18:29:03Z",
-      "content": "Fireplace Games has announced “swashbuckler action game” En Garde! for PC. It will launch via Steam in August. A demo is available now. \r\nEn Garde! began as a student project back in 2018. The recept… [+2262 chars]"
+      "author": "The Feed",
+      "title": "Xbox Games Showcase 2023: Here’s everything you may want to know - The Economic Times",
+      "description": "Microsoft has an exciting lineup of events scheduled for June 11. They conducted two separate showcases, one dedicated to showcasing Xbox games and the other specifically highlighting their highly anticipated sci-fi RPG Starfield, developed by Bethesda. Starf…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/xbox-games-showcase-2023-heres-everything-you-may-want-to-know/articleshow/100921409.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-100921456,width-1070,height-580,imgsize-58954,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-06-11T20:13:00Z",
+      "content": "The Xbox Games Showcase 2023 presented a plethora of games, offering insights into what we can anticipate on Xbox Series X|S, Xbox Game Pass, and PC in the coming months and beyond. Highlights includ… [+5281 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Thetechoutlook.com"
       },
-      "author": null,
-      "title": "Pacific Drive - Official Game Overview | Future Games Show 2023 - IGN",
-      "description": "Join members of the development team at Ironwood Studios and creative director Alexander Dracott of Pacific Drive for a behind-the-scenes look at the upcomin...",
-      "url": "https://www.youtube.com/watch?v=mJ77BEGxpqk",
-      "urlToImage": "https://i.ytimg.com/vi/mJ77BEGxpqk/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T18:21:29Z",
-      "content": null
+      "author": "Sushant Singh",
+      "title": "Motorola launched Motorola Moto G53j/G53y 5G phone, get to know about it's specs and price here - The Tech Outlook",
+      "description": "Motorola has launched two new 5G smartphones in Japan: Motorola G53j and Motorola G53y. If we talk about the Motorola G53y it's nothing but a Y! Mobile network variant of the G53j. Let's take you through the specifications, features, and prices of bo",
+      "url": "https://www.thetechoutlook.com/news/new-release/gadgets-release/mobile/motorola-launched-motorola-moto-g53j-g53y-5g-phone-get-to-know-about-its-specs-and-price-here/",
+      "urlToImage": "https://www.thetechoutlook.com/wp-content/uploads/2023/06/Moto-G53J.jpg",
+      "publishedAt": "2023-06-11T20:07:52Z",
+      "content": "Motorola has launched two new 5G smartphones in Japan: Motorola G53j and Motorola G53y. If we talk about the Motorola G53y it’s nothing but a Y! Mobile network variant of the G53j. Let’s take you thr… [+1293 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Push Square"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Sammy Barker",
-      "title": "Highly Stylised Racing RPG Resistor Looks Like a PS5 Winner - Push Square",
-      "description": "Inspired by Burnout, SSX, WipEout, and more",
-      "url": "https://www.pushsquare.com/news/2023/06/highly-stylised-racing-rpg-resistor-looks-like-a-ps5-winner",
-      "urlToImage": "https://images.pushsquare.com/11a99fcb5fea3/1280x720.jpg",
-      "publishedAt": "2023-06-10T18:15:00Z",
-      "content": "Subscribe to Push Square on YouTube\r\nThere arent anywhere near enough racing RPGs, but Resistor looks set to fill the void on PS5 in the future. While theres no release date just yet, the release has… [+784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/ians/",
-      "title": "WhatsApp Rolling Out New Interface For Group Settings Screen On iOS - India.com",
-      "description": "Along with a redesigned group setting screen, the company is adding a new 'Add Other Participants' option that allows group administrators to choose who can add new members to the group.",
-      "url": "https://www.india.com/technology/whatsapp-rolling-out-new-interface-for-group-settings-screen-on-ios-6103101/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2019/07/WhatsApp-logo-photo-805px.jpg",
-      "publishedAt": "2023-06-10T18:12:43Z",
-      "content": "Along with a redesigned group setting screen, the company is adding a new 'Add Other Participants' option that allows group administrators to choose who can add new members to the group.\r\nGroup admin… [+1574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Upcoming Xbox Game Pass platformer cooks up new trailer - TrueAchievements",
-      "description": "Upcoming Xbox Game Pass addition Magical Delicacy just dropped a new trailer during Wholesome Direct; pretty fitting, given that it's a \"wholesome pixel art platformer.\"",
-      "url": "https://www.trueachievements.com/n54072/magical-delicacy-game-pass",
-      "urlToImage": "https://www.trueachievements.com/imgs/139841/magical-delicacy-game-pass.jpg",
-      "publishedAt": "2023-06-10T18:11:34Z",
-      "content": "Use the button below to let us know if you are subscribed to Xbox Game Pass. \r\nWhile subscribed, new games which are added to the service will be automatically added to your collection if you don't a… [+317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NewsBytes"
-      },
-      "author": "Zoya Zaidi",
-      "title": "Xiaomi Pad 6 is launching in India - NewsBytes",
-      "description": "Xiaomi's Pad 6 set to launch June 13. Already available in China, it could be a solid alternative to OnePlus Pad if priced competitively. Here's how it'll compare.",
-      "url": "https://www.newsbytesapp.com/visualstories/science/xiaomi-pad-6-is-launching-in-india",
-      "urlToImage": "https://i.cdn.newsbytesapp.com/web/story168605201933853.jpg?tr=w-360",
-      "publishedAt": "2023-06-10T18:11:27Z",
-      "content": "Xiaomi Pad 6 is launching in India"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Madison VR - Official Announcement Trailer | Future Games Show 2023 - IGN",
-      "description": "Madison VR is a survival horror VR game that utilizes an instant camera in your virtual hands that bridges the gap between our world and the unknown. Snap ph...",
-      "url": "https://www.youtube.com/watch?v=NdYieWXJVpc",
-      "urlToImage": "https://i.ytimg.com/vi/NdYieWXJVpc/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T18:02:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Smushi Come Home - Launch Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Smushi Come Home is available now on Nintendo Switch!Play as a tiny mushroom who's lost in the forest and can't find its way home. Explore unique areas freel...",
-      "url": "https://www.youtube.com/watch?v=8gu5aAjtOOs",
-      "urlToImage": "https://i.ytimg.com/vi/8gu5aAjtOOs/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T18:00:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Layers of Fear - Official Cinematic Story Trailer | Future Games Show 2023 - IGN",
-      "description": "Watch the latest chilling cinematic trailer for Layers of Fear to learn more about the story of The Writer, and get a peek at the unsettling and creepy light...",
-      "url": "https://www.youtube.com/watch?v=82NMQnZp7xs",
-      "urlToImage": "https://i.ytimg.com/vi/82NMQnZp7xs/maxresdefault.jpg",
-      "publishedAt": "2023-06-10T17:48:28Z",
+      "author": "The Verge",
+      "title": "Watch 45 minutes of new Starfield gameplay - The Verge",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMzc1NTA3Mi9zdGFyZmllbGQtdHJhaWxlci1nYW1lcGxheS14Ym94LWdhbWVzLXNob3djYXNlLTIwMjPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-06-11T19:16:57Z",
       "content": null
     }
   ]
