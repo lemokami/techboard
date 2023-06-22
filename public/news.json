@@ -1,58 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 353,
+  "totalResults": 362,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Nintendo's Upcoming Party Game Everybody 1-2-Switch! Showcases \"100 Players At Once\" - Nintendo Life",
+      "description": "And introduces Horace the horse",
+      "url": "https://www.nintendolife.com/news/2023/06/nintendos-upcoming-party-game-everybody-1-2-switch-showcases-100-players-at-once",
+      "urlToImage": "https://images.nintendolife.com/96b9ff6c83fcc/1280x720.jpg",
+      "publishedAt": "2023-06-20T23:45:00Z",
+      "content": "Subscribe to Nintendo Life on YouTube\r\nIn case you missed it, Nintendo is releasing Everybody 1-2-Switch! later this month on 30th June. It's a follow-up to the 2017 party game and launch title, 1-2-… [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Fortnite's New Nike Characters Are Made Out Of…Hmm - Kotaku",
+      "description": "A character seemingly made of strange white liquid joins Luke Skywalker, Ariana Grande, and Peely in Epic's shooter.",
+      "url": "https://kotaku.com/nike-fortnite-update-new-characters-crossover-event-1850558259",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8852411a969d59b8c70882c44d73af0.jpg",
+      "publishedAt": "2023-06-20T23:30:00Z",
+      "content": "Fortnite, Epics free-to-play online battle royale, is one of the biggest games in the world and contains some of the most famous characters in pop culture, including Spider-Man, Batman, Obi-Wan Kenob… [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Cody Lee",
+      "title": "Samsung Galaxy S23 lineup sees steep instant discounts at Best Buy and Amazon - Android Police",
+      "description": "Get up to $200 off instantly, no strings attached",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s23-ultra-s23-s23-discount/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/samsung-galaxy-s23-ultra-review-set-2-09.jpg",
+      "publishedAt": "2023-06-20T22:52:00Z",
+      "content": "With Amazon Prime Day quickly approaching, retailers have started ramping up their sales in an effort to capture some of the hype in this newly-formed shopping season. For instance, right now, you ca… [+3672 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Matt Wales",
-      "title": "A few promising places to start as Steam Next Fest returns with \"hundreds\" of demos - Eurogamer.net",
-      "description": "Steam Next Fest, Valve's semi-regular celebration of gaming things to come, is back for another week of developer chats…",
-      "url": "https://www.eurogamer.net/a-few-promising-places-to-start-as-steam-next-fest-returns-with-hundreds-of-demos",
-      "urlToImage": "https://assetsio.reedpopcdn.com/steam-next-fest-june-2023.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-06-19T20:01:26Z",
-      "content": "Steam Next Fest, Valve's semi-regular celebration of gaming things to come, is back for another week of developer chats, livestreams, and an intimidating stack of \"hundreds\" of demos likely to thwart… [+5812 chars]"
+      "title": "EA Games becomes EA Entertainment, splits from EA Sports in restructuring - Eurogamer.net",
+      "description": "EA has announced a major internal shakeup that'll see it split into two separate organisations: EA Sports and EA Games,…",
+      "url": "https://www.eurogamer.net/ea-games-becomes-ea-entertainment-splits-from-ea-sports-in-major-restructuring",
+      "urlToImage": "https://assetsio.reedpopcdn.com/ea-logo_tMgccMU.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-06-20T22:22:27Z",
+      "content": "EA has announced a major internal shakeup that'll see it split into two separate organisations: EA Sports and EA Games, the latter now renamed EA Entertainment.\r\nWriting on EA's website, CEO Andrew W… [+1770 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCGamesN"
+        "name": "Themessenger.com"
       },
-      "author": "Anna Koselke",
-      "title": "Baldur's Gate 3 gets a free murder mystery prequel - PCGamesN",
-      "description": "Blood in Baldur's Gate is a surprise prequel to Baldur's Gate 3, it challenges the community to solve a grisly murder mystery, and it's totally free.",
-      "url": "https://www.pcgamesn.com/baldurs-gate-3/blood-in-baldurs-gate",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/06/baldurs-gate-3-prequel.jpg",
-      "publishedAt": "2023-06-19T19:46:50Z",
-      "content": "Baldur’s Gate 3 is one of this year’s most exciting RPG games. From its story-rich premise to its party-based Dungeons &amp; Dragons roleplaying, there’s nothing that quite appeals to us RPG stans li… [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "GameRant",
-      "title": "Leaker Teases 2 Massive Reveals for Rumored Nintendo Direct This Week - GameRant",
+      "author": "Bruce Golding",
+      "title": "Trademark Case Pits Apple Against Actual Fruit Growers - The Messenger",
       "description": null,
-      "url": "https://gamerant.com/nintendo-direct-june-2023-leaks-news-mario/",
-      "urlToImage": null,
-      "publishedAt": "2023-06-19T19:41:00Z",
-      "content": null
+      "url": "https://themessenger.com/news/apple-trademark-case-pits-company-against-actual-fruit-growers",
+      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2023/06/apple-logo-lawsuit-852081606.jpg",
+      "publishedAt": "2023-06-20T22:05:00Z",
+      "content": "Apple's effort to trademark an image of its namesake fruit has Swiss farmers fearful that the tech giant wants to sink its teeth into their logo.\r\nThe Swiss Fruit Union which represents itself with a… [+1828 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Android Police"
       },
-      "author": "Deirdre O'Donnell",
-      "title": "OnePlus Nord 3: Next-gen premium mid-range Android smartphone launch teased in new community post - Notebookcheck.net",
-      "description": "OnePlus has dropped the strongest hints yet as to the launch date of its upcoming third-gen Nord-series flagship smartphone. The OEM has also indicated that the device is not coming to the North American market in 2023; however, for some lucky online communit…",
-      "url": "https://www.notebookcheck.net/OnePlus-Nord-3-Next-gen-premium-mid-range-Android-smartphone-launch-teased-in-new-community-post.726854.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/1356846436813111302.jpg",
-      "publishedAt": "2023-06-19T19:40:10Z",
-      "content": "OnePlus has announced that \"the Next Nord\" is the subject of its latest crowd-sourced product-testing program. Therefore, the mid-range line's next flagship might be up for grabs for a handful of luc… [+895 chars]"
+      "author": "Chandraveer Mathur",
+      "title": "WhatsApp picks up a new trick to keep track of attached media files - Android Police",
+      "description": "Numbered thumbnails you didn’t realize you were missing",
+      "url": "https://www.androidpolice.com/whatsapp-media-picker-numbered-thumbs-beta/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/whatsapp-generic-ap-hero.jpg",
+      "publishedAt": "2023-06-20T21:44:00Z",
+      "content": "With every category of apps and products, we come to expect a set of basic features, and such is the case with instant messaging utilities like WhatsApp as well. Although WhatsApp has been around for… [+1763 chars]"
     },
     {
       "source": {
@@ -60,207 +86,181 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Why Starfield is 30fps on Xbox #starfield #gaming #xbox #pcgaming #skyrim #shorts - IGN",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=h4On9TTUOt0",
-      "urlToImage": "https://i.ytimg.com/vi/h4On9TTUOt0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEowDw==&rs=AOn4CLCG-_FTAXMk4_bVIc_jIWFjgc8kMQ",
-      "publishedAt": "2023-06-19T19:38:00Z",
+      "title": "Giant Bombcast 794: Default Milk - Giant Bomb",
+      "description": "We're back and fully rested up from Summer Game Fest! We chat about a bunch of demos from Steam Next Fest, the Final Fantasy XVI demo, a bunch of news, and y...",
+      "url": "https://www.youtube.com/watch?v=4bnUU3Kplng",
+      "urlToImage": "https://i.ytimg.com/vi/4bnUU3Kplng/maxresdefault.jpg",
+      "publishedAt": "2023-06-20T21:42:09Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CharlieINTEL.com"
-      },
-      "author": "Luca Di Marzo",
-      "title": "Modern Warfare 3 leak reveals first look at classic maps - CharlieINTEL.com",
-      "description": "Call of Duty's 2023 title is rumored to be Modern Warfare 3, and the first leaked images have revealed the return of some classic maps.",
-      "url": "https://www.charlieintel.com/call-of-duty-2023/modern-warfare-3-leak-reveals-first-look-at-classic-maps-257757/",
-      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2023/06/19/Modern-Warfare-3-classic-maps-leak-images.jpg",
-      "publishedAt": "2023-06-19T19:35:50Z",
-      "content": "Modern Warfare 3 is rumored to be the next Call of Duty title set to arrive in 2023. When it comes to MW3, little is known, but leaks have now revealed images of iconic maps that could be set to feat… [+2525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "Dalton Cooper",
-      "title": "Square Enix Re-Releases Switch Exclusive Game With Big Change - GameRant",
-      "description": "With no prior announcement, Square Enix re-releases a Nintendo Switch exclusive game and makes a big change in the process.",
-      "url": "https://gamerant.com/chocobo-gp-delisted-microtransactions/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/nintendo-switch-square-enix.jpg",
-      "publishedAt": "2023-06-19T19:20:00Z",
-      "content": "Japanese gaming giant Square Enix has re-released Final Fantasy spin-off game and Nintendo Switch exclusive Chocobo GP, but as a full-priced, premium game without any of the microtransactions that we… [+2498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Jasjeev Gandhiok",
-      "title": "Delhi Metro’s QR-based e-tickets to be launched by month-end - Hindustan Times",
-      "description": "Delhi Metro Rail Corporation is set to launch its QR code-based ticket system, allowing commuters to use their mobile phones to enter and exit stations. Trials are currently underway, with the technology expected to be launched by the end of June. The Delhi M…",
-      "url": "https://www.hindustantimes.com/cities/delhi-news/dmrc-to-launch-qr-code-based-ticket-system-for-delhi-metro-commuters-using-mobile-phones-by-end-of-june-101687200018995.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/06/19/1600x900/A-Metro-official-said-that-the-Delhi-Metro-Rail-ap_1687200013618.jpg",
-      "publishedAt": "2023-06-19T18:40:18Z",
-      "content": "The Delhi Metro Rail Corporation (DMRC) is in the final stages to roll out its QR (Quick Response) code-based ticket system which will allow commuters to enter and exit Metro stations using only thei… [+2572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samaaenglish.tv"
-      },
-      "author": "Samaa Web Desk",
-      "title": "Game-changer: Bing Chat widget now on iPhone! - SAMAA English",
-      "description": "It enables users to initiate chat immediately",
-      "url": "https://www.samaaenglish.tv",
-      "urlToImage": "https://i.samaaenglish.tv/large/2023/06/192335239a47377.jpg?r=233543",
-      "publishedAt": "2023-06-19T18:35:43Z",
-      "content": "iPhone users now have official access to Bing Chat directly from their home screen, thanks to the latest updates from Microsoft. One of the notable additions is an iOS Bing Chat widget, extending the… [+938 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Ro",
-      "title": "Here's a list of Samsung Galaxy devices eligible for Android 14 + One UI 6.0 - GSMArena.com",
-      "description": "Going by Samsung's own update policy, we have a preliminary list of eligible devices. Samsung has yet to kickstart its One UI 6.0 beta program, which is...",
-      "url": "https://www.gsmarena.com/heres_a_list_of_samsung_galaxy_devices_eligible_for_android_14__one_ui_60-news-58900.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/08/samsung-one-ui-5-beta-starts-rollout/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-06-19T18:22:01Z",
-      "content": "Samsung has yet to kickstart its One UI 6.0 beta program, which is expected to start in July in the third quarter this year, but SamMobile compieled a list of Galaxy devices that are eligible for the… [+1002 chars]"
+      "author": "Vlad",
+      "title": "More Samsung Galaxy Watch6 specs leak - GSMArena.com",
+      "description": "Battery sizes, colors, memory and storage. Yesterday a source shared alleged pricing information for Samsung's Galaxy Watch6 family, and today another...",
+      "url": "https://www.gsmarena.com/more_samsung_galaxy_watch6_specs_leak-news-58916.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/06/galaxy-watch6-more-specs/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-06-20T21:22:49Z",
+      "content": "Yesterday a source shared alleged pricing information for Samsung's Galaxy Watch6 family, and today another tipster on Twitter has some more details about the smartwatches - and these have seemingly … [+1778 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "'Final Fantasy XVI' Reinvents the Franchise for the PS5 - Bloomberg",
+      "description": "The company has kept its marquee franchise relevant by giving developers unusual leverage to change its formula. Don’t worry, there are still chocobos.",
+      "url": "https://www.bloomberg.com/news/articles/2023-06-20/-final-fantasy-xvi-reinvents-the-franchise-for-the-ps5",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuxbiI4pGGqs/v0/1200x630.jpg",
+      "publishedAt": "2023-06-20T21:00:03Z",
+      "content": "In early June, Square Enix Vice President Naoki Yoshida traveled from Tokyo to Los Angeles for a fan festival, where a crowd of Final Fantasy enthusiasts gave him the rock-star treatment before the J… [+1007 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Gizmodo.com"
       },
-      "author": "Tom Ivan",
-      "title": "Geoff Keighley acknowledges Summer Game Fest diversity criticism - Video Games Chronicle",
-      "description": "This month’s showcase featured no women on stage…",
-      "url": "https://www.videogameschronicle.com/news/geoff-keighley-acknowledges-summer-game-fest-diversity-criticism/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/06/summer-game-fest-2023-showcase.jpg",
-      "publishedAt": "2023-06-19T18:02:33Z",
-      "content": "Geoff Keighley has responded to criticism regarding a lack of representation at this months Summer Game Fest showcase.\r\nFeaturing world premieres, live gameplay demos and announcements, the high-prof… [+1470 chars]"
+      "author": "Nikki Main",
+      "title": "WhatsApp Releases 'Silence Unknown Callers' Feature to Take Down Spammers - Gizmodo",
+      "description": "\"Silence Unknown Callers\" stops unknown calls from ringing on WhatsApp, instead redirecting the call and displaying the number in the user’s call list.",
+      "url": "https://gizmodo.com/whatsapp-silence-unknown-callers-feature-released-1850557432",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/743f6df60a3bbc702b8874af65fb68c2.jpg",
+      "publishedAt": "2023-06-20T20:53:00Z",
+      "content": "WhatsApp introduced a new automatic call-silencing feature intent on targeting potential spam calls this week. The feature, plainly dubbed silence unknown callers in the WhatsApp settings menu, is br… [+2642 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "EU wants “readily removable” batteries in devices soon—but what does that mean? - Ars Technica",
+      "description": "Should you have to melt glue? Which tools do you need? What about pricing?",
+      "url": "https://arstechnica.com/gadgets/2023/06/eu-wants-readily-removable-batteries-in-devices-soon-but-what-does-that-mean/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/fairphone_repair-760x380.jpg",
+      "publishedAt": "2023-06-20T20:52:11Z",
+      "content": "Enlarge/ Very few modern smartphones can be considered to have a \"readily removable\" battery, but the Fairphone 4 is one of them.\r\n67 with \r\nWhenever regulation passes that seems to herald the dawn o… [+3402 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Tesla hacker discovers secret “Elon Mode” for hands-free Full Self-Driving - The Verge",
+      "description": "Tesla software hacker @greentheonly has found an “Elon Mode” driving feature that allows Full Self-Driving to work without requiring that the driver’s hands be on the steering wheel.",
+      "url": "https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t8JXWGmLwgbzKzcAXuPWFtWozCA=/0x0:4032x2688/1200x628/filters:focal(2016x1344:2017x1345)/cdn.vox-cdn.com/uploads/chorus_asset/file/24738998/IMG_1082.jpeg",
+      "publishedAt": "2023-06-20T20:44:20Z",
+      "content": "Tesla hacker discovers secret Elon Mode for hands-free Full Self-Driving\r\nTesla hacker discovers secret Elon Mode for hands-free Full Self-Driving\r\n / A Tesla software hacker has found an Elon Mode d… [+3628 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Kat Bailey",
+      "title": "EA Sports and EA Games Splitting Apart in Internal Shakeup - IGN",
+      "description": "EA announced that EA Games will be renamed EA Entertainment in a move that splits it and EA Sports into two separate organizations encompassing many of EA's major studios.",
+      "url": "https://www.ign.com/articles/ea-sports-and-ea-games-splitting-apart-in-internal-shakeup",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/20/ea-blogroll-logos-1687291298897.jpg?width=1280",
+      "publishedAt": "2023-06-20T20:11:56Z",
+      "content": "Electronic Arts is undergoing a major internal shakeup, announcing today in a message from CEO Andrew Wilson that it is realigning its major studios and its leadership structure in an effort to \"empo… [+3894 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Nintendo Direct June 2023: How to Watch and What to Expect - IGN",
+      "description": "Nintendo has announced that a brand-new, roughly 40-minute Nintendo Direct will be arriving on June 21 and this guide will provide you with everything you need to know.",
+      "url": "https://www.ign.com/articles/nintendo-direct-june-2023-how-to-watch-and-what-to-expect",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/20/pik-1687279644842.png?width=1280",
+      "publishedAt": "2023-06-20T20:00:31Z",
+      "content": "The last few weeks have been filled to the brim with exciting summer gaming showcases, and now Nintendo has thrown its Mario-shaped hat into the ring as it has announced a brand-new Nintendo Direct w… [+4082 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
+        "name": "Android Police"
       },
-      "author": "Tom Henderson",
-      "title": "EXCLUSIVE - Bungie's 'Marathon' Gameplay Loop, Features, Progression, And More - Insider Gaming",
-      "description": "Insider Gaming exclusively reports some early details on Bungie's new Marathon game, including its gameplay loop, features, and more.",
-      "url": "https://insider-gaming.com/marathon-early-details/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/05/2-PlayStation-Showcase-2023-_-ENGLISH-YouTube-—-Mozilla-Firefox-24_05_2023-21_55_46.png",
-      "publishedAt": "2023-06-19T18:02:14Z",
-      "content": "Late last year, Insider Gaming exclusively reported early details on Bungie’s new Marathon game and now we’ve reapproached our sources to get more in-depth details.\r\nIf you’re unaware, Bungie’s next … [+3312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Aliens: Dark Descent Review - IGN",
-      "description": "Aliens: Dark Descent reviewed on PC by Leana Hafer. Also available on PlayStation and Xbox.If not for the technical issues, this would be easily one of the b...",
-      "url": "https://www.youtube.com/watch?v=fBwj3MzTWDs",
-      "urlToImage": "https://i.ytimg.com/vi/fBwj3MzTWDs/maxresdefault.jpg",
-      "publishedAt": "2023-06-19T18:00:16Z",
-      "content": null
+      "author": "Swarna Karmakar",
+      "title": "Samsung Galaxy Buds 2 Pro vs. Samsung Galaxy Buds 2: Is it worth the upgrade? - Android Police",
+      "description": "Go for the pro or stick with the midrange?",
+      "url": "https://www.androidpolice.com/samsung-galaxy-buds-2-pro-vs-samsung-galaxy-buds-2/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/Samsung-Galaxy-Buds2-Pro-1659660229-0-0.jpg",
+      "publishedAt": "2023-06-20T20:00:00Z",
+      "content": "<ul><li> Samsung Galaxy Buds 2 Pro \r\nExcellent sound quality, ANC performance, and a modern design underline the Samsung Galaxy Buds 2 Pro's profile. They are great for outdoor or commute usage, whil… [+11954 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The Telegraph",
-      "title": "'It's a decision no mother should have to make – but I knew it was time to let my daughter die' - The Telegraph",
+      "author": "Eurogamer.net",
+      "title": "Microsoft's next indie-focused ID@Xbox Showcase scheduled for July - Eurogamer.net",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mYW1pbHkvbGlmZS9iYmMtYmVzdC1pbnRlcmVzdHMtbW90aGVyLWRlY2lzaW9uLWRhdWdodGVyLWRpZS_SAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV1cm9nYW1lci5uZXQvbWljcm9zb2Z0cy1uZXh0LWluZGllLWZvY3VzZWQtaWR4Ym94LXNob3djYXNlLXNjaGVkdWxlZC1mb3ItanVsedIBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-06-19T18:00:00Z",
+      "publishedAt": "2023-06-20T19:39:04Z",
       "content": null
     },
     {
       "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ryan Gilliam",
+      "title": "A Destiny cutscene finally explains the Witness and The Veil - Polygon",
+      "description": "After nearly a decade of questions, Bungie is finally giving Destiny 2 players answers. The latest Destiny cutscene, which debuts during the week 5 “Into the Depths” quest, explains The Traveler, The Veil, and The Witness",
+      "url": "https://www.polygon.com/23767367/veil-traveler-gardener-winnower-witness-explained-cutscene-destiny-2",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AUPEFZGqkHKzl1jOqYaowMzYRaw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24738992/Destiny_2__Lightfall___WITNESS_ORIGINS_CUTSCENE___3_28_screenshot.png",
+      "publishedAt": "2023-06-20T19:26:59Z",
+      "content": "The Destiny franchise has had some long-running mysteries since its birth nearly nine years ago, and Destiny 2 has only deepened them since it released. So its a tad surprising that, after years of o… [+4233 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Valve Ditching Battle Passes Since Most Players 'Never Buy' One - Kotaku",
+      "description": "Future content updates for Dota 2 won’t be designed around the game’s yearly battle pass",
+      "url": "https://kotaku.com/dota-2-csgo-moba-pc-gaming-battle-pass-frontiers-valve-1850556830",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bc5392a3b58bcb5bb6988d6c14fad361.jpg",
+      "publishedAt": "2023-06-20T19:10:00Z",
+      "content": "Valvethe company behind Half-Life, Counter-Strike, and digital game store juggernaut Steamhas revealed its future plans for its popular free-to-play MOBA,Dota 2. And those plans, surprisingly, dont i… [+4051 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Apple’s self-service repairs no longer require a call to Apple when you’re done - Ars Technica",
+      "description": "System Config tool handles post-repair processes that trip up third-party kits.",
+      "url": "https://arstechnica.com/gadgets/2023/06/apples-self-service-repairs-no-longer-require-a-call-to-apple-when-youre-done/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Apple_Right-to-repair_Hero-760x380.jpg",
+      "publishedAt": "2023-06-20T19:05:11Z",
+      "content": "Enlarge/ An iPhone undergoes repairs.\r\n33 with \r\nApple launched its Self Service Repair program in the spring of 2022, giving owners of some iPhones and Macs access to the same parts and repair manua… [+2021 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
       },
       "author": null,
-      "title": "Assassin's Creed Mirage: Deluxe Edition Trailer | PS4, PS5 - PlayStation Universe",
-      "description": "Discover the Assassin's Creed Mirage Deluxe Edition, coming October 12, 2023.Deluxe Edition includes:• The Prince of Persia-inspired Deluxe Pack with:       ...",
-      "url": "https://www.youtube.com/watch?v=88oUZ7G9cyc",
-      "urlToImage": "https://i.ytimg.com/vi/88oUZ7G9cyc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSg6MA8=&rs=AOn4CLCFn70riAIqZbfMaEdr7sN9Qv5lSw",
-      "publishedAt": "2023-06-19T17:54:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "Apple Watch alerts 29-year-old Cincinnati woman to blood clot in lungs while sleeping - 9to5Mac",
-      "description": "A 29-year-old Cincinnati woman named Kimmie Watkins is crediting her Apple Watch for saving her life after it helped doctors...",
-      "url": "https://9to5mac.com/2023/06/19/apple-watch-blood-clot-sleeping/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/check-heart-health-apple-watch-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-06-19T17:53:00Z",
-      "content": "A 29-year-old Cincinnati woman named Kimmie Watkins is crediting her Apple Watch for saving her life after it helped doctors discover a life-threatening blood clot in her lungs.\r\nPaige Barnes at WKRC… [+1416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "My Nintendo News"
-      },
-      "author": "Sickr",
-      "title": "Leaker claims Nintendo Direct will feature new 2D Mario and remake of a SNES game - My Nintendo News",
-      "description": "A Twitter user who correctly leaked Sonic Superstars and Everybody 1-2 Switch before they were officially announced has stated that a Nintendo Direct will air this week. The event will apparently…",
-      "url": "https://mynintendonews.com/2023/06/19/leaker-claims-nintendo-direct-will-feature-new-2d-mario-and-remake-of-a-snes-game/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2018/01/super_mario_run_character_artwork.png?fit=2048%2C876&ssl=1",
-      "publishedAt": "2023-06-19T17:31:56Z",
-      "content": "No the sky is the limit for a new 2d multiplayer mario game, there are many ideas and worlds settings weren’t in New mario series also I wish it have a new art style."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Kurt Knutsson, CyberGuy Report",
-      "title": "10 ways tech can make your vacation a whole lot better - Fox News",
-      "description": "With summer travel plans already in the works, Kurt \"Cyberguy\" Knutsson highlights his top tips to make your trip is as tech and travel-friendly as possible.",
-      "url": "https://www.foxnews.com/tech/10-ways-tech-make-vacation-whole-lot-better",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/1-PAY-ONLINE.jpg",
-      "publishedAt": "2023-06-19T17:28:00Z",
-      "content": "Planning your next vacation? There are a few important tech steps you don't want to overlook if you want a stress-free time away. Trust me, neglecting these precautions and forgetting about crucial t… [+13432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Jim Norman",
-      "title": "Zelda: TOTK Players Discover Simple Way To Make Rupees With 'Frozen Meat Glitch' - Nintendo Life",
-      "description": "Looks like meat's back on the menu, boys!",
-      "url": "https://www.nintendolife.com/news/2023/06/zelda-totk-players-discover-simple-way-to-make-rupees-with-frozen-meat-glitch",
-      "urlToImage": "https://images.nintendolife.com/b4ce16d6d5d8e/1280x720.jpg",
-      "publishedAt": "2023-06-19T17:15:00Z",
-      "content": "Image: Nintendo Life\r\nIn the month since its launch, players have found a variety of different glitches in The Legend of Zelda: Tears of the Kingdom to make filling up the inventory that bit easier. … [+2969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "ComicBook.com",
-      "title": "Chrono Trigger Remake Rumored to Be in Development for Nintendo Switch - ComicBook.com",
-      "description": null,
-      "url": "https://comicbook.com/gaming/news/chrono-trigger-remake-switch-rumor/",
-      "urlToImage": null,
-      "publishedAt": "2023-06-19T17:13:00Z",
-      "content": null
+      "title": "Spotify Desktop app gets a new look and upgraded library features | Engadget - Engadget",
+      "description": "Spotify has updated the desktop app with plenty of visual improvements and new features, like a “now playing” view that gives you immediate access to merchandise and tour dates.",
+      "url": "https://www.engadget.com/spotify-desktop-app-gets-a-new-look-and-upgraded-library-features-184540624.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3uvjADVNyTCjV6ch5_grkA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/516fe1c0-0f93-11ee-badf-efc65d8cf30e.cf.jpg",
+      "publishedAt": "2023-06-20T18:51:35Z",
+      "content": "Spotify has really let its desktop app go in recent years, throwing most of its resources at the mobile apps and certain vaccine-hating podcasters. However, the desktop side of things just received a… [+1911 chars]"
     }
   ]
 }
