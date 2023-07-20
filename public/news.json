@@ -1,123 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 382,
+  "totalResults": 346,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "TMZ"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "TMZ Staff",
-      "title": "Bill Gates Not Engaged to Girlfriend Paula Hurd Despite Photos Wearing Ring - TMZ",
-      "description": "Just when it looked like Bill Gates was about to join Jeff Bezos in the Recently Engaged Billionaires Club -- we've learned it just ain't happening ... at least not yet.",
-      "url": "https://www.tmz.com/2023/07/17/bill-gates-not-engaged-girlfriend-photos-wearing-ring/",
-      "urlToImage": "https://imagez.tmz.com/image/0d/16by9/2023/07/17/0d371c2894844fb186195b8bc9548b52_xl.png",
-      "publishedAt": "2023-07-17T23:39:00Z",
-      "content": "Just when it looked like Bill Gates was about to join Jeff Bezos in the Recently Engaged Billionaires Club -- we've learned it just ain't happening ... at least not yet.\r\nThe Microsoft founder and hi… [+1143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Dakota 'DarkHorse' Hills",
-      "title": "Rashid character guide released for Street Fighter 6 - EventHubs",
-      "description": "Somehow, we're already just a week out from the launch of Street Fighter 6's first DLC character, and now we can get a better sense of just what the heck he can do now.Capcom just released the ...",
-      "url": "https://www.eventhubs.com/news/2023/jul/17/rashid-character-guide-sf6/",
-      "urlToImage": "https://media.eventhubs.com/images/2023/07/17-rashid-character-guide-sf6t.webp",
-      "publishedAt": "2023-07-17T23:06:33Z",
-      "content": "Somehow, we're already just a week out from the launch of Street Fighter 6's first DLC character, and now we can get a better sense of just what the heck he can do now.\r\nCapcom just released the offi… [+3511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "Critical ColdFusion flaws exploited in attacks to drop webshells - BleepingComputer",
-      "description": "Hackers are actively exploiting two ColdFusion vulnerabilities to bypass authentication and remotely execute commands to install webshells on vulnerable servers.",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-coldfusion-flaws-exploited-in-attacks-to-drop-webshells/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2020/10/20/Adobe.jpg",
-      "publishedAt": "2023-07-17T22:53:53Z",
-      "content": "Update 7/17/23: The article was updated due to a mistaken warning added by Adobe to its email notification. However, a newer version of the bug was seen by Rapid7 to be actively exploited.\r\nHackers a… [+4815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Android Police",
-      "title": "The Galaxy Watch 6 Classic could be Samsung's largest smartwatch yet - Android Police",
+      "author": "Fox Business",
+      "title": "Apple iPhone from 2007 sold at auction for over $190,000 - Fox Business",
       "description": null,
-      "url": "https://www.androidpolice.com/samsung-galaxy-watch-6-classic-largest-smartwatch-yet/",
+      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvYXBwbGUtaXBob25lLTIwMDctc29sZC1hdWN0aW9uLW92ZXItMTkwMDAw0gFUaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2xpZmVzdHlsZS9hcHBsZS1pcGhvbmUtMjAwNy1zb2xkLWF1Y3Rpb24tb3Zlci0xOTAwMDAuYW1w?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-07-17T22:28:00Z",
+      "publishedAt": "2023-07-18T21:13:23Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Fox Business"
       },
-      "author": "Alyssa Mercante",
-      "title": "Xbox Head Phil Spencer Is Probably Playing Starfield Right Now - Kotaku",
-      "description": "With the Activision deal essentially settled, Spencer can focus on Todd Howard’s 1,000 planets",
-      "url": "https://kotaku.com/phil-spencer-xbox-starfield-release-date-game-pass-1850649261",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/35c1550bab40b0dc6d34478206217ad7.jpg",
-      "publishedAt": "2023-07-17T21:33:00Z",
-      "content": "Starfield isnt out until September 6, but Xbox head Phil Spencer already appears to be playing the massive spacefaring RPG.\r\nRead More: Starfields Most Expensive Version Has A Fancy Space Watch\r\nThe … [+2011 chars]"
+      "author": "Eric Revell",
+      "title": "Apple iPhone from 2007 sold at auction for over $190000 - Fox Business",
+      "description": "A rare 4GB Apple iPhone from 2007 still in its original factory packing and never used sold for a record-setting $190,372 at auction on Sunday after bidding started at $10,000.",
+      "url": "https://www.foxbusiness.com/lifestyle/apple-iphone-2007-sold-auction-over-190000",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/07/0/0/001f7e4e-1000.jpeg?ve=1&tl=1",
+      "publishedAt": "2023-07-18T21:13:23Z",
+      "content": "An unused first-generation Apple iPhone\r\n from 2007 sold at auction for $190,372 on Sunday — a record amount for an iPhone that’s more than 300 times its original retail price.\r\nThe first edition iPh… [+2619 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Exploited 0-days, an incomplete fix, and a botched disclosure: Infosec snafu reigns - Ars Technica",
+      "description": "The exploited code-execution flaws are the kind coveted by ransomware and nation-state hackers.",
+      "url": "https://arstechnica.com/security/2023/07/vulnerabilities-in-adobe-coldfusion-and-citrix-netscaler-are-under-active-exploitation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg",
+      "publishedAt": "2023-07-18T20:22:57Z",
+      "content": "6 with \r\nOrganizations big and small are once again scrambling to patch critical vulnerabilities that are already under active exploitation and cause the kind of breaches coveted by ransomware actors… [+3947 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Variety"
       },
-      "author": "Tom Ivan",
-      "title": "Microsoft and UK regulator given extra time to resolve Activision deal issues - Video Games Chronicle",
-      "description": "Competition tribunal grants two-month pause of appeal over merger block…",
-      "url": "https://www.videogameschronicle.com/news/microsoft-and-uk-regulator-given-extra-time-to-resolve-activision-deal-issues/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2022/10/Trigger_Discipline_achievement_image_CoDMW.jpg",
-      "publishedAt": "2023-07-17T21:26:46Z",
-      "content": "Microsoft, Activision Blizzard and the UKs Competition and Markets Authority (CMA) have formally been granted additional time to resolve their dispute over the game companies anticipated merger.\r\nIn … [+1624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Robb Report"
-      },
-      "author": "Bryan Hood",
-      "title": "McLaren’s $4 Million Solus GT Just Won the Goodwood Festival of Speed Timed Shootout - Robb Report",
-      "description": "The McLaren Solus GT just provided a wonderful defense of its seven-figure price tag. The British marque’s latest ridiculous hypercar claimed victory at the Goodwood Festival of Speed Timed Shootou…",
-      "url": "https://robbreport.com/motors/cars/mclaren-solus-gt-wins-2024-goodwood-festival-of-speed-timed-shootout-1234869238/",
-      "urlToImage": "https://robbreport.com/wp-content/uploads/2023/07/solusgtgw.jpg?w=681&h=383&crop=1",
-      "publishedAt": "2023-07-17T20:30:00Z",
-      "content": "The McLaren Solus GT just provided a wonderful defense of its seven-figure price tag.\r\nThe British marque’s latest ridiculous hypercar claimed victory at the Goodwood Festival of Speed Timed Shootout… [+2308 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "New leak reiterates Google Pixel 8 Pro specs - GSMArena.com news - GSMArena.com",
-      "description": "We're still months away from its unveiling, and there's nothing we don't already know about it. If Google sticks to its usual schedule, and so far we've...",
-      "url": "https://www.gsmarena.com/new_leak_reiterates_google_pixel_8_pro_specs-news-59232.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/07/google-pixel-8-pro-specs-leak/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-07-17T19:59:01Z",
-      "content": "If Google sticks to its usual schedule, and so far we've seen no indication it plans not to, then the Pixel 8 and Pixel 8 Pro should be getting official at a special event taking place in California … [+1673 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Tears of the Kingdom Player Makes a Vehicle Powered By Frozen Meat - IGN",
-      "description": "We've seen plenty of cool Zonai-powered vehicles in The Legend of Zelda: Tears of the Kingdom, and we've even seen incredible devices run with electricity. But what about a vehicle powered by... meat?",
-      "url": "https://www.ign.com/articles/tears-of-the-kingdom-player-makes-a-vehicle-powered-by-frozen-meat",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/19/thelegendofzeldatearsofthekingdomperformancereview-36190303-zeldaperformance-blogroll-1684522520951.jpg?width=1280",
-      "publishedAt": "2023-07-17T19:24:25Z",
-      "content": "We've seen plenty of cool Zonai-powered vehicles in The Legend of Zelda: Tears of the Kingdom, and we've even seen incredible devices run with electricity. But what about a vehicle powered by...meat?… [+2548 chars]"
+      "author": "Todd Spangler",
+      "title": "Supreme Court Rejects Last-Minute Bid to Block Microsoft’s Activision Blizzard Takeover - Variety",
+      "description": "The Supreme Court rejected an 11th-hour bid to stop Microsoft’s $69 billion acquisition of Activision Blizzard, maker of popular games like Call of Duty, Candy Crush and World of Warcraft, knocking…",
+      "url": "https://variety.com/2023/digital/news/supreme-court-rejects-block-microsoft-activision-blizzard-deal-1235673366/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/12/Call-of-Duty-Modern-Warfare-II.png?w=1000&h=563&crop=1",
+      "publishedAt": "2023-07-18T20:02:00Z",
+      "content": "The Supreme Court rejected an 11th-hour bid to stop Microsoft’s $69 billion acquisition of Activision Blizzard, maker of popular games like Call of Duty, Candy Crush and World of Warcraft, knocking d… [+2734 chars]"
     },
     {
       "source": {
@@ -125,116 +60,155 @@
         "name": "Engadget"
       },
       "author": null,
-      "title": "Microsoft and a UK regulator have been granted more time to resolve Activision merger issues - Engadget",
-      "description": "Microsoft has been granted more time to resolve a UK regulator's concerns over its proposed $68.7 billion acquisition of Activision Blizzard.",
-      "url": "https://www.engadget.com/microsoft-and-a-uk-regulator-have-been-granted-more-time-to-resolve-activision-merger-issues-191354797.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/isxrYQnBkrjhpY72S4WGLA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/519478b0-21c6-11ee-bfcd-7409d88423e8.cf.jpg",
-      "publishedAt": "2023-07-17T19:14:51Z",
-      "content": "Microsoft\r\n and the UK's antitrust regulator have conditionally been granted a two-month pause on their legal battle as the company looks to resolve the Competition and Markets Authority's\r\n (CMA) co… [+3153 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Microsoft granted two-month pause of UK appeal over Activision deal - Economic Times",
-      "description": "Microsoft, Activision and Britain's competition regulator, the Competition and Markets Authority (CMA), had all asked for a two-month stay of the case after the CMA said it would consider a modified deal put forward by Microsoft.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-granted-two-month-pause-of-uk-appeal-over-activision-deal/articleshow/101837063.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-101837067,width-1070,height-580,imgsize-12962,overlay-ettech/photo.jpg",
-      "publishedAt": "2023-07-17T19:01:00Z",
-      "content": "Microsoft's appeal against Britain's block on its $69 billion takeover of Activision Blizzard was formally paused by a London tribunal on Monday, to give the parties more time to resolve the dispute.… [+2326 chars]"
+      "title": "First big Threads update for iOS helps you see new followers - Engadget",
+      "description": "Threads has received a big update on iOS that helps you see new followers and follow them back..",
+      "url": "https://www.engadget.com/first-big-threads-update-for-ios-helps-you-see-new-followers-195035774.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/TWS0bYNirIcjdjNZb6M5pQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c1e9eb10-259d-11ee-8dd5-c64c15853544.cf.jpg",
+      "publishedAt": "2023-07-18T19:52:15Z",
+      "content": "Meta has delivered the first significant update to Threads since the social network launched earlier this month, and you might appreciate it if you're still building your contact list. The company's … [+1882 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "CNBC"
+      },
+      "author": "Jonathan Vanian",
+      "title": "Meta rolls out first feature update to Threads since launch earlier this month - CNBC",
+      "description": "Instagram updated the iOS version of its Threads app, which now includes a follows tab.",
+      "url": "https://www.cnbc.com/2023/07/18/meta-updates-threads-with-new-features-including-a-follows-tab.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107268894-1688996614666-gettyimages-1514362241-arriens-threadsa230708_npmz8.jpeg?v=1689708617&w=1920&h=1080",
+      "publishedAt": "2023-07-18T19:30:17Z",
+      "content": "Instagram Threads, the Twitter clone Meta launched two weeks ago, is being updated to include new features, including a follows tab.\r\nCameron Roth, a software engineer for Instagram, shared a Threads… [+1294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Isaiah Colbert",
+      "title": "Tears of the Kingdom Fans Think They See Link's 'Package' - Kotaku",
+      "description": "I regret to inform you that Link ‘jiggle physics’ aren’t what they appear to be",
+      "url": "https://kotaku.com/legend-of-zelda-tears-kingdom-link-balls-glitch-switch-1850652209",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ba43087d3138c118ecc760606fda50fc.jpg",
+      "publishedAt": "2023-07-18T18:40:17Z",
+      "content": "Recently, a couple of Legend of Zelda: Tears of the Kingdom players experienced an unexpected but funny jump scare. And no, the jumpscare had nothing to do with the games imposing villain, Ganon. It … [+2043 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
       },
       "author": null,
-      "title": "Remnant 2 - Official Hunter Archetype Reveal Trailer - IGN",
-      "description": "Get a deep dive into the Hunter Archetype in this latest trailer for Remnant 2, including their perks, skills like the Hunter's Mark, and more. The Hunter Ar...",
-      "url": "https://www.youtube.com/watch?v=zifHA5YdPEE",
-      "urlToImage": "https://i.ytimg.com/vi/zifHA5YdPEE/maxresdefault.jpg",
-      "publishedAt": "2023-07-17T19:00:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "iPhone 15 rumored to introduce new Pink colour option: Here's what we know - Hindustan Times",
-      "description": "The upcoming iPhone 15 and iPhone 15 Plus are rumoured to come in new green and pink shades, along with other colors including yellow.",
-      "url": "https://www.hindustantimes.com/technology/iphone-15-pink-colour-options-specifications-apple-news-101689618102836.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/07/17/1600x900/Screenshot_2023-07-18_000349_1689618852340_1689618869353.png",
-      "publishedAt": "2023-07-17T18:58:53Z",
-      "content": "Ahead of the highly anticipated Apple iPhone 15 release, which is still months away, speculations surrounding the upcoming smartphone have reached new heights. Recent reports indicate that the iPhone… [+1302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mtgrocks.com"
-      },
-      "author": "Riley Hicks",
-      "title": "New Commander Masters Deck is Missing Tons of Sliver Staples! - MTG Rocks",
-      "description": "Commander Masters' Sliver Swarm preconstructed deck, despite being a Sliver deck, is missing these Sliver staples! Expect these to spike!",
-      "url": "https://mtgrocks.com/new-commander-masters-deck-is-missing-tons-of-sliver-staples/",
-      "urlToImage": "https://mtgrocks.com/wp-content/uploads/2023/07/200.jpg",
-      "publishedAt": "2023-07-17T18:55:31Z",
-      "content": "After a long wait, the first of the four Commander Masters preconstructed Commander decks have been revealed! Not only do these decks cover four of the most popular archetypes in all of Commander, bu… [+8030 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ron Amadeo",
-      "title": "PSA: Google is deleting some old Hangouts photos this week - Ars Technica",
-      "description": "It's hard to say exactly what is getting deleted, but it's easy to download.",
-      "url": "https://arstechnica.com/gadgets/2023/07/psa-google-is-deleting-some-old-hangouts-photos-this-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/01/Hangouts-760x380.jpg",
-      "publishedAt": "2023-07-17T18:53:21Z",
-      "content": "10 with \r\nFriendly Public Service Announcement: Google might delete some of your photos this week. If you've ever used some specific entries in Google's lengthy instant messaging lineup, namely Googl… [+1576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Mansab Sayyad",
-      "title": "Top 10 tips every Minecraft speedrunner should know - Sportskeeda",
-      "description": "Minecraft is a very peaceful game where you can do whatever you like, build a fancy house, create a large wheatfield on a mountaintop, or huge walking house using redstone.",
-      "url": "https://www.sportskeeda.com/minecraft/top-tips-every-minecraft-speedrunner-know",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/07/9f0c4-16896169195369-1920.jpg",
-      "publishedAt": "2023-07-17T18:47:00Z",
-      "content": "Minecraft is a very peaceful game where you can do whatever you like, build a fancy house, create a large wheatfield on a mountaintop, or huge walking house using redstone. But there exists a communi… [+4461 chars]"
+      "title": "You can pre-order Framework's modular gaming Laptop 16 today - Engadget",
+      "description": "Framework’s modular Laptop 16 is available for preorder in the US, Canada, Germany, France, UK, Netherlands, Austria, Ireland and Australia.",
+      "url": "https://www.engadget.com/you-can-pre-order-frameworks-modular-gaming-laptop-16-today-183702718.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Z7XGcLsvfL.P2dq8PMDPlw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/aa55f960-2595-11ee-b7bf-1728031d7e05.cf.jpg",
+      "publishedAt": "2023-07-18T18:37:40Z",
+      "content": "Frameworks modular Laptop 16 is available for preorder in the US, Canada, Germany, France, UK, Netherlands, Austria, Ireland and Australia. The companys first gaming notebook starts at $1,399 for a D… [+1912 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jay Peters",
-      "title": "YouTube is testing a new way to let you easily watch videos at 2x speed - The Verge",
-      "description": "YouTube is experimenting with a way to let you move videos up to 2x playback speed by long-pressing on the video player. It’s a feature available for YouTube Premium subscribers to try out.",
-      "url": "https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kSc1MrTy-5jpSGwFwD8Mi2k0Pok=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986639/acastro_STK092_03.jpg",
-      "publishedAt": "2023-07-17T18:42:12Z",
-      "content": "YouTube is testing a new way to let you easily watch videos at 2x speed\r\nYouTube is testing a new way to let you easily watch videos at 2x speed\r\n / This feature is made for sickos like me.\r\nByJay Pe… [+1579 chars]"
+      "author": "Wes Davis",
+      "title": "OnePlus 12 leaks show a bigger battery and faster charging - The Verge",
+      "description": "Leaked specs for the OnePlus 12 show a larger battery, upgraded cameras, and a jump to the latest Qualcomm chipset are due for the phone later this year.",
+      "url": "https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/etLzTBXKYtPOP7K9JjIQrPZA2c8=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24414153/DSC04252.jpg",
+      "publishedAt": "2023-07-18T18:34:03Z",
+      "content": "OnePlus 12 leaks show a bigger battery and faster charging\r\nOnePlus 12 leaks show a bigger battery and faster charging\r\n / Leaked specs show mostly incremental upgrades, including a slightly bigger b… [+2171 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Android Police"
       },
-      "author": "Joe Toppe",
-      "title": "EU prepares to probe Microsoft for ‘unfair bundling’ of Teams with Office: report - Fox Business",
-      "description": "European Union antitrust authorities will reportedly investigate Microsoft to determine if it unfairly bundled its Teams video conferencing app with its Office service.",
-      "url": "https://www.foxbusiness.com/markets/eu-prepares-probe-microsoft-unfair-bundling-teams-office",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/Microsoft-Sign.jpg?ve=1&tl=1",
-      "publishedAt": "2023-07-17T18:38:28Z",
-      "content": "European Union antitrust authorities will reportedly investigate Microsoft to determine if the software giant unfairly bundled its Teams video conferencing app with its Office service. \r\nSources quot… [+1663 chars]"
+      "author": "Nicole Cord-Cruz",
+      "title": "Prime Day is long gone, but these Pixel 7 and 7a deals refuse to die - Android Police",
+      "description": "You still have a chance to score up to $100 off your Google Pixel of choice",
+      "url": "https://www.androidpolice.com/pixel-7-and-7a-post-prime-day-deals/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/google-pixel-7a-vs-pixel-7-black.jpg",
+      "publishedAt": "2023-07-18T18:23:00Z",
+      "content": "If you missed the chance to get your hands on a Google Pixel 7 or Google Pixel 7a during Prime Day, Amazon is giving you another opportunity to score these phones at a more affordable price point, so… [+3023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Levi Winslow",
+      "title": "Stardew Valley's Next Update Includes New Festival And…Secrets? - Kotaku",
+      "description": "Developer Eric ‘ConcernedApe’ Barone teased the farming simulator’s patch 1.6 contents",
+      "url": "https://kotaku.com/stardew-valley-patch-1-6-new-festival-dialogue-secrets-1850651954",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3b8b271bbf62ee3435ff7b584424b3c9.jpg",
+      "publishedAt": "2023-07-18T18:00:00Z",
+      "content": "Fans of pixel-art farming simulator Stardew Valley just got another tease about what to expect from the upcoming 1.6 update. While we still dont know when it will release, developer Eric ConcernedApe… [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ivan",
+      "title": "nubia Red Magic 8S Pro in for review - GSMArena.com",
+      "description": "The International variant of the premier gaming phone has arrived. ZTE just went global with the nubia Red Magic 8S Pro and the phone will go on sale on...",
+      "url": "https://www.gsmarena.com/zte_nubia_red_magic_8s_pro_in_for_review-news-59231.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/07/zte-nubia-red-magic-8s-pro-ifr/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-07-18T18:00:00Z",
+      "content": "ZTE just went global with the nubia Red Magic 8S Pro and the phone will go on sale on July 27 in North America, Europe, the UK, Singapore, and Mexico.\r\nThe key difference between the China-bound mode… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Unofficial GTA: San Andreas Restaurant Shut Down By Lawyers - Kotaku",
+      "description": "A real-world Cluckin’ Bell and Burger Shot are no longer happening after the people involved received a cease and desist",
+      "url": "https://kotaku.com/gta-real-life-cluckin-bell-shut-down-take-two-rockstar-1850651893",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/91eb3fb8d9d65eef8eefc72911502c02.jpg",
+      "publishedAt": "2023-07-18T17:55:00Z",
+      "content": "Two unofficial pop-up restaurants based on fast food chains that have appeared in past Grand Theft Auto games were planned to open next weekend in San Diego, just in time for Comic-Con. However, that… [+3213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jay Bonggolto",
+      "title": "Google is using Gmail to nag you to turn on Enhanced Safe Browsing - Android Police",
+      "description": "Enable this feature if you don't mind letting Google access more information about your browsing habits",
+      "url": "https://www.androidpolice.com/gmail-enhanced-safe-browsing-prompt/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/select-all-gmail-hero.jpg",
+      "publishedAt": "2023-07-18T17:48:00Z",
+      "content": "Data breaches have unfortunately become commonplace these days, and consumers navigating the dodgy internet landscape are the usual targets. Affected users are often advised to change their passwords… [+2102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Diablo 4’ Season 1 v1.1 Patch Notes, All The Class Nerfs And Buffs - Forbes",
+      "description": "Here are the Barbarian, Druid, Necromancer, Rogue and Sorcerer nerfs and buffs in Diablo 4's new patch ahead of Season of the Malignant.",
+      "url": "https://www.forbes.com/sites/paultassi/2023/07/18/diablo-4-season-1-v11-patch-notes-all-the-class-nerfs-and-buffs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b6ce0182e9dab2045b79a4/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-07-18T17:42:48Z",
+      "content": "Diablo 4\r\nBlizzard\r\nThe Diablo 4 patch notes for Season of the Malignant have arrived, and they are insanely long. My job here today is going to be to try to summarize the highlights for you here in … [+15544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Ex-Google exec says AI-powered sex robots will seem 'alive' and eliminate need for 'another being' - New York Post ",
+      "description": "Human beings will be able to simulate sex through virtual reality and augmented reality headsets like Apple’s Vision Pro or a Quest 3, Mo Gawdat said.",
+      "url": "https://nypost.com/2023/07/18/ai-powered-sex-robots-will-seem-alive-and-negate-need-for-partner-ex-google-exec-says/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/ai-sex-bot-google-1.gif?w=1024",
+      "publishedAt": "2023-07-18T17:32:00Z",
+      "content": "A former senior executive at Google predicted that sex robots powered by artificial intelligence could eliminate the need for a human partner in the bedroom. \r\nMo Gawdat, who was chief business offic… [+3456 chars]"
     },
     {
       "source": {
@@ -242,25 +216,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Pro Cosplayer Alicia Marie Crafts First Immortals of Aveum Cosplay - Ep.1 - IGN",
-      "description": "Immortals of Aveum: The Style of Immortals is a 3-part docuseries that follows professional cosplayer, Alicia Marie on her quest to ideate, craft, and become...",
-      "url": "https://www.youtube.com/watch?v=9ahgchSraPI",
-      "urlToImage": "https://i.ytimg.com/vi/9ahgchSraPI/maxresdefault.jpg",
-      "publishedAt": "2023-07-17T18:30:16Z",
+      "title": "Sonic Superstars - Official Opening Animation Trailer - IGN",
+      "description": "Here's your look at the opening animation of Sonic Superstars. Sonic Superstars will be available on PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One,...",
+      "url": "https://www.youtube.com/watch?v=Bf3KDOeBTk0",
+      "urlToImage": "https://i.ytimg.com/vi/Bf3KDOeBTk0/maxresdefault.jpg",
+      "publishedAt": "2023-07-18T17:30:01Z",
       "content": null
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Pure Xbox"
       },
-      "author": "Scharon Harding",
-      "title": "‘Elusive’ first-gen 4GB iPhone auctioned for record $190,373 - Ars Technica",
-      "description": "Collector pays big for smaller-storage SKU Apple discontinued after 2 months.",
-      "url": "https://arstechnica.com/gadgets/2023/07/elusive-first-gen-4gb-iphone-auctioned-for-record-190373/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-74961462-760x380.jpg",
-      "publishedAt": "2023-07-17T18:16:07Z",
-      "content": "Enlarge/ The auction ran from June 30 to July 16.\r\n45 with \r\nIf you shopped for a new smartphone today and were offered a model with 4GB of storage, you'd probably laugh. That's what most shoppers di… [+2354 chars]"
+      "author": "Ben Kerry",
+      "title": "Poll: Are You Buying The 'Early Access Upgrade' For Starfield? - Pure Xbox",
+      "description": "It'll work nicely with a Game Pass sub!",
+      "url": "https://www.purexbox.com/features/poll-are-you-buying-the-early-access-upgrade-for-starfield",
+      "urlToImage": "https://images.purexbox.com/40bbd5f7bace1/1280x720.jpg",
+      "publishedAt": "2023-07-18T17:03:20Z",
+      "content": "@BowsersBuddyIs 5 days before release day day 1, or is day 1 the actual release day? Cause if almost all other modern games are anything to go by, itll need a day 1 patch for definite.\r\nFunnily enoug… [+759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Home 3.3 update enables Home Panel on Pixel - 9to5Google",
+      "description": "Google announced Home Panel was coming to Pixel phones in June and it's now widely rolling out with an update to the Google Home app...",
+      "url": "https://9to5google.com/2023/07/18/google-home-panel-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/06/Pixel-phone-Home-Panel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-07-18T17:03:00Z",
+      "content": "Google announced Home Panel was coming to Pixel phones with the June Feature Drop, and it’s now widely rolling out with an update to the Google Home app.\r\nVersion 3.3 of the Google Home app is widely… [+1170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "UmmeAimon Shabbir",
+      "title": "How to Get More Storage on Your Android Phone - MUO - MakeUseOf",
+      "description": "While you can't increase the built-in memory on your phone, there are a few workarounds for getting more storage space for your Android device.",
+      "url": "https://www.makeuseof.com/how-to-get-more-storage-android/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/android-phone-in-hands-1.jpg",
+      "publishedAt": "2023-07-18T17:00:00Z",
+      "content": "With the growing demand for high-quality photos, videos, and apps, space on Android phones often fills up faster than anticipated. While you can't expand the internal storage on an Android phone, the… [+4775 chars]"
     }
   ]
 }
