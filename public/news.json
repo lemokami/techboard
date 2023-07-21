@@ -1,214 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 346,
+  "totalResults": 341,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "YouTube"
       },
-      "author": "Fox Business",
-      "title": "Apple iPhone from 2007 sold at auction for over $190,000 - Fox Business",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvYXBwbGUtaXBob25lLTIwMDctc29sZC1hdWN0aW9uLW92ZXItMTkwMDAw0gFUaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2xpZmVzdHlsZS9hcHBsZS1pcGhvbmUtMjAwNy1zb2xkLWF1Y3Rpb24tb3Zlci0xOTAwMDAuYW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18T21:13:23Z",
+      "author": null,
+      "title": "HW News - Intel 14th Gen Threat, GN ITX Reviews, ASUS Responds to Ally SD Card Thermals - Gamers Nexus",
+      "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)Hardware news this week talks about GN's venture into ITX reviews with renewed methodology,...",
+      "url": "https://www.youtube.com/watch?v=kWtfhG61YxM",
+      "urlToImage": "https://i.ytimg.com/vi/kWtfhG61YxM/maxresdefault.jpg",
+      "publishedAt": "2023-07-20T00:33:32Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Sportskeeda"
       },
-      "author": "Eric Revell",
-      "title": "Apple iPhone from 2007 sold at auction for over $190000 - Fox Business",
-      "description": "A rare 4GB Apple iPhone from 2007 still in its original factory packing and never used sold for a record-setting $190,372 at auction on Sunday after bidding started at $10,000.",
-      "url": "https://www.foxbusiness.com/lifestyle/apple-iphone-2007-sold-auction-over-190000",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/07/0/0/001f7e4e-1000.jpeg?ve=1&tl=1",
-      "publishedAt": "2023-07-18T21:13:23Z",
-      "content": "An unused first-generation Apple iPhone\r\n from 2007 sold at auction for $190,372 on Sunday — a record amount for an iPhone that’s more than 300 times its original retail price.\r\nThe first edition iPh… [+2619 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Exploited 0-days, an incomplete fix, and a botched disclosure: Infosec snafu reigns - Ars Technica",
-      "description": "The exploited code-execution flaws are the kind coveted by ransomware and nation-state hackers.",
-      "url": "https://arstechnica.com/security/2023/07/vulnerabilities-in-adobe-coldfusion-and-citrix-netscaler-are-under-active-exploitation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg",
-      "publishedAt": "2023-07-18T20:22:57Z",
-      "content": "6 with \r\nOrganizations big and small are once again scrambling to patch critical vulnerabilities that are already under active exploitation and cause the kind of breaches coveted by ransomware actors… [+3947 chars]"
+      "author": "Spencer Whitworth",
+      "title": "Squirdle Daily (Pokemon Wordle) July 20 Hints and Answers - Sportskeeda",
+      "description": "Squirdle is an entertaining Pokemon-themed offshoot of the popular game Wordle but with some pretty notable differences.",
+      "url": "https://www.sportskeeda.com/pokemon/squirdle-daily-pokemon-wordle-july-20-hints-answers",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/07/575e6-16897987873545-1920.jpg",
+      "publishedAt": "2023-07-19T23:51:13Z",
+      "content": "Squirdle is an entertaining Pokemon-themed offshoot of the popular game Wordle but with some pretty notable differences. The most important one is that instead of guessing a random word, players must… [+2805 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Sportskeeda"
       },
-      "author": "Todd Spangler",
-      "title": "Supreme Court Rejects Last-Minute Bid to Block Microsoft’s Activision Blizzard Takeover - Variety",
-      "description": "The Supreme Court rejected an 11th-hour bid to stop Microsoft’s $69 billion acquisition of Activision Blizzard, maker of popular games like Call of Duty, Candy Crush and World of Warcraft, knocking…",
-      "url": "https://variety.com/2023/digital/news/supreme-court-rejects-block-microsoft-activision-blizzard-deal-1235673366/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2022/12/Call-of-Duty-Modern-Warfare-II.png?w=1000&h=563&crop=1",
-      "publishedAt": "2023-07-18T20:02:00Z",
-      "content": "The Supreme Court rejected an 11th-hour bid to stop Microsoft’s $69 billion acquisition of Activision Blizzard, maker of popular games like Call of Duty, Candy Crush and World of Warcraft, knocking d… [+2734 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "First big Threads update for iOS helps you see new followers - Engadget",
-      "description": "Threads has received a big update on iOS that helps you see new followers and follow them back..",
-      "url": "https://www.engadget.com/first-big-threads-update-for-ios-helps-you-see-new-followers-195035774.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/TWS0bYNirIcjdjNZb6M5pQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c1e9eb10-259d-11ee-8dd5-c64c15853544.cf.jpg",
-      "publishedAt": "2023-07-18T19:52:15Z",
-      "content": "Meta has delivered the first significant update to Threads since the social network launched earlier this month, and you might appreciate it if you're still building your contact list. The company's … [+1882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jonathan Vanian",
-      "title": "Meta rolls out first feature update to Threads since launch earlier this month - CNBC",
-      "description": "Instagram updated the iOS version of its Threads app, which now includes a follows tab.",
-      "url": "https://www.cnbc.com/2023/07/18/meta-updates-threads-with-new-features-including-a-follows-tab.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107268894-1688996614666-gettyimages-1514362241-arriens-threadsa230708_npmz8.jpeg?v=1689708617&w=1920&h=1080",
-      "publishedAt": "2023-07-18T19:30:17Z",
-      "content": "Instagram Threads, the Twitter clone Meta launched two weeks ago, is being updated to include new features, including a follows tab.\r\nCameron Roth, a software engineer for Instagram, shared a Threads… [+1294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Isaiah Colbert",
-      "title": "Tears of the Kingdom Fans Think They See Link's 'Package' - Kotaku",
-      "description": "I regret to inform you that Link ‘jiggle physics’ aren’t what they appear to be",
-      "url": "https://kotaku.com/legend-of-zelda-tears-kingdom-link-balls-glitch-switch-1850652209",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ba43087d3138c118ecc760606fda50fc.jpg",
-      "publishedAt": "2023-07-18T18:40:17Z",
-      "content": "Recently, a couple of Legend of Zelda: Tears of the Kingdom players experienced an unexpected but funny jump scare. And no, the jumpscare had nothing to do with the games imposing villain, Ganon. It … [+2043 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "You can pre-order Framework's modular gaming Laptop 16 today - Engadget",
-      "description": "Framework’s modular Laptop 16 is available for preorder in the US, Canada, Germany, France, UK, Netherlands, Austria, Ireland and Australia.",
-      "url": "https://www.engadget.com/you-can-pre-order-frameworks-modular-gaming-laptop-16-today-183702718.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Z7XGcLsvfL.P2dq8PMDPlw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/aa55f960-2595-11ee-b7bf-1728031d7e05.cf.jpg",
-      "publishedAt": "2023-07-18T18:37:40Z",
-      "content": "Frameworks modular Laptop 16 is available for preorder in the US, Canada, Germany, France, UK, Netherlands, Austria, Ireland and Australia. The companys first gaming notebook starts at $1,399 for a D… [+1912 chars]"
+      "author": "Alan Sahbegovic",
+      "title": "How to play GTA 5 with no violence and make it kid-friendly - Sportskeeda",
+      "description": "As odd as this may sound to some gamers, there is a way to make GTA 5 kid-friendly by removing all its violence and other questionable aspects.",
+      "url": "https://www.sportskeeda.com/gta/how-play-gta-5-violence-make-kid-friendly",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/07/06007-16897877168775-1920.jpg",
+      "publishedAt": "2023-07-19T22:41:00Z",
+      "content": "As odd as this may sound to some gamers, there is a way to make GTA 5 kid-friendly by removing all its violence and other questionable aspects. This game is usually only recommended for people 17 yea… [+3420 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "OnePlus 12 leaks show a bigger battery and faster charging - The Verge",
-      "description": "Leaked specs for the OnePlus 12 show a larger battery, upgraded cameras, and a jump to the latest Qualcomm chipset are due for the phone later this year.",
-      "url": "https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/etLzTBXKYtPOP7K9JjIQrPZA2c8=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24414153/DSC04252.jpg",
-      "publishedAt": "2023-07-18T18:34:03Z",
-      "content": "OnePlus 12 leaks show a bigger battery and faster charging\r\nOnePlus 12 leaks show a bigger battery and faster charging\r\n / Leaked specs show mostly incremental upgrades, including a slightly bigger b… [+2171 chars]"
+      "author": "Antonio G. Di Benedetto",
+      "title": "Blizzard nerfs Diablo IV character builds ahead of new season launch - The Verge",
+      "description": "The new 1.1.0 patch for Diablo IV aims to balance much of the endgame content ahead of the Seasons of the Malignant launch, but it seems to hamper the fun.",
+      "url": "https://www.theverge.com/2023/7/19/23800872/diablo-4-blizzard-season-malignant-11-patch-nerf-build-player-outcry",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_ER4qTs8XWU6tSasLl1DQUN-OHc=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24277489/lilith.png",
+      "publishedAt": "2023-07-19T22:23:19Z",
+      "content": "Blizzard nerfs Diablo IV character builds ahead of new season launch\r\nBlizzard nerfs Diablo IV character builds ahead of new season launch\r\n / Balancing a game like Diablo is a necessity, but the upd… [+4746 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Google’s new security pilot program will ban employee Internet access - Ars Technica",
+      "description": "You can't get hacked if you aren't on the Internet.",
+      "url": "https://arstechnica.com/gadgets/2023/07/to-defeat-hackers-google-wants-employees-to-work-without-internet-access/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg",
+      "publishedAt": "2023-07-19T21:23:24Z",
+      "content": "77 with \r\nThe Internet is dangerous, so what if you just didn't use it? That's the somewhat ironic recommendation Google, one of the world's largest Internet companies, is making to its employees. CN… [+2131 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "SiliconANGLE News"
       },
-      "author": "Nicole Cord-Cruz",
-      "title": "Prime Day is long gone, but these Pixel 7 and 7a deals refuse to die - Android Police",
-      "description": "You still have a chance to score up to $100 off your Google Pixel of choice",
-      "url": "https://www.androidpolice.com/pixel-7-and-7a-post-prime-day-deals/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/google-pixel-7a-vs-pixel-7-black.jpg",
-      "publishedAt": "2023-07-18T18:23:00Z",
-      "content": "If you missed the chance to get your hands on a Google Pixel 7 or Google Pixel 7a during Prime Day, Amazon is giving you another opportunity to score these phones at a more affordable price point, so… [+3023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "Stardew Valley's Next Update Includes New Festival And…Secrets? - Kotaku",
-      "description": "Developer Eric ‘ConcernedApe’ Barone teased the farming simulator’s patch 1.6 contents",
-      "url": "https://kotaku.com/stardew-valley-patch-1-6-new-festival-dialogue-secrets-1850651954",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3b8b271bbf62ee3435ff7b584424b3c9.jpg",
-      "publishedAt": "2023-07-18T18:00:00Z",
-      "content": "Fans of pixel-art farming simulator Stardew Valley just got another tease about what to expect from the upcoming 1.6 update. While we still dont know when it will release, developer Eric ConcernedApe… [+1520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ivan",
-      "title": "nubia Red Magic 8S Pro in for review - GSMArena.com",
-      "description": "The International variant of the premier gaming phone has arrived. ZTE just went global with the nubia Red Magic 8S Pro and the phone will go on sale on...",
-      "url": "https://www.gsmarena.com/zte_nubia_red_magic_8s_pro_in_for_review-news-59231.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/07/zte-nubia-red-magic-8s-pro-ifr/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-07-18T18:00:00Z",
-      "content": "ZTE just went global with the nubia Red Magic 8S Pro and the phone will go on sale on July 27 in North America, Europe, the UK, Singapore, and Mexico.\r\nThe key difference between the China-bound mode… [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Unofficial GTA: San Andreas Restaurant Shut Down By Lawyers - Kotaku",
-      "description": "A real-world Cluckin’ Bell and Burger Shot are no longer happening after the people involved received a cease and desist",
-      "url": "https://kotaku.com/gta-real-life-cluckin-bell-shut-down-take-two-rockstar-1850651893",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/91eb3fb8d9d65eef8eefc72911502c02.jpg",
-      "publishedAt": "2023-07-18T17:55:00Z",
-      "content": "Two unofficial pop-up restaurants based on fast food chains that have appeared in past Grand Theft Auto games were planned to open next weekend in San Diego, just in time for Comic-Con. However, that… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Jay Bonggolto",
-      "title": "Google is using Gmail to nag you to turn on Enhanced Safe Browsing - Android Police",
-      "description": "Enable this feature if you don't mind letting Google access more information about your browsing habits",
-      "url": "https://www.androidpolice.com/gmail-enhanced-safe-browsing-prompt/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/select-all-gmail-hero.jpg",
-      "publishedAt": "2023-07-18T17:48:00Z",
-      "content": "Data breaches have unfortunately become commonplace these days, and consumers navigating the dodgy internet landscape are the usual targets. Affected users are often advised to change their passwords… [+2102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "‘Diablo 4’ Season 1 v1.1 Patch Notes, All The Class Nerfs And Buffs - Forbes",
-      "description": "Here are the Barbarian, Druid, Necromancer, Rogue and Sorcerer nerfs and buffs in Diablo 4's new patch ahead of Season of the Malignant.",
-      "url": "https://www.forbes.com/sites/paultassi/2023/07/18/diablo-4-season-1-v11-patch-notes-all-the-class-nerfs-and-buffs/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b6ce0182e9dab2045b79a4/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-07-18T17:42:48Z",
-      "content": "Diablo 4\r\nBlizzard\r\nThe Diablo 4 patch notes for Season of the Malignant have arrived, and they are insanely long. My job here today is going to be to try to summarize the highlights for you here in … [+15544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ariel Zilber",
-      "title": "Ex-Google exec says AI-powered sex robots will seem 'alive' and eliminate need for 'another being' - New York Post ",
-      "description": "Human beings will be able to simulate sex through virtual reality and augmented reality headsets like Apple’s Vision Pro or a Quest 3, Mo Gawdat said.",
-      "url": "https://nypost.com/2023/07/18/ai-powered-sex-robots-will-seem-alive-and-negate-need-for-partner-ex-google-exec-says/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/ai-sex-bot-google-1.gif?w=1024",
-      "publishedAt": "2023-07-18T17:32:00Z",
-      "content": "A former senior executive at Google predicted that sex robots powered by artificial intelligence could eliminate the need for a human partner in the bedroom. \r\nMo Gawdat, who was chief business offic… [+3456 chars]"
+      "author": null,
+      "title": "Report: Apple built 'Apple GPT' chatbot using internal AI development framework - SiliconANGLE News",
+      "description": "Report: Apple built 'Apple GPT' chatbot using internal AI development framework - SiliconANGLE",
+      "url": "https://siliconangle.com/2023/07/19/report-apple-built-apple-gpt-chatbot-using-internal-ai-development-framework/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/apple-1839363_960_720.jpg",
+      "publishedAt": "2023-07-19T21:09:51Z",
+      "content": "A new report has shed light on two of the internally built technologies Apple Inc. is using to support its artificial intelligence initiatives.\r\nThe first technology, Ajax, is described as a framewor… [+3156 chars]"
     },
     {
       "source": {
@@ -216,51 +86,181 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Sonic Superstars - Official Opening Animation Trailer - IGN",
-      "description": "Here's your look at the opening animation of Sonic Superstars. Sonic Superstars will be available on PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One,...",
-      "url": "https://www.youtube.com/watch?v=Bf3KDOeBTk0",
-      "urlToImage": "https://i.ytimg.com/vi/Bf3KDOeBTk0/maxresdefault.jpg",
-      "publishedAt": "2023-07-18T17:30:01Z",
+      "title": "Sea of Thieves: The Legend of Monkey Island - Official 'Melee Island Tour' Trailer - IGN",
+      "description": "Take a tour of Mêlée Island in this latest video for the Sea of Thieves: The Legend of Monkey Island collaboration between Rare and Lucasfilm Games. Mêlée Is...",
+      "url": "https://www.youtube.com/watch?v=qwgJeZJg-sc",
+      "urlToImage": "https://i.ytimg.com/vi/qwgJeZJg-sc/maxresdefault.jpg",
+      "publishedAt": "2023-07-19T21:00:33Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Pure Xbox"
+        "name": "Sportskeeda"
       },
-      "author": "Ben Kerry",
-      "title": "Poll: Are You Buying The 'Early Access Upgrade' For Starfield? - Pure Xbox",
-      "description": "It'll work nicely with a Game Pass sub!",
-      "url": "https://www.purexbox.com/features/poll-are-you-buying-the-early-access-upgrade-for-starfield",
-      "urlToImage": "https://images.purexbox.com/40bbd5f7bace1/1280x720.jpg",
-      "publishedAt": "2023-07-18T17:03:20Z",
-      "content": "@BowsersBuddyIs 5 days before release day day 1, or is day 1 the actual release day? Cause if almost all other modern games are anything to go by, itll need a day 1 patch for definite.\r\nFunnily enoug… [+759 chars]"
+      "author": "Spencer Whitworth",
+      "title": "Minecraft Championship (MCC) Rising 2 date and time announced - Sportskeeda",
+      "description": "Noxcrew has officially announced the latest Minecraft Championship event, and it will arrive in the form of MCC Rising 2.",
+      "url": "https://www.sportskeeda.com/minecraft/news-minecraft-championship-mcc-rising-2-date-time-announced",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/07/065c3-16897931620475-1920.jpg",
+      "publishedAt": "2023-07-19T20:46:00Z",
+      "content": "Noxcrew has officially announced the latest Minecraft Championship event, and it will arrive in the form of MCC Rising 2. The Rising event, according to the organizers, will showcase new talent and c… [+2947 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Abner Li",
-      "title": "Google Home 3.3 update enables Home Panel on Pixel - 9to5Google",
-      "description": "Google announced Home Panel was coming to Pixel phones in June and it's now widely rolling out with an update to the Google Home app...",
-      "url": "https://9to5google.com/2023/07/18/google-home-panel-pixel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/06/Pixel-phone-Home-Panel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-07-18T17:03:00Z",
-      "content": "Google announced Home Panel was coming to Pixel phones with the June Feature Drop, and it’s now widely rolling out with an update to the Google Home app.\r\nVersion 3.3 of the Google Home app is widely… [+1170 chars]"
+      "author": "Levi Winslow",
+      "title": "The Overwatch League As We Know It Is Dead - Kotaku",
+      "description": "Around 50 people in Blizzard's esports department were let go this week as OWL interest rapidly cools",
+      "url": "https://kotaku.com/overwatch-league-esports-layoffs-blizzard-owl-1850657003",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5e6acd0cb036fe7f0163a77c79bd460c.jpg",
+      "publishedAt": "2023-07-19T20:25:00Z",
+      "content": "Things are looking dire for the Overwatch League (OWL), the competitive esports scene built around Blizzards popular hero shooter, as the company laid off some 50 employees on July 18.\r\nAccording to … [+2913 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MakeUseOf"
+        "name": "Jalopnik"
       },
-      "author": "UmmeAimon Shabbir",
-      "title": "How to Get More Storage on Your Android Phone - MUO - MakeUseOf",
-      "description": "While you can't increase the built-in memory on your phone, there are a few workarounds for getting more storage space for your Android device.",
-      "url": "https://www.makeuseof.com/how-to-get-more-storage-android/",
-      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/android-phone-in-hands-1.jpg",
-      "publishedAt": "2023-07-18T17:00:00Z",
-      "content": "With the growing demand for high-quality photos, videos, and apps, space on Android phones often fills up faster than anticipated. While you can't expand the internal storage on an Android phone, the… [+4775 chars]"
+      "author": "Rory Carroll",
+      "title": "The $600k Prodrive P25 Is The Ultimate Subaru Road Car - Jalopnik",
+      "description": "How good could a Subaru be if you spared no expense in building it? Prodrive knows.",
+      "url": "https://jalopnik.com/the-600k-prodrive-p25-is-the-ultimate-subaru-road-car-1850653906",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8041615c712b8f9b206a9473b05ab67b.jpg",
+      "publishedAt": "2023-07-19T20:17:00Z",
+      "content": "The Subaru Impreza has to be one of the most commonly tuned cars of the last few decades. If youre reading this, Id bet you personally know someone who has an Impreza 2.5RS, WRX or WRX STI making 400… [+7669 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Microsoft Teams is rolling out AI-powered Maybelline beauty filters - The Verge",
+      "description": "Microsoft has announced that new “virtual makeup” filters are rolling out to Enterprise users of Microsoft Teams, courtesy of the cosmetics giant Maybelline.",
+      "url": "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg",
+      "publishedAt": "2023-07-19T20:11:17Z",
+      "content": "Microsoft Teams is adding Maybellines AI-powered makeup filters\r\nMicrosoft Teams is adding Maybellines AI-powered makeup filters\r\n / The Maybelline Beauty app adds 12 AI-powered digital makeup looks … [+3897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Social Media Today"
+      },
+      "author": "Andrew Hutchinson",
+      "title": "Meta Launches WhatsApp for Wear OS, Keeping You Connected to Your Chats - Social Media Today",
+      "description": "A new way to stay in touch while on the go.",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-whatsapp-for-wear-os-keeping-you-connected-to-your-chats/688440/",
+      "urlToImage": "https://www.socialmediatoday.com/imgproxy/_vOH2VO1g-87dwBcx9zgiUid_cc0OzoK4U3bReSR4hI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3doYXRzYXBwX3dhdGNfb3MucG5n.png",
+      "publishedAt": "2023-07-19T19:32:09Z",
+      "content": "This could be handy today, Meta has announced the full release of WhatsApp for Wear OS, which will enable people using a Google-powered smartwatch to start new chats, reply to messages, and answer ca… [+1198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Next AirPods Max Could Adopt These Five Features From Beats Studio Pro and AirPods Pro - MacRumors",
+      "description": "While rumors about second-generation AirPods Max have been slim so far, there are a handful of features that the over-ear headphones could adopt from...",
+      "url": "https://www.macrumors.com/2023/07/19/airpods-max-2-potential-features/",
+      "urlToImage": "https://images.macrumors.com/t/qTvfueY6mHzX9v4q4COeObb5u88=/2500x/article-new/2022/12/AirPods-Max-Gen-2-Feature-Dark-Red-2.jpg",
+      "publishedAt": "2023-07-19T19:12:40Z",
+      "content": "While rumors about second-generation AirPods Max have been slim so far, there are a handful of features that the over-ear headphones could adopt from the new Beats Studio Pro and the second-generatio… [+2923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Arfa Javaid",
+      "title": "Optical Illusion: Can you determine which circle stands out - red or blue? - Hindustan Times",
+      "description": "An optical illusion is being perceived by different people differently, with some seeing a red circle in front and others seeing a blue circle. | Trending",
+      "url": "https://www.hindustantimes.com/trending/optical-illusion-can-you-determine-which-circle-stands-out-red-or-blue-101689784306974.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/07/19/1600x900/optical-illusion-viral-circle-illusion-Twitter_1689785075054_1689785075295.jpg",
+      "publishedAt": "2023-07-19T18:58:36Z",
+      "content": "Optical illusions play with our minds in countless ways and prompt us to question our senses and, sometimes, even reality. And this specific optical illusion with different coloured circles is a case… [+2229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Chandraveer Mathur",
+      "title": "WhatsApp is now available on Wear OS smartwatches - Android Police",
+      "description": "You need to be running Wear OS 3 at least",
+      "url": "https://www.androidpolice.com/whatsapp-wear-os-smartwatches-standalone-app/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/07/whatsapp-wear-os-standalone-app-launch.jpg",
+      "publishedAt": "2023-07-19T18:37:00Z",
+      "content": "We have enjoyed the stellar convenience of WhatsApp on multiple operating systems. The available features may not be on par across the devices, but for now, WhatsApp works on Android, iOS, and deskto… [+1801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameRant"
+      },
+      "author": "Dalton Cooper",
+      "title": "Diablo 4 is Being Review Bombed Again - GameRant",
+      "description": "Diablo 4 may have earned acclaim from critics, but it continues to be bombarded by a flood of negative user reviews.",
+      "url": "https://gamerant.com/diablo-4-review-bomb-why-update-bad-backlash/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/diablo-4-lilith.jpg",
+      "publishedAt": "2023-07-19T18:03:00Z",
+      "content": "Diablo 4 is being review bombed again, this time by fans of the game who are upset about the changes made in the recent update. Diablo 4 earned acclaim from critics when it first launched, but hardco… [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "Google's Nearby Share app for Windows PCs is now officially available - Engadget",
+      "description": "Google says its Nearby Share app for Windows PCs is now officially available.",
+      "url": "https://www.engadget.com/googles-nearby-share-app-for-windows-pcs-is-now-officially-available-180032189.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/o8tZQ8GMNwQHwoMlwlJoZQ--~B/aD02NzY7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/d0527100-265a-11ee-bd6f-dfe9c7a6dfde.cf.jpg",
+      "publishedAt": "2023-07-19T18:01:52Z",
+      "content": "Google\r\n says its Nearby Share\r\n app for Windows PCs is now officially available. A PC version of the app, which makes it a cinch to share files between devices like Android phones and Chromebooks, h… [+1245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Karandeep Singh",
+      "title": "Android is now better than iOS, says head of Instagram - Android Police",
+      "description": "But new Threads features still arrive for iOS first",
+      "url": "https://www.androidpolice.com/android-ios-instagram-head/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/android-14-vs-ios-17-hero.jpg",
+      "publishedAt": "2023-07-19T17:53:00Z",
+      "content": "There aren’t a lot of things in the tech world that can be as polarizing as the Android vs. iOS debate. Both sides have some committed fans who will fight tooth and nail to diss the other. In our exp… [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Samsung Unpacked: How to Watch the Galaxy Fold 5, Flip 5 Reveal Event - CNET",
+      "description": "Samsung's next wave of foldable phones are expected to debut next week.",
+      "url": "https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-fold-5-flip-5-reveal-event/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/555e9f441d4ee3bd89fc58d28ceb37c253a487a7/hub/2022/08/09/c50bf603-388c-49c5-8ffb-fdf86ead6933/samsung-galaxy-foldable-9808.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-07-19T17:20:00Z",
+      "content": "Samsung's next wave of foldable phones -- presumably the Galaxy Z Fold 5 and Galaxy Z Flip 5 -- will be making their debut at next week's Samsung Unpacked event on Wednesday, July 26. The event is go… [+5742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Timi Cantisano",
+      "title": "Last call to backup Google Hangouts data before it's gone forever - XDA Developers",
+      "description": "Google sent out an email a month ago, warning users, and today is the last day to back up Album Archive data before it goes away.",
+      "url": "https://www.xda-developers.com/google-album-archive-backup/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/hangouts.png",
+      "publishedAt": "2023-07-19T17:20:00Z",
+      "content": "About a month ago, Google sent out an email letting users know that it was shutting down its Album Archive service. Now, there were some Google services that were attached to this platform but some o… [+1841 chars]"
     }
   ]
 }
