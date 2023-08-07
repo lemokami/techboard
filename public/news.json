@@ -1,32 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 387,
+  "totalResults": 369,
   "articles": [
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": ", USA TODAY",
-      "title": "Google users will get alerts when they appear in search result - USA TODAY",
-      "description": "Google is rolling out an alert when users appear in a search result, as well as the ability to remove personal information and explicit photos.",
-      "url": "https://www.usatoday.com/story/tech/2023/08/04/google-users-alerts-search-result/70530494007/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/04/USAT/70532935007-ap-google-news-automation.jpg?auto=webp&crop=4114,2324,x0,y209&format=pjpg&width=1200",
-      "publishedAt": "2023-08-04T21:12:46Z",
-      "content": "Want to know if your information is popping up on Google? It will alert you.\r\nThe company is rolling out a new dashboard to alerts users when their personal information appears online, or when a new … [+2167 chars]"
+      "author": "Cass Marshall",
+      "title": "MTG is partnering with Fallout, Assassin’s Creed, and Final Fantasy - Polygon",
+      "description": "Wizards of the Coast is bringing Bethesda’s post-apocalyptic RPG, Jurassic World, Square Enix’s anthology saga, and Ubisoft’s time-traveling action property to Magic: The Gathering.",
+      "url": "https://www.polygon.com/23820428/magic-the-gathering-universes-beyond-fallout-assassins-creed-final-fantasy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QLPdk05pRcwOEUGoKoxU7WmzgkU=/0x10:1338x711/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24830731/CODENA_2.JPG",
+      "publishedAt": "2023-08-05T20:00:00Z",
+      "content": "Magic: The Gathering is nearly 30 years old, which is an auspicious anniversary. On Saturday, Wizards of the Coast announced new Universes Beyond collaborations, which bring other iconic IPs into the… [+1436 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "The Pixel Watch 2 may get multi-day battery life and a UWB chip - The Verge",
+      "description": "A rumor says the Pixel Watch 2 is getting a new Qualcomm wearable chip that should bring much better battery life versus the original Pixel Watch, as well as an ultra-wideband chip for better Find My Device support.",
+      "url": "https://www.theverge.com/2023/8/5/23821335/google-pixel-watch-2-rumor-better-battery-life-snapdragon-w5-uwb-android",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+      "publishedAt": "2023-08-05T19:25:00Z",
+      "content": "The Pixel Watch 2 may get multi-day battery life and a UWB chip\r\nThe Pixel Watch 2 may get multi-day battery life and a UWB chip\r\n / A new rumor backs up that Googles Android watch will get a new Sna… [+2173 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "New York Post"
       },
-      "author": "Vlad",
-      "title": "Newly leaked OnePlus Open renders show major design changes - GSMArena.com",
-      "description": "It looks similar but also very different. The OnePlus Open will be that brand's first foldable smartphone, and we've seen it in some leaked CAD-based...",
-      "url": "https://www.gsmarena.com/oneplus_open_renders_leak_again_showing_major_design_changes-news-59441.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/oneplus-open-new-renders/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-04T21:03:30Z",
-      "content": "The OnePlus Open will be that brand's first foldable smartphone, and we've seen it in some leaked CAD-based renders back in June. In the meantime, the company itself confirmed the name, but a lot of … [+1742 chars]"
+      "author": "Kidspot",
+      "title": "Bride slams guests for 'not being generous enough' with their gifts - New York Post ",
+      "description": "“We live in an expensive area, they can afford it,” she said, suggesting everyone should spend at least $300 each.",
+      "url": "https://nypost.com/2023/08/05/bride-slams-guests-for-gifts-that-dont-cover-the-cost-of-their-plate/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/annoyed-bride.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-08-05T19:24:00Z",
+      "content": "A bride has slammed her wedding guests for “not being generous enough” with their gifts. \r\nShe believed that their gifts didn’t even cover the “price of their plate” which was $200 per head.\r\nThe bri… [+2368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Gordon Kelly",
+      "title": "Apple Confirms More Problems For iPad, iPhone Users - Forbes",
+      "description": "Apple has confirmed a potentially serious problem for all iPhones and iPads...",
+      "url": "https://www.forbes.com/sites/gordonkelly/2023/08/05/apple-ios-16-ipados-16-iphone-ipad-bug-screentime-bug-new-iphone-problem/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ca47dc57cf68536b69db73/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-05T19:02:54Z",
+      "content": "Apple iPhone 14 Pro Max\r\nApple\r\n08/05 Update below. This post was originally published on August 2\r\niOS 16 and iPadOS 16 had a rocky start to life, with iPhone 14 and 14 Pro users particularly hard h… [+4517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Suman Biswas",
+      "title": "Baldur's Gate 3 crosses 600,000+ concurrent player mark, enters all-time top 10 most-played on Steam - Sportskeeda",
+      "description": "Larian Studios is known to release high-quality role-playing games that are loved by millions of players worldwide; however, Baldur's Gate 3 seems to be in a league of its own.",
+      "url": "https://www.sportskeeda.com/esports/news-baldur-s-gate-3-crosses-600-000-concurrent-player-mark-enters-all-time-top-10-most-played-steam",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/aac4b-16912580595183-1920.jpg",
+      "publishedAt": "2023-08-05T18:52:00Z",
+      "content": "Larian Studios is known to release high-quality role-playing games that are loved by millions of players worldwide; however, Baldur's Gate 3 seems to be in a league of its own. In just a couple of da… [+2655 chars]"
     },
     {
       "source": {
@@ -34,38 +73,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Sifu - Official Final Content Update Release Date Trailer - IGN",
-      "description": "Sifu is a third-person Kung Fu action game developed by Sloclap. Sifu is releasing its last content update for the gamer that sets out to expand the boundari...",
-      "url": "https://www.youtube.com/watch?v=wjoL1ZCn91k",
-      "urlToImage": "https://i.ytimg.com/vi/wjoL1ZCn91k/maxresdefault.jpg",
-      "publishedAt": "2023-08-04T21:00:36Z",
+      "title": "Overwatch 2 - Official Fight The Invasion Trailer - IGN",
+      "description": "Overwatch 2: Invasion is an all-new single-player adventure coming to Overwatch 2. Null Sector begins to descend upon cities across the world and the Overwat...",
+      "url": "https://www.youtube.com/watch?v=guDofKrVHOg",
+      "urlToImage": "https://i.ytimg.com/vi/guDofKrVHOg/maxresdefault.jpg",
+      "publishedAt": "2023-08-05T18:00:11Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Android Police"
       },
-      "author": "Jason Rodriguez",
-      "title": "Baldur's Gate 3 - Gauntlet Of Shar Puzzle Guide - GameSpot",
-      "description": "Many puzzles and trials await you in the Gauntlet of Shar in Baldur's Gate 3.",
-      "url": "https://www.gamespot.com/articles/baldurs-gate-3-gauntlet-of-shar-puzzle-guide/1100-6516517/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4174421-baldurs-gate-3-shar-gauntlet-puzzles-guide-.jpg",
-      "publishedAt": "2023-08-04T19:58:51Z",
-      "content": "There are several dungeons in Baldur's Gate 3. One that you'll have to visit during the course of your playthrough is the Gauntlet of Shar. There, you have to complete a few tasks to obtain Umbral Ge… [+8690 chars]"
+      "author": "Jamaluddeen Adamu",
+      "title": "Is Samsung Galaxy Tab S9 Ultra waterproof and dustproof? - Android Police",
+      "description": "It's impenetrable, but don’t try proving so to your friends!",
+      "url": "https://www.androidpolice.com/samsung-galaxy-tab-s9-ultra-waterproof-and-dustproof/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/07/galaxy-tab-s9-ultra-waterproof.jpg",
+      "publishedAt": "2023-08-05T18:00:00Z",
+      "content": "Quick Answer: Yes, the Galaxy Tab S9 Ultra is highly water and dust-resistant. With an IP68 rating, it’s been tested to withstand submersion in fresh water to a maximum depth of 1.5 meters for up to … [+5374 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "YouTube"
       },
-      "author": "Eddie Makuch",
-      "title": "Baldur's Gate 3 Hot Fix Out Now With 150+ Changes - GameSpot",
-      "description": "Larian boss Swen Vincke also thanked fans for their love and support, as the game passes 500,000 concurrent users.",
-      "url": "https://www.gamespot.com/articles/baldurs-gate-3-hot-fix-out-now-with-150-changes/1100-6516580/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4174471-screenshot2023-08-04at10.21.59am.png",
-      "publishedAt": "2023-08-04T19:49:48Z",
-      "content": "As promised, the first hot fix for Baldur's Gate 3 III has arrived, and it's a big one, addressing more than 150 bugs and issues. You can see the full patch notes below.\r\nLarian also said it is aware… [+9418 chars]"
+      "author": null,
+      "title": "Overwatch 2 - Official Enigma Reveal Trailer - IGN",
+      "description": "Overwatch 2 players will be able to dive into the new Invasion Story Missions by answering the call to action from Enigma, played by John Cena himself. Null ...",
+      "url": "https://www.youtube.com/watch?v=gx5zW9leL1A",
+      "urlToImage": "https://i.ytimg.com/vi/gx5zW9leL1A/maxresdefault.jpg",
+      "publishedAt": "2023-08-05T17:30:07Z",
+      "content": null
     },
     {
       "source": {
@@ -73,194 +112,155 @@
         "name": "Sportskeeda"
       },
       "author": "Alan Sahbegovic",
-      "title": "GTA 5 YouTuber shows how wonky GTA Online's movement can be - Sportskeeda",
-      "description": "Popular GTA 5 speedrunner and YouTuber, DarkViperAU, has recently released an interesting video tied to GTA Online's movement.",
-      "url": "https://www.sportskeeda.com/gta/gta-5-youtuber-shows-wonky-gta-online-s-movement-can",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/a2b0d-16911721744641-1920.jpg",
-      "publishedAt": "2023-08-04T19:46:00Z",
-      "content": "Popular GTA 5 speedrunner and YouTuber, DarkViperAU, has recently released an interesting video tied to GTA Online's movement. It's another part of his Facts and Glitches series and actually very int… [+4841 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Evo 2023 news, announcements, trailers, and character reveals recap - Polygon",
-      "description": "Here’s everything announced at the Evolution Championship Series, including reveals for Mortal Kombat 1, Street Fighter 6, Tekken 8, and Guilty Gear Strive.",
-      "url": "https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ytv4paJ46DkpflfWFCQ35mgVI8g=/0x647:9034x5377/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24830590/1413513262.jpg",
-      "publishedAt": "2023-08-04T19:38:16Z",
-      "content": "Evo 2023, aka the Evolution Championship Series, will bring the best-of-the-best fighting game players to Las Vegas this weekend for a three-day tournament. This years Evo promises to be its biggest,… [+4773 chars]"
+      "title": "5 infamous GTA controversies that younger fans might not know - Sportskeeda",
+      "description": "GTA is a series full of controversies. These mature games often prod the line between what's acceptable and what's not, so it should come across as no surprise that some outrage exists.",
+      "url": "https://www.sportskeeda.com/gta/infamous-gta-controversies-younger-fans-might-know",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/599de-16912547977024-1920.jpg",
+      "publishedAt": "2023-08-05T17:16:00Z",
+      "content": "GTA is a series full of controversies. These mature games often prod the line between what's acceptable and what's not, so it should come across as no surprise that some outrage exists. Such controve… [+4469 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GSMArena.com"
       },
-      "author": "Zack Zwiezen",
-      "title": "Looks Like Lego Animal Crossing Sets Are Coming - Kotaku",
-      "description": "According to reliable leakers, five Animal Crossing-themed Lego sets will be released in 2024",
-      "url": "https://kotaku.com/lego-mario-animal-crossing-new-sets-leaked-switch-2024-1850708732",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2b6b5159707faf6719d0abc27ddaadb0.jpg",
-      "publishedAt": "2023-08-04T19:04:50Z",
-      "content": "Nintendo and Lego are planning to release Animal Crossing Lego sets according to the latest information from reliable Lego leakers online. While this news might be exciting, keep in mind none of this… [+2633 chars]"
+      "author": "Sagar",
+      "title": "Google Pixel Watch 2's key specs leak, could launch in India - GSMArena.com news - GSMArena.com",
+      "description": "It will run Android 13-based Wear OS 4 out of the box and support seamless updates. The Google Pixel Watch launched last October came with the Exynos 9110...",
+      "url": "https://www.gsmarena.com/google_pixel_watch_2_key_specs_surface-news-59446.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/google-pixel-watch-2-key-specs-surface/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2023-08-05T17:10:01Z",
+      "content": "The Google Pixel Watchlaunched last October came with the Exynos 9110 SoC at the helm. However, a few months ago, we heard the Pixel Watch 2 would ditch Exynos for the Snapdragon W5 Series chip. It w… [+1719 chars]"
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": null,
+        "name": "Essentially Sports"
       },
       "author": null,
-      "title": "Motorola Razr (2023) review: A midrange foldable that underwhelms - Engadget",
-      "description": "Motorola’s attempt at a mid-range foldable cuts too many corners.",
-      "url": "https://www.engadget.com/motorola-razr-2023-review-a-midrange-foldable-that-underwhelms-190025514.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8mjkkbfMe8bQqbOWPBb01w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/235dfb50-313a-11ee-abb7-85c078074345.cf.jpg",
-      "publishedAt": "2023-08-04T19:02:24Z",
-      "content": "While Motorolas pricier Razr+ beat Samsungs Galaxy Z Flip 5 to the punch with its expansive external display, the Razr (named the Razr 40 in other regions like the UK) was pitched as a more budget-fr… [+6776 chars]"
+      "title": "Recreating WWE’s Hacker Gimmick, John Cena Ends Weeks of Speculation Regarding His Involvement in Video Game Project - EssentiallySports",
+      "description": "John Cena took a page out of WWE to play a character while confirming his role in a video game, that had many speculate his association.",
+      "url": "https://www.essentiallysports.com/wwe-esports-news-recreating-wwes-hacker-gimmick-john-cena-ends-weeks-of-speculation-regarding-his-involvement-in-video-game-project/",
+      "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/John-Cena-Never-Give-Up.png",
+      "publishedAt": "2023-08-05T17:00:00Z",
+      "content": "For some time now, there was a buzz about WWE legend John Cenas involvement in a popular video game. It has finally come to light, ending the speculation. The Cenation Leader has been revealed as a p… [+3494 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "GameRant"
       },
-      "author": null,
-      "title": "Blasphemous 2 - Official 'The Praying Blade' Weapon Showcase Trailer - IGN",
-      "description": "Blasphemous 2 is a 2D side-scrolling metroidvania action-adventure game developed by The Game Kitchen. Take a look at the weapon showcase for The Praying Bla...",
-      "url": "https://www.youtube.com/watch?v=qeEJqR5JX1M",
-      "urlToImage": "https://i.ytimg.com/vi/qeEJqR5JX1M/maxresdefault.jpg",
-      "publishedAt": "2023-08-04T18:00:30Z",
-      "content": null
+      "author": "Dalton Cooper",
+      "title": "Skyrim Player Finally Achieves Major Accomplishment After 11 Years - GameRant",
+      "description": "After playing the open world RPG for 11 years, an Elder Scrolls 5: Skyrim player finally achieves a huge goal they had with the game.",
+      "url": "https://gamerant.com/skyrim-all-skills-points/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/skyrim-snowy-mountain-ruins.jpg",
+      "publishedAt": "2023-08-05T16:51:00Z",
+      "content": "An Elder Scrolls 5: Skyrim player has finally leveled up all skills to 100 after 11 years with the game. The Elder Scrolls 5: Skyrim first launched in 2011 and was a massive success for Bethesda. The… [+2507 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "author": "Robert Ramsey",
-      "title": "Evo 2023 Schedule Day 1: All Start Times and Where to Watch - Push Square",
-      "description": "Stream all the action",
-      "url": "https://www.pushsquare.com/guides/evo-2023-schedule-day-1-all-start-times-and-where-to-watch",
-      "urlToImage": "https://images.pushsquare.com/ebd91e2b8b43d/1280x720.jpg",
-      "publishedAt": "2023-08-04T17:54:04Z",
-      "content": "Image: Push Square\r\nWhen is Evo 2023? If you're asking that question, you're probably set on watching the world's largest fighting game tournament unfold over the course of the weekend. The Sony-back… [+14488 chars]"
+      "author": "Vikki Blake",
+      "title": "Destiny 2 is \"heading into creative territories Bungie has never explored before\" - Eurogamer.net",
+      "description": "Destiny 2 developer Bungie has revealed plans to shake up how players progress in its upcoming expansion, The Final Sha…",
+      "url": "https://www.eurogamer.net/destiny-2-is-heading-into-creative-territories-bungie-has-never-explored-before",
+      "urlToImage": "https://assetsio.reedpopcdn.com/destiny_2_season_of_deep_week_2_sloan.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-08-05T16:41:54Z",
+      "content": "Destiny 2 developer Bungie has revealed plans to shake up how players progress in its upcoming expansion, The Final Shape.\r\nIn a \"State of the Game\" update posted to the official website, game direct… [+2624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Siddharth Patil",
+      "title": "$3,000,000,000 worth Pokemon GO once became the reason for over 150,000 traffic accidents in the United States - Sportskeeda",
+      "description": "Nintendo and Niantic's Pokemon GO is one of the most renowned smartphone games in the history of the medium.",
+      "url": "https://www.sportskeeda.com/pokemon/3-000-000-000-worth-pokemon-go-became-reason-150-000-traffic-accidents-the-united-states",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/ac0a4-16912506322906-1920.jpg",
+      "publishedAt": "2023-08-05T16:38:00Z",
+      "content": "Nintendo and Niantic's Pokemon GO is one of the most renowned smartphone games in the history of the medium. In fact, its unparalleled popularity has made it one of the highest-grossing mobile titles… [+3270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Joe Brown",
+      "title": "The 7 Best To-Do List Apps for Categorizing Your Tasks - MUO - MakeUseOf",
+      "description": "Are you feeling overwhelmed by your to-do list? Here are some apps that can help you categorize your tasks and stay organized.",
+      "url": "https://www.makeuseof.com/to-do-list-apps-for-categorizing-tasks/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-in-spiral-notepad.jpg",
+      "publishedAt": "2023-08-05T16:31:00Z",
+      "content": "Are you having a hard time organizing tasks? Do you think you have a system in place, but then forget about something important? These issues can easily be resolved with the help of a powerful to-do … [+6439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Jason Nelson",
+      "title": "How Does AI Affect Kids? Psychologists Weigh In - Decrypt",
+      "description": "Experts warn children may form emotional bonds with AI, overshadowing human relationships and hindering social skills development.",
+      "url": "https://decrypt.co/151434/ai-effects-on-kids-children",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/Kid-Tablet-shutterstock_2253368567-16x9-1-gID_7.jpg",
+      "publishedAt": "2023-08-05T16:23:08Z",
+      "content": "Critics and skeptics of artificial intelligence regularly claim it threatens human jobs. But given its immediately disruptive potential in education, the interests of one demographic deserves equal s… [+7028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Vikas Yadav",
+      "title": "Apple Days Sale 2023 At Vijay Sales: iPhones Starting From Rs 41,000, Huge Discounts On MacBooks, Apple Watc - Jagran English",
+      "description": "Apple iPhone 14 MacBook Apple Watch Deals Vijay Sales Apple Days sale is now live and will last until August 16 Apple iPhone 14 new Macbooks and more products are selling at massive discounts via HDFC bank cards and exchange offers during the sale that you ca…",
+      "url": "https://english.jagran.com/technology/apple-days-sale-2023-vijay-sales-iphone-14-pro-max-iphone-13-ipad-huge-discounts-on-macbook-apple-watch-airpods-10091974",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/aug/vijay-sales-apple-days-2023-iphone-14-macbook1691251768715.jpg",
+      "publishedAt": "2023-08-05T16:18:45Z",
+      "content": "Apple Days Sale 2023: Independence Day sales offers are being unveiled by e-commerce websites at blazing-fast speeds. While we have reported the best smartphone offers from Flipkart and Amazon, this … [+2038 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Elizabeth Lopatto",
-      "title": "Let's all play the Phone Challenge - The Verge",
-      "description": "I haven’t reevaluated my relationship with my smartphone since I got my first BlackBerry in 2008. What happens if I begin to treat it as a tool instead of entertainment?",
-      "url": "https://www.theverge.com/23820251/phone-screen-time-log-off",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3yxkZ4wxHYuf9NOdHvSH0uRDFL8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23334330/acastro_220318_STK020_0003.jpg",
-      "publishedAt": "2023-08-04T17:53:42Z",
-      "content": "Lets all play the Phone Challenge\r\nLets all play the Phone Challenge\r\n / What if my phone is just a tool?\r\nByElizabeth Lopatto, a reporter who writes about tech, money, and human behavior. She joined… [+3240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Under Night In-Birth II Sys:Celes announced for PS5, PS4, Switch, and PC - Gematsu",
-      "description": "Publisher Arc System Works and developer French-Bread have announced fighting game sequel Under Night In-Birth II Sys:Celes for PlayStation 5, PlayStation 4, Switch, and PC (Steam). It will launch …",
-      "url": "https://www.gematsu.com/2023/08/under-night-in-birth-ii-sysceles-announced-for-ps5-ps4-switch-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/08/Under-Night-In-Birth-2-Announced_08-04-23.jpg",
-      "publishedAt": "2023-08-04T17:30:03Z",
-      "content": "Publisher Arc System Works and developer French-Bread have announced fighting game sequel Under Night In-Birth II Sys:Celes for PlayStation 5, PlayStation 4, Switch, and PC (Steam). It will launch in… [+922 chars]"
+      "author": "Brandon Widder",
+      "title": "Amazon's latest Kindle is matching its Prime Day price for a limited time - The Verge",
+      "description": "Amazon’s entry-level Kindle is down to just $64.99 right now. You can also currently save on Nothing’s transparent Ear Stick earbuds, as well as Google’s HD Chromecast.",
+      "url": "https://www.theverge.com/2023/8/5/23820181/amazon-kindle-google-chromecast-hd-nothing-ear-stick-earbuds-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rqePGdMVsRSXN31btGO7jZCAlqc=/0x0:1983x1322/1200x628/filters:focal(992x661:993x662)/cdn.vox-cdn.com/uploads/chorus_asset/file/24831450/Amazon_2022_Kindle_Lifestyle_Press_Image.jpg",
+      "publishedAt": "2023-08-05T16:11:11Z",
+      "content": "Amazons latest Kindle is matching its Prime Day price for a limited time\r\nAmazons latest Kindle is matching its Prime Day price for a limited time\r\n / We also found steep savings on Googles HD Chrome… [+5363 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Kyle Barr",
-      "title": "Baldur's Gate 3 Has the Nerdiest Licensing Agreement Ever - Gizmodo",
-      "description": "Larian’s EULA, or 'Pact' offers players a campside ‘respite’ amid the legal jargon.",
-      "url": "https://gizmodo.com/baldur-s-gate-3-has-the-nerdiest-eula-1850708078",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5d675ae46ae9478a1186000f9af25d2d.png",
-      "publishedAt": "2023-08-04T17:20:00Z",
-      "content": "Players jumping into the hotly anticipated Dungeons &amp; Dragons RPG Baldurs Gate 3 will likely want to skip through the intensely rambling licensing agreement. But for those players who actually de… [+2411 chars]"
+      "author": "Linda Codega",
+      "title": "D&D Artist Confirms They Used AI Art in New Sourcebook - Gizmodo",
+      "description": "An artist for Bigby Presents: Glory of the Giants! has admitted to using AI to generate \"certain details\" of new art for the sourcebook.",
+      "url": "https://gizmodo.com/dnd-ai-art-bigbys-giants-book-artist-generators-wotc-1850710496",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/47da4864e6415fe4507d68a96a206d04.png",
+      "publishedAt": "2023-08-05T16:00:00Z",
+      "content": "One of the artists working on Dungeons &amp; Dragons newest bookBigby Presents: Glory of the Giants!, has stated that they used AI to help generate certain details or polish and editing in a recent p… [+1958 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Droid Life"
+        "name": "Hindustan Times"
       },
-      "author": "Tim",
-      "title": "Nothing Phone 2 Gets Another Massive Camera Update - Droid Life",
-      "description": "Nothing is shipping out the Nothing OS 2.0.2 update to owners of the Nothing Phone 2. Inside, users will find many camera improvements, which should help boost performance across the board for both rear shooters. The phone’s first update back in July also inc…",
-      "url": "https://www.droid-life.com/2023/08/04/nothing-phone-2-gets-another-massive-camera-update/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2023/07/Nothing-Phone-2-6-1-600x315-cropped.jpg",
-      "publishedAt": "2023-08-04T17:19:12Z",
-      "content": "Nothing is shipping out the Nothing OS 2.0.2 update to owners of the Nothing Phone 2. Inside, users will find many camera improvements, which should help boost performance across the board for both r… [+601 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Matt Mercer’s ‘Very Smart’ Crate-Stacking Trick Gets Him to the Top of a Baldur’s Gate 3 Castle - IGN",
-      "description": "Voice actor Matt Mercer came up with a surprising method of getting to the top of a Baldur's Gate 3 building by using over 40 wooden crates and an Arrow of Transposition.",
-      "url": "https://www.ign.com/articles/matt-mercers-very-smart-crate-stacking-trick-gets-him-to-the-top-of-a-baldurs-gate-3-castle",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/08/04/bg3-crate-1691169193749.png?width=1280",
-      "publishedAt": "2023-08-04T17:16:51Z",
-      "content": "If youre playing Baldurs Gate 3 right now (and going by the games popularity on Steam right now, you probably are), youll be enjoying the freedom it affords players not just in terms of the story and… [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Palia – Cinematic Trailer – Nintendo Switch - Nintendo of America",
-      "description": "Palia is coming to Nintendo Switch Winter 2023: https://www.nintendo.com/store/products/palia-switch/ Join curious Jina as she uncovers an artifact and embar...",
-      "url": "https://www.youtube.com/watch?v=Nwye10CqIsY",
-      "urlToImage": "https://i.ytimg.com/vi/Nwye10CqIsY/maxresdefault.jpg",
-      "publishedAt": "2023-08-04T17:00:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Nikki Main",
-      "title": "Tinder Is Getting an AI Upgrade to Help You Decide What Photos Are the Hottest - Gizmodo",
-      "description": "Match Group hopes to reduce online dating anxiety by giving the machines more responsibility.",
-      "url": "https://gizmodo.com/tinder-is-getting-an-ai-upgrade-to-help-you-pick-photos-1850705664",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b54724fe17015c8c9443b76c44b70ea6.jpg",
-      "publishedAt": "2023-08-04T16:55:00Z",
-      "content": "Like every other tech company, Tinder is bringing artificial intelligence to its operations in an attempt to create a better user experience, its parent company Matchgroup said in its Q2 earnings let… [+4041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "author": "Matt G. Southern",
-      "title": "Google's Responsive Search Ad Guide: Navigating AI In Advertising - Search Engine Journal",
-      "description": "Google has released a comprehensive guide highlighting AI's role in optimizing Responsive Search Ads for better ad performance.",
-      "url": "https://www.searchenginejournal.com/googles-responsive-search-ad-guide-navigating-ai-in-advertising/493299/",
-      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/08/img_2023-08-04-125032-64cd2c7e2d357-sej.jpeg",
-      "publishedAt": "2023-08-04T16:53:39Z",
-      "content": "Google recently released a comprehensive guide to help marketers better understand and utilize Responsive Search Ads (RSAs).\r\nThe guide provides an in-depth look at how Google leverages AI technology… [+5318 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Meta's Quest 3 headset might be coming out sometime soon - The Verge",
-      "description": "A new Meta-made VR headset has just shown up in the FCC’s database, and it seems likely that it’s the Meta Quest 3. Meta has already said that it plans to ship the device in the fall and will share more details at its Connect event.",
-      "url": "https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g7KUJoiahhHr0sAqbedyaXAabkI=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24830315/Introducing_Meta_Quest_3___Coming_This_Fall_____Introducing_Meta_Quest_3___Coming_This_Fall_2023_8_4_93325.584_1080p_streamshot.png",
-      "publishedAt": "2023-08-04T16:47:54Z",
-      "content": "Metas Quest 3 headset might be coming out sometime soon\r\nMetas Quest 3 headset might be coming out sometime soon\r\n / A new VR headset from Meta has appeared in the FCCs database just a few weeks befo… [+1900 chars]"
+      "author": "HT Tech",
+      "title": "5 things about AI you may have missed today: Iran’s new AI move, AI job loss and more - HT Tech",
+      "description": "AI Roundup: Iran proposes harsh hijab law along with AI surveillance, AI could predict future pandemics and much more.",
+      "url": "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-iran-s-new-ai-move-ai-job-loss-and-more-71691249003193.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/05/1600x900/AI_1691249725338_1691249725657.jpg",
+      "publishedAt": "2023-08-05T15:46:07Z",
+      "content": "The AI world is in turmoil again. Iran has proposed a harsh hijab law along with a long jail term and AI surveillance; 22-year-old claims AI caused 90% income drop, stole her job; study suggests AI c… [+2625 chars]"
     }
   ]
 }
