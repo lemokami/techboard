@@ -1,110 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 353,
+  "totalResults": 304,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Simon Hurtz",
-      "title": "OpenAI wants GPT-4 to solve the content moderation dilemma - The Verge",
-      "description": "Neither Meta nor TikTok have really figured out how to moderate harmful content at scale. OpenAI touts its large language model GPT-4, but there is a catch.",
-      "url": "https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QCdO_oKAdBIZCodEUT2WCBFgQSo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
-      "publishedAt": "2023-08-15T20:50:15Z",
-      "content": "OpenAI wants GPT-4 to solve the content moderation dilemma\r\nOpenAI wants GPT-4 to solve the content moderation dilemma\r\n / No one has really figured out how to moderate harmful content at scale. Open… [+3843 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Dexerto"
+        "name": "GSMArena.com"
       },
-      "author": "Dylan Horetski",
-      "title": "Billet Labs says Linus only offered to pay for prototype after Gamers Nexus video - Dexerto",
-      "description": "Billet Labs says that Linus Sebastian didn't offer to pay for the prototype cooling block he sold until after the Gamers Nexus video.",
-      "url": "https://www.dexerto.com/tech/billet-labs-says-linus-only-offered-to-pay-for-prototype-after-gamers-nexus-video-2251211/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/08/15/BilletLabsLinusTechTips.jpg",
-      "publishedAt": "2023-08-15T20:19:09Z",
-      "content": "In a public statement on Reddit, Billet Labs says that Linus Sebastian didnt offer to pay for the auctioned prototype cooling block until two hours after Gamers Nexus posted their video.\r\nOn August 1… [+2138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Seeds Sixth Betas of iOS 17 and iPadOS 17 to Developers - MacRumors",
-      "description": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after...",
-      "url": "https://www.macrumors.com/2023/08/15/apple-seeds-ios-17-beta-6-to-developers/",
-      "urlToImage": "https://images.macrumors.com/t/6b8G5PxTlH6uYOEFaG0IPAF9hKU=/2250x/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg",
-      "publishedAt": "2023-08-15T20:13:11Z",
-      "content": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after the release of the fifth betas.\r\nRegistered devel… [+2489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Destiny 2 Promises Free Stuff After Players Revolt - Kotaku",
-      "description": "Bungie previewed upcoming content after fans raged against the state of the game",
-      "url": "https://kotaku.com/destiny-2-final-shape-season-22-pvp-map-pack-free-1850740742",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d226a6da7e63a11e0123a12a039d8d23.jpg",
-      "publishedAt": "2023-08-15T20:04:41Z",
-      "content": "The Destiny 2 community has been spiraling ever since a disappointing State of the Game update earlier this month failed to address what some fans see as core issues with the modern version of Bungie… [+3984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Mortal Kombat 1 - Official Pre-Order Beta Weekend Trailer - IGN",
-      "description": "Watch the latest trailer for the upcoming fighting game Mortal Kombat 1. A Beta for Mortal Kombat 1 runs from August 18 through August 21, 2023, and access t...",
-      "url": "https://www.youtube.com/watch?v=ASatRN-3i9I",
-      "urlToImage": "https://i.ytimg.com/vi/ASatRN-3i9I/maxresdefault.jpg",
-      "publishedAt": "2023-08-15T19:02:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Jason Fanelli",
-      "title": "Here's A New Card From The Upcoming Magic: The Gathering Wilds Of Eldraine Expansion - GameSpot",
-      "description": "This creature could blossom into a major boon for your deck.",
-      "url": "https://www.gamespot.com/articles/heres-a-new-card-from-the-upcoming-magic-the-gathering-wilds-of-eldraine-expansion/1100-6516566/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4173893-wilds-of-eldraine.jpg",
-      "publishedAt": "2023-08-15T19:00:00Z",
-      "content": "Magic: The Gathering players have not seen a \"normal\" expansion since March Of The Machine ended the New Phyrexia saga in April. That will change September 8 with the launch of Wilds Of Eldraine, whi… [+2510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "The first Baldur's Gate 3 patch promises '1000+ fixes and tweaks' | VGC - Video Games Chronicle",
-      "description": "Larian “very enthused” by player feedback to the game…",
-      "url": "https://www.videogameschronicle.com/news/the-first-baldurs-gate-3-patch-promises-1000-fixes-and-tweaks/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/08/baldurs-gate-3-b.jpg",
-      "publishedAt": "2023-08-15T18:59:02Z",
-      "content": "The first Baldur’s Gate 3 patch will include over 1,000 fixes and adjustments, according to Larian Studios.\r\nCompany CEO Swen Vincke outlined the developers roadmap in a Twitter update published on T… [+1084 chars]"
+      "author": "Vlad",
+      "title": "Oppo Find N3 Flip and OnePlus Open get new rumored release times - GSMArena.com news - GSMArena.com",
+      "description": "The Find N3 Flip will arrive the soonest. Oppo's Find N2 Flip was announced in China in December 2022, so it's only around eight months old at this point....",
+      "url": "https://www.gsmarena.com/oppo_find_n3_flip_and_oneplus_open_get_new_rumored_release_times-news-59575.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/oppo-find-n3-flip-oneplus-open-release-timeframe/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-16T23:22:25Z",
+      "content": "Oppo's Find N2 Flip was announced in China in December 2022, so it's only around eight months old at this point. And yet, we've seen a lot of leaks and rumors regarding its successor already. As it t… [+1487 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Subhadip Dey",
-      "title": "Mobile Legends best Franco Build in MLBB: Items, Emblems, and more - Sportskeeda",
-      "description": "Franco is among the most versatile champions in Mobile Legends Bang Bang; thus, many gamers look for the best Franco build in MLBB.",
-      "url": "https://www.sportskeeda.com/esports/mobile-legends-best-franco-build-mlbb-items-emblems",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/f4712-16921231586053-1920.jpg",
-      "publishedAt": "2023-08-15T18:40:00Z",
-      "content": "Franco is among the most versatile champions in Mobile Legends Bang Bang; thus, many gamers look for the best Franco build in MLBB. Despite having a low damage output, this durable champion can be a … [+3336 chars]"
+      "author": "Richik \"anarkiddie\" Bhattacharya",
+      "title": "\"Dude is a fraud\": Decoding the backlash to Linus' apology during the fallout of Gamer Nexus-Linus Tech Tips drama - Sportskeeda",
+      "description": "The Gamer Nexus and LTT drama saw Linus Tech Tips come out with a 20-minute-long apology video featuring a number of high-ranking employees at LMG (Linus Media Group).",
+      "url": "https://www.sportskeeda.com/esports/news-dude-fraud-decoding-backlash-linus-apology-fallout-gamer-nexus-linus-tech-tips-drama",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/8e8e8-16922251445631-1920.jpg",
+      "publishedAt": "2023-08-16T22:53:00Z",
+      "content": "The Gamer Nexus and LTT drama saw Linus Tech Tips come out with a 20-minute-long apology video featuring a number of high-ranking employees at LMG (Linus Media Group). They addressed the allegations … [+2921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Starfield has housing system, player jail, and more reveals Bethesda in new Q&A - Eurogamer.net",
+      "description": "Starfield's hype handle cranks ever-more furiously in the run-up to its September release, and Bethesda has now fired o…",
+      "url": "https://www.eurogamer.net/starfield-has-housing-system-player-jail-and-more-reveals-bethesda-in-new-qa",
+      "urlToImage": "https://assetsio.reedpopcdn.com/starfield_x7MIIv3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-08-16T22:20:02Z",
+      "content": "Starfield's hype handle cranks ever-more furiously in the run-up to its September release, and Bethesda has now fired out a scattershot volley of fresh details, courtesy of a new Discord Q&amp;A.\r\nSu… [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ford Authority"
+      },
+      "author": "Ford Authority",
+      "title": "Ford Mustang GTD Leaks Ahead Of Debut - Ford Authority",
+      "description": null,
+      "url": "https://fordauthority.com/2023/08/ford-mustang-gtd-leaks-ahead-of-debut/",
+      "urlToImage": null,
+      "publishedAt": "2023-08-16T21:58:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Drive"
+      },
+      "author": null,
+      "title": "Summit's Ford 300 I6 Turbo Kits Turn Workhorses Into 500-HP Thoroughbreds - The Drive",
+      "description": "The Ford 300 inline-six is dependable. But if you want to make it powerful, these are the parts you'll need.",
+      "url": "https://www.thedrive.com/news/summits-ford-300-turbo-kits-turn-workhorses-into-500-hp-thoroughbreds#article",
+      "urlToImage": "https://www.thedrive.com/uploads/2023/08/16/Ford-300-Turbo-Hero-1.jpg?auto=webp",
+      "publishedAt": "2023-08-16T21:05:40Z",
+      "content": "You can say a lot about Ford's 300-cubic-inch inline-six. For starters, you can say it's insanely durable and laughably simple, which is exactly what you want in a workhorse. But you can't really say… [+3023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Todd Spangler",
+      "title": "Apple Removes Glenn Beck Podcasts 'With No Explanation,' Conservative Host Says - Variety",
+      "description": "Apple Podcasts has removed all episodes of “The Glenn Beck Program” — roughly 1,900 episodes — and the conservative host says he’s in the dark about the reason why. &#…",
+      "url": "https://variety.com/2023/digital/news/apple-removes-glenn-beck-podcasts-1235698278/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/08/Glenn-Beck.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-08-16T20:58:00Z",
+      "content": "Apple Podcasts has removed all episodes of “The Glenn Beck Program” — roughly 1,900 episodes — and the conservative host says he’s in the dark about the reason why.\r\n“All of my podcasts have been rem… [+2169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biometric Update"
+      },
+      "author": "Masha Borak",
+      "title": "New Apple patents for emotion recognition and MacBook face authentication - Biometric Update",
+      "description": "Apple may be inching closer to including Face ID biometric authentication in its MacBook laptops, based on a newly granted patent.",
+      "url": "https://www.biometricupdate.com/202308/new-apple-patents-for-emotion-recognition-and-macbook-face-authentication",
+      "urlToImage": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16160102/apple-macbook-scaled.jpg",
+      "publishedAt": "2023-08-16T20:04:23Z",
+      "content": "Apple may be inching closer to including Face ID biometrics in its MacBook laptops, based on a newly granted patent.\r\nTuesday, the U.S. patent office granted Apple patent 11727718, Light Recognition … [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Drive"
+      },
+      "author": null,
+      "title": "Acura Integra Type S ECU Jailbreak Reveals More Aggressive Tune Than Civic Type R - The Drive",
+      "description": "While digging deeper into the Integra Type S ECU, Hondata found more ignition timing and modified torque limits.",
+      "url": "https://www.thedrive.com/news/acura-integra-type-s-ecu-jailbreak-reveals-more-aggressive-tune-than-civic-type-r#article",
+      "urlToImage": "https://www.thedrive.com/uploads/2023/08/16/its-tune-3-scaled.jpg?auto=webp&width=2000&height=1125",
+      "publishedAt": "2023-08-16T20:00:00Z",
+      "content": "The 2024 Acura Integra Type S and 2023 Honda Civic Type R are out together and roaming the streets, inspiring debates between owners over the crucial question: Which one is better? Well, after some i… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Amazon Music Unlimited Raises Prices for Prime Members - CNET",
+      "description": "If you have an Amazon Music Unlimited family plan, you'll also pay more per month.",
+      "url": "https://www.cnet.com/tech/services-and-software/amazon-music-unlimited-raises-prices-for-prime-members/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b3dbc9a956a17c59ad5f58046549a217d5986065/hub/2022/06/30/14a28420-bd3d-4d38-b413-588d4937131b/amazon-music-unlimited-logo.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-08-16T19:57:00Z",
+      "content": "Amazon is raising its monthly cost for Amazon Music Unlimited, and the price increase will affect Prime members who are on the individual plan as well as people with the Amazon Music Unlimited family… [+2091 chars]"
     },
     {
       "source": {
@@ -112,142 +125,12 @@
         "name": "Sportskeeda"
       },
       "author": "Alan Sahbegovic",
-      "title": "Why GTA 6 sales won't be affected by ESRB's rumored facial recognition technology - Sportskeeda",
-      "description": "There were many false reports about how GTA 6 sales are going to be affected by the ESRB's rumored facial recognition technology.",
-      "url": "https://www.sportskeeda.com/gta/why-gta-6-sales-affected-esrb-s-rumored-facial-recognition-technology",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/c0f48-16921229329747-1920.jpg",
-      "publishedAt": "2023-08-15T18:36:00Z",
-      "content": "There were many false reports about how GTA 6 sales are going to be affected by the ESRB's rumored facial recognition technology. Note that this new tech will have zero bearing on whether people unde… [+3292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "One Of Baldur's Gate 3's Most Powerful Attacks Is Gravity - Kotaku",
-      "description": "Inventive fans have used the Dungeons & Dragons rules to deal over 1,000 damage",
-      "url": "https://kotaku.com/baldurs-gate-3-owlbear-damage-dps-rpg-crushing-flight-1850740177",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6d757a426516990371653cd90a7f81d3.jpg",
-      "publishedAt": "2023-08-15T18:33:00Z",
-      "content": "If theres a ridiculous way to overcome an obstacle or win a fight, Baldurs Gate 3 will probably give players the options to actually do it, and it wont take them long to try. The latest example revol… [+1712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Baldur's Gate 3 Patch With 1,000+ Fixes And Changes Is Coming - GameSpot",
-      "description": "Larian says it's \"very enthused\" by fan feedback so far.",
-      "url": "https://www.gamespot.com/articles/baldurs-gate-3-patch-with-1000-fixes-and-changes-is-coming/1100-6516893/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4178755-screenshot2023-08-15at1.21.56pm.png",
-      "publishedAt": "2023-08-15T18:26:51Z",
-      "content": "Larian Studios has already released multiple \"hotfixes\" for Baldur's Gate 3 that have addressed more than 650 items, but now the studio is preparing to release the game's first patch, and it sounds l… [+1589 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Blizzard is previewing a Diablo III single-player mode — 11 years after the game launched - The Verge",
-      "description": "Blizzard’s new Solo Self Found mode, previewing in the latest test build of the game, will kick off Diablo III’s 29th season, giving players something they’ve wanted for 11 years: a single-player mode.",
-      "url": "https://www.theverge.com/2023/8/15/23833117/diablo-3-single-player-solo-self-found-season-29-visions-of-enmity",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Pccg2Ml_CSqXmLSwC6eiX1Rgdiw=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24852401/apps.48549.64140138686919815.d9e.jpg",
-      "publishedAt": "2023-08-15T18:26:06Z",
-      "content": "Blizzard is previewing a Diablo III single-player mode 11 years after the game launched\r\nBlizzard is previewing a Diablo III single-player mode 11 years after the game launched\r\n / Blizzards devs say… [+2387 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "OpenAI proposes a new way to use GPT-4 for content moderation - TechCrunch",
-      "description": "In a blog post, OpenAI proposes a new technique for using its flagship generative AI model, GPT-4, for content moderation.",
-      "url": "https://techcrunch.com/2023/08/15/openai-proposes-a-new-way-to-use-gpt-4-for-content-moderation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
-      "publishedAt": "2023-08-15T18:15:35Z",
-      "content": "OpenAI claims that it’s developed a way to use GPT-4, its flagship generative AI model, for content moderation — lightening the burden on human teams.\r\nDetailed in a post published to the official Op… [+3334 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Haley Tenore",
-      "title": "Some iPhone owners to get around $65 from 'batterygate' lawsuit - Business Insider",
-      "description": "Remember \"batterygate,\" when Apple admitted to throttling iPhones with older batteries? If you filed a claim, a cash reward could be on its way.",
-      "url": "https://www.businessinsider.com/apple-iphone-batterygate-lawsuit-settlement-payments-2023-8",
-      "urlToImage": "https://i.insider.com/64db95505e5d5a00195e6022?width=1200&format=jpeg",
-      "publishedAt": "2023-08-15T18:01:00Z",
-      "content": "Do you remember \"batterygate?\" In 2020, lots of iPhone users filed claims as part of an Apple settlement related to the slowdown of older iPhones.\r\nYears later, payouts are finally going to be sent o… [+1546 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Oli Welsh",
-      "title": "Xbox Game Pass August 2023 lineup includes Texas Chain Saw Massacre - Polygon",
-      "description": "Xbox Game Pass will get fun new additions in Aug. 2023, including slasher Texas Chain Saw Massacre, indie classics Gris and Firewatch, and retro RPG Sea of Stars.",
-      "url": "https://www.polygon.com/23833126/xbox-game-pass-august-2023-gris-firewatch-texas-chainsaw-massacre",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ST2SJFe2JvfZIYvAjeHaQbhJOWc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24852231/gris_game_pass.jpg",
-      "publishedAt": "2023-08-15T17:50:00Z",
-      "content": "Microsoft has announced the new additions to Xbox Game Pass for the second half of August 2023, and its a decent mix: two beloved, thoughtful indies of the last few years, and two interesting prospec… [+1883 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "You're the OS is a game that will make you feel for your poor, overworked system - Ars Technica",
-      "description": "The disk caching will continue until idle process morale improves.",
-      "url": "https://arstechnica.com/gaming/2023/08/youre-the-os-is-a-game-that-will-make-you-feel-for-your-poor-overworked-system/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-15-at-11.43.40-AM-760x380.png",
-      "publishedAt": "2023-08-15T17:49:03Z",
-      "content": "Enlarge/ If I click the \"I/O Events\" in the upper-left corner, maybe some of the frozen processes with a little hourglass will unfreeze. But how soon? Before the other deep-red processes die? I can't… [+4177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Claire Jackson",
-      "title": "Baldur's Gate 3: How To Easily Revive, Respec, And Recruit NPCs - Kotaku",
-      "description": "Revive the dead, change your class, or take on some hirelings with Withers",
-      "url": "https://kotaku.com/baldurs-gate-3-bg3-withers-npc-revive-character-1850739864",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3c6c1fe08d505fe2692cb3fd45e7b999.jpg",
-      "publishedAt": "2023-08-15T17:48:26Z",
-      "content": "Dont you hate it when people die? Well the good thing about living in Faerûn is that you can bring folks back, you just need to know the right people. Withers, Baldurs Gate 3 very own crypt keeper, c… [+3532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Consequence.net"
-      },
-      "author": "Abby Jones",
-      "title": "Activision Drops Lawsuit Against YouTuber Anthony Fantano - Consequence",
-      "description": "Activision has dropped the lawsuit they filed against Anthony Fantano after the music YouTuber allegedly sent the video game developer a cease-and-desist letter for using his TikTok audio.",
-      "url": "https://consequence.net/2023/08/activision-drops-lawsuit-anthony-fantano/",
-      "urlToImage": "https://consequence.net/wp-content/uploads/2023/08/Activision-logo-and-Anthony-Fantano-photo-via-YouTube.jpg",
-      "publishedAt": "2023-08-15T17:28:27Z",
-      "content": "Earlier this month, Activision filed a lawsuit against Anthony Fantano after the music YouTuber (aka theneedledrop) allegedly sent the video game developer a cease-and-desist letter demanding a settl… [+1407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Arif Bacchus",
-      "title": "25 years ago, Apple changed everything with the first iMac - XDA Developers",
-      "description": "The first iMac launched to the public on Aug. 15, 1998, and in those 25 years, the iMac shaped Apple in more ways than one",
-      "url": "https://www.xda-developers.com/25-years-ago-first-imac/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/imac-1998.jpg",
-      "publishedAt": "2023-08-15T17:00:00Z",
-      "content": "Apple is often at the forefront of innovation in the tech industry. For example, these days, Macs are all the rage thanks to the powerful Apple silicon, which helps these computers place at the top o… [+5316 chars]"
+      "title": "How to get Fontaine craftable weapon blueprints in Genshin Impact - Sportskeeda",
+      "description": "Genshin Impact players seeking the new F2P-friendly 4-star Fontaine craftable weapons should know they can get the blueprints from a vendor.",
+      "url": "https://www.sportskeeda.com/esports/how-get-fontaine-craftable-weapon-blueprints-genshin-impact",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/cdb7b-16922107251490-1920.jpg",
+      "publishedAt": "2023-08-16T19:49:00Z",
+      "content": "Genshin Impact players seeking the new F2P-friendly 4-star Fontaine craftable weapons should know they can get the blueprints from a vendor. An NPC named Estelle has the diagrams, and she is slightly… [+3358 chars]"
     },
     {
       "source": {
@@ -255,12 +138,129 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Battlefield 2042 - Official Season 6 and Redux First Look Trailer - IGN",
-      "description": "Battlefield 2042 has introduced a new first look at Season 6 and the new Redux event coming to the DICE-developed FPS. Battlefield 2042 Season 6 will be brin...",
-      "url": "https://www.youtube.com/watch?v=15MxrLGg0xQ",
-      "urlToImage": "https://i.ytimg.com/vi/15MxrLGg0xQ/maxresdefault.jpg",
-      "publishedAt": "2023-08-15T17:00:00Z",
+      "title": "TMNT: Shredder's Revenge - Official Dimension Shellshock DLC Release Date Trailer - IGN",
+      "description": "TMNT: Shredder's Revenge is the 2D melee brawler developed by Tribute Games. Karai joins the fight in the Dimension Shellshock DLC as the fiercest Foot Clan ...",
+      "url": "https://www.youtube.com/watch?v=p26rL80WAKc",
+      "urlToImage": "https://i.ytimg.com/vi/p26rL80WAKc/maxresdefault.jpg",
+      "publishedAt": "2023-08-16T19:00:19Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Cranz",
+      "title": "Linus Tech Tips pauses production as controversy swirls - The Verge",
+      "description": "The YouTube channel Linus Tech Tips has halted production after controversies over ethics and accuracy in reporting, spurred further this morning by accusations of sexual harassment experienced at the company.",
+      "url": "https://www.theverge.com/2023/8/16/23834190/linus-tech-tips-gamersnexus-madison-reeves-controversy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/G4a6Ay1-7pvjA59lDryFcqDON_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24854402/236746_Linus_Tech_Tip_s_image_is_unravelling_before_our_eyes_02_WJoel.jpg",
+      "publishedAt": "2023-08-16T18:57:15Z",
+      "content": "Linus Tech Tips pauses production as controversy swirls\r\nLinus Tech Tips pauses production as controversy swirls\r\n / What started as criticism over errors in recent YouTube videos has escalated into … [+5248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "https://www.india.com/author/victor-dasgupta/",
+      "title": "Compared | Xiaomi Mix Fold 3 vs Samsung Galaxy Z Fold 5: Price, Specifications - India.com",
+      "description": "The launch of Xiaomi Mix Fold 3 comes days after Samsung raised the curtain from Galaxy Z Fold 5 paving the way for stiff competition between the two foldable smartphones.",
+      "url": "https://www.india.com/technology/compared-xiaomi-mix-fold-3-vs-samsung-galaxy-z-fold-5-price-specifications-6232667/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2023/08/Xiaomi-Mix-Fold-3-1.jpg",
+      "publishedAt": "2023-08-16T18:52:13Z",
+      "content": "The launch of Xiaomi Mix Fold 3 comes days after Samsung raised the curtain from Galaxy Z Fold 5 paving the way for stiff competition between the two foldable smartphones.\r\nXiaomi Mix Fold 3\r\nNew Del… [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ro",
+      "title": "The iPhone 15's new USB-C connector might support the Thunderbolt standard - GSMArena.com news - GSMArena.com",
+      "description": "Thunderbolt support could be limited to the Pro models only. After it became clear that the new iPhone 15 series will definitely replace the age-old...",
+      "url": "https://www.gsmarena.com/the_iphone_15s_new_usbc_connector_might_support_the_thunderbolt_standard-news-59574.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/iphone-15-thunderbolt-support/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-16T18:40:01Z",
+      "content": "After it became clear that the new iPhone 15 series will definitely replace the age-old Lighting connector with USB-C, the guys over at ChargerLAB dug deeper and got a hold of some exclusive photos o… [+808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComingSoon.net"
+      },
+      "author": "Christopher Castellaw",
+      "title": "Starfield Review Bomb Being Planned by Disgruntled Gamers - ComingSoon.net",
+      "description": "Upset over its PC and Xbox exclusivity, disgruntled gamers have begun creating fake Metacritic accounts for a Starfield review bomb campaign.",
+      "url": "https://www.comingsoon.net/games/news/1321098-starfield-review-bomb-planned-disgruntled-gamers",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/Starfield-promo-art.jpg?resize=1200,630",
+      "publishedAt": "2023-08-16T18:35:32Z",
+      "content": "Players still have a few weeks to wait until they can get their hands on Bethesda Game StudiosStarfield, but that hasnt stopped some disgruntled gamers from planning a review bombing campaign against… [+1852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Zelda: Tears Of The Kingdom Has Reportedly Helped Boost Japan's GDP - Nintendo Life",
+      "description": "No tears here",
+      "url": "https://www.nintendolife.com/news/2023/08/zelda-tears-of-the-kingdom-has-reportedly-helped-boost-japans-gdp",
+      "urlToImage": "https://images.nintendolife.com/c341e3aefbd37/1280x720.jpg",
+      "publishedAt": "2023-08-16T18:30:00Z",
+      "content": "Image: Nintendo Life\r\nPreliminary figures released by the Japanese Cabinet Officer today report that The Legend of Zelda: Tears of the Kingdom may well have helped boost Japan's GDP (gross domestic p… [+1565 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "'Madden NFL 24' producer: Goal of series is 'to blur the lines between our game and the real-life game' - NFL.com",
+      "description": "Nick Shook talks to some of the people behind \"Madden NFL 24\" about the changes on tap for the latest installment of the franchise -- including the ways more realistic blocking will open up the run game.",
+      "url": "https://www.nfl.com/news/madden-nfl-24-producer-goal-of-series-is-to-blur-the-lines-between-our-game-and-",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zyrulrgahrkosypxgnfj",
+      "publishedAt": "2023-08-16T18:23:00Z",
+      "content": "Pride emanated from the game's developers at the June preview event.\r\n\"The presentation that we gave, at least from my perspective, Boat's going on, it was like watching a coach go through film,\" Mad… [+2169 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "Steam Remote Play now officially supports 4K gaming - Engadget",
+      "description": "Valve just dropped a Steam Client Beta update that finally introduces a sought-after feature.",
+      "url": "https://www.engadget.com/steam-remote-play-now-officially-supports-4k-gaming-182020228.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/l6YypBI7efriVPlS99nIdQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/10b1d8e0-3c5d-11ee-b5df-9d239e978a74.cf.jpg",
+      "publishedAt": "2023-08-16T18:22:08Z",
+      "content": "Valve just dropped a Steam Client Beta update\r\n that finally introduces a sought-after feature. The Steam Remote Play service will now offer 4K support, providing a series of presets to allow gamers … [+1377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "''Stealing Electricity'': Man Claims His Boss Yelled At Him For Charging Phone At Work - NDTV",
+      "description": "In a Reddit post that is going viral, a user shared that his boss yelled at him for charging his phone at work.",
+      "url": "https://www.ndtv.com/offbeat/stealing-companys-electricity-man-claims-his-boss-yelled-at-him-for-charging-phone-at-work-4303775",
+      "urlToImage": "https://c.ndtvimg.com/2023-08/5j5ob5jo_charging-phone_625x300_16_August_23.jpg",
+      "publishedAt": "2023-08-16T18:05:00Z",
+      "content": "Reddit users were left aghast and slammed the employee's boss.\r\nNeedless to say, all jobs include some level of stress. However, a person can feel an added amount of stress if the workplace is toxic,… [+2006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times Of India",
+      "title": "Krafton introduces Indian Faction to Road To Valor: Empires - Times of India",
+      "description": "Krafton and Dreamotion have launched the Indian Faction in their mobile strategy game, Road To Valor: Empires. The immersive gaming experience feature",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/krafton-introduces-indian-faction-to-road-to-valor-empires/articleshow/102780825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102780825,width-1070,height-580,imgsize-2644376,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-16T18:02:00Z",
+      "content": "10 ways to use Googles AI chatbot Bard"
     }
   ]
 }
