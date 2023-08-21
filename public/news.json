@@ -1,97 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 342,
+  "totalResults": 319,
   "articles": [
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Vlad",
-      "title": "Android 14 Beta 5.1 lands with last-minute bug fixes - GSMArena.com news - GSMArena.com",
-      "description": "Hopefully the stable release won't be far behind. Earlier this month, Google pulled a fast one on us pretending it had scheduled a fifth Android 14 beta...",
-      "url": "https://www.gsmarena.com/android_14_beta_51_lands_with_lastminute_bug_fixes-news-59603.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/android-14-beta-5-1/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-18T21:34:17Z",
-      "content": "Earlier this month, Google pulled a fast one on us pretending it had scheduled a fifth Android 14 beta release all along, when last month it had heavily implied the fourth beta would be the last befo… [+1369 chars]"
+      "author": "Ro",
+      "title": "The Google Camera app is getting a major UI overhaul with the Pixel 8 series - GSMArena.com news - GSMArena.com",
+      "description": "The first big UI overhaul since 2019. A source related to Android AUthority shared screenshots of the new Google Camera UI redesign, which will likely be...",
+      "url": "https://www.gsmarena.com/the_google_camera_app_is_getting_a_major_ui_overhaul_with_the_pixel_8_series-news-59609.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/new-google-camera-ui/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-19T21:30:01Z",
+      "content": "A source related to Android AUthority shared screenshots of the new Google Camera UI redesign, which will likely be introduced with the upcoming Pixel 8 lineup this fall. The last big design overhaul… [+1637 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Slashdot.org"
       },
       "author": null,
-      "title": "Mortal Kombat 1 - Liu Kang Starter Guide - IGN",
-      "description": "Looking to leave your opponents confounded with regards to when they're safe to press a button against Liu Kang in Mortal Kombat 1? Want to deal almost 50% d...",
-      "url": "https://www.youtube.com/watch?v=gu8TH9wwKLo",
-      "urlToImage": "https://i.ytimg.com/vi/gu8TH9wwKLo/maxresdefault.jpg",
-      "publishedAt": "2023-08-18T21:00:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "WD refused to answer our questions about its self-wiping SanDisk SSDs - The Verge",
-      "description": "After several expensive SanDisk solid-state drives began catastrophically failing, Western Digital is still refusing to answer our questions.",
-      "url": "https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bST6tlphvzQ3NH4z72dcReGe__o=/0x0:1602x1134/1200x628/filters:focal(801x567:802x568)/cdn.vox-cdn.com/uploads/chorus_asset/file/24856934/sandisk_extreme_pro_ssd.png",
-      "publishedAt": "2023-08-18T20:35:24Z",
-      "content": "WD refused to answer our questions about its self-wiping SanDisk SSDs\r\nWD refused to answer our questions about its self-wiping SanDisk SSDs\r\n / Months later, the company has nothing to say for itsel… [+3278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Kif Leswing",
-      "title": "The iPhone 15 could get one of the biggest upgrades in years: A new charging port - CNBC",
-      "description": "The iPhone 15, expected to launch in September, could have a feature that no iPhone has ever had — a generic charging port.",
-      "url": "https://www.cnbc.com/2023/08/18/iphone-15-usb-c-charging-would-be-biggest-upgrade-in-years.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107140813-1666765938243-gettyimages-1235497217-porzycki-european210925_npR5A.jpeg?v=1692388519&w=1920&h=1080",
-      "publishedAt": "2023-08-18T19:55:19Z",
-      "content": "Apple will \"comply\" with European Union regulation that requires electronic devices to be equipped with USB-C charging, said Greg Joswiak, Apple's senior vice president of worldwide marketing. That w… [+6911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Isobel Whitcomb",
-      "title": "China's rover maps 1000 feet of hidden 'structures' deep below the dark side of the moon - Livescience.com",
-      "description": "Scientists were able to visualize the upper 1,000 feet of the moon's surface for the first time. Their results reveal billions of years of previously hidden lunar history.",
-      "url": "https://www.livescience.com/space/the-moon/chinas-rover-maps-1000-feet-of-hidden-structures-deep-below-the-dark-side-of-the-moon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tVTWNN8fY3EVorfi37VN9C-1200-80.jpg",
-      "publishedAt": "2023-08-18T19:31:17Z",
-      "content": "Since it first landed in 2018, China's Chang'e-4 — the first spacecraft to ever land on the far side of the moon — has been taking stunning panoramas of impact craters and sampling minerals from the … [+3149 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "SanDisk Extreme SSDs are “worthless,” multiple lawsuits against WD say - Ars Technica",
-      "description": "Ars cited in two SanDisk SSD failure lawsuits filed yesterday.",
-      "url": "https://arstechnica.com/gadgets/2023/08/sandisk-extreme-ssds-are-worthless-multiple-lawsuits-against-wd-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/SanDisk-SSD-760x380.jpg",
-      "publishedAt": "2023-08-18T19:25:23Z",
-      "content": "31 with \r\nOn Thursday, two more lawsuits were filed against Western Digital over its SanDisk Extreme series and My Passport portable SSDs. That brings the number of class-action complaints filed agai… [+5076 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI' - The Verge",
-      "description": "Microsoft published and then removed an article that prominently recommended tourists visit the Ottawa Food Bank. The company let go of human journalists in favor of AI in 2020.",
-      "url": "https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
-      "publishedAt": "2023-08-18T18:59:54Z",
-      "content": "Microsoft says listing the Ottawa Food Bank as a tourist destination wasnt the result of unsupervised AI\r\nMicrosoft says listing the Ottawa Food Bank as a tourist destination wasnt the result of unsu… [+4082 chars]"
+      "title": "Do US Teens Hate Android Phones? - Slashdot",
+      "description": "America's teens hate Android phones, according to a new article from the Wall Street Journal:\nMelissa Jones, a former teacher in Lebanon, Ind., observes that, among students, it's considered most important to own a new, up-to-date phone. And judging by the co…",
+      "url": "https://mobile.slashdot.org/story/23/08/19/0526251/do-us-teens-hate-android-phones",
+      "urlToImage": "https://a.fsdn.com/sd/topics/cellphones_64.png",
+      "publishedAt": "2023-08-19T21:00:00Z",
+      "content": "...It's not about 'hate'.\r\nIt's about the same thing it always has been: being a part of a group. If the popular kids have iPhone 14 Pro's, 'green bubble texts' from a hand-me-down Galaxy S9 are goin… [+2536 chars]"
     },
     {
       "source": {
@@ -99,51 +34,64 @@
         "name": "The Times of India"
       },
       "author": "TIMESOFINDIA.COM",
-      "title": "WhatsApp to get HD videos sharing support soon, confirms Mark Zukerberg - Times of India",
-      "description": "WhatsApp users can now share high-resolution photos up to 12MP with other users. The platform plans to add support for HD videos in the future. There",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/whatsapp-to-get-hd-videos-sharing-support-soon-confirms-mark-zukerberg/articleshow/102842919.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-102842919,width-1070,height-580,imgsize-6288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-08-18T18:56:00Z",
-      "content": "Indias first 3D printed post office in Bengaluru"
+      "title": "Google Docs, Sheets and Slides to get updated design for foldables and tablets - Times of India",
+      "description": "Gadgets News News: Seems Google’s foldable smartphone is good news for other foldable devices as well.",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/google-docs-sheets-and-slides-to-get-updated-design-for-foldables-and-tablets/articleshow/102863625.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102863625,width-1070,height-580,imgsize-11982,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-19T19:03:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Google Docs, Sheets and Slides to get updated design for foldables and tablets</li></ul>\r\nFOLLOW US ON SOCIAL MEDIA"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Virat Fumakia",
+      "title": "Genshin Impact: Angelica and Medoro Fairy Knight twin locations and Local legend achievement guide - Sportskeeda",
+      "description": "Genshin Impact's newly released region of Fontaine has introduced eight exciting boss monsters called Local Legends. Scattered across the land, defeating them all will reward you with an achievement.",
+      "url": "https://www.sportskeeda.com/esports/genshin-impact-angelica-medoro-fairy-knight-twin-locations-local-legend-achievement-guide",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/24159-16924687559082-1920.jpg",
+      "publishedAt": "2023-08-19T18:50:00Z",
+      "content": "Genshin Impact's newly released region of Fontaine has introduced eight exciting boss monsters called Local Legends. Scattered across the land, defeating them all will reward you with an achievement.… [+2691 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Brandon Widder",
-      "title": "The new Beats Studio Buds Plus are already $40 off - The Verge",
-      "description": "The Beats Studio Buds Plus are down to just $129.95 at Woot. You can also pick up 8BitDo’s SN30 Pro controller at a discount, along with Amazon’s Fire TV Stick 4K Max.",
-      "url": "https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q9p1nHnxjUC6Sj2HXeQqwr3d2JI=/0x0:1474x982/1200x628/filters:focal(737x491:738x492)/cdn.vox-cdn.com/uploads/chorus_asset/file/24858667/Beats_Studio_Buds_Plus_Lifestyle_Press_Image.jpg",
-      "publishedAt": "2023-08-18T18:48:44Z",
-      "content": "The new Beats Studio Buds Plus are already $40 off\r\nThe new Beats Studio Buds Plus are already $40 off\r\n / You can also save on 8BitDos SN30 Pro controller and one of our favorite streaming devices: … [+3738 chars]"
+      "author": "Wes Davis",
+      "title": "Tesla’s app now supports automation with Apple Shortcuts - The Verge",
+      "description": "The Tesla app version 4.24.0 brings Apple Shortcuts support, letting users control various features of their car, including media volume and windows, and set special modes like Dog Mode and camp Mode.",
+      "url": "https://www.theverge.com/2023/8/19/23838346/tesla-app-apple-ios-shortcuts-automation-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg",
+      "publishedAt": "2023-08-19T18:43:17Z",
+      "content": "Teslas app now supports automation with Apple Shortcuts\r\nTeslas app now supports automation with Apple Shortcuts\r\n / In the newest update to the Tesla app, owners can now use Siri to control some asp… [+1954 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "NewsBytes"
       },
-      "author": "Paul Tassi",
-      "title": "New Details On Bungie’s Non-Destiny 2, Non-Marathon Third Game - Forbes",
-      "description": "Bungie has dropped hints here and there through concept art and descriptions of a “lighthearted” game that would be diametrically opposed to it’s uh, not very lighthearted Marathon and Destiny franchises.",
-      "url": "https://www.forbes.com/sites/paultassi/2023/08/18/new-details-on-bungies-non-destiny-2-non-marathon-third-game/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64dfbb8c89f567c57b0c8ded/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-18T18:45:43Z",
-      "content": "Matter? \r\nBungie concept art\r\nWe know that Bungie has many incubation projects in the works outside of Destiny 2 and Destiny-related things. They revealed the return to Marathon as a neo-cyberpunk ex… [+2743 chars]"
+      "author": null,
+      "title": "WhatsApp tests AI-based sticker feature - NewsBytes",
+      "description": "WhatsApp is testing AI-generated stickers, allowing users to create personalized ones based on text prompts, similar to Midjourney or OpenAI's DALL-E models. Spotted on the Android beta channel.",
+      "url": "https://www.newsbytesapp.com/visualstories/science/whatsapp-tests-ai-based-sticker-feature",
+      "urlToImage": "https://i.cdn.newsbytesapp.com/web/story169241410031751.jpg?tr=w-360",
+      "publishedAt": "2023-08-19T18:09:35Z",
+      "content": "WhatsApp tests AI-basedsticker feature"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Android Police"
       },
-      "author": "Kenneth Shepard",
-      "title": "Call of Duty Veteran Announces He's Leaving Activision - Kotaku",
-      "description": "David Vonderhaar worked at Treyarch, which made the Black Ops games",
-      "url": "https://kotaku.com/call-of-duty-black-ops-modern-warfare-david-vonderhaar-1850752781",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fmuoljzpznkqr6jrg5hf.jpg",
-      "publishedAt": "2023-08-18T18:45:00Z",
-      "content": "After 18 years, David Vonderhaar, the studio design director at Treyarch, announced hes leaving Activision after shipping eight Call of Duty games since 2004.\r\nVonderhaar made the announcement on his… [+1627 chars]"
+      "author": "Michael Bizzaco",
+      "title": "NVIDIA TV Shield vs. Chromecast with Google TV (4K): Which streaming device is right for you? - Android Police",
+      "description": "Android runs the show for both of these excellent streaming devices, but is one better than the other?",
+      "url": "https://www.androidpolice.com/nvidia-tv-shield-vs-chromecast-with-google-tv-4k/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/nvidia-shield-tv-square.jpg",
+      "publishedAt": "2023-08-19T18:01:00Z",
+      "content": "<ul><li> Nvidia Shield TV (2019) \r\nUnbeatable picture quality\r\nWhen picture quality is of the utmost importance, the NVIDIA TV Shields next-level 4K upscaling ensures that every pixel works at its fu… [+11178 chars]"
     },
     {
       "source": {
@@ -151,12 +99,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Pre-Order Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Pre-order Infinity Strash: DRAGON QUEST The Adventure of Dai for Nintendo SwitchWhen the Dark Lord is revived, Dai begins his quest to become a true hero! As...",
-      "url": "https://www.youtube.com/watch?v=K0c2ESuDhGY",
-      "urlToImage": "https://i.ytimg.com/vi/K0c2ESuDhGY/maxresdefault.jpg",
-      "publishedAt": "2023-08-18T18:00:12Z",
+      "title": "The Proof Is Out There: UFO Lights CONFOUND Investigators - HISTORY",
+      "description": "Do these mysterious lights have explanations other than something otherworldly? See more in this compilation from The Proof Is Out There 00:00 Light Beams04:...",
+      "url": "https://www.youtube.com/watch?v=buoMqlBVhsg",
+      "urlToImage": "https://i.ytimg.com/vi/buoMqlBVhsg/maxresdefault.jpg",
+      "publishedAt": "2023-08-19T18:00:24Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "https://www.india.com/author/tahir-qureshi/",
+      "title": "Latest Feature From WhatsApp Will Enable Sharing HD Images Up To 4160x2080 Resolution - India.com",
+      "description": "Mark Zuckerberg, CEO of WhatsApp's parent company Meta, gave information about it through other social media platforms including Facebook.",
+      "url": "https://www.india.com/technology/latest-feature-from-whatsapp-will-enable-sharing-hd-images-up-to-4160x2080-resolution-6241184/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2023/08/QT-whatsapp-3.jpg",
+      "publishedAt": "2023-08-19T16:52:22Z",
+      "content": "Mark Zuckerberg, CEO of WhatsApp's parent company Meta, gave information about it through other social media platforms including Facebook.\r\nWhatsApp users can now share photos in both HD and standard… [+3236 chars]"
     },
     {
       "source": {
@@ -164,103 +125,142 @@
         "name": "GSMArena.com"
       },
       "author": "Ro",
-      "title": "Samsung reportedly working on 1-inch 50MP, 200, 320 and 440MP sensors - GSMArena.com news - GSMArena.com",
-      "description": "None of which may actually be used by Samsung itself, though. According to tech leakster Revegnus on X, Samsung is working on four new high-end sensors -...",
-      "url": "https://www.gsmarena.com/samsung_reportedly_working_on_1inch_50mp_200_320_and_440mp_sensors-news-59601.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/04/samsung-galaxy-s23-ultra-camera-improvements-april-2023-update-india/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2023-08-18T18:00:01Z",
-      "content": "According to tech leakster Revegnus on X, Samsung is working on four new high-end sensors - 50MP GN6, 200MP HP7, an unknown 320MP sensor and 440MP HU1 one as well. However, the report claims that har… [+1217 chars]"
+      "title": "YouTube Music for Wear OS gets a confusing new update - GSMArena.com news - GSMArena.com",
+      "description": "You can now browse individual apps within an album or playlist. YouTube Music for Wear OS just received a new update and it's a bit of a mixed bag. It does...",
+      "url": "https://www.gsmarena.com/youtube_music_for_wear_os_gets_a_confusing_new_update-news-59607.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/youtube-waer-os-app-update/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-19T16:30:01Z",
+      "content": "YouTube Music for Wear OS just received a new update and it's a bit of a mixed bag. It does fix a long-standing issue when browsing tracks in albums, but it also introduces an interesting solution to… [+672 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India TV News"
+        "name": "Dealntech.com"
       },
-      "author": "Written by Saumya Nigam",
-      "title": "How to swiftly edit messages on WhatsApp - India TV News",
-      "description": "Users can modify messages using the 'Edit' button within a set time frame, aiding in averting embarrassment or confusion due to unintended errors. However, editing is confined within this window and not available at all times.",
-      "url": "https://www.indiatvnews.com/technology/news/how-to-edit-messages-on-whatsapp-step-by-step-guide-2023-08-18-887462",
-      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/08/whatsapp-pixabay-111-1692354099.jpg",
-      "publishedAt": "2023-08-18T18:00:01Z",
-      "content": "WhatsApp has recently introduced a new feature that allows users to edit their messages, providing a convenient solution for correcting typos, misplacements, or misunderstandings. This feature comes … [+2045 chars]"
+      "author": "Yahya Hasan",
+      "title": "Samsung Confirms Foldable Tablet in the Works, Could Be Called Galaxy Z Fold Tab - DealNTech",
+      "description": "Samsung has been in the Android tablet market for quite a while. They make tablets ranging from the absolute entry level with their A series lineup to flagships with their S series lineup with insane specifications. Given the diverse lineup, Samsung tablets a…",
+      "url": "https://www.dealntech.com/samsung-confirms-foldable-tablet-z-tab/",
+      "urlToImage": "https://www.dealntech.com/wp-content/uploads/2023/08/Samsung-confirmed-foldable-Tablet.jpg",
+      "publishedAt": "2023-08-19T16:04:31Z",
+      "content": "Samsung has been in the Android tablet market for quite a while. They make tablets ranging from the absolute entry level with their A series lineup to flagships with their S series lineup with insane… [+1932 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Zoom"
+        "name": "YouTube"
       },
-      "author": "Shubham Arora",
-      "title": "Apple Slashes iPhone 15 Production Amid Supply and Demand Concerns: Reports - Times Now",
-      "description": "Apple's iPhone 15 series faces uncertainty as production cuts and demand concerns emerge. Amid anticipation for the September launch, supply chain challenges lead to a reduced production outlook of 77 million units, attributed to factors like camera sensors a…",
-      "url": "https://www.timesnownews.com/technology-science/apple-slashes-iphone-15-production-amid-supply-and-demand-concerns-reports-article-102842072",
-      "urlToImage": "https://static.tnn.in/thumb/msid-102842072,updatedat-1692380998096,width-1280,height-720,resizemode-75/102842072.jpg",
-      "publishedAt": "2023-08-18T17:49:58Z",
-      "content": "Modi To Travel To Greece Next Week, First By An Indian PM In Four Decades; Visit Likely To Boost Trade, Defence, Strategic Ties"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: Global Smartphone Shipments To Hit Decade Low, iPhone 15 Production Cut Ahead Of Launch, More - ABP Live",
-      "description": "Premium and ultra-premium smartphones are in a good spot as the segment is witnessing growth globally and that favours companies like Apple which have models heavily weighted in the higher segments.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-august-18-global-smartphone-shipments-set-to-hit-decade-low-iphone-15-production-cut-ahead-of-september-launch-jack-dorsey-quits-instagram-1623924",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/08/18/1e823bd875cba8ec0605b6613c33b1191692379745544295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-08-18T17:29:24Z",
+      "author": null,
+      "title": "20 MORE Things You Didn't Know in Baldur's Gate 3 - GameSpot",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=Sir5GxVfMNE",
+      "urlToImage": null,
+      "publishedAt": "2023-08-19T16:00:22Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Gameishard.gg"
+        "name": "Android Police"
       },
-      "author": "John Nowacky",
-      "title": "The Freestyle Gen 2: Samsung Introduces a Portable Projector with Gaming Hub - Game Is Hard",
-      "description": "The Freestyle Gen 2: Samsung Introduces a Portable Projector with Gaming Hub - Game Is Hard",
-      "url": "https://gameishard.gg/news/samsung-launches-freestyle-gen-2-with-gaming-hub/31248/",
-      "urlToImage": "https://gameishard.gg/wp-content/uploads/2023/07/mfrack_realistic_photo_of_woman_VR_gamer_0d286ed4-4c7b-43c2-90bc-58ede621bf6e.jpeg",
-      "publishedAt": "2023-08-18T17:24:13Z",
-      "content": "Samsung has released the second generation of its popular portable projector, The Freestyle. This lightweight and powerful device allows you to stream content on any surface, making it perfect for bo… [+1932 chars]"
+      "author": "Rajesh Pandey",
+      "title": "Here's your first look at the Pixel 8's revamped Google Camera app - Android Police",
+      "description": "The Google Camera app could get a redesign with this year’s Pixels",
+      "url": "https://www.androidpolice.com/here-first-look-at-pixel-8-revamped-google-camera-app/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/pixel-8-generic-ap-hero-2023.jpg",
+      "publishedAt": "2023-08-19T15:45:00Z",
+      "content": "All the Google Pixel 8 and 8 Pro leaks so far have detailed key hardware upgrades planned for this year's lineup. Last year's Pixel 7 series packed minimal camera improvements, but that seemingly won… [+2078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telangana Today"
+      },
+      "author": "IANS",
+      "title": "Microsoft lists Ottawa Food Bank as tourist destination, says 'human', not AI error - Telangana Today",
+      "description": "The Verge had reported that the Microsoft listing for tourists had a food bank as the No 3 recommendation.",
+      "url": "https://telanganatoday.com/microsoft-lists-ottawa-food-bank-as-tourist-destination-says-human-not-ai-error",
+      "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/Windows-365-Switch-enters-public-preview-Microsoft-announces.jpg",
+      "publishedAt": "2023-08-19T15:33:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Baldur’s Gate 3’ Lands An IGN 10/10, Metascore Has Ticked Down To Tie ‘Tears’ - Forbes",
+      "description": "IGN’s philosophy is that a 10/10 game doesn’t have to be completely flawless, as that’s literally impossible, but when you look over their past 10/10s over the years...",
+      "url": "https://www.forbes.com/sites/paultassi/2023/08/19/baldurs-gate-3-lands-an-ign-1010-metascore-has-ticked-down-to-tie-tears/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d0e5bfcc59c6d758de498f/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-19T15:22:03Z",
+      "content": "Baldur's Gate\r\nLarian\r\nYeah, yeah, who cares what IGN says. We may be living in the modern game journalism sucks era, but thats usually from the same people who argue about Metacritic scores constant… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Daniel Sims",
+      "title": "Modder converts $95 AMD APU into a 16GB Linux AI workhorse - TechSpot",
+      "description": "A modder recently published instructions for coaxing AMD APUs that cost around $100 into running AI tasks usually associated with far more expensive graphics cards. If it...",
+      "url": "https://www.techspot.com/news/99847-modder-converts-95-amd-apu-16gb-linux-ai.html",
+      "urlToImage": "https://www.techspot.com/articles-info/2302/images/2021-08-04-image-3.jpg",
+      "publishedAt": "2023-08-19T15:08:00Z",
+      "content": "Forward-looking: The AI boom has companies scrambling for Nvidia's H100 and A100 GPUs, which are in short supply and cost tens of thousands of dollars. Meanwhile, a modder has discovered and shared a… [+2167 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Subhadip Dey",
-      "title": "Free Fire Evo Groza gun skin leaks: Effects, attributes, and more - Sportskeeda",
-      "description": "The latest Free Fire Evo Groza gun skin rumors have hyped the community.",
-      "url": "https://www.sportskeeda.com/esports/free-fire-evo-groza-gun-skin-leaks-effects-attributes",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/bd8b7-16923774203443-1920.jpg",
-      "publishedAt": "2023-08-18T17:22:00Z",
-      "content": "The latest Free Fire Evo Groza gun skin rumors have hyped the community. With the new events, attributes, and other aspects like emotes, this new Evo gun is the Groza-Bang! Popblaster is expected to … [+2384 chars]"
+      "author": "Hijam Tompok",
+      "title": "How to collect materials used to make Magic Pockets in Genshin Impact? - Sportskeeda",
+      "description": "In the first Act of the Genshin Impact's Chapter IV Archon Quest Soloist Prologue, players meet several new characters from Fontaine, including Lyney, Lynette, and even the Hydro Archon.",
+      "url": "https://www.sportskeeda.com/esports/how-collect-materials-used-make-magic-pockets-genshin-impact",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/46164-16924557654299-1920.jpg",
+      "publishedAt": "2023-08-19T15:00:00Z",
+      "content": "In the first Act of the Genshin Impact's Chapter IV Archon Quest Soloist Prologue, players meet several new characters from Fontaine, including Lyney, Lynette, and even the Hydro Archon. During the e… [+2567 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Hindustan Times"
       },
-      "author": "Mitchel Broussard",
-      "title": "Best Apple Deals of the Week: Record Low Prices Hit iPad ($249.99) and M1 MacBook Air ($749.99) - MacRumors",
-      "description": "The best deals of the week include all-time low prices on the 9th generation iPad and M1 MacBook Air, as well as solid discounts on Samsung monitors...",
-      "url": "https://www.macrumors.com/2023/08/18/best-apple-deals-of-the-week-8-18-23/",
-      "urlToImage": "https://images.macrumors.com/t/EeoLPgZV_wY6or53SN11RBOZpX8=/2500x/article-new/2022/06/Hero0000.jpg",
-      "publishedAt": "2023-08-18T17:21:55Z",
-      "content": "The best deals of the week include all-time low prices on the 9th generation iPad and M1 MacBook Air, as well as solid discounts on Samsung monitors and Anker accessories.\r\nNote: MacRumors is an affi… [+2243 chars]"
+      "author": "HT Tech",
+      "title": "New leak reveals iPhone 15 series could get a charging speed boost - HT Tech",
+      "description": "A new leak claims that the iPhone 15 series could support up to 35W charging speeds, giving the smartphone a big boost and potential buyers a great reason to consider it favourably.",
+      "url": "https://tech.hindustantimes.com/mobile/news/new-leak-reveals-iphone-15-series-could-get-a-charging-speed-boost-71692456009448.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/19/1600x900/quinn-battick-SKVblbjg_VU-unsplash_1685341851896_1692456061491.jpg",
+      "publishedAt": "2023-08-19T14:46:18Z",
+      "content": "This year, leaks have revealed quite a lot about the upcoming iPhone 15 series. We know that the iPhone 15 Pro Max is likely getting a periscope zoom lens and the Pro models may be getting a titanium… [+2040 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani, Brandon Widder",
+      "title": "Today is the last day to save on the PS5 and its colorful DualSense controllers - The Verge",
+      "description": "Sony’s ongoing summer sale may be drawing to a close, but you can still save on the PlayStation 5, DualSense controllers, console covers, and other gaming accessories.",
+      "url": "https://www.theverge.com/2023/8/19/23837196/sony-playstation-5-ps5-dualsense-wireless-controller-console-cover-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xdPNfEqIqdnBlQhFzzX9mb347OE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015309/vpavic_4278_20201030_0345.jpg",
+      "publishedAt": "2023-08-19T14:44:29Z",
+      "content": "Today is the last day to save on the PS5 and its colorful DualSense controllers\r\nToday is the last day to save on the PS5 and its colorful DualSense controllers\r\n / Sony is also slashing prices on al… [+3864 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "XDA Developers"
+        "name": "Hindustan Times"
       },
-      "author": "Ben Sin",
-      "title": "The Xiaomi Mix Fold 3 is a great combination of the Z Fold 5 and the Pixel Fold - XDA Developers",
-      "description": "Xiaomi’s new Mix Fold 3 is one of the thinnest and lightest foldable phones around that still offers a capable and versatile camera system",
-      "url": "https://www.xda-developers.com/xiaomi-mix-fold-3-hands-on/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/xiaomi-mix-fold-3-xda-xda-ret04526-1.jpg",
-      "publishedAt": "2023-08-18T17:00:00Z",
-      "content": "This has been an exciting year for foldable phones in the West. In the U.S., Samsung's de facto monopoly finally ended with Google launching its first foldable, Motorola made its return stateside aft… [+9285 chars]"
+      "author": "HT Tech",
+      "title": "Samsung Galaxy Z Flip 5 and Galaxy Z Fold 5 'Made in India' models on sale now - HT Tech",
+      "description": "Both Galaxy Z Flip 5 and Galaxy Z Fold 5 are equipped with IPX8 support, aircraft-grade Armor Aluminum frames, and Corning Gorilla Glass Victus 2.",
+      "url": "https://tech.hindustantimes.com/mobile/news/samsung-galaxy-z-flip-5-and-galaxy-z-fold-5-made-in-india-models-on-sale-now-71692455230613.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/19/1600x900/SAMSUNG-ELEC-PHONES--1_1691659894382_1692455479252.JPG",
+      "publishedAt": "2023-08-19T14:36:55Z",
+      "content": "The foldables market has been shaken up by a number of new launches in 2023. The latest one to enter the market is the Samsung foldable. Samsung Galaxy Z Flip 5 and Samsung Galaxy Z Fold 5 are Made i… [+2158 chars]"
     }
   ]
 }
