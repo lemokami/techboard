@@ -1,32 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 324,
+  "totalResults": 306,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "YouTube"
       },
-      "author": "Vlad",
-      "title": "Exclusive: This is the Infinix Zero 30 5G with a 50 MP selfie camera and 12GB of RAM - GSMArena.com news - GSMArena.com",
-      "description": "It's coming soon with a focus on premium camera capabilities at a low price. Infinix's GT 10 Pro launched not long ago as the affordable brand's first...",
-      "url": "https://www.gsmarena.com/exclusive_this_is_the_infinix_zero_30_5g_with_a_50_mp_selfie_camera_and_12gb_of_ram-news-59619.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/infinix-zero-30-5g-exclusive-leak/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-21T22:35:56Z",
-      "content": "Infinix's GT 10 Prolaunched not long ago as the affordable brand's first serious gaming-targeted smartphone, but there's more to come apparently. According to our anonymous source, Infinix is current… [+1388 chars]"
+      "author": null,
+      "title": "Destiny 2 - Official 'The Journey' Trailer - IGN",
+      "description": "Check out the latest trailer for Destiny 2. Devotion. Bravery. Sacrifice. We were chosen for a greater purpose—forged and sharpened into a defender of humani...",
+      "url": "https://www.youtube.com/watch?v=E2IK3YfCh7Q",
+      "urlToImage": "https://i.ytimg.com/vi/E2IK3YfCh7Q/maxresdefault.jpg",
+      "publishedAt": "2023-08-22T23:57:34Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Slashdot.org"
       },
-      "author": "Matt Wales",
-      "title": "Immortals: Fenyx Rising 2 reportedly mixed Elden Ring with Wind Waker - Eurogamer.net",
-      "description": "Following last month's confirmation that a planned sequel to Ubisoft's enjoyable open-world romp Immortals: Fenyx Risin…",
-      "url": "https://www.eurogamer.net/immortals-fenyx-risings-sequel-reportedly-mixed-elden-ring-with-wind-waker",
-      "urlToImage": "https://assetsio.reedpopcdn.com/ubisoft-reportedly-working-on-immortals-fenyx-rising-sequel-new-prince-of-persia-more-1647904817101.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-08-21T22:14:21Z",
-      "content": "Following last month's confirmation that a planned sequel to Ubisoft's enjoyable open-world romp Immortals: Fenyx Rising had been cancelled, new details of the ill-fated project have emerged, includi… [+2788 chars]"
+      "author": null,
+      "title": "Microsoft Announces Python In Excel - Slashdot",
+      "description": "theodp writes: On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".  From the Home Office in Redmond: \"Python is one of the most popular programming languages today, loved by businesses and stude…",
+      "url": "https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel",
+      "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+      "publishedAt": "2023-08-22T23:47:14Z",
+      "content": "On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".From the Home Office in Redmond: \"Python is one of the most popular programming lan… [+1762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Elizabeth Howell",
+      "title": "Clearspace-1 space debris cleanup target in orbit just got struck by space debris - Space.com",
+      "description": "Space junk does seem to be a growing problem.",
+      "url": "https://www.space.com/space-debris-cleanup-mission-target-hit",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uzZ6MwWNsG6FdySFoqakFc-1200-80.gif",
+      "publishedAt": "2023-08-22T22:00:11Z",
+      "content": "The target for a space debris cleanup mission is apparently in pieces.\r\nA leftover rocket adapter, expected to be removed from low Earth orbit in 2026, has new pieces of space debris floating nearby.… [+3318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Tom Ivan",
+      "title": "Gamescom Opening Night Live was disrupted by a stage invader | VGC - Video Games Chronicle",
+      "description": "The invader crashed the show to call for an update on GTA 6…",
+      "url": "https://www.videogameschronicle.com/news/gamescom-opening-night-live-was-disrupted-by-a-stage-invader/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2023/08/gamescom-opening-night-live-stage-invader.jpg",
+      "publishedAt": "2023-08-22T21:52:46Z",
+      "content": "Tuesdays big Gamescom kick-off show was briefly disrupted by a stage invader.\r\nGamescom Opening Night Live host and producer Geoff Keighley was interrupted when the man in question approached him ear… [+1859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Alessandro Barbosa",
+      "title": "Nvidia's DLSS 3.5 Tackles Ray-Tracing Quality And Is Available To All RTX Cards - GameSpot",
+      "description": "The new reconstruction technique should improve ray-tracing performance while producing cleaner images.",
+      "url": "https://www.gamespot.com/articles/nvidias-dlss-3-5-tackles-ray-tracing-quality-and-is-available-to-all-rtx-cards/1100-6517113/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15853545/4181858-7807124723-verti.png",
+      "publishedAt": "2023-08-22T21:34:57Z",
+      "content": "Nvidia has announced a big update to its suite of DLSS (Deep-Learning Super Sampling) features, this time taking aim at improving the visual reconstruction of ray-traced effects in supported titles.\r… [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Barry Schwartz",
+      "title": "Bing Chat data may never come to Bing Webmaster Tools - Search Engine Land",
+      "description": "After promising this for months, Microsoft has never released it and now won't offer a comment.",
+      "url": "https://searchengineland.com/bing-chat-data-may-never-come-to-bing-webmaster-tools-431064",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2023/08/angry-bing-robot-data-1920.jpg",
+      "publishedAt": "2023-08-22T21:33:00Z",
+      "content": "Microsoft told us that we should expect Bing Chat data in Bing Webmaster Tools by May 2023, well, we are now a few months after that deadline and we still do not have any Bing Chat data in Bing Webma… [+2895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": null,
+      "title": "Microsoft integrates the Python programming language into Excel - SiliconANGLE News",
+      "description": "Microsoft integrates the Python programming language into Excel - SiliconANGLE",
+      "url": "https://siliconangle.com/2023/08/22/microsoft-integrates-python-programming-language-excel/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Excel.png",
+      "publishedAt": "2023-08-22T21:18:11Z",
+      "content": "Microsoft Corp. is releasing a new version of Excel that will enable users to write and run Python code directly in the spreadsheet editors interface. \r\nStefan Kinnestrand, a general manager for prod… [+3459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Alan Sahbegovic",
+      "title": "Genshin Concert 2023 is coming to 12 locations: 3rd-anniversary date and Gamescom announcement details - Sportskeeda",
+      "description": "The Genshin Concert 2023 is arriving at 12 different locations for Travelers to enjoy in 2023.",
+      "url": "https://www.sportskeeda.com/esports/news-genshin-concert-2023-coming-12-locations-3rd-anniversary-date-gamescom-announcement-details",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/a1017-16927366013584-1920.jpg",
+      "publishedAt": "2023-08-22T21:14:00Z",
+      "content": "The Genshin Concert 2023 is arriving at 12 different locations for Travelers to enjoy in 2023. Genshin Impact fans who love the game's music and paid attention to the previous two years' concerts may… [+2702 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Toussaint Egan",
+      "title": "Here are all the overhauls Phantom Liberty will bring to Cyberpunk 2077 - Polygon",
+      "description": "CD Projekt Red unveiled a new trailer for Cyberpunk 2077: Phantom Liberty this tuesday at Gamescom 2023, focusing on the expansion’s overhauled systems.",
+      "url": "https://www.polygon.com/23842063/cyberpunk-2077-phantom-liberty-gamescom-trailer-update-2-0",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QOtvm4D_wh0nH5nXVNYS1iZackQ=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24866847/ss_7bbae8adf0c05471dfea2ebb1dc2611ee0f72835.1920x1080.jpg",
+      "publishedAt": "2023-08-22T21:10:00Z",
+      "content": "Upgrade your grey matter, cause one day it may matter"
     },
     {
       "source": {
@@ -34,64 +125,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Incredible Tools for INSANE Tasks | Ancient Impossible (S1, E6) | Full Episode - HISTORY",
-      "description": "Powerful automated stone-cutting devices, incredible power drills capable of cutting through even the hardest granite. See more in Season 1, Episode 6, \"Powe...",
-      "url": "https://www.youtube.com/watch?v=jr0WpSyppO4",
-      "urlToImage": "https://i.ytimg.com/vi/jr0WpSyppO4/maxresdefault.jpg",
-      "publishedAt": "2023-08-21T22:00:32Z",
+      "title": "Sonic Superstars - Release Date Trailer - Nintendo Switch - Nintendo of America",
+      "description": "Sonic Superstars is coming to Nintendo Switch on October 17th: https://www.nintendo.com/store/products/sonic-superstars-switch/ Grab your player 2 (...and 3 ...",
+      "url": "https://www.youtube.com/watch?v=jVltecd2Rvc",
+      "urlToImage": "https://i.ytimg.com/vi/jVltecd2Rvc/maxresdefault.jpg",
+      "publishedAt": "2023-08-22T21:00:22Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds - The Verge",
-      "description": "Dough, formerly Eve, wants to fix its bad reputation. The company now claims that if you fill out a form, you can get your refund or other kinds of help fast. Dough tells The Verge it’s already issued 25,000 refunds.",
-      "url": "https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bAPiGfchuWmCzIbzZdyq9Y9X5V8=/292x0:2648x1616/1200x628/filters:focal(1736x997:1737x998)/cdn.vox-cdn.com/uploads/chorus_asset/file/19631520/EVE_Spectrum_desk.jpg",
-      "publishedAt": "2023-08-21T21:55:56Z",
-      "content": "Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds\r\nTell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds\r\n / Wed be glad to get our negative brand pe… [+6363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Alyssa Mercante",
-      "title": "Canceled Ubisoft Sequel Was Inspired By Wind Waker, Elden Ring - Kotaku",
-      "description": "Immortals: Fenyx Rising 2 was canned in July 2023; a new report details its development process",
-      "url": "https://kotaku.com/immortals-fenyx-rising-sequel-botw-elden-ring-ubisoft-1850759590",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n5jkubp86qvch8xgwpx1.jpg",
-      "publishedAt": "2023-08-21T21:10:00Z",
-      "content": "The sequel to Immortals: Fenyx Rising (2020's open-world, Greek-inspired adventure game) was cancelled in July 2023, and were just now learning exactly what that game was meant to entailand how much … [+2745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: Instagram Threads Web Version Coming, Pixel 8 Getting Revamped Google Camera UI, More - ABP Live",
-      "description": "Meta had unveiled Threads only as an app for iOS and Android and a web version was missing.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-meta-instagram-threads-web-version-pixel-8-revamped-google-camera-ui-tecno-pova-5-pro-5g-sale-amazon-india-honor-joins-hands-homegrown-psav-1624535",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/08/22/070c78fccd4ac7e5c81b745f89c713961692650207099295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-08-21T20:37:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Long Considered Impossible in Physics: Nonlinear Circuit Harvests Clean Power Using Graphene - SciTechDaily",
-      "description": "The discovery overturns more than a century of physics orthodoxy by identifying a new form of energy that can be extracted from ambient heat using graphene. Obtaining useful work from random fluctuations in a system at thermal equilibrium has long been consid…",
-      "url": "https://scitechdaily.com/long-considered-impossible-in-physics-nonlinear-circuit-harvests-clean-power-using-graphene/",
-      "urlToImage": "https://scitechdaily.com/images/Graphene-Electricity-Materials-Science-Concept.jpg",
-      "publishedAt": "2023-08-21T20:33:22Z",
-      "content": "ByUniversity of ArkansasAugust 21, 2023\r\nResearchers have discovered a method to harness energy from ambient heat using graphene, overturning long-established physics theories. This breakthrough hold… [+8585 chars]"
     },
     {
       "source": {
@@ -101,36 +140,10 @@
       "author": "David Phelan",
       "title": "Apple iPhone 15 Pro: New Leak Reveals Sensational Upgrade - Forbes",
       "description": "The iPhone 15 Pro and iPhone 15 Pro Max, according to a new report, could be huge upgrades over what Apple released before. Here’s what it all means.",
-      "url": "https://www.forbes.com/sites/davidphelan/2023/08/21/apple-iphone-15-pro-new-leak-reveals-sensational-upgrade-iphone-15-pro-max/",
+      "url": "https://www.forbes.com/sites/davidphelan/2023/08/22/apple-iphone-15-pro-new-leak-reveals-sensational-upgrade-iphone-15-pro-max/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64e27602496e478ff00c8ded/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-21T20:30:46Z",
-      "content": "Apple iPhone 14 Pro. Will the next Pro iPhone have a big, big upgrade?\r\nDavid Phelan\r\nAugust 21 update below. This post was first published on August 20, 2023.\r\nIts barely a month until Apples big sp… [+5615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Xbox Series X Gets Official Starfield Console Wrap - CNET",
-      "description": "These three new wraps are a great way to customize your console without having to buy a pricy limited edition unit.",
-      "url": "https://www.cnet.com/tech/xbox-series-x-gets-official-starfield-console-wrap/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/364af3d3ff2b05e36189b6ca645388275518d890/hub/2023/08/21/0c268263-30a0-45d2-942b-58993191dc39/screenshot-2023-08-21-at-2-40-42-pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-08-21T20:30:00Z",
-      "content": "Microsoft is leaning into the Starfield hype by bringing new wraps for Xbox Series X consoles that allow gamers to add some customization, the company said Monday.  \r\nThe wraps, which retail for betw… [+1549 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Samsung's 'Try Galaxy' Feature Uses Two iPhones to Demo Z Fold5 Experience - MacRumors",
-      "description": "Samsung today announced the launch of an updated \"Try Galaxy\" website that's designed to allow iPhone users to experience what it's...",
-      "url": "https://www.macrumors.com/2023/08/21/samsung-try-galaxy-iphone-demo/",
-      "urlToImage": "https://images.macrumors.com/t/X1Sk8s6Xhz0esKeoB3LSujKVqAA=/2000x/article-new/2023/08/samsung-try-galaxy-1.jpg",
-      "publishedAt": "2023-08-21T20:20:39Z",
-      "content": "Samsung today announced the launch of an updated \"Try Galaxy\" website that's designed to allow iPhone users to experience what it's like having a foldable smartphone.\r\nTry Galaxy uses two iPhones to … [+1873 chars]"
+      "publishedAt": "2023-08-22T20:35:26Z",
+      "content": "Apple iPhone 14 Pro. Will the next Pro iPhone have a big, big upgrade?\r\nDavid Phelan\r\nAugust 22 update below. This post was first published on August 20, 2023.\r\nIts barely a month until Apples big sp… [+7622 chars]"
     },
     {
       "source": {
@@ -138,129 +151,116 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Cult of the Lamb x Don’t Starve Together Crossover Launch Trailer | Nintendo Switch - Nintendo of America",
-      "description": "The Cult of the Lamb x Don’t Starve Together crossover update is available now on Nintendo Switch! Don’t let the Lamb starve in this Cult of the Lamb x Don’t...",
-      "url": "https://www.youtube.com/watch?v=wuXsl9g9UB4",
-      "urlToImage": "https://i.ytimg.com/vi/wuXsl9g9UB4/maxresdefault.jpg",
-      "publishedAt": "2023-08-21T20:00:24Z",
+      "title": "Call of Duty: Modern Warfare 3 - Official Gameplay Trailer (4K) | gamescom 2023 - IGN",
+      "description": "Check out this Call of Duty: Modern Warfare 3 gameplay trailer, showing off a campaign mission. This will be the first time a Call of Duty game will be a dir...",
+      "url": "https://www.youtube.com/watch?v=sBuctwjOq58",
+      "urlToImage": "https://i.ytimg.com/vi/sBuctwjOq58/maxresdefault.jpg",
+      "publishedAt": "2023-08-22T20:22:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Nvidia announces a community-made RTX remaster of Half-Life 2 - Ars Technica",
+      "description": "PBR materials, full ray-tracing, and DLSS are coming to Half-Life 2.",
+      "url": "https://arstechnica.com/gaming/2023/08/half-life-2-will-get-a-ray-tracing-remaster-using-rtx-remix/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Half-Life-2-RTX-on-760x380.png",
+      "publishedAt": "2023-08-22T20:20:28Z",
+      "content": "37 with \r\nA teaser for Half-Life 2's RTX conversion.\r\nFirst it came to Portal, now it's coming to the Source engine's other big classic: Half-Life 2 is getting a ray-tracing remaster thanks to the ef… [+3169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Rishabh Kalita",
+      "title": "Modern Warfare 3 campaign \"Open Combat\" gameplay revealed: Underwater fight, stealth mission, and more - Sportskeeda",
+      "description": "One of the significant highlights of Modern Warfare 3's campaign is the Open Combat missions.",
+      "url": "https://www.sportskeeda.com/call-of-duty-game/modern-warfare-3-campaign-open-combat-gameplay-revealed-underwater-fight-stealth-mission",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/211c3-16927340028579-1920.jpg",
+      "publishedAt": "2023-08-22T20:19:23Z",
+      "content": "One of the significant highlights of Modern Warfare 3's campaign is the Open Combat missions. After keeping players in mystery about how they will work, Call of Duty shared more insights into the fea… [+2313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Marcus Stewart",
+      "title": "Diablo IV Season Of Blood Revealed, Kicks Off In October - Game Informer",
+      "description": "Here's the first look at Diablo IV's second season.",
+      "url": "https://www.gameinformer.com/gamescom-2023/2023/08/22/diablo-iv-season-of-blood-revealed-kicks-off-in-october",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/08/22/44452162/diablo_4_season_of_blood_art.jpg",
+      "publishedAt": "2023-08-22T20:16:00Z",
+      "content": "Diablo IV's second season, Season of Blood, got its first reveal during Gamescom Opening Night Live. This free second season lets you become a vampire hunter sporting new vampiric powers to take down… [+519 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Gamescom Opening Night Live 2023: Everything Announced - IGN",
+      "description": "From new looks at Alan Wake 2, Mortal Kombat 1, and Starfield to the first trailer for Rebel Moon and so much more, here is everything revealed and shown at gamescom Opening Night Live 2023.",
+      "url": "https://www.ign.com/articles/gamescom-opening-night-live-2023-everything-announced",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/08/22/gamescom2023-thumbnail-news-onl-1692727157183.jpg?width=1280",
+      "publishedAt": "2023-08-22T20:03:45Z",
+      "content": "gamescom Opening Night Live 2023 has arrived and it showcased a ton of previously announced games, a few new ones, and even a movie trailer in a two-hour showcase. From Starfield to Rebel Moon to Mor… [+11728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Angshuman Dutta",
+      "title": "Cyberpunk 2077 Phantom Liberty: Revamped Police and Vehicular Combat showcased at Gamescom Opening Night Live 2023 - Sportskeeda",
+      "description": "As fans gear up for the imminent release of the hotly-anticipated DLC, Cyberpunk 2077 Phantom Liberty was showcased at the Gamescom Opening Night Live 2023.",
+      "url": "https://www.sportskeeda.com/esports/news-cyberpunk-2077-phantom-liberty-revamped-police-vehicular-combat-showcased-gamescom-opening-night-live-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/31aef-16927343216710-1920.jpg",
+      "publishedAt": "2023-08-22T20:01:00Z",
+      "content": "As fans gear up for the imminent release of the hotly-anticipated DLC, Cyberpunk 2077 Phantom Liberty was showcased at the Gamescom Opening Night Live 2023. Viewers got to see the gameplay of the upc… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Mortal Kombat 1 General Shao, Sindel And Raiden Official Gameplay Reveal Trailer | Gamescom ONL 2023 - GameSpot",
+      "description": "The Rulers of Outworld will not repeat themselves. Know thy place and bow before your Queen. We even got to see Montaro and Shujinko as kameos!It's In Our Bl...",
+      "url": "https://www.youtube.com/watch?v=wF97madfkGo",
+      "urlToImage": "https://i.ytimg.com/vi/wF97madfkGo/maxresdefault.jpg",
+      "publishedAt": "2023-08-22T19:55:56Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
-      },
-      "author": "Krystle Vermes",
-      "title": "T-Mobile's new plan gives you an incentive to pay off your old phone for an upgrade - Android Police",
-      "description": "You can upgrade in as little as six months under the new Go5G Next plan",
-      "url": "https://www.androidpolice.com/t-mobile-go5g-next-plan-phone-upgrade-yearly/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/ap-carrier-t-mobile-hero.png",
-      "publishedAt": "2023-08-21T19:40:00Z",
-      "content": "If you’re tied to a contract, you know how disappointing it can be to miss out on the latest phone, especially when you’re in need of an upgrade. T-Mobile has given itself the title of “Un-carrier,” … [+2174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailyexcelsior.com"
-      },
-      "author": "Daily Excelsior",
-      "title": "HonorTech to relaunch Honor brand of phones, to invest Rs 1000 cr - Daily Excelsior",
-      "description": "New Delhi, Aug 21: HonorTech will relaunch the Honor brand of smartphones in the country in September with plans to initially invest Rs 1,000 crore in the business, a senior company official said. For the relaunch, HonorTech is going to work under a licensing…",
-      "url": "https://www.dailyexcelsior.com/honortech-to-relaunch-honor-brand-of-phones-to-invest-rs-1000-cr/",
-      "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/08/download-19-12.jpg",
-      "publishedAt": "2023-08-21T19:21:07Z",
-      "content": "New Delhi, Aug 21: HonorTech will relaunch the Honor brand of smartphones in the country in September with plans to initially invest Rs 1,000 crore in the business, a senior company official said.For… [+2058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Christy Piña",
-      "title": "Charles Martinet, Longtime Voice of Mario, Retires: “You Are All Numba One in My Heart!” - Hollywood Reporter",
-      "description": "The voice actor will be moving into a new role as a Mario ambassador.",
-      "url": "https://www.hollywoodreporter.com/news/general-news/voice-of-mario-charles-martinet-retires-1235571415/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Charles-with-Mario-Split-4-Getty-h-2023.jpg?w=1024",
-      "publishedAt": "2023-08-21T19:14:16Z",
-      "content": "Charles Martinet, the voice of Mario since Super Mario 64, is retiring from portraying the character and starting a new chapter with the video game company. \r\n“Charles is now moving into the brand-ne… [+1297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Britt Ross",
-      "title": "Oh, snap! This viral T-shirt bra worn by Brie Larson is over 50% off at Amazon - Yahoo Life",
-      "description": "Snag the comfy and cute undergarment 'The Marvels' star donned while it's on mega sale.",
-      "url": "https://www.yahoo.com/lifestyle/brie-larson-chantelle-bra-190620432.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-08/ed556150-4049-11ee-97f7-0cc6bc5cbced",
-      "publishedAt": "2023-08-21T19:08:00Z",
-      "content": "Finding the perfect T-shirt bra is like finding a needle in a haystack they're either too visible under your clothes, uncomfortable or just ... not cute. That's why when Brie Larson, star of the upco… [+2939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Stephen Tailby",
-      "title": "Anticipated Indie RPG Sea of Stars Releases Physical Edition Early Next Year - Push Square",
-      "description": "Good things to those who wait",
-      "url": "https://www.pushsquare.com/news/2023/08/anticipated-indie-rpg-sea-of-stars-releases-physical-edition-early-next-year",
-      "urlToImage": "https://images.pushsquare.com/1a1048e4ecccc/1280x720.jpg",
-      "publishedAt": "2023-08-21T19:00:00Z",
-      "content": "Sabotage Studio's upcoming RPG, Sea of Stars, has become one of the most anticipated indie releases of the year. It's fast approaching, too, releasing digitally on PS5 and PS4 on 29th August, 2023 no… [+1097 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Jake Peterson",
-      "title": "What Is That String of Lights in the Sky? - Lifehacker",
-      "description": "If you see a bunch of lights traveling together across the night sky, don't freak out.",
-      "url": "https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/55488ef21c2b437fb550f8aeaa5b6297.jpg",
-      "publishedAt": "2023-08-21T19:00:00Z",
-      "content": "The other night as I was walking home, I took a look up and saw a strange string of lights traveling across the sky. This was certainly no plane, and I doubted it was a procession of drones, as the l… [+3254 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Snapchat is expanding further into generative AI with ‘Dreams’ - TechCrunch",
-      "description": "Snapchat is preparing to further expand into generative AI features, after earlier launching its AI-powered chatbot My AI which can now respond with a",
-      "url": "https://techcrunch.com/2023/08/21/snapchat-is-expanding-further-into-generative-ai-with-dreams/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/snapchat-speed-blur.jpg?resize=1200,675",
-      "publishedAt": "2023-08-21T18:44:50Z",
-      "content": "Snapchat is preparing to further expand into generative AI features, after earlier launching its AI-powered chatbot My AI which can now respond with a Snap back, not just text. With the company’s for… [+2118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Quint"
-      },
-      "author": "Saima Andrabi",
-      "title": "Wordle 794 Answer Today on 22 August 2023: Hints & Clues To Find Word of the Day - The Quint",
-      "description": "Wordle 794 Answer on Tuesday, 22 August 2023 is a tricky word. Use our online hints and clues to find the term. Wordle Answers |The Quint",
-      "url": "https://www.thequint.com/tech-and-auto/tech-news/wordle-794-answer-today-hints-clues-to-find-word-of-the-day",
-      "urlToImage": "https://images.thequint.com/thequint%2F2022-07%2Fbd0446a9-a155-4eb9-b037-ad3ca92dbb67%2FWhatsApp_Image_2022_02_18_at_11_31_46_AM.jpeg?rect=0%2C0%2C1280%2C672",
-      "publishedAt": "2023-08-21T18:30:00Z",
-      "content": "Wordle 794 Answer on Tuesday, 22 August 2023: The Wordle game has been updated to a new level today and users can't hold their excitement. Wordle answers can be tricky sometimes and that is why we pr… [+491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mid-day"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "WhatsApp rolling out new interface for app settings on iOS beta - mid-day.com",
-      "description": "Beta users will see that the settings tab has been replaced by a new 'You' tab that displays the profile photo, and will help users to easily switch to a differ",
-      "url": "https://www.mid-day.com/technology/article/whatsapp-rolling-out-new-interface-for-app-settings-on-ios-beta-23304741",
-      "urlToImage": "https://images.mid-day.com/images/images/2023/aug/WhatsAppistock_d.jpg",
-      "publishedAt": "2023-08-21T18:25:00Z",
-      "content": "Beta users will see that the settings tab has been replaced by a new 'You' tab that displays the profile photo, and will help users to easily switch to a different account when the multi-account feat… [+1950 chars]"
+      "title": "Cyberpunk 2077 Phantom Liberty - Gameplay Trailer | gamescom 2023 - IGN",
+      "description": "Check out the latest trailer for the highly anticipated Phantom Liberty expansion for Cyberpunk 2077. We're getting new cyberware, new weapons – including a ...",
+      "url": "https://www.youtube.com/watch?v=rB1TLiUDLag",
+      "urlToImage": "https://i.ytimg.com/vi/rB1TLiUDLag/maxresdefault.jpg",
+      "publishedAt": "2023-08-22T19:52:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Marvel Snap now available for PC - Gematsu",
+      "description": "The PC version of free-to-play collectible card game Marvel Snap has left Early Access and is now available via Steam, publisher Nuverse and developer Second Dinner announced.",
+      "url": "https://www.gematsu.com/2023/08/marvel-snap-now-available-for-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/08/Marvel-Snap-PC_08-22-23.jpg",
+      "publishedAt": "2023-08-22T19:40:09Z",
+      "content": "The PC version of free-to-play collectible card game Marvel Snap has left Early Access and is now available via Steam, publisher Nuverse and developer Second Dinner announced. \r\n“Marvel Snap on PC is… [+1581 chars]"
     }
   ]
 }
