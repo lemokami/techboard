@@ -1,58 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 318,
+  "totalResults": 293,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "YouTube"
       },
-      "author": "Nathan Edwards",
-      "title": "Zoom CEO wants FTC to investigate Microsoft bundling Teams into Office - The Verge",
-      "description": "Microsoft is unbundling Teams from Office in the EU due to regulator pressure. Zoom CEO Eric Yuan would love for that to happen in the US, too.",
-      "url": "https://www.theverge.com/2023/9/5/23860390/zoom-microsoft-teams-bundling-eu-regulation",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bjs6L6Ni0JySMp-ZheodrMYQTYY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988534/acastro_STK059_zoom_03.jpg",
-      "publishedAt": "2023-09-05T22:14:38Z",
-      "content": "Zoom is even less happy about Microsoft Teams than you are\r\nZoom is even less happy about Microsoft Teams than you are\r\n / The EU prompted Microsoft to unbundle Teams from Office, and if Zoom CEO Eri… [+250 chars]"
+      "author": null,
+      "title": "Nintendo Moves On to Brand New Zelda Game - IGN Daily Fix - IGN",
+      "description": "Nintendo has said it has no plans to release DLC for The Legend of Zelda: Tears of the Kingdom, and is moving on to a brand new game in the series. Plus, the...",
+      "url": "https://www.youtube.com/watch?v=GygOJ4wujdA",
+      "urlToImage": "https://i.ytimg.com/vi/GygOJ4wujdA/maxresdefault.jpg",
+      "publishedAt": "2023-09-06T23:18:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Logan Plant",
+      "title": "Nitara Is Joining Mortal Kombat 1, and She's Played by Megan Fox - IGN",
+      "description": "Megan Fox is the voice of the vampire Nitara in the upcoming Mortal Kombat 1, and NetherRealm Studios has shared a new trailer to unveil the roster's latest playable fighter.",
+      "url": "https://www.ign.com/articles/nitara-is-joining-mortal-kombat-1-and-shes-played-by-megan-fox",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/09/06/mortal-kombat-1-official-megan-fox-becomes-nitara-trailer-thumbnail-1694036242929.png?width=1280",
+      "publishedAt": "2023-09-06T21:55:47Z",
+      "content": "Megan Fox is the voice of the vampire Nitara in the upcoming Mortal Kombat 1, and NetherRealm Studios has shared a new trailer to unveil the roster's latest playable fighter.\r\nNitara hails from the d… [+1553 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "YouTube"
       },
-      "author": "Subhadip Dey",
-      "title": "PUBG Mobile 2.8 update: Rewards, APK release time, and more - Sportskeeda",
-      "description": "Tencent Games has announced the latest PUBG Mobile 2.8 update, which brings multiple rewards, modes, and more.",
-      "url": "https://www.sportskeeda.com/esports/pubg-mobile-2-8-update-rewards-apk-release-time",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/09/4cbfb-16939499166403-1920.jpg",
-      "publishedAt": "2023-09-05T22:11:00Z",
-      "content": "Tencent Games has announced the latest PUBG Mobile 2.8 update, which brings multiple rewards, modes, and more. With new modes like Zombies Edge being the primary attraction in the title, this update … [+1874 chars]"
+      "author": null,
+      "title": "AMD RX 7700 XT GPU Review & Benchmarks vs. 7800 XT, 6800 XT, RTX 4060 Ti, & More - Gamers Nexus",
+      "description": "Sponsor: Phanteks G300A Mesh Mid-Tower Case on Amazon https://geni.us/2i3nqpEThis review of the AMD Radeon RX 7700 XT GPU mostly focuses on comparing it dire...",
+      "url": "https://www.youtube.com/watch?v=PpxMKtbI8G8",
+      "urlToImage": "https://i.ytimg.com/vi/PpxMKtbI8G8/maxresdefault.jpg",
+      "publishedAt": "2023-09-06T21:42:09Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "CNET"
       },
-      "author": "Nikki Main",
-      "title": "Three Decades After Launch, Microsoft's WordPad Is Headed to the Trash Bin - Gizmodo",
-      "description": "The text editor will no longer be available on future Windows software and won't be supported with updates.",
-      "url": "https://gizmodo.com/microsoft-is-killing-wordpad-1850805768",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aafda82d94c862dd2d29dd93e7e472c1.jpg",
-      "publishedAt": "2023-09-05T20:50:00Z",
-      "content": "Microsoft is deprecating its WordPad software from Windows, leading to the end of a decades-old staple, the company announced on Friday. WordPad will no longer be available on future versions of Wind… [+1480 chars]"
+      "author": null,
+      "title": "Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings - CNET",
+      "description": "The generative AI tool has multiple new updates, and will soon be available at no extra cost if you already pay for Zoom.",
+      "url": "https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-09-06T21:21:00Z",
+      "content": "Zoom AI Companion, the new name for the video call platform's generative artificial intelligence tool, is \"significantly\" expanding its capabilities beginning this fall. AI Companion will be availabl… [+1960 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GSMArena.com"
       },
-      "author": "Alyssa Mercante",
-      "title": "A Comprehensive Guide To Starfield's Factions - Kotaku",
-      "description": "Do you wanna be a space pirate or a space sheriff? Religious or atheist? Bethesda’s latest RPG has some options for you",
-      "url": "https://kotaku.com/starfield-faction-best-quests-crimson-fleet-reward-join-1850805835",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d0e071cad99d7ea545465ac89ca99f25.jpg",
-      "publishedAt": "2023-09-05T20:48:00Z",
-      "content": "Starfield, like most other Bethesda RPGs, has several factions that players can choose to align themselves with throughout the game. Though the long-awaited spacefaring RPG has only just come out (un… [+8537 chars]"
+      "author": "Vlad",
+      "title": "Official: Xiaomi 13T and 13T Pro will get four Android updates, five years of security patches - GSMArena.com news - GSMArena.com",
+      "description": "The duo will be unveiled on September 26. Yesterday Xiaomi finally revealed the official announcement date for the oft-leaked 13T and 13T Pro. They will...",
+      "url": "https://www.gsmarena.com/official_xiaomi_13t_and_13t_pro_will_get_four_android_updates_five_years_of_security_patches-news-59809.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/xiaomi-13t-software-update-promise/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-09-06T20:58:01Z",
+      "content": "Yesterday Xiaomi finally revealed the official announcement date for the oft-leaked 13T and 13T Pro. They will both be unveiled at a special event in Berlin, Germany on September 26.\r\nToday, Xiaomi C… [+1471 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Clubhouse is trying to make a comeback - TechCrunch",
+      "description": "Remember Clubhouse? At the peak of pandemic lockdowns, the invite-only social audio app soared with 10x month to month growth, then faded from public",
+      "url": "https://techcrunch.com/2023/09/06/clubhouse-is-trying-to-make-a-comeback/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/52456878506_5f6d56e21b_k.jpg?resize=1200,800",
+      "publishedAt": "2023-09-06T20:49:48Z",
+      "content": "Remember Clubhouse? At the peak of pandemic lockdowns, the invite-only social audio app soared with 10x month to month growth, then faded from public discourse almost as quickly as a16z investors ope… [+1413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Brendan Lowry",
+      "title": "Starfield Raised Enlightened or Universal: Which trait is better? - Windows Central",
+      "description": "Which of these excellent Starfield traits should you choose?",
+      "url": "https://www.windowscentral.com/gaming/starfield-raised-enlightened-or-universal-which-trait-is-better",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/35aBe5ovPzLGjjMQRSKn4B-1200-80.jpg",
+      "publishedAt": "2023-09-06T20:35:50Z",
+      "content": "While most of the traits you can pick for your character in Starfield don't stop you from choosing another, this is not the case with Raised Enlightened and Raised Universal. Both of these give your … [+3354 chars]"
     },
     {
       "source": {
@@ -62,62 +101,101 @@
       "author": "David Phelan",
       "title": "iPhone 15, iPhone 15 Pro Release Date: Apple Suddenly Unveils Video Countdown - Forbes",
       "description": "As each day passes, the schedule that edges us towards the iPhone special event becomes reassuringly familiar. Now, Apple reveals another way to watch the keynote.",
-      "url": "https://www.forbes.com/sites/davidphelan/2023/09/05/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/",
+      "url": "https://www.forbes.com/sites/davidphelan/2023/09/06/iphone-15-iphone-15-pro-release-date-apple-suddenly-unveils-video-countdown-iphone-15-pro-max/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f7829f97466742992b0ce4/0x0.jpg?format=jpg&crop=1996,1124,x13,y0,safe&width=1200",
-      "publishedAt": "2023-09-05T20:00:18Z",
-      "content": "Apple unveils the YouTube channel link that counts down to the keynote, and notifies you if you ... [+] choose.\r\nApple\r\nTheres a familiar, insistent rhythm thats beginning to hit its stride. Its the … [+2896 chars]"
+      "publishedAt": "2023-09-06T20:30:00Z",
+      "content": "Apple unveils the YouTube channel link that counts down to the keynote, and notifies you if you ... [+] choose.\r\nApple\r\nSeptember 6 update below. This post was first published on September 5, 2023.\r\n… [+4397 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Spectroscopyonline.com"
       },
-      "author": "Abner Li",
-      "title": "Android 14 for Google Pixel is not out yet - 9to5Google",
-      "description": "Instead of the stable release of Android 14 for Pixel phones, as well as the Fold and Tablet, we got a series of Google app updates...",
-      "url": "https://9to5google.com/2023/09/05/android-14-google-pixel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/android-14-easter-egg-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-09-05T20:00:00Z",
-      "content": "Instead of the stable release of Android 14 for Pixel phones, as well as the Fold and Tablet, we got a series of Google app updates and updated branding this morning. While unexpected, this isn’t Goo… [+3540 chars]"
+      "author": "Jerome Workman, Jr.",
+      "title": "New Discoveries from India's Chandrayaan-3 Rover at the Lunar South Pole Using LIBS and APXS Spectroscopy - Spectroscopy Online",
+      "description": "India's Chandrayaan-3 mission is the first successful attempt to land on the moon’s southern region and has uncovered several noteworthy discoveries on the lunar south pole using laser-induced breakdown spectroscopy (LIBS) and other spectroscopic techniques.",
+      "url": "https://www.spectroscopyonline.com/view/new-discoveries-from-india-s-chandrayaan-3-rover-at-the-lunar-south-pole-using-libs-and-apxs-spectroscopy",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/spectroscopy/4a9f08ddc1d5d8d1069f011cc0214f8e558a69e2-1630x2048.jpg?fit=crop&auto=format",
+      "publishedAt": "2023-09-06T20:22:26Z",
+      "content": "We are still learning new things about our Moon. As of September 6, it has been 54 years, 1 month, and 22 days since the historic Apollo 11 landing on the Moon, which occurred on July 20, 1969. Even … [+3681 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI will host its first developer conference on November 6 - TechCrunch",
+      "description": "OpenAI has announced that it'll host its first developer conference, OpenAI DevDay, on November 6. It's promising to announced 'new tools.'",
+      "url": "https://techcrunch.com/2023/09/06/openai-will-host-its-first-developer-conference-on-november-6/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+      "publishedAt": "2023-09-06T20:08:07Z",
+      "content": "OpenAI will host a developer conference — its first ever — on November 6, the company announced today.\r\nAt the one-day OpenAI DevDay event, which will feature a keynote address and breakout sessions … [+2420 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "Apple is reportedly spending “millions of dollars a day” training AI - The Verge",
+      "description": "Apple has greatly increased its investment into artificial intelligence training and research and is working on a number of image and language models, according to a report from The Information.",
+      "url": "https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eSGVPXQI5gEwLBinDDwFW7ecz2o=/0x0:4200x2800/1200x628/filters:focal(2100x1400:2101x1401)/cdn.vox-cdn.com/uploads/chorus_asset/file/24901290/1644705134.jpg",
+      "publishedAt": "2023-09-06T20:05:50Z",
+      "content": "Apple is reportedly spending millions of dollars a day training AI\r\nApple is reportedly spending millions of dollars a day training AI\r\n / The company reportedly believes that Ajax, its most advanced… [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Clubhouse reinvents itself as an audio messaging app - The Verge",
+      "description": "Clubhouse, the buzzy audio app that rose in popularity during the pandemic, is pivoting to audio-only messaging as it struggles to stay relevant.",
+      "url": "https://www.theverge.com/2023/9/6/23861862/clubhouse-reinvents-itself-audio-messaging-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RYU0ttaWr_xNiw1wRa8v9-36Oek=/0x0:1574x1578/1200x628/filters:focal(787x789:788x790)/cdn.vox-cdn.com/uploads/chorus_asset/file/24901231/clubhouse_redesign_messaging.png",
+      "publishedAt": "2023-09-06T19:29:53Z",
+      "content": "Clubhouse reinvents itself as an audio messaging app\r\nClubhouse reinvents itself as an audio messaging app\r\n / In a bid to stay relevant, Clubhouse is pivoting to audio-only group messages between fr… [+1986 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Slack's AI tool that can recap channels and threads starts testing this winter - The Verge",
+      "description": "Slack is rolling out a new AI tool that can generate summaries of discussions in channels and threads as well as find answers to your questions within relevant chats.",
+      "url": "https://www.theverge.com/2023/9/6/23861713/slack-ai-tool-recap-channels-threads-test",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/E9eaRtENV_y8qdGAoFnBKhhp74E=/0x0:2656x1482/1200x628/filters:focal(1328x741:1329x742)/cdn.vox-cdn.com/uploads/chorus_asset/file/24901227/slack_ai_summaries.png",
+      "publishedAt": "2023-09-06T19:08:41Z",
+      "content": "Slacks AI tool that can recap channels and threads starts testing this winter\r\nSlacks AI tool that can recap channels and threads starts testing this winter\r\n / Slack AI can do things like summarize … [+2423 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Livemint"
       },
-      "author": "Marko Zivkovic",
-      "title": "Everything You Need to Know About the iPhone 15 Camera Specifications - MacRumors",
-      "description": "With every iPhone iteration, Apple adds new functionality to the camera system, and the iPhone 15 series is no exception. MacRumors has obtained...",
-      "url": "https://www.macrumors.com/2023/09/05/iphone-15-series-camera-specs/",
-      "urlToImage": "https://images.macrumors.com/t/lqVWpNA0-N3TyecFbrj9K9Qqsqw=/2500x/article-new/2023/09/iPhone-15-Blue-Three-Quarters-Perspective-Camera-Closeup-Feature-2.5.jpg",
-      "publishedAt": "2023-09-05T19:38:41Z",
-      "content": "With every iPhone iteration, Apple adds new functionality to the camera system, and the iPhone 15 series is no exception. MacRumors has obtained detailed information about the camera systems of the ‌… [+4668 chars]"
+      "author": "WSJ",
+      "title": "Apple Tests Limits for Most Expensive iPhones | Mint - Mint",
+      "description": "The tech company is expected to raise prices by $100 on some premium models next week.",
+      "url": "https://www.livemint.com/technology/apple-tests-limits-for-most-expensive-iphones-11694027110458.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/06/600x338/im-846942_1694027115090_1694027242294.jpg",
+      "publishedAt": "2023-09-06T19:07:30Z",
+      "content": "Apple is testing the limits of how much people will pay for premium iPhones as it tries to drive revenue despite slowing global demand for smartphones. The tech company is expected by analysts to rai… [+4965 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Mike Wall",
-      "title": "India's Chandrayaan-3 moon lander spotted from lunar orbit (photo) - Space.com",
-      "description": "Chandrayaan-3's lander-rover duo touched down on Aug. 23 in the moon's south polar region.",
-      "url": "https://www.space.com/nasa-lro-chandrayaan-3-moon-lander-photo",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7fzE8YFdacTVUow3WxXsyZ-1200-80.jpeg",
-      "publishedAt": "2023-09-05T19:30:13Z",
-      "content": "A NASA moon probe has snapped an aerial photo of India's Chandrayaan-3 lander, the first craft ever to successfully touch down near the lunar south pole.\r\nNASA's Lunar Reconnaissance Orbiter (LRO) ca… [+2534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "Get One Of Starfield's Best Spacesuits Super Easily - Kotaku",
-      "description": "The Mark I Spacesuit is a great early-level fit that’ll make your treacherous journey a bit easier",
-      "url": "https://kotaku.com/starfield-best-space-suit-lodge-mark-1-armor-lockpick-1850805412",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/77ff51f9456c18c67effc3af7e02dea4.jpg",
-      "publishedAt": "2023-09-05T19:26:00Z",
-      "content": "Since Starfield is a massive open-world spacefaring RPG, theres plenty to do and see, but equally much you can miss if you arent paying attention. One easily overlooked item is a goated spacesuit tha… [+2709 chars]"
+      "author": "Isha Sharma",
+      "title": "Spotify Creators Earn ₹15 Lakh Monthly Creating Nature Sounds - Indiatimes.com",
+      "description": "Millennials are pioneering innovative methods to harness the Internet for income generation. In an ever-evolving digital landscape, this tech-savvy generation is leveraging their creativity and online skills to create new avenues for making money.Creators on …",
+      "url": "https://www.indiatimes.com/trending/jugaad/spotify-creators-earn-15-lakh-monthly-creating-nature-sounds-614273.html",
+      "urlToImage": "https://im.indiatimes.in/content/2023/Sep/00012_64f8cd36e85de.jpeg",
+      "publishedAt": "2023-09-06T19:06:22Z",
+      "content": "Millennials are pioneering innovative methods to harness the Internet for income generation. In an ever-evolving digital landscape, this tech-savvy generation is leveraging their creativity and onlin… [+1795 chars]"
     },
     {
       "source": {
@@ -125,129 +203,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Chants of Sennaar - Launch Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Chants of Sennaar is available now on Nintendo Switch: https://www.nintendo.com/store/products/chants-of-sennaar-switch/ In this puzzle and exploration game,...",
-      "url": "https://www.youtube.com/watch?v=A2snVijCkgY",
-      "urlToImage": "https://i.ytimg.com/vi/A2snVijCkgY/maxresdefault.jpg",
-      "publishedAt": "2023-09-05T19:00:05Z",
+      "title": "Lies of P - Official Weapon Showcase Gameplay Trailer - GameSpot",
+      "description": "One of the most prominent questions we received was regarding the “Weapon Assemble” system.In this video, we introduce handpicked assembled weapons and uniqu...",
+      "url": "https://www.youtube.com/watch?v=stNUlitz3eQ",
+      "urlToImage": "https://i.ytimg.com/vi/stNUlitz3eQ/maxresdefault.jpg",
+      "publishedAt": "2023-09-06T19:00:20Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Business Insider India"
+        "name": "Android Police"
       },
-      "author": "Jordan Hart",
-      "title": "Apple's new iPhone is set to require a new charger for the first time in 11 years — and your old Lightning cable won't work - Business Insider India",
-      "description": "The iPhone 15 is set to require a USB-C charging cable instead of the Lightning cord.It's Apple's first change to the iPhone's charging port in more than 10",
-      "url": "https://www.businessinsider.in/tech/news/apples-new-iphone-is-set-to-require-a-new-charger-for-the-first-time-in-11-years-and-your-old-lightning-cable-wont-work/articleshow/103406434.cms",
-      "urlToImage": "https://www.businessinsider.in/photo/103406434/apples-new-iphone-is-set-to-require-a-new-charger-for-the-first-time-in-11-years-and-your-old-lightning-cable-wont-work.jpg?imgsize=59808",
-      "publishedAt": "2023-09-05T18:50:00Z",
-      "content": "The new iPhone will come with various updates, but the most notable will apparently be its new charging port.\r\nApple's Lightning charging cable may soon become obsolete now that Apple's iPhone 15 is … [+1048 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "Realme Narzo 60x 5G launch event: How to watch and more - Times of India",
-      "description": "Realme is preparing to launch the Narzo 60x 5G smartphone and the Realme Buds T300 TWS earbuds in India. The Narzo 60x is said to have an ultra-slim d",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/realme-narzo-60x-5g-launch-event-how-to-watch-and-more/articleshow/103405656.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103405649,width-1070,height-580,imgsize-29446,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-05T18:21:00Z",
-      "content": "iQoo Z7 Pro vs Realme 11 Pro: How to two budget smartphones compareiQoo has launched its budget smartphone, the Z7 Pro, in India. Priced at Rs 23,999, it offers features such as an AMOLED curved disp… [+167 chars]"
+      "author": "Dallas Thomas",
+      "title": "Android 14 Beta 5.3 is here to fix call issues and UI glitches on Pixel devices - Android Police",
+      "description": "Pixel Fold and Pixel Tablet get some extra love in this release",
+      "url": "https://www.androidpolice.com/android-14-beta-53-b/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/android-14-recents-hero.jpg",
+      "publishedAt": "2023-09-06T18:55:00Z",
+      "content": "Summary\r\n<ul><li> Android 14 Beta 5.3 has been released by Google, showing that the next major Android upgrade is running behind schedule. </li><li> The update includes UI fixes for Pixel Fold and Pi… [+3004 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Abplive.com"
       },
-      "author": "HT Tech",
-      "title": "Tech Briefing today: iPhone 15 Pro price hike, Aditya-L1 completes critical maneuver, more - HT Tech",
-      "description": "Tech Briefing for September 5: Check out the biggest news in the world of tech. A new report gives two reasons why iPhone 15 Pro models can see a price hike. Aditya-L1 completes an important maneuver successfully.",
-      "url": "https://tech.hindustantimes.com/tech/news/tech-briefing-today-iphone-15-pro-price-hike-aditya-l1-completes-critical-maneuver-more-71693937261272.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/09/05/1600x900/tech_briefing_1693937378757_1693937385101.jpg",
-      "publishedAt": "2023-09-05T18:19:08Z",
-      "content": "Tech Briefing today: The tech world was abuzz with new announcements and developments today, and if you have missed them, we have curated the top stories from the day that you should know about. A ne… [+3505 chars]"
+      "author": "ABP News Bureau",
+      "title": "Huawei Mate 60 Pro Defies US Sanctions With Wireless Speeds As Fast As Apple - ABP Live",
+      "description": "The Huawei Mate 60 has been 'sold out' in China amid much enthusiasm as the handset maker is being seen as a brand that can break through US-imposed sanctions.",
+      "url": "https://news.abplive.com/technology/gadgets/huawei-mate-60-pro-us-sanctions-sold-out-wireless-speeds-fast-apple-iphone-1628086",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/07/219512b68b8ec0a3663a39f0e0d2c0f51694025483194295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2023-09-06T18:44:06Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Slashdot.org"
+        "name": "NASASpaceflight.com"
       },
-      "author": null,
-      "title": "Apple To Launch 'Low-Cost' MacBook Series Next Year To Rival Chromebooks, Report Says - Slashdot",
-      "description": "Apple is developing a low-cost MacBook series to compete with Chromebook models in the education sector that could be launched as early as the second half of 2024, claims a new report out of Taiwan. From a report: According to DigiTimes' industry sources, App…",
-      "url": "https://apple.slashdot.org/story/23/09/05/1518245/apple-to-launch-low-cost-macbook-series-next-year-to-rival-chromebooks-report-says",
-      "urlToImage": "https://a.fsdn.com/sd/topics/applelaptop_64.png",
-      "publishedAt": "2023-09-05T18:08:45Z",
-      "content": "There might be a merger in the sense that tablets become the screens for laptops. The laptops a dock of sorts. When detached the tablet runs a tablet OS like iOS. When docked it goes into screen only… [+750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Smetimes.in"
-      },
-      "author": null,
-      "title": "Microsoft, Apple want Bing, iMessage not to be part of EU 'gatekeeper' list - SME Times",
-      "description": "As the European Commission prepares to publish a list of designated “gatekeepers” as part of the new Digital Markets Act (DMA) on September 6, Microsoft and Apple are reportedly pushing to keep Bing and iMessage off the list.",
-      "url": "http://www.smetimes.in/smetimes/news/global-business/2023/Sep/05/mocrosoft-apple-gatekeeper.html",
-      "urlToImage": null,
-      "publishedAt": "2023-09-05T18:03:32Z",
-      "content": "IANS | 05 Sep, 2023As the European Commission prepares to publish a list of designated \r\ngatekeepers as part of the new Digital Markets Act (DMA) on September \r\n6, Microsoft and Apple are reportedly … [+1495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "Apple releases tvOS 17 beta 9 for Apple TV - 9to5Mac",
-      "description": "Apple has released tvOS 17 beta 9 for Apple TV. The update is available now for devices running developer beta...",
-      "url": "https://9to5mac.com/2023/09/05/apple-releases-tvos-17-beta-9/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/install-tvos-17-beta-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-09-05T17:54:00Z",
-      "content": "Apple has released tvOS 17 beta 9 for Apple TV. The update is available now for devices running developer beta updates.\r\nFor now, tvOS 17 beta 9 appears to be the only update out today. Apple release… [+599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Richa Sharma",
-      "title": "Huawei Watch GT 4 Series Likely to Launch at Upcoming Company Event on September 14 - Gadgets 360",
-      "description": "Huawei Watch GT 4 could launch soon, as the company has announced to host a launch event on September 14 in Barcelona. The company is expected to unveil a new device at the event, dubbed as 'Wearble Strategy and New Product Launch'. The announcement has tease…",
-      "url": "https://www.gadgets360.com/wearables/news/huawei-watch-gt-4-series-likely-launch-company-event-september-14-4363117",
-      "urlToImage": "https://i.gadgets360cdn.com/large/huawei_watch_gt_3_1634887872158.jpg",
-      "publishedAt": "2023-09-05T17:35:51Z",
-      "content": "Huawei Watch GT 4 could launch soon, as the company has announced to host a launch event on September 14 in Barcelona. The company is expected to unveil a new device at the event, dubbed as 'Wearble … [+1753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Adam Conway",
-      "title": "Android's Quarterly Feature Drop brings better At a Glance, Image Q&A, and more - XDA Developers",
-      "description": "Android's Quarterly Feature Drop is here, but it's not to be confused with a Pixel Feature Drop.",
-      "url": "https://www.xda-developers.com/android-quarterly-feature-drop-september-2023/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/dsc04689.jpg",
-      "publishedAt": "2023-09-05T17:31:00Z",
-      "content": "Key Takeaways\r\n<ul><li> Android's latest Feature Drop includes enhancements to the Assistant's \"At a Glance\" feature, bringing it closer to the capabilities of Pixel smartphones. </li><li> Google's I… [+2628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Vishnu Sarangapurkar",
-      "title": "Xiaomi 13T and 13T Pro tipped to launch at the end of September - Android Central",
-      "description": "The launch event is likely to be held in Berlin.",
-      "url": "https://www.androidcentral.com/phones/xiaomi-13t-series-launch-rumor-late-september",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LP9qP9tyZWJgN4ExJWQvJc-1200-80.jpg",
-      "publishedAt": "2023-09-05T17:29:01Z",
-      "content": "<ul><li>Xiaomi 13T series launch date tipped to be released in Berlin this month.</li><li>The Xiaomi 13T Pro and the Xiaomi 13T will likely carry identical designs and some similar specs.</li><li>The… [+3058 chars]"
+      "author": "Alejandro Alcantarilla Romera",
+      "title": "SpaceX stacks Ship 25 and Booster 9, prepares for flight - NASASpaceFlight.com - NASASpaceflight.com",
+      "description": "SpaceX has rolled out Ship 25 to the launch site and stacked it on top…",
+      "url": "https://www.nasaspaceflight.com/2023/09/s25b9firststack/",
+      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2023/09/Jack-S25B9-full-stack-photo-Sept-6th-525x350.jpg",
+      "publishedAt": "2023-09-06T18:42:52Z",
+      "content": "3SpaceX has rolled out Ship 25 to the launch site and stacked it on top of Super Heavy Booster 9, bringing back a fully stacked Starship rocket to Starbase since April 20.\r\nSeveral important addition… [+7634 chars]"
     },
     {
       "source": {
@@ -255,12 +255,12 @@
         "name": "Zoom"
       },
       "author": "Shubham Arora",
-      "title": "Apple's Future iPad Pro Lineup: OLED Screens and 4TB Storage on the Horizon - Times Now",
-      "description": "Apple is rumoured to be planning significant upgrades to its iPad Pro lineup, with reports suggesting that four new models will feature OLED displays. These tablets, potentially powered by the unannounced M3 chipset, could debut in late 2024. A Korean news ag…",
-      "url": "https://www.timesnownews.com/technology-science/apples-future-ipad-pro-lineup-oled-screens-and-4tb-storage-on-the-horizon-article-103405066",
-      "urlToImage": "https://static.tnn.in/thumb/msid-103405066,updatedat-1693934670424,width-1280,height-720,resizemode-75/103405066.jpg",
-      "publishedAt": "2023-09-05T17:24:30Z",
-      "content": "Horoscope Today, September 6, 2023: Cancer Will Change their Thinking, Scorpio Will See Their Business Grow"
+      "title": "Xiaomi MIX Flip Launching Soon? IMEI Database Listing Sparks Speculation - Times Now",
+      "description": "Xiaomi may soon unveil its new foldable phone, the Xiaomi MIX Flip, which has been spotted on the IMEI database. While specific details remain limited, the phone is expected to launch next year. Rumours suggest it will be powered by a Qualcomm Snapdragon 8 Ge…",
+      "url": "https://www.timesnownews.com/technology-science/xiaomi-mix-flip-launching-soon-imei-database-listing-sparks-speculation-article-103443463",
+      "urlToImage": "https://static.tnn.in/thumb/msid-103443463,updatedat-1694025305138,width-1280,height-720,resizemode-75/103443463.jpg",
+      "publishedAt": "2023-09-06T18:35:06Z",
+      "content": "BIG Smartphone Launches In September 2023: iPhone 15, Galaxy S23 FE, Honor 90, more"
     }
   ]
 }
