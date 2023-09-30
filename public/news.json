@@ -1,97 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 314,
+  "totalResults": 307,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "WTVD-TV"
       },
       "author": null,
-      "title": "Nakwon: Last Paradise - Official Teaser Trailer - IGN",
-      "description": "Check out the teaser trailer for Nakwon: Last Paradise for an early look at gameplay from the upcoming zombie apocalypse stealth-survival game from the Dave ...",
-      "url": "https://www.youtube.com/watch?v=e3UITtegpqo",
-      "urlToImage": "https://i.ytimg.com/vi/e3UITtegpqo/maxresdefault.jpg",
-      "publishedAt": "2023-09-27T22:00:32Z",
-      "content": null
+      "title": "Epic Games laying off about 16% of workforce - WTVD-TV",
+      "description": "Epic Games has 40 offices worldwide.",
+      "url": "https://abc11.com/epic-games-layoffs-fortnite-video-gaming/13838820/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13840201_092823-wtvd-epic-games-clean-6pm-img.jpg?w=1600",
+      "publishedAt": "2023-09-28T23:03:45Z",
+      "content": "CARY, N.C. (WTVD) -- Saying \"We've been spending way more money than we earn,\" Epic Games CEO Tim Sweeney announced that the video-gaming giant would undergo layoffs.\r\nIn an email to employees, Sween… [+2097 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman, Dina Bass",
+      "title": "Apple Pitched by Microsoft to Buy Bing for Search in 2020 - Bloomberg",
+      "description": "Microsoft Corp. discussed selling its Bing search engine to Apple Inc. around 2020, a deal that would have replaced Google as the default option on the iPhone maker’s devices, according to people with knowledge of the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAFrOeMfwkm4/v1/1200x800.jpg",
+      "publishedAt": "2023-09-28T21:38:12Z",
+      "content": "Microsoft Corp. discussed selling its Bing search engine to Apple Inc. around 2020, a deal that would have replaced Google as the default option on the iPhone makers devices, according to people with… [+383 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GSMArena.com"
       },
-      "author": "Ethan Gach",
-      "title": "Failing Cyberpunk DLC's First Mission Unlocks A Secret Ending - Kotaku",
-      "description": "Ignoring the objective near the start of Phantom Liberty leads to a secret ending",
-      "url": "https://kotaku.com/cyberpunk-2077-phantom-liberty-fail-hole-sky-ending-1850880040",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4b0e6e300c23cfbfe0a3f35fba009c65.jpg",
-      "publishedAt": "2023-09-27T21:12:02Z",
-      "content": "Cyberpunk 2077 often rewards players for exploring Night City off the beaten path, but not so early in its just-launched Phantom Liberty expansion. Failing one of the DLCs early objectives wont just … [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "Will Shanklin",
-      "title": "Counter-Strike 2 is now available as a free upgrade to CS:GO - Engadget",
-      "description": "The long-rumored Counter-Strike 2, officially announced in March, has replaced Counter-Strike: Global Offensive as a free upgrade.",
-      "url": "https://www.engadget.com/counter-strike-2-is-now-available-as-a-free-upgrade-to-csgo-204755738.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4RBEAGrG5nolNKW38tjccw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/47343f60-5d74-11ee-b345-10daab406693",
-      "publishedAt": "2023-09-27T20:47:56Z",
-      "content": "Valve launched Counter-Strike 2 today. The long-rumored game, officially announced in March, has replaced Counter-Strike: Global Offensive as a free upgrade. It uses Valves in-house Source 2 engine, … [+1724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Steven Petite",
-      "title": "PlayStation Plus Free Games For October 2023 Revealed - GameSpot",
-      "description": "The Callisto Protocol, Weird West, and Farming Simulator 22 headline PS Plus in October.",
-      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2023/1100-6518019/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4198061-psplusoctober.jpeg",
-      "publishedAt": "2023-09-27T20:19:30Z",
-      "content": "The free PlayStation Plus Essential games for October 2023 have now been officially confirmed, and as previously leaked, subscribers can look forward to supernatural Wild West action, the high-pressu… [+2657 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "New Battery Health Features Remain Limited to iPhone 15 Models on First iOS 17.1 Beta - MacRumors",
-      "description": "All four iPhone 15 models have two new battery health features in the Settings app, including the ability to view the battery's cycle count and...",
-      "url": "https://www.macrumors.com/2023/09/27/ios-17-1-battery-health-features-iphone-15-only/",
-      "urlToImage": "https://images.macrumors.com/t/ujYb0ixQUGzBJnEPGofH_m2v9ig=/2500x/article-new/2023/09/iOS-17-Battery-Cycle-Count-Feature-2.jpg",
-      "publishedAt": "2023-09-27T20:03:49Z",
-      "content": "All four iPhone 15 models have two new battery health features in the Settings app, including the ability to view the battery's cycle count and an option to more strictly limit charging beyond 80%. O… [+1611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "First Look: HP's Spectre Foldable Wants to Be Your Laptop, Tablet, and Desktop - PCMag",
-      "description": "It's a hyper-flexible design with a gorgeous 17-inch OLED display: Check out our first pics of HP's Spectre Foldable PC, a \"3-in-1\" you can use in a whole ho...",
-      "url": "https://www.youtube.com/watch?v=_rdhoYzGYyc",
-      "urlToImage": "https://i.ytimg.com/vi/_rdhoYzGYyc/maxresdefault.jpg",
-      "publishedAt": "2023-09-27T19:57:50Z",
-      "content": null
+      "author": "Vlad",
+      "title": "Google mocks the iPhone 15 Pro Max in latest ad, thinks the Pixel 8 Pro will get more hype - GSMArena.com news - GSMArena.com",
+      "description": "Google is hilariously delusional with this one. Google's series of video ads under the \"#BestPhonesForever\" moniker continues today with the latest...",
+      "url": "https://www.gsmarena.com/google_mocks_the_iphone_15_pro_max_in_latest_ad_thinks_the_pixel_8_pro_will_get_more_hype-news-60063.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/google-ad-mocks-iphone-15-pro/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-09-28T21:33:40Z",
+      "content": "Google's series of video ads under the \"#BestPhonesForever\" moniker continues today with the latest installment, a \"scary story\" about how wonderful and AI-filled the upcoming Pixel 8 and Pixel 8 Pro… [+1080 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Jonathan Vanian",
-      "title": "Meta CEO Mark Zuckerberg looks to digital assistants, smart glasses and AI to help metaverse push - CNBC",
-      "description": "Meta is rolling out new AI software in addition to its Quest 3 virtual reality headset and latest smart glasses as it tries to move the world to the metaverse.",
-      "url": "https://www.cnbc.com/2023/09/27/meta-ceo-zuckerberg-looks-to-digital-assistants-ai-to-push-metaverse.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?v=1695847029&w=1920&h=1080",
-      "publishedAt": "2023-09-27T19:52:21Z",
-      "content": "Meta has new artificial intelligence tools and celebrity-endorsed digital assistants that CEO Mark Zuckerberg hopes will help eventually help jumpstart the metaverse.\r\nZuckerberg showed off the AI so… [+3706 chars]"
+      "author": "Michael Sheetz",
+      "title": "Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky - CNBC",
+      "description": "The Orbital Reef space station partnership between Jeff Bezos' Blue Origin and Sierra Space is on rocky footing, CNBC has learned.",
+      "url": "https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106965165-1635172499492-Orbital-Reef-Underneith.jpg?v=1695935679&w=1920&h=1080",
+      "publishedAt": "2023-09-28T21:14:39Z",
+      "content": "The Orbital Reef space station partnership between Jeff Bezos' Blue Origin and Sierra Space is on rocky footing, CNBC has learned.\r\nThe companies announced Orbital Reef as a co-led project in 2021, b… [+5231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Some USB-C Power Banks Fail to Work With iPhone 15 - MacRumors",
+      "description": "Apple added a USB-C port to the iPhone 15 lineup this year, allowing it to work with USB-C cables, USB-C power banks, and more. It turns out that...",
+      "url": "https://www.macrumors.com/2023/09/28/iphone-15-usb-c-power-banks/",
+      "urlToImage": "https://images.macrumors.com/t/rPZV6v_4IeHkcBsreJmCOcw8lf0=/1600x/article-new/2023/09/iPhone-15-USB-C-Port-Keynote.jpeg",
+      "publishedAt": "2023-09-28T21:06:18Z",
+      "content": "Apple added a USB-C port to the iPhone 15 lineup this year, allowing it to work with USB-C cables, USB-C power banks, and more. It turns out that some USB-C battery packs are not working properly wit… [+1486 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Diane Bartz",
+      "title": "Microsoft executive says Google deals kept Bing small - Reuters",
+      "description": "Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> and other smartphone makers turned down revenue-sharing agreements that would have helped Microsoft's Bing search engine and instead kept Google as the default searc…",
+      "url": "https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/",
+      "urlToImage": "https://www.reuters.com/resizer/wZeaYbB_mDpoRBd0BBK5VpDi1L8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F37FNAVHEFPHBNFBXMFCM4QPPU.jpg",
+      "publishedAt": "2023-09-28T20:29:00Z",
+      "content": "WASHINGTON, Sept 28 - Apple (AAPL.O) and other smartphone makers turned down revenue-sharing agreements that would have helped Microsoft's Bing search engine and instead kept Google as the default se… [+1863 chars]"
     },
     {
       "source": {
@@ -99,37 +86,76 @@
         "name": "Ars Technica"
       },
       "author": "Benj Edwards",
-      "title": "Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device - Ars Technica",
-      "description": "Despite total lack of specifics, rumored collaboration has everyone guessing.",
-      "url": "https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/altman_ive_rumors_hero-760x380.jpg",
-      "publishedAt": "2023-09-27T19:19:01Z",
-      "content": "Enlarge/ Ex-Apple designer Jony Ive (left) and OpenAI CEO Sam Altman (right).\r\n63 with \r\nEx-Apple design star Jony Ive and OpenAI CEO Sam Altman have been discussing the design of an unspecified new … [+3446 chars]"
+      "title": "Meta launches consumer AI chatbots with celebrity avatars in its social apps - Ars Technica",
+      "description": "WhatsApp, Instagram add animated AI chat avatars, including Snoop Dogg as dungeon master.",
+      "url": "https://arstechnica.com/information-technology/2023/09/meta-launches-consumer-ai-chatbots-with-celebrity-avatars-in-its-social-apps/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/snoop_dungeon_master-760x380.jpg",
+      "publishedAt": "2023-09-28T19:52:06Z",
+      "content": "Enlarge/ Meta's AI characters feature Snoop Dogg playing a dungeon master that dispenses gaming advice.\r\n15 with \r\nOn Wednesday, Meta announced its consumer-friendly entry into the crowded AI chatbot… [+2891 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google adds a switch for publishers to opt out of becoming AI training data - The Verge",
+      "description": "Google announced a new flag, Google-Extended, for the robots.txt to tell Google’s crawlers to include a site in search without using it to train new AI models like the ones powering Bard.",
+      "url": "https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
+      "publishedAt": "2023-09-28T19:31:42Z",
+      "content": "Google adds a switch for publishers to opt out of becoming AI training data\r\nGoogle adds a switch for publishers to opt out of becoming AI training data\r\n / Now the Google-Extended flag in robots.txt… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Lawrence Bonk",
+      "title": "These flying origami-inspired robots change shape in mid-air - Engadget",
+      "description": "Scientists at the University of Washington have developed flying robots that change shape in mid-air. The solar-powered bots have a distinctive look that...",
+      "url": "https://www.engadget.com/these-flying-origami-inspired-robots-change-shape-in-mid-air-184653938.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vqAkDdJGlcgSSOHP76PuDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/cb44e2e0-5e2e-11ee-9e76-952a48e2fe1a",
+      "publishedAt": "2023-09-28T18:46:53Z",
+      "content": "Scientists at the University of Washington have developed flying robots that change shape\r\n in mid-air, all without batteries, as originally published in the research journal Science Robotics. These … [+2118 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India.com"
+        "name": "Forbes"
       },
-      "author": "Varun Yadav",
-      "title": "Meta Launches New VR Headset `Quest 3` Starting At Rs 41,552 In India - Zee News",
-      "description": "Tech giant Meta launched the next generation virtual reality device ‘Meta Quest 3’ starting at Rs 41,552 for 128GB version and Rs 52,042 for 512 GB version in India. The headset will hit the shelves next month from October 10 and buyers can pre-order from now…",
-      "url": "https://zeenews.india.com/technology/meta-launches-new-vr-headset-quest-3-starting-at-rs-41552-in-india-2668057.html",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/09/28/1289363-untitled-design-2023-09-28t003413.999.jpg",
-      "publishedAt": "2023-09-27T19:10:48Z",
-      "content": "New Delhi: Tech giant Meta launched the next generation virtual reality device Meta Quest 3 starting at Rs 41,552 for 128GB version and Rs 52,042 for 512 GB version in India. The headset will hit the… [+1143 chars]"
+      "author": "David Phelan",
+      "title": "Apple iPhone 15 Pro Overheating Reports: Insider Addresses Issue - Forbes",
+      "description": "There have been reports of the new iPhones overheating. Now, reliable analyst Ming-Chi Kuo weighs in and there are reports of an iPhone hitting 116 degrees.",
+      "url": "https://www.forbes.com/sites/davidphelan/2023/09/28/apple-iphone-15-pro-overheating-reports-insider-addresses-issue/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/650c33b45988dea5316c9012/0x0.jpg?format=jpg&crop=2826,1933,x0,y180,safe&width=1200",
+      "publishedAt": "2023-09-28T18:38:33Z",
+      "content": "Apple iPhone 15 Pro Max in Natural Titanium finish. Some iPhones are overheating - how many and why?\r\nDavid Phelan\r\nSeptember 28 update below. This post was first published on September 26, 2023.\r\nRe… [+4803 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fortnite.com"
+        "name": "Electrek"
       },
-      "author": "TrackerFortnite - Fortnite News, Updates and Guides",
-      "title": "Fortnite Pricing Alignment in the US, Eurozone Countries, and More in Oct 2023 - TrackerFortnite - Fortnite News, Updates and Guides",
-      "description": null,
-      "url": "https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023",
-      "urlToImage": null,
-      "publishedAt": "2023-09-27T19:01:23Z",
+      "author": "Micah Toll",
+      "title": "SRAM Eagle Powertrain e-bike motor unveiled, outsmarting others - Electrek",
+      "description": "SRAM’s new Eagle Powertrain electric bike motor has been officially unveiled, ushering forward a new era of ultra-smart e-bike motors...",
+      "url": "https://electrek.co/2023/09/28/sram-launches-new-mid-drive-e-bike-motor-outsmarts-the-competition/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/09/sram-eagle-powertrain-e-bike-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-09-28T18:35:00Z",
+      "content": "SRAM’s new Eagle Powertrain electric bike motor has been officially unveiled, ushering forward a new era of ultra-smart e-bike motors that know what you want to do before you even know it.\r\nThe SRAM … [+2881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Lamplighters League Review - IGN",
+      "description": "The Lamplighter League reviewed by Jon Bolding on PC. Also available on Xbox.The Lamplighters League takes proven concepts from other tactics games and puts ...",
+      "url": "https://www.youtube.com/watch?v=4xbDUCz_rYg",
+      "urlToImage": "https://i.ytimg.com/vi/4xbDUCz_rYg/maxresdefault.jpg",
+      "publishedAt": "2023-09-28T18:31:30Z",
       "content": null
     },
     {
@@ -138,77 +164,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Street Fighter 6 - Official A.K.I. Update Launch Trailer - IGN",
-      "description": "A.K.I. has arrived in Street Fighter 6. Watch the latest Street Fighter 6 trailer to see what to expect with the A.K.I. Update, which brings A.K.I., as well ...",
-      "url": "https://www.youtube.com/watch?v=mO-cCQ5q0YM",
-      "urlToImage": "https://i.ytimg.com/vi/mO-cCQ5q0YM/maxresdefault.jpg",
-      "publishedAt": "2023-09-27T19:00:22Z",
+      "title": "Disney Speedstorm - Free-to-play launch and Season 4 Trailer \"The Cave of Wonders\" - Nintendo Switch - Nintendo of America",
+      "description": "Disney Speedstorm Season 4 is available now on Nintendo Switch!  #DisneySpeedstorm makes three wishes come true during the Aladdin-inspired Season: ⭐ New Rac...",
+      "url": "https://www.youtube.com/watch?v=wUNv01wYWVU",
+      "urlToImage": "https://i.ytimg.com/vi/wUNv01wYWVU/maxresdefault.jpg",
+      "publishedAt": "2023-09-28T18:00:23Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Dan Seifert",
-      "title": "The iPhone 15 Pro case market is a minefield right now - The Verge",
-      "description": "Apple’s new Action Button on the iPhone 15 Pro is causing a lot of havoc for third-party case makers who expected a ringer switch.",
-      "url": "https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DseyqHAfPy15jD7TS3sFsStI06Y=/0x0:4416x2944/1200x628/filters:focal(2208x1472:2209x1473)/cdn.vox-cdn.com/uploads/chorus_asset/file/24957000/DSCF3646.JPG",
-      "publishedAt": "2023-09-27T18:58:18Z",
-      "content": "The iPhone 15 Pro case market is a minefield right now\r\nThe iPhone 15 Pro case market is a minefield right now\r\n / Apples new Action Button is causing a lot of havoc for third-party case makers.\r\nByD… [+5483 chars]"
+      "author": "Lawrence Bonk",
+      "title": "Beyerdynamic releases its first-ever wireless gaming headset - Engadget",
+      "description": "Beyerdynamic just released its first-ever pair of wireless gaming headphones. The MMX 200 headset gets up to 50 hours per charge and costs $250.",
+      "url": "https://www.engadget.com/beyerdynamic-releases-its-first-ever-wireless-gaming-headset-172641714.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/27NXOQX2GItxhEqZiOo06w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/c3120700-5e2a-11ee-9fed-101b0f27df93",
+      "publishedAt": "2023-09-28T17:26:41Z",
+      "content": "Beyerdynamic is no stranger to the gaming community, as the companys wired headsets are regularly seen at professional esports events and the like. However, its never released a wireless gaming heads… [+2290 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Christine Hall",
-      "title": "Meta Connect 2023: Everything you need to know about Quest 3 VR, Ray-Ban smart glasses and Meta AI - TechCrunch",
-      "description": "Meta's annual Connect conference started today, and this means lots of new hardware and perhaps a Metaverse sighting.",
-      "url": "https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-27-at-10.41.21-AM.png?resize=1200,607",
-      "publishedAt": "2023-09-27T18:22:30Z",
-      "content": "Meta’s annual Connect conference started today, and this means lots of new hardware. Are you ready for an update on Meta Quest 3? Didnt have time to tune in live? Thats okay we summed up the most imp… [+2873 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Ray-Ban Meta smart glasses livestream to Instagram and Facebook - TechCrunch",
-      "description": "The original Ray-Ban Stories didn’t catch on quite like Meta had hoped. According to a recent report, the company managed to sell a bit over one-third of",
-      "url": "https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Meta_RayBan-Wojack-8674.jpg?resize=1200,800",
-      "publishedAt": "2023-09-27T18:09:08Z",
-      "content": "The original Ray-Ban Stories didnt catch on quite like Meta had hoped. According to a recent report, the company managed to sell a bit over one-third of what the internal 300,000 unit goal it set for… [+3429 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Ray-Ban Meta Smart Glasses: livestreaming, headphone-replacing eyewear - The Verge",
-      "description": "Meta’s upgraded version of the Ray-Ban Stories have better cameras, more microphones, and features for livestreaming to Instagram and Facebook.",
-      "url": "https://www.theverge.com/2023/9/27/23889133/meta-rayban-smart-glasses-price-release-date",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sU-wR0c_muR4cXnjW6fkpC8UZDU=/0x0:5120x2880/1200x628/filters:focal(2560x1440:2561x1441)/cdn.vox-cdn.com/uploads/chorus_asset/file/24951122/Ray_Ban_Meta_Smart_Glasses___Transparent_Group_Shot.jpg",
-      "publishedAt": "2023-09-27T18:08:46Z",
-      "content": "Metas smart glasses can take calls, play music, and livestream from your face\r\nMetas smart glasses can take calls, play music, and livestream from your face\r\n / Meta and Ray-Ban are still trying to f… [+4165 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Leah Nylen",
-      "title": "Microsoft Says Apple Used Bing Offer as Google 'Bargaining Chip' - Bloomberg",
-      "description": "A Microsoft Corp. executive complained that when it came to the search-engine wars with Alphabet Inc.’s Google, the company’s Bing was never more than a bargaining chip to Apple Inc.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-27/microsoft-says-apple-used-bing-offer-as-google-bargaining-chip",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwtdGPRzK8b0/v1/1200x800.jpg",
-      "publishedAt": "2023-09-27T18:00:00Z",
-      "content": "A Microsoft Corp. executive complained that when it came to the search-engine wars with Alphabet Inc.s Google, the companys Bing was never more than a bargaining chip to Apple Inc.\r\nMicrosoft has bee… [+282 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Seeds First Public Beta of macOS Sonoma 14.1 - MacRumors",
+      "description": "Apple today seeded the first public beta of an upcoming macOS Sonoma 14.1 update, allowing non-developers to test out the software ahead of its...",
+      "url": "https://www.macrumors.com/2023/09/28/apple-seeds-macos-sonoma-14-1-public-beta-1/",
+      "urlToImage": "https://images.macrumors.com/t/2_H_ficbzzTio6tnEYYHj0421CQ=/2336x/article-new/2023/06/macos-sonoma-4.jpg",
+      "publishedAt": "2023-09-28T17:24:18Z",
+      "content": "Apple today seeded the first public beta of an upcoming macOS Sonoma 14.1 update, allowing non-developers to test out the software ahead of its release. The public beta comes a day after the first de… [+491 chars]"
     },
     {
       "source": {
@@ -216,51 +203,64 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "How Cyberpunk 2077 2.0 and Phantom Liberty Restored My Trust in CDPR - GamingBolt",
-      "description": "From Sea of Thieves and to Rainbow Six Siege and many more, we’ve seen plenty of games coming back from the brink of irrelevancy after terrible launches over...",
-      "url": "https://www.youtube.com/watch?v=0dUE5WvsueA",
-      "urlToImage": "https://i.ytimg.com/vi/0dUE5WvsueA/maxresdefault.jpg",
-      "publishedAt": "2023-09-27T18:00:00Z",
+      "title": "Gadgets 360 With Technical Guruji: iPhone 15 and iPhone 15 Plus \"Assembled in India\" Retail Units - NDTV",
+      "description": "We look at the all-new iPhone 15 and iPhone 15 Plus, which have been \"Assembled in India\" and, for the first time, are available on sale from launch day in t...",
+      "url": "https://www.youtube.com/watch?v=YgoqLItVgu8",
+      "urlToImage": "https://i.ytimg.com/vi/YgoqLItVgu8/maxresdefault.jpg",
+      "publishedAt": "2023-09-28T17:21:45Z",
       "content": null
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "Jennifer Jolly",
-      "title": "Best USB-C charger cable for Apple's new iPhone 15 - USA TODAY",
-      "description": "Apple’s shift to USB-C for the iPhone 15 is a welcome relief. But there are some cords you should steer clear of, says columnist Jennifer Jolly.",
-      "url": "https://www.usatoday.com/story/money/2023/09/27/best-usb-c-charging-cable-iphone-15/70980082007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/12/USAT/70834275007-afp-afp-33-ul-2-w-9.jpg?crop=4763,2690,x0,y0&width=3200&height=1808&format=pjpg&auto=webp",
-      "publishedAt": "2023-09-27T17:58:15Z",
-      "content": "Apples recent shift from a lightning connector to USB-C for the iPhone 15 is a welcome relief for many of us who want all of our go-to tech accessories to play nice in the sandbox together.  \r\nAfter … [+4513 chars]"
+      "author": "Ivan",
+      "title": "Apple iPhone 15 in for review - GSMArena.com news - GSMArena.com",
+      "description": "The vanilla iPhone gets a Dynamic Island and a new 48MP camera. Not everyone needs a Pro iPhone and for those that want a compact but capable daily driver,...",
+      "url": "https://www.gsmarena.com/apple_iphone_15_in_for_review-news-60060.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/apple-iphone-15-ifr/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-09-28T17:14:01Z",
+      "content": "Not everyone needs a Pro iPhone and for those that want a compact but capable daily driver, the iPhone 15 is the go-to. But the vanilla model was getting a bit repetitive these past few years.\r\nThe i… [+1186 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fb.com"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Introducing New AI Experiences Across Our Family of Apps and Devices - Meta Store",
-      "description": "A conversational assistant you can use across our apps, new tools to easily edit your images, AI characters played by Tom Brady, Kendall Jenner, Snoop Dogg and lots more.",
-      "url": "https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/",
-      "urlToImage": "https://about.fb.com/wp-content/uploads/2023/09/Profiles_Social-Share.jpg?w=1200",
-      "publishedAt": "2023-09-27T17:47:30Z",
-      "content": "AI is enabling new forms of connection and expression, thanks to the power of generative technologies. And today at Connect, we introduced you to new AI experiences and features that can enhance your… [+7172 chars]"
+      "title": "Achilles: Legends Untold - Official Release Date Trailer - IGN",
+      "description": "The 1.0 version of Achilles: Legends Untold will be available on PC, PlayStation 5, and Xbox Series X/S on November 2, 2023. Check out the latest Achilles: L...",
+      "url": "https://www.youtube.com/watch?v=7hKt4UTcidM",
+      "urlToImage": "https://i.ytimg.com/vi/7hKt4UTcidM/maxresdefault.jpg",
+      "publishedAt": "2023-09-28T17:00:05Z",
+      "content": null
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "9to5Mac"
       },
-      "author": "Wesley Yin-Poole",
-      "title": "FTC Revives Challenge Against Microsoft’s $69 Billion Activision Blizzard Buyout - IGN",
-      "description": "The Federal Trade Commission (FTC) plans to move forward with its administrative case against Microsoft's $69 billion buyout of Call of Duty maker Activision Blizzard.",
-      "url": "https://www.ign.com/articles/ftc-revives-challenge-against-microsofts-69-billion-activision-blizzard-buyout",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/12/07/xbox-activision-1670454638832.jpeg?width=1280",
-      "publishedAt": "2023-09-27T17:42:27Z",
-      "content": "The Federal Trade Commission (FTC) plans to move forward with its administrative case against Microsoft's $69 billion buyout of Call of Duty maker Activision Blizzard.\r\nThe FTC announced its plan to … [+1902 chars]"
+      "author": "Zac Hall",
+      "title": "Poll: Should Apple abandon FineWoven iPhone 15 cases? - 9to5Mac",
+      "description": "We all know the deal by now. Apple replaced its leather accessories with a new material it calls FineWoven. The...",
+      "url": "https://9to5mac.com/2023/09/28/finewoven-iphone-15-case-poll/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/finewoven-parker.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-09-28T16:56:00Z",
+      "content": "We all know the deal by now. Apple replaced its leather accessories with a new material it calls FineWoven. The idea is that getting out of the leather game at Apple’s scale lowers the company’s carb… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jennifer Korn",
+      "title": "Zuckerberg unveils Quest 3 as Meta tries to stay ahead in the mixed reality headset game - CNN",
+      "description": "Meta is moving forward in its efforts to dominate the AR world with the new and improved Meta Quest 3. CEO Mark Zuckerberg unveiled the headset at Meta Connect Wednesday.",
+      "url": "https://www.cnn.com/2023/09/27/tech/zuckerberg-meta-quest-3/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927135303-01-zuckerberg-meta-quest-3.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-28T16:44:00Z",
+      "content": "Meta is moving forward in its efforts to dominate the AR world with the new and improved Meta Quest 3. \r\nUnveiled by CEO Mark Zuckerberg at the companys virtual Meta Connect event Wednesday, the head… [+4719 chars]"
     }
   ]
 }
