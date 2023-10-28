@@ -1,214 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 251,
+  "totalResults": 240,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "iOS 17.1 and iPadOS 17.1 with AirDrop over the internet, watchOS 10.1 with Double Tap now out - GSMArena.com news - GSMArena.com",
-      "description": "It's a pretty important update day in Appleland. Today Apple has released iOS 17.1, iPadOS 17.1, and watchOS 10.1 to all supported devices. The downloads...",
-      "url": "https://www.gsmarena.com/ios_171_and_ipados_171_with_airdrop_over_the_internet_watchos_101_with_double_tap_now_out-news-60364.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/10/ios-17-1-ipados-17-1-watchos-10-1/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-10-25T23:59:01Z",
-      "content": "Today Apple has released iOS 17.1, iPadOS 17.1, and watchOS 10.1 to all supported devices. The downloads should already be available to all who manually search for them, in usual Apple fashion (see t… [+1744 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samsungmobilepress.com"
-      },
-      "author": null,
-      "title": "Have We Been Sleeping Well? Samsung Answers the Age-Old Question with the Global Sleep Health Study - Samsung Mobile Press",
-      "description": "",
-      "url": "https://www.samsungmobilepress.com/feature-stories/have-we-been-sleeping-well-samsung-answers-the-age-old-question-with-the-global-sleep-health-study/",
-      "urlToImage": "https://www.samsungmobilepress.com/file/554421B1637300D03DBF2509C2954C6C39316C7C447DD2DA85058C916681A24C4B89D3D64517D49BA62F2C3999AD875E4E7168A479EC2BF11CDE628703DF09ED7CE729249269EA37346453746FA1AD62D9BF01B868D2D4B21721B4BC71F8813DEB08310595136424CD5A5DFDCC2EEA61503A3624BBBFD0770DE020BC42DC2490",
-      "publishedAt": "2023-10-25T23:04:59Z",
-      "content": "Today, more and more are prioritizing sleep as it relates to health. The growing interest in sleep is clear from recent trends observed with the Samsung Health app. Over the past two years, there has… [+6238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Here's everything featured in tonight's Xbox Partner Preview showcase - Eurogamer.net",
-      "description": "Microsoft's Xbox Partner Preview showcase might have an exceptionally rubbish name, but don't let that fool you into th…",
-      "url": "https://www.eurogamer.net/heres-everything-featured-in-tonights-xbox-partner-preview-showcase",
-      "urlToImage": "https://assetsio.reedpopcdn.com/xbox-partner-preview-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-10-25T22:42:00Z",
-      "content": "Microsoft's Xbox Partner Preview showcase might have an exceptionally rubbish name, but don't let that fool you into thinking it's not worth a watch! Tonight's latest instalment was a pretty decent o… [+4767 chars]"
-    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
       "author": "Dan Goodin",
-      "title": "Pro-Russia hackers target inboxes with 0-day in webmail app used by millions - Ars Technica",
-      "description": "Previously unknown XSS in Roundcube let Winter Vivern steal government emails.",
-      "url": "https://arstechnica.com/security/2023/10/pro-russia-hackers-target-inboxes-with-0-day-in-webmail-app-used-by-millions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg",
-      "publishedAt": "2023-10-25T22:21:49Z",
-      "content": "6 with \r\nA relentless team of pro-Russia hackers has been exploiting a zero-day vulnerability in widely used webmail software in attacks targeting governmental entities and a think tank, all in Europ… [+3428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Qualcomm CEO on new chip: AI 'evolving different' than cloud - Yahoo Finance",
-      "description": "Qualcomm (QCOM) announced a new AI chip — its Snapdragon Elite X — for Windows-operating laptops (MSFT). According to performance tests, the chip matches the...",
-      "url": "https://www.youtube.com/watch?v=-qX-DOuTigA",
-      "urlToImage": "https://i.ytimg.com/vi/-qX-DOuTigA/maxresdefault.jpg",
-      "publishedAt": "2023-10-25T21:40:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Rory Mellon",
-      "title": "Early Black Friday sales arrive at Amazon — 19 deals I'd buy now - Tom's Guide",
-      "description": "Don’t miss these early Black Friday deals on Amazon",
-      "url": "https://www.tomsguide.com/deals/early-black-friday-sales-arrive-at-amazon-15-deals-id-buy-now",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTp2UryNQuHiKLTFZuaMe3-1200-80.jpg",
-      "publishedAt": "2023-10-25T21:25:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple Event Next Week Likely to Emphasize High-End Gaming on Mac - MacRumors",
-      "description": "Apple yesterday announced that it will be holding an online event on Monday, October 30 starting at 5 p.m. Pacific Time, and there are several...",
-      "url": "https://www.macrumors.com/2023/10/25/apple-event-mac-gaming-focus-likely/",
-      "urlToImage": "https://images.macrumors.com/t/nDVnO8Yo4cUUzwKadRiJfbpn-j8=/1920x/article-new/2023/06/Apple-WWDC23-macOS-Sonoma-gaming-230605.jpg",
-      "publishedAt": "2023-10-25T21:13:34Z",
-      "content": "Apple yesterday announced that it will be holding an online event on Monday, October 30 starting at 5 p.m. Pacific Time, and there are several reasons to believe that gaming on the Mac will be one of… [+3032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Matthew Zucca",
-      "title": "Samsung's back with another One UI 6 beta for the Galaxy S23 - Android Police",
-      "description": "Nope, no stable version yet",
-      "url": "https://www.androidpolice.com/samsung-one-ui-6-beta-galaxy-s23/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/image-1-8.jpg",
-      "publishedAt": "2023-10-25T21:12:00Z",
-      "content": "Summary\r\n<ul><li> Samsung has started rolling out the ninth beta build of the Android 14-based One UI 6.0 update for the Galaxy S23 series in the US, with other markets to follow. </li><li> The lates… [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Nikki Main",
-      "title": "Apple Music, AirDrop Revamped in iOS 17.1 Update - Gizmodo",
-      "description": "Apple's iOS update also addresses French regulator's complaints that it emits radiation levels exceeding those permitted in the EU.",
-      "url": "https://gizmodo.com/apple-music-airdrop-revamped-in-ios-17-1-update-1850959614",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f48a4b686334235db0e0124c564b4bb8.jpg",
-      "publishedAt": "2023-10-25T20:55:00Z",
-      "content": "Apple released its iOS 17.1 Wednesday, which introduces new features for AirDrop, Apple Music, and others. The update also fixed radiation issues for the iPhone 12 brought up by French regulators.\r\nT… [+1794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Adnan Farooqui",
-      "title": "Confirmed: Samsung is making a Snapdragon X Elite-powered PC - SamMobile - Samsung news",
-      "description": "There wasn't much mention of Samsung during the ongoing Snapdragon Summit 2023 even though it continues to be one of ...",
-      "url": "https://www.sammobile.com/news/confirmed-samsung-is-making-a-snapdragon-x-elite-powered-pc/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/10/qualcomm-snapdragon-x-elite-720x405.jpg",
-      "publishedAt": "2023-10-25T20:38:00Z",
-      "content": "There wasn't much mention of Samsung during the ongoing Snapdragon Summit 2023 even though it continues to be one of the leading OEM partners of Qualcomm. However, that draught ended today as Qualcom… [+2509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: New Crossbeats Nexus Smartwatch Has ChatGPT Integration, SAP Says Cloud So - ABP Live",
-      "description": "Crossbeats Nexus smartwatch will be made available during Diwali.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-october-25-new-crossbeats-nexus-smartwatch-has-chatgpt-integration-cloud-solutions-will-be-available-on-indian-data-centre-says-sap-1638346",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/26/c4acec637ce58cdf9b78e5abf5a06c501698264654900295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-10-25T20:12:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "author": "Tristan Greene",
-      "title": "Neon Machine raises $20M Series A for blockchain-based Call of Duty competitor 'Shrapnel' - Cointelegraph",
-      "description": "Web3 gaming developer Neon Machine raised $20 million in Series A funding toward the development of its FPS extraction shooter, “Shrapnel,” purportedly a would-be future AAA gaming competitor to Call of Duty.",
-      "url": "https://cointelegraph.com/news/neon-machine-raises-20-m-series-a-web-3-blockchain-based-call-of-duty-competitor-shrapnel",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/52cf114d-deb5-4583-ade4-fa7e75d5933e.jpg",
-      "publishedAt": "2023-10-25T19:48:25Z",
-      "content": "Web3 gaming developer Neon Machine raised $20 million in Series A funding toward the development of its highly anticipated extraction shooter, Shrapnel.\r\nThis round follows a $10.5 million seed round… [+2149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Everything You Can Do With the Double Tap Gesture on Apple Watch - MacRumors",
-      "description": "With the watchOS 10.1 update that came out today, Apple has added Double Tap to the Apple Watch Series 9 and Apple Watch Ultra 2 devices. Double Tap...",
-      "url": "https://www.macrumors.com/2023/10/25/watchos-10-1-double-tap-gesture/",
-      "urlToImage": "https://images.macrumors.com/t/ZZ3a-vUmT7Pgf8rSjK4I-HW5rVc=/2210x/article-new/2023/10/apple-watch-ultra-double-tap-feature-green.jpg",
-      "publishedAt": "2023-10-25T19:46:22Z",
-      "content": "With the watchOS 10.1 update that came out today, Apple has added Double Tap to the Apple Watch Series 9 and Apple Watch Ultra 2 devices. Double Tap was announced when the new models were introduced,… [+2943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Ark: Survival Ascended Surprise-Launching On PC Today Apparently, Coming To Console In November - GameSpot",
-      "description": "The remake of the original Ark: Survival Evolved is supposed to be out today on PC.",
-      "url": "https://www.gamespot.com/articles/ark-survival-ascended-surprise-launches-on-pc-coming-to-console-in-november/1100-6518669/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4211324-arklarge.jpeg",
-      "publishedAt": "2023-10-25T19:44:02Z",
-      "content": "As part of the Xbox Partner Preview event, Microsoft released the first gameplay trailer for Ark: Survival Ascended, the Unreal Engine 5 remake of Ark: Survival Evolved. Not only that, but developer … [+1638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Microsoft Plans Ahead Word Turns 40 Investment AI - ABP Live",
-      "description": "Microsoft has revealed its plans for MS Word as the app marks its 40th birthday.",
-      "url": "https://news.abplive.com/technology/microsoft-plans-ahead-word-turns-40-investment-ai-1638345",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/26/ca70b7c83fcb6a1dba01ff0e1bbe6c991698261515715295_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-10-25T19:39:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameishard.gg"
-      },
-      "author": "Tom Misch",
-      "title": "Indus Battle Royale Revolutionizes the Esports Scene with a Groundbreaking Tournament - Game Is Hard",
-      "description": "Indus Battle Royale Revolutionizes the Esports Scene with a Groundbreaking Tournament - Game Is Hard",
-      "url": "https://gameishard.gg/news/indus-battle-royale-announces-its-first-esports-tournament-with-rs-10-lakhs-prize-pool-ahead-of-closed-beta-test/476325/",
-      "urlToImage": "https://gameishard.gg/wp-content/uploads/2023/07/mfrack_realistic_photo_of_man_pc_gamer_0f48b60e-58c7-43f3-b9e9-1dccf90a5487.jpeg",
-      "publishedAt": "2023-10-25T19:07:19Z",
-      "content": "Indus Battle Royale, a leading gaming start-up, is set to take the esports world by storm with its first-ever tournament boasting an impressive prize pool of Rs 10 Lakhs. This announcement comes on t… [+3554 chars]"
+      "title": "iPhones have been exposing your unique MAC despite Apple's promises otherwise - Ars Technica",
+      "description": "“From the get-go, this feature was useless,” researcher says of feature put into iOS 14.",
+      "url": "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/private-wi-fi-address-700x380.jpg",
+      "publishedAt": "2023-10-26T21:48:04Z",
+      "content": "Enlarge/ Private Wi-Fi address setting on an iPhone.\r\n36 with \r\nThree years ago, Apple introduced a privacy-enhancing feature that hid the Wi-Fi address of iPhones and iPads when they joined a networ… [+3994 chars]"
     },
     {
       "source": {
@@ -216,38 +21,207 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Pixel 8 Pro display brings drastic power efficiency upgrades - 9to5Google",
-      "description": "Google’s Pixel 8 Pro has, at least for now, the brightest display on a traditional smartphone sold in the United...",
-      "url": "https://9to5google.com/2023/10/25/pixel-8-pro-display-power-efficiency-test/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Pixel-8-Pro-Magic-Editor-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-10-25T19:03:00Z",
-      "content": "Googles Pixel 8 Pro has, at least for now, the brightest display on a traditional smartphone sold in the United States. And according to a deeper test, that display is also drastically more power eff… [+2371 chars]"
+      "title": "Galaxy S23 FE launches at a higher price - 9to5Google",
+      "description": "The Samsung Galaxy S23 FE has now launched, but the device is now more expensive than Samsung said it would be.",
+      "url": "https://9to5google.com/2023/10/26/samsung-galaxy-s23-fe-price/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-s23-fe-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-26T20:04:00Z",
+      "content": "Samsung’s new Galaxy S23 FE has launched this week, but the company is charging a higher price for its new “Fan Edition” device than it previously said.\r\nThe Galaxy S23 FE is a bit of an odd release,… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Apex Legends: Ignite - Official Gameplay Trailer - IGN",
+      "description": "See Conduit, the new support Legend, in action in this gameplay trailer for Apex Legends: Ignite. The new trailer also gives a look at what's coming in Apex ...",
+      "url": "https://www.youtube.com/watch?v=aMcbDOGWyDU",
+      "urlToImage": "https://i.ytimg.com/vi/aMcbDOGWyDU/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T19:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "What we expect at Apple's Scary Fast event: M3-powered MacBook Pros and new iMacs - Engadget",
+      "description": "It's time for yet another Apple Event. This time around, we're expecting to see fresh MacBook Pro and iMac devices powered by new M3 chipsets.",
+      "url": "https://www.engadget.com/what-we-expect-at-apples-scary-fast-event-m3-powered-macbook-pros-and-new-imacs-191549274.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Obda1.T8Aj7wIn.ZrF4Bhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdff20-b752-11eb-bfdd-064c2df470db",
+      "publishedAt": "2023-10-26T19:15:49Z",
+      "content": "Apple has at least one more trick or possibly a treat up its sleeve this year. On October 30, the night before Halloween, the company is hosting another event. This one is dubbed Scary Fast, which is… [+4749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple TV App Features Revamped Navigation in tvOS 17.2 - MacRumors",
+      "description": "Apple in the tvOS 17.2 beta has updated its Apple TV app, making it easier to navigate and find content to watch. There is a dedicated sidebar that...",
+      "url": "https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/",
+      "urlToImage": "https://images.macrumors.com/t/VZsNCqojvQsA0MN2k5jCuB9LRLM=/1600x/article-new/2023/10/apple-tv-app-redesign.jpg",
+      "publishedAt": "2023-10-26T18:40:49Z",
+      "content": "Apple in the tvOS 17.2 beta has updated its Apple TV app, making it easier to navigate and find content to watch. There is a dedicated sidebar that houses content from different apps and streaming se… [+1296 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "IGN",
+      "title": "Microsoft Reorganizes Xbox Leadership, Promoting Sarah Bond and Matt Booty - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/microsoft-reorganizes-xbox-leadership-promoting-sarah-bond-and-matt-booty",
+      "urlToImage": null,
+      "publishedAt": "2023-10-26T18:33:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "The suit from The Batman was briefly added to Arkham Knight on the Epic Games Store | VGC - Video Games Chronicle",
+      "description": "The new free skin was added with little warning…",
+      "url": "https://www.videogameschronicle.com/news/the-suit-from-the-batman-has-been-added-to-arkham-knight-on-the-epic-games-store/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2023/10/batman.jpg",
+      "publishedAt": "2023-10-26T18:33:02Z",
+      "content": "A new skin was briefly added to the Epic Games Store version of Batman: Arkham Knight.\r\nThe new skin let players use the suit from The Batman, the 2022 movie starring Robert Pattinson as Batman.\r\nAs … [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Varun Dhawan joins the flip side with Galaxy Z Fold5 | Samsung - Mint",
+      "description": "[PARTNERED]Samsung sent an invite to @VarunDhawan, to #JoinTheFlipSide, and he welcomed it with open arms. Watch him unfold his new #GalaxyZFold5 and gear up...",
+      "url": "https://www.youtube.com/watch?v=rFRJLheCMwc",
+      "urlToImage": "https://i.ytimg.com/vi/rFRJLheCMwc/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T18:30:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Hassan Mujtaba",
+      "title": "NVIDIA & MediaTek Reportedly Working On Arm Based CPUs With TSMC’s CoWoS Packaging - Wccftech",
+      "description": "NVIDIA is reportedly working with MediaTek for its first Arm-based CPUs that will be made using TSMC's CoWoS packaging tech in Q2 2024.",
+      "url": "https://wccftech.com/nvidia-mediatek-working-on-arm-based-cpus-tsmcs-cowos-packaging/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/10/NVIDIA-MediaTek-Arm-CPUs-728x538.png",
+      "publishedAt": "2023-10-26T17:50:00Z",
+      "content": "Following reports of NVIDIA's foray into the PC market with its own Arm-based CPUs, new details have emerged that suggest that the green team will be partnering with MediaTek and utilizing the 2.5D p… [+2260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Epravda.com.ua"
+      },
+      "author": "Р•РєРѕРЅРѕРјС–С‡РЅР° РїСЂР°РІРґР°",
+      "title": "Motorola представила смартфон гнучким екраном, який можна носити на зап'ясті - Економічна правда",
+      "description": "РљРѕРјРїР°РЅС–СЏ MotorolaВ  Lenovo Tech World 23 РїСЂРµРґСЃС‚Р°РІРёР»Р° РЅРѕРІРёР№ РєРѕРЅС†РµРїС‚СѓР°Р»СЊРЅРёР№ СЃРјР°СЂС‚С„РѕРЅ Moto, РµРєСЂР°РЅ СЏРєРѕРіРѕ Р·РіРёРЅР°С”С‚СЊСЃСЏ, Р° СЃР°Рј С‚РµР»РµС„РѕРЅ РјРѕР¶РЅР° РѕРіРѕСЂРЅСѓС‚Рё РЅР°РІРєРѕР»Рѕ Р·Р°РїʼСЏСЃС…",
+      "url": "https://www.epravda.com.ua/news/2023/10/26/705930/",
+      "urlToImage": "https://eimg.pravda.com/images/doc/7/0/705930_fb_image_ukr_2023_10_26_20_59_29.png",
+      "publishedAt": "2023-10-26T17:48:00Z",
+      "content": "° Motorola  Lenovo Tech World 23 µ°»° µ°» ° Moto, µ° ·°, ° ° µ»µ ¶° °» ·°ʼ. \r\n µ » The Verge.  \r\n°·°°, ° ¶µ °·°»° ± µ» ° Tech World 2016. µ ° µ »° ±» °» ¶ µµ. \r\n Motorola ° °°µ ° »°. °,, µ ° ° ·° ° ±… [+134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Boudhaditya Sanyal",
+      "title": "Amazon Sale 2023: Upgrading your TV? Get up to 58% off on TVs under ₹50,000 | Mint - Mint",
+      "description": "The Amazon Great Indian Festival is offering impressive discounts on TVs under  ₹50,000. Bring home a new entertainment setup and enjoy with your family during the Amazon sale.",
+      "url": "https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-tv-get-up-to-58-off-on-tvs-under-rs-50000-11698309499493.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/amazon_sale_1698319715956_1698319716228.jpg",
+      "publishedAt": "2023-10-26T17:38:40Z",
+      "content": "With the advent of streaming services, gaming consoles, and high-definition content, our televisions have evolved into more than just a box in the living room; they've become portals to immersive and… [+17127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "ANI",
+      "title": "Google to introduce new immersive AI-powered upgrades to its Maps app - Business Standard",
+      "description": "Chris Phillips, Vice President and General Manager of Geo at Google, stated that AI has \"supercharged the way we map\"",
+      "url": "https://www.business-standard.com/companies/news/google-to-introduce-new-immersive-ai-powered-upgrades-to-its-maps-app-123102601426_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/14/full/1520970050-9921.jpg",
+      "publishedAt": "2023-10-26T17:35:19Z",
+      "content": "One of the ways Google is using AI to make Maps more like Search is to analyze \"billions\" of user-uploaded photos to help people find random items, like coffee shops | Photo: Reuters"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Anthony Wood",
+      "title": "First In-Engine Look at Metal Gear Solid Δ: Snake Eater Gets Mixed Reaction From Fans - IGN",
+      "description": "The first in-engine trailer for Konami’s Metal Gear Solid Δ: Snake Eater remake has been met with a mixed reaction on social media following its debut during Xbox’s Partner Preview event earlier this week.",
+      "url": "https://www.ign.com/articles/first-in-engine-look-at-metal-gear-solid-snake-eater-gets-mixed-reaction-from-fans",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/10/25/screenshot-2023-10-25-at-12-26-11-pm-1698254780640.png?width=1280",
+      "publishedAt": "2023-10-26T17:20:26Z",
+      "content": "The first in-engine trailer for Konamis Metal Gear Solid : Snake Eater remake has been met with a mixed reaction on social media following its debut during Xboxs Partner Preview event earlier this we… [+5037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Prapti Upadhayay",
+      "title": "Alan Wake 2 steals the spotlight in gaming's Hall of Fame, gets amazing reviews - Hindustan Times",
+      "description": "Alan Wake 2 receives glowing reviews, hailed as a groundbreaking masterpiece.",
+      "url": "https://www.hindustantimes.com/technology/alan-wake-2-steals-the-spotlight-in-gamings-hall-of-fame-gets-amazing-reviews-101698338546834.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/Alan_Wake_2_1698339441418_1698339467422.jfif",
+      "publishedAt": "2023-10-26T17:09:09Z",
+      "content": "2023 has proven to be an exceptional year for gamers and critics alike. Just when enthusiasts thought the industry had peaked with hits like Super Mario Bros. Wonder and Spider-Man 2, a new contender… [+1751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "DAVE THE DIVER - Launch Trailer - Nintendo Switch - Nintendo of America",
+      "description": "DAVE THE DIVER is available now on Nintendo Switch: https://www.nintendo.com/us/store/products/dave-the-diver-switch/ Dive into a deep oceanic adventure! Exp...",
+      "url": "https://www.youtube.com/watch?v=GgXHaZiym9U",
+      "urlToImage": "https://i.ytimg.com/vi/GgXHaZiym9U/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T17:00:08Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Rock Paper Shotgun"
       },
-      "author": "Matt Jarvis",
-      "title": "Manor Lords is Total War, Crusader Kings and Age of Empires in a blender, and it's headed to Game Pass - Rock Paper Shotgun",
-      "description": "An ambitious mix of city-building, historical simulation and real-time battles from a solo dev.",
-      "url": "https://www.rockpapershotgun.com/manor-lords-is-total-war-crusader-kings-and-age-of-empires-in-a-blender-and-its-headed-to-game-pass",
-      "urlToImage": "https://assetsio.reedpopcdn.com/manor-lords-gameplay-battle.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-10-25T18:55:41Z",
-      "content": "We first saw Manor Lordsa couple of years ago, when its mix of Crusader Kings-like simulation, Ages of Empires-y city-building and sweeping battles a la Total War made it one to watch. We weren’t alo… [+3217 chars]"
+      "author": "Graham Smith",
+      "title": "Cities: Skylines 2's first performance-boosting patch is out now - Rock Paper Shotgun",
+      "description": "Cities: Skylines 2 launched with some severe performance issues, but the first update to start addressing those issues is out now.",
+      "url": "https://www.rockpapershotgun.com/cities-skylines-2s-first-performance-boosting-patch-is-out-now",
+      "urlToImage": "https://assetsio.reedpopcdn.com/cities-skylines-hospital.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-10-26T16:50:53Z",
+      "content": "Every road network I ever constructed in Cities: Skylines had deep-rooted performance issues I'd then spend dozens more happy hours trying to unravel. I hope Colossal Order are having a similarly fun… [+1753 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Business Insider India"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Sarah Jackson",
-      "title": "Motorola wants you to wear its new flexible smartphone around your wrist like a slap bracelet. See how the concept works. - Business Insider India",
-      "description": "Motorola unveiled a concept for a smartphone you can wear on your wrist like a big slap bracelet.The adaptive display concept can also be folded multiple",
-      "url": "https://www.businessinsider.in/tech/news/motorola-wants-you-to-wear-its-new-flexible-smartphone-around-your-wrist-like-a-slap-bracelet-see-how-the-concept-works-/articleshow/104708104.cms",
-      "urlToImage": "https://www.businessinsider.in/photo/104708104/motorola-wants-you-to-wear-its-new-flexible-smartphone-around-your-wrist-like-a-slap-bracelet-see-how-the-concept-works-.jpg?imgsize=52294",
-      "publishedAt": "2023-10-25T18:54:46Z",
-      "content": "Most people these days always have their phones on their person at all times, but what if you could quite literally have your phone on your person?\r\nMotorola showed off its new concept for a smartpho… [+1609 chars]"
+      "author": "Megan Wollerton",
+      "title": "The best smart plugs in 2023 - The Verge",
+      "description": "The best smart plugs for Apple Home, Google Home, Alexa, and SmartThings, whether you need Matter support, dimming, outdoor smart plugs for holiday lights, or energy monitoring.",
+      "url": "https://www.theverge.com/23899810/best-smart-plugs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jGfseZeOf_41zffWhHXE6b5rdPQ=/0x0:2040x1360/1200x628/filters:focal(1018x818:1019x819)/cdn.vox-cdn.com/uploads/chorus_asset/file/25034941/236827_Smart_Plugs_CVirginia.jpg",
+      "publishedAt": "2023-10-26T16:41:58Z",
+      "content": "These misleadingly simple gadgets are some of the most useful smart devices you can have in your home. \r\nOct 26, 2023, 4:41 PM UTC|Comments\r\nIf you buy something from a Verge link, Vox Media may earn… [+14575 chars]"
     },
     {
       "source": {
@@ -255,12 +229,38 @@
         "name": "BleepingComputer"
       },
       "author": "Bill Toulas",
-      "title": "Flipper Zero can now spam Android, Windows users with Bluetooth alerts - BleepingComputer",
-      "description": "A custom Flipper Zero firmware called 'Xtreme' has added a new feature to perform Bluetooth spam attacks on Android and Windows devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-can-now-spam-android-windows-users-with-bluetooth-alerts/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/01/03/flipper-zero.jpg",
-      "publishedAt": "2023-10-25T18:54:00Z",
-      "content": "A custom Flipper Zero firmware called 'Xtreme' has added a new feature to perform Bluetooth spam attacks on Android and Windows devices.\r\nA security researcher previously demonstrated the technique a… [+2942 chars]"
+      "title": "France says Russian state hackers breached numerous critical networks - BleepingComputer",
+      "description": "The Russian APT28 hacking group (aka 'Strontium' or 'Fancy Bear') has been targeting government entities, businesses, universities, research institutes, and think tanks in France since the second half of 2021.",
+      "url": "https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/26/Russian-bear.jpg",
+      "publishedAt": "2023-10-26T16:40:18Z",
+      "content": "The Russian APT28 hacking group (aka 'Strontium' or 'Fancy Bear') has been targeting government entities, businesses, universities, research institutes, and think tanks in France since the second hal… [+3696 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Aabhas Sharma",
+      "title": "Double tap on Apple Watch: How Apple implemented its 'coolest' feature of 2023 - Times of India",
+      "description": "Apple has introduced a new double tap gesture for its Watch Series 9 and Watch Ultra 2 models. The feature allows users to perform common actions by t",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/double-tap-on-apple-watch-how-apple-implemented-its-coolest-feature-of-2023/articleshow/104717496.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104717496,width-1070,height-580,imgsize-186104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-26T16:36:18Z",
+      "content": "5G flip phones under Rs 70,000 from Samsung, Oppo and more"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "GTA Online - Official Halloween Trailer - IGN",
+      "description": "Grand Theft Auto Online is ushering in the spooky season with a Halloween-themed update to the game. Reports of supernatural entities and paranormal activiti...",
+      "url": "https://www.youtube.com/watch?v=6On7iSpMQeE",
+      "urlToImage": "https://i.ytimg.com/vi/6On7iSpMQeE/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T16:30:02Z",
+      "content": null
     }
   ]
 }
