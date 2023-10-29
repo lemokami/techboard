@@ -1,19 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 240,
+  "totalResults": 213,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Livemint"
       },
-      "author": "Dan Goodin",
-      "title": "iPhones have been exposing your unique MAC despite Apple's promises otherwise - Ars Technica",
-      "description": "“From the get-go, this feature was useless,” researcher says of feature put into iOS 14.",
-      "url": "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/private-wi-fi-address-700x380.jpg",
-      "publishedAt": "2023-10-26T21:48:04Z",
-      "content": "Enlarge/ Private Wi-Fi address setting on an iPhone.\r\n36 with \r\nThree years ago, Apple introduced a privacy-enhancing feature that hid the Wi-Fi address of iPhones and iPads when they joined a networ… [+3994 chars]"
+      "author": "Boudhaditya Sanyal",
+      "title": "Amazon Sale 2023: Buying big screen TV? Avail up to 63% discount on 65-inch TVs | Mint - Mint",
+      "description": "The Amazon Great Indian Festival is your chance to upgrade your TV. Experience grandeur with 65-inch TVs from renowned brands loaded with features. Check out the top picks and get the best discounts on the Amazon Sale.",
+      "url": "https://www.livemint.com/technology/gadgets/amazon-sale-2023-buying-big-screen-tv-avail-up-to-63-discount-on-65-inch-tvs-11698385920698.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/27/1600x900/amazon_sale_1698396090627_1698396090906.jpg",
+      "publishedAt": "2023-10-27T21:07:48Z",
+      "content": "If you've been yearning to transform your living room into a cinematic haven, 2023 is the year you've been waiting for. Amazon Sale 2023 is here with an irresistible offer that will elevate your home… [+17715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cheyenne DeVon",
+      "title": "This new tool lets artists 'poison' their artwork to deter AI companies from using it to train their models—here’s how it works - CNBC",
+      "description": "If an artist doesn't want their pieces being used to train AI image generators, a new tool called Nightshade would let them \"poison\" their artwork.",
+      "url": "https://www.cnbc.com/2023/10/27/new-tool-lets-artists-poison-their-artwork-to-deter-ai-companies.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107323814-1698339021037-gettyimages-1404749040-human-vs-robot.jpeg?v=1698438357&w=1920&h=1080",
+      "publishedAt": "2023-10-27T20:25:57Z",
+      "content": "Artists who want to share their artwork often face a tough choice: keep it offline or post it on social media and risk having it used to train data-hungry AI image generators.\r\nBut a new tool may soo… [+3633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Andy Meek",
+      "title": "3 upcoming Apple TV+ shows that make the price hike worth it - BGR",
+      "description": "Price increases are never fun, but these three Apple TV+ shows justify the streamer's new price hike all by themselves.",
+      "url": "https://bgr.com/entertainment/3-upcoming-apple-tv-shows-that-make-the-price-hike-worth-it/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2023/10/rsz_masters_of_the_air_photo_010402.jpg?quality=82&strip=all",
+      "publishedAt": "2023-10-27T20:18:00Z",
+      "content": "Apple TV+ a few days ago joined the ranks of streaming services that have recently implemented price hikes, with Apple raising the price of its streaming TV service from $6.99 to $9.99/month. That co… [+5296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Drive"
+      },
+      "author": null,
+      "title": "BMW E46 M3 With V10 Swap Gets Wild 10-into-1 Headers - The Drive",
+      "description": "Driftworks' M5 V10-swapped E46 M3 was already the stuff of legend, and now it's wilder than ever before.",
+      "url": "https://www.thedrive.com/news/v10-swapped-bmw-e46-m3-sounds-like-nothing-else-thanks-to-10-into-1-headers#article",
+      "urlToImage": "https://www.thedrive.com/uploads/2023/10/27/v10headers-hero.jpg?auto=webp",
+      "publishedAt": "2023-10-27T20:00:00Z",
+      "content": "Who doesn't enjoy a ridiculous engine swap? The Ferrari-swapped Subaru rally car was memorable, as was the unhinged Dodge Demon-swapped side-by-side designed to do burnouts. But when it comes to clea… [+1842 chars]"
     },
     {
       "source": {
@@ -21,12 +60,38 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Galaxy S23 FE launches at a higher price - 9to5Google",
-      "description": "The Samsung Galaxy S23 FE has now launched, but the device is now more expensive than Samsung said it would be.",
-      "url": "https://9to5google.com/2023/10/26/samsung-galaxy-s23-fe-price/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-s23-fe-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-10-26T20:04:00Z",
-      "content": "Samsung’s new Galaxy S23 FE has launched this week, but the company is charging a higher price for its new “Fan Edition” device than it previously said.\r\nThe Galaxy S23 FE is a bit of an odd release,… [+2059 chars]"
+      "title": "Pixel 8 Pro speed test shows a big win for iPhone 15 Pro - 9to5Google",
+      "description": "In a speed test, the Pixel 8 Pro loses by a considerable margin to the iPhone 15 Pro in a trend that just shows the gap more and more.",
+      "url": "https://9to5google.com/2023/10/27/pixel-8-pro-iphone-15-speed-test/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/iphone-15-pro-google-pixel-8-pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-27T19:52:00Z",
+      "content": "The Pixel series has never been about performance, but in a new speed test up against the iPhone 15 Pro, the Pixel 8 Pro is heavily beaten by Apple.\r\nThe classic PhoneBuff speed test takes two phones… [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "If you can’t motivate yourself to exercise, try this app - The Verge",
+      "description": "The Future Personal Training app assigns you to a virtual coach who you communicate with through video chat and text. It’s pricey but affordable compared to some in-person trainers.",
+      "url": "https://www.theverge.com/23935105/future-personal-training-fitness-app-price-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uh5YwS7RX-qeocqnCWEuKqFN2TA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25038420/3_iphone_mocks.png",
+      "publishedAt": "2023-10-27T19:17:11Z",
+      "content": "If you cant motivate yourself to exercise, try this app\r\nIf you cant motivate yourself to exercise, try this app\r\n / Ive been using Future Personal Training for over six months, and its made me excit… [+6161 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Onewheel follows up its massive recall with a new $3200 board for “pros” - The Verge",
+      "description": "The Onewheel GT S-Series is its fastest, most powerful, and most expensive board yet — and it comes after Onewheel recalled every single board after four known deaths.",
+      "url": "https://www.theverge.com/2023/10/27/23935234/onewheel-gt-s-series-pro-board-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_9KJGIFobBxf2Id8kwyoYH9KByQ=/0x0:1723x1315/1200x628/filters:focal(973x800:974x801)/cdn.vox-cdn.com/uploads/chorus_asset/file/25038537/onewheel_field.jpg",
+      "publishedAt": "2023-10-27T19:03:49Z",
+      "content": "Onewheel follows up its massive recall with a new $3,200 board for pros\r\nOnewheel follows up its massive recall with a new $3,200 board for pros\r\n / The Onewheel GT S-Series is the priciest yet.\r\nByS… [+2070 chars]"
     },
     {
       "source": {
@@ -34,25 +99,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Apex Legends: Ignite - Official Gameplay Trailer - IGN",
-      "description": "See Conduit, the new support Legend, in action in this gameplay trailer for Apex Legends: Ignite. The new trailer also gives a look at what's coming in Apex ...",
-      "url": "https://www.youtube.com/watch?v=aMcbDOGWyDU",
-      "urlToImage": "https://i.ytimg.com/vi/aMcbDOGWyDU/maxresdefault.jpg",
-      "publishedAt": "2023-10-26T19:30:00Z",
+      "title": "Little Nightmares 3 - Official The Necropolis Co-op Gameplay - IGN",
+      "description": "Here's a look at gameplay from Little Nightmares 3, captured on a pre-alpha build of the upcoming adventure game, with two players using the new co-op mode. ...",
+      "url": "https://www.youtube.com/watch?v=-d_mSmBkBwY",
+      "urlToImage": "https://i.ytimg.com/vi/-d_mSmBkBwY/maxresdefault.jpg",
+      "publishedAt": "2023-10-27T19:00:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Kris Holt",
-      "title": "What we expect at Apple's Scary Fast event: M3-powered MacBook Pros and new iMacs - Engadget",
-      "description": "It's time for yet another Apple Event. This time around, we're expecting to see fresh MacBook Pro and iMac devices powered by new M3 chipsets.",
-      "url": "https://www.engadget.com/what-we-expect-at-apples-scary-fast-event-m3-powered-macbook-pros-and-new-imacs-191549274.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Obda1.T8Aj7wIn.ZrF4Bhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdff20-b752-11eb-bfdd-064c2df470db",
-      "publishedAt": "2023-10-26T19:15:49Z",
-      "content": "Apple has at least one more trick or possibly a treat up its sleeve this year. On October 30, the night before Halloween, the company is hosting another event. This one is dubbed Scary Fast, which is… [+4749 chars]"
+      "author": "Ashley Belanger",
+      "title": "Google loses fight to hide 2021 money pit: $26B in default contracts - Ars Technica",
+      "description": "CEO Sundar Pichai testifies Monday as Google mounts its defense.",
+      "url": "https://arstechnica.com/tech-policy/2023/10/google-paid-26b-for-default-contracts-in-2021-google-exec-testified/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1004833944-760x380.jpg",
+      "publishedAt": "2023-10-27T18:53:34Z",
+      "content": "Enlarge/ Prabhakar Raghavan, a senior vice president at Google (where he is responsible for Google Search, Assistant, Geo, Ads, Commerce, and Payments products), speaks during a 2018 event.\r\n44 with … [+3716 chars]"
     },
     {
       "source": {
@@ -60,129 +125,51 @@
         "name": "MacRumors"
       },
       "author": "Juli Clover",
-      "title": "Apple TV App Features Revamped Navigation in tvOS 17.2 - MacRumors",
-      "description": "Apple in the tvOS 17.2 beta has updated its Apple TV app, making it easier to navigate and find content to watch. There is a dedicated sidebar that...",
-      "url": "https://www.macrumors.com/2023/10/26/apple-tv-app-redesign-tvos-17-2/",
-      "urlToImage": "https://images.macrumors.com/t/VZsNCqojvQsA0MN2k5jCuB9LRLM=/1600x/article-new/2023/10/apple-tv-app-redesign.jpg",
-      "publishedAt": "2023-10-26T18:40:49Z",
-      "content": "Apple in the tvOS 17.2 beta has updated its Apple TV app, making it easier to navigate and find content to watch. There is a dedicated sidebar that houses content from different apps and streaming se… [+1296 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "Microsoft Reorganizes Xbox Leadership, Promoting Sarah Bond and Matt Booty - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/microsoft-reorganizes-xbox-leadership-promoting-sarah-bond-and-matt-booty",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26T18:33:17Z",
-      "content": null
+      "title": "What to Expect From the 'Scary Fast' October 30 Apple Event - MacRumors",
+      "description": "Apple earlier this week surprised us with an unexpected October event, and curiously, it is set to take place on Monday, October 30 at 5:00 p.m....",
+      "url": "https://www.macrumors.com/guide/apple-october-2023-event/",
+      "urlToImage": "https://images.macrumors.com/t/IvoyHsbGUGhCKNTj9rXh3Bzvzm4=/2500x/article-new/2023/10/What-to-Expect-at-Apples-Scary-Fast-Event-Thumb-1-nopro.jpg",
+      "publishedAt": "2023-10-27T18:52:49Z",
+      "content": "Apple earlier this week surprised us with an unexpected October event, and curiously, it is set to take place on Monday, October 30 at 5:00 p.m. Pacific Time. Apple has never hosted a nighttime event… [+4346 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Sportskeeda"
       },
-      "author": "Chris Scullion",
-      "title": "The suit from The Batman was briefly added to Arkham Knight on the Epic Games Store | VGC - Video Games Chronicle",
-      "description": "The new free skin was added with little warning…",
-      "url": "https://www.videogameschronicle.com/news/the-suit-from-the-batman-has-been-added-to-arkham-knight-on-the-epic-games-store/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/10/batman.jpg",
-      "publishedAt": "2023-10-26T18:33:02Z",
-      "content": "A new skin was briefly added to the Epic Games Store version of Batman: Arkham Knight.\r\nThe new skin let players use the suit from The Batman, the 2022 movie starring Robert Pattinson as Batman.\r\nAs … [+1608 chars]"
+      "author": "Alan Sahbegovic",
+      "title": "Genshin Impact 4.2 update: First Fontaine Weekly Boss and three new enemy designs revealed - Sportskeeda",
+      "description": "Genshin Impact 4.2's new bosses were revealed by the now-deleted French PlayStation Blog.",
+      "url": "https://www.sportskeeda.com/esports/genshin-impact-4-2-update-first-fontaine-weekly-boss-three-new-enemy-designs-revealed",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/10/d5498-16984312002304-1920.jpg",
+      "publishedAt": "2023-10-27T18:45:00Z",
+      "content": "Genshin Impact 4.2's new bosses were revealed by the now-deleted French PlayStation Blog. This article will summarize all the important parts for players who didn't get to see the official news befor… [+3146 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "EventHubs"
       },
-      "author": null,
-      "title": "Varun Dhawan joins the flip side with Galaxy Z Fold5 | Samsung - Mint",
-      "description": "[PARTNERED]Samsung sent an invite to @VarunDhawan, to #JoinTheFlipSide, and he welcomed it with open arms. Watch him unfold his new #GalaxyZFold5 and gear up...",
-      "url": "https://www.youtube.com/watch?v=rFRJLheCMwc",
-      "urlToImage": "https://i.ytimg.com/vi/rFRJLheCMwc/maxresdefault.jpg",
-      "publishedAt": "2023-10-26T18:30:40Z",
-      "content": null
+      "author": "Steven 'Dreamking23' Chavez",
+      "title": "Some players want the screen freeze from raw Drive Rush removed in Street Fighter 6, this mod shows how scary that could actually be... - EventHubs",
+      "description": "One of the issues some folks have with Street Fighter 6 right now stems from raw Drive Rush. Some players don't like how hard it is to react to, but even more problematic than that is the slight delay ...",
+      "url": "https://www.eventhubs.com/news/2023/oct/27/sf6-screen-freeze-drive-rush/",
+      "urlToImage": "https://media.eventhubs.com/images/2023/10/25_drbnrt.webp",
+      "publishedAt": "2023-10-27T18:27:42Z",
+      "content": "One of the issues some folks have with Street Fighter 6 right now stems from raw Drive Rush. Some players don't like how hard it is to react to, but even more problematic than that is the slight dela… [+3637 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Wccftech"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Hassan Mujtaba",
-      "title": "NVIDIA & MediaTek Reportedly Working On Arm Based CPUs With TSMC’s CoWoS Packaging - Wccftech",
-      "description": "NVIDIA is reportedly working with MediaTek for its first Arm-based CPUs that will be made using TSMC's CoWoS packaging tech in Q2 2024.",
-      "url": "https://wccftech.com/nvidia-mediatek-working-on-arm-based-cpus-tsmcs-cowos-packaging/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/10/NVIDIA-MediaTek-Arm-CPUs-728x538.png",
-      "publishedAt": "2023-10-26T17:50:00Z",
-      "content": "Following reports of NVIDIA's foray into the PC market with its own Arm-based CPUs, new details have emerged that suggest that the green team will be partnering with MediaTek and utilizing the 2.5D p… [+2260 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Epravda.com.ua"
-      },
-      "author": "Р•РєРѕРЅРѕРјС–С‡РЅР° РїСЂР°РІРґР°",
-      "title": "Motorola представила смартфон гнучким екраном, який можна носити на зап'ясті - Економічна правда",
-      "description": "РљРѕРјРїР°РЅС–СЏ MotorolaВ  Lenovo Tech World 23 РїСЂРµРґСЃС‚Р°РІРёР»Р° РЅРѕРІРёР№ РєРѕРЅС†РµРїС‚СѓР°Р»СЊРЅРёР№ СЃРјР°СЂС‚С„РѕРЅ Moto, РµРєСЂР°РЅ СЏРєРѕРіРѕ Р·РіРёРЅР°С”С‚СЊСЃСЏ, Р° СЃР°Рј С‚РµР»РµС„РѕРЅ РјРѕР¶РЅР° РѕРіРѕСЂРЅСѓС‚Рё РЅР°РІРєРѕР»Рѕ Р·Р°РїʼСЏСЃС…",
-      "url": "https://www.epravda.com.ua/news/2023/10/26/705930/",
-      "urlToImage": "https://eimg.pravda.com/images/doc/7/0/705930_fb_image_ukr_2023_10_26_20_59_29.png",
-      "publishedAt": "2023-10-26T17:48:00Z",
-      "content": "° Motorola  Lenovo Tech World 23 µ°»° µ°» ° Moto, µ° ·°, ° ° µ»µ ¶° °» ·°ʼ. \r\n µ » The Verge.  \r\n°·°°, ° ¶µ °·°»° ± µ» ° Tech World 2016. µ ° µ »° ±» °» ¶ µµ. \r\n Motorola ° °°µ ° »°. °,, µ ° ° ·° ° ±… [+134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Boudhaditya Sanyal",
-      "title": "Amazon Sale 2023: Upgrading your TV? Get up to 58% off on TVs under ₹50,000 | Mint - Mint",
-      "description": "The Amazon Great Indian Festival is offering impressive discounts on TVs under  ₹50,000. Bring home a new entertainment setup and enjoy with your family during the Amazon sale.",
-      "url": "https://www.livemint.com/technology/gadgets/amazon-sale-2023-upgrading-your-tv-get-up-to-58-off-on-tvs-under-rs-50000-11698309499493.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/amazon_sale_1698319715956_1698319716228.jpg",
-      "publishedAt": "2023-10-26T17:38:40Z",
-      "content": "With the advent of streaming services, gaming consoles, and high-definition content, our televisions have evolved into more than just a box in the living room; they've become portals to immersive and… [+17127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "ANI",
-      "title": "Google to introduce new immersive AI-powered upgrades to its Maps app - Business Standard",
-      "description": "Chris Phillips, Vice President and General Manager of Geo at Google, stated that AI has \"supercharged the way we map\"",
-      "url": "https://www.business-standard.com/companies/news/google-to-introduce-new-immersive-ai-powered-upgrades-to-its-maps-app-123102601426_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/14/full/1520970050-9921.jpg",
-      "publishedAt": "2023-10-26T17:35:19Z",
-      "content": "One of the ways Google is using AI to make Maps more like Search is to analyze \"billions\" of user-uploaded photos to help people find random items, like coffee shops | Photo: Reuters"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Anthony Wood",
-      "title": "First In-Engine Look at Metal Gear Solid Δ: Snake Eater Gets Mixed Reaction From Fans - IGN",
-      "description": "The first in-engine trailer for Konami’s Metal Gear Solid Δ: Snake Eater remake has been met with a mixed reaction on social media following its debut during Xbox’s Partner Preview event earlier this week.",
-      "url": "https://www.ign.com/articles/first-in-engine-look-at-metal-gear-solid-snake-eater-gets-mixed-reaction-from-fans",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/10/25/screenshot-2023-10-25-at-12-26-11-pm-1698254780640.png?width=1280",
-      "publishedAt": "2023-10-26T17:20:26Z",
-      "content": "The first in-engine trailer for Konamis Metal Gear Solid : Snake Eater remake has been met with a mixed reaction on social media following its debut during Xboxs Partner Preview event earlier this we… [+5037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Prapti Upadhayay",
-      "title": "Alan Wake 2 steals the spotlight in gaming's Hall of Fame, gets amazing reviews - Hindustan Times",
-      "description": "Alan Wake 2 receives glowing reviews, hailed as a groundbreaking masterpiece.",
-      "url": "https://www.hindustantimes.com/technology/alan-wake-2-steals-the-spotlight-in-gamings-hall-of-fame-gets-amazing-reviews-101698338546834.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/Alan_Wake_2_1698339441418_1698339467422.jfif",
-      "publishedAt": "2023-10-26T17:09:09Z",
-      "content": "2023 has proven to be an exceptional year for gamers and critics alike. Just when enthusiasts thought the industry had peaked with hits like Super Mario Bros. Wonder and Spider-Man 2, a new contender… [+1751 chars]"
+      "author": "Ron Amadeo",
+      "title": "Android 14’s user-profile data bug seems indistinguishable from ransomware - Ars Technica",
+      "description": "Users with multiple profiles are getting locked out of local storage and losing data.",
+      "url": "https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/10/android-lockup-640x215.jpg",
+      "publishedAt": "2023-10-27T18:11:00Z",
+      "content": "49 with \r\nAndroid 14 has a nasty storage bug that seems to be affecting users of the \"multiple profiles\" feature. The bug is about as bad as you can get, with users having \"unusable\" devices due to g… [+3861 chars]"
     },
     {
       "source": {
@@ -190,77 +177,90 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "DAVE THE DIVER - Launch Trailer - Nintendo Switch - Nintendo of America",
-      "description": "DAVE THE DIVER is available now on Nintendo Switch: https://www.nintendo.com/us/store/products/dave-the-diver-switch/ Dive into a deep oceanic adventure! Exp...",
-      "url": "https://www.youtube.com/watch?v=GgXHaZiym9U",
-      "urlToImage": "https://i.ytimg.com/vi/GgXHaZiym9U/maxresdefault.jpg",
-      "publishedAt": "2023-10-26T17:00:08Z",
+      "title": "Mortal Kombat 1 - Paid Halloween DLC Fatality - IGN",
+      "description": "Mortal Kombat 1 just had a small seasonal content drop, including this Halloween DLC fatality. Take a look at it here!The Happy Halloween fatality costs 1200...",
+      "url": "https://www.youtube.com/watch?v=1LJmkXGlgOc",
+      "urlToImage": "https://i.ytimg.com/vi/1LJmkXGlgOc/maxresdefault.jpg",
+      "publishedAt": "2023-10-27T18:00:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "Gameishard.gg"
       },
-      "author": "Graham Smith",
-      "title": "Cities: Skylines 2's first performance-boosting patch is out now - Rock Paper Shotgun",
-      "description": "Cities: Skylines 2 launched with some severe performance issues, but the first update to start addressing those issues is out now.",
-      "url": "https://www.rockpapershotgun.com/cities-skylines-2s-first-performance-boosting-patch-is-out-now",
-      "urlToImage": "https://assetsio.reedpopcdn.com/cities-skylines-hospital.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-10-26T16:50:53Z",
-      "content": "Every road network I ever constructed in Cities: Skylines had deep-rooted performance issues I'd then spend dozens more happy hours trying to unravel. I hope Colossal Order are having a similarly fun… [+1753 chars]"
+      "author": "John Nowacky",
+      "title": "The Evolution of Grand Theft Auto's Weapon Wheel: A Glimpse Into GTA 6 - Game Is Hard",
+      "description": "The Evolution of Grand Theft Auto's Weapon Wheel: A Glimpse Into GTA 6 - Game Is Hard",
+      "url": "https://gameishard.gg/news/buzzworthy-gta-6-leaks-reveal-altered-weapon-wheel-2/497097/",
+      "urlToImage": "https://gameishard.gg/wp-content/uploads/2023/07/mfrack_realistic_photo_of_pc_gamer_2b05cffc-5f45-4f09-b2ba-cbbd0bfb605f.jpeg",
+      "publishedAt": "2023-10-27T17:55:49Z",
+      "content": "As gaming enthusiasts eagerly await the highly anticipated release of Grand Theft Auto 6, previous leaks by a hacker known as ‘teapotuberhacker’ on GTAForums have provided intriguing details about th… [+3893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN Tech Desk",
+      "title": "FINALLY! iOS 17.2 To Bring Exciting Journal App To iPhones - Times Now",
+      "description": "Apple has introduced its much-awaited Journal app in the iOS 17.2 developer beta update. The app helps users appreciate life's moments by capturing thoughts, memories and multimedia. This long-pending digital journal app will allow iPhone users to securely pr…",
+      "url": "https://www.timesnownews.com/technology-science/finally-ios-17-2-to-bring-exciting-journal-app-to-iphones-article-104763746",
+      "urlToImage": "https://static.tnn.in/thumb/msid-104763831,thumbsize-44640,width-1280,height-720,resizemode-75/104763831.jpg",
+      "publishedAt": "2023-10-27T17:45:25Z",
+      "content": "Apple To Bring AI On iPhones, MacBooks, iPads Soon?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "Apple releases first betas for iOS 17.2, watchOS 10.2, macOS 14.2 [U] - 9to5Mac",
+      "description": "Update: The first iOS 17.2 public beta version is out a day later. Apple has released the first iOS 17.2...",
+      "url": "https://9to5mac.com/2023/10/27/apple-releases-first-betas-for-ios-17-2-watchos-10-2-macos-14-2-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/iOS-17.2-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-27T17:42:00Z",
+      "content": "Update: The first iOS 17.2 public beta version is out a day later. \r\nApple has released the first iOS 17.2 beta for developers. The new version includes Apple’s as-of-yet unreleased features includin… [+1231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "No, Cities: Skylines 2's wonky performance isn't because it's rendering everyone's teeth, insists Paradox - Eurogamer.net",
+      "description": "Cities: Skylines 2 has got off to a bit of a rough, with many players complaining of performance issues following this …",
+      "url": "https://www.eurogamer.net/no-cities-skylines-2-wonky-performance-isnt-because-its-rendering-everyones-teeth",
+      "urlToImage": "https://assetsio.reedpopcdn.com/ss_8201697e698f66e89d73147d744c9c7918acd83d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-10-27T17:28:52Z",
+      "content": "Cities: Skylines 2 has got off to a bit of a rough, with many players complaining of performance issues following this week's launch on PC. But while publisher Paradox has been forthright in acknowle… [+1875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Shubham Arora",
+      "title": "iQOO 12 Design Leaked Online: India's First Snapdragon 8 Gen 3 Phone Coming Soon - Times Now",
+      "description": "iQOO 12 is poised to make a significant impact in the Indian smartphone market with the Snapdragon 8 Gen 3 processor. Official-looking images of the iQOO 12 reveal a sleek, premium design with BMW Motorsport influences. The upcoming iQOO 12 series is all set …",
+      "url": "https://www.timesnownews.com/technology-science/iqoo-12-design-leaked-online-in-official-looking-images-article-104763562",
+      "urlToImage": "https://static.tnn.in/thumb/msid-104763555,thumbsize-452033,width-1280,height-720,resizemode-75/104763555.jpg",
+      "publishedAt": "2023-10-27T17:25:28Z",
+      "content": "Grand Central, New York: Pro-Palestine Protestors Call For 'Ceasefire Now' After UN Resolution | Video"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Megan Wollerton",
-      "title": "The best smart plugs in 2023 - The Verge",
-      "description": "The best smart plugs for Apple Home, Google Home, Alexa, and SmartThings, whether you need Matter support, dimming, outdoor smart plugs for holiday lights, or energy monitoring.",
-      "url": "https://www.theverge.com/23899810/best-smart-plugs",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jGfseZeOf_41zffWhHXE6b5rdPQ=/0x0:2040x1360/1200x628/filters:focal(1018x818:1019x819)/cdn.vox-cdn.com/uploads/chorus_asset/file/25034941/236827_Smart_Plugs_CVirginia.jpg",
-      "publishedAt": "2023-10-26T16:41:58Z",
-      "content": "These misleadingly simple gadgets are some of the most useful smart devices you can have in your home. \r\nOct 26, 2023, 4:41 PM UTC|Comments\r\nIf you buy something from a Verge link, Vox Media may earn… [+14575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Bill Toulas",
-      "title": "France says Russian state hackers breached numerous critical networks - BleepingComputer",
-      "description": "The Russian APT28 hacking group (aka 'Strontium' or 'Fancy Bear') has been targeting government entities, businesses, universities, research institutes, and think tanks in France since the second half of 2021.",
-      "url": "https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/26/Russian-bear.jpg",
-      "publishedAt": "2023-10-26T16:40:18Z",
-      "content": "The Russian APT28 hacking group (aka 'Strontium' or 'Fancy Bear') has been targeting government entities, businesses, universities, research institutes, and think tanks in France since the second hal… [+3696 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Aabhas Sharma",
-      "title": "Double tap on Apple Watch: How Apple implemented its 'coolest' feature of 2023 - Times of India",
-      "description": "Apple has introduced a new double tap gesture for its Watch Series 9 and Watch Ultra 2 models. The feature allows users to perform common actions by t",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/double-tap-on-apple-watch-how-apple-implemented-its-coolest-feature-of-2023/articleshow/104717496.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104717496,width-1070,height-580,imgsize-186104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-26T16:36:18Z",
-      "content": "5G flip phones under Rs 70,000 from Samsung, Oppo and more"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "GTA Online - Official Halloween Trailer - IGN",
-      "description": "Grand Theft Auto Online is ushering in the spooky season with a Halloween-themed update to the game. Reports of supernatural entities and paranormal activiti...",
-      "url": "https://www.youtube.com/watch?v=6On7iSpMQeE",
-      "urlToImage": "https://i.ytimg.com/vi/6On7iSpMQeE/maxresdefault.jpg",
-      "publishedAt": "2023-10-26T16:30:02Z",
-      "content": null
+      "author": "Sean Hollister",
+      "title": "Every trick Microsoft pulled to make you browse Edge instead of Chrome - The Verge",
+      "description": "Microsoft Edge is actually good, way better than Internet Explorer — but you wouldn’t think so from how desperately Windows tries to shovel it onto your plate!",
+      "url": "https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jIaZwYI6ApNop5x9l0MsKUv3YDY=/0x0:2265x1273/1200x628/filters:focal(1133x637:1134x638)/cdn.vox-cdn.com/uploads/chorus_asset/file/24318235/Edge_Logo.jpg",
+      "publishedAt": "2023-10-27T17:18:25Z",
+      "content": "Microsoft Edge is actually good, way better than the old Internet Explorer but you wouldnt think so based on how desperately the company tries to shovel it onto your plate! \r\nIts the default browser … [+9572 chars]"
     }
   ]
 }
