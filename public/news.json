@@ -1,84 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 279,
+  "totalResults": 255,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Sportskeeda"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Zeeshan Khan",
-      "title": "PUBG Mobile final circle guide (November 2023) - Sportskeeda",
-      "description": "The last circle in PUBG Mobile is the ultimate survival challenge, demanding quick thinking, precise execution, and a clever strategy.",
-      "url": "https://www.sportskeeda.com/esports/pubg-mobile-final-circle-guide-november-2023",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/597fc-16995439988354-1920.jpg",
-      "publishedAt": "2023-11-09T21:23:00Z",
-      "content": "The last circle in PUBG Mobile is the ultimate survival challenge, demanding quick thinking, precise execution, and a clever strategy. As the play zone gets smaller, the intensity increases, and so d… [+3049 chars]"
+      "author": "Kris Holt",
+      "title": "Qualcomm's satellite texting plan is dead because phone makers aren't interested - Engadget",
+      "description": "Qualcomm's plan to let Android users  send texts via satellite when cell service isn't available is dead for now.",
+      "url": "https://www.engadget.com/qualcomms-satellite-texting-plan-is-dead-because-phone-makers-arent-interested-204331091.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yH_xqXxaqelUK6bVdoLTxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/af272f70-8c95-11ed-bd2f-ace7de5e3924",
+      "publishedAt": "2023-11-10T20:43:31Z",
+      "content": "Back in January, Qualcomm announced Snapdragon Satellite\r\n, a project that aimed to let Android users send texts via satellite when they don't have cell service. It would have been the company's answ… [+1341 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "King Arthur: Knight's Tale - Official Console Release Date Announcement Trailer - IGN",
-      "description": "King Arthur: Knight's Tale is a turn-based tactical RPG game developed by Neocore Games. Players will experience a modern retelling of classic Arthurian myth...",
-      "url": "https://www.youtube.com/watch?v=GE7jG1GV0wY",
-      "urlToImage": "https://i.ytimg.com/vi/GE7jG1GV0wY/maxresdefault.jpg",
-      "publishedAt": "2023-11-09T21:00:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Alex Mitchell",
-      "title": "Apple issues urgent iPhone update — how and why to install it - New York Post ",
-      "description": "Maybe the new titanium iPhone isn’t as solid as it seems.",
-      "url": "https://nypost.com/2023/11/09/lifestyle/apple-issues-urgent-iphone-update-how-and-why-to-install-it/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/apple-ios-iphone-urgent-update-comp.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-11-09T20:36:00Z",
-      "content": "Maybe the new titanium iPhone isn’t as solid as it seems.\r\nApple recently released a critical update for iPhone 15s the tech giant’s latest smartphone following reports of bugs linked to virtual paym… [+1944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Jason Wright",
-      "title": "10 best Minecraft aquatic build ideas (2023) - Sportskeeda",
-      "description": "Embarking on a construction journey in the vast and buoyant realms of Minecraft's oceans can be as thrilling as it is challenging.",
-      "url": "https://www.sportskeeda.com/minecraft/10-best-minecraft-aquatic-build-ideas-2023",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/bf439-16995360736432-1920.jpg",
-      "publishedAt": "2023-11-09T20:18:00Z",
-      "content": "Embarking on a construction journey in the vast and buoyant realms of Minecraft's oceans can be as thrilling as it is challenging. The game's aquatic worlds are brimming with opportunities for archit… [+5683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "How The Hell Did We Let $20 Skins Become A Thing? - Kotaku",
-      "description": "Diablo, Overwatch, Fortnite, and others regularly charge $10 or more for skins and people mostly seem okay with that",
-      "url": "https://kotaku.com/20-10-skins-expensive-microtransactions-halo-diablo-4-1851008769",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0bf845b95522dc0d3ac506edd9d5e11f.jpg",
-      "publishedAt": "2023-11-09T20:15:00Z",
-      "content": "Yesterday, I scrolled by the news that Halo Infinite has a new cosmetic skin that costs $20. I was busy and didnt stop to read the post. But as I went about my day, I couldnt get it out of my head. O… [+6163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Joshua Hawkins, Joshua Hawkins",
-      "title": "Google will delete millions of Gmail accounts next month - here's what you need to know - BGR",
-      "description": "Google will complete a massive Gmail purge next month, deleting millions of user accounts from its servers.",
-      "url": "https://bgr.com/tech/google-will-delete-millions-of-gmail-accounts-next-month-heres-what-you-need-to-know/",
-      "urlToImage": "https://bgr.com/wp-content/uploads/2022/09/rsz_gettyimages-1232551174-1.jpg?quality=82&strip=all",
-      "publishedAt": "2023-11-09T20:14:00Z",
-      "content": "Google is set to complete a massive Gmail purge in December, where the company estimates it will likely wipe millions of user accounts from its service. The company shared plans to delete Gmail accou… [+2071 chars]"
+      "author": "Matt Wales",
+      "title": "Warner Bros. responds to Mortal Kombat 1 $10 Fatality outcry with two 'free' Fatalities - Eurogamer.net",
+      "description": "Warner Bros. has attempted to placate angry Mortal Kombat 1 players with two 'free' Fatalities following an outcry caus…",
+      "url": "https://www.eurogamer.net/warner-bros-responds-to-mortal-kombat-1-10-fatality-outcry-with-two-free-fatalities",
+      "urlToImage": "https://assetsio.reedpopcdn.com/Screenshot-2023-10-28-at-18.46.53.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-11-10T20:41:09Z",
+      "content": "Warner Bros. has attempted to placate angry Mortal Kombat 1 players with two 'free' Fatalities following an outcry caused by the decision to introduce a $10 USD Fatality animation to the game's alrea… [+1952 chars]"
     },
     {
       "source": {
@@ -86,38 +34,25 @@
         "name": "Polygon"
       },
       "author": "Nicole Carpenter",
-      "title": "Wayfinder, Warframe publisher Digital Extremes lays off workers - Polygon",
-      "description": "Canadian publisher Digital Extremes, known for Warframe and publishing Wayfinder, laid off employees on Thursday.",
-      "url": "https://www.polygon.com/23954222/warframe-publisher-digital-extremes-layoffs",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pqUWJgYjQJdmtaKd54mhUVQC5eM=/0x150:3840x2160/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24486631/ss_459b0f5fbd840709013cef92ba47046633fd0881.jpg",
-      "publishedAt": "2023-11-09T20:13:04Z",
-      "content": "Wayfinder publisher Digital Extremes laid off an unknown number of employees on Thursday, according to several impacted people. The layoffs were focused on the companys external projects and publishi… [+1966 chars]"
+      "title": "Why the Overwatch League is over - Polygon",
+      "description": "Activision Blizzard will pay out a total of $120 million in fees to teams that invested in the Overwatch League’s big dreams.",
+      "url": "https://www.polygon.com/2023/11/10/23955679/overwatch-league-shut-down-activision-blizzard-esports",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HynxhIOA_GKghn96LGwNDhV8s-I=/0x426:3000x1997/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25074190/1178516075.jpg",
+      "publishedAt": "2023-11-10T20:30:00Z",
+      "content": "The Overwatch League is no more. Activision Blizzard is moving away from the esports league to take its competitive Overwatch 2 scene elsewhere, the company announced this week.\r\nWe are transitioning… [+3124 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Techtarget.com"
+        "name": "MacRumors"
       },
-      "author": "Julia Borgini",
-      "title": "Compare Google Cloud Storage vs. Google Drive for enterprises - TechTarget",
-      "description": "Explore the differences between Google Cloud Storage and Google Drive, such as storage type and space, to decide what's best for your enterprise, and consider their similarities.",
-      "url": "https://www.techtarget.com/searchstorage/tip/Compare-Google-Cloud-Storage-vs-Google-Drive-for-enterprises",
-      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/storage_g1197646065.jpg",
-      "publishedAt": "2023-11-09T20:05:46Z",
-      "content": "Google offers two main storage platforms to enterprises: Google Cloud Storage and Google Drive Enterprise.\r\nGoogle Cloud Storage has advanced features that make it attractive to high-tech users like … [+4289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Samsung announces 'Galaxy AI' with Live Translate Call feature, and more - Hindustan Times",
-      "description": "Described by Samsung as its 'most comprehensive intelligence offering to date', Galaxy AI will be launched in early 2024.",
-      "url": "https://www.hindustantimes.com/technology/samsung-announces-galaxy-ai-with-live-translate-call-feature-and-more-101699556055218.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/09/1600x900/Sam_1699556044526_1699556049381.jpg",
-      "publishedAt": "2023-11-09T19:41:28Z",
-      "content": "Samsung has announced Galaxy AI, which it says is universal intelligence on your phone as you have never seen it before.\r\nSamsung's Galaxy AI service (Image courtesy: Samsung)\r\nMobile technology has … [+1266 chars]"
+      "author": "Joe Rossignol",
+      "title": "First Impressions: iPhone 15 Pro Spatial Videos on Vision Pro - MacRumors",
+      "description": "Starting with iOS 17.2, which is currently in beta and expected to be released in December, the iPhone 15 Pro and iPhone 15 Pro Max can record...",
+      "url": "https://www.macrumors.com/2023/11/10/spatial-videos-on-vision-pro-first-impressions/",
+      "urlToImage": "https://images.macrumors.com/t/YKtAsJO8NDYr3D05sfn-vc73xx4=/1920x/article-new/2023/09/Vision-Pro-Person.jpg",
+      "publishedAt": "2023-11-10T19:38:28Z",
+      "content": "Starting with iOS 17.2, which is currently in beta and expected to be released in December, the iPhone 15 Pro and iPhone 15 Pro Max can record spatial video with 3D depth for playback on Apple's upco… [+3277 chars]"
     },
     {
       "source": {
@@ -125,142 +60,207 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Dungeons 4 Review - The Final Verdict - GamingBolt",
-      "description": "The latest entry in the Dungeons series continues to pay homage to Dungeon Keeper, from the dungeon management gameplay to the Narrator. Dungeons 4 promises ...",
-      "url": "https://www.youtube.com/watch?v=LwRfEHAaOZQ",
-      "urlToImage": "https://i.ytimg.com/vi/LwRfEHAaOZQ/maxresdefault.jpg",
-      "publishedAt": "2023-11-09T19:30:02Z",
+      "title": "GTA 6: Everything We Know - News, Leaks, and Pre-Trailer Intel - IGN",
+      "description": "Between massive leaks, rumors, and even FBI investigations, the story of how GTA 6 has been going on long before there was any official announcement. Now tha...",
+      "url": "https://www.youtube.com/watch?v=SKvjR05U4sw",
+      "urlToImage": "https://i.ytimg.com/vi/SKvjR05U4sw/maxresdefault.jpg",
+      "publishedAt": "2023-11-10T19:30:11Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Kotaku"
       },
-      "author": "Kif Leswing",
-      "title": "Former Apple designers launch $700 Humane AI Pin as smartphone replacement - CNBC",
-      "description": "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information",
-      "url": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038&w=1920&h=1080",
-      "publishedAt": "2023-11-09T19:23:41Z",
-      "content": "Humane, a five-year-old artificial intelligence startup founded by former Apple designers Imran Chaudhri and Bethany Bongiorno, announced its first product on Thursday a $699 pin you wear on your lap… [+2285 chars]"
+      "author": "Levi Winslow",
+      "title": "Modern Warfare III Maps Removed Due To Deadly Spawn Points - Kotaku",
+      "description": "Four multiplayer maps across the Cutthroat and Hardpoint playlists have been temporarily removed",
+      "url": "https://kotaku.com/cod-modern-warfare-3-maps-rundown-scrapyard-quarry-1851012260",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e3f90d4ff56555cf678c7fd11846370e.jpg",
+      "publishedAt": "2023-11-10T19:30:00Z",
+      "content": "After players found themselves being endlessly slaughtered in death pits littered around certain Call of Duty: Modern Warfare III maps, the developers are yanking the troublesome maps from multiplaye… [+1586 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "SiliconANGLE News"
       },
-      "author": "Jason Wright",
-      "title": "How do trial spawners work in Minecraft? - Sportskeeda",
-      "description": "Minecraft has long been a canvas for creativity and challenge, and the introduction of Trial Spawners with the latest update adds a thrilling new layer to its complex tapestry.",
-      "url": "https://www.sportskeeda.com/minecraft/how-trial-spawners-work-minecraft",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/30537-16995395856998-1920.jpg",
-      "publishedAt": "2023-11-09T19:02:00Z",
-      "content": "Minecraft has long been a canvas for creativity and challenge, and the introduction of Trial Spawners with the latest update adds a thrilling new layer to its complex tapestry. Located in the undergr… [+3232 chars]"
+      "author": null,
+      "title": "Qualcomm scraps Android satellite communications deal with Iridium - SiliconANGLE News",
+      "description": "Qualcomm scraps Android satellite communications deal with Iridium - SiliconANGLE",
+      "url": "https://siliconangle.com/2023/11/10/qualcomm-scraps-android-satellite-communications-deal-iridium/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/qualcomm.jpg",
+      "publishedAt": "2023-11-10T19:08:54Z",
+      "content": "Qualcomm Inc. has ended its collaboration with Iridium Communications Inc. to provide satellite connectivity for Android devices.\r\nThe chipmaker disclosed its intent to scrap the deal last week, Irid… [+4192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steven Petite",
+      "title": "Dozens Of Nintendo Switch-Exclusive Games Are On Sale For Black Friday 2023 - GameSpot",
+      "description": "Early Black Friday deals are slashing prices on Switch exclusives. Here's a look at our favorite price cuts.",
+      "url": "https://www.gamespot.com/articles/dozens-of-nintendo-switch-exclusive-games-are-on-sale-for-black-friday-2023/1100-6519094/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4219229-nintendogames%281%29.jpg",
+      "publishedAt": "2023-11-10T19:03:54Z",
+      "content": "If you're interested in adding to your Nintendo Switch library, Black Friday is always the best time of the year to do just that. Nintendo Switch-exclusive games are often discounted to their lowest … [+2785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Robert Ramsey",
+      "title": "Baldur's Gate 3 Dominates Golden Joystick Awards, Wins Game of the Year - Push Square",
+      "description": "The first of many",
+      "url": "https://www.pushsquare.com/news/2023/11/baldurs-gate-3-dominates-golden-joystick-awards-wins-game-of-the-year",
+      "urlToImage": "https://images.pushsquare.com/a01fed1478058/1280x720.jpg",
+      "publishedAt": "2023-11-10T19:00:00Z",
+      "content": "This year's Golden Joystick Awards are over, and Baldur's Gate 3 has walked away the big winner. The superb RPG snagged the all-encompassing 'Ultimate Game of the Year', beating out the likes of Alan… [+2072 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Taylor Lyles",
-      "title": "Valve Shares Update on Steam Deck Dual-Boot Support SteamOS and Windows - IGN",
-      "description": "Valve promises to make “meaningful progress” to dual-boot support for Windows and SteamOS in the coming year.",
-      "url": "https://www.ign.com/articles/valve-shares-update-on-steam-deck-dual-boot-support-steamos-and-windows",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/08/steamdeckoled-windowsdualboot-blogroll-1699454860024.jpg?width=1280",
-      "publishedAt": "2023-11-09T19:01:41Z",
-      "content": "With Steam Deck OLED now in the spotlight, Valve reassures gamers that dual-boot support and SteamOS improvements are still \"very high on the list,\" and the development team will make some significan… [+1759 chars]"
+      "author": "Eric Song",
+      "title": "Black Friday Deals on PS5 Slim, Xbox Series X, Nintendo Switch OLED, AirPods, and Gaming TVs - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/daily-deals-november-10-2023-black-friday-ps5-slim-xbox-series-x-nintendo-switch-airpods",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/10/ps5slimspiderman-1699640495277.jpg?width=1280",
+      "publishedAt": "2023-11-10T18:51:53Z",
+      "content": "The best daily deals for Friday, November 10 include PS5 Slim, Xbox Series X, and Nintendo Switch OLED consoles, PS5 DualSense controllers, a pair of Apple AirPods earbuds, a 75\" Hisense 4K TV, a Sam… [+11140 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Ben Schoon",
-      "title": "Amazon reportedly ditching Android in Fire TV and more - 9to5Google",
-      "description": "Amazon has been using “forked” versions of Android to power its products for years now, but the company is apparently...",
-      "url": "https://9to5google.com/2023/11/09/amazon-android-fire-tv-report/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/Fire-TV-Stick-4K-Max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-11-09T18:35:00Z",
-      "content": "Amazon has been using “forked” versions of Android to power its products for years now, but the company is apparently planning to swap that out with a new web-forward “Vega” OS starting with new Fire… [+1720 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Adi Robertson",
-      "title": "Epic v. Google: everything we're learning live in Fortnite court - The Verge",
-      "description": "Updates in Epic v. Google, an antitrust trial over whether Android’s Google Play store constitutes an unlawful monopoly.",
-      "url": "https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vfgkHL3a-_qvPNSF67C22a8bkY8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg",
-      "publishedAt": "2023-11-09T18:31:34Z",
-      "content": "The future of Googles app store is at stake in a lawsuit by Fortnite publisher Epic Games. Epic sued Google in 2020 after a fight over in-app purchase fees, claiming the Android operating systems Goo… [+15683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Partnering with NIH to Bring Innovations to Market - National Cancer Institute",
-      "description": "Learn what it's like to partner with the NIH and our Technology Transfer Offices.Review our available technologies and learn more about tech transfer:https:/...",
-      "url": "https://www.youtube.com/watch?v=wxO3oCvRpZs",
-      "urlToImage": "https://i.ytimg.com/vi/wxO3oCvRpZs/hqdefault.jpg",
-      "publishedAt": "2023-11-09T18:09:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Valve Announces New Steam Deck With OLED Screen, More Storage - Bloomberg",
-      "description": "The new handheld device will begin shipping on Nov. 16 and feature significantly improved visuals but no power boost",
-      "url": "https://www.bloomberg.com/news/articles/2023-11-09/new-steam-deck-with-oled-screen-more-storage-coming-from-valve",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwB1k5ArYmB4/v1/1200x675.png",
-      "publishedAt": "2023-11-09T18:01:29Z",
-      "content": "Valve Corp. will be releasing a new version of the popular Steam Deck gaming device with more storage, an OLED screen and better battery life, offering a refresh of a surprisingly lucrative hardware … [+215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Steam Deck OLED Proves Valve’s Success - Next-Gen Console Watch - IGN",
-      "description": "Welcome back to Next-Gen Console Watch, our show following all the news and rumors on the PlayStation 5 and Xbox Series. This week Daemon Hatfield is joined ...",
-      "url": "https://www.youtube.com/watch?v=Fe21ICmftGg",
-      "urlToImage": "https://i.ytimg.com/vi/Fe21ICmftGg/maxresdefault.jpg",
-      "publishedAt": "2023-11-09T18:00:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Heads Up! Phones Down Edition - Launch Trailer - Nintendo Switch - Nintendo of America",
-      "description": "Heads Up! Phones Down Edition is available now on Nintendo Switch!Showcase your wit (or lack thereof) in this hilarious party game, fit for the big screen! P...",
-      "url": "https://www.youtube.com/watch?v=1279zpRRqW0",
-      "urlToImage": "https://i.ytimg.com/vi/1279zpRRqW0/maxresdefault.jpg",
-      "publishedAt": "2023-11-09T18:00:00Z",
-      "content": null
+      "author": "Jen Glennon",
+      "title": "PlayStation Portal Feels Better Than It Looks - Kotaku",
+      "description": "Sony’s wireless PS5 accessory is well-balanced and comfy to hold",
+      "url": "https://kotaku.com/playstation-portal-handheld-ps5-impressions-1851012196",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0c30040251dff7d87f466270bb24020a.jpg",
+      "publishedAt": "2023-11-10T18:50:00Z",
+      "content": "Theres no getting around it. The PlayStation Portal, Sonys new wireless PS5 handheld, is very weird-looking. Essentially a DualSense controller split in half with a touchscreen in the middle, its the… [+2179 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kyle Orland",
-      "title": "Mario Kart 8 update nerfs controversial “sandbagging” strategy - Ars Technica",
-      "description": "Nine years after launch, racers can't intentionally hang back for the best items anymore.",
-      "url": "https://arstechnica.com/gaming/2023/11/mario-kart-8-update-nerfs-controversial-sandbagging-strategy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2014/05/Mario-Kart-8-6-640x215.png",
-      "publishedAt": "2023-11-09T17:46:19Z",
-      "content": "Baby Luigi represents the reaction of sandbagging racers in this artistic rendering.\r\n63 with \r\nSince Mario Kart 8's launch on the Wii U, one of the game's most successful and controversial strategie… [+3678 chars]"
+      "author": "Kevin Purdy",
+      "title": "Amazon Fire Tablets and other gear will reportedly switch away from Android - Ars Technica",
+      "description": "TVs, Echo Show, and other gear could sport Amazon's in-house replacement soon.",
+      "url": "https://arstechnica.com/gadgets/2023/11/amazon-fire-tablets-and-other-gear-will-reportedly-switch-away-from-android/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1233022076-760x380.jpg",
+      "publishedAt": "2023-11-10T18:13:29Z",
+      "content": "67 with \r\nAmazon has been working on an in-house replacement for its Android-based Fire OS, codenamed \"Vega\" and built for easier app development, according to reporting from Janko Roettgers at Lowpa… [+3025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Droid Life"
+      },
+      "author": "Tim",
+      "title": "Galaxy S23 Ultra Gets Stable Android 14 - Droid Life",
+      "description": "Here comes stable One UI 6 (Android 14), Samsung owners. At least one reader of ours has received the stable build on their Galaxy S23 Ultra, labeled as software version S918U1UEU1BWK4 for T-Mobile. Read: What’s New in One UI 6! Running the November security …",
+      "url": "https://www.droid-life.com/2023/11/10/samsung-shipping-stable-one-ui-6-android-14-to-galaxy-s23-ultra/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-16-600x315-cropped.jpg",
+      "publishedAt": "2023-11-10T18:03:21Z",
+      "content": "Here comes stable One UI 6 (Android 14), Samsung owners. At least one reader of ours has received the stable build on their Galaxy S23 Ultra, labeled as software version S918U1UEU1BWK4 for T-Mobile.\r… [+473 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Levi Winslow",
+      "title": "Mortal Kombat 1 Gives Away Free Fatalities After Halloween DLC Backlash - Kotaku",
+      "description": "NetherRealm Studios is trying to get back on players’ good side",
+      "url": "https://kotaku.com/mortal-kombat-1-free-fatality-halloween-dlc-1851011784",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9a39060a15af6883f4f42dd623f92cdd.jpg",
+      "publishedAt": "2023-11-10T17:45:00Z",
+      "content": "After some intense backlash following Mortal Kombat 1's horrifyingly expensive Halloween microtransactions, which include a pumpkin-headed, maggot-filled finisher known as a Fatality, developer Nethe… [+3120 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Oli Welsh",
+      "title": "Call of Duty: Warzone’s latest anti-cheat measure: no parachutes - Polygon",
+      "description": "Team Ricochet, the Call of Duty cheat police, announced a new measure called Splat that turns Warzone cheaters into pancakes, ‘for fun’",
+      "url": "https://www.polygon.com/23955551/call-of-duty-warzone-modern-warfare-3-splat-cheats",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nI3ohtnoT1gKZtKlCYvi9b_vhGU=/81x0:1920x963/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25073900/MWIII_LAUNCH_PROGRESS_REPORT_001.jpg",
+      "publishedAt": "2023-11-10T17:40:58Z",
+      "content": "Battling cheats in Call of Duty must be a thankless task, akin to an infinite game of Whac-A-Mole. But Team Ricochet Activisions in-house anti-cheat team for CoD games seems determined to have some f… [+1618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Blockchain Startup Show – Ep 24 | ET Now | Polygon Labs - ET NOW",
+      "description": "Blockchain Startup Show with @lumoslabs9173 and @BuidlersTribe features Ravikant Agrawal, Director of Growth at @0xPolygonTV. #PolygonLabs is at the forefron...",
+      "url": "https://www.youtube.com/watch?v=8rlK1H7V0vo",
+      "urlToImage": "https://i.ytimg.com/vi/8rlK1H7V0vo/maxresdefault.jpg",
+      "publishedAt": "2023-11-10T17:31:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Amanda Zantal-Wiener",
+      "title": "Beyond Bard: A Conversation With Google's Yury Pinsky on AI & the Future of SEO - Search Engine Journal",
+      "description": "Join us and Yury Pinsky of Google as we chat about Google Bard, and discover how the team behind it envisions a collaborative future with AI.",
+      "url": "https://www.searchenginejournal.com/googles-yury-pinsky-on-ai-the-future-of-seo/501072/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/sejshow-featured-image-3-654e6611b4575-sej.jpg",
+      "publishedAt": "2023-11-10T17:27:24Z",
+      "content": "Bard is our creative collaborator. It’s a place where you can come in and have a conversation with the large language model which really helps you to boost your productivity and bring your ideas to l… [+2839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Chrome Material You redesign widely rolling out - 9to5Google",
+      "description": "Back in September, Google announced a Material You redesign of desktop Chrome that’s now more widely rolling out…",
+      "url": "https://9to5google.com/2023/11/10/google-chrome-material-you-redesign/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-chrome-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-10T17:14:00Z",
+      "content": "Back in September, Google announced a Material You redesign of desktop Chrome thats now more widely rolling out.\r\nThe last visual revamp happened in 2018 with the Google Material Theme. This one, whi… [+1671 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Is the Cybertruck's wiper actually multiple wipers in a row? An investigation - The Verge",
+      "description": "The Cybertruck wiper appears to be at least two wiper blades attached in the middle. This is important news, and I would like Google to amplify it across its surfaces.",
+      "url": "https://www.theverge.com/2023/11/10/23955489/tesla-cybertruck-windshield-wiper-investigation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-VX_Vy6sj-C2uyA2Sil2YSDDbqc=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25073839/IMG_0693.jpg",
+      "publishedAt": "2023-11-10T17:09:00Z",
+      "content": "Is the Cybertrucks wiper actually multiple wipers in a row? An investigation\r\nIs the Cybertrucks wiper actually multiple wipers in a row? An investigation\r\n / This is the hard-hitting reporting you c… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jacob Kastrenakes",
+      "title": "Qualcomm shuts down Snapdragon Satellite before it ever shipped - The Verge",
+      "description": "Qualcomm’s Snapdragon Satellite, in partnership with Iridium, would have brought Apple-like Emergency SOS features to Android phones. But no one wanted them.",
+      "url": "https://www.theverge.com/2023/11/10/23955416/qualcomm-snapdragon-satellite-shut-down-emergency-sos-iridium",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2TxMt4dUPUd2sLdBobnKXSGGdpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13959965/acastro_190201_1777_satellite_0002.jpg",
+      "publishedAt": "2023-11-10T17:05:07Z",
+      "content": "Qualcomms satellite SOS for Android feature didnt make it to launch\r\nQualcomms satellite SOS for Android feature didnt make it to launch\r\n / RIP, Snapdragon Satellite, 20232023.\r\nByJacob Kastrenakes,… [+3053 chars]"
     }
   ]
 }
