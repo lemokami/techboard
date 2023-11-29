@@ -1,19 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 269,
+  "totalResults": 268,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Driver blames Google Maps for dangerous detour - KTLA 5",
+      "description": "Google Maps is being blamed for leading a handful of drivers on their way back to Los Angeles from Las Vegas during a dust storm in the Mojave desert down a ...",
+      "url": "https://www.youtube.com/watch?v=xvIebnujrh4",
+      "urlToImage": "https://i.ytimg.com/vi/xvIebnujrh4/maxresdefault.jpg",
+      "publishedAt": "2023-11-28T00:13:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Xbox sale round-up November 28th, 2023 - TrueAchievements",
+      "description": "Discounts on Hungry Shark World, Outbreak, HammerHelm, Haven, What Lies in the Multiverse, Dead Dungeon, Roarr! Jurassic Edition and more",
+      "url": "https://www.trueachievements.com/n55678/xbox-sale-roundup-november-28th-2023",
+      "urlToImage": "https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg",
+      "publishedAt": "2023-11-28T00:11:05Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "ZDNet"
       },
-      "author": "Jason Hiner",
-      "title": "Top Cyber Monday deal 2023? Meta Quest 2 for $200 saves big and delivers great experiences - ZDNet",
-      "description": "For VR experiences, the Meta Quest 2 can do nearly everything the Quest 3 can do, and this is the lowest price I've seen for a high-quality VR headset. It's my top Cyber Monday deal.",
-      "url": "https://www.zdnet.com/article/quest-2-headset-cyber-monday-deal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e3dfafdb6df16ce62d276cbbaa5c35181cdb8635/2023/11/24/f68559ed-172c-44f2-8f55-9c67c99f95e9/meta-quest-2-headset.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-11-27T00:05:00Z",
-      "content": "Jason Hiner/ZDNET\r\nVirtual reality and augmented reality will be some of the hottest tech topics 2024 because of the launch of Apple Vision Pro. And rightly so -- VR and AR are making big leaps forwa… [+2057 chars]"
+      "author": "Nina Raemont",
+      "title": "Apple's 13-inch MacBook Air M2 is still at its lowest price ever during Cyber Monday - ZDNet",
+      "description": "One of the best Cyber Monday MacBook deals is still available -- but not for long.",
+      "url": "https://www.zdnet.com/article/apple-13-inch-macbook-air-m2-cyber-monday-deal-nov-27-2023/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/46dd750109627eccc0af85b892dd0aecbb1be4ae/2023/07/27/91cca84b-a0bd-49b1-9d88-e10f6f5a6aab/apple-macbook-air-m2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-11-27T23:50:00Z",
+      "content": "Cliff Joseph/ZDNET\r\nThe 13.6-inch MacBook Air is currently selling for $950, $150 less than its original price, at Best Buy thanks to this Cyber Monday deal. But as the day wraps up, you'll want to j… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Google Play keeps banning the same web browser due to vague DMCA notices - Ars Technica",
+      "description": "Downloader app suspended by DMCA notice that didn't list any copyrighted works.",
+      "url": "https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser-760x380.png",
+      "publishedAt": "2023-11-27T23:10:47Z",
+      "content": "Enlarge/ The Downloader app that was suspended from Google Play.\r\n41 with \r\nApp developer Elias Saba has had some bad luck with Digital Millennium Copyright Act (DMCA) takedowns. His Android TV app D… [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Some Google Drive for Desktop users are missing months of files - The Verge",
+      "description": "Google Drive desktop app users are reporting they have lost files due to a possible syncing bug. Google’s Drive Team is investigating and says not to move or delete the DriveFS folder.",
+      "url": "https://www.theverge.com/2023/11/27/23978591/google-drive-desktop-data-loss-bug-files-missing-investigation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tt_p_TeatCsh7d67cuq970jX2wk=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954500/acastro_STK459_04.jpg",
+      "publishedAt": "2023-11-27T23:05:04Z",
+      "content": "Some Google Drive for Desktop users are missing months of files\r\nSome Google Drive for Desktop users are missing months of files\r\n / Google is investigating while warning people not to mess with the … [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Aislinn Murphy",
+      "title": "Google will start deleting inactive accounts this week - Fox Business",
+      "description": "Google is expected to soon start getting rid of some inactive accounts. That will happen for some personal accounts without activity within the past two years as soon as Friday.",
+      "url": "https://www.foxbusiness.com/technology/google-start-deleting-inactive-accounts-this-week",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/logo-google-getty.jpg?ve=1&tl=1",
+      "publishedAt": "2023-11-27T22:53:00Z",
+      "content": "Google is expected to soon start getting rid of some inactive accounts.\r\nThe company, owned by Alphabet, is slated to start its phased purge of personal Google Accounts whose owners haven’t signed in… [+2409 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Amrita Khalid",
+      "title": "YouTube’s Playables games are now available for Premium subscribers - The Verge",
+      "description": "The company is making more than 30 “Playables” mini-games available for Premium subscribers.",
+      "url": "https://www.theverge.com/2023/11/27/23978515/youtube-playables-games-premium-subscribers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1L6awTcXjbADLDMFfR9g1r5lzDc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
+      "publishedAt": "2023-11-27T22:29:35Z",
+      "content": "YouTube is getting into games, too\r\nYouTube is getting into games, too\r\n /  The video platform is making a modest push into the world of gaming with its rollout of more than 30 mini-games. \r\nByAmrita… [+3226 chars]"
     },
     {
       "source": {
@@ -21,246 +99,168 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "NCSoft 'Project LLL' - Official G-STAR 2023 Trailer - IGN",
-      "description": "Project LLL is an open-world MMO third-person shooter developed by NCSoft. Players will interface with an expansive world filled with epic battles within a v...",
-      "url": "https://www.youtube.com/watch?v=ZdVgsNNUyYU",
-      "urlToImage": "https://i.ytimg.com/vi/ZdVgsNNUyYU/maxresdefault.jpg",
-      "publishedAt": "2023-11-26T22:00:23Z",
+      "title": "Understanding iOS 17 update - WTAE-TV Pittsburgh",
+      "description": "Understanding iOS 17 updateSubscribe to WTAE on YouTube now for more: http://bit.ly/1emyOjPGet more Pittsburgh news: http://www.wtae.comLike us:  http://www....",
+      "url": "https://www.youtube.com/watch?v=RUItPwxVYhg",
+      "urlToImage": "https://i.ytimg.com/vi/RUItPwxVYhg/maxresdefault.jpg",
+      "publishedAt": "2023-11-27T22:29:19Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ewan Spence",
-      "title": "Samsung Leak Confirms Powerful Galaxy S24 Ultra Upgrade - Forbes",
-      "description": "Leaked photos of the Galaxy S24 Ultra highlight an important change by Samsung...",
-      "url": "https://www.forbes.com/sites/ewanspence/2023/11/26/samsung-galaxy-s24-ultra-specs-s-pen-stylus-display-sceen-upgrade/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64dfed0098291ef933d8ae23/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26T21:43:00Z",
-      "content": "Updated November 26: article originally posted November 25.\r\nEven though the Galaxy Note series came to an end in 2020, one of its most innovative functions found a new home with the Samsung Galaxy S… [+2845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Daniel Appleford",
-      "title": "Fortnite players are complaining about “too many” bots in lobbies - Dexerto",
-      "description": "Players and content creators have started to complain about the number of bots present in Fortnite unranked lobbies.",
-      "url": "https://www.dexerto.com/fortnite/fortnite-players-are-complaining-about-too-many-bots-in-lobbies-2401388/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/11/07/fn-default-bot.jpg",
-      "publishedAt": "2023-11-26T21:19:53Z",
-      "content": "Fortnite players and content creators have started complaining about the number of bots in unranked lobbies.\r\nFortnite turning back the clock to the original days of the game was a massive success. M… [+2563 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Seth G. Macy",
-      "title": "This Is Cyber Monday's Best PC Gaming Monitor Deal - IGN",
-      "description": "This LG Ultragear deal at Walmart sold out before Black Friday, but returned for Cyber Monday.",
-      "url": "https://www.ign.com/articles/best-cyber-monday-gaming-monitor-deal",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/26/73-1701030018231.jpg?width=1280",
-      "publishedAt": "2023-11-26T20:34:03Z",
-      "content": "The best Cyber Monday deals at Walmart are about to start officially, but some of its greatest Black Friday tech and PC gaming deals are still alive. I'm not soothsayer, but I'd be willing to bet a l… [+1825 chars]"
+      "author": "Eric Song",
+      "title": "Amazon Has the Least Expensive 77\" 4K OLED Smart TV for Cyber Monday - IGN",
+      "description": "A 2023 LG TV that's future proofed for PS5 and Xbox Series X gaming",
+      "url": "https://www.ign.com/articles/best-cyber-monday-tv-deal-2023-lg-b3-4k-oled-smart-tv",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/26/lgb3-1700973522439.jpg?width=1280",
+      "publishedAt": "2023-11-27T22:28:42Z",
+      "content": "Are you looking for a large 77\" OLED TV made for current-gen console gaming, and you're on a budget? Those two conditions might sound mutually exclusive (and they usually are), but this Cyber Monday … [+1888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Thomas Germain",
+      "title": "Review: Teenage Engineering's New Gadgets Are Delightful - Gizmodo",
+      "description": "The Swedish electronics company's CM-15 and TP-7 will bring you back to an era where tech products were quirky and fun... if you can afford them.",
+      "url": "https://gizmodo.com/review-teenage-engineering-tp-7-recorder-cm-15-mic-1851049865",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4de8ff82340c2a071af096df82c7fa95.jpg",
+      "publishedAt": "2023-11-27T21:30:00Z",
+      "content": "This year, Swedish electronics manufacturer Teenage Engineering launched two new devices: a microphone, the CM-15, and a digital tape recorder, the TP-7. If purchased together, theyll run you almost … [+8000 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "New “Stable Video Diffusion” AI model can animate any still image - Ars Technica",
+      "description": "Given GPU and patience, SVD can turn any image into a 2-second video clip.",
+      "url": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-760x380.jpg",
+      "publishedAt": "2023-11-27T20:28:30Z",
+      "content": "Enlarge/ Still examples of images animated using Stable Video Diffusion by Stability AI.\r\n39 with \r\nOn Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hcplive.com"
+      },
+      "author": "Keith C. Ferdinand, MD, FACC, FAHA, FASH, FNLA, Erin D. Michos, MD, MHS, Christie Ballantyne, MD, Mary McGowan, MD, FNLA, Payal Kohli, MD, FACC",
+      "title": "Novel Targets for Lipid Level Lowering and Implementation of Lipid Therapy - MD Magazine",
+      "description": "Medical experts discuss the importance of screening for Lp(a) and ongoing trials targeting this protein. Moreover, other new targets for the treatment of hyperlipidemia are reviewed.",
+      "url": "https://www.hcplive.com/view/novel-targets-for-lipid-level-lowering-and-implementation-of-lipid-therapy",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/hcplive/aebace624802491608e531c383346584863e4fde-1032x584.png?fit=crop&auto=format",
+      "publishedAt": "2023-11-27T20:23:54Z",
+      "content": "Keith C. Ferdinand, MD, FACC, FAHA, FNLA: Christie, where are we going with lipoprotein(a) [Lp(a)]? Have we reached the end of the road, or is there something on the horizon?\r\nChristie M. Ballantyne,… [+3836 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louryn Strampe",
+      "title": "20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers - WIRED",
+      "description": "Strap these wearables on your wrist to start tracking your steps, checking your notifications, and more.",
+      "url": "https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/",
+      "urlToImage": "https://media.wired.com/photos/650a005a3b7e4d610a1152e8/191:100/w_1280,c_limit/Apple-Watch-Ultra-2-Review-Featured-Gear.jpg",
+      "publishedAt": "2023-11-27T19:58:57Z",
+      "content": "Smartwatch and fitness tracker deals are so abundant here on Cyber Monday that we've decided to dedicate an entire story to them. Fitness trackers can be great for keeping tabs on things like step co… [+11092 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "DOS_deck offers free, all-timer DOS games in a browser, with controller support - Ars Technica",
+      "description": "Playing Warcraft in a browser, using a controller, somehow feels… okay?",
+      "url": "https://arstechnica.com/gaming/2023/11/dos_deck-offers-free-all-timer-dos-games-in-a-browser-with-controller-support/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-1.40.04 PM-760x380.png",
+      "publishedAt": "2023-11-27T19:50:13Z",
+      "content": "Enlarge/ DOS_deck is an impressive technical feat, sure. But it's also a very keen curation of some DOS shareware classics (pun somewhat intended).\r\n43 with \r\nRevisiting a classic game from the AUTOE… [+3223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Apple's New M3 Macs: Hands-On With the Updated 24-Inch iMac and MacBook Pros - PCMag",
+      "description": "We've reviewed every new version of Mac that Apple's updated M3 silicon has debuted inside, from the 24-inch iMac to three fresh MacBook Pro models.Read more...",
+      "url": "https://www.youtube.com/watch?v=sb6lEZdyk1Q",
+      "urlToImage": "https://i.ytimg.com/vi/sb6lEZdyk1Q/maxresdefault.jpg",
+      "publishedAt": "2023-11-27T19:42:12Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sheena Vasani",
-      "title": "The second-generation Apple Pencil has dropped to a new all-time low - The Verge",
-      "description": "In honor of Cyber Monday, the second-generation Apple Pencil is cheaper than ever selling for $79.99 ($49 off) at multiple retailers.",
-      "url": "https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4dhwO2PZl8WqlxWqfDSAgO0cZtI=/0x0:1856x1232/1200x628/filters:focal(928x616:929x617)/cdn.vox-cdn.com/uploads/chorus_asset/file/22964077/Screen_Shot_2021_10_28_at_12.02.42_PM.png",
-      "publishedAt": "2023-11-26T20:16:42Z",
-      "content": "The second-generation Apple Pencil has dropped to a new all-time low\r\nThe second-generation Apple Pencil has dropped to a new all-time low\r\n / The second-generation Apple Pencil is now about $50 off … [+1328 chars]"
+      "author": "Emma Roth",
+      "title": "After 151 years, Popular Science will no longer offer a magazine - The Verge",
+      "description": "Popular Science is doing away with its magazine format as the publication looks to “evolve beyond the digital magazine product.”",
+      "url": "https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LyC5GYd17KRrutoe0Zd5hHSUsw0=/0x0:682x926/1200x628/filters:focal(388x162:389x163)/cdn.vox-cdn.com/uploads/chorus_asset/file/25115482/PopularScienceNovember1920.png",
+      "publishedAt": "2023-11-27T19:35:49Z",
+      "content": "After 151 years, Popular Science will no longer offer a magazine\r\nAfter 151 years, Popular Science will no longer offer a magazine\r\n / Popular Science magazine shifted to an all-digital format a coup… [+2736 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Kotaku"
       },
-      "author": "Laura Beck",
-      "title": "I Stopped Buying Apple Products and Here’s What I Learned - Yahoo Finance",
-      "description": "Apple products have long held an almost mythical appeal, with their devoted fans claiming there's nothing quite like using a MacBook, iPhone or any of the...",
-      "url": "https://finance.yahoo.com/news/stopped-buying-apple-products-learned-200052368.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dDP3o9zCELhehOyecX5enA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/def31155a1e932712cc49ff8af3c9de7",
-      "publishedAt": "2023-11-26T20:00:52Z",
-      "content": "Apple products have long held an almost mythical appeal, with their devoted fans claiming theres nothing quite like using a MacBook, iPhone or any of the tech giants beautifully designed devices.\r\nSe… [+5179 chars]"
+      "author": "Zack Zwiezen",
+      "title": "GTA: Vice City's Weird Moon Easter Egg Finally Explained - Kotaku",
+      "description": "Former Rockstar North developer Obbe Vermeij shared a short story about that weird lunar Easter egg",
+      "url": "https://kotaku.com/grand-theft-auto-3-moon-vice-city-san-andreas-gta-1851049650",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d37c0502ab791940d04664643d186ec0.jpg",
+      "publishedAt": "2023-11-27T19:30:00Z",
+      "content": "In 2001s genre-defining PlayStation 2 smash Grand Theft Auto III, if you pulled out a sniper rifle and shot at the moon, it would change size. For years, fans tried to explain why this funny little s… [+2830 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Motogp.com"
+        "name": "Forbes"
       },
-      "author": null,
-      "title": "Testing, testing: 2024? It's just around the apex! - motogp.com",
-      "description": "Marc Marquez on a Ducati. Acosta in MotoGP™. Rins on a Yamaha. Zarco on a Honda. And we’re sure, even more to come…",
-      "url": "https://www.motogp.com/en/news/2023/11/26/testing-testing-2024-its-just-around-the-apex/485125",
-      "urlToImage": "https://resources.motogp.pulselive.com/photo-resources/2023/11/26/98c78c4e-a19b-4e53-b8ae-708e0a79c2f1/20-Fabio-Quartararo_DS_1052.jpg?width=1200&height=630",
-      "publishedAt": "2023-11-26T19:46:45Z",
-      "content": "MotoGP Premier: Enjoy 10% Off!Discover MotoGP like never before and unlock exclusive access you wont find anywhere else including; team garage tours, paddock tours, rider meet-and-greets, pit lane wa… [+44 chars]"
+      "author": "David Phelan",
+      "title": "iOS 17.1.2 Apple Mystery iPhone Update: New Report Claims Imminent Release - Forbes",
+      "description": "The next software update for the iPhone could be here in a matter of hours, a new report claims. But what will be in the surprise update?",
+      "url": "https://www.forbes.com/sites/davidphelan/2023/11/27/ios-1712-apple-mystery-iphone-update-new-report-claims-imminent-release/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655bd681bae5de990201bcb3/0x0.jpg?format=jpg&crop=3154,2103,x0,y130,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-27T19:20:19Z",
+      "content": "Theres now growing evidence that Apple is about to release a new update for the iPhone. It could launch in a matter of hours, and will come before the next software we were expecting, which was iOS 1… [+2834 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Google says bumpy Pixel 8 screens are nothing to worry about - Ars Technica",
+      "description": "Display \"bumps\" are components pushing into the OLED panel.",
+      "url": "https://arstechnica.com/gadgets/2023/11/google-says-bumpy-pixel-8-screens-are-nothing-to-worry-about/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/43-760x380.jpg",
+      "publishedAt": "2023-11-27T19:04:17Z",
+      "content": "68 with \r\nPixel phones alwaysseem to ship with some bizarre hardware malady, and this year it's that not all the parts fit inside the phone quite right. Some users are reporting \"bumpy\" screens on th… [+2795 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "News18"
       },
-      "author": "Troy Fleming",
-      "title": "Get a Samsung Galaxy S23+ for as little as $300 with this amazing Cyber Monday deal - Android Police",
-      "description": "An exclusive Shop Samsung mobile app deal can save you up to $700 on a Galaxy S23+",
-      "url": "https://www.androidpolice.com/shop-samsung-galaxy-s23-plus-cyber-monday-deal/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/samsung-galaxy-s23-plus-home-screen-1.jpg",
-      "publishedAt": "2023-11-26T19:33:00Z",
-      "content": "Samsung Galaxy S23+ \r\nShop Samsung App Exclusive Offer!\r\nExclusively through the mobile Shop Samsung app, shoppers can snag a Galaxy S23+ for as little as $300 this week. On top of a flat 25% discoun… [+2515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Softonic"
-      },
-      "author": "Pedro Domínguez Rojas",
-      "title": "You can now ask Google Bard any questions you want about any YouTube video - Softonic EN",
-      "description": "Do you often use Bard? Google&#8217;s artificial intelligence is one of the great rivals of the popular ChatGPT, as well as Microsoft Copilot, and al",
-      "url": "https://en.softonic.com/articles/now-you-can-ask-all-the-questions-you-want-to-google-bard-about-any-youtube-video",
-      "urlToImage": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2023/11/google-bard-youtube-1.jpg",
-      "publishedAt": "2023-11-26T19:19:52Z",
-      "content": "Do you often use Bard? Googles artificial intelligence is one of the great rivals of the popular ChatGPT, as well as Microsoft Copilot, and allows users to have conversations about practically anythi… [+1523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decider"
-      },
-      "author": "Angela Tricarico",
-      "title": "25 Unbeatable Cyber Monday Deals on Soundbars: Shop Expert Picks on Sale - Decider",
-      "description": "These deals sound amazing to us.",
-      "url": "https://decider.com/article/best-cyber-monday-2023-soundbar-deals-sales/",
-      "urlToImage": "https://decider.com/wp-content/uploads/2023/11/cyber-monday-soundbars.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2023-11-26T19:11:00Z",
-      "content": "One of the product categories youll find great savings on during Cyber Monday is electronics, and even more specifically, soundbars.\r\nSometimes, the speakers built into your ultra-thin TVs dont give … [+5638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Roomba's newest robot vacuums are up to $400 off for Cyber Monday - The Verge",
-      "description": "The flagship Roomba j9 Plus and the new more affordable Combo i5 and j5 models are all on sale at all time low prices for Cyber Monday.",
-      "url": "https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_RQRaV_jJNw1wGKScxKNfyVYHCo=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25113119/8A0A0511.jpeg",
-      "publishedAt": "2023-11-26T18:50:12Z",
-      "content": "Roombas newest robot vacuums are up to $400 off for Cyber Monday\r\nRoombas newest robot vacuums are up to $400 off for Cyber Monday\r\n / The flagship Roomba j9 Plus and the new more affordable Combo i5… [+3368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Patrick Hearn",
-      "title": "Shop the best Cyber Monday laptop deals live now with up to 80% off Apple, HP, Dell and more - Yahoo Life",
-      "description": "Apple, HP, Acer, Lenovo and under-the-radar brands you don't know but should: Now's the time to upgrade your slow-as-molasses excuse for a computer.",
-      "url": "https://www.yahoo.com/lifestyle/shop-the-best-cyber-monday-laptop-deals-live-now-with-up-to-80-off-apple-hp-dell-and-more-184311786.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-11/96250d00-8c10-11ee-ae3f-5c6e6e0b0417",
-      "publishedAt": "2023-11-26T18:43:12Z",
-      "content": "Did you miss out on shopping Black Friday deals? Don't worry Cyber Mondaylaptop deals are here with early tech deals aplenty. Now's your chance to replace that old laptop with a newer, faster model t… [+1792 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Kevin Webb, William Antonelli",
-      "title": "Best Cyber Monday PS5 Deals: up to 67% Off Games, Console Bundles, and Accessories - Business Insider",
-      "description": "One of the best Cyber Monday PS5 deals is Sony's newly redesigned PS5 Slim, bundled with Spider-Man 2 or Call of Duty: Modern Warfare III.",
-      "url": "https://www.businessinsider.com/guides/deals/cyber-monday-ps5-deals-bundles-2023-11",
-      "urlToImage": "https://i.insider.com/655cf3199c7d23cb3b9e2858?width=1200&format=jpeg",
-      "publishedAt": "2023-11-26T18:37:00Z",
-      "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more\r\nThe PlayStation 5 has been around for a few years and yet it still sells for a premium price. But for Cyber Monda… [+3475 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motogp.com"
-      },
-      "author": null,
-      "title": "UNHEARD: \"I s*** myself here!\" - motogp.com",
-      "description": "Join Pecco Bagnaia, Fabio Di Giannantonio and Johann Zarco as they analyse the decisive moments in the title decider",
-      "url": "https://www.motogp.com/en/videos/2023/11/26/unheard-i-s-myself-here/485103",
-      "urlToImage": "https://resources.motogp.pulselive.com/photo-resources/2023/11/26/2dbe7d76-bf1d-40ad-8e3d-dfee17b334bd/_DS_4118.jpg?width=1200&height=630",
-      "publishedAt": "2023-11-26T18:34:34Z",
-      "content": "Join Pecco Bagnaia, Fabio Di Giannantonio and Johann Zarco as they analyse the decisive moments in the title decider\r\n26 Nov 2023"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Je'Kayla Crawford",
-      "title": "Love Island Games Winner Jack Fowler accused of cheating on Justine Ndiba - Dexerto",
-      "description": "Fans are refusing to believe that there is some infidelity between Love Island Games winners Jack and Justine.",
-      "url": "https://www.dexerto.com/reality-tv/love-island-games-winner-jack-fowler-accused-of-cheating-on-justine-ndiba-2401224/",
-      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/11/26/Love-Island-Games-Jack-Fowler.jpg",
-      "publishedAt": "2023-11-26T18:27:09Z",
-      "content": "Fans are refusing to believe that there is some infidelity between Love Island Games winners Jack and Justine.\r\nNot too long ago, the winners for the first season of Love Island Games were revealed t… [+1774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "Best Buy Cyber Monday Sale Takes Up to 50% Off Sitewide With Record Lows on Apple MacBooks and More - MacRumors",
-      "description": "Best Buy's Cyber Monday event has some of the best Apple deals online today, including record low prices on Apple's MacBook Air and MacBook...",
-      "url": "https://www.macrumors.com/2023/11/26/best-buy-cyber-monday-sale/",
-      "urlToImage": "https://images.macrumors.com/t/HcvjWeL5ShAXCuSscfRIMoQ_50Y=/1600x/article-new/2023/11/best-buy-cyber.jpg",
-      "publishedAt": "2023-11-26T18:17:55Z",
-      "content": "Best Buy's Cyber Monday event has some of the best Apple deals online today, including record low prices on Apple's MacBook Air and MacBook Pro computers. Additionally, we're seeing great deals on TV… [+3509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SC Magazine"
-      },
-      "author": "SC Staff",
-      "title": "Windows Hello bypassed with laptop fingerprint sensor bugs - SC Media",
-      "description": "Microsoft, Dell, and Lenovo laptops had faulty implementations of the Secure Device Connection Protocol in their fingerprint sensors, which enabled Windows Hello authentication bypass and potential app access and data exfiltration activities, SiliconAngle rep…",
-      "url": "https://www.scmagazine.com/brief/windows-hello-bypassed-with-laptop-fingerprint-sensor-bugs",
-      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
-      "publishedAt": "2023-11-26T18:17:02Z",
-      "content": "More than 27,000 New York City Bar Association members and employees had their information exposed following a data breach of the organization's systems between Dec. 2 and 24, 2022, which was claimed… [+104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Creative Bloq"
-      },
-      "author": "Beren Neale",
-      "title": "LIVE: Nintendo Switch Cyber Monday deals – fresh price drops on OLED, games and more - Creative Bloq",
-      "description": "This may be the best best year for Switch Deals so far.",
-      "url": "https://www.creativebloq.com/live/news/cyber-monday-switch-deals",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vfobYxaqHSZf2npjUMPieQ-1200-80.jpg",
-      "publishedAt": "2023-11-26T18:13:46Z",
-      "content": "2023-11-26T20:51:37.058Z\r\n(Image credit: Nintendo)\r\nIf you do have some cash left to spend on games, now is a good time to build your library because there's a whole bunch of Cyber Monday Switch game… [+11707 chars]"
+      "author": "S Aadeetya",
+      "title": "Xiaomi Is Bringing New HyperOS To More Phones In December 2023: Check List - News18",
+      "description": "Xiaomi announced the new HyperOS for its phones in October this year and more devices will be upgraded to the new OS before the end of 2023.",
+      "url": "https://www.news18.com/tech/xiaomi-is-bringing-new-hyperos-to-more-phones-in-december-2023-check-list-8678151.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/xiaomi-hyperos-2023-10-8f6b8d7ac2bd8534f9c937fd79309cec-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2023-11-27T18:59:55Z",
+      "content": "Xiaomi has decided to move into the new era by replacing the popular MiUI version with the new HyperOS platform which was announced in October. Many people have been excited and eager to see how Xiao… [+1813 chars]"
     }
   ]
 }
