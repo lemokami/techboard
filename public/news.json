@@ -1,97 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 268,
+  "totalResults": 290,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Driver blames Google Maps for dangerous detour - KTLA 5",
-      "description": "Google Maps is being blamed for leading a handful of drivers on their way back to Los Angeles from Las Vegas during a dust storm in the Mojave desert down a ...",
-      "url": "https://www.youtube.com/watch?v=xvIebnujrh4",
-      "urlToImage": "https://i.ytimg.com/vi/xvIebnujrh4/maxresdefault.jpg",
-      "publishedAt": "2023-11-28T00:13:01Z",
-      "content": null
+      "author": "Levi Winslow",
+      "title": "60 Games Have Already Been Killed, And 2023 Ain't Over Yet - Kotaku",
+      "description": "You can add Gran Turismo Sport, Only Up!, and the PS5 exclusive Side Bullet to the graveyard",
+      "url": "https://kotaku.com/dead-games-2023-delisted-servers-offline-1850083031",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/59175db4d429829303c5069396cf3d1b.jpg",
+      "publishedAt": "2023-11-28T21:45:00Z",
+      "content": "Were still making it through 2023 and a surprising number of games have already been killed off, as devs have announced their impending deaths. Normally, wed reserve this list for the end-of-the-year… [+1602 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Dragon’s Dogma 2 gets release date, new gameplay details from Capcom - Polygon",
+      "description": "Capcom’s sequel to Dragon’s Dogma is coming to PS5, PC, and Xbox Series X on March 22, 2024. During the Dragon’s Dogma 2 showcase, developers showed new gameplay details.",
+      "url": "https://www.polygon.com/23979999/dragons-dogma-2-release-date-capcom-showcase",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AgwAcvgq7yhAMXjg5Pfi2iGJi9A=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25118606/DD2_Talos_png_jpgcopy.jpg",
+      "publishedAt": "2023-11-28T21:43:22Z",
+      "content": "Capcom shows off new monsters and a new vocation"
     },
     {
       "source": {
         "id": null,
-        "name": "TrueAchievements"
+        "name": "SC Magazine"
       },
-      "author": null,
-      "title": "Xbox sale round-up November 28th, 2023 - TrueAchievements",
-      "description": "Discounts on Hungry Shark World, Outbreak, HammerHelm, Haven, What Lies in the Multiverse, Dead Dungeon, Roarr! Jurassic Edition and more",
-      "url": "https://www.trueachievements.com/n55678/xbox-sale-roundup-november-28th-2023",
-      "urlToImage": "https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg",
-      "publishedAt": "2023-11-28T00:11:05Z",
-      "content": null
+      "author": "SC Staff",
+      "title": "Data, validation compromise likely with critical ownCloud bugs - SC Media",
+      "description": "SecurityWeek reports that threat actors could leverage critical vulnerabilities impacting open-source file-sharing software ownCloud to facilitate sensitive data exposure and authentication and validation compromise.",
+      "url": "https://www.scmagazine.com/brief/data-validation-compromise-likely-with-critical-owncloud-bugs",
+      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
+      "publishedAt": "2023-11-28T21:02:11Z",
+      "content": "Copyright © 2023 CyberRisk Alliance, LLC All Rights Reserved.\r\n This material may not be published, broadcast, rewritten or redistributed\r\n in any form without prior authorization.\r\nYour use of this … [+94 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "Sportskeeda"
       },
-      "author": "Nina Raemont",
-      "title": "Apple's 13-inch MacBook Air M2 is still at its lowest price ever during Cyber Monday - ZDNet",
-      "description": "One of the best Cyber Monday MacBook deals is still available -- but not for long.",
-      "url": "https://www.zdnet.com/article/apple-13-inch-macbook-air-m2-cyber-monday-deal-nov-27-2023/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/46dd750109627eccc0af85b892dd0aecbb1be4ae/2023/07/27/91cca84b-a0bd-49b1-9d88-e10f6f5a6aab/apple-macbook-air-m2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-11-27T23:50:00Z",
-      "content": "Cliff Joseph/ZDNET\r\nThe 13.6-inch MacBook Air is currently selling for $950, $150 less than its original price, at Best Buy thanks to this Cyber Monday deal. But as the day wraps up, you'll want to j… [+1997 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jon Brodkin",
-      "title": "Google Play keeps banning the same web browser due to vague DMCA notices - Ars Technica",
-      "description": "Downloader app suspended by DMCA notice that didn't list any copyrighted works.",
-      "url": "https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser-760x380.png",
-      "publishedAt": "2023-11-27T23:10:47Z",
-      "content": "Enlarge/ The Downloader app that was suspended from Google Play.\r\n41 with \r\nApp developer Elias Saba has had some bad luck with Digital Millennium Copyright Act (DMCA) takedowns. His Android TV app D… [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Umar Shakir",
-      "title": "Some Google Drive for Desktop users are missing months of files - The Verge",
-      "description": "Google Drive desktop app users are reporting they have lost files due to a possible syncing bug. Google’s Drive Team is investigating and says not to move or delete the DriveFS folder.",
-      "url": "https://www.theverge.com/2023/11/27/23978591/google-drive-desktop-data-loss-bug-files-missing-investigation",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tt_p_TeatCsh7d67cuq970jX2wk=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954500/acastro_STK459_04.jpg",
-      "publishedAt": "2023-11-27T23:05:04Z",
-      "content": "Some Google Drive for Desktop users are missing months of files\r\nSome Google Drive for Desktop users are missing months of files\r\n / Google is investigating while warning people not to mess with the … [+1766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Aislinn Murphy",
-      "title": "Google will start deleting inactive accounts this week - Fox Business",
-      "description": "Google is expected to soon start getting rid of some inactive accounts. That will happen for some personal accounts without activity within the past two years as soon as Friday.",
-      "url": "https://www.foxbusiness.com/technology/google-start-deleting-inactive-accounts-this-week",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/logo-google-getty.jpg?ve=1&tl=1",
-      "publishedAt": "2023-11-27T22:53:00Z",
-      "content": "Google is expected to soon start getting rid of some inactive accounts.\r\nThe company, owned by Alphabet, is slated to start its phased purge of personal Google Accounts whose owners haven’t signed in… [+2409 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Amrita Khalid",
-      "title": "YouTube’s Playables games are now available for Premium subscribers - The Verge",
-      "description": "The company is making more than 30 “Playables” mini-games available for Premium subscribers.",
-      "url": "https://www.theverge.com/2023/11/27/23978515/youtube-playables-games-premium-subscribers",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1L6awTcXjbADLDMFfR9g1r5lzDc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
-      "publishedAt": "2023-11-27T22:29:35Z",
-      "content": "YouTube is getting into games, too\r\nYouTube is getting into games, too\r\n /  The video platform is making a modest push into the world of gaming with its rollout of more than 30 mini-games. \r\nByAmrita… [+3226 chars]"
+      "author": "Suyash Sahay",
+      "title": "5 things that GTA San Andreas did better than GTA Vice City - Sportskeeda",
+      "description": "GTA San Andreas and Vice City are two of the most beloved Grand Theft Auto titles. Both feature memorable maps, iconic characters, and riveting storylines.",
+      "url": "https://www.sportskeeda.com/gta/5-things-gta-san-andreas-bette-gta-vice-city",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/7e099-17011933986556-1920.jpg",
+      "publishedAt": "2023-11-28T20:34:00Z",
+      "content": "GTA San Andreas and Vice City are two of the most beloved Grand Theft Auto titles. Both feature memorable maps, iconic characters, and riveting storylines. However, it cannot be denied that San Andre… [+3745 chars]"
     },
     {
       "source": {
@@ -99,11 +60,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Understanding iOS 17 update - WTAE-TV Pittsburgh",
-      "description": "Understanding iOS 17 updateSubscribe to WTAE on YouTube now for more: http://bit.ly/1emyOjPGet more Pittsburgh news: http://www.wtae.comLike us:  http://www....",
-      "url": "https://www.youtube.com/watch?v=RUItPwxVYhg",
-      "urlToImage": "https://i.ytimg.com/vi/RUItPwxVYhg/maxresdefault.jpg",
-      "publishedAt": "2023-11-27T22:29:19Z",
+      "title": "Gift these winning items to the tech-lovers in your life - TODAY",
+      "description": "From the Nintendo Switch to a Roku Streambar, tech expert and podcast host Mario Armstrong shares his top picks from NBC Select’s first ever Giftable Tech Aw...",
+      "url": "https://www.youtube.com/watch?v=SUujPt0Y3YU",
+      "urlToImage": "https://i.ytimg.com/vi/SUujPt0Y3YU/maxresdefault.jpg",
+      "publishedAt": "2023-11-28T20:00:17Z",
       "content": null
     },
     {
@@ -111,91 +72,39 @@
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Eric Song",
-      "title": "Amazon Has the Least Expensive 77\" 4K OLED Smart TV for Cyber Monday - IGN",
-      "description": "A 2023 LG TV that's future proofed for PS5 and Xbox Series X gaming",
-      "url": "https://www.ign.com/articles/best-cyber-monday-tv-deal-2023-lg-b3-4k-oled-smart-tv",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/26/lgb3-1700973522439.jpg?width=1280",
-      "publishedAt": "2023-11-27T22:28:42Z",
-      "content": "Are you looking for a large 77\" OLED TV made for current-gen console gaming, and you're on a budget? Those two conditions might sound mutually exclusive (and they usually are), but this Cyber Monday … [+1888 chars]"
+      "author": "Taylor Lyles",
+      "title": "Xbox Confirms Plans to Appear at The Game Awards After Last Year's No-Show - IGN",
+      "description": "After a noticeable absence last year, Microsoft confirms that its Xbox division will have some news to share at The Game Awards next month.",
+      "url": "https://www.ign.com/articles/xbox-confirms-plans-to-appear-at-the-game-awards-after-last-years-no-show",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/03/06/xboxsymbols-blogroll-logos-1646529461207.jpg?width=1280",
+      "publishedAt": "2023-11-28T20:00:14Z",
+      "content": "After a noticeable absence last year, Microsoft confirms that Xbox will have some news to share at this year's Game Awards.\r\nIn an email sent out to some, including IGN (screenshot below), Microsoft … [+1467 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Sportskeeda"
       },
-      "author": "Thomas Germain",
-      "title": "Review: Teenage Engineering's New Gadgets Are Delightful - Gizmodo",
-      "description": "The Swedish electronics company's CM-15 and TP-7 will bring you back to an era where tech products were quirky and fun... if you can afford them.",
-      "url": "https://gizmodo.com/review-teenage-engineering-tp-7-recorder-cm-15-mic-1851049865",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4de8ff82340c2a071af096df82c7fa95.jpg",
-      "publishedAt": "2023-11-27T21:30:00Z",
-      "content": "This year, Swedish electronics manufacturer Teenage Engineering launched two new devices: a microphone, the CM-15, and a digital tape recorder, the TP-7. If purchased together, theyll run you almost … [+8000 chars]"
+      "author": "Vaidehi Shrestha",
+      "title": "7 cool commands to use in Minecraft command block - Sportskeeda",
+      "description": "Minecraft is a game filled with dozens of entities and features that make it exciting and immersive.",
+      "url": "https://www.sportskeeda.com/minecraft/7-cool-commands-use-minecraft-command-block-2",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/214a4-17011889657287-1920.jpg",
+      "publishedAt": "2023-11-28T19:21:00Z",
+      "content": "Minecraft is a game filled with dozens of entities and features that make it exciting and immersive. One such mechanic is the command block, a special utility tool designed to execute otherwise compl… [+4962 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Benj Edwards",
-      "title": "New “Stable Video Diffusion” AI model can animate any still image - Ars Technica",
-      "description": "Given GPU and patience, SVD can turn any image into a 2-second video clip.",
-      "url": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-760x380.jpg",
-      "publishedAt": "2023-11-27T20:28:30Z",
-      "content": "Enlarge/ Still examples of images animated using Stable Video Diffusion by Stability AI.\r\n39 with \r\nOn Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn… [+3297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hcplive.com"
-      },
-      "author": "Keith C. Ferdinand, MD, FACC, FAHA, FASH, FNLA, Erin D. Michos, MD, MHS, Christie Ballantyne, MD, Mary McGowan, MD, FNLA, Payal Kohli, MD, FACC",
-      "title": "Novel Targets for Lipid Level Lowering and Implementation of Lipid Therapy - MD Magazine",
-      "description": "Medical experts discuss the importance of screening for Lp(a) and ongoing trials targeting this protein. Moreover, other new targets for the treatment of hyperlipidemia are reviewed.",
-      "url": "https://www.hcplive.com/view/novel-targets-for-lipid-level-lowering-and-implementation-of-lipid-therapy",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/hcplive/aebace624802491608e531c383346584863e4fde-1032x584.png?fit=crop&auto=format",
-      "publishedAt": "2023-11-27T20:23:54Z",
-      "content": "Keith C. Ferdinand, MD, FACC, FAHA, FNLA: Christie, where are we going with lipoprotein(a) [Lp(a)]? Have we reached the end of the road, or is there something on the horizon?\r\nChristie M. Ballantyne,… [+3836 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Louryn Strampe",
-      "title": "20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers - WIRED",
-      "description": "Strap these wearables on your wrist to start tracking your steps, checking your notifications, and more.",
-      "url": "https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/",
-      "urlToImage": "https://media.wired.com/photos/650a005a3b7e4d610a1152e8/191:100/w_1280,c_limit/Apple-Watch-Ultra-2-Review-Featured-Gear.jpg",
-      "publishedAt": "2023-11-27T19:58:57Z",
-      "content": "Smartwatch and fitness tracker deals are so abundant here on Cyber Monday that we've decided to dedicate an entire story to them. Fitness trackers can be great for keeping tabs on things like step co… [+11092 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "DOS_deck offers free, all-timer DOS games in a browser, with controller support - Ars Technica",
-      "description": "Playing Warcraft in a browser, using a controller, somehow feels… okay?",
-      "url": "https://arstechnica.com/gaming/2023/11/dos_deck-offers-free-all-timer-dos-games-in-a-browser-with-controller-support/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-1.40.04 PM-760x380.png",
-      "publishedAt": "2023-11-27T19:50:13Z",
-      "content": "Enlarge/ DOS_deck is an impressive technical feat, sure. But it's also a very keen curation of some DOS shareware classics (pun somewhat intended).\r\n43 with \r\nRevisiting a classic game from the AUTOE… [+3223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Apple's New M3 Macs: Hands-On With the Updated 24-Inch iMac and MacBook Pros - PCMag",
-      "description": "We've reviewed every new version of Mac that Apple's updated M3 silicon has debuted inside, from the 24-inch iMac to three fresh MacBook Pro models.Read more...",
-      "url": "https://www.youtube.com/watch?v=sb6lEZdyk1Q",
-      "urlToImage": "https://i.ytimg.com/vi/sb6lEZdyk1Q/maxresdefault.jpg",
-      "publishedAt": "2023-11-27T19:42:12Z",
-      "content": null
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Walmart’s new Onn Google TV streaming stick is just $15 - The Verge",
+      "description": "The Onn Google TV Full HD Streaming Device runs Google TV and is a Chromecast device for just $14.88.",
+      "url": "https://www.theverge.com/2023/11/28/23979660/walmart-onn-google-tv-streaming-stick-price-availability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GVDtrsHz09v89aqa7e2q6UPv8Sg=/0x0:2000x2000/1200x628/filters:focal(1000x1000:1001x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25118101/fbdee734_d40a_478a_af3e_b061b4ad7f06.2ca123d577a1465a3000e5a42e3d539c.jpg",
+      "publishedAt": "2023-11-28T19:15:40Z",
+      "content": "Walmarts cheap Google TV box now comes in a stick\r\nWalmarts cheap Google TV box now comes in a stick\r\n / The $15 streaming stick runs Google TV and is available now. But its $20 big brother is a bett… [+2089 chars]"
     },
     {
       "source": {
@@ -203,38 +112,12 @@
         "name": "The Verge"
       },
       "author": "Emma Roth",
-      "title": "After 151 years, Popular Science will no longer offer a magazine - The Verge",
-      "description": "Popular Science is doing away with its magazine format as the publication looks to “evolve beyond the digital magazine product.”",
-      "url": "https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LyC5GYd17KRrutoe0Zd5hHSUsw0=/0x0:682x926/1200x628/filters:focal(388x162:389x163)/cdn.vox-cdn.com/uploads/chorus_asset/file/25115482/PopularScienceNovember1920.png",
-      "publishedAt": "2023-11-27T19:35:49Z",
-      "content": "After 151 years, Popular Science will no longer offer a magazine\r\nAfter 151 years, Popular Science will no longer offer a magazine\r\n / Popular Science magazine shifted to an all-digital format a coup… [+2736 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "GTA: Vice City's Weird Moon Easter Egg Finally Explained - Kotaku",
-      "description": "Former Rockstar North developer Obbe Vermeij shared a short story about that weird lunar Easter egg",
-      "url": "https://kotaku.com/grand-theft-auto-3-moon-vice-city-san-andreas-gta-1851049650",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d37c0502ab791940d04664643d186ec0.jpg",
-      "publishedAt": "2023-11-27T19:30:00Z",
-      "content": "In 2001s genre-defining PlayStation 2 smash Grand Theft Auto III, if you pulled out a sniper rifle and shot at the moon, it would change size. For years, fans tried to explain why this funny little s… [+2830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "iOS 17.1.2 Apple Mystery iPhone Update: New Report Claims Imminent Release - Forbes",
-      "description": "The next software update for the iPhone could be here in a matter of hours, a new report claims. But what will be in the surprise update?",
-      "url": "https://www.forbes.com/sites/davidphelan/2023/11/27/ios-1712-apple-mystery-iphone-update-new-report-claims-imminent-release/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655bd681bae5de990201bcb3/0x0.jpg?format=jpg&crop=3154,2103,x0,y130,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-27T19:20:19Z",
-      "content": "Theres now growing evidence that Apple is about to release a new update for the iPhone. It could launch in a matter of hours, and will come before the next software we were expecting, which was iOS 1… [+2834 chars]"
+      "title": "Google's .meme domain is here to serve your wackiest websites - The Verge",
+      "description": "Google Registry is launching a new top-level domain: .meme. The new domain will be available to register to the public starting December 5th.",
+      "url": "https://www.theverge.com/2023/11/28/23979595/google-registry-meme-domain-launch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+      "publishedAt": "2023-11-28T19:08:32Z",
+      "content": "Googles .meme domain is here to serve your wackiest websites\r\nGoogles .meme domain is here to serve your wackiest websites\r\n / The .meme domains have already been adopted by sites dedicated to old ca… [+1215 chars]"
     },
     {
       "source": {
@@ -242,25 +125,142 @@
         "name": "Ars Technica"
       },
       "author": "Ron Amadeo",
-      "title": "Google says bumpy Pixel 8 screens are nothing to worry about - Ars Technica",
-      "description": "Display \"bumps\" are components pushing into the OLED panel.",
-      "url": "https://arstechnica.com/gadgets/2023/11/google-says-bumpy-pixel-8-screens-are-nothing-to-worry-about/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/43-760x380.jpg",
-      "publishedAt": "2023-11-27T19:04:17Z",
-      "content": "68 with \r\nPixel phones alwaysseem to ship with some bizarre hardware malady, and this year it's that not all the parts fit inside the phone quite right. Some users are reporting \"bumpy\" screens on th… [+2795 chars]"
+      "title": "Google Drive users say Google lost their files; Google is investigating - Ars Technica",
+      "description": "Google tells users to not delete local Drive profile data while it investigates.",
+      "url": "https://arstechnica.com/gadgets/2023/11/google-drive-is-investigating-sync-issues-as-users-complain-of-lost-files/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Google-Drive-760x380.jpg",
+      "publishedAt": "2023-11-28T19:05:30Z",
+      "content": "87 with \r\nDid Google Drive lose some people's data? That's the question swirling around the Internet right now as Google announces it's investigating \"sync issues\" for Google Drive for desktop. On Mo… [+3899 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "News18"
+        "name": "Pinkbike.com"
       },
-      "author": "S Aadeetya",
-      "title": "Xiaomi Is Bringing New HyperOS To More Phones In December 2023: Check List - News18",
-      "description": "Xiaomi announced the new HyperOS for its phones in October this year and more devices will be upgraded to the new OS before the end of 2023.",
-      "url": "https://www.news18.com/tech/xiaomi-is-bringing-new-hyperos-to-more-phones-in-december-2023-check-list-8678151.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/xiaomi-hyperos-2023-10-8f6b8d7ac2bd8534f9c937fd79309cec-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-11-27T18:59:55Z",
-      "content": "Xiaomi has decided to move into the new era by replacing the popular MiUI version with the new HyperOS platform which was announced in October. Many people have been excited and eager to see how Xiao… [+1813 chars]"
+      "author": "Jessie-May Morgan",
+      "title": "A Closer Look at Haven Mercer's Mechanical Automatic Transmission Concept - Pinkbike.com",
+      "description": "A mechanical, continuously variable transmission that looks like something from a sci-fi movie.",
+      "url": "https://www.pinkbike.com/news/a-closer-look-at-haven-mercers-mechanical-automatic-transmission-concept.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb25929206/p4pb25929206.jpg",
+      "publishedAt": "2023-11-28T19:00:00Z",
+      "content": "The bicycle drivetrain has seen a multitude of performance-enhancing changes over the last couple of decades, culminating in very reliable, easy to use options available over an astonishingly vast ra… [+6378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "iOS 17.2 beta 4 lets users change default notification sound; removes collaborative playlists - 9to5Mac",
+      "description": "Apple has been running tests with iOS 17.2 beta since last month. In addition to the new Journal app, this...",
+      "url": "https://9to5mac.com/2023/11/28/ios-17-2-beta-4-change-default-notification-sound/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/iOS-17.2-beta-4.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-28T18:51:00Z",
+      "content": "Apple has been running tests with iOS 17.2 beta since last month. In addition to the new Journal app, this version brings some other new features for iPhone and iPad users. With iOS 17.2 beta 4, whic… [+1849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Embracer CEO confirms TimeSplitters studio faces closure before Christmas | VGC - Video Games Chronicle",
+      "description": "Free Radical Design staff are currently in a consultation…",
+      "url": "https://www.videogameschronicle.com/news/embracer-ceo-confirms-timesplitters-studio-faces-closure-before-christmas/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2019/08/21259.jpg",
+      "publishedAt": "2023-11-28T18:48:34Z",
+      "content": "TimeSplitters studio Free Radical Design faces closure before Christmas, Embracer CEO Lars Wingefors has privately acknowledged.\r\nVGC reported earlier this month that Free Radical was at threat of be… [+2556 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "Ayaneo's Macintosh-inspired mini PC starts at $149 with internals to match - Engadget",
+      "description": "Ayaneo has revealed the specs and pricing for its AM01 mini PC. It's safe to say the company was inspired by the design of Apple's Macintosh.",
+      "url": "https://www.engadget.com/ayaneos-macintosh-inspired-mini-pc-starts-at-149-with-internals-to-match-184717612.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_f.haFcKfc8OuhQhZgWJ_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/a0f6a050-8e1c-11ee-9bff-e7586e0b0cbf",
+      "publishedAt": "2023-11-28T18:47:18Z",
+      "content": "Ayaneo\r\n has been teasing its Macintosh-inspired PC for a few weeks. Now that the AM01 is available for pre-order, the company has revealed the prices and specs. While some had been hoping Ayaneo wou… [+2716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Zeeshan Khan",
+      "title": "PUBG Mobile guide to avoid dying (November 2023) - Sportskeeda",
+      "description": "Embarking on the harsh battlefield of PUBG Mobile necessitates a tactical approach and strategic acumen.",
+      "url": "https://www.sportskeeda.com/esports/pubg-mobile-guide-avoid-dying-november-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/b9fe4-17011897000463-1920.jpg",
+      "publishedAt": "2023-11-28T18:29:00Z",
+      "content": "Embarking on the harsh battlefield of PUBG Mobile necessitates a tactical approach and strategic acumen. Survival is dependent on three abilities: selecting the best landing site, traversing the dyna… [+3146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Swastik Sharma",
+      "title": "5 fastest armored cars in GTA Online (fully upgraded) - Sportskeeda",
+      "description": "GTA Online has a huge roster of vehicles and offers something for everybody.",
+      "url": "https://www.sportskeeda.com/gta/5-fastest-armored-cars-gta-online-fully-upgraded",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/1ab1d-17011897810124-1920.jpg",
+      "publishedAt": "2023-11-28T18:29:00Z",
+      "content": "GTA Online has a huge roster of vehicles and offers something for everybody. Considering the hostile nature of most multiplayer lobbies, it is natural that a lot of players like to drive around in ar… [+3811 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Baldur's Gate 3 bug caused by game's endless mulling of evil deeds - Ars Technica",
+      "description": "\"Unnoticed and eternally active acts of theft and violence\" to be fixed soon.",
+      "url": "https://arstechnica.com/gaming/2023/11/baldurs-gate-3-bug-caused-by-games-endless-mulling-of-evil-deeds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GALE-760x380.jpg",
+      "publishedAt": "2023-11-28T18:07:06Z",
+      "content": "Enlarge/ Conscience do cost, as a certain fictional denizen of Baltimore's East Side once said.\r\n38 with \r\nOne of the best things about playing Baldur's Gate 3 (BG3) is the way that it simulates the … [+2740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Taylor Clemons",
+      "title": "Get the HP Victus 15L gaming PC for just $430 in this ongoing Cyber Monday deal - ZDNet",
+      "description": "Buying a new gaming PC doesn't have to break the bank, and HP has the Victus 15L at a great price in this Cyber Monday deal that's still live -- don't miss out.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/get-the-hp-victus-15l-gaming-pc-for-just-430-in-this-cyber-monday-deal/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a5b21846d71da2cd7a0210e8f41af3818c7d5d28/2023/11/28/12d37ed3-39f2-4df2-b5dd-e9201dcb4cd5/hp-victus-cover-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-11-28T17:54:00Z",
+      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Fossil's Wear OS 3.5 update is rolling out, but with some issues - 9to5Google",
+      "description": "Fossil is in the process of rolling out a new version of Wear OS to Gen 6 smartwatches, but it’s...",
+      "url": "https://9to5google.com/2023/11/28/fossil-wear-os-3-5-update/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/01/skagen_falster_gen6_7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-28T17:45:00Z",
+      "content": "Fossil is in the process of rolling out a new version of Wear OS to Gen 6 smartwatches, but its not the latest version, and instead Wear OS 3.5.\r\nWear OS 4 debuted over the Summer on the Galaxy Watch… [+1501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "BREAKING: Samsung Internet browser finally comes to Windows PCs! - SamMobile - Samsung news",
+      "description": "Samsung Internet is one of the best browser apps available for Android devices, even surpassing Google Chrome in some areas. ...",
+      "url": "https://www.sammobile.com/news/samsung-internet-browser-finally-comes-to-windows-pc/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/08/Samsung-Internet-Z-Flip-3-720x405.jpg",
+      "publishedAt": "2023-11-28T17:26:00Z",
+      "content": "Samsung Internet is one of the best browser apps available for Android devices, even surpassing Google Chrome in some areas. It is very fast and has a number of useful features, but it has had the li… [+2387 chars]"
     }
   ]
 }
