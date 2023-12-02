@@ -1,253 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 266,
+  "totalResults": 264,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Sportskeeda"
       },
-      "author": "Darryn Bonthuys",
-      "title": "The Biggest Game Releases Of December 2023 - GameSpot",
-      "description": "End 2023 with a trip to Pandora, a return to the mean streets of Gotham, and high-tech Pokemon adventures.",
-      "url": "https://www.gamespot.com/gallery/the-biggest-game-releases-of-december-2023/2900-4962/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4227525-decembergames2023.jpg",
-      "publishedAt": "2023-11-29T21:40:35Z",
-      "content": "The products discussed here were independently chosen by our editors.\r\n GameSpot may get a share of the revenue if you buy anything featured on our site."
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "The Google Nest Cam has a new garage door detection feature - The Verge",
-      "description": "Google adds alerts for your garage door to its smart security cameras and brings the first-gen Nest Cam Outdoor into the Google Home app family.",
-      "url": "https://www.theverge.com/2023/11/29/23981277/google-nest-cam-garage-door-detection-nest-app-google-home",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eRCwZS8sAzWHy3al4gAcvhhJbvY=/0x0:1619x1023/1200x628/filters:focal(810x512:811x513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25120689/Screen_Shot_2023_11_29_at_2.31.07_PM.png",
-      "publishedAt": "2023-11-29T21:25:35Z",
-      "content": "Googles Nest cameras can now tell you when your garage door is left open\r\nGoogles Nest cameras can now tell you when your garage door is left open\r\n / And the first-gen Nest Outdoor Cam is finally co… [+4531 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Umar Shakir",
-      "title": "Microsoft Paint adds DALL-E-powered text-to-image generator in Windows 11 - The Verge",
-      "description": "Microsoft is adding the Cocreator button to the Paint app on Windows 11 PCs. All users can now leverage the text-to-image AI-generating technology, powered by OpenAI’s DALL-E 3, within MS Paint.",
-      "url": "https://www.theverge.com/2023/11/29/23981310/microsoft-ms-paint-cocreator-openai-ai-dall-e-3-text-to-image-generator-available",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/C3ZJqEYQRXb2RsQZerd68H5DMAw=/0x0:1830x1222/1200x628/filters:focal(915x611:916x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/25120464/Paint_Cocreator.png",
-      "publishedAt": "2023-11-29T21:02:33Z",
-      "content": "Microsoft Paints OpenAI-powered Cocreator image generator is here\r\nMicrosoft Paints OpenAI-powered Cocreator image generator is here\r\n / Windows 11 PC users now have the DALL-E-powered Cocreator text… [+1563 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Overwatch 2’s season 8 Orisa Mythic skin draws ire from fans - Polygon",
-      "description": "Blizzard’s new battle pass Mythic skin for Orisa is met with a negative response from Overwatch 2 players for being too close to an existing skin.",
-      "url": "https://www.polygon.com/23981293/overwatch-2-mythic-skins-battle-pass-season-8-orisa",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vmPW_HVkHGCzGFTHOe4_psrlEo8=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25120441/orisa_grand_beast_mythic_skin.jpg",
-      "publishedAt": "2023-11-29T20:41:59Z",
-      "content": "Overwatch 2 developer Blizzard Entertainment teased the shooters next Mythic skin Grand Beast, for tank hero Orisa on Tuesday. That new skin, available as the ultimate battle pass reward for Overwatc… [+3152 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Ariel Shapiro",
-      "title": "Apple and Spotify have revealed their top podcasts of 2023. Here is what they do — and don't — tell us. - The Verge",
-      "description": "The Joe Rogan Experience and Crime Junkie dominated, but The Ben Shapiro Show and 2 Bears 1 Cave were surprisingly missing.",
-      "url": "https://www.theverge.com/2023/11/29/23981468/apple-replay-spotify-wrapped-podcasts-rogan-crime-junkie-alex-cooper",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg",
-      "publishedAt": "2023-11-29T20:30:00Z",
-      "content": "Apple and Spotify have revealed their top podcasts of 2023. Here is what they do and dont tell us.\r\nApple and Spotify have revealed their top podcasts of 2023. Here is what they do and dont tell us.\r… [+5394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Law enforcement issue warnings after latest Apple iOS release - New York Post ",
-      "description": "Law enforcement agencies across the U.S. are warning iPhone users about a feature released with the newest software update called NameDrop.",
-      "url": "https://nypost.com/2023/11/29/tech/law-enforcement-issue-warnings-after-latest-apple-ios-release/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/ios-17-update-syndication-comp.jpg?quality=75&strip=all&1701267235&w=1024",
-      "publishedAt": "2023-11-29T20:22:00Z",
-      "content": "Law enforcement agencies across the U.S. are warning iPhone users about a feature released with the newest software update called NameDrop.\r\n“With iOS 17.1 and watchOS 10.1, you can use NameDrop to q… [+2197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamedeveloper.com"
-      },
-      "author": "Justin Carter",
-      "title": "Honkai: Star Rail leads Google Play's Best of 2023 awards - Game Developer",
-      "description": "MiHoYo's space-fantasy RPG <i>Honkai: Star Rail</i> took the top spot at Google's awards for 2023's best games and apps on its store.",
-      "url": "https://www.gamedeveloper.com/business/-i-honkai-star-rail-i-leads-google-play-s-best-of-2023-awards",
-      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt0a6d4658941e6e82/644c19a78f72c043efa6b2ee/honkai_star_rail.jpeg",
-      "publishedAt": "2023-11-29T20:15:10Z",
-      "content": "The end of the year means \"best of\" time, and Google has unveiled its list of the best Google Play games and apps for 2023. For the former category, the top spot goes to Honkai: Star Rail from Genshi… [+1129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Rockstar co-founder Dan Houser's new studio has revealed its first two projects | VGC - Video Games Chronicle",
-      "description": "American Caper will debut as a graphic novel, while A Better Paradise is an audio fiction…",
-      "url": "https://www.videogameschronicle.com/news/rockstar-co-founder-dan-housers-new-studio-has-revealed-its-first-two-projects/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/11/absurd-ventures-projects.jpg",
-      "publishedAt": "2023-11-29T19:58:56Z",
-      "content": "Absurd Ventures, the new transmedia company from Rockstar co-founder Dan Houser, has announced its debut projects.\r\nLaunching in 2024, its first two universes are American Caper, which will begin lif… [+1261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Zedd Snags $18.4M Mansion in Encino's Most Expensive Sale This Year - TMZ",
-      "description": "Zedd has snagged Encino's most expensive sale this year ... putting down a hefty $18.4M on the one-of-a-kind architectural masterpiece.",
-      "url": "https://www.tmz.com/2023/11/29/zedd-buys-purchases-new-encino-home-most-expensive-sale/",
-      "urlToImage": "https://imagez.tmz.com/image/53/16by9/2023/11/29/53207b4148f24764869cb9e64a3080cf_xl.jpg",
-      "publishedAt": "2023-11-29T19:53:00Z",
-      "content": "Zedd has snagged Encino's most expensive sale this year ... putting down a hefty $18.4M on the one-of-a-kind architectural masterpiece.\r\nReal estate sources tell TMZ the DJ dropped a pretty penny on … [+1037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Road to VR"
-      },
-      "author": "Ben Lang",
-      "title": "Quest 2 is Vastly Outselling Quest 3 so Far This Holiday on Amazon - Road to VR",
-      "description": "With such an alluring price point on Quest 2 during the Black Friday period, it makes sense the headset would sell more than Quest 3. But what will it mean for the company’s effort to make mixed reality the main selling proposition of its headsets? Twitter us…",
-      "url": "https://www.roadtovr.com/meta-quest-2-3-sales-holiday-2023-amazon/",
-      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2023/11/quest-2-v-quest-3.png",
-      "publishedAt": "2023-11-29T19:39:20Z",
-      "content": "With such an alluring price point on Quest 2 during the Black Friday period, it makes sense the headset would sell more than Quest 3. But what will it mean for the company’s effort to make mixed real… [+4219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Microsoft has detailed Xbox's November update | VGC - Video Games Chronicle",
-      "description": "It features a new Compact mode in the Xbox app on…",
-      "url": "https://www.videogameschronicle.com/news/microsoft-has-detailed-xboxs-november-update/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/11/xbox-Compact-mode.jpg",
-      "publishedAt": "2023-11-29T18:58:21Z",
-      "content": "Microsoft has detailed Xboxs November update, which includes a number of new features for PC gamers.\r\nHighlighting this months update is a new Compact mode in the Xbox app on PC.\r\nMicrosoft describes… [+1250 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "BBC BASIC remains a remarkable learning tool, and now it's available everywhere - Ars Technica",
-      "description": "42 years later, there's still work to be done in spreading the BBC Micro gospel.",
-      "url": "https://arstechnica.com/gadgets/2023/11/bbc-basic-keeps-evolving-and-now-you-can-run-it-on-nearly-any-platform/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1183372604-760x380.jpg",
-      "publishedAt": "2023-11-29T18:42:54Z",
-      "content": "Enlarge/ A vintage 1981 BBC Micro computer. Fun fact: it was rather tricky to determine which version of BBC Basic a Micro was actually running.\r\n37 with \r\nBBC Basic did a lot of things, and often qu… [+3064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ewan Spence",
-      "title": "Apple Insiders Reveal New iPhone Feature Shock - Forbes",
-      "description": "Apple’s extension of a deal with Qualcomm may not be the only humbling decision it has to take...",
-      "url": "https://www.forbes.com/sites/ewanspence/2023/11/29/apple-iphone-16-pro-max-design-changes-modem-upgrade-scrapped/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6545a83115c6278c1465a3de/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-29T18:37:18Z",
-      "content": "Apple was forced into a humbling extension of a deal with Qualcomm to supply iPhone modems until 2026. Now, reports from key suppliers point to Apple winding down its in-house modem project, which co… [+1970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "NVIDIA preparing GeForce RTX 4090 D(ragon) GPU for China, complying with US export restrictions - VideoCardz.com",
-      "description": "NVIDIA RTX 4090 D allegedly coming to China soon The company is rumored to be making a new version of RTX 4090 that complies with US export restrictions.  Just like we thought would happen if the RTX 4090 was banned from exporting to the US, NVIDIA is making …",
-      "url": "https://videocardz.com/newz/nvidia-preparing-geforce-rtx-4090-dragon-gpu-for-china-complying-with-us-export-restrictions",
-      "urlToImage": "https://cdn.videocardz.com/1/2023/11/NVIDIA-RTX-4090D-CHINA-HERO.jpg",
-      "publishedAt": "2023-11-29T18:25:00Z",
-      "content": "The company is rumored to be making a new version of RTX 4090 that complies with US export restrictions. \r\nJust like we thought would happen if the RTX 4090 was banned from exporting to the US, NVIDI… [+1809 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google Chat update puts a navigation bar on top of a navigation bar. - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/2023/11/29/23981298/google-chat-update-puts-a-navigation-bar-on-top-of-a-navigation-bar",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kZQUQ-aSuPeCnbVVabHLdcCFZMI=/0x0:1600x810/1600x810/filters:focal(800x405:801x406)/cdn.vox-cdn.com/uploads/chorus_asset/file/25120426/google_chat_nav_bar.png",
-      "publishedAt": "2023-11-29T18:10:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hard-drive.net"
-      },
-      "author": "Ben Cherry M",
-      "title": "Former Man's Playthrough of Celeste One of Her Most Important Life Experiences - Hard Drive",
-      "description": "“Sometimes, a game’s gonna hit you in a way you don’t know how to feel about. And sometimes, you gotta sit with those feelings. Don’t push them to the back or ignore them ‘cause they make you feel weird. The weird feelings are usually the truest.”",
-      "url": "https://hard-drive.net/hd/video-games/former-mans-playthrough-of-celeste-one-of-her-most-important-life-experiences/",
-      "urlToImage": "https://hard-drive.net/wp-content/uploads/2023/11/celeste.jpg",
-      "publishedAt": "2023-11-29T18:02:13Z",
-      "content": "21-year-old Genevieve DeSola never expected the little indie darling she bought in 2018 to fundamentally change her personhood.\r\nAt first, she began sheepishly over our Discord call interview, It was… [+2570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CharlieINTEL.com"
-      },
-      "author": "Joseph Pascoulis",
-      "title": "MW3 players rage as “ridiculous” movement issue makes them easy targets - CharlieINTEL.com",
-      "description": "MW3 players are highlighting are major issue with movement in the game which leaves them stuck and often dead.",
-      "url": "https://www.charlieintel.com/call-of-duty/mw3-players-rage-as-ridiculous-movement-issue-makes-them-easy-targets-288994/",
-      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2023/11/29/mw3-player-walking-towards-window.jpg",
-      "publishedAt": "2023-11-29T18:01:48Z",
-      "content": "MW3 players are fed up with a specific scenario caused by movement issue that often leaves them at a disadvantage, leading to their death.\r\nModern Warfare 3 is certainly not immune to issues and play… [+2117 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Barbara Krasnoff",
-      "title": "How to scan your documents to PDFs using Google Drive - The Verge",
-      "description": "Google Drive has recently upgraded its scan-to-PDF feature on its Android phones, adding automatic captures among other upgrades. Here’s how.",
-      "url": "https://www.theverge.com/23980825/google-drive-pdf-scan-android-ios-how-to",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Nm7tMYn2FPUN_jd6LENM6RQbmBw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952245/HT012_google_0001.jpg",
-      "publishedAt": "2023-11-29T17:59:04Z",
-      "content": "How to scan your documents to PDFs using Google Drive\r\nHow to scan your documents to PDFs using Google Drive\r\n / Google Drive now lets you create PDFs automatically when you scan a document.\r\nByBarba… [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Msspalert.com"
-      },
-      "author": "Sponsored by Lookout",
-      "title": "Enhancing Mobile Device Security: Applying the NIS2 Directive - MSSP Alert",
-      "description": "The European Union's Network and Information Systems Directive (NIS2) recommends mobile threat defense (MTD) solutions as vital tools to protect mobile devices.",
-      "url": "https://www.msspalert.com/native/enhancing-mobile-device-security-applying-the-nis2-directive",
-      "urlToImage": "https://files.scmagazine.com/wp-content/uploads/2021/10/GettyImages-1174418677_2000x1083.jpg",
-      "publishedAt": "2023-11-29T17:58:23Z",
-      "content": "Mobile devices have become indispensable in our modern lives, enabling us to stay connected, access information, and conduct transactions on the go. However, the rise of mobile usage for accessing co… [+9058 chars]"
+      "author": "Spencer Whitworth",
+      "title": "Minecraft 1.20.3 Release Candidate 1 patch notes: All you need to know - Sportskeeda",
+      "description": "Minecraft 1.20.3 is set for release soon, according to Mojang, but the developer has issued one final experimental update before it arrives.",
+      "url": "https://www.sportskeeda.com/minecraft/minecraft-1-20-3-release-candidate-1-patch-notes-all-need-know",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/d3160-17013853995097-1920.jpg",
+      "publishedAt": "2023-12-01T00:04:00Z",
+      "content": "Minecraft 1.20.3 is set for release soon, according to Mojang, but the developer has issued one final experimental update before it arrives. This comes in the form of Release Candidate 1, which makes… [+2708 chars]"
     },
     {
       "source": {
@@ -255,12 +21,246 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Ultimate 16\" Gaming Laptop Roundup - Hardware Canucks",
-      "description": "We set out to find the best 16\" gaming laptops from companies like Acer, Alienware, Omen, Legion, Dell and ROG.  We put them through tests for Battery Life, ...",
-      "url": "https://www.youtube.com/watch?v=w_7huiT_xdQ",
-      "urlToImage": "https://i.ytimg.com/vi/w_7huiT_xdQ/maxresdefault.jpg",
-      "publishedAt": "2023-11-29T17:41:12Z",
+      "title": "The Legend of Zelda: Tears of the Kingdom - TGA 2023 Nominations Trailer - Nintendo Switch - Nintendo of America",
+      "description": "The Legend of Zelda: Tears of the Kingdom has been nominated for five awards at The Game Awards 2023, including Game of the Year! Dive into the adventure and...",
+      "url": "https://www.youtube.com/watch?v=koz26t5WDBE",
+      "urlToImage": "https://i.ytimg.com/vi/koz26t5WDBE/maxresdefault.jpg",
+      "publishedAt": "2023-11-30T23:22:20Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Steam drops macOS Mojave support, effectively ending life for many 32-bit games - Ars Technica",
+      "description": "After February 15, all bets are off for Steam on High Sierra and Mojave Macs.",
+      "url": "https://arstechnica.com/gadgets/2023/11/steam-drops-macos-mojave-support-effectively-ending-life-for-many-32-bit-games/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/Mojave-Day-760x380.jpg",
+      "publishedAt": "2023-11-30T23:10:33Z",
+      "content": "Enlarge/ macOS Mojave's wallpaper.\r\n31 with \r\nValve Software's Steam gaming marketplace and app will drop support for macOS 10.13 (High Sierra) and 10.14 (Mojave), according to a support page post. T… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "Sandra Erwin",
+      "title": "Intelsat steps up partnership with SpaceX in multi-orbit antenna - SpaceNews",
+      "description": "Intelsat steps up partnership with SpaceX in multi-orbit antenna",
+      "url": "https://spacenews.com/intelsat-steps-up-partnership-with-spacex-in-multi-orbit-antenna/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2023/11/IMG_1654-scaled.jpeg",
+      "publishedAt": "2023-11-30T23:03:19Z",
+      "content": "TYSONS, Va. Intelsat is producing a new flat panel antenna that enables moving vehicles to use broadband services from the companys geostationary satellites and from SpaceXs Starlink network in low E… [+2329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Google Messages reaches 1 billion RCS users, unleashes 7 new features to celebrate - GSMArena.com news - GSMArena.com",
+      "description": "Who knew so many people were into RCS? RCS is officially big. 1 billion monthly active users big, in fact. Google announced the milestone today, and to...",
+      "url": "https://www.gsmarena.com/google_messages_reaches_1_billion_rcs_users_unleashes_7_new_features_to_celebrate-news-60776.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/11/google-messages-rcs-1-billion-users/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-11-30T21:36:06Z",
+      "content": "RCS is officially big. 1 billion monthly active users big, in fact. Google announced the milestone today, and to celebrate it's giving the Messages app 7 new features. These will apparently \"help you… [+2807 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "GTA Online Update Is Finally Adding Animals From Story Mode - IGN",
+      "description": "A proper Grand Theft Auto 6 reveal is on the horizon, but that isn’t stopping Rockstar Games from adding a groundbreaking feature to Grand Theft Auto Online: animals.",
+      "url": "https://www.ign.com/articles/gta-online-animals-story-mode",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/30/gta-online-animals-1701376998655.png?width=1280",
+      "publishedAt": "2023-11-30T21:14:24Z",
+      "content": "A proper Grand Theft Auto 6 reveal is on the horizon, but that isnt stopping Rockstar Games from adding a groundbreaking feature to Grand Theft Auto Online: animals.\r\nThe GTA and Red Dead Redemption … [+4271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EL PAÍS"
+      },
+      "author": "Natalia Ponjoan",
+      "title": "Trusting ChatGPT helps to improve it - EL PAÍS USA",
+      "description": "A study shows that a person’s prior beliefs about artificial intelligence greatly influences how they rate their conversations with the tool",
+      "url": "https://english.elpais.com/science-tech/2023-11-30/trusting-chatgpt-helps-to-improve-it.html",
+      "urlToImage": "https://images.english.elpais.com/resizer/CrRov443-NesxPBdBiSTteTOK0Q=/1200x0/filters:focal(4016x2215:4026x2225)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XES3FIFULBHYPMHG4T6UKX7CXA.jpg",
+      "publishedAt": "2023-11-30T21:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "World of Warcraft® Classic Season of Discovery is Now Live! - Blizzard News",
+      "description": "Gather your friends and allies and start a fresh adventure in World of Warcraft® Classic! Scour the lands of Azeroth to discover class-altering abilities, new endgame activities, a new Rune Engraving system, and more.",
+      "url": "https://news.blizzard.com/en-us/world-of-warcraft/24029408/world-of-warcraft-classic-season-of-discovery-is-now-live",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/go/GO0N4HXG8BGK1701376203974.png",
+      "publishedAt": "2023-11-30T21:00:00Z",
+      "content": "Season of Discovery is now live for World of Warcraft® Classic! The time has come to gather your friends, create a new character, and scour the lands of Azeroth to discover class-altering abilities, … [+3939 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ian Walker",
+      "title": "Obscure Samurai Shodown RPG finally playable in English - Polygon",
+      "description": "English-speaking Samurai Shodown fans can finally experience Shinsetsu Samurai Spirits after more than two decades.",
+      "url": "https://www.polygon.com/23982922/samurai-shodown-rpg-neogeo-snk-english-translation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kIidpQL3QvJ38iYbzxErZxOnN5A=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25123138/samsho_rpg_intro_nakoruru_crop.png",
+      "publishedAt": "2023-11-30T21:00:00Z",
+      "content": "Over two decades after its debut, a unique, turn-based RPG based on the Samurai Shodown fighting game series (known as Samurai Spirits in Japan) is finally playable in English thanks to a group of de… [+3211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons Hardcastle",
+      "title": "Uh-oh, update Google Chrome – exploit already out there for one of these 6 security holes - The Register",
+      "description": "Plus: 3 critical CVEs in Zyxel NAS devices",
+      "url": "https://www.theregister.com/2023/11/30/chrome_zeroday/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/30/chrome_with_chains.jpg",
+      "publishedAt": "2023-11-30T20:45:00Z",
+      "content": "Google has rolled out six Chrome security fixes including one emergency patch for a bug for which exploit code is already out there. You're encouraged to thus grab the latest updates for the browser.… [+2863 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Will Borger",
+      "title": "Call of Duty Devs Finally Comment on Skill-Based Matchmaking Issues - IGN",
+      "description": "The Call of Duty team has finally acknowledged the issues surrounding Skill-Based Matchmaking, promising to make it part of \"ongoing discussions with the community.\"",
+      "url": "https://www.ign.com/articles/call-of-duty-devs-finally-comment-on-skill-based-matchmaking-issues",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/30/call-of-duty-mw3-br-02-1699495545861-1701376231344.png?width=1280",
+      "publishedAt": "2023-11-30T20:34:22Z",
+      "content": "Skill-Based Matchmaking in Call of Duty has long been the subject of scrutiny and debate within the community, only fueled by the launch of Call of Duty: Modern Warfare III on Nov. 10. Now, though, t… [+3084 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ana Diaz",
+      "title": "Cult of the Lamb developers discuss details of its ‘sex update’ - Polygon",
+      "description": "Massive Monster said it would add sex if Cult of the Lamb’s X account gained enough followers. The team talked to Polygon about its Sins of the Flesh update.",
+      "url": "https://www.polygon.com/23982912/cult-of-the-lamb-sex-update-twitter-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/joXxaAD4QbV0xQg9k8UZe8F6-Xo=/0x37:1920x1042/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25123060/vlcsnap_2023_11_30_13h07m17s053.png",
+      "publishedAt": "2023-11-30T20:30:00Z",
+      "content": "Yes, the rumors are true. The team behind the roguelike management sim Cult of the Lamb is adding sex to the game. \r\nIt started on Tuesday, when the developers issued a challenge to fans: If the game… [+2745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "Pokémon GO Hub",
+      "title": "Pokémon GO Eggs-pedition Access Ticket | Pokémon GO Hub - Pokémon GO Hub",
+      "description": null,
+      "url": "https://pokemongohub.net/post/event/pokemon-go-eggs-pedition-access-ticket/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-30T20:22:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Xbox and PC Game Pass gets strong lineup for December 2023 - Polygon",
+      "description": "Microsoft’s Game Pass subscription service is having a very good December, with Remnant, Remnant 2, SteamWorld Build, and Against the Storm coming.",
+      "url": "https://www.polygon.com/23982420/xbox-game-pass-december-2023-monthly-games-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3rHjMECY54ocVv_WpAlflZMX8UI=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25122569/remnant_2.jpg",
+      "publishedAt": "2023-11-30T20:16:13Z",
+      "content": "Decembers list of Game Pass games is looking incredibly strong, with both Remnant: From the Ashes and this years sequel, Remnant 2, now available to subscribers on Xbox and Windows PC. But if a Souls… [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "S.T.A.L.K.E.R 2: Heart of Chornobyl Official Strider Trailer - GameSpot",
+      "description": "Learn more about S.T.A.L.K.E.R  2:  Heart of Chornobyl in this latest trailer. The game is still slated for Q1 of 2024, and has entered in the final phase of...",
+      "url": "https://www.youtube.com/watch?v=KHYkLI9oXfY",
+      "urlToImage": "https://i.ytimg.com/vi/KHYkLI9oXfY/maxresdefault.jpg",
+      "publishedAt": "2023-11-30T20:11:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Millie Davis-Williams",
+      "title": "Hurry! Nintendo Switch games are on sale from $2 — here's 15 deals I'd buy now - Tom's Guide",
+      "description": "Zelda, Mario, Kirby and more are discounted in Nintendo's Cyber Deals sale",
+      "url": "https://www.tomsguide.com/deals/hurry-nintendo-switch-games-are-on-sale-from-dollar199-15-deals-id-buy-now",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xVHsefQmeyeQP8srFRYR7m-1200-80.jpg",
+      "publishedAt": "2023-11-30T20:08:14Z",
+      "content": "Cyber Monday may be over, but there's still time to grab Cyber Week deals in this Cyber sale at Nintendo. A ton of Nintendo Switch games have been discounted, with prices starting from just $1.99 for… [+1087 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "The latest Baldur's Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor - The Verge",
+      "description": "Larian Studios has released one of the largest patches for Baldur’s Gate 3 yet. Patch 5 adds tons of quality-of-life updates, bug fixes, new game modes, and a new epilogue.",
+      "url": "https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Up4Um-MwWT29p_goOBo9kRgeWF8=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25123034/19625d2af7409cb4f09daa54753c739462f195e5.jpeg",
+      "publishedAt": "2023-11-30T19:51:31Z",
+      "content": "The latest Baldurs Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor\r\nThe latest Baldurs Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor\r\n / Patch … [+5060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Social Media Today"
+      },
+      "author": "Andrew Hutchinson",
+      "title": "WhatsApp Adds Chat Lock Codes for Extra Privacy - Social Media Today",
+      "description": "Another way to further secure your private WhatsApp chats.",
+      "url": "https://www.socialmediatoday.com/news/whatsapp-adds-chat-lock-codes-for-extra-privacy/701193/",
+      "urlToImage": "https://www.socialmediatoday.com/imgproxy/-T5hCw2u77bn8BVNmVmN5IFupsY69jdtZH4HgaYikO8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3doYXRzYXBwX2NoYXRfbG9jay5wbmc.jpg",
+      "publishedAt": "2023-11-30T19:41:42Z",
+      "content": "WhatsApp has added another chat security element, with a new lock code option that users can enact to keep others out of their chats in the app.\r\nAs you can see in this example, you can now apply a u… [+1511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Cattails: Wildwood Story – Launch Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Cattails: Wildwood Story is available now on Nintendo Switch: https://www.nintendo.com/us/store/products/cattails-wildwood-story-switch/ Become a cat! In thi...",
+      "url": "https://www.youtube.com/watch?v=4coKNOqr-TM",
+      "urlToImage": "https://i.ytimg.com/vi/4coKNOqr-TM/maxresdefault.jpg",
+      "publishedAt": "2023-11-30T19:35:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A Gmail outage is delaying emails - The Verge",
+      "description": "Gmail is experiencing some issues right now that mean emails might be delayed when you try to send them. Google doesn’t currently have an ETA for when the problems will be fixed.",
+      "url": "https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TRrec4WTmfUrpjd7kMkvpXP4qoE=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954507/acastro_STK459_09.jpg",
+      "publishedAt": "2023-11-30T19:32:22Z",
+      "content": "A Gmail outage is delaying emails\r\nA Gmail outage is delaying emails\r\n / Google engineers are working on the issue, but your emails might not be going through immediately.\r\nByJay Peters, a news edito… [+271 chars]"
     }
   ]
 }
