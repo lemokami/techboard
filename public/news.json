@@ -1,58 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 217,
+  "totalResults": 226,
   "articles": [
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": "Reuters",
-      "title": "Alphabet soars as Wall Street cheers arrival of AI model Gemini - Reuters",
-      "description": null,
-      "url": "https://www.reuters.com/technology/alphabet-soars-wall-street-cheers-arrival-ai-model-gemini-2023-12-07/",
-      "urlToImage": null,
-      "publishedAt": "2023-12-07T21:44:00Z",
-      "content": null
+      "author": "Will Shanklin",
+      "title": "Beeper Mini's iMessage integration is on the fritz - Engadget",
+      "description": "Beeper Mini, the chat app that reverse-engineered Apple’s iMessage for Android, is having problems. The entire Beeper platform is seemingly broken, leading...",
+      "url": "https://www.engadget.com/beeper-minis-imessage-integration-is-on-the-fritz-211712651.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-12/cbe99c10-960d-11ee-9c6d-d049069a1e1d",
+      "publishedAt": "2023-12-08T21:48:53Z",
+      "content": "Beeper Mini, the chat app that reverse-engineered Apples iMessage for Android, is having problems. 9to5Googlereported Friday the entire Beeper platform is seemingly broken right now, leading to the o… [+2035 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Sportskeeda"
       },
-      "author": "IGN",
-      "title": "The Day Before's Early Access Launch Is Not Going Well So Far - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/the-day-befores-early-access-launch-is-not-going-well-so-far",
-      "urlToImage": null,
-      "publishedAt": "2023-12-07T21:34:55Z",
+      "author": "Zeeshan Khan",
+      "title": "PUBG Mobile guide to avoid dying (December 2023) - Sportskeeda",
+      "description": "Taking on the harsh battlefield of PUBG Mobile requires a tactical approach as well as strategic depth.",
+      "url": "https://www.sportskeeda.com/esports/pubg-mobile-guide-avoid-dying-december-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/76ae8-17020530294137-1920.jpg",
+      "publishedAt": "2023-12-08T20:32:00Z",
+      "content": "Taking on the harsh battlefield of PUBG Mobile requires a tactical approach as well as strategic depth. Survival in the game is predicated on three skills: choosing the optimal landing spot, navigati… [+2838 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple's iPhone and Watch Product Design Chief to Leave in Shake-Up - Bloomberg",
+      "description": "The Apple Inc. executive in charge of product design for the iPhone and smartwatch is stepping down, bringing a shake-up to the company’s most critical product lines.",
+      "url": "https://www.bloomberg.com/news/articles/2023-12-08/apple-s-iphone-and-watch-product-design-chief-to-leave-in-shake-up",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idX1LfpsQ1Oo/v1/1200x800.jpg",
+      "publishedAt": "2023-12-08T19:53:36Z",
+      "content": "The Apple Inc. executive in charge of product design for the iPhone and smartwatch is stepping down, bringing a shake-up to the companys most critical product lines.\r\nTang Tan, whose title is vice pr… [+300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Den of Wolves - Official Reveal Trailer | Game Awards 2023 - IGN",
+      "description": "You're caught in the den of wolves! Fight your way through some hi-tech heists in this new corporate espionage shooter from 10 Chambers, creators of PayDay: ...",
+      "url": "https://www.youtube.com/watch?v=4j05-qs9PWk",
+      "urlToImage": "https://i.ytimg.com/vi/4j05-qs9PWk/maxresdefault.jpg",
+      "publishedAt": "2023-12-08T19:37:39Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "YouTube"
       },
-      "author": "Marcus Stewart",
-      "title": "Watch The Game Awards 2023 Right Here - Game Informer",
-      "description": "Here's where you can watch this year's edition of the annual show.",
-      "url": "https://www.gameinformer.com/the-game-awards-2023/2023/12/07/watch-the-game-awards-2023-right-here",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/12/07/29ba63a7/tga2023_art.jpg",
-      "publishedAt": "2023-12-07T19:43:00Z",
-      "content": "The 2023 edition of The Game Awards, hosted by Geoff Keighly, airs tonight starting at 4:30 p.m. P.T./7:30 p.m. E.T. The event is expected to run between 2.5-3 hours, including a 30-minute pre-show. … [+174 chars]"
+      "author": null,
+      "title": "Minecraft – Jurassic World DLC – Nintendo Switch - Nintendo of America",
+      "description": "The Minecraft Jurassic World DLC is available now on Nintendo Switch! Jurassic World is roaring its way back into the Minecraft Marketplace! Step into a mode...",
+      "url": "https://www.youtube.com/watch?v=yZz6WkMjS1U",
+      "urlToImage": "https://i.ytimg.com/vi/yZz6WkMjS1U/maxresdefault.jpg",
+      "publishedAt": "2023-12-08T19:00:33Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Ben Schoon",
-      "title": "Threads adds 'Tags,' a simplified version of hashtags - 9to5Google",
-      "description": "Meta is rolling out support for Tags on its Twitter competitor Threads, which offers a simplified version of hashtags.",
-      "url": "https://9to5google.com/2023/12/07/threads-adds-tags-a-simplified-version-of-hashtags/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/instagram-threads-03.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-12-07T19:05:00Z",
-      "content": "Rolling out now, Meta’s Twitter competitor, Threads, is adding support for “Tags,” a simplified version of hashtags. Here’s what you should know.\r\nAnnounced in a post on Threads today, Meta is adding… [+1054 chars]"
+      "author": "Kyle Orland",
+      "title": "Round 2: We test the new Gemini-powered Bard against ChatGPT - Ars Technica",
+      "description": "We run the models through seven categories to determine an updated champion.",
+      "url": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
+      "publishedAt": "2023-12-08T19:00:14Z",
+      "content": "27\r\nBack in April, we ran a series of useful and/or somewhat goofy prompts through Google's (then-new) PaLM-powered Bard chatbot and OpenAI's (slightly older) ChatGPT-4 to see which AI chatbot reigne… [+4541 chars]"
     },
     {
       "source": {
@@ -60,155 +86,12 @@
         "name": "The Verge"
       },
       "author": "Jay Peters",
-      "title": "Threads has hashtags now - The Verge",
-      "description": "Tags are now rolling out globally on Threads, Instagram head Adam Mosseri announced. They work a lot like hashtags but have a few differences.",
-      "url": "https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
-      "publishedAt": "2023-12-07T18:51:36Z",
-      "content": "Threads has hashtags now\r\nThreads has hashtags now\r\n / Threads tags are rolling out globally, though they work differently than the hashtags you might be used to on other platforms.\r\nByJay Peters, a … [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Avatar: Frontiers of Pandora Story EXPLAINED! - Dev Team Talks Building A New Pandora! - Comicbook.com",
-      "description": "Comicbook.com got the chance to get our hand son Avatar: Frontiers of Pandora early when we went to visit the dev team behind the huge new video game, and wh...",
-      "url": "https://www.youtube.com/watch?v=zlDR3Wm5IMo",
-      "urlToImage": "https://i.ytimg.com/vi/zlDR3Wm5IMo/maxresdefault.jpg",
-      "publishedAt": "2023-12-07T18:30:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Android 14: December 2023 Feature Drop! (Everything New!) + Gemini - 9to5Google",
-      "description": "In this video we are going to cover everything new in the December 2023 Feature Drop!Subscribe ► https://bit.ly/9to5G | Read full article ► https://9to5googl...",
-      "url": "https://www.youtube.com/watch?v=-4LDsKwH3oQ",
-      "urlToImage": "https://i.ytimg.com/vi/-4LDsKwH3oQ/maxresdefault.jpg",
-      "publishedAt": "2023-12-07T18:28:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Alice Newcome-Beill",
-      "title": "Win a Steam Deck OLED by watching The Game Awards - Polygon",
-      "description": "Enter for chances to win a Steam Deck OLED and Lenovo Legion Go starting at 7:30 p.m. ET, and watch The Game Awards to see if you’re one of the lucky winners.",
-      "url": "https://www.polygon.com/game-awards-tga/23992204/game-awards-steam-deck-go-giveaway-lenovo-legion-go-sweepstakes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Wwi_K5y29wkz8yf3WGq4xNZcsZY=/0x2:1080x567/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25140443/4pt2a9du.png",
-      "publishedAt": "2023-12-07T17:45:49Z",
-      "content": "If youre watching The Game Awards tonight, youll want to sign up for a pair of sweepstakes for your chance to win a free Steam Deck OLED and/or a free Lenovo Legion Go. The Game Awards did a similar … [+1164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zoom"
-      },
-      "author": "TN Tech Desk",
-      "title": "iPhone SE 4 May Pack iPhone 14 Battery; Major Upgrade From iPhone SE 3! - Times Now",
-      "description": "According to a report, the next iPhone SE 4 in 2024 could feature a much larger battery capacity, matching that of the iPhone 14. This would be a major upgrade over the iPhone SE 3 battery life. Know what else is expected from the next iPhone model -the iPhon…",
-      "url": "https://www.timesnownews.com/technology-science/iphone-se-4-may-pack-iphone-14-battery-major-upgrade-from-iphone-se-3-article-105819852",
-      "urlToImage": "https://static.tnn.in/thumb/msid-105820057,thumbsize-38618,width-1280,height-720,resizemode-75/105820057.jpg",
-      "publishedAt": "2023-12-07T17:21:09Z",
-      "content": "iPhone 16, iPhone 17, iPhone 18 May ALSO Ditch Under-Display Camera"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "Real-Life 'Florida Joker' To GTA 6 Makers: 'We Gotta Talk' - Kotaku",
-      "description": "Lawrence Sullivan would like to have a word with Rockstar Games about that one character in the reveal trailer",
-      "url": "https://kotaku.com/gta-6-florida-miami-joker-tiktok-grand-theft-auto-1851080705",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2694d025f426e206aedca5569337be12.jpg",
-      "publishedAt": "2023-12-07T17:15:00Z",
-      "content": "Its no secret thatGrand Theft Auto VI takes a lot inspiration from IRL events and people, but one person colloquially called the Florida Joker has seemingly taken umbrage with Rockstar Games for poss… [+2422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Ringer"
-      },
-      "author": "Ben Lindbergh, Matt James",
-      "title": "The Best Video Games of 2023 - The Ringer",
-      "description": "From ‘Baldur’s Gate 3’ to ‘Tears of the Kingdom’ to ‘Spider-Man 2’ and beyond, these were the year’s finest video games",
-      "url": "https://www.theringer.com/video-games/2023/12/7/23992057/best-video-games-2023-top-10-pc-playstation-switch-xbox",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_U5x45U2t8xHifS5vuyyf2o1QYc=/0x75:1200x703/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25140146/video_games_of_the_year_ringer.jpg",
-      "publishedAt": "2023-12-07T17:14:41Z",
-      "content": "This was a best-of-times, worst-of-times type of year for video games. The aftereffects of post-pandemic contraction and a wave of acquisition and consolidation cost thousands of designers their jobs… [+25786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Tom McParland",
-      "title": "My Mustang Isn't Cutting It For Commuting With A Kid! What Car Should I Buy? - Jalopnik",
-      "description": "This week's reader needs four doors, a bit of fun, and decent MPG",
-      "url": "https://jalopnik.com/my-mustang-isnt-a-family-car-what-car-should-i-buy-1851079966",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e2eb27131b3857d8bd3d0231cb81072b.jpg",
-      "publishedAt": "2023-12-07T17:13:00Z",
-      "content": "Robert lives in Florida and is finding that his 2014 Mustang not the ideal vehicle for talking the kiddo to school. Since the Ford is getting up there in age, its time for an upgrade with four doors.… [+6015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "author": "Huibert Mees",
-      "title": "Here's The Physics Behind Tongue Weight And Why Some Trailers Sway Out Of Control - The Autopian",
-      "description": "My fellow Autopians. Welcome to another edition of Ask An Engineer. This time we are going to look into a question sent to me by one of you astute readers relating to towing a trailer. The question is: Why do some trailers sway back and forth as they are bein…",
-      "url": "https://www.theautopian.com/heres-the-physics-behind-tongue-weight-and-why-some-trailers-sway-out-of-control/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Towing_Physics_TS.jpg",
-      "publishedAt": "2023-12-07T17:03:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "The GTA 6 Game Engine Looks Insane - IGN's Grand Theft Auto 6 Performance Preview - IGN",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/watch?v=zQDgx41lKSs",
-      "urlToImage": null,
-      "publishedAt": "2023-12-07T17:00:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Maddie Ziegler Answers the Web's Most Searched Questions | WIRED - WIRED",
-      "description": "Maddie Ziegler takes the WIRED Autocomplete Interview and answers the internet's most searched questions about herself. What's her signature dance move? What...",
-      "url": "https://www.youtube.com/watch?v=UZ3-n7x5NnE",
-      "urlToImage": "https://i.ytimg.com/vi/UZ3-n7x5NnE/maxresdefault.jpg",
-      "publishedAt": "2023-12-07T17:00:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Mammoth: a simpler, discovery-focused Mastodon app - The Verge",
-      "description": "Mammoth’s Smart Lists, For You feed, and suggested follows are meant to make it easier for new users to explore Mastodon and the rest of the ActivityPub-powered fediverse.",
-      "url": "https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ouuzhZGMziNnWmYfm3enakHuDn4=/0x0:4384x2796/1200x628/filters:focal(2192x1398:2193x1399)/cdn.vox-cdn.com/uploads/chorus_asset/file/25138735/Mammoth_screens.png",
-      "publishedAt": "2023-12-07T17:00:00Z",
-      "content": "The new Mammoth app is a much simpler take on Mastodon\r\nThe new Mammoth app is a much simpler take on Mastodon\r\n / With Smart Lists and a For You feed, Mammoth is trying to help you find all the good… [+3650 chars]"
+      "title": "Apple Wallet ticket sharing is becoming more like NameDrop - The Verge",
+      "description": "With iOS 17.2, you’ll be able to share passes from the Wallet app by bringing two iPhones next to each other, according to MacRumors. It sounds a lot like Apple’s NameDrop contact-sharing tool.",
+      "url": "https://www.theverge.com/2023/12/8/23993780/apple-wallet-ticket-namedrop-ios-17-2",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RM-r7K1gVA9oSVC5uSkgJo2d_Sw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931969/236794_iPhone_15_pro_pro_Max_VPavic_0011.jpg",
+      "publishedAt": "2023-12-08T18:59:08Z",
+      "content": "Apple Wallet ticket sharing is becoming more like NameDrop\r\nApple Wallet ticket sharing is becoming more like NameDrop\r\n / Share a pass with a friend by bringing your iPhone next to theirs.\r\nByJay Pe… [+1454 chars]"
     },
     {
       "source": {
@@ -216,51 +99,168 @@
         "name": "Sportskeeda"
       },
       "author": "Suyash Sahay",
-      "title": "Call of Duty: Black Ops reference seemingly found in GTA 6 trailer - Sportskeeda",
-      "description": "Fans have been thoroughly analyzing the GTA 6 trailer ever since its release for even the tiniest details.",
-      "url": "https://www.sportskeeda.com/gta/news-call-duty-black-ops-reference-seemingly-found-gta-6-trailer",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/22054-17019665925003-1920.jpg",
-      "publishedAt": "2023-12-07T16:56:00Z",
-      "content": "Fans have been thoroughly analyzing the GTA 6 trailer ever since its release for even the tiniest details. It had a major focus on the inclusion of social media, and one of those bits seemingly conta… [+1925 chars]"
+      "title": "GTA Vice City map vs GTA 6 map: Everything known so far from leaks and trailer - Sportskeeda",
+      "description": "Vice City will be a part of the GTA 6 map. However, it seems to be quite different from the iteration seen in Rockstar Games' 2002 release.",
+      "url": "https://www.sportskeeda.com/gta/gta-vice-city-map-vs-gta-6-map-everything-known-far-leaks-trailer",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/312cb-17020594737032-1920.jpg",
+      "publishedAt": "2023-12-08T18:47:00Z",
+      "content": "Vice City will be a part of the GTA 6 map. However, it seems to be quite different from the iteration seen in Rockstar Games' 2002 release. This shouldn't come as a surprise since Liberty City and Lo… [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "A brain without a body can now be kept alive for hours, thanks to new tech - IndiaTimes",
+      "description": "Trending News: This article discusses a Texas lab's discovery of a method to sustain a human brain's life without t",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/a-brain-without-a-body-can-now-be-kept-alive-for-hours-thanks-to-new-tech/articleshow/105846834.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105846833,width-1070,height-580,imgsize-74730,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-08T18:30:00Z",
+      "content": "Agastya Nanda, grandson of Amitabh Bachchan and Jaya Bachchan, is making his Bollywood debut in Zoya Akhtar's The Archies. The entire Bachchan clan, including Big B, Jaya Bachchan, Abhishek Bachchan,… [+495 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fandomwire.com"
+        "name": "Variety"
+      },
+      "author": "Todd Spangler",
+      "title": "Hideo Kojima Teams With Jordan Peele for Upcoming Horror Game ‘OD,’ Announces His ‘Death Stranding’ Docu Will Stream on Disney+ - Variety",
+      "description": "Hideo Kojima is working with Jordan Peele on 'immersive' game OD, and his documentary 'Connecting Worlds' will stream on Disney+ in 2024.",
+      "url": "https://variety.com/2023/digital/news/hideo-kojima-jordan-peele-od-disney-plus-documentary-1235829577/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/12/Hideo-Kojima.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-12-08T18:30:00Z",
+      "content": "Game designer Hideo Kojima, creator of the hugely popular “Death Stranding,” had two pieces of news coming out of the Game Awards 2023.\r\nOn Thursday evening at the Game Awards show in L.A., Kojima ap… [+2395 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google’s AI-assisted NotebookLM note-taking app is now open to users in the US - TechCrunch",
+      "description": "Google's AI note-taking app is now available to users in United States who are at least 18 years old, the company announced on Friday.",
+      "url": "https://techcrunch.com/2023/12/08/googles-ai-assisted-notebooklm-note-taking-app-now-open-users-us/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?resize=1200,800",
+      "publishedAt": "2023-12-08T18:22:44Z",
+      "content": "Google’s AI note-taking app is now available to all users in the United States who are at least 18 years old, the company announced on Friday. The experimental app is also getting a slew of new featu… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Steve Kovach, Jennifer Elias",
+      "title": "Google faces controversy over edited Gemini AI demo video - CNBC",
+      "description": "It comes as the company races to challenge OpenAI's GPT technology.",
+      "url": "https://www.cnbc.com/2023/12/08/google-faces-controversy-over-edited-gemini-ai-demo-video.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107344724-1701973759451-gettyimages-1829286309-RAFAPRESS_06122023-09380.jpeg?v=1702056657&w=1920&h=1080",
+      "publishedAt": "2023-12-08T18:20:20Z",
+      "content": "Google is facing scrutiny over its demonstration video for its newly launched artificial intelligence model, Gemini.\r\nOn Wednesday, just weeks before the year's end, Google launched what it considers… [+2407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Nivedita Mishra",
+      "title": "Chimney for modern homes: Here are top 10 options to consider before buying one - Hindustan Times",
+      "description": "Kitchens ought to be smoke-free and without grim. The one way to deal with it is by investing in a good chimney for a modern home.",
+      "url": "https://www.hindustantimes.com/technology/chimney-for-modern-homes-here-are-top-10-options-to-consider-before-buying-one-101702041854736.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/08/1600x900/Capture_1702047293529_1702047313494.JPG",
+      "publishedAt": "2023-12-08T18:11:26Z",
+      "content": "Chimneys have evolved significantly to become an integral part of modern homes, especially in kitchens. These contemporary appliances not only serve a functional purpose but also contribute to the ae… [+18695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jason Fanelli",
+      "title": "The Game Awards 2023: All The Biggest Announcements - GameSpot",
+      "description": "Everything announced during the annual gaming extravaganza.",
+      "url": "https://www.gamespot.com/gallery/the-game-awards-2023-all-the-biggest-announcements/2900-4980/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4232389-blade.jpg",
+      "publishedAt": "2023-12-08T17:55:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Zeeshan Khan",
+      "title": "Battlegrounds Mobile India (BGMI): Mid-range guide (December 2023) - Sportskeeda",
+      "description": "The exciting battle royale game Battlegrounds Mobile India (BGMI) demands tactical preparation and deft execution, especially in mid-range combat situations.",
+      "url": "https://www.sportskeeda.com/bgmi/battlegrounds-mobile-india-bgmi-mid-range-guide-december-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/af575-17020502860961-1920.jpg",
+      "publishedAt": "2023-12-08T17:31:33Z",
+      "content": "The exciting battle royale game Battlegrounds Mobile India (BGMI) demands tactical preparation and deft execution, especially in mid-range combat situations. These kinds of conflicts in the game requ… [+3137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Pihu Yadav",
+      "title": "This brand made an $1,100 edible gold iPhone 15 Pro Max chocolate bar - CNBCTV18",
+      "description": "This chocolate bar costs as much as the 256 GB model of the iPhone 15 Pro Max. However, unlike the iPhone, which one might use for years, the chocolate bar would barely last a week.",
+      "url": "https://www.cnbctv18.com/lifestyle/luxury-brand-caviar-global-edible-gold-iphone-15-pro-max-chocolate-bar-18526741.htm",
+      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/12/iphone-15-pro-max-1019x573.jpeg",
+      "publishedAt": "2023-12-08T17:09:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theautopian.com"
+      },
+      "author": "Mercedes Streeter",
+      "title": "In 1990, You Could Get A Chevy 1500 With 405 Lb-Ft Of Torque From A Big Block V8: Holy Grails - The Autopian",
+      "description": "30 years ago, the Chevrolet C1500 454 SS birthed the modern performance truck. It was a 7.4-liter big block V8 tire-burning muscle pickup.",
+      "url": "https://www.theautopian.com/the-chevrolet-c1500-454-ss-burned-tires-guzzled-gas-and-punched-out-405-lb-ft-of-torque-with-a-big-block-v8-holy-grails/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Chevy_C1500_454_SS_TS2.jpg",
+      "publishedAt": "2023-12-08T17:06:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Razer Kiyo Pro Ultra Webcam Review - FandomWire",
-      "description": "Without a doubt, the Razer Kiyo Pro Ultra is the best USB webcam that I have ever used. It is robust, feeling like an incredibly premium experience from",
-      "url": "https://fandomwire.com/razer-kiyo-pro-ultra-webcam-review/",
-      "urlToImage": "https://fandomwire.com/wp-content/uploads/2023/12/Razer-Kiyo-Pro-Ultra.jpg",
-      "publishedAt": "2023-12-07T16:36:50Z",
-      "content": "Without a doubt, the Razer Kiyo Pro Ultra is the best USB webcam that I have ever used. It is robust, feeling like an incredibly premium experience from unboxing to setup. It offers incredible detail… [+6737 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "Lawrence Bonk",
-      "title": "Proton Drive for Android can back up your photos to a private cloud server (edited) - Engadget",
-      "description": "Proton Drive now automatically backs up your photos to a private cloud server, so you don’t have to worry about anyone taking a peek. The service is rolling ...",
-      "url": "https://www.engadget.com/proton-drive-for-android-can-back-up-your-photos-to-a-private-cloud-server-edited-163116819.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/csop1GU2_LsBERx_AS.eJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/66e507a0-951d-11ee-bc9f-d9fe892a57bf",
-      "publishedAt": "2023-12-07T16:31:16Z",
-      "content": "Cloud storage app Proton Drive is rolling out a new tool\r\n that automatically sends photos to a private cloud server, bringing the feature set closer to something like Google Drive. Not only does the… [+1574 chars]"
+      "title": "Hogwarts Legacy – Live the Unwritten Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Hogwarts Legacy is available now on Nintendo Switch: http://ninten.do/6059iRaiB  Capture the magic this holiday season with Hogwarts Legacy! The Standard Edi...",
+      "url": "https://www.youtube.com/watch?v=98TJKVy3jEo",
+      "urlToImage": "https://i.ytimg.com/vi/98TJKVy3jEo/maxresdefault.jpg",
+      "publishedAt": "2023-12-08T17:00:25Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "YouTube"
       },
-      "author": "Will Sattelberg",
-      "title": "YouTube Music will finally replace Google Podcasts for good in April 2024 - Android Police",
-      "description": "Maybe that's enough time for YouTube Music to become a good podcast player",
-      "url": "https://www.androidpolice.com/youtube-music-replacing-google-podcasts-april-2024-b/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/youtube-music-podcasts-hero.jpg",
-      "publishedAt": "2023-12-07T16:26:00Z",
-      "content": "Summary\r\n<ul><li> Google Podcasts is being phased out by April of next year, with users encouraged to transfer their subscriptions to YouTube Music through an export feature. </li><li> YouTube Music,… [+3387 chars]"
+      "author": null,
+      "title": "Why AI Chess Bots Are Virtually Unbeatable (ft. GothamChess) | WIRED - WIRED",
+      "description": "\"I got checkmated in 34 moves.\" Levy Rozman a.k.a. GothamChess plays chess against Stockfish 16, the strongest chess computer in the world, and analyzes the ...",
+      "url": "https://www.youtube.com/watch?v=CdFLEfRr3Qk",
+      "urlToImage": "https://i.ytimg.com/vi/CdFLEfRr3Qk/maxresdefault.jpg",
+      "publishedAt": "2023-12-08T17:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Brooke Steinberg",
+      "title": "Pasta dinner in just 1 minute? This viral hack shows how — but there's a catch - New York Post ",
+      "description": "A clever cook on TikTok shared her “hack” for boiling pasta in just one minute — adding that it can also help cut back on electricity usage.",
+      "url": "https://nypost.com/2023/12/08/lifestyle/pasta-dinner-in-just-1-minute-this-viral-hack-shows-how-but-theres-a-catch/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/73443838.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-12-08T16:50:00Z",
+      "content": "The easiest meal to cook just got even easier.\r\nA clever cook on TikTok shared her “hack” for boiling pasta in just one minute — and it can help cut back on electricity usage.\r\nPasta is often a go-to… [+1076 chars]"
     }
   ]
 }
