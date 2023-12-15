@@ -1,19 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 279,
+  "totalResults": 275,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Can Coconuts Replace Plastic Foam Coolers? | World Wide Waste | Business Insider - Business Insider",
+      "description": "The Philippines is the second-largest producer of coconuts in the world. An estimated 9 billion husks are burned or left to rot here every year. Fortuna Cool...",
+      "url": "https://www.youtube.com/watch?v=lHgBJT1_x9A",
+      "urlToImage": "https://i.ytimg.com/vi/lHgBJT1_x9A/maxresdefault.jpg",
+      "publishedAt": "2023-12-13T21:46:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "테슬라, '자율주행' 안전성 결함에 200만 대 리콜 (2023.12.14/뉴스투데이/MBC) - MBCNEWS",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=WuNo64I6G10",
+      "urlToImage": null,
+      "publishedAt": "2023-12-13T21:24:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Amanda Krause",
+      "title": "Taylor Swift gets vintage Chiefs sweatshirt from local business - Business Insider",
+      "description": "Chris Harrington has been running Westside Storey, a small business in Kansas City, Missouri, for over 10 years. Travis Kelce and now Taylor Swift are customers.",
+      "url": "https://www.businessinsider.com/taylor-swift-vintage-chiefs-sweatshirt-local-business-2023-12",
+      "urlToImage": "https://i.insider.com/6579fa127a3c8094d5dc9e75?width=1200&format=jpeg",
+      "publishedAt": "2023-12-13T21:18:00Z",
+      "content": "It was late October when Chris Harrington's boutique in Kansas City, Missouri, received an online order for more than $1,200 worth of vintage clothes.\r\nThe receipt, he told Business Insider, was unus… [+3793 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Sportskeeda"
       },
       "author": "Zeeshan Khan",
-      "title": "5 best recoil-control tips for beginners in BGMI (December 2023) - Sportskeeda",
-      "description": "Battlegrounds Mobile India (BGMI) is a popular battle royale game that requires strategic thinking, quick reflexes, and precise precision from its players.",
-      "url": "https://www.sportskeeda.com/bgmi/5-best-recoil-control-tips-beginners-bgmi-december-2023",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/de14a-17023996019048-1920.jpg",
-      "publishedAt": "2023-12-12T23:50:06Z",
-      "content": "Battlegrounds Mobile India (BGMI) is a popular battle royale game that requires strategic thinking, quick reflexes, and precise precision from its players. Recoil management is one of the most import… [+4126 chars]"
+      "title": "PUBG Mobile weapon recoil guide (December 2023) - Sportskeeda",
+      "description": "Gaining proficiency with weapon recoil is essential to increasing your accuracy and survival rate in the intense and hectic battleground of PUBG Mobile.",
+      "url": "https://www.sportskeeda.com/esports/pubg-mobile-weapon-recoil-guide-december-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/a71ed-17024875191171-1920.jpg",
+      "publishedAt": "2023-12-13T20:55:00Z",
+      "content": "Gaining proficiency with weapon recoil is essential to increasing your accuracy and survival rate in the intense and hectic battleground of PUBG Mobile. The upward movement of your weapon when you're… [+3006 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Let's attempt to decode Google's confusing new location data settings - Ars Technica",
+      "description": "The new Google Maps Timeline plays a game of three-card monte with your location data.",
+      "url": "https://arstechnica.com/gadgets/2023/12/googles-confusing-new-location-settings-hide-data-in-two-different-places/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Google-Maps-760x380.jpg",
+      "publishedAt": "2023-12-13T19:51:26Z",
+      "content": "44\r\nGoogle announced big changes to its most legally fraught set of user settings: your location data. Google's misleading Location History descriptions in Google Maps have earned it several lawsuits… [+5495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Wesley LeBlanc",
+      "title": "God Of War Ragnarök's Valhalla Is So Much More Than Just A Roguelite DLC - Game Informer",
+      "description": "Even if you aren't interested in roguelites, this Valhalla DLC is a must-play.",
+      "url": "https://www.gameinformer.com/opinion/2023/12/13/god-of-war-ragnaroks-valhalla-is-so-much-more-than-just-a-roguelite-dlc",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/12/13/8a4156f3/gow_valhalla_11.jpeg",
+      "publishedAt": "2023-12-13T19:42:00Z",
+      "content": "Since rolling credits (and platinum-ing) God of War Ragnarök shortly after its release last year, I have craved more of developer Santa Monica Studios take on Norse mythology. I was satisfied with ho… [+4678 chars]"
     },
     {
       "source": {
@@ -21,51 +86,64 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Constance - Official Announcement Trailer - IGN",
-      "description": "Take a look at the announcement trailer for the upcoming 2D  hand-drawn action adventure, Constance. From developers btf ( https://twitter.com/ConstanceGame)...",
-      "url": "https://www.youtube.com/watch?v=L3IHV4AYmvs",
-      "urlToImage": "https://i.ytimg.com/vi/L3IHV4AYmvs/maxresdefault.jpg",
-      "publishedAt": "2023-12-12T23:30:05Z",
+      "title": "Disney Illusion Island – 'Keeper Up' Update Trailer – Nintendo Switch - Nintendo of America",
+      "description": "The 'Keeper Up' free update for Disney Illusion Island is available now on Nintendo Switch: https://www.nintendo.com/us/store/products/disney-illusion-island...",
+      "url": "https://www.youtube.com/watch?v=eQ7cCC-aywM",
+      "urlToImage": "https://i.ytimg.com/vi/eQ7cCC-aywM/maxresdefault.jpg",
+      "publishedAt": "2023-12-13T19:30:03Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Insider-gaming.com"
       },
-      "author": "Michelle Starr",
-      "title": "Human Brain Cells on a Chip Can Recognize Speech And Do Simple Math - ScienceAlert",
-      "description": "There is no computer even remotely as powerful and complex as the human brain.",
-      "url": "https://www.sciencealert.com/scientists-built-a-functional-computer-with-human-brain-tissue",
-      "urlToImage": "https://www.sciencealert.com/images/2023/12/OrganoidComputer.jpg",
-      "publishedAt": "2023-12-12T23:08:19Z",
-      "content": "There is no computer even remotely as powerful and complex as the human brain. The lumps of tissue ensconced in our skulls can process information at quantities and speeds that computing technology c… [+5799 chars]"
+      "author": "David Coulson",
+      "title": "Fortnite Festival Guitar Will be Released in January 2024 - Insider Gaming",
+      "description": "Fortnite Festival has helped to revive the rhythm game genre and for the first time in seven years official controllers are being released.",
+      "url": "https://insider-gaming.com/fortnite-festival-guitar-will-be-released-in-january-2024/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/12/Fortnite-Festival-Key-Art.webp",
+      "publishedAt": "2023-12-13T18:44:59Z",
+      "content": "Fortnite Festival was released last week and brought the classic Guitar Hero/Rock Band gameplay to Fortnite as one of three new permanent modes released in Chapter 5. In addition to Fortnite Festival… [+2806 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Sportskeeda"
       },
-      "author": "Joanna Stern, Nicole Nguyen",
-      "title": "Apple's iOS 17.3 Stolen Device Protection Update Aims to Stop iPhone Thieves - WSJ - The Wall Street Journal",
-      "description": "Stolen Device Protection can prevent criminals from using your passcode to change your Apple account",
-      "url": "https://www.wsj.com/tech/personal-tech/apple-iphone-ios-update-stolen-device-protection-698d760e",
-      "urlToImage": "https://images.wsj.net/im-898898/social",
-      "publishedAt": "2023-12-12T22:57:00Z",
-      "content": null
+      "author": "Suyash Sahay",
+      "title": "GTA 5 & GTA Online will be free for some players: Here's how to check if you're eligible - Sportskeeda",
+      "description": "One of Rockstar Games' most successful releases, Grand Theft Auto 5, along with its multiplayer variant, GTA Online, will be free for some PS4 and PS5 players soon.",
+      "url": "https://www.sportskeeda.com/gta/gta-5-gta-online-will-free-players-here-s-check-you-re-eligible",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/be6d5-17024908676438-1920.jpg",
+      "publishedAt": "2023-12-13T18:38:00Z",
+      "content": "One of Rockstar Games' most successful releases, Grand Theft Auto 5, along with its multiplayer variant, GTA Online, will be free for some PS4 and PS5 players soon. The news was announced on PlayStat… [+2424 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Gameinformer.com"
       },
-      "author": "Megan Cerullo",
-      "title": "Apple releases beta version of Stolen Device Protection feature - CBS News",
-      "description": "New feature adds a layer of security in the event a thief obtains your iPhone password.",
-      "url": "https://www.cbsnews.com/news/apple-ios-17-3-update-stolen-device-protection/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/12/3250137c-03d3-4136-ad72-1ec4de92a0f1/thumbnail/1200x630/9b2ecf3493d2a8ae238cd0c774a535b5/screenshot-2023-12-12-at-5-36-08-pm.png?v=07160a3d82bc4d81e93fbc43cb05e8e7",
-      "publishedAt": "2023-12-12T22:37:00Z",
-      "content": "Apple has issued an update to its latest iPhone operating system that keeps users protected from thieves with access to their passcodes. \r\nThe new feature, called Stolen Device Protection, requires u… [+1382 chars]"
+      "author": "Charles Harte",
+      "title": "PlayStation, Xbox, And Nintendo Year In Reviews Are Now Live - Game Informer",
+      "description": "Take a look back on your gaming habits in the year 2023.",
+      "url": "https://www.gameinformer.com/2023/12/13/playstation-xbox-and-nintendo-year-in-reviews-are-now-live",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/12/13/0d18cb53/nintendo_year_in_review_2023.jpg",
+      "publishedAt": "2023-12-13T18:37:00Z",
+      "content": "Update, 12/13/2023:\r\nYesterday, PlayStation and Xbox released yearly video game retrospectives for individual players, highlighting how much PlayStation 5 and Xbox Series X/S they played in 2023, whi… [+2081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Andrew Orr",
+      "title": "Apple Silicon M3 Pro beats Nvidia RTX 4090 in AI benchmark - Yahoo Finance",
+      "description": "In a recent test of Apple's MLX machine learning framework, a benchmark shows that the new Apple Silicon Macs blow Nvidia's RTX 4090 out of the water.",
+      "url": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bwKQT2UIIOhj9FxASHSmtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzI-/https://media.zenfs.com/en/appleinsider_865/a3e13525499dbfd6c05672b19ed9b839",
+      "publishedAt": "2023-12-13T18:34:00Z",
+      "content": "In a recent test of Apple's MLX machine learning framework, a benchmark shows that the new Apple Silicon Macs blow Nvidia's RTX 4090 out of the water.\r\nWhisper performance\r\nApple announced on Decembe… [+1805 chars]"
     },
     {
       "source": {
@@ -73,38 +151,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The First 19 Minutes of God of War Ragnarok: Valhalla Gameplay @ 4K 60FPS - IGN",
-      "description": "The opening moments of God of War Ragnarok: Valhalla gameplay have Kratos and Mimir enter into Valhalla, and discover that their regular means of combat have...",
-      "url": "https://www.youtube.com/watch?v=VRAv6Q8IpPk",
-      "urlToImage": "https://i.ytimg.com/vi/VRAv6Q8IpPk/maxresdefault.jpg",
-      "publishedAt": "2023-12-12T22:24:30Z",
+      "title": "Mortal Kombat 1 Quan Chi vs Liu Kang High Level Gameplay - GameSpot",
+      "description": "Today during the Kombat Kast we got to see a high level match between Quan Chi and Liu Kang. The gameplay was captured with the upcoming Kross Play functiona...",
+      "url": "https://www.youtube.com/watch?v=gRe1eg9oC1w",
+      "urlToImage": "https://i.ytimg.com/vi/gRe1eg9oC1w/maxresdefault.jpg",
+      "publishedAt": "2023-12-13T18:32:46Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Sportskeeda"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Neeraj Bansal",
-      "title": "GTA Online Chop Shop update 1.68 patch notes revealed - Sportskeeda",
-      "description": "Patch notes for GTA Online Chop Shop update have been released by Rockstar Games. This is the 1.68 Version Update, which is now available on all supported platforms.",
-      "url": "https://www.sportskeeda.com/gta/gta-online-chop-shop-update-1-68-patch-notes-revealed",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/b70af-17024057035816-1920.jpg",
-      "publishedAt": "2023-12-12T22:22:00Z",
-      "content": "Patch notes for GTA Online Chop Shop update have been released by Rockstar Games. This is the 1.68 Version Update, which is now available on all supported platforms. As anticipated, there are a pleth… [+2802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Graham Smith",
-      "title": "Starfield will get city maps and \"new ways of traveling\" next year - Rock Paper Shotgun",
-      "description": "Bethesda say they're working on adding city maps, mod support and new methods of travel to their somewhat maligned space adventure.",
-      "url": "https://www.rockpapershotgun.com/starfield-will-get-city-maps-and-new-ways-of-traveling-next-year",
-      "urlToImage": "https://assetsio.reedpopcdn.com/starfield-stare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-12-12T22:21:08Z",
-      "content": "Open your map in Starfield and you won't see much more than a height map, even in cities. If you want to then travel around, you're limited to walking huge distances when on planet surfaces and using… [+1642 chars]"
+      "author": "Robert Anderson",
+      "title": "Microsoft Has Officially Discounted Xbox Series X Consoles for The Holidays - IGN",
+      "description": "Microsoft has officially given Xbox Series X consoles a festive discount.",
+      "url": "https://www.ign.com/articles/xbox-series-x-microsoft-has-officially-discounted-consoles-holidays-2023",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/09/19/series-x-1695101776670.jpg?width=1280",
+      "publishedAt": "2023-12-13T18:22:30Z",
+      "content": "Walmart and Target have recently been playing with an Xbox Series X discount priced at $349, marking a $150 reduction from the MSRP and surpassing Black Friday offerings.\r\nWhile some of these have be… [+2481 chars]"
     },
     {
       "source": {
@@ -112,155 +177,90 @@
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "Valve To Steam Deck Owners: Stop Huffing Its Vent Fumes - Kotaku",
-      "description": "The company behind Portal, Half-Life, and Steam isn’t amused by all the vent smellin’",
-      "url": "https://kotaku.com/valve-steam-deck-fumes-vent-smell-good-safe-exhaust-1851094071",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0746c80043767b47f239d78879ff5894.jpg",
-      "publishedAt": "2023-12-12T22:15:00Z",
-      "content": "Valve has a message to all you folks (myself included) who love huffing your Steam Deck exhaust fumes: Stop it. Please. \r\nHave you ever taken a break from playing your Steam Deck to sample the comple… [+1709 chars]"
+      "title": "Worst-Reviewed Call Of Duty Already Second-Best Seller Of 2023 - Kotaku",
+      "description": "The new Modern Warfare III wasn’t a hit online with critics or fans, but it is still selling like hotcakes",
+      "url": "https://kotaku.com/call-of-duty-mw3-mwiii-sales-numbers-top-selling-2023-1851096501",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0531f01252f423595e2f79d9a3b92669.jpg",
+      "publishedAt": "2023-12-13T18:15:00Z",
+      "content": "New data reveals that Call of Duty: Modern Warfare III is already the second-best selling video game of 2023, despite awful reviews, a low Metacritic score, and complaints that its campaign was too s… [+2595 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "NDTV News"
       },
-      "author": "Juli Clover",
-      "title": "GM Says It's Nixing CarPlay to Make Drivers Safer - MacRumors",
-      "description": "Earlier this year, General Motors (GM) announced plans to phase out Apple's CarPlay and Android Auto in its future electric vehicles, with the...",
-      "url": "https://www.macrumors.com/2023/12/12/gm-carplay-removal-safer-drivers/",
-      "urlToImage": "https://images.macrumors.com/t/9RBNCojnNX0JFLlf3Ces05Pcmaw=/1600x/article-new/2022/09/CarPlay-Phone-Call.jpg",
-      "publishedAt": "2023-12-12T21:47:22Z",
-      "content": "Earlier this year, General Motors (GM) announced plans to phase out Apple's CarPlay and Android Auto in its future electric vehicles, with the company instead relying on an infotainment system co-dev… [+1865 chars]"
+      "author": null,
+      "title": "Treat Yourself To Year-End Luxe: Premium Handbags On Amazon At Up To 75% Off - NDTV",
+      "description": "Splurge on premium handbags as the year comes to a close with these incredible deals from Amazon on a variety of styles, now at up to 75% off.",
+      "url": "https://www.ndtv.com/shopping/treat-yourself-to-year-end-luxe-premium-handbags-on-amazon-at-up-to-75-off-4667963",
+      "urlToImage": "https://c.ndtvimg.com/2023-12/h91eeag_womens-handbags_625x300_08_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675?ver-20231203.06",
+      "publishedAt": "2023-12-13T18:10:02Z",
+      "content": "As the year wraps up, it's the perfect moment to spoil yourself or someone special with a touch of luxury enter premium handbags from top-notch brands. Whether you're a fashion connoisseur or just ea… [+10155 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Social Media Today"
+        "name": "Gizmodo.com"
       },
-      "author": "Andrew Hutchinson",
-      "title": "Meta's Testing an Integrated Conversational AI Chatbot for its Ray Ban Stories Glasses - Social Media Today",
-      "description": "Soon, you’ll be able to have a conversational AI system with you at all times.",
-      "url": "https://www.socialmediatoday.com/news/metas-testing-an-integrated-conversational-ai-chatbot-for-its-ray-ban-stor/702341/",
-      "urlToImage": "https://www.socialmediatoday.com/imgproxy/3H40jrU67Ph1NidBffj1sU-PG6jfXpgUpnS_LhuY2KA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL21ldGFfYWlfY2hhdGJvdHM4LnBuZw.jpg",
-      "publishedAt": "2023-12-12T21:12:40Z",
-      "content": "Imagine if you had ChatGPT with you at all times, so that you could pose questions to an AI system as you walk around in your everyday life.\r\nThat could soon be a reality, with Meta testing an integr… [+2526 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Maaz Ahmed",
-      "title": "5 video games that were canceled post-announcement - Sportskeeda",
-      "description": "Video game development is a grueling task. With the long development cycle in the modern age, there is a lot of pressure on a studio to deliver.",
-      "url": "https://www.sportskeeda.com/esports/5-video-games-canceled-post-announcement",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/0abe6-17019998773589-1920.jpg",
-      "publishedAt": "2023-12-12T21:10:00Z",
-      "content": "Video game development is a grueling task. With the long development cycle in the modern age, there is a lot of pressure on a studio to deliver. From the moment they showcase the announcement trailer… [+5374 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Sony is investigating an alleged ransomware attack on Insomniac - The Verge",
-      "description": "Sony says it’s aware of reports of an attack that may have compromised Insomniac Games data, including that of employees and relating to upcoming games.",
-      "url": "https://www.theverge.com/2023/12/12/23998342/insomniac-games-ransomware-attack-sony-rhysida",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/j9_iIJrtUY9v33Feb8wAeBQAgSc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24018612/STK325_K_Radtke_Sony_02.jpg",
-      "publishedAt": "2023-12-12T20:59:00Z",
-      "content": "Sony is investigating an alleged ransomware attack on Insomniac\r\nSony is investigating an alleged ransomware attack on Insomniac\r\n / A ransomware group claims it will release data stolen from Insomni… [+2075 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Meta's AI for Ray-Ban smart glasses can identify objects and translate languages - The Verge",
-      "description": "Meta’s multimodal artificial intelligence can use the Ray-Ban smart glasses’ camera and microphone to see what you’re looking at or hearing, and respond accordingly.",
-      "url": "https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iVfZ-FSO0KATMZGqQtNvVqUBPo8=/0x0:2040x1360/1200x628/filters:focal(1332x772:1333x773)/cdn.vox-cdn.com/uploads/chorus_asset/file/25012279/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0563.jpg",
-      "publishedAt": "2023-12-12T20:54:17Z",
-      "content": "Metas AI for Ray-Ban smart glasses can identify objects and translate languages\r\nMetas AI for Ray-Ban smart glasses can identify objects and translate languages\r\n / Saying Hey Meta while wearing the … [+288 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "Karissa Bell",
-      "title": "The Ray-Ban Meta smart glasses are getting AI-powered visual search features - Engadget",
-      "description": "The Ray-Ban Meta smart glasses are about to get some powerful upgrades thanks to improvements to the social network’s AI assistant.",
-      "url": "https://www.engadget.com/the-ray-ban-meta-smart-glasses-are-getting-ai-powered-visual-search-features-204556255.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fi0TIbVRK9KlyqHw5HRg4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/16e9e350-6c7e-11ee-befd-382033027201",
-      "publishedAt": "2023-12-12T20:45:56Z",
-      "content": "The Ray-Ban Meta smart glasses are about to get some powerful upgrades thanks to improvements to the social networks AI assistant. The company is finally adding support\r\n for real-time information to… [+2100 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Chris Velazco",
-      "title": "The fight to bring iMessage to Android users keeps getting messier - The Washington Post",
-      "description": "Small companies are trying to break down the wall around iMessage. Now Apple is firing back, and some lawmakers are taking notice.",
-      "url": "https://www.washingtonpost.com/technology/2023/12/12/imessage-android-beeper/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z7SFP6BOTVC6BICSXIAPRVXK7A.jpg&w=1440",
-      "publishedAt": "2023-12-12T20:30:00Z",
-      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nThis article is a preview of The Tech Friend newsletter. Sign up here to get it in your inbox every Tuesday and Friday.\r\nThere is a me… [+6774 chars]"
+      "author": "Cheryl Eddy",
+      "title": "With 16 New Titles Coming, Netflix Is Determined to Make Games Happen in 2024 - Gizmodo",
+      "description": "The streamer has 86 games available and almost 90 new games in development, with four new titles to announce for 2024.",
+      "url": "https://gizmodo.com/netflix-new-video-games-2024-rebel-moon-squid-games-1851096296",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8b1d07d7a7c1f016eaa7f09e40edb325.jpg",
+      "publishedAt": "2023-12-13T18:10:00Z",
+      "content": "Netflix announced that it was branching into gamesback in November 2021, but so far the streamer remains far better known for its movies and TV series. The company hopes to change that in 2024, with … [+3450 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Zack Zwiezen",
-      "title": "New Shooter Looks Like Cuphead Meets Doom - Kotaku",
-      "description": "This fantastic-looking indie FPS is coming to PC and consoles sometime in 2025",
-      "url": "https://kotaku.com/fps-retro-cartoon-shooter-mouse-new-trailer-gameplay-1851093499",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e831e611ac3a61c7c15da6e4106dd479.jpg",
-      "publishedAt": "2023-12-12T20:30:00Z",
-      "content": "A new gameplay trailer for upcoming indie shooter Mouse shows off the games cartoon action and awesome 1930s-inspired visuals, while also revealing a release window.\r\nBack in May, Polish developer Fu… [+1668 chars]"
+      "author": "Ethan Gach",
+      "title": "Insomniac Leaks Fuels Fan Speculation About A Spider-Verse Game - Kotaku",
+      "description": "Leaked documents point to a mysterious third game the Spider-Man 2 studio might be making",
+      "url": "https://kotaku.com/spider-man-2-spider-verse-insomniac-leak-ps5-1851096362",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/72253b54cc8933d5dc643ca87141334a.png",
+      "publishedAt": "2023-12-13T18:00:00Z",
+      "content": "Insomniac Games has quickly become Sonys most prodigious first-party studio. In the span of just five years it released Spider-Man, Spider-Man: Miles Morales, Ratchet and Clank: Rift Apart, and Spide… [+1992 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SC Magazine"
+        "name": "Forbes"
       },
-      "author": "SC Staff",
-      "title": "Critical WordPress flaw continues to impact nearly 50K sites - SC Media",
-      "description": "Nearly 50,000 WordPress websites continue to be using versions of the Backup Migration plugin impacted by a critical flaw, tracked as CVE-2023-6553, nearly a week after patches have been released, BleepingComputer reports.",
-      "url": "https://www.scmagazine.com/brief/critical-wordpress-flaw-continues-to-impact-nearly-50k-sites",
-      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
-      "publishedAt": "2023-12-12T20:26:42Z",
-      "content": "Malicious cyber activity could be deployed by threat actors without being undetected through the exploitation of four vulnerabilities in Delta Electronics' InfraSuite Device Master, which allows the … [+138 chars]"
+      "author": "David Phelan",
+      "title": "iOS 17.2: Apple Suddenly Releases New Urgent Update Warning For iPhone Users - Forbes",
+      "description": "The latest iPhone update has been much-anticipated. Here’s what’s in it, how to get it and why you should want to have it on your phone pronto.",
+      "url": "https://www.forbes.com/sites/davidphelan/2023/12/13/ios-172-apple-suddenly-releases-urgent-update-for-all-iphone-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/657802625bf83be1a080ca5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-13T17:37:22Z",
+      "content": "December 13 update below. This post was first published on December 11, 2023.\r\nIf it feels like it was just days since you updated your iPhone, well, thats because it was. The unexpected iOS 17.1.2 i… [+8188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Hannah Frishberg",
+      "title": "NYC apartment panned as 'glorified prison cell' comes with shockingly high rent price — and prime location - New York Post ",
+      "description": "Internet denizens believe this bite-sized Greenwich Village unit, which asked a big amount in rent, may get the gold for the smallest apartment in the land.",
+      "url": "https://nypost.com/2023/12/13/real-estate/is-this-the-smallest-apartment-in-nyc/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/www-instagram-com-reel-c0ml8kzlev4-73639804.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-12-13T17:36:00Z",
+      "content": "A Manhattan studio has been nominated for the title of the borough’s most itty-bitty abode, at least according to Instagram. \r\nTiny apartments are hardly a rarity in New York City, but internet deniz… [+2512 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Apple's new iPhone security setting keeps thieves out of your digital accounts - The Verge",
-      "description": "Apple added a feature to iOS 17.3 that appears to address an iPhone security vulnerability that lets thieves steal iCloud accounts using only a user’s iPhone PIN.",
-      "url": "https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HhtPIc_Bgm9tsmM2DcwW6vZ8GV0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931349/236792_iPhone_15_Pro_and_15_Pro_Max_product_photos_AJohnson_0005.jpg",
-      "publishedAt": "2023-12-12T20:24:30Z",
-      "content": "Apples new iPhone security setting keeps thieves out of your digital accounts\r\nApples new iPhone security setting keeps thieves out of your digital accounts\r\n / Apples Stolen Device Protection featur… [+2505 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Social Media Today"
-      },
-      "author": "Andrew Hutchinson",
-      "title": "WhatsApp Rolls Out Pinned Chats to Maintain Focus on Key Discussion Elements - Social Media Today",
-      "description": "A new way to highlight key events, dates, and reminders in your WhatsApp chats.",
-      "url": "https://www.socialmediatoday.com/news/whatsapp-rolls-out-pinned-chats-to-maintain-focus-on-key-discussion-element/702326/",
-      "urlToImage": "https://www.socialmediatoday.com/imgproxy/Ne03WDBvnHTf4Pn082AfTW_IPwYW08Y_y5zAfVwn6k8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3doYXRzYXBwX3Bpbm5lZF9jaGF0cy5wbmc.jpg",
-      "publishedAt": "2023-12-12T20:14:09Z",
-      "content": "WhatsApps rolling out a new option that will enable you to pin a message or message element within a chat, which will provide a simple way to prioritize certain discussions or reminders within your W… [+889 chars]"
+      "author": "Antonio G. Di Benedetto",
+      "title": "Samsung's Galaxy Buds 2 Pro are down to their lowest price to date - The Verge",
+      "description": "Today’s deals include $70 off Samsung’s flagship noise-canceling earbuds, $150 off the Xbox Series X, and over $400 off the last-gen 12.9-inch M1 iPad Pro.",
+      "url": "https://www.theverge.com/2023/12/13/23998703/samsung-galaxy-buds-2-pro-xbox-series-x-ipad-m1-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3udXDj8aDnW4WhmipeeQ_2wCEPs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23956546/DSCF8720.jpg",
+      "publishedAt": "2023-12-13T17:34:23Z",
+      "content": "Samsungs Galaxy Buds 2 Pro are down to their lowest price to date\r\nSamsungs Galaxy Buds 2 Pro are down to their lowest price to date\r\n / The flagship Buds and their $70 discount are joined by other d… [+4737 chars]"
     }
   ]
 }
