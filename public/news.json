@@ -1,45 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 240,
+  "totalResults": 230,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "CNBC"
       },
-      "author": "Louis Ramirez",
-      "title": "24-hour flash sale at Best Buy — Macs from $749, Switch games from $14 - Tom's Guide",
-      "description": "Save big on Apple, 4K TVs, and more",
-      "url": "https://www.tomsguide.com/deals/24-hour-flash-sale-at-best-buy-macs-from-dollar749-switch-games-from-dollar14",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fad7ij5VbFDjKpQ6id6HYJ-1200-80.jpg",
-      "publishedAt": "2023-12-19T22:37:25Z",
-      "content": null
+      "author": "Jake Piazza",
+      "title": "Jim Cramer says investors should remember the optionality of 6 of the Magnificent 7 - CNBC",
+      "description": "Jim Cramer said investors should remember the tremendous power of the Magnificent Seven.",
+      "url": "https://www.cnbc.com/2023/12/20/jim-cramer-says-investors-should-remember-the-optionality-of-6-of-the-magnificent-7.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107083445-1656625558127-IMG_1723b.jpg?v=1695682524&w=1920&h=1080",
+      "publishedAt": "2023-12-21T00:06:00Z",
+      "content": "CNBC's Jim Cramer keyed in on the optionality of six of the companies that have become known as the \"Magnificent Seven\" during his Wednesday show.\r\n\"The Magnificent Seven have the most optionality of… [+1602 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
+        "name": "Afaqs.com"
       },
-      "author": "Tom Henderson",
-      "title": "EXCLUSIVE - Call of Duty 2025 is a Semi Futuristic Black Ops 2 Sequel - Insider Gaming",
-      "description": "Known under the codename Saturn, Insider Gaming has learned that Call of Duty 2025 is set to take players back to the future.",
-      "url": "https://insider-gaming.com/black-ops-2-call-of-duty-2025/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/02/call-of-duty-black-ops-2-1920x1080-games-hd-wallpapers.jpg",
-      "publishedAt": "2023-12-19T21:45:27Z",
-      "content": "Currently known under the codename ‘Saturn’, Insider Gaming has learned from multiple sources that Call of Duty 25 is set to take players back to the future. And no, I don’t mean we’ll soon be playin… [+2844 chars]"
+      "author": "Akshit Pushkarna",
+      "title": "As the cookies crumble, digital agencies pivot to contextual advertising - afaqs!",
+      "description": "In the absence of cookies, agencies are now focusing on first-party data, prioritising compliance while pushing the envelope with creativity.",
+      "url": "https://www.afaqs.com/news/digital/as-the-cookies-crumble-digital-agencies-pivot-to-contextual-advertising",
+      "urlToImage": "https://media.assettype.com/afaqs%2F2023-12%2F1320ce28-4957-4773-aabe-d7e24c90d8a1%2FUntitled_design___2023_12_20T224715_963.png?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2023-12-21T00:00:00Z",
+      "content": "In the absence of cookies, agencies are now focusing on first-party data, prioritising compliance while pushing the envelope with creativity.\r\nWhile the year that just passed may not have been partic… [+10070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Suyash Sahay",
+      "title": "What are the chances of GTA 4 remastered releasing on PS4 and PS5 in 2024? - Sportskeeda",
+      "description": "Rockstar Games released GTA 4 in 2008 on the PS3, Xbox 360, and PC. This title is now more than 10 years old.",
+      "url": "https://www.sportskeeda.com/gta/what-chances-gta-4-remastered-releasing-ps4-ps5-2024",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/03263-17030879065007-1920.jpg",
+      "publishedAt": "2023-12-20T23:19:00Z",
+      "content": "Rockstar Games released GTA 4 in 2008 on the PS3, Xbox 360, and PC. This title is now more than 10 years old. However, it is still quite popular, and many people think it's one of the best entries in… [+2725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Apple plans February launch for Vision Pro headset, ramps up production - Investing.com India",
+      "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+      "url": "https://in.investing.com/news/apple-plans-february-launch-for-vision-pro-headset-ramps-up-production-432SI-3946067",
+      "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/c94a703ed36b6aceba78df064c7d7981_w_800_h_450.jpg",
+      "publishedAt": "2023-12-20T23:03:35Z",
+      "content": "Apple (NASDAQ:\r\nAAPL\r\n) is gearing up for the February launch of its Vision Pro mixed-reality headset, with production in full swing at Chinese facilities. The company aims to have customer-ready uni… [+1152 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Amrita Khalid",
-      "title": "Copilot users can create their own AI songs with the new Suno AI plug-in - The Verge",
-      "description": "The AI music creation tool Suno can generate custom songs based on text prompts in mere seconds. It’s now being integrated with Microsoft’s AI chatbot.",
-      "url": "https://www.theverge.com/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xR_04L4hMaOHPWLNRC2H-WiJSmU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24492430/STK459_Music_Headphones.jpg",
-      "publishedAt": "2023-12-19T21:20:54Z",
-      "content": "You can create your own AI songs with this new Copilot extension\r\nYou can create your own AI songs with this new Copilot extension\r\n / A new plug-in for the AI music creation tool Suno can generate c… [+1997 chars]"
+      "author": "Wes Davis",
+      "title": "Steam is going to let you hide the games you don't want your friends to see - The Verge",
+      "description": "Steam’s latest beta adds the ability to set games you purchase to private so that only you can see that they’re in your library.",
+      "url": "https://www.theverge.com/2023/12/20/24010116/steam-beta-update-hide-games-private-shopping-cart",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SvMgCA8P8_9ulTeGD4qN96L37ew=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg",
+      "publishedAt": "2023-12-20T22:24:47Z",
+      "content": "Steam is going to let you hide the games you dont want your friends to see\r\nSteam is going to let you hide the games you dont want your friends to see\r\n / A new beta update to Steam brings a compelli… [+306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Take a look at the Samsung Galaxy S24 in four colors in official-looking renders - GSMArena.com news - GSMArena.com",
+      "description": "It's that time of the year now, when the official renders are coming out. Samsung is widely expected to introduce the Galaxy S24 family at some point next...",
+      "url": "https://www.gsmarena.com/take_a_look_at_the_samsung_galaxy_s24_in_three_colors_in_officiallooking_renders-news-60991.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/12/galaxy-s24-official-looking-renders-leak/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-12-20T22:09:11Z",
+      "content": "Samsung is widely expected to introduce the Galaxy S24 family at some point next month, and as we are almost at the end of December, it's time for the official-looking renders to come out, seemingly.… [+2092 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Malak Saleh",
+      "title": "Aston Martin and Porsche showed off next generation Apple CarPlay coming to their cars in 2024 - Engadget",
+      "description": "The next generation of Apple’s CarPlay interface has been previewed in luxury cars made by Porsche and Aston Martin.",
+      "url": "https://www.engadget.com/aston-martin-and-porsche-showed-off-next-generation-apple-carplay-coming-to-their-cars-in-2024-220130805.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sF.w6YSaj1ZBmN6ncg4_Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/b0838170-9f81-11ee-bffe-fa0432a82cee",
+      "publishedAt": "2023-12-20T22:01:30Z",
+      "content": "The next generation of Apples CarPlay interface has been previewed in luxury cars made by Porsche\r\n and Aston Martin\r\n. The interface, which was first announced\r\n more than a year ago at Apples WWDC … [+1338 chars]"
     },
     {
       "source": {
@@ -47,11 +99,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Cub - Official Release Date Trailer - IGN",
-      "description": "The Cub is a story-rich post-apocalyptic 2D platformer developed by Demagog Studio. Players will return to the neon-lit, satirical dystopian ruined Earth jus...",
-      "url": "https://www.youtube.com/watch?v=RREw9S8wjbM",
-      "urlToImage": "https://i.ytimg.com/vi/RREw9S8wjbM/maxresdefault.jpg",
-      "publishedAt": "2023-12-19T21:00:12Z",
+      "title": "Suicide Squad: Kill the Justice League - Official Meet the Support Squad Behind the Scenes Look - IGN",
+      "description": "SPOILERS for the story are present in this video after 07:34:Don't miss the second Suicide Squad Insider episode going over the supporting cast of Suicide Sq...",
+      "url": "https://www.youtube.com/watch?v=cjOf-hQUbLE",
+      "urlToImage": "https://i.ytimg.com/vi/cjOf-hQUbLE/maxresdefault.jpg",
+      "publishedAt": "2023-12-20T22:00:13Z",
       "content": null
     },
     {
@@ -59,208 +111,156 @@
         "id": null,
         "name": "Sportskeeda"
       },
-      "author": "Akshat Kabra",
-      "title": "What is Minecraft Night Dweller modpack - Sportskeeda",
-      "description": "Although marketed as a kid's game, Minecraft has some spooky elements. Players are isolated in the near-endless world, with loads of mysterious, hostile creatures hungry to kill them.",
-      "url": "https://www.sportskeeda.com/minecraft/what-minecraft-night-dweller-modpack",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/ee19f-17030002415744-1920.jpg",
-      "publishedAt": "2023-12-19T20:50:00Z",
-      "content": "Although marketed as a kid's game, Minecraft has some spooky elements. Players are isolated in the near-endless world, with loads of mysterious, hostile creatures hungry to kill them. From sudden jum… [+2483 chars]"
+      "author": "Md Farhan Sajid",
+      "title": "Brawl Stars Season 22: 5 best Brawlers in the Power League - Sportskeeda",
+      "description": "The Power League in Brawl Stars was unlocked in March 2021, marking a significant shift in the game's competitive landscape.",
+      "url": "https://www.sportskeeda.com/esports/brawl-stars-season-22-5-best-brawlers-power-league",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/fac23-17030854719417-1920.jpg",
+      "publishedAt": "2023-12-20T21:45:00Z",
+      "content": "The Power League in Brawl Stars was unlocked in March 2021, marking a significant shift in the game's competitive landscape. Providing players with a mid-to-late game progression system, this mode al… [+9461 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Kevin Purdy",
-      "title": "Beeper's esoteric fix for iMessage access suggests why it's pushing politically - Ars Technica",
-      "description": "Beeper's iMessage access could depend on both Mac data and DOJ action.",
-      "url": "https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mac_mini_beeper-760x380.jpeg",
-      "publishedAt": "2023-12-19T20:42:26Z",
-      "content": "Enlarge/ If you have one of these, or another Mac handy, you should soon be able to access Beeper on Android and desktop platforms. You'll just need to grab its \"registration data\" every so often.\r\n1… [+4026 chars]"
+      "author": "TIMESOFINDIA.COM",
+      "title": "You are a true geek if you can find the word “Dog” in 10 seconds - IndiaTimes",
+      "description": "Challenge your geekiness by finding the word 'dog' hidden in a word search puzzle in just 10 seconds! Enhance your cognitive skills and memory power with brain teasers. Discover the importance of constantly increasing variety and challenge in brain games. Str…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/https/example-com/find-word-dog-10-seconds/articleshow/106155249.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106156328,width-1070,height-580,imgsize-1176146,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-20T20:30:00Z",
+      "content": "Kiara Advani, Athiya Shetty, Parineeti Chopra: Most stunning bridal looks of 2023"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "When Will Apple Vision Pro Be Available? Company Is Aiming for February - Bloomberg",
+      "description": "Apple Inc. is ramping up production of the Vision Pro mixed-reality headset, setting the stage for a launch by February, according to people with knowledge of the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2023-12-20/when-will-apple-vision-pro-be-available-company-is-aiming-for-february",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8u4MyUMbqn0/v1/1200x800.jpg",
+      "publishedAt": "2023-12-20T20:13:20Z",
+      "content": "Apple Inc. is ramping up production of the Vision Pro mixed-reality headset, setting the stage for a launch by February, according to people with knowledge of the matter.\r\nProduction of the new heads… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Relic: The First Guardian - Official Gameplay Overview Trailer - IGN",
+      "description": "The Relic: The First Guardian is an action-adventure RPG developed by Project Cloud Games. Players will venture on a journey to save the world shrouded in da...",
+      "url": "https://www.youtube.com/watch?v=ycYc-mmeyuk",
+      "urlToImage": "https://i.ytimg.com/vi/ycYc-mmeyuk/maxresdefault.jpg",
+      "publishedAt": "2023-12-20T20:00:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Voicebot.ai"
+      },
+      "author": "Eric Hal Schwartz",
+      "title": "Microsoft and TomTom Unveil Generative AI Car Voice Assistant - Voicebot.ai",
+      "description": "Navigation tech developer TomTom and Microsoft have collaborated on a new generative AI vehicular voice assistant. The new voice assistant..",
+      "url": "https://voicebot.ai/2023/12/20/microsoft-and-tomtom-unveil-generative-ai-car-voice-assistant/",
+      "urlToImage": "http://voicebot.ai/wp-content/uploads/2023/12/tomtom-microsoft.png",
+      "publishedAt": "2023-12-20T20:00:30Z",
+      "content": "Navigation tech developer TomTom and Microsoft have collaborated on a new generative AI vehicular voice assistant. The new voice assistant will offer controls for a car’s entertainment, environment, … [+3335 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Snider",
+      "title": "Apple iPhone users, time to update your iOS software again. This time to fix unspecified bugs - USA TODAY",
+      "description": "The new Apple iOS software update 17.2.1 for iPhones and Safari 17.2.1 for Mac computers, released Tuesday, is meant to fix bugs, the company says.",
+      "url": "https://www.usatoday.com/story/tech/2023/12/20/apple-iphone-update-ios-17-2-1/71986822007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/12/USAT/6cf3be59-7123-4b38-bab5-1ccba07fe9c3-VPC_APPLE_IPHONE_15_courtesy_apple.jpg?crop=1911,1075,x8,y0&width=1911&height=1075&format=pjpg&auto=webp",
+      "publishedAt": "2023-12-20T19:19:26Z",
+      "content": "Just a week after Apple issued a substantial software update for iPhones and iPads, the tech giant wants iPhone users to update again.\r\nThe security iOS 17.2.1 update, which was released Tuesday, is … [+2500 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Apple's immersive next-gen CarPlay will start with Porsche and Aston Martin - The Verge",
+      "description": "Porsche and Aston Martin plan to support Apple’s next-gen CarPlay that takes over every screen starting next year, bringing the “ultimate iPhone experience.”",
+      "url": "https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rJY9UqyDt4q2VMYeOL1mHcPmzwk=/0x0:4000x2250/1200x628/filters:focal(2000x1125:2001x1126)/cdn.vox-cdn.com/uploads/chorus_asset/file/25176930/Apple_Aston_Martin_CarPlay_01__1_.jpg",
+      "publishedAt": "2023-12-20T19:15:10Z",
+      "content": "Apples immersive next-gen CarPlay will start with Porsche and Aston Martin\r\nApples immersive next-gen CarPlay will start with Porsche and Aston Martin\r\n / 2024 vehicles from high-end automakers will … [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jennifer Gould",
+      "title": "Here's how many millions of dollars NYC's priciest studio unit just sold for - New York Post ",
+      "description": "At the Mandarin Oriental Residences, at 685 Fifth Ave., a local buyer splashed a pretty penny all-cash to own a 691-square-foot studio dwelling.",
+      "url": "https://nypost.com/2023/12/20/real-estate/new-york-citys-priciest-studio-just-sold-for-3-88-million/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/newspress-collage-ijjwbn5wl-1703101891186.jpg?quality=75&strip=all&1703083935&w=1024",
+      "publishedAt": "2023-12-20T19:09:00Z",
+      "content": "How many millions of dollars would you splurge to live in luxury — and in a New York City studio apartment? \r\nSomeone paid an eye-popping $3.88 million for one in an all-cash deal. They might even th… [+3073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pnas.org"
+      },
+      "author": "pnas.org",
+      "title": "Why the simplest explanation isn't always the best | Proceedings of the National Academy of Sciences - pnas.org",
+      "description": null,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2319169120",
+      "urlToImage": null,
+      "publishedAt": "2023-12-20T18:58:50Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Levi Winslow",
-      "title": "The Most Anticipated Video Games Of 2024, From Kotaku Readers - Kotaku",
-      "description": "Folks have their eyes set on Final Fantasy VII Rebirth, Hellblade II, S.T.A.L.K.E.R. 2, and more",
-      "url": "https://kotaku.com/most-anticipated-video-games-2024-kotaku-1851112338",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/75879f68a0709d82429a86d9b3bbc840.jpg",
-      "publishedAt": "2023-12-19T20:15:00Z",
-      "content": "We recently asked you, dear Kotaku readers, what your most anticipated games of 2024 might be. The list yall presented mirrors some of the titles Im stoked about, but you also shared a bunch of games… [+1108 chars]"
+      "author": "Ethan Gach",
+      "title": "Spider-Man 2 Studio Has Big Plans And Big Challenges - Kotaku",
+      "description": "Internal documents show how a big PlayStation studio plans its future",
+      "url": "https://kotaku.com/what-hacked-files-tell-us-about-the-studio-behind-spide-1851115233",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/86e6e6444a67f02fdc0565f258127b34.jpg",
+      "publishedAt": "2023-12-20T18:45:00Z",
+      "content": "Insomniac Games quickly established itself as one of the most prolific studios within PlayStation after Sony acquired it for what seems like a bargain at $229 million four years ago. 2020's Spider-Ma… [+7811 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "First wave of AAA iPhone games sees a big new release—and a notable delay - Ars Technica",
+      "description": "The first of three major AAA game releases for the iPhone has arrived.",
+      "url": "https://arstechnica.com/gaming/2023/12/first-wave-of-aaa-iphone-games-sees-a-big-new-release-and-a-notable-delay/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-20-120340-760x380.png",
+      "publishedAt": "2023-12-20T18:31:31Z",
+      "content": "67\r\nThe trailer for Resident Evil 4 on iOS\r\nApple's AAA gaming ambitions for the iPhone 15 Pro saw both a release and a delay this week.\r\nWhen Apple unveiled the iPhone 15 Pro and touted its AAA gami… [+2978 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phoronix"
+        "name": "Nintendo Life"
       },
-      "author": null,
-      "title": "Intel Core Ultra 7 155H Meteor Lake vs. AMD Ryzen 7 7840U On Linux In 300+ CPU Benchmarks Review - Phoronix",
-      "description": "Last week Intel launched their Core Ultra 'Meteor Lake' notebook processors.",
-      "url": "https://www.phoronix.com/review/intel-core-ultra-7-155h-linux",
-      "urlToImage": "https://www.phoronix.net/image.php?id=intel-core-ultra-7-155h-linux&image=core_ultra_1",
-      "publishedAt": "2023-12-19T20:07:24Z",
-      "content": "Last week Intel launched their Core Ultra \"Meteor Lake\" notebook processors. Genuinely very curious about the performance potential under Linux along with various features of these new mobile SoCs li… [+3633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "Can Apple Finally Make Mac Gaming Stick? - Gizmodo",
-      "description": "Apple has tried to push gaming before, but it will need more than Resident Evil 4 to put Mac gaming on the map.",
-      "url": "https://gizmodo.com/apple-macbook-iphone-gaming-xbox-playstation-1851109277",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/127f9af75e33194a9bcafbddf8070315.png",
-      "publishedAt": "2023-12-19T20:05:00Z",
-      "content": "This story is part of our new Future of Gaming series, a three-site look at gamings most pioneering technologies, players, and makers.\r\nApple and gaming. For decades, youd be laughed at trying to use… [+11088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Adnan Farooqui",
-      "title": "Galaxy S23 Ultra 12-month review: The champ stays on the throne! - SamMobile - Samsung news",
-      "description": "It's almost been a year since Samsung unveiled the Galaxy S23 Ultra. There's no doubt that it was one of ...",
-      "url": "https://www.sammobile.com/news/galaxy-s23-ultra-12-month-review-the-champ-stays-on-the-throne/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/02/Galaxy-S23-Ultra-review-2-720x405.jpg",
-      "publishedAt": "2023-12-19T19:36:00Z",
-      "content": "It's almost been a year since Samsung unveiled the Galaxy S23 Ultra. There's no doubt that it was one of the finest Android flagship phones released in 2023. As we look towards its successor's debut … [+1819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Jesse Hollington",
-      "title": "How to use your iPhone’s new Journal app in iOS 17.2 - Digital Trends",
-      "description": "Apple's iOS 17.2 update has arrived with its highly anticipated Journal app. Here's how to get everything out of the new journalling experience.",
-      "url": "https://www.digitaltrends.com/mobile/how-to-use-iphone-journal-app-ios-17-2/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/11/Apple-Journal-app_0465.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-12-19T19:00:19Z",
-      "content": "When Apple unveiled iOS 17 in June, it came with the announcement of Journal, a surprising new first-party app to help you record your lifes journey.\r\nAlthough Apple made it clear that Journal wouldn… [+14229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Halowaypoint.com"
-      },
-      "author": "Alex Wakeford",
-      "title": "Winter Contingency III Operation Launch | Halo - Official Site (en) - Halo Waypoint",
-      "description": "<p>Rockin’ around Zeta HaloAt the all-night customs hop,Rockets spawn where you can see,Every teammate tries to stop! The Winter Contingency III Operation is here! From December 19 through January 30, you can deck your Spartan and arsenal out with 20 tiers of…",
-      "url": "https://www.halowaypoint.com/news/winter-contingency-iii-operation-launch",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2023/12/WCIII_Operation.jpg",
-      "publishedAt": "2023-12-19T18:41:51Z",
-      "content": "Rockin' around Zeta HaloAt the all-night customs hop,Rockets spawn where you can see,Every teammate tries to stop!\r\nThe Winter Contingency III Operation is here! From December 19 through January 30, … [+4687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Kyle Hilliard",
-      "title": "The Final Fantasy VII Rebirth Digital Issue Is Now Live! - Game Informer",
-      "description": "If you subscribe to the digital edition of Game Informer, you can now read all about Final Fantasy VII Rebirth and more!",
-      "url": "https://www.gameinformer.com/digital-issue/2023/12/19/the-final-fantasy-vii-rebirth-digital-issue-is-now-live",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/12/18/4331411c/362_issuelive_webhero.jpg",
-      "publishedAt": "2023-12-19T18:38:00Z",
-      "content": "If you subscribe to the digital edition of Game Informer, you can now learn all about Final Fantasy VII Rebirth! Following the cover reveal our digital issue is now live on web browsers, iPad/iPhone,… [+522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "The Intel Problem: CPU Efficiency & Power Consumption - Gamers Nexus",
-      "description": "GRAB A BRAND NEW GN15 MOUSE MAT! https://store.gamersnexus.net/products/15-yr-mouse-mat (black/blue/yellow and available in signed or unsigned!) or consider ...",
-      "url": "https://www.youtube.com/watch?v=9WRF2bDl-u8",
-      "urlToImage": "https://i.ytimg.com/vi/9WRF2bDl-u8/maxresdefault.jpg",
-      "publishedAt": "2023-12-19T18:25:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "MacRumors",
-      "title": "Apple Releases iOS 17.2.1 With Bug Fixes - MacRumors",
-      "description": null,
-      "url": "https://www.macrumors.com/2023/12/19/apple-releases-ios-17-2-1/",
-      "urlToImage": null,
-      "publishedAt": "2023-12-19T18:16:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Ryan Dinsdale",
-      "title": "Mass Effect Writer Explains Why He Left BioWare - IGN",
-      "description": "Former Mass Effect writer Mac Walters has explained why he left the BioWare after 19 years, with several factors contributing to his deciding to go.",
-      "url": "https://www.ign.com/articles/mass-effect-writer-explains-why-he-left-bioware",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/23/mass-effect-legendary-edition-blogroll-1608133731075-1674478486620.jpg?width=1280",
-      "publishedAt": "2023-12-19T18:16:36Z",
-      "content": "Former Mass Effect writer Mac Walters has explained why he left the BioWare after 19 years, with several factors contributing to his deciding to go.\r\nSpeaking to MinnMax, Walters cited his long tenur… [+2517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Shaurya Sharma",
-      "title": "Apple Watch BANNED! Apple Cannot Sell These Models In US: Here's What Happened - News18",
-      "description": "Apple Watch models 9 and Ultra 2 face regulatory pressure that could force the company from selling the devices in the US from this week.",
-      "url": "https://www.news18.com/tech/apple-can-no-longer-sell-apple-watch-series-9-ultra-2-in-us-amid-patent-dispute-8709024.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/apple-watch-series-9-ultra-2-2023-12-dd4db3ee9ffeb59403c94eaf29348e2c-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-12-19T18:10:49Z",
-      "content": "Apple will no longer be permitted to sell its latest Apple Watch Series 9 and the Apple Watch Ultra 2 smartwatches in the United States beginning on December 21, with the last permissible pickup or d… [+2075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Valeo.com"
-      },
-      "author": "fbilly@wordappeal.com",
-      "title": "Valeo Unveils Groundbreaking Innovations at CES 2024, Paving the Way for Greener, Safer Mobility for All, Everywhere - Valeo",
-      "description": "Valeo, a pioneer in automotive technology, will showcase a range of cutting-edge innovations at CES 2024, solidifying its commitment to shaping the future of mobility.",
-      "url": "https://www.valeo.com/en/valeo-unveils-groundbreaking-innovations-at-ces-2024-paving-the-way-for-greener-safer-mobility-for-all-everywhere/",
-      "urlToImage": "https://www.valeo.com/wp-content/uploads/2019/10/logo-1.png",
-      "publishedAt": "2023-12-19T18:04:31Z",
-      "content": "Valeo Group | 19 Dec, 2023\r\n| 5 min\r\nValeo, a pioneer in automotive technology, will showcase a range of cutting-edge innovations at CES 2024, solidifying its commitment to shaping the future of mobi… [+4 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "Patch Notes for Update 3.0.0. — Warcraft Rumble — Blizzard News - Blizzard News",
-      "description": "Dive into double the chaos in Update 3.0.0 and Season 2 with our latest Beast Troop, Chimaera! Check out our latest PvP map, Arathi Basin, and two new emotes. We&#39;ve increased Leader Honor in PvP, the number of Mini copies earned from PvP Honor rewards, an…",
-      "url": "https://news.blizzard.com/en-us/warcraftrumble/24042878/patch-notes-for-update-3-0-0",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/e7/E75PF0W19CZR1702425240903.png",
-      "publishedAt": "2023-12-19T18:01:52Z",
-      "content": "Dive into double the chaos in Update 3.0.0 and Season 2 with our latest Beast Troop, Chimaera! Check out our latest PvP map, Arathi Basin, and two new emotes. We've increased Leader Honor in PvP, the… [+5279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Swastik Sharma",
-      "title": "5 reasons to own Cypher in GTA Online - Sportskeeda",
-      "description": "GTA Online has a plethora of vehicles that offer a wide range of options, ranging from supercars made for speed to offroading monsters that tackle uneven terrain.",
-      "url": "https://www.sportskeeda.com/gta/5-reasons-cypher-gta-online",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/d7fa2-17029964423815-1920.jpg",
-      "publishedAt": "2023-12-19T18:00:00Z",
-      "content": "GTA Online has a plethora of vehicles that offer a wide range of options, ranging from supercars made for speed to offroading monsters that tackle uneven terrain. However, newbies might not be famili… [+4791 chars]"
+      "author": "Alana Hagues",
+      "title": "Sega Reveals New Details For Shinobi, Jet Set Radio, Streets Of Rage Revivals - Nintendo Life",
+      "description": "Crazy Taxi & Golden Axe feature, too",
+      "url": "https://www.nintendolife.com/news/2023/12/sega-reveals-new-details-for-shinobi-jet-set-radio-streets-of-rage-revivals",
+      "urlToImage": "https://images.nintendolife.com/35d205d164f9a/1280x720.jpg",
+      "publishedAt": "2023-12-20T18:30:00Z",
+      "content": "Image: SEGA\r\nSega has published its Management Meeting 2023 Presentation slides, which give us a few more small details about its plans to revive some of its classic franchises (via Gematsu).\r\nThe qu… [+2631 chars]"
     }
   ]
 }
