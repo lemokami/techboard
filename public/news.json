@@ -1,71 +1,162 @@
 {
   "status": "ok",
-  "totalResults": 222,
+  "totalResults": 228,
   "articles": [
     {
       "source": {
         "id": null,
+        "name": "Samsung.com"
+      },
+      "author": null,
+      "title": "Samsung Opens Galaxy Experience Spaces, Inviting Fans Into the New Era of Galaxy AI - Samsung Global Newsroom",
+      "description": "Experiential spaces in eight cities will allow users to immerse themselves in new Galaxy AI features on upcoming Samsung Galaxy devices",
+      "url": "https://news.samsung.com/global/samsung-opens-galaxy-experience-spaces-inviting-fans-into-the-new-era-of-galaxy-ai",
+      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2024/01/Galaxy-Experience-Space-Open_thumb728.jpg",
+      "publishedAt": "2024-01-10T23:05:03Z",
+      "content": "Samsung Electronics today announced it is opening new Galaxy Experience Spaces around the world to showcase how Galaxy AI enables new ways to connect, create and play. The spaces opening after Galaxy… [+2511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Interesting Engineering"
+      },
+      "author": "Amal Jos Chacko",
+      "title": "Rabbit's AI device crosses day 1 target sales by 20X - Interesting Engineering",
+      "description": "Santa Monica-based AI start-up Rabbit announced a second round of pre-sale following a whopping success in the first round.",
+      "url": "https://interestingengineering.com/innovation/hot-bunny-alert-rabbit-r1-surpasses-10000-units-on-day-1",
+      "urlToImage": "https://dnd2oi6izkvoi.cloudfront.net/2024/01/10/image/jpeg/gyUd6rQCfDOD7gop5iWn8hSRro9UAAf47n9XckAr.jpg",
+      "publishedAt": "2024-01-10T23:02:00Z",
+      "content": "When Santa Monica-based AI startup Rabbit showcased their latest innovation at CES 2024, they set a target of 500 units. \r\nHowever, they sold 10,000 on the first day of pre-sale. \r\nYou heard that rig… [+560 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Everything Samsung announced at CES 2024, from the Ballie robot to a transparent MicroLED screen - Engadget",
+      "description": "Samsung is hosting a press conference at CES this year and it’s going to feature plenty of AI. The whole thing goes down on January 8 at 5PM ET and you can...",
+      "url": "https://www.engadget.com/everything-samsung-announced-at-ces-2024-from-the-ballie-robot-to-a-transparent-microled-screen-220053813.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7X_Qyv9tOhHw1Jm.RGeJZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/ee471420-9f5b-11ee-bdfd-8c094aea06ac",
+      "publishedAt": "2024-01-10T22:33:59Z",
+      "content": "The holidays are over, but theres one winter tradition left. CES is back, once again turning Las Vegas into a haven for the tech-obsessed. Samsung is holding its annual CES press conference on Januar… [+2619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Samsung Galaxy S24 family to come with more touch responsive displays - GSMArena.com news - GSMArena.com",
+      "description": "This would improve perceived smoothness. A week before the Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra are set to become official at Samsung's next...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s24_family_to_come_with_more_touch_responsive_displays-news-61181.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/01/samsung-galaxy-s24-series-improved-touch-response/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-01-10T22:29:01Z",
+      "content": "A week before the Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra are set to become official at Samsung's next Unpacked event in San Jose, California, more details are pouring in. The latest rumor is a… [+1148 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Andy Golder",
+      "title": "17 Old Person Traits Young People Agree With Boomers On - BuzzFeed",
+      "description": "\"I get an unrelenting blackout rage every time I click on 'pay my bill' and it takes me to the app download screen.\"",
+      "url": "https://www.buzzfeed.com/andyneuenschwander/people-are-sharing-their-old-person-trait-and-it-proves",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-01/8/23/enhanced/1e517590677c/original-484-1704755077-2.jpg?crop=1250:654;0,45%26downsize=1250:*",
+      "publishedAt": "2024-01-10T21:16:02Z",
+      "content": "kraftmacaroniandbeez\r\n\"Oh my god, I was scanning the comments to see if someone mentioned touch screens in cars before I went off on it. \r\nI recently had to retire my 1996 Geo Prizm (RIP), and obviou… [+787 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Charlie Wacholz",
+      "title": "Blizzard Reveals Diablo 4 Season 3's Release Date - IGN",
+      "description": "Blizzard has seemingly confirmed the launch date for Diablo 4's next season.",
+      "url": "https://www.ign.com/articles/diablo-4-season-3-release-date",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/04/20/diablo4-interview-blogroll-1682010154221.jpg?width=1280",
+      "publishedAt": "2024-01-10T21:15:35Z",
+      "content": "Diablo IV's next season is starting on January 23 according to an update on the game's login screen.\r\nEven though it doesn't have a title, Blizzard has seemingly confirmed that Diablo IV Season 3 wil… [+1796 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Rabbit sells out 10000 units of its R1 pocket AI companion in one day - The Verge",
+      "description": "The Teenage Engineering-designed Rabbit R1 AI companion device is already taking preorders for a second production run.",
+      "url": "https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u9ryDkVDvnm0l5ukXoR6lywUlEI=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25214919/IMG_6029.JPG",
+      "publishedAt": "2024-01-10T21:11:26Z",
+      "content": "Rabbit sells out 10,000 units of its R1 pocket AI companion in one day\r\nRabbit sells out 10,000 units of its R1 pocket AI companion in one day\r\n / Preorders have opened for a second production run of… [+1507 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Rebekah Valentine",
+      "title": "A Creepy AI Mario Hologram Is Haunting CES 2024 - IGN",
+      "description": "The Consumer Electronics Show (CES) is currently going on in Las Vegas, and great news — it looks like everyone's favorite pal Mario is in attendance. But bad news too, he's a creepy AI Mario, and we hate him.",
+      "url": "https://www.ign.com/articles/a-creepy-ai-mario-hologram-is-haunting-ces-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/02/mario-movie-pratt-trailer-director-says-perfect-1677717657530.jpg?width=1280",
+      "publishedAt": "2024-01-10T20:59:18Z",
+      "content": "The Consumer Electronics Show (CES) is currently going on in Las Vegas, and great news it looks like everyone's favorite pal Mario is in attendance. But bad news too, he's a creepy AI Mario, and we h… [+4530 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Sam Rutherford",
+      "title": "The $2,000 ASUS ZenScreen Fold solves the biggest issue with portable monitors - Engadget",
+      "description": "At CES 2024, ASUS solved one of the biggest issues with portable monitors with the ZenScreen Fold, which can bend in half for traveling.",
+      "url": "https://www.engadget.com/the-2000-asus-zenscreen-fold-solves-the-biggest-issue-with-portable-monitors-ces-2024-204009822.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7ltTGONkZKZQyP9VvEBS_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/edfd68c0-aff5-11ee-bdd9-00229d6f29bc",
+      "publishedAt": "2024-01-10T20:40:09Z",
+      "content": "When Im away from home and dont have access to my big desktop displays, it feels like Im missing a limb. Unfortunately, theres a limit to how big a portable monitor can really be. After a certain poi… [+6336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "Samsung's Ballie robot ball showed up at CES 2024 with a new look and a built-in projector - Engadget",
-      "description": "It wouldn't be CES without Samsung showing off a strange and strangely lovable robot, and this year is the same. At its CES 2024 press conference today, the ...",
-      "url": "https://www.youtube.com/watch?v=gGDF5R20tkM",
-      "urlToImage": "https://i.ytimg.com/vi/gGDF5R20tkM/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T21:56:44Z",
+      "title": "Anomaly Agent – Release Date Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Anomaly Agent is coming to Nintendo Switch January 25th! Jump into a cyberpunk action-platformer featuring fluid combat, a time-bending story, quirky charact...",
+      "url": "https://www.youtube.com/watch?v=r35kuG03EtI",
+      "urlToImage": "https://i.ytimg.com/vi/r35kuG03EtI/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T20:00:19Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Wccftech"
       },
-      "author": null,
-      "title": "Take a Tour of Samsung's Massive Booth at CES 2024 - CNET",
-      "description": "At CES 2024, CNET's David Katmaier takes a tour of Samsung's interactive booth which includes new giant TVs, gaming gadgets and home appliances.Subscribe to ...",
-      "url": "https://www.youtube.com/watch?v=Yc88RtaaMeU",
-      "urlToImage": "https://i.ytimg.com/vi/Yc88RtaaMeU/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T21:32:38Z",
-      "content": null
+      "author": "Nathan Birch",
+      "title": "Wccftech’s Most Anticipated Action Games of 2024 – Battles Go Big - Wccftech",
+      "description": "2024's top action games aim big, with open-worlds, cutting-edge visuals, and lots of spectacle. Here's Wccftech's most anticipated actioners.",
+      "url": "https://wccftech.com/wccftech-most-anticipated-action-2024/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/01/WCCFanticipated2024action.jpg",
+      "publishedAt": "2024-01-10T20:00:00Z",
+      "content": "After the packed year that was 2023, it feels like 2024 may be a bit more of a bridge year, although theres still plenty for the action fan to look forward to over the next 12 months. A lot of this y… [+5032 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "ZDNet"
       },
-      "author": "Zack Zwiezen",
-      "title": "'Pokémon With Guns' Coming To Xbox Game Pass Next Week - Kotaku",
-      "description": "Palworld’s dark, violent, and capitalist spin on Pokémon arrives soon via early access",
-      "url": "https://kotaku.com/pokemon-with-guns-palworld-release-date-game-pass-xbox-1851153320",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/632d2771ff9b8b298265ee5db4881740.jpg",
-      "publishedAt": "2024-01-09T21:00:00Z",
-      "content": "Palworld aka that game that looks a lot like Pokémon but with guns, is launching soon in early access as revealed in a new trailer. Oh and also, it will be available on Game Pass on day one. Finally,… [+1940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "CES 2024 Day 2: Transparent TVs From LG, OtterBox's Cactus Leather, Lockly Smart Locks and More - MacRumors",
-      "description": "CES is underway in Las Vegas, and while it's been overshadowed by Apple's Vision Pro launch date announcement, there are still plenty of...",
-      "url": "https://www.macrumors.com/2024/01/09/ces-2024-day-2-recap/",
-      "urlToImage": "https://images.macrumors.com/t/GxTc5mPEJ3I5DpMpMRE49cUs518=/1920x/article-new/2024/01/CES-2024-Day-1-Thumbnail-3.jpg",
-      "publishedAt": "2024-01-09T20:42:49Z",
-      "content": "CES is underway in Las Vegas, and while it's been overshadowed by Apple's Vision Pro launch date announcement, there are still plenty of interesting new products to look at. MacRumors videographer Da… [+1374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Swastik Sharma",
-      "title": "Should Grotti Itali GTO Stinger TT return in GTA 6: Here's why not - Sportskeeda",
-      "description": "GTA Online has featured tons of vehicles over the years. However, a few selections, despite having speed and looks, did not appeal to the fans.",
-      "url": "https://www.sportskeeda.com/gta/should-grotti-itali-gto-stinger-tt-return-gta-6-here-s",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/01/e7eeb-17048150046480-1920.jpg",
-      "publishedAt": "2024-01-09T20:19:00Z",
-      "content": "GTA Online has featured tons of vehicles over the years. However, a few selections, despite having speed and looks, did not appeal to the fans. With Grand Theft Auto 6 on the horizon, many are wonder… [+2664 chars]"
+      "author": "Jada Jones",
+      "title": "The best headphones of CES 2024 so far - ZDNet",
+      "description": "CES 2024 may not be packed with many headphone announcements, but the ones that made an appearance will surely cater to every kind of audio enthusiast.",
+      "url": "https://www.zdnet.com/article/the-best-headphones-so-far-of-ces-2024/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/512b53e1ff7af813c73f5fdbe6840f2a2260800a/2024/01/09/b781996f-1bb5-40e4-91cb-cdd2838a7683/ces-sign-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-01-10T19:25:00Z",
+      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
     },
     {
       "source": {
@@ -73,11 +164,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Mercedes CTO on AI, Autonomous Driving - Bloomberg Technology",
-      "description": "Markus Schaefer, Mercedes-Benz Group CTO, discusses the incorporation of generative AI into the company's vehicles. He speaks with Ed Ludlow on \"Bloomberg Te...",
-      "url": "https://www.youtube.com/watch?v=-sI2DFwi1Hw",
-      "urlToImage": "https://i.ytimg.com/vi/-sI2DFwi1Hw/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T19:47:17Z",
+      "title": "Asus' new dual-screen and gaming laptops are seriously impressive - CNN",
+      "description": "CES 2024 First Look. Our tech team got their hands on two new laptops from Asus that seriously impressed us. These could be two of the best laptops of 2024. ...",
+      "url": "https://www.youtube.com/watch?v=IrSpFYA9rc4",
+      "urlToImage": "https://i.ytimg.com/vi/IrSpFYA9rc4/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T19:06:44Z",
       "content": null
     },
     {
@@ -85,26 +176,13 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Andrew J. Hawkins",
-      "title": "Mercedes-Benz taps Will.i.am to create an “interactive musical experience” for its cars - The Verge",
-      "description": "Mercedes-Benz and Will.i.am are joining forces to create bespoke musical compositions for specific driving functions, creating an interactive musical experience for the automaker’s cars.",
-      "url": "https://www.theverge.com/2024/1/9/24026661/mercedes-sound-drive-mbux-william-black-eyed-peas-ces",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/e-tqHnZPwRChOnqQWx_IChzHhhk=/0x0:4500x3000/1200x628/filters:focal(2250x1500:2251x1501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25206115/24C0019_003.jpg",
-      "publishedAt": "2024-01-09T19:30:00Z",
-      "content": "Mercedes-Benz taps Will.i.am to create an interactive musical experience for its cars\r\nMercedes-Benz taps Will.i.am to create an interactive musical experience for its cars\r\n / Lo-fi beats to drive t… [+3713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "Microsoft January 2024 Patch Tuesday fixes 49 flaws, 12 RCE bugs - BleepingComputer",
-      "description": "Today is Microsoft's January 2024 Patch Tuesday, which includes security updates for a total of 49 flaws and 12 remote code execution vulnerabilities.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2024-patch-tuesday-fixes-49-flaws-12-rce-bugs/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/12/13/patch-tuesday-header.jpg",
-      "publishedAt": "2024-01-09T19:05:17Z",
-      "content": "Today is Microsoft's January 2024 Patch Tuesday, which includes security updates for a total of 49 flaws and 12 remote code execution vulnerabilities.\r\nOnly two vulnerabilities were classified as cri… [+10712 chars]"
+      "author": "Jay Peters",
+      "title": "The first Steam Deck competitor with SteamOS is almost here - The Verge",
+      "description": "The Ayaneo Next Lite will have Valve’s SteamOS preinstalled, unlike the company’s other handheld gaming PCs that have typically shipped with Windows.",
+      "url": "https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2AQWOWo-eDrmB8eiDhL7BLI-gMw=/0x0:1280x1090/1200x628/filters:focal(671x748:672x749)/cdn.vox-cdn.com/uploads/chorus_asset/file/25217016/e4aee202401101823101293.png",
+      "publishedAt": "2024-01-10T18:44:05Z",
+      "content": "The first Steam Deck competitor with SteamOS is almost here\r\nThe first Steam Deck competitor with SteamOS is almost here\r\n / The Ayaneo Next Lite launches soon, but we still dont know a lot about it.… [+1557 chars]"
     },
     {
       "source": {
@@ -112,37 +190,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Proof Is Out There: Alien's HACK OUR PLANET With New Technology (Season 3) - HISTORY",
-      "description": "Are aliens hacking into our electronic devices? See more in this scene from Season 3, Episode 20, \"Alien Sabotage, Ghost Child and Hungry Hungry Sasquatch.\"W...",
-      "url": "https://www.youtube.com/watch?v=VcgvD2oLAf4",
-      "urlToImage": "https://i.ytimg.com/vi/VcgvD2oLAf4/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T19:00:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Devin Coldewey",
-      "title": "Can a striking design set rabbit’s r1 pocket AI apart from a gaggle of virtual assistants? - TechCrunch",
-      "description": "In a sea of AI-enabled gadgets at CES, the rabbit r1 (all lowercase, they insist) stands out not just for its high-vis paint job and unique form factor,",
-      "url": "https://techcrunch.com/2024/01/09/can-a-striking-design-set-rabbits-r1-pocket-ai-apart-from-a-gaggle-of-virtual-assistants/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/rabbit-chris.jpg?resize=1200,864",
-      "publishedAt": "2024-01-09T18:39:17Z",
-      "content": "In a sea of AI-enabled gadgets at CES, the rabbit r1 (all lowercase, they insist) stands out not just for its high-vis paint job and unique form factor, but because of its dedication to the bit. The … [+8336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Samsung’s 3,000-Nit QD-OLED Hides a Secret Weapon | CES 2024 - Digital Trends",
-      "description": "We show you how Samsung Display pushed their QD-OLED panels up to 3,000 nits by working smarter, not harder. Also, say goodbye to color fringing on QD-OLED P...",
-      "url": "https://www.youtube.com/watch?v=Tn7yBUku0WY",
-      "urlToImage": "https://i.ytimg.com/vi/Tn7yBUku0WY/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T18:23:47Z",
+      "title": "HW News - New AMD RX 7600 XT, MSI Founders Edition Alternative, The Claw Handheld - Gamers Nexus",
+      "description": "Sponsor: Thermal Grizzly Kryosheets https://geni.us/53ArNb and Thermal Grizzly Hydronaut Paste (Amazon - https://geni.us/Fsray )This news recap covers some o...",
+      "url": "https://www.youtube.com/watch?v=xK9eLcW9crc",
+      "urlToImage": "https://i.ytimg.com/vi/xK9eLcW9crc/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T18:23:27Z",
       "content": null
     },
     {
@@ -151,116 +203,64 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "MSI Claw hands-on at CES 2024: An Intel-powered gaming handheld - Engadget",
-      "description": "Between the ASUS ROG Ally, the Lenovo Legion Go and the Steam Deck, AMD has a virtual monopoly over the chips powering high-end gaming handhelds. But for the...",
-      "url": "https://www.youtube.com/watch?v=rOol_QXrzTQ",
-      "urlToImage": "https://i.ytimg.com/vi/rOol_QXrzTQ/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T18:12:04Z",
+      "title": "TCL’s 2024 TV Lineup Makes It a Fan Favorite | CES 2024 - Digital Trends",
+      "description": "TCL not only came to CES with a huge lineup of TVs, it is also throwing some shade at the competition, claiming it will only use mini-LED when it means real ...",
+      "url": "https://www.youtube.com/watch?v=jq-cmxiPgH0",
+      "urlToImage": "https://i.ytimg.com/vi/jq-cmxiPgH0/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T18:19:59Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Livemint"
       },
-      "author": "Abner Li",
-      "title": "Fast Pair for Chromecast with Google TV is almost here - 9to5Google",
-      "description": "At CES 2024, Google has a number of television announcements, including Fast Pair rolling out to the Chromecast with Google TV...",
-      "url": "https://9to5google.com/2024/01/09/fast-pair-chromecast-google-tv/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/Fast-Pair-Chromecast-wtih-Google-TV.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-01-09T18:01:00Z",
-      "content": "At CES 2024, Google has a number of Chromecast and television announcements, including how Fast Pair is rolling out to the Chromecast with Google TV very soon.\r\nFirst shown at CES 2022, Fast Pair sup… [+1302 chars]"
+      "author": "Shouvik Das",
+      "title": "Tracking cookies: Does Google care about your privacy? | Mint - Mint",
+      "description": "Google has started testing its Privacy Sandbox initiative for Chrome. By ending cookies, the tech giant wants people to believe that it will boost user privacy",
+      "url": "https://www.livemint.com/industry/infotech/tracking-cookies-does-google-care-about-your-privacy-11704910262596.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/01/10/1600x900/google_chrome_istock_1704910354205_1704910367514.jpg",
+      "publishedAt": "2024-01-10T18:18:30Z",
+      "content": "Google has started testing its Privacy Sandbox initiative for Chrome. By ending cookies, Google wants people to believe that it will boost user privacy. Mint analyses what the move means for advertis… [+2839 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: LG Display's next-gen OLEDs are 42 percent brighter than its predecessors - Engadget",
+      "description": "The biggest news stories this morning:  This e-bike has integrated ChatGPT, Rabbit R1 is a very different AI-powered virtual assistant, OpenAI admits it’s...",
+      "url": "https://www.engadget.com/the-morning-after-lg-displays-next-gen-oleds-are-42-percent-brighter-than-its-predecessors-181523507.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EBvIblUnYz83mbEVD_p4ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/673b0a30-af24-11ee-ba36-9c103d09e5ec",
+      "publishedAt": "2024-01-10T18:15:23Z",
+      "content": "LG Display came to CES 2024 with something to prove. Its showroom in Las Vegas had transparent OLEDs, a 480Hz gaming monitor and the company's most advanced OLED panels yet, featuring its META techno… [+3434 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "9to5Mac"
       },
-      "author": null,
-      "title": "Helldivers 2 - Official PC Features Trailer - IGN",
-      "description": "Check out the Helldivers 2 PC features trailer. Helldivers 2 is a third-person action co-op shooter developed by Arrowhead Game Studios. Players will join th...",
-      "url": "https://www.youtube.com/watch?v=p6eceZzGy0M",
-      "urlToImage": "https://i.ytimg.com/vi/p6eceZzGy0M/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T18:00:32Z",
-      "content": null
+      "author": "Zac Hall",
+      "title": "Apple releases iOS 17.3 beta 3 after pulling beta 2 [U: Public beta now available] - 9to5Mac",
+      "description": "iOS 17.3 beta 3 has arrived for developers. The pre-release software follows the botched iOS 17.3 beta 2 release that...",
+      "url": "https://9to5mac.com/2024/01/10/ios-17-3-beta-3/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/iOS-17.3-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-01-10T18:09:00Z",
+      "content": "iOS 17.3 beta 3 has arrived for developers. The pre-release software follows the botched iOS 17.3 beta 2 release that caused some iPhones to brick during installation. For iPhone users, the update in… [+531 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": null,
-      "title": "Asus Put Two 14-inch OLEDs in a Laptop, Unleashes First OLED ROG Gaming Laptop - CNET",
-      "description": "The new ROG Zephyrus G14 looks like it will continue to be a standout ultraportable gaming machine, while the twin-display Zenbook Duo will raise productivit...",
-      "url": "https://www.youtube.com/watch?v=ZIm8uC5RVfA",
-      "urlToImage": "https://i.ytimg.com/vi/ZIm8uC5RVfA/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T18:00:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Nearby Share on Android and laptops is becoming 'Quick Share' - 9to5Google",
-      "description": "Google is collaborating with Samsung to create a \"singular cross-Android solution\" called \"Quick Share\" and it begins rolling out next month.",
-      "url": "https://9to5google.com/2024/01/09/android-quick-share/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/Android-Quick-Share-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-01-09T18:00:00Z",
-      "content": "Nearby Share was officially announced in August of 2020 to let Android users locally send files from one device to another. Google is now “collaborating with Samsung” to create a “singular cross-Andr… [+1564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple Vision Pro Features 16GB of RAM and Likely Up to 1TB of Storage - MacRumors",
-      "description": "Apple's upcoming Vision Pro headset is equipped with 16GB of unified memory, according to files related to the device in Xcode 15.2.   Our...",
-      "url": "https://www.macrumors.com/2024/01/09/apple-vision-pro-how-much-ram-and-storage/",
-      "urlToImage": "https://images.macrumors.com/t/83SctGI3bNtmJzEqWVW9Ie4N4aA=/2000x/article-new/2023/06/apple-vision-pro-chips.jpg",
-      "publishedAt": "2024-01-09T17:53:45Z",
-      "content": "Apple's upcoming Vision Pro headset is equipped with 16GB of unified memory, according to files related to the device in Xcode 15.2.\r\nOur finding in the latest version of Apple's app development tool… [+1459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Abhijeet Mishra",
-      "title": "Galaxy S24 AI features coming to Galaxy S23, Fold 5, and Flip 5 in Q1 2024! - SamMobile - Samsung news",
-      "description": "With One UI 6.0 out for most eligible Galaxy phones and tablets, One UI 6.1 is the update that is ...",
-      "url": "https://www.sammobile.com/news/galaxy-s24-ai-features-galaxy-s23-fold-5-flip-5-q1-2024/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/08/Android-14-easter-egg-2-720x405.jpg",
-      "publishedAt": "2024-01-09T17:48:00Z",
-      "content": "With One UI 6.0 out for most eligible Galaxy phones and tablets, One UI 6.1 is the update that is going to keep us drooling over the next few weeks. One UI 6.1 will come with the Galaxy S24 series th… [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "LG Unveils Transparent OLED TV at CES 2024 - Gizmodo",
-      "description": "LG unveils a transparent OLED TV. Prepare to be broke getting gorgeous 77-inch The Signature OLED T.#lg #oled #ces2024 LG announced a new transparent TV at t...",
-      "url": "https://www.youtube.com/watch?v=KgHs8AjP4sY",
-      "urlToImage": "https://i.ytimg.com/vi/KgHs8AjP4sY/maxresdefault.jpg",
-      "publishedAt": "2024-01-09T16:52:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Xbox January Showcase Will Show First Indiana Jones Gameplay - Kotaku",
-      "description": "The new Indy adventure comes from Wolfenstein developer MachineGames",
-      "url": "https://kotaku.com/xbox-developer-direct-january-2023-indiana-jones-1851151880",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e26c64b7351700d642f95987e47b1685.jpg",
-      "publishedAt": "2024-01-09T16:30:00Z",
-      "content": "Xbox has announced its hosting a Developer_Direct to showcase some of its upcoming first-party games later this month, including a first look at the Indiana Jones game by Wolfenstein developer Machin… [+1677 chars]"
+      "author": "Jennifer Pattison Tuohy",
+      "title": "The Swarovski Optik AX Visio binoculars have built-in AI that identifies birds - The Verge",
+      "description": "These AI-supported Swarovski Optik binoculars shown at CES identify bird species as well as capture and share images, but the AX Visio will cost you $4,799.",
+      "url": "https://www.theverge.com/2024/1/10/24032871/ai-binoculars-swarovski-optic-ax-visio-ces-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SkZKw7DnguU9x7PYTmz2LhU8y5M=/0x0:2740x1476/1200x628/filters:focal(1370x738:1371x739)/cdn.vox-cdn.com/uploads/chorus_asset/file/25216802/Screenshot_2024_01_10_at_7.53.01_AM.png",
+      "publishedAt": "2024-01-10T18:00:11Z",
+      "content": "These smart binoculars can identify birds and animals for you\r\nThese smart binoculars can identify birds and animals for you\r\n / The Swarovski Optik AX Visio binoculars also capture videos and images… [+2206 chars]"
     }
   ]
 }
