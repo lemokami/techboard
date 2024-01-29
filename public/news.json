@@ -1,83 +1,148 @@
 {
   "status": "ok",
-  "totalResults": 255,
+  "totalResults": 282,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "VOA News"
+      },
+      "author": "VOA Learning English",
+      "title": "Apple’s Computer Launch Leads to Study of User Experience - VOA Learning English",
+      "description": "A professor at the University of Washington proposes that the launch of Apple’s Macintosh computer 40 years ago started the study of user experience. What are the skills that go into user experience?",
+      "url": "https://learningenglish.voanews.com/a/apple-s-computer-launch-leads-to-study-of-user-experience/7457547.html",
+      "urlToImage": "https://gdb.voanews.com/6df27416-531f-4df9-bc58-f6ab6a6cc720_cx0_cy6_cw0_w1200_r1.jpg",
+      "publishedAt": "2024-01-27T22:05:00Z",
+      "content": "Many people first heard about Apples Macintosh computer through a television commercial during the American football Super Bowl game in 1984.\r\nHowever, the commercial did not show a computer at all. … [+6088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Ruby Miranda",
+      "title": "5 Zodiac Signs Are Likely To Have Challebging Horoscopes This Week - YourTango",
+      "description": "This week is going to be slightly rough for three zodiac signs on January 29 - February 4, 2024.",
+      "url": "https://www.yourtango.com/2024370525/3-zodiac-signs-rough-weekly-horoscopes-january-29-february-4-2024",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/zodiac-signs-rough-weekly-horoscopes-january-29-february-4-2024.png",
+      "publishedAt": "2024-01-27T21:05:34Z",
+      "content": "We would be remiss to say this is actually going to be a rough week for anyone because whatever we need to go through during the week of January 29 - February 4, 2024, will ultimately lead to us lear… [+4988 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "The headset wars: Why it's Apple's to lose - CNBC Television",
-      "description": "Two tech titans are now duking it out in the headset wars. Apple's Vision Pro and Meta's Quests offer different price points, different specs, and most impor...",
-      "url": "https://www.youtube.com/watch?v=ndeVLCz3P2Q",
-      "urlToImage": "https://i.ytimg.com/vi/ndeVLCz3P2Q/maxresdefault.jpg",
-      "publishedAt": "2024-01-26T21:18:42Z",
+      "title": "Pokemon Co. May \"Investigate\" Palworld, GTA Last-Gen Rockstar Editor Ending, & More | IGN Weekly Fix - IGN",
+      "description": "Get the latest on this week's biggest headlines in games and entertainment! This week, we cover all the latest news on the massive success of Palworld, the P...",
+      "url": "https://www.youtube.com/watch?v=_m6fabq1KBs",
+      "urlToImage": "https://i.ytimg.com/vi/_m6fabq1KBs/maxresdefault.jpg",
+      "publishedAt": "2024-01-27T20:30:02Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "YouTube"
       },
-      "author": "Zeeshan Khan",
-      "title": "5 Best PUBG Mobile guns with the least weapon recoil - Sportskeeda",
-      "description": "Realistic gun mechanics and intense gameplay have cemented PUBG Mobile as a popular title.",
-      "url": "https://www.sportskeeda.com/esports/5-best-pubg-mobile-guns-least-weapon-recoil",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/01/6356d-17062819473765-1920.jpg",
-      "publishedAt": "2024-01-26T20:16:00Z",
-      "content": "Realistic gun mechanics and intense gameplay have cemented PUBG Mobile as a popular title. Regarding mechanics, recoil control is a crucial ability to master as it significantly affects performance a… [+3565 chars]"
+      "author": null,
+      "title": "United 1944 - Official Free Multiplayer Demo Trailer - IGN",
+      "description": "United 1944 is a WW2 survival first-person shooter developed by Novarama. Players can now access a free multiplayer demo featuring extraction-based Survival ...",
+      "url": "https://www.youtube.com/watch?v=Fn-7Z__2l_w",
+      "urlToImage": "https://i.ytimg.com/vi/Fn-7Z__2l_w/maxresdefault.jpg",
+      "publishedAt": "2024-01-27T19:30:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Tom Marks",
+      "title": "Where's Our Suicide Squad: Kill the Justice League Review? - IGN",
+      "description": "Review codes have not been sent out ahead of time.",
+      "url": "https://www.ign.com/articles/suicide-squad-kill-the-justice-league-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/15/suicidesquadkillthejusticeleagueepisode1developerdeepdive-ign-blogroll1-1700072768851.jpg?width=1280",
+      "publishedAt": "2024-01-27T19:29:20Z",
+      "content": "Suicide Squads early access period will start to go live around the world late Monday night on consoles (and 10am PT Tuesday on Steam), which means thats when its officially out, practically speaking… [+1239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizchina.com"
+      },
+      "author": "Marco Lancaster",
+      "title": "Realme 12 Pro to sport Sony IMX882 Camera and Snapdragon 6 Gen 1 - Gizchina.com",
+      "description": "Chinese Phone blog dedicated to providing breaking news, expert reviews, Chinese Phones, Android Apps, Chinese Android Tablets and how tos.",
+      "url": "https://www.gizchina.com/2024/01/27/realme-12-pro-to-sport-sony-imx882-camera-and-snapdragon-6-gen-1/",
+      "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2024/01/imagem_2024-01-27_150905659.png",
+      "publishedAt": "2024-01-27T18:25:41Z",
+      "content": "Realme will soon take an important step into the mid-range market with its Realme 12 series launch. The new smartphones will come to compete with the Redmi Note 13 series in the super-competitive seg… [+2293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Palworld dev's upcoming Metroidvania switches developer credit as it drops a new demo - Eurogamer.net",
+      "description": "Palworld developer Pocketpair has dropped a new Steam demo for its upcoming Metroidvania, Never Grave: The Witch and Th…",
+      "url": "https://www.eurogamer.net/palworld-devs-upcoming-metroidvania-switches-developer-credit-as-it-drops-a-new-demo",
+      "urlToImage": "https://assetsio.reedpopcdn.com/ss_2d0ed8af82388463342c3be572885778f1f5cedc.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-01-27T18:12:54Z",
+      "content": "Palworld developer Pocketpair has dropped a new Steam demo for its upcoming Metroidvania, Never Grave: The Witch and The Curse.\r\nThe upcoming game – which, like Pocketpair's predecessor, is fielding … [+1788 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Quentyn Kennemer",
-      "title": "OnePlus 12 deal offers double the storage for free - The Verge",
-      "description": "An ongoing OnePlus 12 promo is taking $100 off the highest storage tier. You can also save on a Jackery power station and up to 50 percent off select Nintendo titles.",
-      "url": "https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pbZ0HAUfC4utRRtSTVNyg7yMU7A=/0x0:2000x1334/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25242624/DSC06375.jpg",
-      "publishedAt": "2024-01-26T19:35:39Z",
-      "content": "OnePlus 12 preorders come with a free storage upgrade for a limited time\r\nOnePlus 12 preorders come with a free storage upgrade for a limited time\r\n / You can also save hundreds on Jackerys 1000W pow… [+5422 chars]"
+      "author": "Wes Davis",
+      "title": "Microsoft tests Windows 11 with a built-in fix for bad meeting audio - The Verge",
+      "description": "The latest Canary test build of Windows includes a new Voice Clarity feature, previously only available for Surface devices, as a built-in feature for Windows 11 on all devices.",
+      "url": "https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cndQPjkfbVex9yZnrMwmJJ_Vni8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10793341/acastro_180504_1777_microsoft_0002.jpg",
+      "publishedAt": "2024-01-27T17:58:44Z",
+      "content": "Microsoft tests Windows 11 with a built-in fix for bad meeting audio\r\nMicrosoft tests Windows 11 with a built-in fix for bad meeting audio\r\n / A new Canary build brings Voice Clarity, a feature of Su… [+1520 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "Decrypt"
       },
-      "author": "Nidesh Acharya",
-      "title": "Is Goddess of Victory Nikke Worth playing in 2024? - Sportskeeda",
-      "description": "Goddess of Victory Nikke, an RPG third-person shooter title by Shift Up, was released for mobile devices on November 4, 2022. The title has also been available to play on PC since February 15, 2023.",
-      "url": "https://www.sportskeeda.com/esports/is-goddess-victory-nikke-worth-playing-2024",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/01/7e556-17062808354863-1920.jpg",
-      "publishedAt": "2024-01-26T19:26:00Z",
-      "content": "Goddess of Victory Nikke, an RPG third-person shooter title by Shift Up, was released for mobile devices on November 4, 2022. The title has also been available to play on PC since February 15, 2023. … [+4938 chars]"
+      "author": "Andrew Hayward",
+      "title": "Biggest Video Games Releasing in February 2024 - Decrypt",
+      "description": "Final Fantasy VII Rebirth and Suicide Squad: Kill the Justice League headline a busier month for major gaming debuts.",
+      "url": "https://decrypt.co/214481/biggest-video-games-releasing-february-2024",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/ff7-rebirth-gID_7.png",
+      "publishedAt": "2024-01-27T17:55:38Z",
+      "content": "January has been pretty quiet for new game releases, a typical lull after the holiday barrage. But things are set to get a lot more exciting in February, thanks to a robust string of new games on the… [+4096 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Sony quietly blocks controversial Cronus Zen device from connecting to PS5 consoles - Eurogamer.net",
+      "description": "Sony has quietly blocked the Cronus Zen from connecting to PS5 consoles via its latest firmware update, a device which …",
+      "url": "https://www.eurogamer.net/sony-quietly-blocks-controversial-cronus-zen-device-from-connecting-to-ps5-consoles",
+      "urlToImage": "https://assetsio.reedpopcdn.com/call-of-duty-warzone-2023-group-promo-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-01-27T17:22:31Z",
+      "content": "Sony has quietly blocked the Cronus Zen from connecting to PS5 consoles via its latest firmware update, a device which lets players use, or modify, \"any supported controller\" on Sony's console.\r\nWhil… [+1594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
       "author": null,
-      "title": "Enshrouded Early Access Review - GamingBolt",
-      "description": "Survival crafting is hardly a niche genre in this day and age, with a few coming out just about every month. Despite most games in the genre withering away, ...",
-      "url": "https://www.youtube.com/watch?v=c-wZxJZ5Vjg",
-      "urlToImage": "https://i.ytimg.com/vi/c-wZxJZ5Vjg/maxresdefault.jpg",
-      "publishedAt": "2024-01-26T19:00:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "XDA Developers",
-      "title": "Microsoft is changing the Windows setup design for the first time in over a decade - XDA Developers",
-      "description": null,
-      "url": "https://www.xda-developers.com/microsoft-windows-setup-design-update/",
-      "urlToImage": null,
-      "publishedAt": "2024-01-26T18:56:00Z",
+      "title": "Discover Exclusive Deals On Budget-Friendly 32-Inch TVs From LG, Samsung, Sony And More: Starting At ₹7K On Amazon! - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-01-27T17:07:37Z",
       "content": null
     },
     {
@@ -85,182 +150,117 @@
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Peter",
-      "title": "Netflix co-CEO says it's not worth launching an app for the Apple Vision Pro yet - GSMArena.com",
-      "description": "The streaming service won't gain many new subscribers that way. But Netflix is keeping an eye on things and is open to working with Apple.",
-      "url": "https://www.gsmarena.com/netflix_coceo_says_its_not_worth_launching_an_app_for_the_apple_vision_pro_yet-news-61371.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/01/no-netflix-app-on-apple-vision-pro/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-01-26T18:33:01Z",
-      "content": "Pre-orders for the Apple Vision Pro started off last week and a few days ago analyst Ming-Chi Kuo reported that Apple has sold between 160,000 and 180,000 units. However, the proud new owners of Appl… [+1239 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Apple lifts restrictions on Game Pass, GeForce Now streaming on iOS - Polygon",
-      "description": "Cloud-based game streaming on iPhone and iPad should get better soon, as developers can now make apps that directly run through services like Game Pass Ultimate",
-      "url": "https://www.polygon.com/24051821/xbox-game-pass-ultimate-ios-app-geforce-now",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Gp-2AtZcFQ23rCuz0ZjOrRfsBBY=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23179061/jbareham_220118_ecl1087_stock_xbox_one_pass.jpg",
-      "publishedAt": "2024-01-26T18:31:57Z",
-      "content": "Game-streaming services like Xboxs Game Pass Ultimate and Nvidias GeForce Now will face one less restriction on Apples iPhone and iPad devices. App developers can now submit a single app with the cap… [+2258 chars]"
+      "author": "Sagar",
+      "title": "Fossil is exiting the smartwatch business - GSMArena.com news - GSMArena.com",
+      "description": "Fossil has promised to keep its Wear OS-powered smartwatches updated “for the next few years.” Fossil announced the Wear OS-running Gen 6 smartwatch lineup...",
+      "url": "https://www.gsmarena.com/fossil_wear_os_smartwatch_business_exit-news-61378.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/fossil-gen-6-wellness-edition-official/-952x498w6/gsmarena_002.jpg",
+      "publishedAt": "2024-01-27T17:04:01Z",
+      "content": "Fossil announced the Wear OS-running Gen 6 smartwatch lineup back in August 2021. The company unveiled some Wellness Edition watches later but kept everyone waiting for the Gen 7, which we now learn … [+1156 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theautopian.com"
+        "name": "Motor1 "
       },
-      "author": "Mercedes Streeter",
-      "title": "This Ridiculous 4.2-liter 48-Cylinder 1,300-Pound Motorcycle Is 16 Kawasakis Mashed Together - The Autopian",
-      "description": "This Ridiculous 4.2-liter 48-Cylinder 1,300-Pound Motorcycle For Sale Is 16 Kawasakis Mashed Together And It Has A Record Number Of Cylinders",
-      "url": "https://www.theautopian.com/this-ridiculous-4-2-liter-48-cylinder-1300-pound-motorcycle-is-16-kawasakis-mashed-together/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/48_Cylinder_Kawasaki_TS2.jpg",
-      "publishedAt": "2024-01-26T18:01:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Song",
-      "title": "The Biggest TV Deal: This Massive New-For-2024 100\" Hisense 4K Smart TV Is Under $2K - IGN",
-      "description": "This is a huge deal, pun intended",
-      "url": "https://www.ign.com/articles/the-biggest-tv-deal-2024-hisense-u76-4k-smart-tv",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/01/26/hisenseu76-1706288707940.jpg?width=1280",
-      "publishedAt": "2024-01-26T17:52:07Z",
-      "content": "We recently posted a deal on a massive 98\" TCL S550G 4K Smart TV for only $1998, but Hisense has one even better. Right now, Best Buy has the even bigger 100\" Hisense U76 4K Smart TV for only $1999.9… [+1845 chars]"
+      "author": "Christopher Smith",
+      "title": "Teardown Shows Why GM's Legendary 3.8L V6 Is Extremely Hard To Kill - Motor1 ",
+      "description": "This teardown of a legendary GM 3800 V6 engine reveals surprisingly little wear considering it was running with coolant in the oil.",
+      "url": "https://www.motor1.com/news/706127/gm-3800-v6-engine-teardown/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/mMEB3B/s1/gm-3800-v6.jpg",
+      "publishedAt": "2024-01-27T17:00:00Z",
+      "content": "When it comes to GM's legendary 3800 V6, not even a gooey, deadly cocktail of oil and coolant can kill it. But it can certainly make a mess of things.\r\nThe orange juice-like mixture you see here is t… [+2057 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Softonic"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "author": "María López",
+      "title": "Create realistic videos with AI? Google makes it possible with Lumiere - Softonic EN",
+      "description": "The company has showcased Lumiere, a model capable of generating videos from text.",
+      "url": "https://en.softonic.com/articles/create-realistic-videos-with-ai-google-makes-it-possible-with-lumiere",
+      "urlToImage": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2024/01/google-lumiere-video-1.jpg",
+      "publishedAt": "2024-01-27T16:40:23Z",
+      "content": "The worlds major technology companies are pursuing a new goal: to dominate the field of generative artificial intelligence. One of them is Google, which has brought together all its AI divisions in a… [+1066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "https://www.india.com/author/intern37-seoindia-com/",
+      "title": "How To Use WhatsApp's Screen Share Feature: A Step-By-Step Guide - India.com",
+      "description": "WhatsApp's screen-sharing is a feature used to collaborate on work documents, show photos to family members, and more. Here is an easy guide on how to use this feature.",
+      "url": "https://www.india.com/technology/how-to-use-whatsapps-screen-share-feature-a-step-by-step-guide-6686118/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2024/01/IDC-Story-4-4.jpg",
+      "publishedAt": "2024-01-27T16:35:43Z",
+      "content": "WhatsApp's screen-sharing is a feature used to collaborate on work documents, show photos to family members, and more. Here is an easy guide on how to use this feature.\r\nA step-by-step guide for usin… [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "How to use the green screen feature of Microsoft Teams - Times of India",
+      "description": "Learn how to use the green screen feature of Microsoft Teams to transport yourself to any virtual background during meetings and unleash your inner Hollywood director.",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/use-the-green-screen-feature-of-microsoft-teams-for-virtual-backgrounds/articleshow/107191340.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107191353,width-1070,height-580,imgsize-94674,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-27T16:25:00Z",
+      "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Victoria Song",
-      "title": "The Pixel 8 Pro is one goofy way to take your temperature - The Verge",
-      "description": "Google just rolled out body temperature scanning for the Pixel 8 Pro. Unfortunately, it’s fiddly to use, and you’re probably better off sticking to a regular thermometer.",
-      "url": "https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8oxBFfE3XJwRFerRvPOJmLprYWY=/0x0:2000x1306/1200x628/filters:focal(1000x653:1001x654)/cdn.vox-cdn.com/uploads/chorus_asset/file/24993391/DSC05741.jpg",
-      "publishedAt": "2024-01-26T17:12:30Z",
-      "content": "The Pixel 8 Pro is one goofy way to take your temperature\r\nThe Pixel 8 Pro is one goofy way to take your temperature\r\n / Taking your temperature should be easy-peasy and reliable. This is fiddly at b… [+4771 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "The MacRumors Show: The Mac's 40th Birthday, Vision Pro Apps, and Apple Car Rumors - MacRumors",
-      "description": "On this week's episode of The MacRumors Show, we discuss the 40th anniversary of the Macintosh, some of the latest controversy surrounding apps...",
-      "url": "https://www.macrumors.com/2024/01/26/the-macrumors-show-the-macs-40th-birthday/",
-      "urlToImage": "https://images.macrumors.com/t/Oa9cWPobdU3Ootb-y2k-gTj8VCM=/1600x/https://img.youtube.com/vi/-kyxXSLdhuo/maxresdefault.jpg",
-      "publishedAt": "2024-01-26T17:05:26Z",
-      "content": "On this week's episode of The MacRumors Show, we discuss the 40th anniversary of the Macintosh, some of the latest controversy surrounding apps for the Vision Pro headset, and the news of Apple's veh… [+2755 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Webster",
-      "title": "Switch 2: all the news and rumors on Nintendo's next console - The Verge",
-      "description": "Nintendo’s next console is expected to launch in 2024 and has been called everything from the Switch 2 to the Switch Pro.",
-      "url": "https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/7Uflx8VRONB3hPUdQKWxlOMYcvU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/9537475/akrales_171025_2091_0010.jpg",
-      "publishedAt": "2024-01-26T17:00:00Z",
-      "content": "<ul><li></li><li>Theres a very good chance that this will be the last year where the Switch is Nintendos main piece of hardware. While rumors of a Switch successor have persisted for years, recentrep… [+5742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Supratim Sarkar",
-      "title": "Honkai Star Rail: Honkai Star Rail Black Swan release date, countdown, kit, and gameplay - Sportskeeda",
-      "description": "Some fans may be wondering when the Black Swan release date is for Honkai Star Rail. Being one of the most coveted characters, this enchanting fortune teller will finally make her debut in version 2.",
-      "url": "https://www.sportskeeda.com/esports/honkai-star-rail-black-swan-release-date-countdown-kit-gameplay",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/01/d1ca7-17062751765849-1920.jpg",
-      "publishedAt": "2024-01-26T16:45:00Z",
-      "content": "Some fans may be wondering when the Black Swan release date is for Honkai Star Rail. Being one of the most coveted characters, this enchanting fortune teller will finally make her debut in version 2.… [+2976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "Nintendo Switch 2: News, Leaks, And Everything We Know - Kotaku",
-      "description": "The Switch follow-up could have an 8” screen, and appear for the 2024 holidays",
-      "url": "https://kotaku.com/switch-2-nintendo-console-tech-release-date-1851200648",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c632bc42dfaa6eb19a9a8834e97efaa4.jpg",
-      "publishedAt": "2024-01-26T16:45:00Z",
-      "content": "We know theres going to be a follow-up to the Switch. Mostly because the other option is Nintendo just hanging up its hat and walking off into the sea, and thatd be weird. Nintendo is, as ever, entir… [+9308 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Aditya Bhattacharya",
-      "title": "Australian Open 2024 diary: The many tastes of Victoria - Hindustan Times",
-      "description": "The state of Victoria is heaven on earth for foodies, and more so during the Australian Open. | Tennis News",
-      "url": "https://www.hindustantimes.com/sports/tennis/australian-open-2024-diary-the-many-tastes-of-victoria-101706285475984.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/26/1600x900/melbourne-food_1706285963852_1706285969031.jpg",
-      "publishedAt": "2024-01-26T16:26:03Z",
-      "content": "The curtains are about to draw on the 2024 Australian Open, the first Grand Slam of the year and one of Melbourne's biggest sporting events. But hey, it's expected to go out swinging. On a two-hour l… [+5790 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Isaiah Colbert",
-      "title": "Like a Dragon: Infinite Wealth’s Layoff Storyline Feels ‘Too Soon’ - IGN",
-      "description": "Like a Dragon: Infinite Wealth returns to the whacky adventures of Ichiban Kasuga, only he's dealing with a problem many of us are in 2024: layoffs.",
-      "url": "https://www.ign.com/articles/like-a-dragon-infinite-wealth-yakuza-layoff-game-industry-too-soon",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/01/26/likeadragonlayoff-blogroll-1706233814163.jpg?width=1280",
-      "publishedAt": "2024-01-26T16:01:43Z",
-      "content": "Gaming has had its fair share of moments when a new title would ostensibly be released at just the right time. The most recent example is Animal Crossing: New Horizons\r\n dropping in 2020 \r\nwhen the w… [+7415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Highwater: Official Announcement Trailer - IGN",
-      "description": "Meet Highwater, a new adventure game featuring a turn-based puzzle combat system set in a flooded region outside of the dry land of Alphaville where the weal...",
-      "url": "https://www.youtube.com/watch?v=zY-uCohmlGw",
-      "urlToImage": "https://i.ytimg.com/vi/zY-uCohmlGw/maxresdefault.jpg",
-      "publishedAt": "2024-01-26T16:00:52Z",
-      "content": null
+      "author": "Sheena Vasani",
+      "title": "Nomad's 3-in-1 MagSafe Charger and the Sonos One are down to their best prices - The Verge",
+      "description": "Nomad’s Base One Max 3-in-1 is $95. We also found deals on the Sonos One, Samsung’s The Frame, and Amazon’s smart thermostat.",
+      "url": "https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FAPJeIQY-WIjcIwOmRWu1xPY8fI=/1205x623:5001x3364/1200x628/filters:focal(3809x2564:3810x2565)/cdn.vox-cdn.com/uploads/chorus_asset/file/24888352/Nomad_BaseOneMax_07.jpg",
+      "publishedAt": "2024-01-27T16:20:57Z",
+      "content": "Nomads 3-in-1 MagSafe Charger and the Sonos One are down to their best prices\r\nNomads 3-in-1 MagSafe Charger and the Sonos One are down to their best prices\r\n / Plus, we found deals on Samsungs The F… [+4896 chars]"
     },
     {
       "source": {
         "id": "engadget",
         "name": "Engadget"
       },
-      "author": "Daniel Cooper",
-      "title": "Apple's rivals aren't happy about its EU App Store changes - Engadget",
-      "description": "Apple has laid down the rules for opening a competing app store. It's not pleased too many of its rivals.",
-      "url": "https://www.engadget.com/apples-rivals-arent-happy-about-its-eu-app-store-changes-160032585.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vJaj_judDuO_ErdkiDakmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/eaf728a0-bc61-11ee-bdaa-8aa0b2efab8e",
-      "publishedAt": "2024-01-26T16:00:32Z",
-      "content": "Last year, the European Union implemented new laws to make big tech open up its platforms to competitors. The deadline for compliance is March, and all eyes were on how Apple, which is famous for not… [+7410 chars]"
+      "author": "Cheyenne MacDonald",
+      "title": "Fossil is done making smartwatches but will keep releasing updates for a few years - Engadget",
+      "description": "Fossil Group confirmed to The Verge on Friday that it's exiting the smartwatch business, and will instead focus on its other products. It hasn't released a...",
+      "url": "https://www.engadget.com/fossil-is-done-making-smartwatches-but-will-keep-releasing-updates-for-a-few-years-161958128.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-01/cd4b1820-bd2e-11ee-8fd7-37c5c0f5d821",
+      "publishedAt": "2024-01-27T16:19:58Z",
+      "content": "Fossil is officially getting out of the smartwatch business. Following months of speculation about the future of its Wear OS smartwatch lineup, which hasnt seen a new model since 2021s Gen 6, the com… [+1013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Rory Teale",
+      "title": "How to catch Black Marketeers in Palworld & refresh their Pal stock - Dexerto",
+      "description": "Here is a Palworld guide on the best way to catch the Black Marketeer, and how you can refresh their Pal stock.",
+      "url": "https://www.dexerto.com/palworld/how-to-catch-black-marketeers-in-palworld-refresh-their-pal-stock-2501575/",
+      "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2024/01/27/Palworld-Black-Marketeer-on-Logo.jpg",
+      "publishedAt": "2024-01-27T15:43:31Z",
+      "content": "Here is how you can catch a Black Marketer in Palworld, and use the method of constantly spawning them at your base to refresh their Pal stock.\r\nThe Black Marketeer is an NPC in Palworld that can be … [+2440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Analytics Insight"
+      },
+      "author": "Deva Priya",
+      "title": "Strategies for Training AI Models from Web Data - Analytics Insight",
+      "description": "Empower your AI models with precision by mastering strategies for training with dynamic web data through savvy web scraping techniques.",
+      "url": "https://www.analyticsinsight.net/strategies-for-training-ai-models-from-web-data/",
+      "urlToImage": "https://www.analyticsinsight.net/wp-content/uploads/2024/01/Strategies-for-Training-AI-Models-from-Web-Data.jpg",
+      "publishedAt": "2024-01-27T15:32:04Z",
+      "content": "Unleash the power of AI: Mastering strategies for training models with dynamic web data\r\nDive into the cutting-edge realm of artificial intelligence as we explore potent strategies for training AI mo… [+3495 chars]"
     }
   ]
 }
