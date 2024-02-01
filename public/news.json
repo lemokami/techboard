@@ -1,110 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 276,
+  "totalResults": 229,
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "Spec Ops: The Line permanently removed from Steam and other digital stores - The Verge",
+      "description": "Spec Ops: The Line was delisted from Steam and other PC storefronts without explanation. Publisher 2K has confirmed that the reason was due to expiring licenses.",
+      "url": "https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SG4i0R6DOYbYp6L0n-_P-plZFMk=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25257619/3b67ad95d86eed9123b3b4a8cc7e6ad1fb5dbb51dc126bbbda89a1ac2f172b81.jpg",
+      "publishedAt": "2024-01-30T22:29:43Z",
+      "content": "Spec Ops: The Line permanently removed from Steam and other digital stores\r\nSpec Ops: The Line permanently removed from Steam and other digital stores\r\n / Yesterday, Spec Ops: The Line was delisted f… [+1738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Rocksteady gifts Suicide Squad early access players $20 in-game, following downtime | VGC - Video Games Chronicle",
+      "description": "“We recognize that you’ve been patient with us during our initial launch server updates”…",
+      "url": "https://www.videogameschronicle.com/news/rocksteady-gifts-suicide-squad-early-access-players-20-in-game-following-downtime/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2023/12/Suicide-Squad-Kill-The-Justice-League-d.jpg",
+      "publishedAt": "2024-01-30T22:21:10Z",
+      "content": "Warner Bros. has gifted Suicide Squad early access players $20/£16 of in-game currency, after the game experienced downtime.\r\nThe Rocksteady title officially releases on February 2, but those who pur… [+1566 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "Suicide Squad Deluxe Edition Taken Offline One Hour After Launch - IGN Daily Fix - IGN",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/watch?v=UoMRkZR2LZ0",
-      "urlToImage": null,
-      "publishedAt": "2024-01-30T00:01:51Z",
+      "title": "How to Use the Stolen Device Feature on Your iPhone - NowThis",
+      "description": "Here’s a quick tutorial on Apple’s latest feature to protect stolen iPhones📱» Subscribe to @NowThis» Sign up for our newsletter KnowThis to get the biggest ...",
+      "url": "https://www.youtube.com/watch?v=kTYCq8lDvGQ",
+      "urlToImage": "https://i.ytimg.com/vi/kTYCq8lDvGQ/maxresdefault.jpg",
+      "publishedAt": "2024-01-30T22:02:15Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Julie Coleman",
-      "title": "Cramer's Lightning Round: 'We don't want' AMC - CNBC",
-      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-      "url": "https://www.cnbc.com/2024/01/29/cramers-lightning-round-we-dont-want-amc.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1698361043&w=1920&h=1080",
-      "publishedAt": "2024-01-29T23:56:04Z",
-      "content": "Northrop Grumman: \"This has got to be one of the most hated stocks...At $438, I'm finally ready to pull the trigger, at least for a quarter of a position.\"\r\nJohn Bean Technologies: \"I actually am qui… [+365 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emilia David",
-      "title": "Meta's free Code Llama AI programming tool closes the gap with GPT-4 - The Verge",
-      "description": "Meta announced a new AI code generator, Code Llama 70B. This large language model performs better and handles more data, and it’s available for free.",
-      "url": "https://www.theverge.com/2024/1/29/24055011/meta-llama2-code-generator-generative-ai",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/waP9E94tG8X54qXNaL-CvH6FzBo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977155/acastro_211101_1777_meta_0001.jpg",
-      "publishedAt": "2024-01-29T23:35:18Z",
-      "content": "Metas free Code Llama AI programming tool closes the gap with GPT-4\r\nMetas free Code Llama AI programming tool closes the gap with GPT-4\r\n / Code Llama 70B can generate and debug larger programming s… [+1645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Has Sold Approximately 200000 Vision Pro Headsets - MacRumors",
-      "description": "Apple has sold upwards of 200,000 Vision Pro headsets, MacRumors has learned from a source with knowledge of Apple's sales numbers. Apple began...",
-      "url": "https://www.macrumors.com/2024/01/29/apple-vision-pro-headset-sales/",
-      "urlToImage": "https://images.macrumors.com/t/o5_U1Ch2wOC14t7OKuGmXY1AFWg=/1960x/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Purple-Feature-2.jpg",
-      "publishedAt": "2024-01-29T23:17:37Z",
-      "content": "Apple has sold upwards of 200,000 Vision Pro headsets, MacRumors has learned from a source with knowledge of Apple's sales numbers. Apple began accepting pre-orders for the Vision Pro on January 19, … [+1218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Here's Apple's new ad for the Vision Pro headset - GSMArena.com",
-      "description": "With hundreds of thousands of pre-orders, it's been quite the success in its niche. Apple made the Vision Pro headset official last June, following years...",
-      "url": "https://www.gsmarena.com/heres_apples_new_ad_for_the_vision_pro_headset-news-61391.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/01/apple-vision-pro-ad/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-01-29T22:59:01Z",
-      "content": "Apple made the Vision Pro headset official last June, following years and years of rumors about such a product. On January 19, the company finally started taking pre-orders, with initial shipments sc… [+956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google considering another Assistant with Bard name: Gemini - 9to5Google",
-      "description": "We previously spotted how Google might be rebranding \"Assistant with Bard\" to just \"Bard\" and now it's apparently called \"Gemini\"...",
-      "url": "https://9to5google.com/2024/01/29/assistant-bard-gemini-name/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-assistant-with-bard-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-01-29T22:42:00Z",
-      "content": "We spotted two weeks ago that Google might rebrand “Assistant with Bard” to just “Bard.” The company might not have decided on a new Assistant with Bard name yet as the latest version of the Google a… [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft says Apple's new App Store rules are 'a step in the wrong direction' - The Verge",
-      "description": "Microsoft has joined Spotify and Epic Games in criticizing Apple’s new App Store changes for the EU. Xbox president Sarah Bond says they’re a “step in the wrong direction.”",
-      "url": "https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bdsZ0FbhLCQFNvCXOGNVFKIBxR4=/0x0:3281x2187/1200x628/filters:focal(1641x1094:1642x1095)/cdn.vox-cdn.com/uploads/chorus_asset/file/25255503/1246654654.jpg",
-      "publishedAt": "2024-01-29T22:34:01Z",
-      "content": "Microsoft says Apples new App Store rules are a step in the wrong direction\r\nMicrosoft says Apples new App Store rules are a step in the wrong direction\r\n / Microsofts Xbox president criticizes Apple… [+3115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "James Whitbrook",
-      "title": "Happy 'Threshold' Day, Star Trek Sickos - Gizmodo",
-      "description": "Star Trek Voyager dropped one of its most infamous episodes 28 years ago, but its legacy has been embraced by fans, like the tender arms of amphibian lovers.",
-      "url": "https://gizmodo.com/threshold-anniversary-star-trek-voyager-lizard-sex-1851207179",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9b83fa489b08f4bff2107c1d8c2744eb.png",
-      "publishedAt": "2024-01-29T22:10:00Z",
-      "content": "Twenty-eight years ago, Star Trek asked a daring question, one fitting of a franchise that triumphs boldly going and facing the unknown: should experimental FTL travel culminate in a captain and her … [+5370 chars]"
     },
     {
       "source": {
@@ -112,12 +47,64 @@
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "7 Years Later, Dragon Quest Builders Is Finally Coming To PC - Kotaku",
-      "description": "Square Enix’s 2018 Dragon Quest Builders sequel was weirdly already out on Steam",
-      "url": "https://kotaku.com/dqb-dragon-quest-builders-1-minecraft-steam-pc-port-1851206934",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b0a69b9610bb65c6031f5dda704f3a36.jpg",
-      "publishedAt": "2024-01-29T21:15:00Z",
-      "content": "Today, Square Enix announced that after seven years, Dragon Quest Builders is, for some reason, arriving on PC in early February.\r\nReleased in 2016, Dragon Quest Builders, is an open-world survival g… [+1563 chars]"
+      "title": "Fortnite Is Currently Filled With Racist AI-Generated Art - Kotaku",
+      "description": "Epic’s popular battle royale is a massive platform for user-created content, but moderation seems non-existent",
+      "url": "https://kotaku.com/fortnite-racist-offensive-ai-images-art-zonewars-epic-1851209249",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/65148ad8b1248c939abb369b84d0a312.jpg",
+      "publishedAt": "2024-01-30T21:35:00Z",
+      "content": "If you boot up Fortniteright now and start digging around through the games massive amount of user-created content, youll quickly notice a strange pattern: Many user-made maps and modes feature AI-ge… [+5480 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Ars Technica used in malware campaign with never-before-seen obfuscation - Ars Technica",
+      "description": "Vimeo also used by legitimate user who posted booby-trapped content.",
+      "url": "https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/malware-760x380.jpg",
+      "publishedAt": "2024-01-30T21:24:43Z",
+      "content": "107\r\nArs Technica was recently used to serve second-stage malware in a campaign that used a never-before-seen attack chain to cleverly cover its tracks, researchers from security firm Mandiant report… [+3943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Apple sells out of Vision Pro headsets after getting 200K pre-orders - New York Post ",
+      "description": "The headset is scheduled to be available for purchase in company retail locations on Friday.",
+      "url": "https://nypost.com/2024/01/30/business/apple-sells-out-of-vision-pro-headsets-after-getting-200k-pre-orders/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-723wcs1wo-1706646097540.jpg?quality=75&strip=all&1706628168&w=1024",
+      "publishedAt": "2024-01-30T21:14:00Z",
+      "content": "Apple has already sold out its initial stock of Vision Pro headsets after customers bought around 200,000 units during the 10 days since the iPhone maker made them available for pre-orders, according… [+2904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Information"
+      },
+      "author": "Jon Victor, Amir Efrati",
+      "title": "Google DeepMind Veteran Departs to Launch AI Agent Startup - The Information",
+      "description": "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking fl…",
+      "url": "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup",
+      "urlToImage": "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "publishedAt": "2024-01-30T21:13:00Z",
+      "content": "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use si… [+634 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft Q2 2024: gaming takes over Windows - The Verge",
+      "description": "Microsoft’s Surface devices revenue is still struggling, in a quarter where Activision Blizzard impacts Xbox revenue. As always, cloud and Office show strong growth.",
+      "url": "https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2LpcEUR9vxFA_n_aNZ-N_tTvOps=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg",
+      "publishedAt": "2024-01-30T21:06:12Z",
+      "content": "Microsofts gaming revenues overtake Windows thanks to Activision Blizzard\r\nMicrosofts gaming revenues overtake Windows thanks to Activision Blizzard\r\n / Gaming is now the third latest business at Mic… [+6932 chars]"
     },
     {
       "source": {
@@ -125,38 +112,12 @@
         "name": "Abplive.com"
       },
       "author": "ABP News Bureau",
-      "title": "OnePlus Returns To Germany Pre-Orders Of Latest OnePlus 12 Now Open - ABP Live",
-      "description": "Post the cross-license 5G patent deal between Nokia and Oppo, which resolved the patent infringement dispute, Oppo and OnePlus are now able to resume selling smartphones in Germany.",
-      "url": "https://news.abplive.com/technology/gadgets/oneplus-return-germany-pre-orders-of-latest-smartphone-now-open-offers-oppo-nokia-license-deal-1660389",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/30/9395fd9acc9b76bc19ad2bff07d8298a1706557981253295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-01-29T20:36:26Z",
-      "content": "Handset maker OnePlus is offering its latest smartphones in Germany, quickly after the signing of a cross-license 5G patent agreement between Nokia and Oppo, the media has reported. The deal was inke… [+3689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoNintendo"
-      },
-      "author": "rawmeatcowboy",
-      "title": "Nintendo suggests Switch games featuring Disney characters - GoNintendo",
-      "description": "The wonderful world of Disney",
-      "url": "https://gonintendo.com/contents/31320-nintendo-suggests-switch-games-featuring-disney-characters",
-      "urlToImage": "https://gonintendo.com/attachments/image/42654/file/medium-b8bff38881894be2fb27fef550dabdfe.png",
-      "publishedAt": "2024-01-29T20:06:42Z",
-      "content": "Throughout the years, some fan-favorite Disney characters have made the jump to video games. Whether youre a devoted Donald Duck fan, or proudly display your Goliath merch (or both!), Nintendo thinks… [+589 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Call of Duty devs address 'skill-based matchmaking' in lengthy update - Polygon",
-      "description": "Skill-based matchmaking in Call of Duty and other competitive games may not work how you think, COD developers say in a new blog post.",
-      "url": "https://www.polygon.com/24054710/call-of-duty-sbmm-skill-based-matchmaking-explained",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XnQm5_mSmoek04l1ijN8EFRy02E=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25255024/modern_warfare_3.jpg",
-      "publishedAt": "2024-01-29T20:01:07Z",
-      "content": "Skill-based matchmaking in Call of Duty is always a controversial topic, and last fall, the teams behind Activisions still-dominant shooter franchise pledged to be more open about how players are mat… [+4511 chars]"
+      "title": "Top Tech News Today: OnePlus Nord N30 SE Unveiled, Honor X9b India Launch Confirmed, More - ABP Live",
+      "description": "OnePlus has introduced the OnePlus Nord N30 SE in the UAE, succeeding the OnePlus Nord N20 SE and boasting several enhancements over its predecessor.",
+      "url": "https://news.abplive.com/technology/top-tech-news-today-january-30-oneplus-nord-n30-se-launched-honor-x9b-india-launch-confirmed-1660667",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/31/e1fbc4992c4129025c688ba8541e746b1706648231149295_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-01-30T20:57:59Z",
+      "content": "OnePlus Nord N30 SE Quietly Launched\r\nOnePlus has introduced the OnePlus Nord N30 SE in the UAE, succeeding the OnePlus Nord N20 SE and boasting several enhancements over its predecessor. This new sm… [+2323 chars]"
     },
     {
       "source": {
@@ -164,90 +125,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Palworld/Pokémon Controversy Explained - Nerdist",
-      "description": "By clicking our link https://www.PIAVPN.com/Nerdist you’ll get an 83% discount on Private Internet Access! That’s just $2.03 a month, AND you’ll also get 4 e...",
-      "url": "https://www.youtube.com/watch?v=LZsWRUqStiM",
-      "urlToImage": "https://i.ytimg.com/vi/LZsWRUqStiM/maxresdefault.jpg",
-      "publishedAt": "2024-01-29T20:00:07Z",
+      "title": "Call of Duty: Warzone & Modern Warfare 3 - The Walking Dead Opening Title Recreation Trailer - IGN",
+      "description": "Rick and Michonne from The Walking Dead and The Ones Who Live are coming to Call of Duty. Check out the latest trailer for Call of Duty: Warzone and Call of ...",
+      "url": "https://www.youtube.com/watch?v=SqlqSXdpA2s",
+      "urlToImage": "https://i.ytimg.com/vi/SqlqSXdpA2s/maxresdefault.jpg",
+      "publishedAt": "2024-01-30T20:53:55Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "9to5google.com"
       },
-      "author": "Alana Hagues",
-      "title": "Random: Hyperkin's Latest Switch-Compatible Controller Is... A Hot Dog? - Nintendo Life",
-      "description": "Oscar Mayer, Huy Fong, and Kool-Aid collabs revealed",
-      "url": "https://www.nintendolife.com/news/2024/01/random-hyperkins-latest-switch-compatible-controller-is-a-hot-dog",
-      "urlToImage": "https://images.nintendolife.com/c8239e11e1908/1280x720.jpg",
-      "publishedAt": "2024-01-29T20:00:00Z",
-      "content": "Image: Hyperkin\r\nHyperkin is no stranger to unusual collaborations with its products. Known for creating a range of video game controllers, many of which we're rather fond of for pairing up with our … [+1952 chars]"
+      "author": "Ben Schoon",
+      "title": "Microsoft Edge now steals your data from Google Chrome after an update - 9to5Google",
+      "description": "After a Windows update, Microsoft Edge is now more aggressively trying to steal your data from Google Chrome.",
+      "url": "https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/02/google_chrome_microsoft_edge_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-01-30T20:30:00Z",
+      "content": "Microsoft just can’t stop trying to get you to switch to Edge, with the browser more aggressively stealing your open tabs from Google Chrome.\r\nSince its launch in 2020, the new Microsoft Edge has pro… [+2837 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Sean Hollister",
-      "title": "Embracer lays off 97 Eidos employees and cancels new Deus Ex game - The Verge",
-      "description": "Embracer Group, the company attempting to forge one video game publisher to rule them all, has laid off 97 employees and canceled a Deus Ex game at Eidos Montreal.",
-      "url": "https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wR0zsUS7kRAO538qQLewnUpvyZM=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25254978/deus_ex.jpg",
-      "publishedAt": "2024-01-29T19:56:35Z",
-      "content": "Embracer lays off 97 Eidos employees and cancels new Deus Ex game\r\nEmbracer lays off 97 Eidos employees and cancels new Deus Ex game\r\n / The worst kind of cliffhanger.\r\nBySean Hollister, a senior edi… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Quentyn Kennemer",
-      "title": "The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off - The Verge",
-      "description": "Kobo’s large, 10.3-inch e-reader is $50 off right now. You can also buy Zendure’s 10,000mAh SuperMini charger for $15 or save $10 on Eve’s Matter-ready smart plug.",
-      "url": "https://www.theverge.com/2024/1/29/24054234/kobo-elipsa-2-ebook-reader-zendure-supermini-usb-c-charger-eve-smart-plug-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lffMrt25cvYbnDH4xmFgiD7deTE=/0x0:1920x1281/1200x628/filters:focal(960x641:961x642)/cdn.vox-cdn.com/uploads/chorus_asset/file/24561004/KoboElipsa2e.jpg",
-      "publishedAt": "2024-01-29T19:50:55Z",
-      "content": "The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off\r\nThe Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off\r\n / We also found steep discounts on Zendures 10… [+4888 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Alex Stedman",
-      "title": "Blizzard Finds New President in Former Call of Duty Executive Johanna Faries - IGN",
-      "description": "Blizzard Entertainment's new president is former Call of Duty and NFL executive Johanna Faries, replacing Mike Ybarra.",
-      "url": "https://www.ign.com/articles/blizzard-finds-new-president-in-former-call-of-duty-executive-johanna-faries",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/01/29/faries-1706555917488.jpg?width=1280",
-      "publishedAt": "2024-01-29T19:22:00Z",
-      "content": "Blizzard Entertainment's new president is former Call of Duty and NFL executive Johanna Faries, the company announced today. \r\nShe replaces Mike Ybarra, who left the company last week on the same day… [+4042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Exploring the GPT Store: 5 Essential Facts You Must Know! - TechRepublic",
-      "description": "In this video, we take you on an exciting journey through the ChatGPT Store. Read more on TechRepublic: https://www.techrepublic.com/article/openai-gpt-store...",
-      "url": "https://www.youtube.com/watch?v=7ZG9hQM_uO4",
-      "urlToImage": "https://i.ytimg.com/vi/7ZG9hQM_uO4/maxresdefault.jpg",
-      "publishedAt": "2024-01-29T19:00:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Alana Hagues",
-      "title": "The Wand Company's Poké Ball Replicas Go Mini From February - Nintendo Life",
-      "description": "Catch all five minis throughout 2024",
-      "url": "https://www.nintendolife.com/news/2024/01/the-wand-companys-poke-ball-replicas-go-mini-from-february",
-      "urlToImage": "https://images.nintendolife.com/dd8e6569cb3d0/1280x720.jpg",
-      "publishedAt": "2024-01-29T19:00:00Z",
-      "content": "Image: The Pokémon Company\r\nThe Pokémon Company and The Wand Company are teaming up once again to release some brand new Poké Ball replicas but this time, we're going miniature.\r\nThe new collection w… [+1548 chars]"
+      "author": "Dan Goodin",
+      "title": "OpenAI says mysterious chat histories resulted from account takeover - Ars Technica",
+      "description": "User shocked to find chats naming unpublished research papers, and other private data.",
+      "url": "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt-760x380.jpg",
+      "publishedAt": "2024-01-30T20:15:28Z",
+      "content": "148\r\nOpenAI officials say that the ChatGPT histories a user reported result from his ChatGPT account being compromised. The unauthorized logins came from Sri Lanka, an Open AI representative said. Th… [+5044 chars]"
     },
     {
       "source": {
@@ -255,12 +164,103 @@
         "name": "Polygon"
       },
       "author": "Michael McWhertor",
-      "title": "Indie game showcase Day of the Devs levels up, goes nonprofit, and wants your help - Polygon",
-      "description": "Day of the Devs, which made a name for itself highlighting upcoming indie games at in-person events, is now an independent nonprofit. It’s also launching a new fundraising effort complete with rewards.",
-      "url": "https://www.polygon.com/24054395/day-of-the-devs-2024-events-fundraising",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/f97MwYNqMY_Erlqn8xSsjENw8m0=/0x35:1800x977/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25254701/dotd.jpg",
-      "publishedAt": "2024-01-29T18:45:00Z",
-      "content": "Fundraising (with rewards) is now live"
+      "title": "Why Kurt Russell turned down voicing Snake for Metal Gear Solid - Polygon",
+      "description": "Snake Plissken actor Kurt Russell was reportedly asked to take over the role of Snake for Metal Gear Solid 3, and declined. A new interview explains why.",
+      "url": "https://www.polygon.com/24055881/metal-gear-solid-snake-kurt-russell-escape-from-new-york",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZtzU-25pn5-J8-TQZ-KmHqDU2as=/0x638:5302x3414/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25257039/607392654.jpg",
+      "publishedAt": "2024-01-30T19:46:30Z",
+      "content": "The man behind Snake Plissken was once offered the role of Metal Gear Solids super soldier"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Arc Search Became My Favorite iPhone Browser Within Minutes of Using It - Gizmodo",
+      "description": "It's one of the best examples of an AI-powered web browser.",
+      "url": "https://gizmodo.com/arc-search-iphone-ai-browser-safari-1851209004",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a2e23fe50552f191653d3772b2faa443.jpg",
+      "publishedAt": "2024-01-30T19:25:00Z",
+      "content": "The Browser Company recently released an AI browser for iOS called Arc Search, and this is the quickest I have ever switched to a browser on my personal phone. I am not the biggest fan of AI and am c… [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Smartphone glass gets harder to scratch starting with Galaxy S24 - 9to5Google",
+      "description": "Smartphone glass scratches, but it's getting more scratch resistant starting with the new Gorilla Armor found on Galaxy S24 Ultra.",
+      "url": "https://9to5google.com/2024/01/30/smartphone-glass-scratch-resistant-galaxy-s24/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/samsung-galaxy-s24-ultra-1-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-01-30T19:23:00Z",
+      "content": "Smartphone glass is reasonably durable, but it’s been a long time since we’ve had advancements in scratch resistance. With Corning Gorilla Armor on the Galaxy S24 Ultra, though, it seems smartphone g… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "WION Web Team",
+      "title": "A bacteria-murdering virus may come in handy to kill superbugs - WION",
+      "description": "A bacteria-murdering virus may come in handy to kill superbugs",
+      "url": "https://www.wionews.com/science/a-bacteria-murdering-virus-may-come-in-handy-to-kill-superbugs-685280",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/11/23/394872-the-battle-for-kyiv-2023-11-23t111032582.jpg",
+      "publishedAt": "2024-01-30T19:14:16Z",
+      "content": "When we say the word 'bacteria' we quickly imagine disease and infections. And rightly so because bacterias are behind many diseases that are even fatal. So for a layperson, it may be hard to imagine… [+1804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Ashima Grover",
+      "title": "Fortnite Chapter 5 Season 2: release date and what lies ahead - Hindustan Times",
+      "description": "Fortnite Chapter 5 Season 1 will conclude its run in March 2024. Gaming community awaits the arrival of the future instalment. Here's what we know about it.",
+      "url": "https://www.hindustantimes.com/technology/fortnite-chapter-5-season-2-release-date-and-what-lies-ahead-for-the-multiplayer-gameplay-101706635446604.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/30/1600x900/fortnite_1706641320390_1706641360830.jpg",
+      "publishedAt": "2024-01-30T19:14:14Z",
+      "content": "Certain potential promises have been made to the multiplayer gaming sensation's followers for the upcoming Fortnite Chapter 5 Season 2 arrival. The well-fed community, though currently engaged in the… [+2910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Dean Takahashi",
+      "title": "Microsoft lays off most of Activision Blizzard esports organization - VentureBeat",
+      "description": "Microsoft has laid off the entire Activision Blizzard esports organization, according to a source familiar with the matter.",
+      "url": "https://venturebeat.com/gaming-business/microsoft-lays-off-most-of-activision-blizzard-esports-organization/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/10/Fans-at-Minnesota-Rokkrs-CDL-Major-2-in-March_April-2022.jpeg?w=1200&strip=all",
+      "publishedAt": "2024-01-30T19:13:00Z",
+      "content": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. \r\nMicrosoft has laid off most of the internal Activision Blizzard esports… [+2176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "David Nield",
+      "title": "YouTube Tips: 5 Tweaks For A Better Experience - Kotaku",
+      "description": "There are a lot of handy settings buried within the video platform",
+      "url": "https://kotaku.com/youtube-tips-settings-tweaks-1851209081",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cd65a48e1ff2caf4fc719fe4218e8082.jpg",
+      "publishedAt": "2024-01-30T19:00:00Z",
+      "content": "If you spend a significant amount of time on YouTube, youll want to make the most of that timewhether its the choice of videos you get recommended or the quality of those videos when they start playi… [+4079 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Here's a video of Doom running on gut bacteria, proving you really can play the game on anything - Engadget",
+      "description": "An MIT researcher has gotten the 30-year-old computer game Doom running on actual gut bacteria. The frame rate is really bad, as the game would take nearly...",
+      "url": "https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6G6oyjy8SgPDP7EhaRYeuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/e25f2bd0-bf9e-11ee-befe-b2cc005d0f5b",
+      "publishedAt": "2024-01-30T18:46:29Z",
+      "content": "An MIT biotech researcher has been able to run the iconic computer game Doom using actual gut bacteria. Lauren Ramlan didnt get the game going on a digital simulation of bacteria, but turned actual b… [+1623 chars]"
     }
   ]
 }
