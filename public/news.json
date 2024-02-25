@@ -1,188 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 103,
+  "totalResults": 172,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Fox Business"
       },
-      "author": "Michael Potuck",
-      "title": "How to get iMessage quantum security - 9to5Mac",
-      "description": "This guide covers how to get iMessage quantum security on your iPhone, iPad, Mac, and Apple Watch, why it's valuable, and more.",
-      "url": "https://9to5mac.com/2024/02/22/how-to-get-imessage-quantum-security/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/how-to-get-imessage-quantum-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-02-22T21:36:00Z",
-      "content": "Apple has announced a major security upgrade for iMessage protection against quantum computers. Read along for how to get iMessage quantum security on your iPhone, iPad, Mac, and Apple Watch, why it’… [+1595 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Benj Edwards",
-      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator - Ars Technica",
-      "description": "SD3 may bring DALL-E-like prompt fidelity to an open-weights image-synthesis model.",
-      "url": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
-      "publishedAt": "2024-02-22T21:28:52Z",
-      "content": "Enlarge/ Stable Diffusion 3 generation with the prompt: studio photograph closeup of a chameleon over a black background.\r\n46\r\nOn Thursday, Stability AI announced Stable Diffusion 3, an open-weights … [+5899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Austin Wood",
-      "title": "Miyazaki says Elden Ring: Shadow of the Erdtree's map is \"probably\" bigger than Limgrave, but he also said the base RPG would take about 30 hours and it took me 125 - Gamesradar",
-      "description": "Hidetaka Miyazaki has a reputation for underselling things",
-      "url": "https://www.gamesradar.com/miyazaki-says-elden-ring-shadow-of-the-erdtrees-map-is-probably-bigger-than-limgrave-but-he-also-said-the-base-rpg-would-take-about-30-hours-and-it-took-me-125/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eyJoBfEzeGQPkC66dzqBML-1200-80.jpg",
-      "publishedAt": "2024-02-22T21:28:12Z",
-      "content": "The Souls games, or whatever umbrella you want to put all of FromSoftware's action RPGs under, collectively redefined an entire genre and literally defined a new one in the form of Soulslikes\r\n. So i… [+2655 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Catherine E. Shoichet",
-      "title": "‘I’m feeling gaslit by my own computer’: Why a small change by Microsoft was a big jolt for some users - CNN",
-      "description": "As Microsoft rolls out a new default font, some users say they’re excited that Aptos has replaced Calibri. Others…aren’t taking it well.",
-      "url": "https://www.cnn.com/2024/02/22/us/microsoft-default-font-aptos-calibri-cec/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240221-tiktok-microsoft-font-change-split.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-02-22T19:56:00Z",
-      "content": "Stef Luthin squinted at her laptop screen. Something seemed off that January morning, but at first, she couldnt pinpoint it.\r\nThen, the 25-year-old social media marketing coordinator in Chicago notic… [+10129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Moises Taveras",
-      "title": "Riot Games' Project L Now Named 2XKO, Launching in 2025 - Kotaku",
-      "description": "Riot Games’ 2XKO is launching next year, will show at EVO Japan in April",
-      "url": "https://kotaku.com/project-l-2xko-league-of-legends-riot-games-1851278882",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/37564684283420891343241a94e1641d.png",
-      "publishedAt": "2024-02-22T18:15:00Z",
-      "content": "Riot Games upcoming fighting game set in the world of League of Legends finally has a proper name and its um2XKO. Yeah, that clears things right up.\r\nFormerly known as Project L (yknow, in reference … [+1894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Samsung is bringing these Galaxy AI features to older devices - 9to5Google",
-      "description": "It was known early on that Samsung would not limit some of its most anticipated AI features to the Galaxy...",
-      "url": "http://9to5google.com/2024/02/22/samsung-ai-features-older-devices/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Galaxy-S24-Generative-Edit-example-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-02-22T18:13:00Z",
-      "content": "It was known early on that Samsung would not limit some of its most anticipated AI features to the Galaxy S24 series. The One UI 6.1 update with all of its AI features is officially coming to a batch… [+4171 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Google Chrome's “Help me write” tool can now finish your sentences for you - The Verge",
-      "description": "Google has started rolling out “Help me write” in the US — an experimental Gemini-powered feature for Chrome that helps users write or refine text based on webpage content.",
-      "url": "https://www.theverge.com/2024/2/22/24079906/google-chrome-help-me-write-gemini-ai-tool-finish-sentences",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rd-Z-bppkMhkVJEs8Bm8mF8GjDw=/0x0:1920x1300/1200x628/filters:focal(960x650:961x651)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298879/Google_help_me_write_image_hed.jpg",
-      "publishedAt": "2024-02-22T17:00:00Z",
-      "content": "Google Chromes new AI can finish your sentences for you\r\nGoogle Chromes new AI can finish your sentences for you\r\n / The experimental AI feature is available in English for US-based Chrome users, pro… [+3107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Final Fantasy 7 Rebirth is currently the second-highest scoring Final Fantasy on Metacritic | VGC - Video Games Chronicle",
-      "description": "Only Final Fantasy 9 has a higher average…",
-      "url": "https://www.videogameschronicle.com/news/final-fantasy-7-rebirth-is-currently-the-second-highest-scoring-final-fantasy-on-metacritic/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/02/Final-Fantasy-7-Rebirth-11.jpg",
-      "publishedAt": "2024-02-22T16:37:27Z",
-      "content": "Final Fantasy 7 Rebirth currently has the second-highest Metacritic score of any game in the entire Final Fantasy series.\r\nAs noted on X by games industry commentator Benji-Sales, the game’s current … [+1516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Akash Dutta, David Delima",
-      "title": "WhatsApp Adds New Text Formatting Options; Blocks Screenshots of Profile Pictures on Latest Beta - Gadgets 360",
-      "description": "WhatsApp launched four new text formatting options globally on Wednesday. These new options join the existing bold, italic, strikethrough, and monospace options. The new range of formatting tools will allow users to send messages in bulleted points, and numbe…",
-      "url": "https://www.gadgets360.com/apps/news/whatsapp-text-formatting-feature-update-profile-picture-screenshot-prevention-testing-5108257",
-      "urlToImage": "https://i.gadgets360cdn.com/large/whatsapp_web_chat_lock_feature_1708617690629.jpg",
-      "publishedAt": "2024-02-22T16:04:51Z",
-      "content": "WhatsApp rolled out four new text formatting options globally on Wednesday. These new options join the existing bold, italic, strikethrough, and monospace formatting options. The new range of text to… [+2584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Moises Taveras",
-      "title": "Xbox's Biggest Surprise Hit Of 2023 Is Coming To Switch 2: Report - Kotaku",
-      "description": "Maybe the Nintendo Switch just isn’t a huge fan of Chai",
-      "url": "https://kotaku.com/xboxs-biggest-surprise-hit-of-2023-is-coming-to-switch-1851278265",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/546cc08ad011dbc6b5ffa90afe4225e5.jpg",
-      "publishedAt": "2024-02-22T15:45:00Z",
-      "content": "Xbox recently announced that four of its older titles would be going multiplatform, and finally detailed which games would be making the leap earlier this week. Among the games isHi-Fi Rush, Bethesda… [+1711 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Xiaomi 14 Ultra brings a brighter 1-inch sensor, titanium body, and satellite connectivity - The Times of India",
-      "description": "Xiaomi unveils its newest flagship smartphone, the 14 Ultra, featuring a brighter 1-inch sensor, titanium body, and satellite connectivity. Learn more about its impressive features and specifications.",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/xiaomi-14-ultra-brighter-1-inch-sensor-titanium-body-and-satellite-connectivity/articleshow/107920951.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107920992,width-1070,height-580,imgsize-594418,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-22T15:35:00Z",
-      "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Nothing Phone (2a) shows up in official-looking renders [Gallery] - 9to5Google",
-      "description": "Some official-looking renders of the Nothing Phone (2a) have surfaced, offering our best look yet at the new design.",
-      "url": "http://9to5google.com/2024/02/22/nothing-phone-2a-official-looking-renders/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/nothing-phone-2a-leak-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-02-22T15:18:00Z",
-      "content": "The Nothing Phone (2a) is set to debut next month officially, but on the company’s own forums, a collection of official-looking renders have appeared to show off what seems to be the final design.\r\nW… [+1409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "James Archer",
-      "title": "Sony are officially working on PC game support for the PS VR2 headset - Rock Paper Shotgun",
-      "description": "Sony have confirmed that the PS VR2 headset is getting PC compatibility, set to launch in 2024.",
-      "url": "https://www.rockpapershotgun.com/sony-are-officially-working-on-pc-game-support-for-the-ps-vr2-headset",
-      "urlToImage": "https://assetsio.reedpopcdn.com/Sony-PS-VR2.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-02-22T14:55:02Z",
-      "content": "The PS VR2, Sony’s currently PS5-exclusive VR gaming headset, looks like it’ll be latching onto the faces of PC owners as well. Tucked away in a PlayStation blog post about upcoming PS VR2 games, Son… [+2013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "WhatsApp could soon let you send high-quality media by default - Android Police",
-      "description": "Saving you the trouble of tapping the HD icon each time",
-      "url": "https://www.androidpolice.com/whatsapp-beta-android-high-quality-media-default/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/whatsapp-colorful-hero.jpg",
-      "publishedAt": "2024-02-22T14:48:00Z",
-      "content": "Summary\r\n<ul><li> WhatsApp could soon make it easier to send HD videos and images by default for Android users. </li><li> The newly spotted beta feature allows users to change the default media uploa… [+2591 chars]"
+      "author": "Brittany Kasko",
+      "title": "Oscar nominees to go home with ‘Everyone Wins’ gift bags with a six-figure valuation: Peek inside - Fox Business",
+      "description": "The creator of the \"Everyone Wins\" gift bag to be given at the Oscars shared insight into the 2024 items — including trips, skin care, electronics, food and more.",
+      "url": "https://www.foxbusiness.com/lifestyle/oscar-nominees-home-everyone-wins-gift-bags-six-figure-valuation-peek-inside",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Chalet-Zermatt-Peak-Image.png?ve=1&tl=1",
+      "publishedAt": "2024-02-23T21:05:00Z",
+      "content": "The 2024 Academy Awards will be held on Sunday, March 10, in Los Angeles as stars from this past year’s biggest films hope for a gold statue. \r\nThe \"Everyone Wins\" nominee gift bags will be given to … [+3445 chars]"
     },
     {
       "source": {
@@ -190,37 +21,115 @@
         "name": "The Verge"
       },
       "author": "Emma Roth",
-      "title": "New Google Pixel Fold 2 leak points to redesigned camera - The Verge",
-      "description": "The Google Pixel Fold 2 could come with a square-shaped camera module instead of a horizontal camera bar, as shown in leaked renders shared with Smartprix.",
-      "url": "https://www.theverge.com/2024/2/22/24079922/google-pixel-fold-2-leak-design-change",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1kh-mEaA-f7Ko8l3D-d1IkX_8wQ=/0x0:2560x1920/1200x628/filters:focal(1280x960:1281x961)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298904/google_pixel_fold_2_leak.jpg",
-      "publishedAt": "2024-02-22T14:31:11Z",
-      "content": "New Google Pixel Fold 2 leak points to redesigned camera\r\nNew Google Pixel Fold 2 leak points to redesigned camera\r\n / Googles second-gen foldable could come with a slimmer form factor and square-sha… [+1989 chars]"
+      "title": "Google explains Gemini's “embarrassing” AI pictures of diverse Nazis - The Verge",
+      "description": "Google has apologized and issued an explanation for the “embarrassing and wrong” images generated by its Gemini AI model.",
+      "url": "https://www.theverge.com/2024/2/23/24081309/google-gemini-embarrassing-ai-pictures-diverse-nazi",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zoPORZsYcJT2WjI5lx7z45IV7As=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg",
+      "publishedAt": "2024-02-23T20:19:49Z",
+      "content": "Google explains Geminis embarrassing AI pictures of diverse Nazis\r\nGoogle explains Geminis embarrassing AI pictures of diverse Nazis\r\n / Google says Gemini AIs tuning has led it to overcompensate in … [+2397 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "National Institutes of Health"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Scientists develop a simple blood test to quickly diagnose sarcoidosis - National Institutes of Health (NIH) (.gov)",
-      "description": "NIH-funded tool can accurately identify the potentially life-threatening inflammatory disease.",
-      "url": "https://www.nih.gov/news-events/news-releases/scientists-develop-simple-blood-test-quickly-diagnose-sarcoidosis",
-      "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/2024022-blood-test.jpeg",
-      "publishedAt": "2024-02-22T14:21:20Z",
+      "title": "MWC 2024: What To Expect? | Mobile World Congress 2024 - NDTV",
+      "description": "Mobile World Congress or MWC this year is being held in Barcelona from 26 Feb to 29 Feb. Brands from all around the world come here to showcase their new-gen...",
+      "url": "https://www.youtube.com/watch?v=znVOZJegCB8",
+      "urlToImage": "https://i.ytimg.com/vi/znVOZJegCB8/maxresdefault.jpg",
+      "publishedAt": "2024-02-23T20:18:27Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "YouTube"
       },
-      "author": "VideoCardz.com",
-      "title": "NVIDIA App revealed, unified modern Control Panel and Experience software, RTX HDR and optional login - VideoCardz.com",
-      "description": null,
-      "url": "https://videocardz.com/newz/nvidia-app-revealed-unified-modern-control-panel-and-experience-software-rtx-hdr-and-optional-login",
-      "urlToImage": null,
-      "publishedAt": "2024-02-22T14:17:00Z",
+      "author": null,
+      "title": "Kingmakers - Official Trailer | IGN Fan Fest 2024 - IGN",
+      "description": "Journey to 14th-century England and engage in medieval battle with modern weapons and vehicles in this brutal, action-packed trailer for Kingmakers, an upcom...",
+      "url": "https://www.youtube.com/watch?v=XDPr6nOnOHc",
+      "urlToImage": "https://i.ytimg.com/vi/XDPr6nOnOHc/maxresdefault.jpg",
+      "publishedAt": "2024-02-23T18:46:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Pokémon Needs To Come Out Swinging After Palworld - Kotaku",
+      "description": "The next Pokémon Presents showcase will set the tone for the series after Palworld’s success",
+      "url": "https://kotaku.com/pokemon-presents-showcase-palworld-black-white-remake-1851282190",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c13dadf8daed420fb72b2592bdf93a4f.jpg",
+      "publishedAt": "2024-02-23T18:30:00Z",
+      "content": "The annual Pokémon Day Presents showcase takes place this Tuesday, February 27 in celebration of the series anniversary. This is where The Pokémon Company typically announces its next big game, and o… [+4864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": null,
+      "title": "Skull And Bones review: an exceptionally boring live service shipping sim - Rock Paper Shotgun",
+      "description": "After 11 years of development, Ubisoft Singapore's open world pirate-venture is a deeply ungenerous live service that's…",
+      "url": "https://www.rockpapershotgun.com/skull-and-bones-review",
+      "urlToImage": "https://assetsio.reedpopcdn.com/Skull-and-Bones-new-ship.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-02-23T17:51:48Z",
+      "content": "Skull And Bones reviewAfter 11 years of development, Ubisoft Singapore's open world pirate-venture is a deeply ungenerous live service that's so dull, I'd turn anywhere else for entertainment. \r\n<ul>… [+11144 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Spotify HiFi is still MIA after three years, and now so is my subscription - The Verge",
+      "description": "Spotify has still failed to match Apple, Amazon, and other music services in offering lossless audio streaming. And that’s a shame considering how good it is at everything else.",
+      "url": "https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FnYl5R5wefFNOvFsruvc1qojKGM=/0x0:2040x1360/1200x628/filters:focal(970x754:971x755)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951389/STK088_VRG_Illo_N_Barclay_6_spotify.jpg",
+      "publishedAt": "2024-02-23T17:21:18Z",
+      "content": "Spotify HiFi is still MIA after three years, and now so is my subscription\r\nSpotify HiFi is still MIA after three years, and now so is my subscription\r\n / Eventually it came to a point where I couldn… [+4105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": "ZeeBiz WebTeam",
+      "title": "Samsung has leading role to play in AI revolution, says TM Roh - Zee Business",
+      "description": "Calling Samsung Galaxy S24 series devices companys first AI smartphones, Roh said developing the Galaxy S24 series has been the most rewarding period of my career.",
+      "url": "https://www.zeebiz.com/technology/news-samsung-has-leading-role-to-play-in-ai-revolution-says-tm-roh-277821",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/02/23/281872-tmroh.jpg",
+      "publishedAt": "2024-02-23T17:13:27Z",
+      "content": "A month after Samsung unveiled its Galaxy S24 series globally,  Dr TM Roh, President &amp; Head of MX Business, Samsung Electronics, said that the company has a leading role to play in the AI revolut… [+1561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Tom Ivan",
+      "title": "Warner says Suicide Squad: Kill the Justice League has fallen short of expectations | VGC - Video Games Chronicle",
+      "description": "Following several delays, Rocksteady’s game was released this month to mixed…",
+      "url": "https://www.videogameschronicle.com/news/warner-says-suicide-squad-kill-the-justice-league-has-fallen-short-of-expectations/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2024/01/Suicide-Squad_-Kill-the-Justice-League_20240130003019.jpg",
+      "publishedAt": "2024-02-23T16:54:12Z",
+      "content": "Suicide Squad: Kill the Justice League has fallen short of Warner Bros. Discoverys expectations.\r\nFollowing a number of delays, the game was released on February 2 for PS5, Xbox Series X/S and PC via… [+1503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Matthew J. Belvedere",
+      "title": "Jim Cramer sees the moon stock up 30% as a good opportunity to take profits - CNBC",
+      "description": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio.",
+      "url": "https://www.cnbc.com/2024/02/23/jim-cramer-sees-the-moon-stock-up-30percent-as-a-good-opportunity-to-take-profits.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107376949-1708620464629-Int_Machines-1760452044454842575-img1.jpg?v=1708620878&w=1920&h=1080",
+      "publishedAt": "2024-02-23T16:34:47Z",
       "content": null
     },
     {
@@ -228,39 +137,130 @@
         "id": null,
         "name": "Livemint"
       },
-      "author": "Amit Rahi",
-      "title": "Best 32 inch monitors to boost productivity: Top 10 options to consider | Mint - Mint",
-      "description": "Explore the best 32-inch monitors for work or gaming. Compare features, value and performance to find the perfect display for your needs.",
-      "url": "https://www.livemint.com/technology/gadgets/best-32-inch-monitors-to-boost-productivity-top-10-options-to-consider-11708596316861.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/22/1600x900/best_32_inch_monitors_1708597298981_1708597330094.jpg",
-      "publishedAt": "2024-02-22T14:16:03Z",
-      "content": "A 32-inch monitor offers a generous screen size that strikes a balance between immersion and productivity, making it ideal for a wide range of uses. From crisp, detailed images to smooth gaming perfo… [+12672 chars]"
+      "author": "Bharat Sharma",
+      "title": "Charging fan: 7 best options for portable cooling | Mint - Mint",
+      "description": "Charging fan: Compact, efficient, and portable, these fans offer convenient USB charging, making them perfect for outdoor activities, travel, or keeping cool in any room.",
+      "url": "https://www.livemint.com/technology/gadgets/charging-fan-7-best-options-for-portable-cooling-11708684555299.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/23/1600x900/111111_1708684698100_1708684705574.PNG",
+      "publishedAt": "2024-02-23T16:19:38Z",
+      "content": "Find the ultimate picks in portable cooling with our selection of the best charging fans. Such fans are engineered for versatility and convenience, giving you reliable performance wherever you go. Wh… [+12610 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "YouTube"
       },
-      "author": "Paul Tassi",
-      "title": "New ‘Helldivers 2’ Patch Will Finally Crack Down On AFK Players - Forbes",
-      "description": "To get around Helldivers 2 refusing to log in players attempting to play due to its myriad of server issues, some players have been simply…not logging out at all.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/02/22/new-helldivers-2-patch-will-finally-crack-down-on-afk-players/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65d753f1cbc6073f1979ac13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-02-22T14:04:34Z",
-      "content": "Helldivers 2\r\nArrowhead\r\nTo get around Helldivers 2 refusing to log in players attempting to play due to its myriad of server issues, some players have been simplynot logging out at all.\r\nA common ta… [+2976 chars]"
+      "author": null,
+      "title": "Apple Vision Pro vs. Meta Quest 3: Battle of Realities - CNET",
+      "description": "We compare work, hand tracking, games, and playing videos in both headsets, and also discuss how shareable they are. Which wins?Find these Mixed Reality Head...",
+      "url": "https://www.youtube.com/watch?v=2ZAHunnZUAM",
+      "urlToImage": "https://i.ytimg.com/vi/2ZAHunnZUAM/maxresdefault.jpg",
+      "publishedAt": "2024-02-23T16:00:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Moises Taveras",
+      "title": "Helldivers 2 Raises Player Cap To 700,000 Ahead Of Busy Weekend - Kotaku",
+      "description": "Arrowhead Game Studios still expects more players than that, but promises a smoother time",
+      "url": "https://kotaku.com/helldivers-2-raises-server-cap-1851281563",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/eb09abf82e65b244a8b6ac01e0b699e9.jpg",
+      "publishedAt": "2024-02-23T16:00:00Z",
+      "content": "Let me be upfront: no, youre not the only person trying and failing to spread democracy in Helldivers 2this week.\r\nThe hard-as-nails and ridiculously popular co-op shooter has had a hard time adjusti… [+1579 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "How Apple, Samsung helped 5G smartphone shipments cross 2 billion mark - The Times of India",
+      "description": "Global cumulative shipments of 5G smartphones reached 2 billion units in the fourth quarter of 2023 (Q4 2023) with Apple and Samsung as the top performers in this market. Analysts attributed this rapid growth to improved affordability and accessibility of 5G …",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apple-samsung-helped-5g-smartphone-shipments-cross-2-billion-mark/articleshow/107950170.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107950248,width-1070,height-580,imgsize-30300,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-23T15:57:00Z",
+      "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Google Tests Killing the News - Gizmodo",
+      "description": "Google's news filter disappeared for several users on Wednesday as the company tested new versions of Search.",
+      "url": "https://gizmodo.com/google-tests-killing-the-news-1851281505",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c640caaa0e60172844ee1dd79d3d1b11.jpg",
+      "publishedAt": "2024-02-23T15:50:00Z",
+      "content": "The News tab has been a staple of Google Search for over 20 years, so when it disappeared on Wednesday, you can imagine how confused some users were. It turns out, Google was testing out a version of… [+2440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Shweta Kukreti",
+      "title": "Musk says Google ensured prompt action to fix ‘racial and gender bias’ in Gemini - Hindustan Times",
+      "description": "X owner Elon Musk said Google has assured an action to fix the “racial and gender bias” in the tech giant's latest image generation model.'",
+      "url": "https://www.hindustantimes.com/business/musk-says-google-executive-ensured-prompt-action-to-fix-racial-and-gender-bias-in-gemini-101708701306319.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/23/1600x900/USA-SEC-MUSK-0_1707745935253_1708702805666.JPG",
+      "publishedAt": "2024-02-23T15:48:18Z",
+      "content": "After raising concerns over Gemini AI following reports of inaccuracies in depicting historical figures, X owner Elon Musk said Google has assured an action to fix the racial and gender bias in the t… [+2446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Tom McParland",
+      "title": "Porsche Taycan Turbos Have Lost Up To $100,000 Value In 4 Years - Jalopnik",
+      "description": "This high-performance, German EV has taken a big drop in value.",
+      "url": "https://jalopnik.com/porsche-taycan-turbos-have-lost-up-to-100-000-value-in-1851281337",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/46321e656b2c04f2219a62c4ebfbb25a.jpg",
+      "publishedAt": "2024-02-23T15:45:00Z",
+      "content": "Depreciation is hitting EVs harder than most other vehicles. A combination of technology upgrades, price fluctuations on new cars, and lack of demand has meant a rapid drop in value for many electric… [+2419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Willa Rowe",
+      "title": "Nightingale Devs Prioritizing Offline Mode After Fan Feedback - Kotaku",
+      "description": "Developer Inflexion Games says it ‘misjudged’ the desire for this feature",
+      "url": "https://kotaku.com/nightingale-offline-mode-steam-early-access-1851281486",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1a3e1e306fcf137d0213cc9af456fca9.jpg",
+      "publishedAt": "2024-02-23T15:45:00Z",
+      "content": "Nightingale, a new co-operative survival game developed by Inflexion Games and led by former BioWare boss Aaryn Flynn, released in Early Access on February 20 and required an always-online connection… [+1973 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Joanna Nelius",
-      "title": "Nvidia's finally replacing GeForce Experience with this all-in-one “Nvidia app” - The Verge",
-      "description": "Nvidia is launching a beta for the Nvidia app for Windows PCs that use its graphics cards, combining the features of the GeForce Experience and Control Panel in one package.",
-      "url": "https://www.theverge.com/2024/2/22/24079529/nvidia-app-geforce-experience-control-panel-windows",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t1zx7m8eNJ6upFzeemPLsWXi6N4=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg",
-      "publishedAt": "2024-02-22T14:01:44Z",
-      "content": "Nvidias finally replacing GeForce Experience with this all-in-one Nvidia app\r\nNvidias finally replacing GeForce Experience with this all-in-one Nvidia app\r\n / The Nvidia app beta is available to down… [+2835 chars]"
+      "author": "Victoria Song",
+      "title": "Vision Pro owners are reporting a mysterious crack in the front glass - The Verge",
+      "description": "A small number of Apple Vision Pro owners have posted pictures of the same vertical crack appearing on the nose bridge of their headsets.",
+      "url": "https://www.theverge.com/2024/2/23/24080886/apple-vision-pro-cracks-damage-glass",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Qcnvo3pNh06SuU4vffBTSIzsmlY=/0x0:1921x1120/1200x628/filters:focal(961x560:962x561)/cdn.vox-cdn.com/uploads/chorus_asset/file/25300548/sudden_random_crack_in_the_front_glass_v0_jlq2g6vj86kc1.jpg",
+      "publishedAt": "2024-02-23T15:37:44Z",
+      "content": "Vision Pro owners are reporting a mysterious crack in the front glass\r\nVision Pro owners are reporting a mysterious crack in the front glass\r\n / Owners see the same vertical hairline crack over the n… [+2265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CharlieINTEL.com"
+      },
+      "author": "Nathan Warby",
+      "title": "MW3 & Warzone accounts completely reset amid major server issues: Devs respond - CharlieINTEL.com",
+      "description": "Modern Warfare 3 and Warzone players are running into major server issues, which also seems to have reset all of their progress.",
+      "url": "https://www.charlieintel.com/call-of-duty/mw3-warzone-accounts-completely-reset-amid-major-server-issues-306690/",
+      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2024/01/24/warzone-operators-on-urzikstan.jpg",
+      "publishedAt": "2024-02-23T15:14:30Z",
+      "content": "Warzone and Modern Warfare 3 players are reporting major server issues that are preventing them from playing the game, with some even claiming that they have been temporarily demoted back down to Ran… [+3022 chars]"
     }
   ]
 }
