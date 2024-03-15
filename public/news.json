@@ -1,45 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 211,
+  "totalResults": 192,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Thomas Germain",
-      "title": "Doctors Are Using the Apple Vision Pro During Surgery - Gizmodo",
-      "description": "A medical team in the UK harnessed the headset during two spinal surgeries. It plays into Apple's health care vision for its Vision Pro.",
-      "url": "https://gizmodo.com/doctors-are-using-the-apple-vision-pro-during-surgery-1851329884",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d51113d47d60aa8c1198e970216a5643.jpg",
-      "publishedAt": "2024-03-12T21:50:00Z",
-      "content": "A medical team at Cromwell Hospital in London strapped on the $3,500 Apple Vision Pro during two spinal surgeries. Doctors are calling the device a game-changing tool, beefing up Apples claims that t… [+2071 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "After Payday 3 Flops, Starbreeze Removes CEO And Looks For 'Different Leadership' - Kotaku",
-      "description": "The co-op bank heist simulator sold less than hoped and has very few players online in 2024",
-      "url": "https://kotaku.com/payday-3-starbreeze-flop-ceo-removed-fired-low-sales-1851329780",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/659422409e5044c053b2272d6fff4ba4.jpg",
-      "publishedAt": "2024-03-12T20:32:52Z",
-      "content": "The launch of Payday 3 in 2023 was a disaster, leading to poor review scores, a negative Steam rating, and fans abandoning the new game to play Payday 2 instead. Now, a few months later, and after Pa… [+2245 chars]"
+      "title": "Stardew Valley's 1.6 Update Confirms Years-Old Fan Theory Is True - Kotaku",
+      "description": "Yep, harvesting crops in certain directions is faster than others",
+      "url": "https://kotaku.com/stardew-valley-1-6-update-theory-harvesting-speed-bug-1851333147",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/145e8a72f70adeadb3871868856320e8.jpg",
+      "publishedAt": "2024-03-13T21:00:00Z",
+      "content": "Some Stardew Valley fans are feeling vindicated today after the games creator, Eric Barone, confirmed on Twitter that harvesting crops from left to right was faster than harvesting from right to left… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Epic asks judge to enforce the Apple App Store injunction - The Verge",
+      "description": "Epic says that Apple’s new app review guidelines still run afoul of an injunction requiring the company to allow developers to offer payments outside of the App Store.",
+      "url": "https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PGHKfo-anEYmrQmzreV1zbrN_Yw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg",
+      "publishedAt": "2024-03-13T20:40:00Z",
+      "content": "Epic asks judge to enforce the Apple App Store injunction\r\nEpic asks judge to enforce the Apple App Store injunction\r\n / Apples outside payments guidelines are still anticompetitive, according to an … [+2240 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investopedia"
+        "name": "Rolling Stone"
       },
-      "author": "Naomi Buchanan",
-      "title": "Apple Will Let EU Users Download From Developers' Sites To Avoid App Store Commission Fees - Investopedia",
-      "description": "Apple said Tuesday it will allow European Union (EU) users to download apps directly from developer sites, as the iPhone maker faces scrutiny under recent anti-trust legislation.",
-      "url": "https://www.investopedia.com/apple-will-let-eu-users-download-from-developers-sites-to-avoid-app-store-commission-fees-8607979",
-      "urlToImage": "https://www.investopedia.com/thmb/59pGE3XL2gv-IFU88gNLAuFb9Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-20257600151-e1a9f3a486134e55bc8698906ab1c1a8.jpg",
-      "publishedAt": "2024-03-12T20:15:37Z",
-      "content": "<ul><li>Apple said Tuesday it will allow users in the European Union (EU) to directly download apps onto iOS products from developers' websites.</li><li>By making purchases directly through developer… [+2058 chars]"
+      "author": "Christopher Cruz",
+      "title": "Why Maddy Thorson Could Never Make a Sequel to ‘TowerFall’ - Rolling Stone",
+      "description": "The 'Celeste' developer shares mixed feelings on the making of PlayStation 4 and Switch multiplayer classic 'TowerFall.'",
+      "url": "http://www.rollingstone.com/culture/culture-features/maddy-thorson-towerfall-celeste-trans-stories-1234985446/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/03/Y-Hanson-Photography-Maddy-Headshots-August-2023_60-2.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-03-13T20:04:03Z",
+      "content": "Imagine a perfect party game — simple enough for anyone to pick up, yet balanced wisely to make everyone feel empowered. Chaotic to look at, but once in-hand it locks players into a trance of control… [+14016 chars]"
     },
     {
       "source": {
@@ -47,207 +47,103 @@
         "name": "9to5Mac"
       },
       "author": "Chance Miller",
-      "title": "11-inch OLED iPad Pro could be in short supply when it launches - 9to5Mac",
-      "description": "Apple is expected to announce new 11- and 12.9-inch iPad Pro models with OLED screens as soon as this month....",
-      "url": "https://9to5mac.com/2024/03/12/new-ipad-pro-production-ramp-screens/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/ipad-pro-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-03-12T19:38:00Z",
-      "content": "Apple is expected to announce new 11- and 12.9-inch iPad Pro models with OLED screens as soon as this month. A new report from analyst Ross Young suggests that production of the new 11-inch iPad Pro … [+1143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Alfonso Maruccia",
-      "title": "Apple M3 MacBook Air hits 114 degrees Celsius under full load - TechSpot",
-      "description": "Apple has launched new MacBook Air models to generally positive reviews. The new 13-inch and 15-inch MacBook Airs are based on the M3 SoC that Apple claims...",
-      "url": "https://www.techspot.com/news/102227-m3-based-macbook-air-hits-114-degrees-celsius.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-12-image-18.jpg",
-      "publishedAt": "2024-03-12T19:24:00Z",
-      "content": "Boiling hot: Laptops and portable devices are known for running hot when CPU and GPU units have to deal with demanding workloads. However, recent tests have shown that the newly released M3 MacBook A… [+2169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phoronix"
-      },
-      "author": null,
-      "title": "KDE Plasma 6.0.2 Delivers Another Week Worth Of Bug Fixes - Phoronix",
-      "description": "Last week saw Plasma 6.0.1 for an initial batch of bug fixes for this major desktop environment that debuted the week prior",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.0.2",
-      "urlToImage": "https://www.phoronix.net/image.php?id=the-compositor-modules-como&image=como_kde6",
-      "publishedAt": "2024-03-12T19:20:00Z",
-      "content": "Last week saw Plasma 6.0.1 for an initial batch of bug fixes for this major desktop environment that debuted the week prior. Out today is Plasma 6.0.2 with another round of bug fixes that have been a… [+1020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: 60K Nothing Phone 2a Sold In 60 Minutes, Next Samsung Smartwatch May Get Square Dial, More - ABP Live",
-      "description": "Within 60 minutes of its release, 60,000 units were sold across multiple channels. Earlier this month, Nothing collaborated with Croma for Nothing Drops for Phone 2a in India.",
-      "url": "https://news.abplive.com/technology/gadgets/top-tech-news-today-march-12-60000-nothing-phone-2a-sold-in-60-minutes-next-samsung-smartwatch-may-get-square-dial-1671531",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/03/13/52d6d493de54f8914b56fe1dfcdce30e1710269245381295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-03-12T18:56:16Z",
-      "content": "60K Nothing Phone 2a Sold In 60 Minutes, Company Says\r\nLast week, Nothing unveiled its newest smartphone, the Nothing Phone 2a, in India and now, the device has gone on its debut sale. The company ha… [+2255 chars]"
+      "title": "iFixit teardown shows one key change Apple made with the M3 MacBook Air [Video] - 9to5Mac",
+      "description": "Over the weekend, early testing revealed that the new base model M3 MacBook Air features significantly faster SSD speeds. This...",
+      "url": "https://9to5mac.com/2024/03/13/m3-vs-m2-macbook-air-ssd-speeds-teardown/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/m3-macbook-air-teardowns-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-03-13T19:53:00Z",
+      "content": "Over the weekend, early testing revealed that the new base model M3 MacBook Air features significantly faster SSD speeds. This is thanks to Apple’s switch from using one 256GB storage chip to two 128… [+1166 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Zack Zwiezen",
-      "title": "Why Friendly Fire Is Always On, According To Helldivers 2's Devs - Kotaku",
-      "description": "The team behind the PS5 and PC shooter will likely never add an option to turn off the ability to bomb your buds",
-      "url": "https://kotaku.com/helldivers-2-friendly-fire-always-on-arrowhead-ps5-pc-1851329269",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/291c54602ae3e2f997dc488568e36dec.jpg",
-      "publishedAt": "2024-03-12T18:45:00Z",
-      "content": "Arrowhead Games massively successful co-op shooter, Helldivers 2, is different than a lot of other games out there right now, challenging players with tough enemies and hard missions. However, one el… [+3937 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Widder",
-      "title": "Grid's framed, nostalgia-inducing gadgets are up to 40 percent off - The Verge",
-      "description": "Grid Studio is running a spring sales event, allowing you to save on a variety of disassembled tech. You can also save on Sony’s WH-1000XM5 headphones and Oppenheimer.",
-      "url": "https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LC_4XSNe1fhe6VeoBYtHBg1BdXQ=/0x0:1080x720/1200x628/filters:focal(540x360:541x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25332034/Grid_Game_Boy_Color_Press_Image.jpg",
-      "publishedAt": "2024-03-12T18:34:25Z",
-      "content": "Grids framed, nostalgia-inducing gadgets are up to 40 percent off\r\nGrids framed, nostalgia-inducing gadgets are up to 40 percent off\r\n / You can also score discounts on Sonys noise-canceling XM5, e-b… [+5172 chars]"
+      "author": "Levi Winslow",
+      "title": "FF7 Mod Transforms Aerith, Tifa, Yuffie Into Muscle Mommies - Kotaku",
+      "description": "The ladies of Remake have really been hitting the gym lately",
+      "url": "https://kotaku.com/final-fantasy-7-remake-mod-aerith-tifa-yuffie-buff-1851332936",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1348e50b8fca7bb01025f3a11f77040f.jpg",
+      "publishedAt": "2024-03-13T19:45:00Z",
+      "content": "Like taking a pair of trousers to the tailor, a good mod can breathe new life into a game, altering the way it looks or plays to excitingor hilariousresults. Final Fantasy 7 Remake has a few solid mo… [+2642 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digital Trends"
+        "name": "News18"
       },
-      "author": "Luke Larsen",
-      "title": "4 monitors you should buy instead of the Apple Studio Display - Digital Trends",
-      "description": "The Apple Studio Display is a great monitor -- if only it wasn't so expensive. Here are some options you should consider first.",
-      "url": "https://www.digitaltrends.com/computing/monitors-you-should-buy-instead-of-apple-studio-display/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/dell-ultrasharp-27-4K-01.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2024-03-12T18:27:40Z",
-      "content": "Dell\r\nThe Apple Studio Display got a lot of heat when it launched, but it’s actually quite a high-quality monitor. Colors are great, and it’s very bright, topping out at 560 nits in my own testing. E… [+4522 chars]"
+      "author": "S Aadeetya",
+      "title": "Inventor of World Wide Web Makes Top Predictions For The Future Of Internet And AI - News18",
+      "description": "The World Wide Web was invented in 1989 by Tim Berners-Lee. However, he is disappointed with the outcome of his original vision for the web.",
+      "url": "https://www.news18.com/tech/inventor-of-world-wide-web-makes-top-predictions-for-the-future-of-internet-and-ai-8813710.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/artificial-intelligence-2023-12-ee14386f7fc63814cca8f5c56ad27388-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-03-13T19:31:09Z",
+      "content": "Tim Berners-Lee invented the World Wide Web (www) about 35 years ago, an information system allowing us to share content across the Internet and access nearly endless information. As part of an inter… [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Lawrence Bonk",
+      "title": "YouTube's redesigned TV app focuses on everything but video - Engadget",
+      "description": "YouTube is rolling out a redesign of its app on TVs, with an increased emphasis on shopping and the comment feed. The video feed also looks to be shrinking a...",
+      "url": "https://www.engadget.com/youtubes-redesigned-tv-app-focuses-on-everything-but-video-183722152.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hic8Wqt2HPEnbNK_AOn91A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzE-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/833383a0-e162-11ee-babe-06f0a04df943",
+      "publishedAt": "2024-03-13T18:52:05Z",
+      "content": "YouTube just announced that itll be rolling out a redesign for its TV app over the next few weeks. Concrete details are scant, but the streaming platform says the new design will open the door for a … [+1863 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "SamMobile"
       },
-      "author": "Caleb Naysmith",
-      "title": "'We Don't Want To Think About Apple Being Evil,' Says Y Combinator Founder Paul Graham After Tech Giant Terminates Epic Games Developer Account Over Founder's Critical Tweets - Yahoo Finance",
-      "description": "Apple Inc. is the second most valuable company in the world, approaching a $3 trillion market capitalization. Roughly 64% of Americans own an Apple product, ...",
-      "url": "https://finance.yahoo.com/news/dont-want-think-apple-being-180011647.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/56a2526f277bebe2e792d3578a1ea75b",
-      "publishedAt": "2024-03-12T18:00:11Z",
-      "content": "Apple Inc. is the second most valuable company in the world, approaching a $3 trillion market capitalization. Roughly 64% of Americans own an Apple product, meaning the company has massive amounts of… [+4367 chars]"
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "Latest Galaxy Z Fold 5 update more widely available (it's not One UI 6.1) - SamMobile - Samsung news",
+      "description": "The latest update for the Galaxy Z Fold 5 is beginning to roll out in Europe following its debut in ...",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-5-march-2024-security-update-europe/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/08/Galaxy-Z-Fold-5-review-33-720x405.jpg",
+      "publishedAt": "2024-03-13T18:38:00Z",
+      "content": "The latest update for the Galaxy Z Fold 5 is beginning to roll out in Europe following its debut in the USA earlier this week. As the title already gave away, this update does not bring One UI 6.1 to… [+1025 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Unreleased preview of Microsoft's OS/2 2.0 is a glimpse down a road not taken - Ars Technica",
+      "description": "Microsoft's involvement in IBM's OS/2 project ended before v2.0 was released.",
+      "url": "https://arstechnica.com/gadgets/2024/03/unreleased-preview-version-of-microsofts-os-2-2-0-posted-to-internet-archive/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/os2-microsoft-760x380.jpeg",
+      "publishedAt": "2024-03-13T18:30:12Z",
+      "content": "Enlarge/ This big, weathered box contains an oddball piece of PC history: one of the last builds of IBM's OS/2 that Microsoft worked on before pivoting all of its attention to Windows. \r\n67\r\nIn the a… [+3972 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BleepingComputer"
+        "name": "MacRumors"
       },
-      "author": "Lawrence Abrams",
-      "title": "Microsoft March 2024 Patch Tuesday fixes 60 flaws, 18 RCE bugs - BleepingComputer",
-      "description": "Today is Microsoft's March 2024 Patch Tuesday, and security updates have been released for 60 vulnerabilities, including eighteen remote code execution flaws.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2024-patch-tuesday-fixes-60-flaws-18-rce-bugs/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/12/13/patch-tuesday-header.jpg",
-      "publishedAt": "2024-03-12T17:52:40Z",
-      "content": "Today is Microsoft's March 2024 Patch Tuesday, and security updates have been released for 60 vulnerabilities, including eighteen remote code execution flaws.\r\nThis Patch Tuesday fixes only two criti… [+13208 chars]"
+      "author": "Joe Rossignol",
+      "title": "M3 MacBook Air Teardown Shows Apple Fixed Base Model's Biggest Flaw - MacRumors",
+      "description": "The repair website iFixit today shared a video teardown of the base model 13-inch MacBook Air with the M3 chip and 256GB of storage, and it shows...",
+      "url": "https://www.macrumors.com/2024/03/13/m3-macbook-air-ifixit-teardown/",
+      "urlToImage": "https://images.macrumors.com/t/NL0pn18QhpvG2XW9EkdmcMB_fUs=/2500x/article-new/2024/03/macbook-air-new-blue.jpg",
+      "publishedAt": "2024-03-13T18:11:51Z",
+      "content": "The repair website iFixit today shared a video teardown of the base model 13-inch MacBook Air with the M3 chip and 256GB of storage, and it shows that this configuration is equipped with two 128GB fl… [+1380 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Eurogamer.net"
       },
-      "author": "Moises Taveras",
-      "title": "Stardew Valley Fans Thrilled By 1.6 Patch Change To Fruit Trees - Kotaku",
-      "description": "Developer Eric 'ConcernedApe' Barone gave fans a taste of the upcoming update on social media",
-      "url": "https://kotaku.com/stardew-valley-16-update-patch-fruit-trees-1851328916",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d57a21ad0b587ef3f44334b231a24985.jpg",
-      "publishedAt": "2024-03-12T17:45:00Z",
-      "content": "Stardew Valleys fast-approaching 1.6 update is introducing new game content such as a new festival and dialogue, and its bringing some quality-of-life changes with it too. Stardews developer Eric Con… [+1772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Rajesh Pandey",
-      "title": "Samsung isn't bringing its Pixel 8a competitor to the US this year - Android Police",
-      "description": "Galaxy fans will have to pick between the A35 or the S23 FE",
-      "url": "https://www.androidpolice.com/samsung-isnt-bringing-pixel-8a-competitor-us-this-year/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/samsung-galaxy-a54-home-screen.jpg",
-      "publishedAt": "2024-03-12T17:31:00Z",
-      "content": "Summary\r\n<ul><li> Samsung won't launch the Galaxy A55 in the US. Instead, it is releasing the Galaxy A35. </li><li> Consider Samsung's flagship S23 and S23 FE as alternatives to the A55, as the compa… [+2440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Hirun Cryer",
-      "title": "After releasing the mechs, Helldivers 2 calls on players to free 4 \"high-priority\" planets to \"activate the Terminid Control System,\" and it sounds like a big deal - Gamesradar",
-      "description": "The next Major Order is now on",
-      "url": "https://www.gamesradar.com/after-releasing-the-mechs-helldivers-2-calls-on-players-to-free-4-high-priority-planets-to-activate-the-terminid-control-system-and-it-sounds-like-a-big-deal/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kyd9AfEDktFmzNBtovtHED-1200-80.jpg",
-      "publishedAt": "2024-03-12T16:54:42Z",
-      "content": "Helldivers 2 has a brand new Major Order focusing on quarantining the Terminid threat, but players will need to rapidly liberate four planets to clear the objective.\r\nThe brand new Major Order to 'Ac… [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Kif Leswing",
-      "title": "Apple will allow iPhone app downloads from websites in Europe - CNBC",
-      "description": "iPhone users in the EU will be able to download apps from websites.",
-      "url": "https://www.cnbc.com/2024/03/12/apple-will-allow-iphone-app-downloads-from-websites-in-europe.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105320454-1531226554139gettyimages-967227678.jpeg?v=1710261267&w=1920&h=1080",
-      "publishedAt": "2024-03-12T16:46:24Z",
-      "content": "IPhone users in the European Union will be able to download apps from websites, instead of through the App Store or a competing app store app, Apple said, in the the latest change forced by the Europ… [+2533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Liam Croft",
-      "title": "System Shock Remake Is Out for PS5, PS4 on 21st May - Push Square",
-      "description": "Nightdive Studios brings back a classic",
-      "url": "https://www.pushsquare.com/news/2024/03/system-shock-remake-is-out-for-ps5-ps4-on-21st-may",
-      "urlToImage": "https://images.pushsquare.com/58bd303e78e0c/1280x720.jpg",
-      "publishedAt": "2024-03-12T16:45:00Z",
-      "content": "Subscribe to Push Square on YouTube\r\nThe remake of System Shock, which first released for PC last year, will be ported to PS5 and PS4 on 21st May 2024, it's been confirmed. Having inspired the likes … [+872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Two excellent retro RPGs are getting remastered for Xbox this month - TrueAchievements",
-      "description": "Fans of the classic RPGs Grandia and Grandia 2 should keep an eye out later this month, as the Grandia HD Collection is launching on Xbox.",
-      "url": "https://www.trueachievements.com/news/grandia-hd-collection-launching-xbox",
-      "urlToImage": "https://www.trueachievements.com/imgs/147159/two-excellent-retro-rpgs-are-getting-remastered-for-xbox-this-month.jpg",
-      "publishedAt": "2024-03-12T16:35:34Z",
-      "content": "GungHo Online Entertainment has announced that another contender for our list of the best RPGs on Xbox will arrive on March 26, when the Grandia HD Collection releases on Xbox. Both Grandia and Grand… [+1663 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Ryan McCaffrey",
-      "title": "Nobody Wants to Die, a Detective Noir Adventure Set in 2329 New York City, Announced for PC, PS5, and Xbox - IGN",
-      "description": "It seems that Cyberpunk 2077 might not be the only gorgeous Polish-developed sci-fi game set in the future for much longer, as fellow Poland-based developer Critical Hit Games has announced Nobody Wants to Die, a new detective noir adventure set in New York C…",
-      "url": "https://www.ign.com/articles/nobody-wants-to-die-a-detective-noir-adventure-set-in-2329-new-york-city-announced-for-pc-ps5-and-xbox",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/03/11/nobodywantstodie-blogroll-1710183115400.jpg?width=1280",
-      "publishedAt": "2024-03-12T16:03:20Z",
-      "content": "It seems that Cyberpunk 2077 might not be the only gorgeous Polish-developed sci-fi game set in the future for much longer, as fellow Poland-based developer Critical Hit Games has announced Nobody Wa… [+1329 chars]"
+      "author": "Matt Wales",
+      "title": "Resident Evil 3 headlines PlayStation Plus Extra's games for March - Eurogamer.net",
+      "description": "Sony has revealed the games joining its PlayStation Plus Extra and Premium catalogue in March, with Capcom's Resident E…",
+      "url": "https://www.eurogamer.net/resident-evil-3-headlines-playstation-plus-extras-games-for-march",
+      "urlToImage": "https://assetsio.gnwcdn.com/Jill-Valentine-Resident-Evil-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-03-13T18:10:28Z",
+      "content": "Sony has revealed the games joining its PlayStation Plus Extra and Premium catalogue in March, with Capcom's Resident Evil 3 remake and Firaxis' stellar superhero strategy game Marvel's Midnight Suns… [+2224 chars]"
     },
     {
       "source": {
@@ -255,12 +151,116 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Nobody Wants to Die - Official Reveal Trailer - IGN",
-      "description": "Lose yourself in the dystopian world of New York in the year 2329 in Nobody Wants to Die, a new detective noir adventure where immortality comes at a price t...",
-      "url": "https://www.youtube.com/watch?v=PDpsmhRBev8",
-      "urlToImage": "https://i.ytimg.com/vi/PDpsmhRBev8/maxresdefault.jpg",
-      "publishedAt": "2024-03-12T16:00:15Z",
+      "title": "19 Minutes of Call of Duty: Warzone Mobile Early Access Gameplay - IGN",
+      "description": "We went to the Activision offices to get hands-on and share some Call of Duty Warzone mobile early access gameplay. In this match against bots, we go through...",
+      "url": "https://www.youtube.com/watch?v=1MNLwPF1WKU",
+      "urlToImage": "https://i.ytimg.com/vi/1MNLwPF1WKU/maxresdefault.jpg",
+      "publishedAt": "2024-03-13T18:08:44Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insider-gaming.com"
+      },
+      "author": "Grant Taylor-Hill",
+      "title": "GTA 6 Will Be 'The Most Important Thing to Ever Release', Analyst Says - Insider Gaming",
+      "description": "An analyst at Circana has predicted that GTA 6 will be 'the most important thing to ever release' - at least until GTA 7, right?",
+      "url": "https://insider-gaming.com/gta-6-most-important-thing/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2024/03/gta-6-kfg-1024x576.png",
+      "publishedAt": "2024-03-13T18:03:23Z",
+      "content": "Grand Theft Auto 6 stormed to the front page of every news feed worldwide when Rockstar Games revealed it in December 2023. It quickly broke viewership records and soared up the charts, setting the i… [+1952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Geoff Keighley Finally Tweets About Layoffs, And The Timing Is Awfully Convenient - Kotaku",
+      "description": "It almost seems like the host and producer behind The Game Awards wanted to avoid backlash",
+      "url": "https://kotaku.com/geoff-keighley-layoffs-tweets-sgf-summer-game-fest-1851332390",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d1873e5fee1b33935e03de48e8cdc9f9.jpg",
+      "publishedAt": "2024-03-13T18:00:00Z",
+      "content": "Geoff Keighley briefly, and barely, addressed the recent, historic number of layoffs that have hit the video game industry already this year, after failing to do so for months. But before I could eve… [+3782 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft Teams is finally moving to a single app for personal and work - The Verge",
+      "description": "Microsoft Teams will finally be a single app for personal and work accounts. The new app is rolling out to businesses next month and will be part of Windows 11.",
+      "url": "https://www.theverge.com/2024/3/13/24099723/microsoft-teams-unified-app-personal-work-accounts",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rmWEVoDVWWbcsRx_I0m-045sp68=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/19344713/microsoftteams.jpg",
+      "publishedAt": "2024-03-13T17:59:05Z",
+      "content": "Microsoft Teams is finally moving to a single app for personal and work\r\nMicrosoft Teams is finally moving to a single app for personal and work\r\n / The new Teams app starts rolling out in April with… [+2441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Matt Jarvis",
+      "title": "Sea of Stars is adding co-op multiplayer to the dazzling Chrono Trigger-inspired RPG - Rock Paper Shotgun",
+      "description": "One of 2023’s best single-player games looks set to become one of 2024’s top multiplayer offerings.",
+      "url": "https://www.rockpapershotgun.com/sea-of-stars-is-adding-co-op-multiplayer-to-the-dazzling-chrono-trigger-inspired-rpg",
+      "urlToImage": "https://assetsio.gnwcdn.com/sea-of-stars-coop-multiplayer-teaser.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-03-13T17:58:05Z",
+      "content": "Not content with being one of the best single-player experiences of 2023, Sea of Stars is readying the modern-classic RPG to become one of this year’s most delightful multiplayer games. Developers Sa… [+1928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Jim Norman",
+      "title": "My Nintendo Store Reveals Luigi's Mansion 2 HD Pre-Order Bonus & Bundles (UK) - Nintendo Life",
+      "description": "The Boo'd, the Gadd and the Ugly",
+      "url": "https://www.nintendolife.com/news/2024/03/my-nintendo-store-reveals-luigis-mansion-2-hd-pre-order-bonus-and-bundles-uk",
+      "urlToImage": "https://images.nintendolife.com/3ab3aaaa88b70/1280x720.jpg",
+      "publishedAt": "2024-03-13T17:30:00Z",
+      "content": "Image: Nintendo Life\r\nThis year's MAR10 Day brought us the news that Luigi's Mansion 2 HD would be spooking its way onto Switch on 27th June, so we knew it was only going to be a matter of time befor… [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Ollie Reynolds",
+      "title": "Summer Game Fest 2024 Gets A Date For Its Opening Live Showcase - Nintendo Life",
+      "description": "Mark your calendars",
+      "url": "https://www.nintendolife.com/news/2024/03/summer-game-fest-2024-gets-a-date-for-its-opening-live-showcase",
+      "urlToImage": "https://images.nintendolife.com/322a5617ba67d/1280x720.jpg",
+      "publishedAt": "2024-03-13T17:00:00Z",
+      "content": "Image: Summer Game Fest\r\nGet ready folks, because Summer Game Fest is once again upon us, and we've now got a date for the opening live showcase.\r\nNot deviating too much from last year, the big event… [+1324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Austin Wood",
+      "title": "Helldivers 2 players are closing in on their first \"permanent\" win in the bug war, so surely nothing will go horribly wrong when game master Joel presses a big red button - Gamesradar",
+      "description": "\"Breaking: Helldivers to permanently contain bugs\"",
+      "url": "https://www.gamesradar.com/helldivers-2-players-are-closing-in-on-their-first-permanent-win-in-the-bug-war-so-surely-nothing-will-go-horribly-wrong-when-game-master-joel-presses-a-big-red-button/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TN2k7yNmoc5HibiHoxKmxW-1200-80.jpg",
+      "publishedAt": "2024-03-13T16:37:45Z",
+      "content": "Good job, recruits. Helldivers 2 players have descended on four \"high-priority\" planets\r\n to deploy a grid of Termicide dispensers that should shut down the local bug population for good, and the lat… [+2692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "WhatsApp may soon let you pin up to five chats - 9to5Google",
+      "description": "WhatsApp is working on the ability to pin up to five chats to the app's list for more quickly access more of your favorite chats.",
+      "url": "http://9to5google.com/2024/03/13/whatsapp-pin-chats-expansion/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/whatsapp-fi-04.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-03-13T16:31:00Z",
+      "content": "WhatsApp is expanding support for pinning chats, raising the limit to five chats.\r\nUsing the “pin” feature in WhatsApp makes it easy to keep a conversation with a specific person or a group in view. … [+626 chars]"
     }
   ]
 }
