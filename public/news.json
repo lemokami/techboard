@@ -1,175 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 216,
+  "totalResults": 232,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "PC Gamer"
-      },
-      "author": "Tyler Wilde",
-      "title": "Twitch targets butt streams with new rule banning 'content that focuses on intimate body parts for a prolonged period of time' - PC Gamer",
-      "description": "Looks like we're at the rear end of the butt streaming meta.",
-      "url": "https://www.pcgamer.com/hardware/streaming/twitch-bans-butt-streams/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/r85wFrA3ZWPCyLx8mCfc4o-1200-80.png",
-      "publishedAt": "2024-03-27T21:36:35Z",
-      "content": "It's best if you imagine Twitch's latest rules update being read by a downtrodden, barely present spokesperson. \r\n\"Content on Twitch is always evolving,\" they mutter, unable to recall how many varian… [+2122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Jody Serrano",
-      "title": "Apple Users Are Getting Bombarded With 'Reset Password' Requests - Gizmodo",
-      "description": "Some users have reported getting hundreds of “reset password” requests on their Apple devices and even fake calls from Apple Support.",
-      "url": "https://gizmodo.com/apple-reset-password-phishing-scam-iphone-spoofing-call-1851370115",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e0059693a843d8273fad6a584deefd1f.jpg",
-      "publishedAt": "2024-03-27T20:45:00Z",
-      "content": "Apple users are being targeted by an elaborate and annoying phishing scam that aims to change their password and lock them out of their devices, according to a new report from Krebs on Security. In s… [+3254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CRN"
-      },
-      "author": "Dylan Martin",
-      "title": "Intel Wants To Help Smaller ISVs Make Killer Apps For AI PCs - CRN",
-      "description": "Intel has expanded its AI PC Acceleration Program to empower smaller independent software vendors with resources to build killer apps for the nascent but fast growing device category.",
-      "url": "https://www.crn.com/news/components-peripherals/2024/intel-wants-to-help-smaller-isvs-make-killer-apps-for-ai-pcs",
-      "urlToImage": "https://www.crn.com/news/components-peripherals/2024/media_135aaab150d910469838538791bbb7f121698c21e.png?width=1200&format=pjpg&optimize=medium",
-      "publishedAt": "2024-03-27T20:27:31Z",
-      "content": "By empowering smaller developers, Intel is seeking to deliver on its promise that AI PCs will deliver game-changing capabilities and justify the massive investments the chipmaker and other companies … [+4326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Muhammad Zuhair",
-      "title": "Intel Outlines 40 TOPS NPU Performance As Minimum Requirement For Windows Copilot & AI PC Platforms - Wccftech",
-      "description": "Intel has disclosed the compute performance that you would need to run Microsoft's Copilot locally on Windows-based AI PCs.",
-      "url": "https://wccftech.com/intel-outlines-40-tops-npu-performance-minimum-requirement-windows-copilot-ai-pc/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/03/Intel-AI-PC-_5-728x410.png",
-      "publishedAt": "2024-03-27T18:35:00Z",
-      "content": "Intel has disclosed the compute performance that you would need to run Microsoft's Copilot locally on Windows-based AI PCs.\r\nRunning Microsoft Copilot Locally Would Require At least 40 AI TOPs, Makin… [+3990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/intern37-seoindia-com/",
-      "title": "Vivo X Fold 3 Series Confirmed To Launch In India; Everything You Need To Know - India.com",
-      "description": "Both Vivo X Fold 3 and X Fold 3 Pro are speculated to launch with Snapdragon 8 Gen 3.",
-      "url": "https://www.india.com/technology/vivo-x-fold-3-confirmed-to-launch-in-india-everything-you-need-to-know-6817270/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2024/03/IDC-story-53.png",
-      "publishedAt": "2024-03-27T18:17:56Z",
-      "content": "Both Vivo X Fold 3 and X Fold 3 Pro are speculated to launch with Snapdragon 8 Gen 3.\r\nVivo X Fold 3 on its launch, is set to be the thinnest foldable smartphone.\r\nNew Delhi:  The Vivo X Fold 3 is se… [+3631 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Poco F6 may feature Snapdragon 8s Gen 3 chipset, 50MP camera - The Times of India",
-      "description": "MOBILES & TABLETS News: Poco is expanding the F-series with the Poco F6, featuring major upgrades. The smartphone will include Snapdragon 8s Gen 3 chipset, Sony IMX882 50MP m",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/poco-f6-may-feature-snapdragon-8s-gen-3-chipset-50mp-camera/articleshow/108829071.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-108829041,width-1070,height-580,imgsize-7224,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-03-27T18:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "iOS 18 reportedly bringing these two upgrades to Apple Maps - 9to5Mac",
-      "description": "Apple is reportedly planning a few notable updates to Apple Maps as part of iOS 18. New rumors say iOS...",
-      "url": "https://9to5mac.com/2024/03/27/ios-18-apple-maps-upgrades/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-maps-topographic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-03-27T17:41:56Z",
-      "content": "Apple is reportedly planning a few notable updates to Apple Maps as part of iOS 18. New rumors say iOS 18 will add support for “custom route creation” in the United States, and expand topographic map… [+1342 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "'Wi-Fi' Doesn't Mean What You Think It Means - Gizmodo",
-      "description": "Wi-Fi was coined in 1999 by the same marketing company that came up with the name Prozac.",
-      "url": "https://gizmodo.com/wi-fi-doesnt-mean-what-you-think-it-means-1851369424",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0f55ca62248962d5b59c1457f9d4e8a3.jpg",
-      "publishedAt": "2024-03-27T17:30:00Z",
-      "content": "Have you ever thought about where the term Wi-Fi comes from? Most people would logically assume its a shortened version of some highly technical description for the tech that allowed computers to acc… [+2303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Victoria Kennedy",
-      "title": "PlayStation Plus April games announced - Eurogamer.net",
-      "description": "Sony has announced its PlayStation Plus games for April.",
-      "url": "https://www.eurogamer.net/playstation-plus-april-games-announced-1",
-      "urlToImage": "https://assetsio.gnwcdn.com/Skul-The-Hero-Slayer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-03-27T17:14:43Z",
-      "content": "Sony has announced its PlayStation Plus games for April.\r\nThe following titles will be available to PlayStation Plus subscribers from 2nd April until Monday, 6th May:\r\n<ul><li>Immortals of Aveum (PS5… [+1451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Nickolas Diaz",
-      "title": "Alleged batch of new Pixel 9 renders leak amid Pixel 'XL' rumors - Android Central",
-      "description": "Should we expect a Pixel XL this year?",
-      "url": "https://www.androidcentral.com/phones/google-pixel-9-base-rendering-xl-leak",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/u9XAGKsBMyXdWedgM5wuJE-1200-80.jpg",
-      "publishedAt": "2024-03-27T17:11:54Z",
-      "content": "What you need to know\r\n<ul><li>A new batch of renderings has surfaced and claims to be the first true look at Google's base Pixel 9 model.</li><li>The device may feature a dual camera array, similar … [+2764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Here's our first look at the new 'Presto' system coming to Apple Stores for iPhone updates - 9to5Mac",
-      "description": "Other the weekend, Bloomberg reported that Apple would begin broadly rolling out a new “Presto within Apple” system to its...",
-      "url": "https://9to5mac.com/2024/03/27/apple-stores-presto-iphone-update-system/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Apple-Store-iPhone-14.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-03-27T17:11:00Z",
-      "content": "Other the weekend, Bloomberg reported that Apple would begin broadly rolling out a new “Presto within Apple” system to its retail stores next month. The system allows Apple Store employees to update … [+1518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Hope Bellingham",
-      "title": "Filled with ideas for what's next, Baldur's Gate 3 developer has \"two games that we want to make\" and \"lots of concepts\" - Gamesradar",
-      "description": "The end of Baldur's Gate 3 doesn't mean the end of Larian Studios' big ambitions",
-      "url": "https://www.gamesradar.com/filled-with-ideas-for-whats-next-baldurs-gate-3-developer-has-two-games-that-we-want-to-make-and-lots-of-concepts/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PhMaZRWjUuCfN86oZuvnAa-1200-80.jpg",
-      "publishedAt": "2024-03-27T17:09:39Z",
-      "content": "The developer of Baldur's Gate 3\r\n may be done with the series and D&amp;D as a whole, but it still has \"two games that we want to make\" and \"lots of concepts\" to explore. \r\nIn an interview with IGN\r… [+1891 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Michail",
-      "title": "Nothing teaser hints at Ear (3) arrival - GSMArena.com news - GSMArena.com",
-      "description": "The teaser campaign for Nothing's next wireless earbuds is underway. Nothing Ear (1) was Nothing Tech’ very first product when it launched back in 2021 and...",
-      "url": "https://www.gsmarena.com/nothing_teaser_hints_at_ear_3_arrival-news-62188.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/nothing-ear-3-first-teaser/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-03-27T17:08:02Z",
-      "content": "Nothing Ear (1) was Nothing Tech very first product when it launched back in 2021 and was quickly followed by the Ear Stick and Ear (2) a year later. We now have our first teaser for the upcoming Not… [+528 chars]"
+      "author": "Vlad",
+      "title": "Motorola Edge 50 Ultra renders leak showing periscope zoom camera - GSMArena.com news - GSMArena.com",
+      "description": "This will be the highest-end of the Edge 50s, it seems. Following the recent leaks of Motorola's Edge 50 Pro and Edge 50 Fusion, today the trio of upcoming...",
+      "url": "https://www.gsmarena.com/motorola_edge_50_ultra_renders_leak_showing_periscope_zoom_camera-news-62214.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/motorola-edge-50-ultra-leak/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-03-28T22:08:01Z",
+      "content": "Following the recent leaks of Motorola's Edge 50 Pro and Edge 50 Fusion, today the trio of upcoming devices is completed by a leak of the Edge 50 Ultra, the top of the line model in the range.\r\nThe E… [+1678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emilia David",
+      "title": "Microsoft's new safety system can catch hallucinations in its customers' AI apps - The Verge",
+      "description": "Microsoft’s Azure AI platform is adding safety features for hallucinations, prompt attacks, and safety evaluations that automatically work on GPT-4, Llama 2, and other models.",
+      "url": "https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+      "publishedAt": "2024-03-28T20:34:30Z",
+      "content": "Microsofts new safety system can catch hallucinations in its customers AI apps\r\nMicrosofts new safety system can catch hallucinations in its customers AI apps\r\n / The Azure AI Studio tools can screen… [+3525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PC Gamer"
+      },
+      "author": "Morgan Park",
+      "title": "'Such a democratic weapon it makes me cry': Helldivers 2 players salute the Quasar Cannon, Super Earth's new heavy armor god gun - PC Gamer",
+      "description": "The Automatons are shivering in their steel.",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/such-a-democratic-weapon-it-makes-me-cry-helldivers-2-players-salute-the-quasar-cannon-super-earths-new-heavy-armor-god-weapon/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nkyMPW3AMNmpvYfh57pWtb-1200-80.png",
+      "publishedAt": "2024-03-28T20:30:18Z",
+      "content": "It feels like only yesterday that I complained that Helldivers 2 doesn't have enough guns that rule against Automatons. Clearly Arrowhead heard my pleas, because in a surprise update this morning, tw… [+4939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "author": "Esther Ajao",
+      "title": "Microsoft intros new responsible AI tools in Azure Studio - TechTarget",
+      "description": "The new tools address one of the barriers of adoption for enterprises looking to use generative AI technologies. It shows Microsoft’s thought process on government regulations.",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366575872/Microsoft-intros-new-responsible-AI-tools-in-Azure-Studio",
+      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/certification_g1172642339.jpg",
+      "publishedAt": "2024-03-28T20:25:41Z",
+      "content": "Microsoft introduced new responsible AI tools in Azure AI Studio aimed at reducing many of the hesitations enterprises have around generative AI systems.\r\nThe company on Thursday introduced prompt sh… [+3983 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple's OLED iPad Pro will reportedly arrive in May - The Verge",
+      "description": "Apple plans to launch a larger iPad Air, along with an iPad Pro with an OLED display, in early May, according to a report from Bloomberg.",
+      "url": "https://www.theverge.com/2024/3/28/24114824/apple-ipad-pro-oled-m3-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_cmcV4Aru0qm6dPp3kCMl7abOK8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24143279/226374_iPad_Pro_12.9_M2_2022_DSeifert_0006.jpg",
+      "publishedAt": "2024-03-28T20:19:39Z",
+      "content": "Apples OLED iPad Pro will reportedly arrive in May\r\nApples OLED iPad Pro will reportedly arrive in May\r\n / Apples first iPad update in nearly two years could come in the form of an M3-equipped OLED i… [+1236 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "'Grand Theft Auto VI' Delay Report Spurs Overblown Concern - Bloomberg",
+      "description": "In reality, video games are always behind schedule and risk getting delayed at any time",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-03-28/-grand-theft-auto-vi-delay-report-spurs-overblown-concern",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRkk5nDpWO24/v1/1200x633.png",
+      "publishedAt": "2024-03-28T19:00:17Z",
+      "content": "Hi everyone. Were coming at you early this week due to the holiday schedule with a look at the new Grand Theft Auto VI rumblings, but first...\r\nThis weeks top gaming news:"
     },
     {
       "source": {
@@ -177,51 +86,103 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Circle to Search coming to Pixel 6 series, Fold, and more, adding in-line translations - 9to5Google",
-      "description": "Following the Pixel 8 and 7 series, Circle to Search is coming to all Tensor-powered Pixel devices. The visual search...",
-      "url": "http://9to5google.com/2024/03/27/pixel-circle-to-search-translation/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/google-circle-to-search-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-03-27T17:00:00Z",
-      "content": "Following the Pixel 8 and 7 series, Circle to Search is finally coming to all Tensor-powered Pixel devices. \r\nCircle to Search launched in January for the Pixel 8 and 8 Pro (as well as the Galaxy S24… [+2006 chars]"
+      "title": "Google says Apple is bringing RCS to the iPhone in fall of 2024 - 9to5Google",
+      "description": "The Android website has added a new landing page for Google Messages that says RCS is coming to the iPhone in fall of 2024...",
+      "url": "http://9to5google.com/2024/03/28/iphone-rcs-fall-2024/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/iPhone-RCS-fall-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-03-28T18:36:11Z",
+      "content": "The Android website has added a new landing page for Google Messages that talks about the first-party messaging experience, while also noting that RCS on the iPhone is coming in fall 2024.\r\nA section… [+1737 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Ethan Gach",
-      "title": "Big Shakeup At Nintendo Testing Center Ahead Of Switch 2 - Kotaku",
-      "description": "Nintendo of America lays off some contractors while converting others to full-time employees",
-      "url": "https://kotaku.com/nintendo-switch-2-layoffs-testing-zelda-totk-1851369539",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6be51e0746da0e0301a1070dc05264e9.jpg",
-      "publishedAt": "2024-03-27T17:00:00Z",
-      "content": "Nintendo of America is restructuring the small army of contractors that helps test its games and hardware in its Washington state headquarters, the company confirmed to Kotaku. According to four curr… [+3533 chars]"
+      "author": "Zack Zwiezen",
+      "title": "How To Fix FF7 Rebirth's G-Bike UPA Expert Score Glitch - Kotaku",
+      "description": "You can’t beat the Ultimate Party Animal’s G-Bike score no matter how hard you try",
+      "url": "https://kotaku.com/ff7-rebirth-g-bike-upa-quest-broken-score-glitch-fix-1851372282",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/14179a8f6fe9c2916a917ee4e88b1bf7.jpg",
+      "publishedAt": "2024-03-28T18:00:00Z",
+      "content": "Players trying to complete everything in Final Fantasy 7 Rebirth are running into a roadblock at the very end of the game after the recent 1.020 patch broke one of the very last side quests. And unti… [+3467 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "When Is the New iPad Pro, iPad Air Coming Out? Apple Plans Early May Launch - Bloomberg",
+      "description": "Apple Inc.’s overseas suppliers have ramped up production of the company’s long-anticipated new iPads and a launch is planned for early May, according to people with knowledge of the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2024-03-28/when-is-the-new-ipad-pro-ipad-air-coming-out-apple-plans-early-may-launch",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQR3OUNnifTM/v1/1200x800.jpg",
+      "publishedAt": "2024-03-28T17:47:54Z",
+      "content": "Apple Inc.s overseas suppliers have ramped up production of the companys long-anticipated new iPads and a launch is planned for early May, according to people with knowledge of the matter. \r\nThe rele… [+371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Abid Iqbal Shaik",
+      "title": "Google Maps is getting 3 big features to help you plan vacation more easily - SamMobile - Samsung news",
+      "description": "With the summer season just around the corner, people will soon start exploring places for their vacations, which means that ...",
+      "url": "https://www.sammobile.com/news/google-maps-getting-3-big-features/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/03/Google-Maps-720x405.jpg",
+      "publishedAt": "2024-03-28T17:38:00Z",
+      "content": "With the summer season just around the corner, people will soon start exploring places for their vacations, which means that the usage of Google Maps is going to shoot up. Right before that happens, … [+3331 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Benj Edwards",
-      "title": "“The king is dead”—Claude 3 surpasses GPT-4 on Chatbot Arena for the first time - Ars Technica",
-      "description": "Anthropic's Claude 3 is first to unseat GPT-4 for #1 since launch of Chatbot Arena in May '23.",
-      "url": "https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/robots_fighting_2-760x380.jpg",
-      "publishedAt": "2024-03-27T16:32:24Z",
-      "content": "34\r\nOn Tuesday, Anthropic's Claude 3 Opus large language model (LLM) surpassed OpenAI's GPT-4 (which powers ChatGPT) for the first time on Chatbot Arena, a popular crowdsourced leaderboard used by AI… [+4845 chars]"
+      "author": "Ron Amadeo",
+      "title": "How Apple plans to update new iPhones without opening them - Ars Technica",
+      "description": "Apple wants to rid the iPhone-buying process of the post-unboxing update.",
+      "url": "https://arstechnica.com/gadgets/2024/03/this-device-can-update-new-iphones-while-theyre-still-in-the-box/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/iup-overview-landing-join-upgrade-202309-760x380.jpg",
+      "publishedAt": "2024-03-28T17:15:35Z",
+      "content": "Enlarge/ Being in a box doesn't mean the iPhone can't update. \r\n91\r\nUnboxing a new gadget is always a fun experience, but it's usually marred somewhat by the setup process. Either your device has bee… [+3453 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Aisha Malik",
-      "title": "Google will now let you use AI to build travel itineraries for your vacations - TechCrunch",
-      "description": "Google is rolling out an update to its Search Generative Experience (SGE) that will allow users to get travel itineraries and trip ideas.",
-      "url": "https://techcrunch.com/2024/03/27/google-generate-travel-itineraries-for-your-vacations/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-583745344.jpg?resize=1200,766",
-      "publishedAt": "2024-03-27T16:03:41Z",
-      "content": "As we inch toward the summer holidays, Google is announcing a slate of travel updates that place it squarely in the travel planning process and give it a lot more insight into purchasing intent in th… [+2575 chars]"
+      "author": "Tom Warren",
+      "title": "How a Windows shake-up could position Microsoft to capitalize on AI PCs - The Verge",
+      "description": "Splitting up Windows and Surface didn’t work out well. So now Microsoft has a new Windows and Surface leader in a shake-up of its Windows and AI teams.",
+      "url": "https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fK93c6-cYxSDq7Hq6VWqYT96VhM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22900766/bfarsace_211004_4777_0003.jpg",
+      "publishedAt": "2024-03-28T17:07:05Z",
+      "content": "How a Windows shake-up could position Microsoft to capitalize on AI PCs\r\nHow a Windows shake-up could position Microsoft to capitalize on AI PCs\r\n / An inside look at Windows and Surface leadership c… [+6312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "The Diablo IV Season 4 PTR: What You Need to Know - Blizzard News",
+      "description": "Test our revamped itemization, class updates, new and updated endgame systems, and more, from April 2 through April 9.",
+      "url": "https://news.blizzard.com/en-us/diablo4/24078324/the-diablo-iv-season-4-ptr-what-you-need-to-know",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/0f/0F2RPDG0R8CW1711500282247.png",
+      "publishedAt": "2024-03-28T17:00:00Z",
+      "content": "Change is coming, wanderer. Do you dare immerse yourself in what lies ahead for all of Sanctuary?\r\nThe first Public Test Realm (PTR) for Diablo IV is on the horizon, offering you the chance to test u… [+70638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Guild Wars 3 Confirmed In Development By NCSoft - Kotaku",
+      "description": "Longtime Guild Wars 2 fans had a mixed reaction to the prospect of a third MMO",
+      "url": "https://kotaku.com/guild-wars-3-ncsoft-arenanet-mmo-rpg-announcement-1851372055",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/09ab31f2131ed516674da43a9f99699c.jpg",
+      "publishedAt": "2024-03-28T17:00:00Z",
+      "content": "Its been over a decade since ArenaNets fantasy MMO Guild Wars 2launched. In the years since its 2021 PC debut, the team has released several expansions and updates for it, with the latest being 2023s… [+1883 chars]"
     },
     {
       "source": {
@@ -229,12 +190,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "STAR OCEAN THE SECOND STORY R – Game Update Trailer – Nintendo Switch - Nintendo of America",
-      "description": "STAR OCEAN THE SECOND STORY R is available now on Nintendo Switch: https://www.nintendo.com/us/store/products/star-ocean-the-second-story-r-switch/  There ar...",
-      "url": "https://www.youtube.com/watch?v=eN9ZPfjoUlc",
-      "urlToImage": "https://i.ytimg.com/vi/eN9ZPfjoUlc/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T16:00:27Z",
+      "title": "Big Tech Launches A War To Dominate Artificial Intelligence Space | Vantage with Palki Sharma - Firstpost",
+      "description": "Big Tech Launches A War To Dominate Artificial Intelligence Space | Vantage with Palki SharmaThe titans of the tech industry are locked in a bitter battle. B...",
+      "url": "https://www.youtube.com/watch?v=9vTyQLM3zfE",
+      "urlToImage": "https://i.ytimg.com/vi/9vTyQLM3zfE/maxresdefault.jpg",
+      "publishedAt": "2024-03-28T16:48:45Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Nintendo starts Partner Spotlight Sale on the Switch eShop - Nintendo Everything",
+      "description": "A new Partner Spotlight Sale is now live on the Switch eShop. As the name implies, this one is all about third-party releases, so there aren’t any Nintendo games here. BioShock: The Collection, Bomb Rush Cyberfunk (which is at its lowest price ever), Pentimen…",
+      "url": "https://nintendoeverything.com/nintendo-starts-partner-spotlight-sale-on-the-switch-eshop/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Switch-Partner-Spotlight-Sale.jpg",
+      "publishedAt": "2024-03-28T16:36:39Z",
+      "content": "A new Partner Spotlight Sale is now live on the Switch eShop.\r\nAs the name implies, this one is all about third-party releases, so there aren’t any Nintendo games here. BioShock: The Collection, Bomb… [+2153 chars]"
     },
     {
       "source": {
@@ -242,25 +216,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Judas: Gameplay Overview of BioShock Creator's Next Game - IGN",
-      "description": "If you haven't already watched our 75-minute, in-depth interview with Judas director Ken Levine about Judas and how its \"narrative LEGO\" idea builds off of w...",
-      "url": "https://www.youtube.com/watch?v=APMejKzuvqY",
-      "urlToImage": "https://i.ytimg.com/vi/APMejKzuvqY/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T16:00:07Z",
+      "title": "Pepper Grinder – Launch Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Pepper Grinder is available now on Nintendo Switch: https://ninten.do/6053csh1J  Pepper Grinder is an action-packed drill-bit digventure from independent dev...",
+      "url": "https://www.youtube.com/watch?v=kwNEwDlfCfA",
+      "urlToImage": "https://i.ytimg.com/vi/kwNEwDlfCfA/maxresdefault.jpg",
+      "publishedAt": "2024-03-28T16:30:24Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "Abplive.com"
       },
-      "author": "Edwin Evans-Thirlwell",
-      "title": "Dune: Awakening may eventually take players beyond Arrakis to other planets - Rock Paper Shotgun",
-      "description": "A couple of decades ago there was a period when all videogames and especially all Unreal Engine videogames had to be br…",
-      "url": "https://www.rockpapershotgun.com/dune-awakening-may-eventually-take-players-beyond-arrakis-to-other-planets",
-      "urlToImage": "https://assetsio.gnwcdn.com/GDC_Dune_Awakening_Broll_CC_Harkonnen.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-03-27T15:33:01Z",
-      "content": "A couple of decades ago there was a period when all videogames and especially all Unreal Engine videogames had to be brown and grey and dingy. \"The Gears of Warrification of graphics,\" we used to cal… [+2776 chars]"
+      "author": "ABP News Bureau",
+      "title": "Top Tech News Today: iPhone Users Watch Out For This Reset Password Attack, Google Pixel 9 Design Leaked, More - ABP Live",
+      "description": "iPhone users are currently being cautioned about a significant security vulnerability exploited by hackers to target their devices.",
+      "url": "https://news.abplive.com/technology/top-tech-news-today-march-28-apple-iphone-users-watch-out-for-this-reset-password-attack-google-pixel-9-design-leaked-1675583",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/03/28/87fb4e9e923933e05493cdbde0552e991711643244535295_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-03-28T16:30:06Z",
+      "content": "Apple iPhone Users Watch Out For This Reset Password Attack\r\nMany individuals frequently forget passwords and opt to reset them using the password reset feature provided by various tech platforms, in… [+2274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Austin Wood",
+      "title": "Game devs praise Dragon's Dogma 2's insta-kill arrow, which saves the game when you use it: \"Might be the funniest game design candy I've seen in a AAA video game in a long time\" - Gamesradar",
+      "description": "\"The designer I'm not brave enough to be\"",
+      "url": "https://www.gamesradar.com/game-devs-praise-dragons-dogma-2s-insta-kill-arrow-which-saves-the-game-when-you-use-it-might-be-the-funniest-game-design-candy-ive-seen-in-a-aaa-video-game-in-a-long-time/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uSBF9ChRztJnBt8QtXjPo5-1200-80.jpg",
+      "publishedAt": "2024-03-28T16:27:42Z",
+      "content": "Dragon's Dogma 2 is, to put it mildly, an atypical RPG. To put it less mildly, Capcom was well and truly off its rocker and on a bender with this one. Exhibit A: the Unmaking Arrow, an arrow so power… [+3015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Playhearthstone.com"
+      },
+      "author": "Blizzard Entertainment",
+      "title": "29.0.3 Patch Notes - Hearthstone - Hearthstone",
+      "description": "Patch 29.0.3 brings updates to Standard and Battlegrounds!",
+      "url": "https://playhearthstone.com/en-gb/blog/24064739/",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/7t/7TN46MB4NAF91711490375183.jpg",
+      "publishedAt": "2024-03-28T16:15:28Z",
+      "content": "Patch 29.0.3, launching today, includes the following balance changes to Standard and Battlegrounds.\r\nHearthstone Updates\r\nDev Comment: We hope youre enjoying Whizbangs Workshop so far! Weve seen you… [+7224 chars]"
     }
   ]
 }
