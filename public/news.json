@@ -1,149 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 198,
+  "totalResults": 188,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Kotaku"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Zack Zwiezen",
-      "title": "Roku Wants To Place Ads On Your TV When You Pause Your Game - Kotaku",
-      "description": "Just what we all wanted, even more ads to deal with in our everyday life",
-      "url": "https://kotaku.com/roku-patent-hdmi-tech-tv-ads-game-console-pause-screen-1851388976",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/acbc887d3a17aa574487cfafcb79be49.jpg",
-      "publishedAt": "2024-04-04T21:20:00Z",
-      "content": "A new patent recently filed by TV and streaming device manufacturer Roku hints toward a possible future where televisions could display ads when you pause a movie or game.\r\nFor Roku, the time in whic… [+2962 chars]"
+      "author": "Emma Roth",
+      "title": "Apple opens the App Store to retro game emulators - The Verge",
+      "description": "Apple will finally let retro console emulator apps onto the App Store. The company also clarified that super apps are able to have HTML5-based mini-games.",
+      "url": "https://www.theverge.com/2024/4/5/24122341/apple-app-store-game-emulators-super-apps",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RKeBaEajQcEIMeDqYJuqm__zQC0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg",
+      "publishedAt": "2024-04-05T21:41:58Z",
+      "content": "Apple opens the App Store to retro game emulators\r\nApple opens the App Store to retro game emulators\r\n / Game emulators have long been banned on the App Store  and they were one of the big reasons us… [+2853 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Insider-gaming.com"
       },
-      "author": "Aislinn Murphy",
-      "title": "NASA awards contracts to three companies for lunar vehicle design - Fox Business",
-      "description": "Three companies scored contracts from NASA on Wednesday as the space agency continues to seek a vehicle to transport its astronauts around the Moon during Artemis missions.",
-      "url": "https://www.foxbusiness.com/technology/nasa-awards-contracts-three-companies-for-lunar-vehicle-design",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/NASA.jpg?ve=1&tl=1",
-      "publishedAt": "2024-04-04T19:42:00Z",
-      "content": "Three companies scored contracts from NASA on Wednesday as the space agency continues to seek a vehicle to transport its astronauts around the Moon during Artemis missions.\r\nNASA identified the recip… [+3295 chars]"
+      "author": "Tom Henderson",
+      "title": "Call of Duty: Black Ops Gulf War to be Featured at Xbox Showcase in June - Insider Gaming",
+      "description": "Call of Duty: Black Ops Gulf War is set to be revealed at this years Xbox Showcase, but Insider Gaming understands this isn't for its reveal.",
+      "url": "https://insider-gaming.com/black-ops-gulf-war-reveal-june-details/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/07/black-ops-1.jpg",
+      "publishedAt": "2024-04-05T20:07:56Z",
+      "content": "It’s been a wild 24 hours for Xbox Showcase rumors, and now Tom Warren at The Verge is reporting that this year’s Call of Duty title, Black Ops Gulf War, will also be featured at this year’s Xbox Sho… [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "Former 'Dragon Age' Game Director Looks to Rebound After Canceled Games - Bloomberg",
+      "description": "Yellow Brick’s first game will be ‘Eternal Strands,’ a stylized action game with big enemies",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-04-05/former-dragon-age-game-director-looks-to-rebound-after-canceled-games",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVeKxdmpF2no/v0/1200x675.jpg",
+      "publishedAt": "2024-04-05T19:25:59Z",
+      "content": "Hi everyone. Today were looking at a new studio from four former staff members of Ubisoft Entertainment SA, including the ex-director of Dragon Age, but first...\r\nThis weeks top gaming news:"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft loses key Xbox executive amid continued gaming shake-up - The Verge",
+      "description": "Microsoft executive Kareem Choudhry is departing after more than 26 years. Choudhry worked on Xbox backward compatibility, Xbox Cloud Gaming, and much more.",
+      "url": "https://www.theverge.com/2024/4/5/24122208/microsoft-xbox-kareem-choudhry-leaving-xbox-cloud-gaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n2SnFRk93CgmoGa7JQVfCM4V5v8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926024/acastro_STK048_03.jpg",
+      "publishedAt": "2024-04-05T18:57:54Z",
+      "content": "Microsoft loses key Xbox executive amid continued gaming shake-up\r\nMicrosoft loses key Xbox executive amid continued gaming shake-up\r\n / The Xbox strategy continues to evolve inside Microsoft as it g… [+2697 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Richard Waters, Madhumita Murgia",
+      "title": "How Google lost ground in the AI race - Financial Times",
+      "description": "The Silicon Valley group has stumbled in the rollout of generative AI. Insiders say cultural and organisational issues are to blame",
+      "url": "https://www.ft.com/content/4dfc113f-ccbe-4d11-82b5-761c77fbda24",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F4faa49ed-40fe-4643-8a39-43d44c4e2fbe.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2024-04-05T18:16:25Z",
+      "content": "In early 2023, months after the launch of OpenAIs groundbreaking ChatGPT, Google was gearing up to launch its competitor to the model that underpinned the chatbot.\r\nThe search group had been testing … [+14791 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Roku's idea of showing ads on your HDMI inputs seems like an inevitable hell - The Verge",
+      "description": "A new Roku patent reveals a future where the company could display ads on devices plugged in to a Roku TV. But Amazon and Google are also testing the patience of streaming device customers.",
+      "url": "https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NV5puIaDTaMhh0uWwQ-O3NBR45g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25375048/STK265_ROKU_CVirginia.jpg",
+      "publishedAt": "2024-04-05T18:15:13Z",
+      "content": "Rokus idea of showing ads on your HDMI inputs seems like an inevitable hell\r\nRokus idea of showing ads on your HDMI inputs seems like an inevitable hell\r\n / Amazon, Google, and now Roku seem determin… [+4755 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Hindustan Times"
       },
-      "author": "Moises Taveras",
-      "title": "Vladimir Putin Pushes Russia To Make Consoles To Compete With PlayStation And Xbox - Kotaku",
-      "description": "Russia’s tech industry has been given till June 15 to execute this mandate",
-      "url": "https://kotaku.com/putin-russia-consoles-playstation-xbox-1851388516",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3494f550e17123c53eb7a7af408bfc3e.jpg",
-      "publishedAt": "2024-04-04T19:30:00Z",
-      "content": "If you thought the current landscape of video game consoles and handhelds was already packed, the entirety of Russia has something to say about that. At the very least, Russias president Vladimir Put… [+2096 chars]"
+      "author": "HT News Desk",
+      "title": "Latest News, Live Updates Today April 5, 2024: Gypsy Rose Blanchard is all set to undergo cosmetic surgery: Report - Hindustan Times",
+      "description": "Welcome to the live updates platform for Hindustan Times. Follow all the major news updates, headlines and breaking news stories from India and around the world right here. Track the real-time developments of major events for April 5, 2024.",
+      "url": "https://www.hindustantimes.com/india-news/latest-world-news-today-live-updates-april-5-2024-101712280881288.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/05/550x309/Screenshot_2024-04-05_232854_1712339953371_1712339966938.png",
+      "publishedAt": "2024-04-05T18:01:58Z",
+      "content": "Get the latest news updates and breaking news stories from India and around the world right here. Disclaimer: This is an AI-generated live blog and has not been edited by Hindustan Times staff.Follow… [+13913 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "Forbes"
       },
-      "author": "Android Police",
-      "title": "Android's Find My Device network launches this week with headphone tracking and offline finding - Android Police",
-      "description": null,
-      "url": "https://www.androidpolice.com/android-find-device-network-launch/",
-      "urlToImage": null,
-      "publishedAt": "2024-04-04T19:22:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Catherine Thorbecke",
-      "title": "Meta’s AI image generator really struggles with the concept of interracial couples - CNN",
-      "description": "Meta’s AI image generator is coming under fire for its apparent struggles to create images of couples or friends from different racial backgrounds.",
-      "url": "https://www.cnn.com/2024/04/04/tech/meta-ai-image-generator-interracial-couples/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/02-ai-generated-image-meta-ai-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-04T19:18:41Z",
-      "content": "Metas AI image generator is coming under fire for its apparent struggles to create images of couples or friends from different racial backgrounds.\r\nWhen prompted by CNN on Thursday morning to create … [+3232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "Stellar Blade Director Reveals New Game Plus Mode, Says No Microtransactions With One Exception - Game Informer",
-      "description": "As for what the New Game Plus mode will entail, though, that remains unknown for now.",
-      "url": "https://www.gameinformer.com/news/2024/04/04/stellar-blade-director-reveals-new-game-plus-mode-says-no-microtransactions-with",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/09/10/8b31ffdf/projecteve02.jpg",
-      "publishedAt": "2024-04-04T17:50:00Z",
-      "content": "Stellar Blade director Kim Hyung Tae has announced that developer ShiftUp's upcoming action game, Stellar Blade, will get a New Game+ mode sometime after launch. Plus, Tae says there will be no micro… [+1677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Rumor: iPhone 16 Pro's ultra-thin bezels proving to be a production challenge - 9to5Mac",
-      "description": "The word on the street is the iPhone 16 Pro and iPhone 16 Pro Max will feature bigger displays than...",
-      "url": "https://9to5mac.com/2024/04/04/iphone-16-pro-ultra-thin-bezels/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-pro-max-bezels-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-04T17:40:00Z",
-      "content": "The word on the street is the iPhone 16 Pro and iPhone 16 Pro Max will feature bigger displays than ever before. A new supply chain report today elaborates on how Apple will achieve this, describing … [+2102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "Stellar Blade Won't Have Microtransactions, Says Dev - Kotaku",
-      "description": "Developer Shift Up also said more costumes for Eve would come after the game's April 26 release",
-      "url": "https://kotaku.com/stellar-blade-shift-up-no-microtransactions-1851387751",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d553b69620d4288ce02eb6d6068a6c0.jpg",
-      "publishedAt": "2024-04-04T16:45:00Z",
-      "content": "Stellar Blade, the stylish character-action game with the drippiest protagonist in recent memory, launches as a PlayStation 5 exclusive on April 26. Ahead of its imminent release, developer Shift Up … [+2658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Bloomberg",
-      "title": "Google AI content under premium now? Search engine says it's 'not considering ad-free experience' | Mint - Mint",
-      "description": "The potential move suggests the Alphabet Inc unit still hasn’t figured out how to incorporate the new, fast-growing technology without threatening its essential advertising business",
-      "url": "https://www.livemint.com/technology/tech-news/google-content-under-premium-now-search-engine-says-its-not-considering-ad-free-experience-11712247546310.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/04/1600x900/ALPHABET-GOOGLE-AI-0_1712248009299_1712248034445.JPG",
-      "publishedAt": "2024-04-04T16:40:41Z",
-      "content": "Google is considering charging for new premium\" features run by artificial intelligence, the Financial Times reported, marking the first time it would put any of its core product behind a paywall. Th… [+7793 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Helldivers 2’s Next Premium Warbond Is Democratic Detonation, Adds New Weapons, Capes, and More - IGN",
-      "description": "Helldivers 2’s next Premium Warbond, called Democratic Detonation, has a release date and a list of content.",
-      "url": "https://www.ign.com/articles/helldivers-2s-next-premium-warbond-is-democratic-detonation-adds-new-weapons-capes-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/04/hd6-1712247773951.jpg?width=1280",
-      "publishedAt": "2024-04-04T16:28:37Z",
-      "content": "Helldivers 2s next Premium Warbond launches April 11, Sony has announced.\r\nDemocratic Detonation, as detailed on the PlayStation Blog, includes a number of new weapons, boosters, and armor pieces, as… [+2911 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Experimental Microsoft Edge build lets you manually limit browser's RAM usage - Ars Technica",
-      "description": "RAM controls seem intended mostly for PC gamers who want to free up memory.",
-      "url": "https://arstechnica.com/gadgets/2024/04/experimental-microsoft-edge-build-lets-you-manually-limit-browsers-ram-usage/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/microsoft-edge-760x380.jpeg",
-      "publishedAt": "2024-04-04T16:24:38Z",
-      "content": "38\r\nOld-school user-controlled memory management is back, baby!\r\nOr at least it's a feature Microsoft is testing in the newest builds of its Chromium-based Edge browser (via The Verge). User Leopeva6… [+2097 chars]"
+      "author": "David Phelan",
+      "title": "AirTag 2024: iPhone Update Reveals Apple Launching Significant New Feature - Forbes",
+      "description": "The latest iPhone beta software, iOS 17.5, has just revealed that Apple is about to implement anti-stalking capabilities, affecting the AirTag and other trackers.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/04/05/airtag-2024-iphone-update-reveals-apple-to-launch-significant-new-feature/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660f0d559de419817c51566b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-05T18:00:01Z",
+      "content": "Apples AirTag is a marvel of a device. Its a tiny tracker that can hide in your luggage, car, handbag or anything else you want to be able to find. But, please note the word hide: if you can, so can … [+3660 chars]"
     },
     {
       "source": {
@@ -151,116 +112,155 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Helldivers 2 - Official Warbond: Democratic Detonation Trailer - IGN",
-      "description": "Helldivers 2 is a third-person online co-op multiplayer action shooter developed by Arrowhead Game Studios. Players will soon gain access to acquire the late...",
-      "url": "https://www.youtube.com/watch?v=Dhd9FYLLEPc",
-      "urlToImage": "https://i.ytimg.com/vi/Dhd9FYLLEPc/maxresdefault.jpg",
-      "publishedAt": "2024-04-04T16:22:14Z",
+      "title": "Google Considers AI Search Fees Amid ChatGPT Rivalry | Vantage with Palki Sharma - Firstpost",
+      "description": "Google Considers AI Search Fees Amid ChatGPT Rivalry | Vantage with Palki SharmaGoogle is exploring the possibility of introducing charges for new features e...",
+      "url": "https://www.youtube.com/watch?v=8lkTquPBnRE",
+      "urlToImage": "https://i.ytimg.com/vi/8lkTquPBnRE/maxresdefault.jpg",
+      "publishedAt": "2024-04-05T17:10:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Www.iex.nl"
+        "name": "GSMArena.com"
       },
-      "author": "Rob Stallinga",
-      "title": "IEX Slotcall van donderdag 4 april 2024 - Iex.nl",
-      "description": "AEX (+0,01%), BAM, ASML, AMG, Fugro, ABN AMRO, Arcadis, Just eat Takeaway, IMCD, AIR-France-KLM, IEX, Carrefour, Amazon, Tesla, Apple, rentes, goud, euro, bitcoin, en meer.",
-      "url": "https://www.iex.nl/Artikel/793872/Slotcall-BAM-AMG-en-Just-Eat-Takeaway-stelen-show-op-slappe-beursdag.aspx",
-      "urlToImage": "https://img.iex.nl/uploads/2024/Bloem_07e70352-4701-45e6-bdfc-445025bd3677.jpg",
-      "publishedAt": "2024-04-04T16:05:31Z",
-      "content": "De AEX telt 25 aandelen die allemaal hun eigen richting op gaan maar bij sluiting vandaag rest een minimaal winstje (+0,01%). Andere Europese beurzen doen het ietsje beter, waarbij de S&amp;P 500 bij… [+9750 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Alex Wilhelm",
-      "title": "TechCrunch Minute: How Anthropic found a trick to get AI to give you answers it’s not supposed to - TechCrunch",
-      "description": "If you build it, people will try to break it. And Anthropic found a way to break AI chatbot guardrails through \"many-shot jailbreaking.\"",
-      "url": "https://techcrunch.com/2024/04/04/techcrunch-minute-how-anthropic-found-a-trick-to-get-ai-to-give-you-answers-its-not-supposed-to/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/YouTube-Thumb-Anthropic-TC-Min.png?resize=1200,675",
-      "publishedAt": "2024-04-04T16:04:50Z",
-      "content": "If you build it, people will try to break it. Sometimes even the people building stuff are the ones breaking it. Such is the case with Anthropic and its latest research which demonstrates an interest… [+1110 chars]"
+      "author": "Vlad",
+      "title": "Samsung finally decides to properly advertise the Galaxy S24 Ultra's Corning Gorilla Glass Armor - GSMArena.com news - GSMArena.com",
+      "description": "It's a unique feature that no other device has, so far. Samsung's Galaxy S24 Ultra has a lot of high-end specs, as you'd expect, and a lot of people have...",
+      "url": "https://www.gsmarena.com/samsung_finally_decides_to_properly_advertise_the_galaxy_s24_ultras_corning_gorilla_glass_armor-news-62330.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/galaxy-s24-ultra-corning-gorilla-glass-armor-video/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-04-05T17:09:01Z",
+      "content": "Samsung's Galaxy S24 Ultra has a lot of high-end specs, as you'd expect, and a lot of people have spent countless amounts of time arguing over them. One thing that is inarguable, however, is that no … [+1471 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Cardgamebase.com"
+        "name": "ReadWrite"
       },
-      "author": "Card Game Base",
-      "title": "Quick Draw Precon: Decklist & Spoilers - Card Game Base",
-      "description": null,
-      "url": "https://cardgamebase.com/quick-draw-precon-decklist-spoilers/",
-      "urlToImage": null,
-      "publishedAt": "2024-04-04T16:03:41Z",
-      "content": null
+      "author": "Ali Rees",
+      "title": "YouTube CEO underlines training AI models on its videos is against the rules - ReadWrite",
+      "description": "The CEO of YouTube has stated that training AI models on YouTube videos is against the rules. OpenAI's CTO doesn't know if Sora used YouTube.",
+      "url": "https://readwrite.com/youtube-ceo-underlines-training-ai-models-on-its-videos-is-against-the-rules/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/a-striking-image-of-a-sleek-futuristic-computer-wi-rJuBbXHRRF-Wb0Beux4u5g-A7SRl2czQn6GGKUh-ydtBg.jpeg",
+      "publishedAt": "2024-04-05T17:01:48Z",
+      "content": "YouTube CEO Neal Mohan has said that using the videos on the platform to train an artificial intelligence (AI) model would be a “clear violation” of YouTube’s terms and conditions after OpenAI’s CTO … [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "HP launches AI-enhanced laptops designed for gamers, content creators - Business Standard",
+      "description": "HP on Friday launched its range of AI-enhanced laptops designed for gamers and content creators in Bengaluru.",
+      "url": "https://www.business-standard.com/companies/news/hp-launches-ai-enhanced-laptops-designed-for-gamers-content-creators-124040500824_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/05/thumb/featurecrop/400X400/1712310698-7704.jpg",
+      "publishedAt": "2024-04-05T16:50:22Z",
+      "content": "Bengaluru: HP India Senior Director (Consumer Sales) Vineet Gehani during the launch of new AI-enhanced gaming and creation laptops, in Bengaluru, Friday, April 5, 2024. (Photo: PTI)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mansion Global"
+      },
+      "author": "Katherine Clarke",
+      "title": "A Richard Neutra-Designed Home in L.A. Lists for the First Time in Decades - Mansion Global",
+      "description": "The famed architect originally designed the Hollywood Hills property for a German painter and art dealer",
+      "url": "https://www.mansionglobal.com/articles/a-richard-neutra-designed-home-in-l-a-lists-for-the-first-time-in-decades-71e67d34",
+      "urlToImage": "https://images.wsj.net/im-945558/?width=1000&size=0.8/social",
+      "publishedAt": "2024-04-05T16:32:00Z",
+      "content": "Carmen Radulescu-Devine knew little of Modernist architecture when she started dating her future husband, Frank Devine, in the early 2000s. She had been raised in Romania, among medieval and classic … [+5032 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Moises Taveras",
-      "title": "Canceled 'Nolanverse' Batman Gameplay Leaks Online - Kotaku",
-      "description": "Elements of the canceled Monolith game would eventually wind up in Middle-Earth: Shadow of Mordor",
-      "url": "https://kotaku.com/canceled-nolan-batman-game-leak-1851387503",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/842138a8408302e0c57edf21e5f6e71e.jpg",
-      "publishedAt": "2024-04-04T16:00:00Z",
-      "content": "Back in the early 2010s, Batman was all the rage. Actually, what am I talking about? Batman is still all the rage, but at the time, it was an especially hot property. In the world of video games, Roc… [+3644 chars]"
+      "author": "Claire Jackson",
+      "title": "So You Want To Play The Original Final Fantasy VII? - Kotaku",
+      "description": "FF7 is readily available in 2024. Here are some tips for newcomers and those seeking a reunion with this classic RPG",
+      "url": "https://kotaku.com/final-fantasy-7-original-worth-playing-before-rebirth-1851390539",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7b523200b65447b6839a10aa942dcb2b.jpg",
+      "publishedAt": "2024-04-05T16:00:00Z",
+      "content": "Final Fantasy VII Rebirth came out in February 2024. Perhaps youve recently finished the game and are now in search of something new to play. Whether youve played the original or not, there is never … [+16494 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bethesda.net"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Open the Vault with Secret Lair x Fallout - Bethesda.net",
-      "description": "Magic: The Gathering and Fallout collaborate once more for an exciting trio of Secret Lair drops - preorder yours April 8!",
-      "url": "https://bethesda.net/en/article/2xzz2AXxBoU4ZWV3Vho5k/magic-the-gathering-secret-lair-x-fallout",
-      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/7snCntZfP3IRaYCqniC7mq/8abf3d421f397dac68794d8acec3d6ab/PIP_Lair_HERO_1920x870.png?fit=fill&w=1200&h=600",
-      "publishedAt": "2024-04-04T15:11:48Z",
-      "content": null
+      "author": "Willa Rowe",
+      "title": "Dragon's Dogma 2 Players Are Fighting Dragonsplague In New Ways - Kotaku",
+      "description": "The in-game virus is no match for the ingenuity of the community",
+      "url": "https://kotaku.com/dragons-dogma-2-dragonsplague-mod-rotten-food-1851390671",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fb2206d6970b8790e4741449c69e4995.jpg",
+      "publishedAt": "2024-04-05T15:45:00Z",
+      "content": "Since the launch of Dragons Dogma 2, Capcoms friction-filled action RPG, players have been gripped by fear thanks to Dragonsplague. The in-game virus spreads between Pawns (NPC party members players … [+2719 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5google.com"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Suppliers Say New iPads Have Been 'Repeatedly Postponed' - MacRumors",
-      "description": "It has been nearly 18 months since Apple last updated its iPad lineup, and customers are anxiously waiting for new models to be announced. For...",
-      "url": "https://www.macrumors.com/2024/04/04/apple-suppliers-say-new-ipads-repeatedly-postponed/",
-      "urlToImage": "https://images.macrumors.com/t/oC2S2cVA1-S0BEL_BL3Qv8s7oYk=/2500x/article-new/2023/10/M3-iPad-Feature-3.jpg",
-      "publishedAt": "2024-04-04T15:03:31Z",
-      "content": "It has been nearly 18 months since Apple last updated its iPad lineup, and customers are anxiously waiting for new models to be announced. For months, there have been rumors about new iPad Pro and iP… [+1660 chars]"
+      "author": "Ben Schoon",
+      "title": "Nothing Ear and Ear (a) launch on April 18 - 9to5Google",
+      "description": "Nothing has announced that its next earbuds, Ear and Ear (a), will launch on April 18 as a soft reboot of the series.",
+      "url": "http://9to5google.com/2024/04/05/nothing-ear-2024-teaser/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/07/Nothing-Ear-1-earbuds-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-05T15:44:00Z",
+      "content": "After teasing an April 18 event earlier this week, Nothing has now officially confirmed plans to launch two new pairs of earbuds “Nothing Ear” and “Nothing Ear (a).”\r\nSince 2021, Nothing has debuted … [+1330 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "9to5google.com"
       },
-      "author": "Investor's Business Daily",
-      "title": "Why Google Stock Is Down Today On New AI Worries - Investor's Business Daily",
-      "description": "Google stock fell amid a report that Alphabet is exploring options to charge users for its new AI-powered internet search features.",
-      "url": "https://www.investors.com/news/technology/why-google-stock-is-down-today-on-new-ai-worries/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/Stock-google-20-shut.jpg",
-      "publishedAt": "2024-04-04T14:43:00Z",
-      "content": "Amid a report that Google-parent Alphabet (GOOGL) is exploring options to charge users for its new artificial intelligence-powered internet search features, a Bank of America analyst says investors s… [+2601 chars]"
+      "author": "Ben Schoon",
+      "title": "Roku is toying with placing ads over your TV's HDMI input - 9to5Google",
+      "description": "Roku appears to be working its way towards a future where ads can be shown over top of your HDMI connected devices.",
+      "url": "http://9to5google.com/2024/04/05/roku-hdmi-ads-patent/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/roku-pro-tv-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-05T15:42:00Z",
+      "content": "Roku is looking to monetize your TV in a new way, as the company is toying with the idea of placing ads over what’s coming in from an HDMI input.\r\nModern smart TVs are very often sold for minimal, if… [+1605 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Business Insider India"
       },
-      "author": "Mitchel Broussard",
-      "title": "Best Buy Offers Record Low Prices on 15-Inch M2 MacBook Air at $300 Off - MacRumors",
-      "description": "Best Buy this week continues to offer all-time low prices on the 15-inch M2 MacBook Air, which is available for $300 off right now at the...",
-      "url": "https://www.macrumors.com/2024/04/04/best-buy-m2-macbook-air-300-off/",
-      "urlToImage": "https://images.macrumors.com/t/OpivTNFk5tiPViS0crXqhRqIQt8=/1607x/article-new/2024/02/macbook-air-blue-image.jpg",
-      "publishedAt": "2024-04-04T14:33:05Z",
-      "content": "Best Buy this week continues to offer all-time low prices on the 15-inch M2 MacBook Air, which is available for $300 off right now at the retailer. Anyone can get these deals and you don't need a My … [+839 chars]"
+      "author": "Jennifer Sor",
+      "title": "Apple focusing on home robots over AI would be a 'horror show' for the company, Wedbush's Dan Ives says - Business Insider India",
+      "description": "Apple's recently announced initiative to develop home robots could be a setback for the company, Wedbush's Dan Ives said.He says leaning into artificial intelligence",
+      "url": "https://www.businessinsider.in/tech/news/apple-focusing-on-home-robots-over-ai-would-be-a-horror-show-for-the-company-wedbushs-dan-ives-says/articleshow/109072857.cms",
+      "urlToImage": "https://www.businessinsider.in/photo/109072857/apple-focusing-on-home-robots-over-ai-would-be-a-horror-show-for-the-company-wedbushs-dan-ives-says.jpg?imgsize=161020",
+      "publishedAt": "2024-04-05T15:38:00Z",
+      "content": "Apple's recently announced foray into developing home robots could end up being a \"horror show\" for the company, according to Wedbush analyst Dan Ives.\r\nSpeaking to CNBC this week, Ives referenced a … [+2027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PlayStation LifeStyle"
+      },
+      "author": "Zarmena Khan",
+      "title": "Sony Has Lost Interest in PS5’s Star Wars: KOTOR Remake – Report - PlayStation LifeStyle",
+      "description": "Sony Interactive Entertainment has reportedly lost interest in timed PS5 exclusive Star Wars: Knights of the Old Republic (KOTOR) Remake.",
+      "url": "https://www.playstationlifestyle.net/2024/04/05/sony-lost-interest-star-wars-kotor-remake-ps5/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/04/star-wars-kotor-remake-ps5.jpg?resize=1200,630",
+      "publishedAt": "2024-04-05T15:32:54Z",
+      "content": "Sony Interactive Entertainment has reportedly lost interest in PS5 console exclusive Star Wars: Knights of the Old Republic (KOTOR) Remake. Thats according to journalist and insider Jeff Grubb, who a… [+1408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Dustin Bailey",
+      "title": "Starfield lead and Bethesda RPG veteran praises Dragon's Dogma 2: \"When people talk about the way Skyrim makes them feel, that's how I feel playing Dragon's Dogma 2\" - Gamesradar",
+      "description": "One reason is that \"the art direction that is straight out of D&D 3.5,\" which is \"the definition of classic\"",
+      "url": "https://www.gamesradar.com/starfield-lead-and-bethesda-rpg-veteran-praises-dragons-dogma-2-when-people-talk-about-the-way-skyrim-makes-them-feel-thats-how-i-feel-playing-dragons-dogma-2/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wsMiPn3uQK2GpPGE2x38XJ-1200-80.jpg",
+      "publishedAt": "2024-04-05T15:32:33Z",
+      "content": "One veteran Bethesda designer really, really likes Dragon's Dogma 2 - in fact, he says that it's the only way that he can get the same feeling his RPGs give to everyone else.\r\n\"Look, I'm not saying I… [+2392 chars]"
     }
   ]
 }
