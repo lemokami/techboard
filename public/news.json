@@ -1,19 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 177,
+  "totalResults": 191,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "John Velasco",
+      "title": "I photographed the solar eclipse with iPhone 15 Pro vs Galaxy S24 Ultra vs Pixel 8 Pro vs OnePlus 12 — here's the winner - Tom's Guide",
+      "description": "Which phone captured the eclipse best?",
+      "url": "https://www.tomsguide.com/phones/i-tested-the-iphone-15-pro-vs-galaxy-s24-ultra-vs-pixel-8-pro-vs-oneplus-12-for-a-solar-eclipse-face-off-heres-the-winner",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KtgACCSi8FW4Tgsd94xdWK-1200-80.jpg",
+      "publishedAt": "2024-04-09T23:42:02Z",
+      "content": "The solar eclipse has come and gone, and what an opportunity it was to see the rare natural phenomena. Much like everyone else located within the narrow path of totality, I was excited for the opport… [+6563 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Victoria Song",
-      "title": "Sennheiser Momentum Sport: fitness tracking from the ear - The Verge",
-      "description": "The $329.95 Sennheiser Momentum Sport add heart rate and body temperature tracking to a pair of sports earbuds, along with Polar Flow integration.",
-      "url": "https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PxdK7A0DCeTEDjF90Omm2iOMebs=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379582/247061_sennheiser_workout_earbuds_AKrales_0020.jpg",
-      "publishedAt": "2024-04-08T22:00:00Z",
-      "content": "For once, I didnt have to worry about a fiddly fit getting in the way of heart rate tracking.\r\nByVictoria Song, a senior reporter focusing on wearables, health tech, and more with 11 years of experie… [+6196 chars]"
+      "author": "Brandon Widder",
+      "title": "Apple's latest entry-level iPad has returned to its best price to date - The Verge",
+      "description": "Apple’s 10th-gen iPad is on sale starting at just $349. You can also save on an annual subscription to Max, the original Google Pixel Watch, and Anker’s first set of sleep earbuds.",
+      "url": "https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pzhbWdeN9aQ-0TDns9xHOsrXFCM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24128006/226361_Apple_iPad_10.9_10th_gen_DSeifert_0004.jpg",
+      "publishedAt": "2024-04-09T23:00:17Z",
+      "content": "Apples latest entry-level iPad has returned to its best price to date\r\nApples latest entry-level iPad has returned to its best price to date\r\n / Plus, new and returning subscribers can still save mor… [+5882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Moises Taveras",
+      "title": "Destiny 2: The Final Shape Debuts New Subclass, Enemy Type, and Class Items - Kotaku",
+      "description": "Multiclassing and perk-stealing are going to be essential to take on the Witness’ new monstrosities",
+      "url": "https://kotaku.com/destiny-2-the-final-shape-subclass-prismatic-dread-1851398657",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/43a7ba81d49b901b8178e4db5b55f51b.jpg",
+      "publishedAt": "2024-04-09T21:25:00Z",
+      "content": "Bungies latest Destiny 2showcase was a big blowout for its upcoming expansion, The Final Shape. Though the studios been relatively mum on the expansion, which will close out the ten-year story the st… [+5190 chars]"
     },
     {
       "source": {
@@ -21,207 +47,51 @@
         "name": "GSMArena.com"
       },
       "author": "Vlad",
-      "title": "Google finally turns on its new, global Find My device network for Android - GSMArena.com news - GSMArena.com",
-      "description": "It works even when your device is offline. Just as anticipated last week, today Google has officially announced that it's finally turning on its...",
-      "url": "https://www.gsmarena.com/google_finally_turns_on_its_new_global_find_my_device_network_for_android-news-62356.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/google-new-find-my-device-network/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-04-08T21:59:01Z",
-      "content": "Just as anticipated last week, today Google has officially announced that it's finally turning on its long-awaited revamped Find My Device network for Android, which works even with offline devices. … [+2205 chars]"
+      "title": "iPhone 16 series battery capacities leak - GSMArena.com news - GSMArena.com",
+      "description": "One of them is smaller than you might expect. The battery capacities for the upcoming iPhone 16 family have been outed today, but keep in mind the source...",
+      "url": "https://www.gsmarena.com/iphone_16_series_battery_capacities_leak-news-62371.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/apple-iphone-16-battery-sizes/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-04-09T20:58:01Z",
+      "content": "The battery capacities for the upcoming iPhone 16 family have been outed today, but keep in mind the source doesn't have a track record for accuracy, so take these with a higher dose of skepticism th… [+1133 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Points Guy"
+        "name": "Abplive.com"
       },
-      "author": "Katie Genter",
-      "title": "Best times to book business-class award flights - The Points Guy",
-      "description": "Learn the best times to book business-class award flights, including tips on how you can do so without redeeming a bunch of miles.",
-      "url": "https://thepointsguy.com/guide/best-times-book-business-class-award-flights/",
-      "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2023/06/Woman-at-home-on-laptop-and-holding-credit-card_Westend61.jpg",
-      "publishedAt": "2024-04-08T21:31:17Z",
-      "content": "If you want to fly business class for an upcoming trip without paying a massive amount of cash, you may consider booking an award flight. Business-class award flights can be difficult to find on some… [+6425 chars]"
+      "author": "ABP News Bureau",
+      "title": "Top Tech News Today: Meta To Release Llama 3 Next Month, Homegrown Electronics Maker SPPL Launches Own E-Commerce Platform, More - ABP Live",
+      "description": "Facebook parent and social networking giant Meta officially announced its plan to release Llama 3, the next iteration of its large language model utilised to drive generative AI assistants.",
+      "url": "https://news.abplive.com/technology/top-tech-news-today-april-9-meta-to-release-llama-3-next-month-homegrown-electronics-maker-sppl-launches-own-e-commerce-platform-1678781",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/04/10/8d7f84d1f8bd845bec27244cf85e15a91712695475632295_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-04-09T20:48:02Z",
+      "content": "Meta To Release Llama 3 Next Month\r\nDuring an event held in London on Tuesday, Facebook parent and social networking giant Meta officially announced its plan to release Llama 3, the next iteration of… [+2350 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
-      },
-      "author": "Android Police",
-      "title": "The Pixel 8 Pro was all I needed to create my solar eclipse memories - Android Police",
-      "description": null,
-      "url": "https://www.androidpolice.com/google-pixel-8-pro-solar-eclipse-photo-attempt/",
-      "urlToImage": null,
-      "publishedAt": "2024-04-08T21:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Levi Winslow",
-      "title": "Nioh's William Is Hiding In Rise Of The Ronin, And Here's Where To Find Him - Kotaku",
-      "description": "It’s worth tracking down William Adams, aka the Blue-Eyed Samurai, for some solid rewards",
-      "url": "https://kotaku.com/rise-ronin-nioh-william-where-how-find-tip-guide-1851396068",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/188d33e9194c99a45753c0d14e20e6ad.jpg",
-      "publishedAt": "2024-04-08T21:11:00Z",
-      "content": "Over 60 hours into Rise of the Ronin and I still havent discovered everything that Team Ninjas latest open-world samurai adventure game has to offer. And now, outside of all the cats to collect and f… [+3893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Austin Wood",
-      "title": "Holy Grail NES Castlevania sells for over $90000, losing bidder predicts \"a $250K flip\" but the buyer says he wanted \"the first game my mom ever bought me\" - Gamesradar",
-      "description": "\"The search is over after 23 years\"",
-      "url": "https://www.gamesradar.com/holy-grail-nes-castlevania-sells-for-over-dollar90000-losing-bidder-predicts-a-dollar250k-flip-but-the-buyer-says-he-wanted-the-first-game-my-mom-ever-bought-me/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DYq7AGriAXVdzrDqMJiu2o-1200-80.jpg",
-      "publishedAt": "2024-04-08T21:02:22Z",
-      "content": "In one of the biggest auctions for a raw boxed video game, a rare sealed hangtag copy of Castlevania for the original NES recently sold for $90,100 on eBay\r\n after a bidding war that started at $37,0… [+3923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ronny Reyes",
-      "title": "Brooklyn cemetery hosts eerie, solar eclipse viewing party: 'I feel like we were guided to come here' - New York Post ",
-      "description": "Hundreds gathered at Brooklyn’s Green-Wood Cemetery on Monday for a solar eclipse viewing party as they watched the sun disappear from the sky above while the dead slumbered below.",
-      "url": "https://nypost.com/2024/04/08/us-news/brooklyn-cemetery-hosts-eerie-solar-eclipse-viewing-party-i-feel-like-we-were-guided-to-come-here/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/gathering-brooklyn-cemetery-eclipse-viewing-79705791.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-04-08T20:55:00Z",
-      "content": "It was dark, beautiful, and perhaps a little bit eerie. \r\nMore than 7,000 people gathered at Brooklyn’s Green-Wood Cemetery on Monday for a solar eclipse viewing party as they watched the sun disappe… [+4941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
+        "name": "Krebs on Security"
       },
       "author": null,
-      "title": "Fresh Pixel 8a leaks show off a matte-finish back and chunky bezels - Android Authority",
-      "description": "Latest Pixel 8a leak offers a closer look at the phone's new design, a potential matte finish and prominent bezels.",
-      "url": "https://www.androidauthority.com/pixel-8a-images-leak-3432394/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/10/google-pixel-8-rose-vs-pixel-7-lime-rear-1-scaled.jpg",
-      "publishedAt": "2024-04-08T20:27:34Z",
-      "content": "<ul><li>New images of the Pixel 8a have leaked, showcasing a rounded design and a matte finish on the back.</li><li>The images also point to noticeable bottom bezels on the device.</li></ul>\r\nThe Pix… [+1571 chars]"
+      "title": "April's Patch Tuesday Brings Record Number of Fixes – Krebs on Security - Krebs on Security",
+      "description": "If only Patch Tuesdays came around infrequently -- like total solar eclipse rare -- instead of just creeping up on us each month like The Man in the Moon. Although to be fair, it would be tough for Microsoft to…",
+      "url": "https://krebsonsecurity.com/2024/04/aprils-patch-tuesday-brings-record-number-of-fixes/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-09T20:40:41Z",
+      "content": "If only Patch Tuesdays came around infrequently — like total solar eclipse rare — instead of just creeping up on us each month like The Man in the Moon. Although to be fair, it would be tough for Mic… [+4889 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "author": "Zack Zwiezen",
-      "title": "All Fallout Games On Sale For $25 In New Bundle - Kotaku",
-      "description": "The original Fallout, New Vegas, Fallout 4, all its DLC and more are included in this PC package",
-      "url": "https://kotaku.com/all-fallout-games-sale-deal-pc-bundle-f03-76-new-vegas-1851395817",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9f997eaf84d3efe04cb245cacf57796e.jpg",
-      "publishedAt": "2024-04-08T20:15:00Z",
-      "content": "A new Fanatical PC bundle containing seven Fallout games, basically the entire franchise, is currently available right now for the low price of $25. Even better, many of these games are playable on S… [+2085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Pebblebee raises price of Android Find My Device trackers - 9to5Google",
-      "description": "Ahead of today’s launch of the long-awaited Android Find My Device network, Pebblebee and Chipolo had announced trackers designed for...",
-      "url": "http://9to5google.com/2024/04/08/pebblebee-android-find-my-device-tracker-price/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/pebblebee-card-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-08T20:15:00Z",
-      "content": "Ahead of today’s launch of the long-awaited Android Find My Device network, Pebblebee and Chipolo had announced trackers designed for the network. Now that they’re finally about to ship, though, Pebb… [+1661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Nothing Ear And Ear a India Launch Confirmed For This Date. Expected Specifications, Prices, Colours - ABP Live",
-      "description": "London-based Nothing has announced a product launch event scheduled for April 18, where it will unveil two new earbuds.",
-      "url": "https://news.abplive.com/technology/gadgets/nothing-ear-and-ear-a-launch-specifications-prices-india-colours-1678471",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/04/09/58b7e3813744b868d80052ab0e2366c81712606349507295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-04-08T20:02:30Z",
-      "content": "London-based Nothing has announced a product launch event scheduled for April 18, where it will unveil two new earbuds -- Nothing Ear and Ear a. The Ear model succeeds the previous Nothing Ear 2, ref… [+2275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Willa Rowe",
-      "title": "Persona Fans Lose It As Leak Suggests Next Game's Color Scheme - Kotaku",
-      "description": "The latest Persona 6 leaks seem to confirm a years-old fan theory",
-      "url": "https://kotaku.com/persona-6-color-scheme-leak-green-bucket-theory-1851395848",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c174189c27d10fcb96e51610b140a1f8.jpg",
-      "publishedAt": "2024-04-08T20:00:00Z",
-      "content": "Midori, the reliable leaker known for revealing that Persona 3 Reloadwould be getting The Answer as DLC, has more news for Persona fans. This time its about the inevitable Persona 6, which remains un… [+2036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: Realme P Series, For India, Launching Soon, Portronics Freedom Fold 3 Wireless Charger Unveiled, More - ABP Live",
-      "description": "Handset maker Realme India has announced the launch of its latest smartphone lineup, the Realme P series in the coming days.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-april-8-realme-p-series-for-india-launching-soon-portronics-freedom-fold-3-wireless-charger-unveiled-1678470",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/04/08/3edab591ef201a048971baf24ef8e0ef1712600298705295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-04-08T19:28:30Z",
-      "content": "Realme P Series, For India, Launching Soon\r\nHandset maker Realme India has announced the launch of its latest smartphone lineup, the Realme P series in the coming days. The announcement was made by R… [+2377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "New NFT/Bitcoin Handheld Will Likely Cost $500 - Kotaku",
-      "description": "Yeah, apparently people are still trying to make NFT and Bitcoin-related products",
-      "url": "https://kotaku.com/bitboy-one-retro-game-500-price-nft-bitcoin-blockchain-1851395722",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fca50ffd570faf33c28d128859b0a48f.jpg",
-      "publishedAt": "2024-04-08T19:15:00Z",
-      "content": "Ordz Games has revealed a new retro-inspired handheld gaming console that will allegedly let players earn Bitcoins while playing games that are connected to the larger blockchain network. The console… [+2830 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Critical takeover vulnerabilities in 92000 D-Link devices under active exploitation - Ars Technica",
-      "description": "D-Link won't be patching vulnerable NAS devices because they're no longer supported.",
-      "url": "https://arstechnica.com/security/2024/04/hackers-actively-exploit-critical-remote-takeover-vulnerabilities-in-d-link-devices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg",
-      "publishedAt": "2024-04-08T18:56:51Z",
-      "content": "36\r\nHackers are actively exploiting a pair of recently discovered vulnerabilities to remotely commandeer network-attached storage devices manufactured by D-Link, researchers said Monday.\r\nRoughly 92,… [+4221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Austin Wood",
-      "title": "Helldivers 2 rocked by \"rogue item\" promising new Stratagems, dev tells players to avoid \"Catalog Expansion\" upgrade or who knows what could happen - Gamesradar",
-      "description": "I'm honestly not sure if this is a leak, a bug, cut content, or a teaser – but probably a bug",
-      "url": "https://www.gamesradar.com/helldivers-2-rocked-by-rogue-item-promising-new-stratagems-dev-tells-players-to-avoid-catalog-expansion-upgrade-or-who-knows-what-could-happen/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b7zVhtkF4hGfWxChzHcEMR-1200-80.jpg",
-      "publishedAt": "2024-04-08T18:55:48Z",
-      "content": "The Helldivers 2\r\n community is once again wrestling with the satirical tone of the game and its development team, struggling to glean legitimate information as Arrowhead cautions all democracy enjoy… [+2837 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "New Starfield 'DLC-Sized' Mod Lets You Create Entire Colonies, Build Mechs, and More - IGN",
-      "description": "A new \"DLC-sized\" mod for Starfield, TGs Galactic Colonies Expanse, lets players create massive colonies, build mechs, and more.",
-      "url": "https://www.ign.com/articles/new-starfield-dlc-sized-mod-lets-you-create-entire-colonies-build-mechs-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/08/ezgif-com-webp-to-png-converter-4-1712600163678.png?width=1280",
-      "publishedAt": "2024-04-08T18:42:35Z",
-      "content": "If you're looking for ways to expand Starfield's replayability, a new \"DLC-sized\" mod is now available, allowing players to build their own colony, create mechs, and more. \r\nOver on Nexus Mods yester… [+2853 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Vision Pro Owners Complain of Headaches, Neck Issues and Black Eyes - MacRumors",
+      "description": "Some Apple Vision Pro owners have been dealing with health issues related to the wearing of the headset, according to a report from MarketWatch. The...",
+      "url": "https://www.macrumors.com/2024/04/09/vision-pro-owner-pain-complaints/",
+      "urlToImage": "https://images.macrumors.com/t/0oV_CZEzUhcV5Q_q8sJ2qo9gG2c=/2500x/article-new/2024/03/apple-vision-pro-orange.jpg",
+      "publishedAt": "2024-04-09T20:31:10Z",
+      "content": "Some Apple Vision Pro owners have been dealing with health issues related to the wearing of the headset, according to a report from MarketWatch. The site spoke to Vision Pro owners experiencing heada… [+1109 chars]"
     },
     {
       "source": {
@@ -229,25 +99,25 @@
         "name": "Kotaku"
       },
       "author": "Claire Jackson",
-      "title": "FF7 Rebirth: How To Give Odin The Beatdown He Deserves - Kotaku",
-      "description": "Odin bores easily and will end the battle if you don’t impress him",
-      "url": "https://kotaku.com/final-fantasy-7-rebirth-ff7-odin-fight-how-to-beat-1851395590",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3b86104ec354f6d7807f10ad23ac7653.jpg",
-      "publishedAt": "2024-04-08T18:30:00Z",
-      "content": "Final Fantasy is a series thats been known for its epic summons, god-like entities wholl aid you in battle. Rebirth introduces a number of classics who you can acquire by defeating them in Chadleys c… [+3751 chars]"
+      "title": "How To Clear Fallout 4 From Your Backlog - Kotaku",
+      "description": "With a game this enormous and this feature-rich, where do you even start?",
+      "url": "https://kotaku.com/fallout-4-backlog-play-before-show-amazon-1851398256",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/feb26e791533e51d8468b487602ddc64.jpg",
+      "publishedAt": "2024-04-09T19:31:52Z",
+      "content": "Bethesdas open-world RPG Fallout 4 arrived on PC, Xbox One, and PS4 on November 10, 2015. Given that its nearing ten years old and is vast enough to easily take up well over a hundred hours of your t… [+9013 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "mlive.com"
+        "name": "[Removed]"
       },
-      "author": "Matt Durr | mattdurr@mlive.com",
-      "title": "NASA eclipse warning: Don’t point your phones at the sun to take a picture or video - MLive.com",
-      "description": "Lenses on cameras need a specialized filter to make it safe to view the sun through them.",
-      "url": "https://www.mlive.com/news/2024/04/nasa-eclipse-warning-dont-point-your-phones-at-the-sun-to-take-a-picture-or-video.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/E7M4SS54XJCFXN3BAANBIPWC3Y.JPG?auth=83c5c4d2717d024523d3736bf11622e9190cb5a21249ca7409caf2f67f2d6ef2&width=1280&quality=90",
-      "publishedAt": "2024-04-08T18:09:00Z",
-      "content": "If youre one of the millions of people heading out this afternoon to catch a glimpse of the total solar eclipse, experts warn you shouldnt try to take a picture of the moment or use regular devices t… [+1012 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -255,12 +125,142 @@
         "name": "News18"
       },
       "author": "S Aadeetya",
-      "title": "Google Pixel 8a Launch Expected In India And Now Its Price Has Leaked: How Much It Could Cost You - News18",
-      "description": "Google Pixel 8a launch is expected at the I/O 2024 in May this year and now we also have a clue of how the Pixel 8a could be priced for buyers.",
-      "url": "https://www.news18.com/tech/google-pixel-8a-launch-expected-in-india-and-now-its-price-has-leaked-how-much-it-could-cost-you-8843895.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/google-pixel-8a-leaks-2023-10-8924af12faec21d83f21183195ea4d4f-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-04-08T18:00:15Z",
-      "content": "Google Pixel 8a smartphone launch is expected sometime next month and now we might also know how much the new Pixel a-series phone might cost in the market. With Google I/O 2024 dates already confirm… [+2052 chars]"
+      "title": "Google Messages Apps Can Now Warn Users About Spam Links In SMS: How It Works - News18",
+      "description": "Google Messages app is the default messaging app for SMSs on Android phone that also supports RCS chats enabled through mobile data for users.",
+      "url": "https://www.news18.com/tech/google-messages-apps-can-now-warn-users-about-spam-links-in-sms-how-it-works-8845217.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/google-message-app-spam-link-2024-04-9cfcbc0578ea1868d66481b8873200b0-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-09T18:34:35Z",
+      "content": "Googles messaging app for Android is set to unveil a new feature to improve security and reduce spam on smartphones. The RCS protocol used in the Google Messages app is an ideal alternative to SMS bu… [+2150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Lawrence Hodge",
+      "title": "You Can Buy One Of The Best Modern Sports Sedans For Less Than A Toyota Corolla - Jalopnik",
+      "description": "Used Genesis G70s are so cheap they might be one of the best enthusiast buys on the market right now.",
+      "url": "https://jalopnik.com/you-can-buy-one-of-the-best-modern-sports-sedans-for-le-1851397949",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/48d21bffec111ed9df395d551e73515a.jpg",
+      "publishedAt": "2024-04-09T18:25:00Z",
+      "content": "Lets say youre in the car market looking for something fun or, at the very least, somewhat interesting to drive. There are some great options to be had on the used market and, if youre not picky or a… [+2574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "2024 Dell XPS 14 Review - MobileTechReview",
+      "description": "The Dell XPS 14 (9440) makes a design departure, as do the XPS 13 and 16 for 2024. They all resemble the XPS 13 Plus, a change that perhaps puts form ahead o...",
+      "url": "https://www.youtube.com/watch?v=JYSNte7IFGw",
+      "urlToImage": "https://i.ytimg.com/vi/JYSNte7IFGw/maxresdefault.jpg",
+      "publishedAt": "2024-04-09T17:48:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Jim Norman",
+      "title": "Fan-Made Nintendo Network Replacement 'Pretendo' No Longer Requires Hacked Wii U - Nintendo Life",
+      "description": "Just in time",
+      "url": "https://www.nintendolife.com/news/2024/04/fan-made-nintendo-network-replacement-pretendo-no-longer-requires-hacked-wii-u",
+      "urlToImage": "https://images.nintendolife.com/db3e3f6f95f59/1280x720.jpg",
+      "publishedAt": "2024-04-09T17:48:45Z",
+      "content": "Image: Zion Grassl / Nintendo Life\r\nOfficial online functionality for the Wii U and 3DS may be no more (as of today, 9th April), but unofficial Nintendo Network replacements are already out there. Wh… [+1659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Kevin Okemwa",
+      "title": "Microsoft engineer saves the world from a major cyber attack - Windows Central",
+      "description": "A software engineer's resourcefulness and curiosity saved the world from a severe cyber attack during the Easter holiday.",
+      "url": "https://www.windowscentral.com/microsoft/heres-how-a-german-microsoft-software-engineers-curiosity-and-craftsmanship-saved-the-worlds-internet-from-the-most-widespread-and-effective-backdoor-ever-planted-in-any-software-product",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FYknLih6DzLz3gk4VfqYde-1200-80.jpg",
+      "publishedAt": "2024-04-09T17:41:27Z",
+      "content": "What you need to know\r\n<ul><li>Last week, a German Microsoft engineer uncovered a cyber attack that would have potentially allowed threat actors to access data from millions of unsuspecting users.</l… [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "iOS 17.5: New features, release date, and more details - 9to5Mac",
+      "description": "Apple has officially started beta testing iOS 17.5 with developers and public beta users. The update brings a handful of...",
+      "url": "https://9to5mac.com/2024/04/09/ios-17-5-new-features-release-date-and-more-details/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/install-ios-17-5-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-09T17:29:00Z",
+      "content": "Apple has officially started beta testing iOS 17.5 with developers and public beta users. The update brings a handful of new features and changes, and is expected to be released sometime next month. … [+3286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "News18",
+      "title": "Apple 2024 iPad Pro And Air Models Expected To Launch On May 6 - News18",
+      "description": "Apple iPad Pro and Air 2024 models were expected to launch in April this year but some issues have delayed the process, and we might finally see them soon.",
+      "url": "https://www.news18.com/web-stories/tech/apple-2024-ipad-pro-and-air-models-expected-to-launch-on-may-6-1988195/",
+      "urlToImage": "https://images.news18.com/webstories/2024/04/cropped-apple-ipad-air-m1-2023-10-1c2b9978e843c02a5b4a2fc3c13903e8-2024-04-9142424a68265153e22a3d392c97085e.jpg",
+      "publishedAt": "2024-04-09T17:28:35Z",
+      "content": "As for the iPad Pro model, we expect Apple to go berserk with the M3 chip, featuring an OLED display and changes to its design to compliment that will inevitably cause a price bump for the lineup."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Madhumita Murgia, Cristina Criddle",
+      "title": "OpenAI and Meta ready new AI models capable of 'reasoning' - Financial Times",
+      "description": "Upgrades are part of a wave of new large language models being released this year",
+      "url": "https://www.ft.com/content/78834fd4-c4d1-4bab-bc40-a64ad9d65e0d",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F0545196f-a16a-48d7-8a40-ce38baa63fa8.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2024-04-09T17:25:45Z",
+      "content": "OpenAI and Meta are on the brink of releasing new artificial intelligence models that they say will be capable of reasoning and planning, key steps towards achieving superhuman cognition in machines.… [+3587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Destiny 2’ Reveals New Final Shape Enemy Race, Prismatic Subclass, Exotic Combination - Forbes",
+      "description": "Huge, series-changing developments, including some a decade in the making for Destiny 2 today after its Final Shape stream.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/04/09/destiny-2-reveals-new-final-shape-enemy-race-prismatic-subclass-exotic-combination/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661576f56977a156318f09ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-09T17:13:51Z",
+      "content": "Desteiny 2\r\nBungie\r\nBungie was hyping up todays Destiny 2: The Final Shape preview stream to a point where the community slipped into fool me once mentality, flashing back to Lightfall. But now after… [+3869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Levi Winslow",
+      "title": "Sealed OG Castlevania Fetches $90K At Auction But Could Be Worth Way More - Kotaku",
+      "description": "A collector reportedly spent ‘over 23 years’ searching for Konami's 1987 NES classic",
+      "url": "https://kotaku.com/sealed-castlevania-nes-ebay-auction-konami-1851397603",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/875c2c5627128503658e5de4a7ee5643.jpg",
+      "publishedAt": "2024-04-09T17:00:00Z",
+      "content": "Physical copies of rare video games sell for tens, if not hundreds, of thousands of dollars. Just this past February, an ultra-rare copy of The Legend of Zelda on the NES went for over $700,00, while… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "TikTok testing new photo app to rival Instagram - BBC.com",
+      "description": "Some TikTok users have received notifications about a new app for photo posts \"coming soon\".",
+      "url": "https://www.bbc.com/news/articles/cge8j2dyg1qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b99/live/2a40ebf0-f66d-11ee-848c-914039e5f405.jpg",
+      "publishedAt": "2024-04-09T16:24:44Z",
+      "content": null
     }
   ]
 }
