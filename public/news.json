@@ -1,45 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 185,
+  "totalResults": 174,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Techtarget.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Esther Ajao",
-      "title": "Adobe working to offer GenAI tools from OpenAI and others - TechTarget",
-      "description": "The creative content software vendor previewed new video workflow tools in its video editing suite that let editors use video generating tools from OpenAI and others.",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366580899/Adobe-working-to-offer-GenAI-tools-from-OpenAI-and-others",
-      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/telecommunications_g1022855588.jpg",
-      "publishedAt": "2024-04-15T22:11:23Z",
-      "content": "Adobe is considering ways to offer third-party generative AI tools from OpenAI, Runway, and others inside Premiere Pro.\r\nThe creative content software vendor on Monday previewed ways video editors co… [+4240 chars]"
+      "author": "Kevin Purdy",
+      "title": "Linus Torvalds reiterates his tabs-versus-spaces stance with a kernel trap - Ars Technica",
+      "description": "One does not simply suggest changing a kernel line to help out a parsing tool.",
+      "url": "https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-595289606-760x380.jpg",
+      "publishedAt": "2024-04-16T21:51:20Z",
+      "content": "Enlarge/ Cans of Tab diet soda on display in 2011. Tab was discontinued in 2020. There has never been a soda named \"Spaces\" that had a cult following.\r\n90\r\nAnybody can contribute to the Linux kernel,… [+2779 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Kotaku"
       },
-      "author": "Eric Revell",
-      "title": "Adobe releases Acrobat AI assistant starting at $4.99 per month - Fox Business",
-      "description": "Adobe's new Acrobat AI Assistant will be generally available to users of Acrobat and Reader starting on Tuesday for an add-on subscription of $4.99 per month as an early access rate.",
-      "url": "https://www.foxbusiness.com/technology/adobe-releases-acrobat-ai-assistant-starting-4-99-month",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/Adobe-Acrobat-AI.jpg?ve=1&tl=1",
-      "publishedAt": "2024-04-15T22:08:00Z",
-      "content": "Adobe announced that its new Acrobat artificial intelligence (AI)\r\n assistant will be available to Acrobat and Reader users starting on Tuesday.\r\nThe new generative AI assistant allows users to work … [+3666 chars]"
+      "author": "Kenneth Shepard",
+      "title": "Overwatch 2's New Mythic Skin Store Is Expensive - Kotaku",
+      "description": "The new way to unlock customizable skins ensures you can’t catch up without spending real money",
+      "url": "https://kotaku.com/overwatch-2-mythic-skin-store-prisms-battle-pass-mercy-1851414356",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f8f62fc79acff8c5e610d09ec8d18d15.jpg",
+      "publishedAt": "2024-04-16T20:32:53Z",
+      "content": "Overwatch 2s tenth season begins today, April 16, and its bringing a new hero, a new limited-time event, and also a new way to earn Mythic Skins, the rare, customizable skins you can get through prog… [+3155 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Theregister.com"
       },
-      "author": "Emma Roth",
-      "title": "YouTube's ad blocker crackdown now includes third-party apps - The Verge",
-      "description": "YouTube is extending its ad blocking crackdown to third-party apps. The platform says users watching YouTube through an ad blocker app might see an error message.",
-      "url": "https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gUzfom5WKqgNXz0HDpt4gC5j_3k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986638/acastro_STK092_02.jpg",
-      "publishedAt": "2024-04-15T20:38:10Z",
-      "content": "YouTubes ad blocker crackdown now includes third-party apps\r\nYouTubes ad blocker crackdown now includes third-party apps\r\n / Users watching YouTube videos through an ad blocking app could encounter p… [+1553 chars]"
+      "author": "Thomas Claburn",
+      "title": "YouTube now sabotages ad-blocking apps that stream its vids - The Register",
+      "description": "EFF lambastes latest 'lazy and deliberately malicious move'",
+      "url": "https://www.theregister.com/2024/04/16/youtube_ad_blocking/",
+      "urlToImage": "https://regmedia.co.uk/2019/08/30/youtube.jpg",
+      "publishedAt": "2024-04-16T19:58:00Z",
+      "content": "YouTube says it will intentionally cripple the playback of its videos in third-party apps that block its ads.\r\nA Monday post in YouTube's help forum notes netizens using applications that strip out a… [+2659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Willa Rowe",
+      "title": "Hades 2 Technical Test Sign-Ups Available Now - Kotaku",
+      "description": "The technical test will ‘begin shortly’ for selected players",
+      "url": "https://kotaku.com/hades-2-technical-test-sign-up-steam-pc-1851414040",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/716c34a1dffd2e658f8c6fc6b948ab8d.jpg",
+      "publishedAt": "2024-04-16T19:00:00Z",
+      "content": "If youve been anxiously awaitingHades II, the sequel to Supergiants stunning 2020 roguelike, Ive got good news for you. While the hotly anticipated title isnt quite entering Early Access just yet, th… [+1691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "The Best AirPods Hidden Features You Should Know About - Gizmodo",
+      "description": "These AirPods secrets can considerably elevate your experience with them.",
+      "url": "https://gizmodo.com/the-best-airpods-hidden-features-1851413064",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/614a0a0b71c0377d82d54af84e643600.jpg",
+      "publishedAt": "2024-04-16T18:35:00Z",
+      "content": "If you go into Settings &gt; Accessibility &gt; Audio &amp; Visual &gt; Headphone Accommodations, you can tweak your music according to your preferences.\r\nStart by turning on the toggle switch for He… [+959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "NES Emulator for iPhone and iPad Now Available on App Store [Removed] - MacRumors",
+      "description": "The first approved Nintendo Entertainment System (NES) emulator for the iPhone and iPad was made available on the App Store today following...",
+      "url": "https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/",
+      "urlToImage": "https://images.macrumors.com/t/-l9gEGQyovHIExSo6_jIwY-Zfq8=/2500x/article-new/2024/04/iOS-NES-Emulator-Bimmy-Feature.jpg",
+      "publishedAt": "2024-04-16T18:33:05Z",
+      "content": "The first approved Nintendo Entertainment System (NES) emulator for the iPhone and iPad was made available on the App Store today following Apple's rule change. The emulator is called Bimmy, and it w… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "YouTube puts third-party clients on notice: Show ads or get blocked - Ars Technica",
+      "description": "Google would really like it if everyone just paid for YouTube Premium instead.",
+      "url": "https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-760x380.jpg",
+      "publishedAt": "2024-04-16T17:14:39Z",
+      "content": "195\r\nYouTube is putting third-party ad-blocking apps on notice. An ominous post on the official YouTube Community Help forum titled \"Enforcement on Third Party Apps\" says the company is \"strengthenin… [+2279 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Aarohy Kapoor",
+      "title": "Best Laptop Under 60000: Top Picks For Your Personal, Work & Gaming Needs - The Times of India",
+      "description": "Want to buy a powerful and efficient laptop under 60000? We have handpicked and listed some of the best options that we have found online based on rev",
+      "url": "https://timesofindia.indiatimes.com/hot-picks/best-laptop-under-60000-top-picks-for-your-personal-work-gaming-needs/articleshow/109342489.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109342435,width-1070,height-580,imgsize-31764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-16T17:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Heroes of the Storm PTR Patch Notes - April 16, 2024 - Blizzard News",
+      "description": "Our next Heroes of the Storm patch has just hit the Public Test Realm and will be available for playtesting.",
+      "url": "https://news.blizzard.com/en-us/heroes-of-the-storm/24077220/heroes-of-the-storm-ptr-patch-notes-april-16-2024",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/o7/O7WWDG2II0LQ1620254949494.png",
+      "publishedAt": "2024-04-16T17:02:37Z",
+      "content": "Our next Heroes of the Storm patch has just hit the Public Test Realm and will be available for playtesting. As always, if you encounter any bugs during your PTR play sessions, please stop by the PTR… [+31145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "New iOS 17.5 Beta Lets EU iPhone Users Download Apps Directly From Websites - MacRumors",
+      "description": "With the second beta of iOS 17.5 that's available today, iPhone users located in the European Union are able to download apps directly from the...",
+      "url": "https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/",
+      "urlToImage": "https://images.macrumors.com/t/ArfISB3D9p-QsunwHG-Opct3EZk=/2500x/article-new/2024/04/Apple-EU-iOS-Changes-Orange-1.jpg",
+      "publishedAt": "2024-04-16T17:00:00Z",
+      "content": "With the second beta of iOS 17.5 that's available today, iPhone users located in the European Union are able to download apps directly from the websites of Apple app developers without going through … [+2178 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Teo Armus",
+      "title": "Amazon HQ2 was supposed to add jobs last year. It shed them instead. - The Washington Post",
+      "description": "The downturn in hiring marks another setback in the boost Amazon had initially promised with its HQ2 in Northern Virginia amid a squeeze in the tech industry.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7RRUOLHUXMSSYFOBXKGWEM6VWE.JPG&w=1440",
+      "publishedAt": "2024-04-16T16:53:00Z",
+      "content": "Amazon has fallen so far behind schedule in creating new jobs at its Northern Virginia headquarters that its workforce at those offices shrank last year, the company confirmed, showing how the projec… [+7345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Kevin Okemwa",
+      "title": "Microsoft and OpenAI invest $100 billion in new 'Stargate' AI venture - Windows Central",
+      "description": "Microsoft and OpenAI want to become self-sufficient and satisfy their own computational needs.",
+      "url": "https://www.windowscentral.com/microsoft/microsoft-and-openai-bet-dollar100-billion-to-free-themselves-from-the-shackles-and-overreliance-on-the-worlds-most-profitable-semiconductor-chip-brand-for-ai-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8BV5E8asvaKjHogevgUs3F-1200-80.jpg",
+      "publishedAt": "2024-04-16T16:01:17Z",
+      "content": "What you need to know\r\n<ul><li>Microsoft and OpenAI have reportedly invested over $100 billion in a new project, Stargate.</li><li>It's a data center that will help support both companies' AI advance… [+3151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Robert Ramsey",
+      "title": "Sony Takes Down PS5 Pro YouTube Leak, Suggesting It's All Legit - Push Square",
+      "description": "More fuel for the fire",
+      "url": "https://www.pushsquare.com/news/2024/04/sony-takes-down-ps5-pro-youtube-leak-suggesting-its-all-legit",
+      "urlToImage": "https://images.pushsquare.com/14722fe727e1d/1280x720.jpg",
+      "publishedAt": "2024-04-16T16:00:00Z",
+      "content": "Image: Push Square\r\nAs if there was much doubting it at this point, the copyright claim of a YouTube video, which has resulted in its removal, points towards all of the PS5 Pro leaks being accurate. … [+1089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "Game Pass Is Removing These Six Games Very Soon - GameSpot",
+      "description": "It's the end of the road for these half-dozen Game Pass titles.",
+      "url": "https://www.gamespot.com/gallery/game-pass-is-removing-these-six-games-very-soon/2900-5263/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4288198-screenshot2024-04-16at10.38.09am.png",
+      "publishedAt": "2024-04-16T15:42:59Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Vivo V30e leaks: Thin design, 3D curved display, and Sony IMX882 sensor tipped | Mint - Mint",
+      "description": "Vivo is rumored to launch the Vivo V30e in India, expected in August. Leaks hint at a thin design with a 3D curved display and a Sony IMX882 sensor for the rear camera. The phone may feature a circular camera module and could be powered by the Qualcomm Snapdr…",
+      "url": "https://www.livemint.com/technology/gadgets/vivo-v30e-leaks-thin-design-3d-curved-display-and-sony-imx882-sensor-tipped-11713279688119.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/16/1600x900/GIDnqOla4AACOnL_1709804473904_1713280042028.jpg",
+      "publishedAt": "2024-04-16T15:14:00Z",
+      "content": "Vivo is rumored to be gearing up to introduce the Vivo V30e in India. According to several media reports, the smartphone is anticipated to hit the shelves in August, although some sources hint at an … [+2176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "PuTTY SSH client flaw allows recovery of cryptographic private keys - BleepingComputer",
+      "description": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation.",
+      "url": "https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg",
+      "publishedAt": "2024-04-16T15:01:57Z",
+      "content": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation.… [+4092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Editorji.com"
+      },
+      "author": "Editorji News Desk",
+      "title": "Motorola Edge 50 Ultra unveiled: Real wood back, Snapdragon 8s Gen 3, 64MP camera with AI tech - Editorji",
+      "description": "Motorola has just unveiled the Moto Edge 50 Ultra after the Moto Edge 50 Pro in Europe and other parts of the world. As a result, we can expect its official announcement in India any time now. Ahead of it, the key specification...",
+      "url": "https://www.editorji.com/tech-news/mobiles/motorola-edge-50-ultra-unveiled-real-wood-back-snapdragon-8s-gen-3-64mp-camera-with-ai-tech-1713278515925",
+      "urlToImage": "https://cdn.editorji.com/uPFwC4ZHbb.jpg",
+      "publishedAt": "2024-04-16T14:41:55Z",
+      "content": "Motorola has unveiled the Motorola Edge 50 Ultra in Europe, a significant addition to the Motorola Edge 50 series. This release marks a revival of unique designs, including a real wood phone back opt… [+4764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarkaritel.com"
+      },
+      "author": "New Desk",
+      "title": "Asus's new dual-screen laptop 'Zenbook DUO' now available in India - Sarkaritel.com",
+      "description": "New Delhi, April 16 (IANS) Taiwanese tech giant Asus on Tuesday said that its newly launched dual-screen laptop ‘Zenbook DUO’ is now available in India. Starting […]",
+      "url": "https://www.sarkaritel.com/asuss-new-dual-screen-laptop-zenbook-duo-now-available-in-india/",
+      "urlToImage": "https://www.sarkaritel.com/wp-content/uploads/2024/04/asus.jpg",
+      "publishedAt": "2024-04-16T14:12:54Z",
+      "content": "New Delhi, April 16 (IANS) Taiwanese tech giant Asus on Tuesday said that its newly launched dual-screen laptop ‘Zenbook DUO’ is now available in India.\r\nStarting at Rs 1,59,990, the Zenbook DUO is n… [+1158 chars]"
     },
     {
       "source": {
@@ -47,220 +242,25 @@
         "name": "Gizmodo.com"
       },
       "author": "Florence Ion",
-      "title": "Ikea's Gaming Furniture Collection, Ranked - Gizmodo",
-      "description": "This collection looks like it was plucked straight out of the '90s.",
-      "url": "https://gizmodo.com/ikeas-gaming-furniture-collection-rankings-1851411503",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5377150c363a7d0e9292ff4c6da74e2c.png",
-      "publishedAt": "2024-04-15T20:25:00Z",
-      "content": "Its the year my kid gets to pick out new furniture in her room now that shes graduating from a convertible crib to a Big Kid Bed. Im hoping some of Ikeas new Brännboll gaming collection, which launch… [+941 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "The Fallout Game You Need to Play While You Wait for Season 2 of the Show - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/fallout-game-you-need-to-play-while-you-wait-for-season-2-new-vegas",
-      "urlToImage": null,
-      "publishedAt": "2024-04-15T19:31:22Z",
-      "content": null
+      "title": "Samsung Phones Outselling iPhones Globally Right Now - Gizmodo",
+      "description": "Apple still needs to convince the rest of the world that the iPhone still has more to offer.",
+      "url": "https://gizmodo.com/samsung-phones-outselling-iphones-globally-1851412063",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d74169e1b172f0a82864100c66e93728.jpg",
+      "publishedAt": "2024-04-16T13:55:00Z",
+      "content": "The latest charts from analysts at IDC show Samsung has reclaimed the top spot on the global smartphone charts for the first quarter of the year, knocking Apple down to number two. Apple was dominati… [+2264 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "author": "Ben Schoon",
-      "title": "Did you even use the Google One VPN? [Poll] - 9to5Google",
-      "description": "The Google One VPN is shutting down apparently as hardly anyone used it. Did you ever use the Google One VPN?",
-      "url": "http://9to5google.com/2024/04/15/google-one-vpn-poll/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/05/Google-One-VPN-Pixel-7a-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-15T18:45:00Z",
-      "content": "In the months to come, Google will be shutting down the VPN that was available as a part of Google One. Theres been plenty of outcry surrounding the shutdown, but did you even use it?\r\nThe Google One… [+1769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Fallout TV Show Character Stats Revealed By Bethesda - Kotaku",
-      "description": "Want to know Lucy’s Charisma level or how strong The Ghoul is? Well, Fallout Shelter has that info",
-      "url": "https://kotaku.com/fallout-show-amazon-prime-character-special-stats-lucy-1851411135",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ad0b2e29294086b7e70607f139f47290.jpg",
-      "publishedAt": "2024-04-15T18:23:14Z",
-      "content": "A recent update for Bethesdas popular post-apocalyptic spin-off, Fallout Shelter, added some characters from the Amazon Prime live-action TV show adaptation to the base-building game. While its fun t… [+2000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ivan",
-      "title": "IDC: Samsung back as top smartphone vendor, market up 7.8% - GSMArena.com news - GSMArena.com",
-      "description": "The first quarter of 2024 sees global smartphone sales increase by 7.8%. IDC's report on the global smartphone market in Q1 of 2024 revaled that Samsung...",
-      "url": "https://www.gsmarena.com/idc_samsung_back_as_top_smartphone_vendor_market_up_78-news-62450.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/idc-q1/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-04-15T18:12:02Z",
-      "content": "IDC's report on the global smartphone market in Q1 of 2024 revaled that Samsung regained the top spot from Apple, but it was more due to Apple's lower sales than Samsung's higher ones.\r\nSamsung shipp… [+509 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The budget-friendly Blink Mini 2 security camera is on sale for the first time - The Verge",
-      "description": "For the first time, Amazon, Best Buy, and other retailers are discounting the new Blink Mini 2, an inexpensive camera that can be used indoors and outdoors.",
-      "url": "https://www.theverge.com/2024/4/15/24130998/amazon-blink-mini-2-security-camera-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8PJMEu2laTULDIobxcPxT9xsuAo=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334980/8A0A0898.jpeg",
-      "publishedAt": "2024-04-15T18:00:00Z",
-      "content": "The budget-friendly Blink Mini 2 security camera is on sale for the first time\r\nThe budget-friendly Blink Mini 2 security camera is on sale for the first time\r\n / Both the standalone camera and the b… [+2035 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "PS5 Pro will Emphasize Ray Tracing as Developers Told to Prepare Their Games for New Hardware - Report - IGN",
-      "description": "A new report confirms that the PS5 Pro specs leaked last month are real, and Sony is pushing developers to prepare their games to be optimized for the new hardware.",
-      "url": "https://www.ign.com/articles/sony-reportedly-tells-developers-to-prepare-game-for-ps5-pro-release",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/15/playstation5-blogroll-1713199719423.jpg?width=1280",
-      "publishedAt": "2024-04-15T17:51:12Z",
-      "content": "Nearly a month after the specs for the PS5 Pro were leaked, a new report from The Verge confirms that not only are the specifications for this rumored mid-gen refresh real, but Sony is reportedly tel… [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Apple pulls a Game Boy emulator for App Store violations, but says game emulators are allowed - TechCrunch",
-      "description": "iGBA was an ad-supported copy of the open-source project GBA4iOS that offered a Game Boy game emulator for iOS.",
-      "url": "https://techcrunch.com/2024/04/15/apple-pulls-a-game-boy-emulator-for-app-store-violations-but-says-game-emulators-are-allowed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Screenshot-2024-04-15-at-1.23.29 PM.png?w=720",
-      "publishedAt": "2024-04-15T17:26:07Z",
-      "content": "Apple has removed iGBA, a Game Boy emulator app for the iPhone, after approving its launch over the weekend. The app was among the first to capitalize on Apple’s newly relaxed rules around retro game… [+2845 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Stephen Nellis",
-      "title": "Adobe explores OpenAI partnership as it adds AI video tools - Reuters",
-      "description": "Adobe is in the early stages of allowing third-party generative artificial intelligence tools such as OpenAI's Sora and others inside its widely used video editing software, the U.S. software maker said on Monday.",
-      "url": "https://www.reuters.com/technology/adobe-explores-openai-partnership-it-adds-ai-video-tools-2024-04-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/N6BYZGV6LFNRNK2BVFCQA3YL34.jpg?auth=91bd54e8cc722116bc29d603d92cd88c1492d11446258cab39c9783fc2090e2f&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-04-15T17:19:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Quentyn Kennemer",
-      "title": "Sony's WF-1000XM5 earbuds are on sale for just $7 shy of their all-time low - The Verge",
-      "description": "Sony’s WF-1000XM5 earbuds are on sale at Amazon for just $229.95. The Pixel 7A has also never been cheaper, and Steam is heavily discounting a Fallout gaming bundle.",
-      "url": "https://www.theverge.com/2024/4/15/24130833/sony-wf-1000xm5-earbuds-apple-magic-keyboard-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fK8wqC3IFxG5qieLY3Nc8RcPTOk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24805762/DSCF2223.jpg",
-      "publishedAt": "2024-04-15T17:18:48Z",
-      "content": "Sonys WF-1000XM5 earbuds are on sale for just $7 shy of their all-time low\r\nSonys WF-1000XM5 earbuds are on sale for just $7 shy of their all-time low\r\n / Were also seeing the best price to date on G… [+5035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zoom"
-      },
-      "author": "TN Tech Desk",
-      "title": "Garena Free Fire Redeem Codes April 16: Receive phenomenal gifts! - Times Now",
-      "description": "The latest Garena Free Fire Codes for April 16 have just dropped! Don't miss out on your chance to claim a variety of free skins, characters, weapons, diamonds, and other amazing bonuses. Act fast to make the most of these rewards!",
-      "url": "https://www.timesnownews.com/technology-science/gaming/garena-free-fire-redeem-codes-april-16-receive-phenomenal-gifts-article-109322134",
-      "urlToImage": "https://static.tnn.in/thumb/msid-109322134,width-1280,height-720,resizemode-75/109322134.jpg",
-      "publishedAt": "2024-04-15T17:17:48Z",
-      "content": "Gaza Ceasefire Protesters Burn American Flag In Brooklyn, Raise Terrorist Flag In Front Of NY Stock Exchange | Video"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Matt Jarvis",
-      "title": "Game-sized Fallout 4 mod Fallout: London has been delayed indefinitely by Bethesda's incoming next-gen update - Rock Paper Shotgun",
-      "description": "“The past four years of our work stand to just simply break.”",
-      "url": "https://www.rockpapershotgun.com/game-sized-fallout-4-mod-fallout-london-has-been-delayed-indefinitely-by-bethesdas-incoming-next-gen-update",
-      "urlToImage": "https://assetsio.gnwcdn.com/fallout-london-masks-flag.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-04-15T17:02:16Z",
-      "content": "Fallout: London, the Fallout 4 mod set in a post-apocalyptic English capital that’s large enough to effectively be its own game, has been hit by an indefinite delay just two weeks from its planned re… [+3173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Tereza Pultarova",
-      "title": "Space-based solar power may be one step closer to reality, thanks to this key test - Space.com",
-      "description": "Unlike solar panels on Earth, a solar power plant in space would provide a constant power supply 24/7.",
-      "url": "https://www.space.com/space-based-solar-power-technology-demonstration",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ezXE7xqF44Ed7eNKFkkzsM-1200-80.jpg",
-      "publishedAt": "2024-04-15T17:00:48Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Matt Cox",
-      "title": "Hands on with Frostpunk 2 reveals a wasteland that's more about wheelin' and dealin' than mere survivin' - Rock Paper Shotgun",
-      "description": "Frostpunk 2 is out for more freezing city survival this summer, and hands on with the beta reveals more politics than resource juggling this time.",
-      "url": "https://www.rockpapershotgun.com/hands-on-with-frostpunk-2-reveals-a-wasteland-thats-more-about-wheelin-and-dealin-than-mere-survivin",
-      "urlToImage": "https://assetsio.gnwcdn.com/frostpunk-2-beta-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-04-15T17:00:00Z",
-      "content": "My city has become far too egalitarian for the Icebloods. Marxist policy choices mean the faction are now protesting in my coal mines, shutting down a vital heat pipeline and fomenting further dissen… [+8211 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Samantha Murphy Kelly",
-      "title": "iPhone sales are plunging. Here’s why - CNN",
-      "description": "Apple’s smartphone sales tumbled 10% last quarter, according to market research firm IDC, as sales in China fell sharply.",
-      "url": "https://www.cnn.com/2024/04/15/tech/iphone-sales-plunging/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-09-22t031359z-1694477979-rc2cd3arliji-rtrmadp-3-apple-china.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-15T16:50:00Z",
-      "content": "Apples smartphone sales tumbled 10% last quarter, according to market research firm IDC, as sales in China fell sharply.\r\nThe company has lost momentum in China as nationalism, a rough economy and in… [+3180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": "Ed Smith",
-      "title": "Gamer buys 4,000 copies of Alan Wake, none of them work - PCGamesN",
-      "description": "Alan Wake, from Max Payne and Control creator Remedy, is a horror classic, prompting one player to buy 4,000 copies that don’t even work.",
-      "url": "https://www.pcgamesn.com/alan-wake/player-buys-4000-copies",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/04/alan-wake-player-buys-4000-copies-alan-wake-2-remedy-horror-game-1.jpg",
-      "publishedAt": "2024-04-15T16:41:08Z",
-      "content": "XCOM. Civilization. Half-Life. There are certain games we adore here at PCGamesN, certifiable PC classics that we consider part of our personal canon. Certainly, when it comes to collector’s editions… [+4008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Houston Chronicle"
-      },
-      "author": "Matt Young",
-      "title": "How to claim free Chick-fil-A sandwich after Jose Altuve's home run - Houston Chronicle ",
-      "description": "Jose Altuve's first inning home run hit off the Chick-fil-A foul pole Sunday, meaning free chicken sandwiches for everyone in Houston.",
-      "url": "https://www.houstonchronicle.com/texas-sports-nation/astros/article/astros-chick-fil-a-foul-pole-jose-altuve-home-run-19403807.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/37/03/16/24916926/5/rawImage.jpg",
-      "publishedAt": "2024-04-15T16:26:01Z",
-      "content": "Houston Astros second baseman Jose Altuve (27) rounds bases for his leadoff home run against Texas Rangers starting pitcher Nathan Eovaldi (17) during the bottom first inning of a MLB match Sunday, A… [+1447 chars]"
+      "author": "Tim Hardwick",
+      "title": "All iPhone 16 Models to Feature Action Button, But Usefulness Debated - MacRumors",
+      "description": "Last September, Apple's iPhone 15 Pro models debuted with a new customizable Action button, offering faster access to a handful of functions, as...",
+      "url": "https://www.macrumors.com/2024/04/16/iphone-16-action-button-useful-or-not/",
+      "urlToImage": "https://images.macrumors.com/t/gai5jfu-M1_5vSWKQLJQvwOxFww=/1600x/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg",
+      "publishedAt": "2024-04-16T13:54:19Z",
+      "content": "Last September, Apple's iPhone 15 Pro models debuted with a new customizable Action button, offering faster access to a handful of functions, as well as the ability to assign Shortcuts. Apple is pois… [+3459 chars]"
     }
   ]
 }
