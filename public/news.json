@@ -1,45 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 174,
+  "totalResults": 201,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "India Today"
       },
-      "author": "Kevin Purdy",
-      "title": "Linus Torvalds reiterates his tabs-versus-spaces stance with a kernel trap - Ars Technica",
-      "description": "One does not simply suggest changing a kernel line to help out a parsing tool.",
-      "url": "https://arstechnica.com/gadgets/2024/04/linus-torvalds-reiterates-his-tabs-versus-spaces-stance-with-a-kernel-trap/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-595289606-760x380.jpg",
-      "publishedAt": "2024-04-16T21:51:20Z",
-      "content": "Enlarge/ Cans of Tab diet soda on display in 2011. Tab was discontinued in 2020. There has never been a soda named \"Spaces\" that had a cult following.\r\n90\r\nAnybody can contribute to the Linux kernel,… [+2779 chars]"
+      "author": "India Today Tech",
+      "title": "Infinix Note 40 Pro 5G first sale in India today: Check price, specifications - India Today",
+      "description": "Infinix Note 40 Pro 5G goes on its first sale in India today offering powerful specifications and a stunning design in the mid-range phone market",
+      "url": "https://www.indiatoday.in/technology/news/story/infinix-note-40-pro-5g-first-sale-in-india-today-check-price-specifications-2528534-2024-04-18",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202404/infinix-note-40-pro-124738517-16x9.jpg?VersionId=xZ3SSQIxNUOS4If_tWUmnCQ2HxC2w8sM",
+      "publishedAt": "2024-04-18T00:10:46Z",
+      "content": "Infinix’s powerful mid-ranger, the Infinix Note 40 Pro, is all set to go on its first sale in India today. With a stunning design and great specifications, Infinix has tried to change the way mid-ran… [+2186 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "YouTube"
       },
-      "author": "Kenneth Shepard",
-      "title": "Overwatch 2's New Mythic Skin Store Is Expensive - Kotaku",
-      "description": "The new way to unlock customizable skins ensures you can’t catch up without spending real money",
-      "url": "https://kotaku.com/overwatch-2-mythic-skin-store-prisms-battle-pass-mercy-1851414356",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f8f62fc79acff8c5e610d09ec8d18d15.jpg",
-      "publishedAt": "2024-04-16T20:32:53Z",
-      "content": "Overwatch 2s tenth season begins today, April 16, and its bringing a new hero, a new limited-time event, and also a new way to earn Mythic Skins, the rare, customizable skins you can get through prog… [+3155 chars]"
+      "author": null,
+      "title": "Google cracking down on ad-blockers - 11Alive",
+      "description": "The company announced viewers who are using third-party apps may experience buffering issues.",
+      "url": "https://www.youtube.com/watch?v=UEJ9G0Tg818",
+      "urlToImage": "https://i.ytimg.com/vi/UEJ9G0Tg818/hqdefault.jpg",
+      "publishedAt": "2024-04-17T20:58:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Nicolás Rivero",
+      "title": "New EV features for Google Maps have arrived. Here’s how to use them. - The Washington Post",
+      "description": "New Google Maps features address one of Americans’ top concerns about owning an electric car: finding a place to charge.",
+      "url": "https://www.washingtonpost.com/climate-solutions/2024/04/17/google-maps-electric-vehicles-stations-charging/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6ZJRKXKOUJFEN3NMNED7URHRU_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-04-17T20:25:00Z",
+      "content": "Google hasannounced new features in its Maps app designed to help electric car drivers find a charge.\r\nThe updates include a tool to help drivers find nearby chargers with real-time information about… [+2744 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "[Removed]"
       },
-      "author": "Thomas Claburn",
-      "title": "YouTube now sabotages ad-blocking apps that stream its vids - The Register",
-      "description": "EFF lambastes latest 'lazy and deliberately malicious move'",
-      "url": "https://www.theregister.com/2024/04/16/youtube_ad_blocking/",
-      "urlToImage": "https://regmedia.co.uk/2019/08/30/youtube.jpg",
-      "publishedAt": "2024-04-16T19:58:00Z",
-      "content": "YouTube says it will intentionally cripple the playback of its videos in third-party apps that block its ads.\r\nA Monday post in YouTube's help forum notes netizens using applications that strip out a… [+2659 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-Madori Davis and Amanda Silberling",
+      "title": "Don’t blame MKBHD for the fate of Humane AI and Fisker - TechCrunch",
+      "description": "Famed YouTuber Marques Brownlee makes a splash not for what he said about Humane's Ai Pin, but for how he said it.",
+      "url": "https://techcrunch.com/2024/04/17/mkbhd-humane-ai-review-fisker/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1259137127.jpg?w=1024",
+      "publishedAt": "2024-04-17T20:00:23Z",
+      "content": "Humane AI raised more than $230 million before it even shipped a product. And when it finally released its Ai Pin — which costs $699 plus a $24 monthly subscription — pretty much every tech reviewer … [+6380 chars]"
     },
     {
       "source": {
@@ -47,77 +73,116 @@
         "name": "Kotaku"
       },
       "author": "Willa Rowe",
-      "title": "Hades 2 Technical Test Sign-Ups Available Now - Kotaku",
-      "description": "The technical test will ‘begin shortly’ for selected players",
-      "url": "https://kotaku.com/hades-2-technical-test-sign-up-steam-pc-1851414040",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/716c34a1dffd2e658f8c6fc6b948ab8d.jpg",
-      "publishedAt": "2024-04-16T19:00:00Z",
-      "content": "If youve been anxiously awaitingHades II, the sequel to Supergiants stunning 2020 roguelike, Ive got good news for you. While the hotly anticipated title isnt quite entering Early Access just yet, th… [+1691 chars]"
+      "title": "Hades 2 Technical Test Stream Shows Off Gameplay - Kotaku",
+      "description": "Supergiant Games showed off the roguelite sequel in a technical test stream",
+      "url": "https://kotaku.com/hades-2-technical-test-livestream-new-gods-and-weapons-1851417165",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fcade18642100c7799ce9dc49afb4eb3.jpg",
+      "publishedAt": "2024-04-17T19:45:00Z",
+      "content": "Supergiant Games will soon be selecting a handful of players to be the first to try out Hades II. The hotly anticipated sequel to 2020s roguelike darling is on the top of a lot of gamers wishlists, b… [+3856 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Halowaypoint.com"
       },
-      "author": "Dua Rashid",
-      "title": "The Best AirPods Hidden Features You Should Know About - Gizmodo",
-      "description": "These AirPods secrets can considerably elevate your experience with them.",
-      "url": "https://gizmodo.com/the-best-airpods-hidden-features-1851413064",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/614a0a0b71c0377d82d54af84e643600.jpg",
-      "publishedAt": "2024-04-16T18:35:00Z",
-      "content": "If you go into Settings &gt; Accessibility &gt; Audio &amp; Visual &gt; Headphone Accommodations, you can tweak your music according to your preferences.\r\nStart by turning on the toggle switch for He… [+959 chars]"
+      "author": "Alex Wakeford",
+      "title": "Canon Fodder: Didactic Discourse | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>We put out a solicitation for questions on Halo: Epitaph, and you all leapt at the chance to have some of the deepest and darkest elements of the Halo universe’s ancient past brought to the fore. (We even answered some of them!) Alongside that, the rerelea…",
+      "url": "https://www.halowaypoint.com/news/canon-fodder-didactic-discourse",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/04/CF152.jpg",
+      "publishedAt": "2024-04-17T19:09:16Z",
+      "content": "We put out a solicitation for questions on Halo: Epitaph, and you all leapt at the chance to have some of the deepest and darkest elements of the Halo universes ancient past brought to the fore. (We … [+16470 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "India.com"
       },
-      "author": "Joe Rossignol",
-      "title": "NES Emulator for iPhone and iPad Now Available on App Store [Removed] - MacRumors",
-      "description": "The first approved Nintendo Entertainment System (NES) emulator for the iPhone and iPad was made available on the App Store today following...",
-      "url": "https://www.macrumors.com/2024/04/16/nes-emulator-bimmy-for-iphone-in-app-store/",
-      "urlToImage": "https://images.macrumors.com/t/-l9gEGQyovHIExSo6_jIwY-Zfq8=/2500x/article-new/2024/04/iOS-NES-Emulator-Bimmy-Feature.jpg",
-      "publishedAt": "2024-04-16T18:33:05Z",
-      "content": "The first approved Nintendo Entertainment System (NES) emulator for the iPhone and iPad was made available on the App Store today following Apple's rule change. The emulator is called Bimmy, and it w… [+1353 chars]"
+      "author": "https://www.india.com/author/tahir-qureshi/",
+      "title": "WhatsApp To Launch 'Recent Active Contacts' Feature - India.com",
+      "description": "This new feature was reportedly observed in beta trials.",
+      "url": "https://www.india.com/technology/whatsapp-to-launch-recent-active-contacts-feature-6867469/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2024/04/QT-Whatsapp.jpg",
+      "publishedAt": "2024-04-17T19:00:14Z",
+      "content": "This new feature was reportedly observed in beta trials.\r\n(Image: www.digitaltrends.com)\r\nWhatsApp: Instant messaging and voice-over-IP service platform WhatsApp is likely to launch a new feature to … [+1034 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "Ron Amadeo",
-      "title": "YouTube puts third-party clients on notice: Show ads or get blocked - Ars Technica",
-      "description": "Google would really like it if everyone just paid for YouTube Premium instead.",
-      "url": "https://arstechnica.com/gadgets/2024/04/youtube-will-start-blocking-third-party-clients-that-dont-show-ads/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-760x380.jpg",
-      "publishedAt": "2024-04-16T17:14:39Z",
-      "content": "195\r\nYouTube is putting third-party ad-blocking apps on notice. An ominous post on the official YouTube Community Help forum titled \"Enforcement on Third Party Apps\" says the company is \"strengthenin… [+2279 chars]"
+      "author": "Vlad",
+      "title": "Google Pixel 8a leaks in new, clearer renders - GSMArena.com news - GSMArena.com",
+      "description": "This phone just can't stop leaking. Another day, another Google Pixel 8a leak - this phone simply doesn't seem to want to stop leaking ahead of the...",
+      "url": "https://www.gsmarena.com/google_pixel_8a_leaks_in_new_clearer_renders-news-62481.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/google-pixel-8a-new-leaked-renders/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-04-17T18:31:01Z",
+      "content": "Another day, another Google Pixel 8a leak - this phone simply doesn't seem to want to stop leaking ahead of the expected official unveiling on May 14 during Google's annual I/O developer conference.\r… [+804 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Aarohy Kapoor",
-      "title": "Best Laptop Under 60000: Top Picks For Your Personal, Work & Gaming Needs - The Times of India",
-      "description": "Want to buy a powerful and efficient laptop under 60000? We have handpicked and listed some of the best options that we have found online based on rev",
-      "url": "https://timesofindia.indiatimes.com/hot-picks/best-laptop-under-60000-top-picks-for-your-personal-work-gaming-needs/articleshow/109342489.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109342435,width-1070,height-580,imgsize-31764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-16T17:03:00Z",
-      "content": null
+      "author": "Deeksha Somani",
+      "title": "Apple iPhone 13 available for just Rs 15,336 on Amazon; check out the offer details - The Times of India",
+      "description": "MOBILES & TABLETS News: iPhone 13 discounted on Amazon at Rs 52,090, with trade-in offers up to Rs 34,150. ICICI credit card discount available. Features include Ceramic Shie",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-13-available-for-just-rs-15336-on-amazon-check-out-the-offer-details/articleshow/109382086.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109382047,width-1070,height-580,imgsize-8826,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-17T18:18:00Z",
+      "content": "iPhone 13 discounted on Amazon at Rs 52,090, with trade-in offers up to Rs 34,150. ICICI credit card discount available. Features include Ceramic Shield, IP68, A15 Bionic chipset, HDR display, and Do… [+1593 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "The Pixel 7A is a knockout at its record-low $349 - The Verge",
+      "description": "The latest Google Pixel 7A deal has dropped the smartphone to $349, a new price record. The $150 price drop comes just ahead of the sequel’s arrival.",
+      "url": "https://www.theverge.com/2024/4/17/24133040/google-pixel-7a-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tn_fZe5LL_kqmN6eCADr4FOv5lk=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24643387/DSC04630_processed.jpg",
+      "publishedAt": "2024-04-17T18:13:31Z",
+      "content": "The Pixel 7A is a knockout at its record-low $349\r\nThe Pixel 7A is a knockout at its record-low $349\r\n / Even with a sequel looming, the $150 price drop makes it a great choice if youre looking for a… [+2035 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Blizzard.com"
+        "name": "9to5google.com"
       },
-      "author": null,
-      "title": "Heroes of the Storm PTR Patch Notes - April 16, 2024 - Blizzard News",
-      "description": "Our next Heroes of the Storm patch has just hit the Public Test Realm and will be available for playtesting.",
-      "url": "https://news.blizzard.com/en-us/heroes-of-the-storm/24077220/heroes-of-the-storm-ptr-patch-notes-april-16-2024",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/o7/O7WWDG2II0LQ1620254949494.png",
-      "publishedAt": "2024-04-16T17:02:37Z",
-      "content": "Our next Heroes of the Storm patch has just hit the Public Test Realm and will be available for playtesting. As always, if you encounter any bugs during your PTR play sessions, please stop by the PTR… [+31145 chars]"
+      "author": "Abner Li",
+      "title": "Google Messages will let you record a 3-second 'Selfie GIF' - 9to5Google",
+      "description": "After adding a custom camera, Google Messages should be in the process of rolling out \"Selfie GIFs.\" To access, open...",
+      "url": "http://9to5google.com/2024/04/17/google-messages-selfie-gif/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-17T18:09:00Z",
+      "content": "After adding a custom camera, Google Messages should be in the process of rolling out “Selfie GIFs.” \r\nTo access, open a conversation and long-press the camera icon in the text field. At the moment, … [+1304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "News18",
+      "title": "WhatsApp Launches New 'Chat Filters' Feature: See How It Works - News18",
+      "description": "WhatsApp chats can be filtered now by users and they can do it in three ways based on where they are looking for the messages.",
+      "url": "https://www.news18.com/web-stories/tech/whatsapp-launches-new-chat-filters-feature-see-how-it-works-2011076/",
+      "urlToImage": "https://images.news18.com/webstories/2024/04/cropped-WhatsApp_UnSplash-1-2024-04-eddcb322bb5ffe169aca6e202d995da4.jpg",
+      "publishedAt": "2024-04-17T17:59:06Z",
+      "content": "Producer: Priyanka DasEditor: Manuj Yadav"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Timi Cantisano",
+      "title": "Anker's massive power bank and 100W wireless charger gets steep 30% discount in unheard of deal - Android Police",
+      "description": "You won't find a better price on this Anker Prime power bank and charging base",
+      "url": "https://www.androidpolice.com/anker-27650mah-power-bank-100w-wireless-charging-plate-164-deal/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/04/32-11.png",
+      "publishedAt": "2024-04-17T17:34:00Z",
+      "content": "Anker Prime 27,650mAh Power Bank (250W) with 100W Charging Base \r\nAnker's largest power bank comes in at 27,650mAh, and offers 250W of combined output, making it perfect for laptops, smartphones, and… [+2469 chars]"
     },
     {
       "source": {
@@ -125,142 +190,77 @@
         "name": "MacRumors"
       },
       "author": "Juli Clover",
-      "title": "New iOS 17.5 Beta Lets EU iPhone Users Download Apps Directly From Websites - MacRumors",
-      "description": "With the second beta of iOS 17.5 that's available today, iPhone users located in the European Union are able to download apps directly from the...",
-      "url": "https://www.macrumors.com/2024/04/16/ios-17-5-app-web-downloads-eu/",
-      "urlToImage": "https://images.macrumors.com/t/ArfISB3D9p-QsunwHG-Opct3EZk=/2500x/article-new/2024/04/Apple-EU-iOS-Changes-Orange-1.jpg",
-      "publishedAt": "2024-04-16T17:00:00Z",
-      "content": "With the second beta of iOS 17.5 that's available today, iPhone users located in the European Union are able to download apps directly from the websites of Apple app developers without going through … [+2178 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Teo Armus",
-      "title": "Amazon HQ2 was supposed to add jobs last year. It shed them instead. - The Washington Post",
-      "description": "The downturn in hiring marks another setback in the boost Amazon had initially promised with its HQ2 in Northern Virginia amid a squeeze in the tech industry.",
-      "url": "https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7RRUOLHUXMSSYFOBXKGWEM6VWE.JPG&w=1440",
-      "publishedAt": "2024-04-16T16:53:00Z",
-      "content": "Amazon has fallen so far behind schedule in creating new jobs at its Northern Virginia headquarters that its workforce at those offices shrank last year, the company confirmed, showing how the projec… [+7345 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Kevin Okemwa",
-      "title": "Microsoft and OpenAI invest $100 billion in new 'Stargate' AI venture - Windows Central",
-      "description": "Microsoft and OpenAI want to become self-sufficient and satisfy their own computational needs.",
-      "url": "https://www.windowscentral.com/microsoft/microsoft-and-openai-bet-dollar100-billion-to-free-themselves-from-the-shackles-and-overreliance-on-the-worlds-most-profitable-semiconductor-chip-brand-for-ai-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8BV5E8asvaKjHogevgUs3F-1200-80.jpg",
-      "publishedAt": "2024-04-16T16:01:17Z",
-      "content": "What you need to know\r\n<ul><li>Microsoft and OpenAI have reportedly invested over $100 billion in a new project, Stargate.</li><li>It's a data center that will help support both companies' AI advance… [+3151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Robert Ramsey",
-      "title": "Sony Takes Down PS5 Pro YouTube Leak, Suggesting It's All Legit - Push Square",
-      "description": "More fuel for the fire",
-      "url": "https://www.pushsquare.com/news/2024/04/sony-takes-down-ps5-pro-youtube-leak-suggesting-its-all-legit",
-      "urlToImage": "https://images.pushsquare.com/14722fe727e1d/1280x720.jpg",
-      "publishedAt": "2024-04-16T16:00:00Z",
-      "content": "Image: Push Square\r\nAs if there was much doubting it at this point, the copyright claim of a YouTube video, which has resulted in its removal, points towards all of the PS5 Pro leaks being accurate. … [+1089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Game Pass Is Removing These Six Games Very Soon - GameSpot",
-      "description": "It's the end of the road for these half-dozen Game Pass titles.",
-      "url": "https://www.gamespot.com/gallery/game-pass-is-removing-these-six-games-very-soon/2900-5263/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4288198-screenshot2024-04-16at10.38.09am.png",
-      "publishedAt": "2024-04-16T15:42:59Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Vivo V30e leaks: Thin design, 3D curved display, and Sony IMX882 sensor tipped | Mint - Mint",
-      "description": "Vivo is rumored to launch the Vivo V30e in India, expected in August. Leaks hint at a thin design with a 3D curved display and a Sony IMX882 sensor for the rear camera. The phone may feature a circular camera module and could be powered by the Qualcomm Snapdr…",
-      "url": "https://www.livemint.com/technology/gadgets/vivo-v30e-leaks-thin-design-3d-curved-display-and-sony-imx882-sensor-tipped-11713279688119.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/16/1600x900/GIDnqOla4AACOnL_1709804473904_1713280042028.jpg",
-      "publishedAt": "2024-04-16T15:14:00Z",
-      "content": "Vivo is rumored to be gearing up to introduce the Vivo V30e in India. According to several media reports, the smartphone is anticipated to hit the shelves in August, although some sources hint at an … [+2176 chars]"
+      "title": "AltStore PAL Alternative App Marketplace Launches on iPhone in EU - MacRumors",
+      "description": "One of the first alternative app marketplaces went live in the European Union today, with developer Riley Testut introducing AltStore PAL, a version...",
+      "url": "https://www.macrumors.com/2024/04/17/altstore-eu-alternative-app-marketplace/",
+      "urlToImage": "https://images.macrumors.com/t/uBZSyehb-zVy6kBJ6d7CqBG3fiU=/2000x/article-new/2024/04/altstore-pal-eu.jpg",
+      "publishedAt": "2024-04-17T17:30:27Z",
+      "content": "One of the first alternative app marketplaces went live in the European Union today, with developer Riley Testut introducing AltStore PAL, a version of his AltStore that can be accessed in EU countri… [+1847 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BleepingComputer"
       },
-      "author": "Bill Toulas",
-      "title": "PuTTY SSH client flaw allows recovery of cryptographic private keys - BleepingComputer",
-      "description": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation.",
-      "url": "https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg",
-      "publishedAt": "2024-04-16T15:01:57Z",
-      "content": "A vulnerability tracked as CVE-2024-31497 in PuTTY 0.68 through 0.80 could potentially allow attackers with access to 60 cryptographic signatures to recover the private key used for their generation.… [+4092 chars]"
+      "author": "Sergiu Gatlan",
+      "title": "Cisco discloses root escalation flaw with public exploit code - BleepingComputer",
+      "description": "Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root.",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/02/07/Cisco.jpg",
+      "publishedAt": "2024-04-17T17:25:42Z",
+      "content": "Cisco has released patches for a high-severity Integrated Management Controller (IMC) vulnerability with public exploit code that can let local attackers escalate privileges to root.\r\nCisco IMC is a … [+2044 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Editorji.com"
+        "name": "9to5Mac"
       },
-      "author": "Editorji News Desk",
-      "title": "Motorola Edge 50 Ultra unveiled: Real wood back, Snapdragon 8s Gen 3, 64MP camera with AI tech - Editorji",
-      "description": "Motorola has just unveiled the Moto Edge 50 Ultra after the Moto Edge 50 Pro in Europe and other parts of the world. As a result, we can expect its official announcement in India any time now. Ahead of it, the key specification...",
-      "url": "https://www.editorji.com/tech-news/mobiles/motorola-edge-50-ultra-unveiled-real-wood-back-snapdragon-8s-gen-3-64mp-camera-with-ai-tech-1713278515925",
-      "urlToImage": "https://cdn.editorji.com/uPFwC4ZHbb.jpg",
-      "publishedAt": "2024-04-16T14:41:55Z",
-      "content": "Motorola has unveiled the Motorola Edge 50 Ultra in Europe, a significant addition to the Motorola Edge 50 series. This release marks a revival of unique designs, including a real wood phone back opt… [+4764 chars]"
+      "author": "Chance Miller",
+      "title": "Report: iPhone 17 Plus to feature a smaller screen than current 'Plus' phones - 9to5Mac",
+      "description": "In a new report today, analyst Ross Young says that Apple has an interesting twist planned for next year’s iPhone...",
+      "url": "https://9to5mac.com/2024/04/17/iphone-17-plus-screen-size-rumor/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/iPhone-14-Plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-17T17:22:00Z",
+      "content": "In a new report today, analyst Ross Young says that Apple has an interesting twist planned for next year’s iPhone 17 lineup. According to Young, the iPhone 17 Plus will actually feature a smaller scr… [+1240 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sarkaritel.com"
+        "name": "9to5google.com"
       },
-      "author": "New Desk",
-      "title": "Asus's new dual-screen laptop 'Zenbook DUO' now available in India - Sarkaritel.com",
-      "description": "New Delhi, April 16 (IANS) Taiwanese tech giant Asus on Tuesday said that its newly launched dual-screen laptop ‘Zenbook DUO’ is now available in India. Starting […]",
-      "url": "https://www.sarkaritel.com/asuss-new-dual-screen-laptop-zenbook-duo-now-available-in-india/",
-      "urlToImage": "https://www.sarkaritel.com/wp-content/uploads/2024/04/asus.jpg",
-      "publishedAt": "2024-04-16T14:12:54Z",
-      "content": "New Delhi, April 16 (IANS) Taiwanese tech giant Asus on Tuesday said that its newly launched dual-screen laptop ‘Zenbook DUO’ is now available in India.\r\nStarting at Rs 1,59,990, the Zenbook DUO is n… [+1158 chars]"
+      "author": "Kyle Bradshaw",
+      "title": "Google Photos readies 'Collections' tab and clutter filter - 9to5Google",
+      "description": "Google Photos is preparing to replace the Library tab with a redesigned “Collections” page alongside a new way to filter...",
+      "url": "http://9to5google.com/2024/04/17/google-photos-collections-tab-clutter-filter/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Pixel-8-Pro-Google-Photos-10-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-17T17:12:00Z",
+      "content": "Google Photos is preparing to replace the Library tab with a redesigned “Collections” page alongside a new way to filter out “clutter.”\r\nAbout APK Insight: In this “APK Insight” post, weve decompiled… [+2922 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Florence Ion",
-      "title": "Samsung Phones Outselling iPhones Globally Right Now - Gizmodo",
-      "description": "Apple still needs to convince the rest of the world that the iPhone still has more to offer.",
-      "url": "https://gizmodo.com/samsung-phones-outselling-iphones-globally-1851412063",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d74169e1b172f0a82864100c66e93728.jpg",
-      "publishedAt": "2024-04-16T13:55:00Z",
-      "content": "The latest charts from analysts at IDC show Samsung has reclaimed the top spot on the global smartphone charts for the first quarter of the year, knocking Apple down to number two. Apple was dominati… [+2264 chars]"
+      "author": "Rebekah Valentine",
+      "title": "World of Warcraft Game Director Calls Controversial The War Within Paid Early Access an 'Experiment' - IGN",
+      "description": "World of Warcraft: The War Within is out later this year, and at launch will be trying something new for a WoW expansion: a three-day, paid early access period. In an interview with IGN ahead of the game's alpha launch, game director Ion Hazzikostas defended …",
+      "url": "https://www.ign.com/articles/world-of-warcraft-game-director-calls-controversial-the-war-within-paid-early-access-an-experiment",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/17/wow-thewarwithin-preview-blogroll3-1713370945752.jpg?width=1280",
+      "publishedAt": "2024-04-17T17:01:19Z",
+      "content": "World of Warcraft: The War Within is out later this year, and at launch will be trying something new for a WoW expansion: a three-day, paid early access period. When this was announced, a lot of peop… [+3685 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Tim Hardwick",
-      "title": "All iPhone 16 Models to Feature Action Button, But Usefulness Debated - MacRumors",
-      "description": "Last September, Apple's iPhone 15 Pro models debuted with a new customizable Action button, offering faster access to a handful of functions, as...",
-      "url": "https://www.macrumors.com/2024/04/16/iphone-16-action-button-useful-or-not/",
-      "urlToImage": "https://images.macrumors.com/t/gai5jfu-M1_5vSWKQLJQvwOxFww=/1600x/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg",
-      "publishedAt": "2024-04-16T13:54:19Z",
-      "content": "Last September, Apple's iPhone 15 Pro models debuted with a new customizable Action button, offering faster access to a handful of functions, as well as the ability to assign Shortcuts. Apple is pois… [+3459 chars]"
+      "author": "Victoria Song",
+      "title": "The OnePlus Watch 2 is what redemption looks like - The Verge",
+      "description": "The $299.99 OnePlus Watch 2 is a massive improvement over the original. It’s a great alternative to Google and Samsung’s Wear OS smartwatches.",
+      "url": "https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oDLMksiSpYBHRo4SGLc3_c_W-MU=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379979/247069_Oneplus_watch_2_AKrales_0125.jpg",
+      "publishedAt": "2024-04-17T17:01:15Z",
+      "content": "OnePlus could be a strong alternative to Google or Samsung for Wear OS smartwatches.\r\nByVictoria Song, a senior reporter focusing on wearables, health tech, and more with 12 years of experience. Befo… [+9990 chars]"
     }
   ]
 }
