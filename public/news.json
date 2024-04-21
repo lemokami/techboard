@@ -1,32 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 226,
+  "totalResults": 222,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Sony Shuts Down LittleBigPlanet 3 Servers, Nuking Fan Creations - Kotaku",
+      "description": "Sony has taken the PS4 game offline permanently after a technical outage earlier this year",
+      "url": "https://kotaku.com/littlebigplanet-3-ps4-servers-sony-playstation-1851423658",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/27340388eb01eb5596de42e84b7649fd.gif",
+      "publishedAt": "2024-04-19T22:02:41Z",
+      "content": "Sony has indefinitely decommissioned the PlayStation 4 servers for puzzle platformer LittleBigPlanet 3, the company announced in an update to one of its support pages. The permanent shutdown comes ju… [+2971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Microsoft VASA tech can create realistic deepfakes using a single photo and one audio track - TechSpot",
+      "description": "Microsoft Research Asia has released a white paper on a generative AI application it is developing. The program is called VASA-1, and it can create very real...",
+      "url": "https://www.youtube.com/watch?v=HXXyZZwQdfw",
+      "urlToImage": "https://i.ytimg.com/vi/HXXyZZwQdfw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAzODEmuCO_s_Bb2I7UyLObJa7kng",
+      "publishedAt": "2024-04-19T21:39:01Z",
+      "content": null
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sean Hollister",
-      "title": "The Meta Quest 2 gets a permanent price cut to $199 - The Verge",
-      "description": "The Meta Quest 2 has been on sale for nearly a month, and today, Meta’s making that price permanent — $199 is the new sticker price for the virtual reality headset.",
-      "url": "https://www.theverge.com/2024/4/18/24134379/meta-quest-2-199-dollars-permanent-price-cut",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgDgUOexsfJFdMuYOtbcD0fDwqs=/0x0:2040x1360/1200x628/filters:focal(1155x661:1156x662)/cdn.vox-cdn.com/uploads/chorus_asset/file/21869417/akrales_200904_4160_0216.0.jpg",
-      "publishedAt": "2024-04-18T22:38:30Z",
-      "content": "The Meta Quest 2 gets a permanent price cut to $199\r\nThe Meta Quest 2 gets a permanent price cut to $199\r\n / Accessories like the battery strap are half their original price, too.\r\nBySean Hollister, … [+2154 chars]"
+      "author": "Emilia David",
+      "title": "Applying the mathematical principles of Pareto to Mario Kart 8 - The Verge",
+      "description": "With so many potential builds in Mario Kart 8, sometimes statistics, math, and 19th-century economist Vilfredo Pareto can narrow down the choices.",
+      "url": "https://www.theverge.com/2024/4/19/24135206/mario-kart-pareto-front-math-data-peach-rulez",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jnNF_1Qh1qOUyXS17YAZFWOLIHc=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25385148/Mario_Kart_8_Deluxe_Booster_Course_Pass.jpg",
+      "publishedAt": "2024-04-19T21:31:51Z",
+      "content": "Applying the mathematical principles of Pareto to Mario Kart 8\r\nApplying the mathematical principles of Pareto to Mario Kart 8\r\n / In this thesis, I...\r\nByEmilia David, a reporter who covers AI. Prio… [+1929 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "News18"
       },
-      "author": "Vlad",
-      "title": "Samsung Galaxy A35 is now available in the US for $399.99 - GSMArena.com news - GSMArena.com",
-      "description": "You can get it from major carriers and retailers and Samsung itself. Samsung's Galaxy A35 and A55 became official last month, and Samsung decided not to...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a35_is_now_available_in_the_us_for_39999-news-62506.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/galaxy-a35-us/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-04-18T20:01:01Z",
-      "content": "Samsung's Galaxy A35 and A55became official last month, and Samsung decided not to bring the A55 to the US, despite the fact that its predecessors have been available in the States. So that leaves th… [+906 chars]"
+      "author": "S Aadeetya",
+      "title": "This New ‘Boring’ Flip Phone Is Meant To Keep You Away From The Internet But You Can’t Buy It - News18",
+      "description": "Boring Phone is basically the popular Nokia 2660 Flip phone in a translucent avatar that has no internet or apps that people can get addicted to.",
+      "url": "https://www.news18.com/tech/this-new-boring-flip-phone-is-meant-to-keep-you-away-from-the-internet-but-you-cant-buy-it-8858304.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/boring-phone-flip-2024-04-ddc6c58d0e8dd751a7a026d7ab31e5ba-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-19T20:03:35Z",
+      "content": "Smartphones have taken over our lives and the same companies making these phones now feel guilty for changing us and want to bring the boring days back in our lives. HMD Global and worked with Heinek… [+1236 chars]"
     },
     {
       "source": {
@@ -34,181 +60,103 @@
         "name": "The Times of India"
       },
       "author": "Deeksha Somani",
-      "title": "Upcoming Amazon Sale 2024: Expected sale dates, offers, bank discount, and other details - The Times of India",
-      "description": "TECH TIPS News: Explore the expected sale dates, offers, bank discounts, and other details of the upcoming Amazon Sale 2024. Get ready for enticing deals on a wide range of products including electronics, fashion, books, and more.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-tips/upcoming-amazon-sale-2024-expected-sale-dates-offers-bank-discount-and-other-details/articleshow/109412476.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109412551,width-1070,height-580,imgsize-29600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-18T19:50:00Z",
-      "content": "Amazon, a top e-commerce platform in India, offers a diverse range of products and hosts various sales throughout the year. Customers can enjoy attractive deals and discounts on electronics, smartpho… [+1545 chars]"
+      "title": "Best video games with female lead characters; here's the list - The Times of India",
+      "description": "GAMING News: The evolving landscape of female protagonists in video games is evident as games like Returnal, Control, A Plague Tale series, and Alan Wake 2 showcas",
+      "url": "https://timesofindia.indiatimes.com/technology/gaming/best-video-games-with-female-lead-characters-heres-the-list/articleshow/109443835.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109443870,width-1070,height-580,imgsize-39984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-19T19:59:00Z",
+      "content": "The evolving landscape of female protagonists in video games is evident as games like Returnal, Control, A Plague Tale series, and Alan Wake 2 showcase compelling characters and narratives, challengi… [+54 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "Google's HD Chromecast is going for just $20 - The Verge",
+      "description": "The Chromecast with Google TV (HD) is down to just $19.99 right now. Verge readers can also save an extra $300 on Dreame’s L20 Ultra robovac through the end of April.",
+      "url": "https://www.theverge.com/2024/4/19/24134035/google-chromecast-hd-dreamebot-l20-ultra-robot-vacuum-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9KyIwWDgX7kt2IdwAT8F2tYS7LI=/0x0:2040x1384/1200x628/filters:focal(1020x692:1021x693)/cdn.vox-cdn.com/uploads/chorus_asset/file/24043392/chromecast.jpg",
+      "publishedAt": "2024-04-19T19:15:20Z",
+      "content": "Googles HD Chromecast is going for just $20\r\nGoogles HD Chromecast is going for just $20\r\n / Verge readers can also save $700 on the high-end Dreame L20 Ultra robovac using our exclusive coupon code.… [+5206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Google Pixel 9 Pro live hands-on images leak - GSMArena.com news - GSMArena.com",
+      "description": "This will be the smaller of the Pros. Google is rumored to launch at least three smartphones in October at its annual hardware unveiling event - the Pixel...",
+      "url": "https://www.gsmarena.com/google_pixel_9_pro_live_handson_images_leak-news-62529.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/google-pixel-9-pro-live-images/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-04-19T18:59:02Z",
+      "content": "Google is rumored to launch at least three smartphones in October at its annual hardware unveiling event - the Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL. Recently we heard that the Pixel Fold 2 has be… [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Provenance coming to the App Store with PlayStation emulation - 9to5Mac",
+      "description": "Apple surprised everyone earlier this month with a change to the App Store guidelines that now allows retro game console...",
+      "url": "https://9to5mac.com/2024/04/19/provenance-playstation-emulator-app-store/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/provenance-ps1-emulator-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-19T18:44:00Z",
+      "content": "Apple surprised everyone earlier this month with a change to the App Store guidelines that now allows retro game console emulator apps for its platforms, including iOS and tvOS. Following the success… [+2107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Halowaypoint.com"
+      },
+      "author": "snickerdoodle",
+      "title": "Forge Features: April 19, 2024 | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>Another month, another batch of great Forge content. This issue’s offerings span the gamut from nostalgia, to 1v1, to large-scale games. Let’s check it out!   Boulevard Author: UneeQ TV, Mr Greencastle, ArtN00b, MikRips, WookieCookies1Map Download These br…",
+      "url": "https://www.halowaypoint.com/news/forge-features-026",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/04/ForgeFeatures_Header.jpg",
+      "publishedAt": "2024-04-19T18:33:44Z",
+      "content": "Another month, another batch of great Forge content. This issues offerings span the gamut from nostalgia, to 1v1, to large-scale games. Lets check it out!  \r\nBoulevard\r\nAuthor: UneeQ TV, Mr Greencast… [+2928 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Michael Cripe",
-      "title": "Manor Lords Developer Stresses That It's 'Not a Total War Competitor,' Nor an RPG - IGN",
-      "description": "As Manor Lords prepares to finally make its way to the public, developer Slavic Magic has stepped in to make sure fans’ expectations are in check.",
-      "url": "https://www.ign.com/articles/manor-lords-developer-stresses-that-its-not-a-total-war-competitor-nor-an-rpg",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/18/manor-lords-1713468496594.jpg?width=1280",
-      "publishedAt": "2024-04-18T19:45:21Z",
-      "content": "As Manor Lords prepares to finally make its way to the public, developer Slavic Magic has stepped in to make sure fans expectations are in check.\r\nThe one-person studio has been painstakingly craftin… [+3240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
+      "author": "IGN",
+      "title": "The Best Way To Play Fallout 3 & New Vegas in 2024 With Mods - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/the-best-way-to-play-fallout-3-new-vegas-in-2024-with-mods",
       "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Greater Kashmir"
-      },
-      "author": "GK NEWS SERVICE",
-      "title": "Realme unveils P Series 5G smartphones - greaterkashmir - Greater Kashmir",
-      "description": "New Delhi, Apr 18:  Realme, India’s most reliable smartphone service provider, has announced the launch of its latest realme P Series 5G smartphones – the realme…",
-      "url": "https://www.greaterkashmir.com/business/realme-unveils-p-series-5g-smartphones/",
-      "urlToImage": "https://www.greaterkashmir.com/wp-content/uploads/2024/04/Screenshot-144.png",
-      "publishedAt": "2024-04-18T19:30:50Z",
-      "content": "New Delhi, Apr 18:  Realme, India’s most reliable smartphone service provider, has announced the launch of its latest realme P Series 5G smartphones – the realme P1 Pro 5G and realme P1 5G.\r\nA handou… [+780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Surajeet Das Gupta",
-      "title": "Boost to local manufacturing: India-made chips may soon power iPhones - Business Standard",
-      "description": "Micron plans to supply chips from Sanand unit to Apple",
-      "url": "https://www.business-standard.com/industry/news/boost-to-local-manufacturing-india-made-chips-may-soon-power-iphones-124041900009_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/19/thumb/fitandfill/400X400/1713466005-2508.jpg",
-      "publishedAt": "2024-04-18T18:47:22Z",
-      "content": "Micron plans to supply chips from Sanand unit to Apple\r\nSurajeet Das GuptaNew Delhi\r\nMicron Technology, a global leader in memory and storage, is considering supplying Made-in-India chips from its Gu… [+648 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "The Humane AI Pin is lost in translation - The Verge",
-      "description": "While the Humane AI Pin wasn’t a great translator for me, real-time language translation is a technologically difficult task for any gadget.",
-      "url": "https://www.theverge.com/2024/4/18/24134180/humane-ai-pin-translation-wearables",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_qbuszkvQwT0Mt8tAgr6OdTBW8w=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379380/247075_Humane_AI_pin_AKrales_0499.jpg",
-      "publishedAt": "2024-04-18T18:24:36Z",
-      "content": "The Humane AI Pin is lost in translation\r\nThe Humane AI Pin is lost in translation\r\n / I desperately wanted the AI Pins translation demo to be true. But even if it had worked, it probably wouldnt hav… [+6609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Kingdom Come: Deliverance 2 - Official Announcement Trailer - IGN",
-      "description": "Here's your look at the thrilling reveal trailer for Kingdom Come: Deliverance 2, an upcoming action RPG sequel coming to PC, PS5 (PlayStation 5), and Xbox S...",
-      "url": "https://www.youtube.com/watch?v=Hi6RK7PCUlM",
-      "urlToImage": "https://i.ytimg.com/vi/Hi6RK7PCUlM/maxresdefault.jpg",
-      "publishedAt": "2024-04-18T18:15:00Z",
+      "publishedAt": "2024-04-19T18:20:05Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Abner Li",
-      "title": "Sundar Pichai on merging Android and Pixel teams, Google DeepMind, more - 9to5Google",
-      "description": "Sundar Pichai is out with an internal email today detailing the big \"Platforms & Devices\" reorganization of Android, Chrome and Pixel...",
-      "url": "http://9to5google.com/2024/04/18/sundar-pichai-android-pixel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/05/sundar-pichai-2-io-2019.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-18T17:46:00Z",
-      "content": "Sundar Pichai is out with an internal email today detailing the big “Platforms &amp; Devices” reorganization of Android, Chrome and Pixel, as well as other company-wide changes.\r\nTo truly drive compu… [+2411 chars]"
+      "author": "Andrew Cunningham",
+      "title": "Modder packs an entire Nintendo Wii into a box the size of a pack of cards - Ars Technica",
+      "description": "There's no disc drive, but there are still ports for GameCube controllers.",
+      "url": "https://arstechnica.com/gaming/2024/04/modder-packs-an-entire-nintendo-wii-into-a-box-the-size-of-a-pack-of-cards/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/size-comparison-760x380.jpeg",
+      "publishedAt": "2024-04-19T17:55:35Z",
+      "content": "Enlarge/ Its creator calls the \"Short Stack\" the world's smallest scale model replica of the Nintendo Wii (bottom). \r\n22\r\nThe miniaturization of retro tech has always been a major obsession for modde… [+2938 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Andrew Romero",
-      "title": "Huawei's Pura 70 series flagship houses a motorized retractable camera for over $1300 - 9to5Google",
-      "description": "Huawei has come around to release the Pura 70 series, which consists of four individual models. One of the Pura...",
-      "url": "http://9to5google.com/2024/04/18/huawei-pura-70-series/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/Huawei-Pura-70-Ultra-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-18T17:37:00Z",
-      "content": "Huawei\r\nHuawei has come around to release the Pura 70 series, which consists of four individual models. One of the Pura 70 models incorporates a unique camera function that doesn’t make an appearance… [+2399 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Nicole Carpenter",
-      "title": "Hephaestus is already one of Hades 2 fans’ favorite characters - Polygon",
-      "description": "Everyone’s hot for Hephaestus, a new character in Hades 2, who’s based off Greek mythology.",
-      "url": "https://www.polygon.com/24134013/hephaestus-hades-2-technical-preview-greek-mythology",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4eMKv1XBaTuAjTKAxF53dJ0uZC4=/0x152:2103x1253/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25407174/Hephaestus.jpg",
-      "publishedAt": "2024-04-18T17:32:02Z",
-      "content": "With the Hades 2 technical test underway, were asking this question: How are the Greek gods of the game even hotter than in the original, Hades? Regardless of the answer, there are lots of new charac… [+2293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Keumars Afifi-Sabet",
-      "title": "Intel unveils largest-ever AI 'neuromorphic computer' that mimics the human brain - Livescience.com",
-      "description": "Intel's Hala Point neuromorphic computer is powered by more than 1,000 new AI chips and performs 50 times faster than equivalent conventional computing systems.",
-      "url": "https://www.livescience.com/technology/computing/intel-unveils-largest-ever-ai-neuromorphic-computer-that-mimics-the-human-brain",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b8GcGVzgpvBqCnTYqWHzdE-1200-80.jpg",
-      "publishedAt": "2024-04-18T17:30:06Z",
-      "content": "Scientists at Intel have built the world's largest neuromorphic computer, or one designed and structured to mimic the human brain\r\n. The company hopes it will support future artificial intelligence (… [+4331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "Microsoft's Xbox has taken over Sony's PlayStation Store - Windows Central",
-      "description": "Microsoft's Xbox platform has effectively taken over its arch-console rival's storefront, owing to its absolutely massive content investment strategy.",
-      "url": "https://www.windowscentral.com/gaming/xbox/microsofts-xbox-has-taken-over-the-sonys-playstation-store",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mer7Yr5hDr5WvsL2UsdCPG-1200-80.jpg",
-      "publishedAt": "2024-04-18T17:28:24Z",
-      "content": "What you need to know\r\n<ul><li>Microsoft Gaming is a new entity within Microsoft under which Bethesda, Activision-Blizzard, and Xbox all sit. </li><li>The division is bigger than Windows itself as of… [+4458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "The future of the Xbox looks a lot like a PC - The Verge",
-      "description": "Microsoft’s gaming chief has been dropping hints about the future of Xbox. It seems like Windows and Xbox are moving closer together than ever before.",
-      "url": "https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OD6A4Oo4W1s-2o9J34_s1twqFO0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg",
-      "publishedAt": "2024-04-18T16:39:50Z",
-      "content": "The future of the Xbox looks a lot like a PC\r\nThe future of the Xbox looks a lot like a PC\r\n / Microsofts gaming chief has been dropping a lot of hints about the future of Xbox recently.\r\nByTom Warre… [+6570 chars]"
+      "author": "Ben Schoon",
+      "title": "Qualcomm teases Snapdragon X Elite news for next week as first Lenovo laptop leaks - 9to5Google",
+      "description": "According to Qualcomm, it sounds like there will be some news related to Snapdragon X Elite on April 24, but what could it be?",
+      "url": "http://9to5google.com/2024/04/19/qualcomm-snapdragon-x-elite-april-2024-news/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Snapdragon-Elite-X-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-19T17:31:00Z",
+      "content": "Qualcomm first announced its new Windows chipset last year, but no machines have actually gone on sale with Snapdragon X Elite thus far. Now, though, Qualcomm is teasing some sort of announcement on … [+1289 chars]"
     },
     {
       "source": {
@@ -216,51 +164,103 @@
         "name": "Livemint"
       },
       "author": "Livemint",
-      "title": "Apple rolls out macOS Sonoma 14.5 public beta 2 update: Know what's new and fixed | Mint - Mint",
-      "description": "Apple releases the second public beta of macOS Sonoma 14.5, inviting non-developers to test it. Users can join via System Preferences and Apple's beta testing site. The update focuses on bug fixes and minor improvements, aligning with Apple's goal of enhancin…",
-      "url": "https://www.livemint.com/technology/tech-news/apple-rolls-out-macos-sonoma-14-5-public-beta-2-update-know-whats-new-and-fixed-11713457778561.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/18/1600x900/mac_1695805307397_1713458173723.png",
-      "publishedAt": "2024-04-18T16:37:48Z",
-      "content": "Apple has released the second public beta of its forthcoming macOS Sonoma 14.5 update, extending an invitation to non-developers to test the new software before its official launch. This public beta … [+2147 chars]"
+      "title": "Xiaomi 14 Series likely to receive 'AI Treasure Chest' to up its AI game, suggests report | Mint - Mint",
+      "description": "Xiaomi is reportedly testing AI features, known as the ‘AI Treasure Chest,’ for its Xiaomi 14 series. This comprehensive suite aims to enhance user experience, including an ‘AI Surprise Wallpaper.’ Feedback is sought during the April 18 to August 2 testing ph…",
+      "url": "https://www.livemint.com/technology/tech-news/xiaomi-14-series-likely-to-receive-ai-treasure-chest-to-up-its-ai-game-suggests-report-11713547256623.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/19/1600x900/xiaomi_14_series_1709821002101_1713547487974.webp",
+      "publishedAt": "2024-04-19T17:25:29Z",
+      "content": "Xiaomi appears to be delving deeper into the realm of artificial intelligence (AI) with the development of innovative features poised to integrate into its flagship Xiaomi 14 series. Reports from Giz… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Bengaluru Bureau",
+      "title": "KaleidEO completes aerial testing of optical and multi-spectral EO payload - BusinessLine",
+      "description": "Bengaluru startup KaleidEO Space Systems completes successful aerial testing of advanced earth observation payload for satellite deployment.",
+      "url": "https://www.thehindubusinessline.com/companies/kaleideo-completes-aerial-testing-of-optical-and-multi-spectral-eo-payload/article68079930.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/w9n1az/article68083860.ece/alternates/LANDSCAPE_1200/408335596.jpg",
+      "publishedAt": "2024-04-19T16:58:24Z",
+      "content": "Bengaluru start-up KaleidEO Space Systems has completed aerial testing of its optical and multi-spectral earth observation (EO) payload. The prototype test, conducted aboard an aircraft over the UK a… [+1898 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "Silent Hill 2 Remake's Main Character Seemingly Redesigned, and Fans Are Actually Pretty Happy - IGN",
+      "description": "It looks like publisher Konami and developer Bloober Team might have redesigned the main character in their Silent Hill 2 remake, and fans are actually pretty happy about it.",
+      "url": "https://www.ign.com/articles/silent-hill-2-remakes-main-character-seemingly-redesigned-and-fans-are-actually-pretty-happy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/10/19/silenthill2-blog-1666182888271.jpg?width=1280",
+      "publishedAt": "2024-04-19T16:55:36Z",
+      "content": "It looks like publisher Konami and developer Bloober Team have redesigned the main character in their Silent Hill 2 remake, and fans are taking the news pretty well.\r\nSome Silent Hill fans took notic… [+3003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Xbox Game Pass Super Saver and new Publisher Spotlight sales now live with over 300 deals - TrueAchievements",
+      "description": "Two new Xbox sales, offering over 300 discounts on a selection of games, bundles, DLC expansions, and more, are now live on the Microsoft Store.",
+      "url": "https://www.trueachievements.com/news/xbox-sale-game-pass-super-saver-publisher-spotlight",
+      "urlToImage": "https://www.trueachievements.com/imgs/148500/xbox-game-pass-super-saver-and-new-publisher-spotlight-sales-now-live-with-over-300-deals.jpg",
+      "publishedAt": "2024-04-19T16:52:41Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "The Xbox credit card is now available in the US. - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/2024/4/18/24134088/the-xbox-credit-card-is-now-available-in-the-us",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zgEpLGP0wsvaWgssQaLLrevuHVo=/0x0:1536x864/1536x864/filters:focal(768x432:769x433)/cdn.vox-cdn.com/uploads/chorus_asset/file/25406986/xboxmastercard.jpg",
-      "publishedAt": "2024-04-18T16:27:40Z",
-      "content": "Posted Apr 18, 2024 \r\nAt 4:27 PM UTC"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Why Microsoft's AI Copilot Is a \"Game Changer\" - Bloomberg Podcasts",
-      "description": "Bloomberg Intelligence senior technology analyst Anurag Rana explains how Microsoft’s artificial intelligence copilot is saving engineers hundreds of hours a...",
-      "url": "https://www.youtube.com/watch?v=oEkhlyCIZv8",
-      "urlToImage": "https://i.ytimg.com/vi/oEkhlyCIZv8/maxresdefault.jpg",
-      "publishedAt": "2024-04-18T16:13:23Z",
-      "content": null
+      "author": "Andrew Webster",
+      "title": "AirPlay turns the Delta emulator into a full-on retro console - The Verge",
+      "description": "The Delta emulator is available on the iPhone App Store, but you can still play retro games on Apple TV thanks to screen sharing and Airplay.",
+      "url": "https://www.theverge.com/2024/4/19/24134871/delta-emulator-apple-tv-airplay",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PQ-bPMFUkLVfcXyNTV9YAiYiVEI=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25404717/delta_app_store.png",
+      "publishedAt": "2024-04-19T16:38:21Z",
+      "content": "AirPlay turns the Delta emulator into a full-on retro console\r\nAirPlay turns the Delta emulator into a full-on retro console\r\n / With very little effort, you can get the new iPhone app to play old ga… [+2167 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Moises Taveras",
-      "title": "Helldivers 2 CEO Says Studio Can't Pause Content To Fix Game - Kotaku",
-      "description": "Arrowhead’s Johan Pilestedt says ‘the pressure is real’ to stay on top in this competitive environment",
-      "url": "https://kotaku.com/helldivers-2-new-content-bug-fixes-1851419351",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/74de42bb320f6496d1bb4f3b3b00f927.jpg",
-      "publishedAt": "2024-04-18T15:45:00Z",
-      "content": "Helldivers 2has spent the last several months on fire. On one hand, its easily one of the most popular games of the year, and folks have loved jumping into the exciting co-op shooter and keeping up w… [+4060 chars]"
+      "author": "Kenneth Shepard",
+      "title": "Why I Make Myself In Every Video Game Character Creator - Kotaku",
+      "description": "Between Baldur’s Gate 3 and Cyberpunk 2077, you’ve probably seen a bald, bearded gay on Kotaku’s front page in the past year",
+      "url": "https://kotaku.com/baldur-s-gate-3-cyberpunk-mass-effect-character-creator-1851422575",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/535e5994b1256d3044e47f576a34e2e1.jpg",
+      "publishedAt": "2024-04-19T16:30:00Z",
+      "content": "On the day I started here at Kotaku back in 2022, the very first post I wrote had an image of a character who looked like me right at the top. It was my custom V from Cyberpunk 2077, and hes appeared… [+5753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCGamesN"
+      },
+      "author": "Alex McHugh",
+      "title": "WoW The War Within will “serve solo players well,” Blizzard says - PCGamesN",
+      "description": "The new World of Warcraft expansion, The War Within, will be a little friendlier to those who can't plow hours and hours into the MMO.",
+      "url": "https://www.pcgamesn.com/world-of-warcraft/solo-players",
+      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/04/wow-war-within-solo-class-interview.jpg",
+      "publishedAt": "2024-04-19T16:09:27Z",
+      "content": "I’ve probably played World of Warcraft too much over my years on this planet. Spending hours levelling, raiding, doing dungeons, or just hanging out in Orgrimmar watching other players go by; it’s on… [+2646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tereza Pultarova",
+      "title": "Japanese satellite will beam solar power to Earth in 2025 - Space.com",
+      "description": "Japan's upcoming space-based solar power demonstration will beam power to Earth next year.",
+      "url": "https://www.space.com/japan-space-based-solar-power-demonstration-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hip8kUApxWbD2BT9h3pLh9-1200-80.jpg",
+      "publishedAt": "2024-04-19T16:00:02Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
     }
   ]
 }
