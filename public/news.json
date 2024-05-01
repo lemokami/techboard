@@ -1,253 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 257,
+  "totalResults": 221,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "OnePlus Nord 4 runs Geekbench, gets certifications confirming chipset and battery - GSMArena.com news - GSMArena.com",
+      "description": "It's coming soon as OnePlus' premier mid-range offering. The OnePlus Nord 4 has long been rumored to be a rebranding of the China-only OnePlus Ace 3V. Last...",
+      "url": "https://www.gsmarena.com/oneplus_nord_4_runs_geekbench_gets_certifications_confirming_chipset_and_battery-news-62652.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/oneplus-nord-4-benchmarked-certified/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-04-29T23:01:01Z",
+      "content": "The OnePlus Nord 4 has long been rumored to be a rebranding of the China-only OnePlus Ace 3V. Last week this was sort of confirmed by a rumor claiming that the Nord 4 would be powered by Qualcomm's S… [+1713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Starfield's Shattered Space expansion out in autumn, \"city map stuff\" due soon - Eurogamer.net",
+      "description": "It's been a while since Bethesda's had anything significant to say about Starfield, but that should be changing soon - …",
+      "url": "https://www.eurogamer.net/starfields-shattered-space-expansion-out-in-autumn-city-map-stuff-due-soon",
+      "urlToImage": "https://assetsio.gnwcdn.com/Starfield-VASCO_RLDgJuQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-04-29T22:19:15Z",
+      "content": "It's been a while since Bethesda's had anything significant to say about Starfield, but that should be changing soon - not only is its Shattered Space story expansion now confirmed to be gearing up f… [+1596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Halowaypoint.com"
+      },
+      "author": "Alex Wakeford",
+      "title": "Customization Overview | Halo Infinite CU32 | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>Operation: Banished Honor arrives on April 30 and you’re gonna want to look the part! After all, the Banished welcome all who pledge their service to Atriox, and your new allegiance and mindset demands a new outfit, so let’s find out more about the customi…",
+      "url": "https://www.halowaypoint.com/news/customization-overview-halo-infinite-cu32",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/04/SpartanLineup_S7_Waypoint.jpg",
+      "publishedAt": "2024-04-29T22:03:00Z",
+      "content": "Operation: Banished Honor arrives on April 30 and youre gonna want to look the part! After all, the Banished welcome all who pledge their service to Atriox, and your new allegiance and mindset demand… [+5101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Jordan Gerblick",
+      "title": "We may live long enough to see The Elder Scrolls 6 and Fallout 5 after all - Todd Howard says Bethesda is \"finding ways to increase our output\" - Gamesradar",
+      "description": "\"We don't want to wait that long either\"",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/we-may-live-long-enough-to-see-the-elder-scrolls-6-and-fallout-5-after-all-todd-howard-says-bethesda-is-finding-ways-to-increase-our-output/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eBaysZySMKnpZvYdhQnPdn-1200-80.jpg",
+      "publishedAt": "2024-04-29T21:28:30Z",
+      "content": "Todd Howard says Bethesda is working on getting games into players' hands more quickly.\r\nWaiting for upcoming Bethesda games, particularly The Elder Scrolls 6 and Fallout 5, often puts me face to fac… [+1919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Kyle Bradshaw",
+      "title": "Google Play proves it knows nothing about Sonic the Hedgehog - 9to5Google",
+      "description": "In a bizarre set of posts, the official Google Play account on Twitter/X has shared a wildly inaccurate timeline of...",
+      "url": "http://9to5google.com/2024/04/29/google-play-sonic-the-hedgehog-thread/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Google-Play-Store-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-29T21:25:00Z",
+      "content": "In a bizarre set of posts, the official Google Play account on Twitter/X has shared a wildly inaccurate timeline of Sonic the Hedgehog designs over the years.\r\nSonic has had quite a few design iterat… [+3011 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Tesla Cybertruck update brings new Off-Road and CyberTent modes - The Verge",
+      "description": "Tesla Cybertruck’s software update includes off-road modes, differential lock controls, rear steering off switch, and more. Basecamp’s CyberTent mode is also included.",
+      "url": "https://www.theverge.com/2024/4/29/24144578/tesla-cybertruck-off-road-mode-app-software-update-cybertent",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DDmQrKCX7wrg7ONSwC_zUIAh0nE=/0x0:3832x2160/1200x628/filters:focal(1916x1080:1917x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25426212/GMVbcTFWgAAOeLo.jpeg",
+      "publishedAt": "2024-04-29T21:16:09Z",
+      "content": "Tesla Cybertruck finally gets more off-road controls\r\nTesla Cybertruck finally gets more off-road controls\r\n / With a new update, the electric truck is getting traction modes, locking differential ab… [+2481 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Apple iPad event 2024: Watch Apple unveil new iPads right here - TechCrunch",
+      "description": "We're still well over a month out from WWDC, but Apple went ahead and snuck in another event. On Tuesday, May 7 at 7 a.m. PT/10 a.m. ET, the company is",
+      "url": "https://techcrunch.com/2024/04/29/apple-ipad-event-2024-watch-apple-unveil-new-ipads-right-here/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/AppleEvent.SEP14Keynote.Tim_Cook.06.jpg?resize=1200,675",
+      "publishedAt": "2024-04-29T20:22:51Z",
+      "content": "We’re still well over a month out from WWDC, but Apple went ahead and snuck in another event. On Tuesday, May 7 at 7 a.m. PT/10 a.m. ET, the company is set to unveil the latest additions to the iPad … [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Vampire Survivors gets go-karting and Santa in new 'hyper realistic AAAA' Laborratory update - Eurogamer.net",
+      "description": "Vampire Survivors - still vampire-free before you ask - has surprise-launched its brand-new Laborratory update - a \"hyp…",
+      "url": "https://www.eurogamer.net/vampire-survivors-gets-go-karting-and-santa-in-new-hyper-realistic-aaaa-laborratory-update",
+      "urlToImage": "https://assetsio.gnwcdn.com/vampire-survivors-carting-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-04-29T20:20:18Z",
+      "content": "Vampire Survivors - still vampire-free before you ask - has surprise-launched its brand-new Laborratory update - a \"hyper realistic holiday themed\" update so mindblowingly spectacular, developer Ponc… [+1661 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "PC Gamer"
       },
-      "author": "Jody Macgregor",
-      "title": "Dragon's Dogma 2 looks drastically different with path-tracing enabled thank to a mod - PC Gamer",
-      "description": "Thanks to modder EXXXcellent for making our Arisen look so glam.",
-      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-looks-drastically-different-with-path-tracing-enabled-thank-to-a-mod/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bynjoGfv7wC6HyrUpkEhEM-1200-80.jpg",
-      "publishedAt": "2024-04-28T22:16:02Z",
-      "content": "I stopped playing Dragon's Dogma 2 because it was too janky for me, and I'm saying that as someone who plays Bethesda RPGs. If you're still into Capcom's camp-em-up, you might be interested in this m… [+1887 chars]"
+      "author": "Lauren Morton",
+      "title": "Palworld reveals 4 of the 'many more' new Pals coming in its summer update - PC Gamer",
+      "description": "Palworld's summer update is bringing new Pals and technology.",
+      "url": "https://www.pcgamer.com/games/survival-crafting/palworld-reveals-4-of-the-many-more-new-pals-coming-in-its-summer-update/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/677Zuqh5gsEwQY5DGEr6d5-1200-80.jpg",
+      "publishedAt": "2024-04-29T20:07:56Z",
+      "content": "Palworld\r\n, the survivalcraft sensation from earlier this year, has just revealed a bit more of what's coming in that summer update it's been planning. During today's ID@Xbox showcase, Pocketpair rev… [+1510 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Jim Cramer",
-      "title": "Here are 5 sectors of the market that are working and the stocks that stand out in each - CNBC",
-      "description": "Let me give you some themes with a sense of the craziness of the disparate winners.",
-      "url": "https://www.cnbc.com/2024/04/28/jim-cramer-looks-at-5-sectors-of-the-market-that-are-working-and-their-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349607-1579721279110img_3326r.jpg?v=1697235711&w=1920&h=1080",
-      "publishedAt": "2024-04-28T20:46:47Z",
-      "content": "Can it outrun inflation? Is there more demand than supply? Does it make sense at this point in the cycle?Does it play into current events? Can it be linked to travel? Can it be put in a data center? … [+358 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "Apple iPhone, iPad, Mac Users Abruptly Locked Out Of Devices, Reset Required - Forbes",
-      "description": "Out of the blue, Apple IDs have been locked with no explanation, requiring new passwords before the iPhone, iPad or Mac could be used again.",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/04/28/apple-iphone-ipad-mac-users-abruptly-locked-out-of-devices-reset-required-iphone-15-pro-max-password-mysterious-issue/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660ff9462089ea6a761f9c28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-28T19:42:48Z",
-      "content": "Something strange is happening. Some Apple IDs are mysteriously locking their users out, and so far theres no explanation why its happening. But its a real thingand it happened to me early this morni… [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Beebom"
-      },
-      "author": "Sagnik Das Gupta",
-      "title": "NYT Strands Hints, Spangram, and Answers for April 29, 2024 - Beebom",
-      "description": "The April 29 NYT Strands is right here for you to solve. If you are having a tough time with it, check the hints and answers right here!",
-      "url": "https://beebom.com/nyt-strands-hints-spangram-answers-april-29-2024/",
-      "urlToImage": "https://beebom.com/wp-content/uploads/2024/04/APRIL-29-NYT-STRANDS.jpg?w=1250&quality=75",
-      "publishedAt": "2024-04-28T19:03:51Z",
-      "content": "The Strands today hit the right note with me, and I found myself solving it in no time at all. While it’s not as easy as last day’s Strands, it was right up my alley. Should todays puzzle leave you f… [+2413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Sagar",
-      "title": "Infinix GT 20 Pro arrives with Dimensity 8200 Ultimate, 144Hz screen, and customizable LEDs - GSMArena.com news - GSMArena.com",
-      "description": "It's the company's first dual-chip smartphone. Infinix launched the GT 10 Pro last August as its first gaming smartphone. And today, as expected, the brand...",
-      "url": "https://www.gsmarena.com/infinix_gt_20_pro_features_price_sale_date-news-62638.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/infinix-gt-20-pro-official/-952x498w6/gsmarena_003.jpg",
-      "publishedAt": "2024-04-28T18:11:02Z",
-      "content": "Infinix launched the GT 10 Pro last August as its first gaming smartphone. And today, as expected, the brand unveiled the Infinix GT 20 Pro as the GT 10 Pro's successor at a global launch event in Ri… [+3626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Android Police",
-      "title": "The Google Play Store now lets you download two apps at the same time - Android Police",
-      "description": null,
-      "url": "https://www.androidpolice.com/google-play-store-simultaneous-downloads-wider-roll-out/",
-      "urlToImage": null,
-      "publishedAt": "2024-04-28T17:59:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decrypt"
-      },
-      "author": "Eric Frederiksen",
-      "title": "It's an Incredible Time for RPGs—Don't Miss These 11 Recent Games - Decrypt",
-      "description": "Love role-playing games? RPG fans have been spoiled over the last year with huge sequels and clever originals. Here are 11 must-play games.",
-      "url": "https://decrypt.co/228395/11-must-play-role-playing-games-rpgs",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/ff7-rebirth-artwork-gID_7.png",
-      "publishedAt": "2024-04-28T17:56:13Z",
-      "content": "It's nice to feel seento know that someone out there knows you and is making things just for you, specifically. That's where fans of role-playing games have been since last August: We've been spoiled… [+12183 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Moto g64 5G vs iQoo Z9 5G: How the two 5G smartphones under Rs 20,000 compare - The Times of India",
-      "description": "Motorola's Moto g64 5G, priced at Rs 14,999, features a 120Hz 6.5-inch display, MediaTek chipset, Sony IMX882 OIS camera, Dolby Atmos speaker, 30W fas",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/moto-g64-5g-vs-iqoo-z9-5g-how-the-two-5g-smartphones-under-rs-20000-compare/articleshow/109671154.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109671156,width-1070,height-580,imgsize-782113,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-28T17:56:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oneesports.gg"
-      },
-      "author": null,
-      "title": "Best skills to unlock early in Stellar Blade -- don't miss out! - ONE Esports",
-      "description": "Choosing which skill to unlock first can be overwhelming, which is why we explain the best skills in Stellar Blade to unlock first.",
-      "url": "https://www.oneesports.gg/gaming/best-skills-in-stellar-blade-early-game/",
-      "urlToImage": "https://cdn.oneesports.gg/cdn-data/2024/04/stellar_blade_eve_skills.jpg",
-      "publishedAt": "2024-04-28T17:01:05Z",
-      "content": "There are plenty of options.Stellar Blade features an extensive skill tree with multiple branches that lets you unlock various abilities and hone Eve’s playstyle.\r\nHowever, choosing which skill to un… [+3321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Donald Papp",
-      "title": "Corral Some Zippy Blue Flames Into 3D Printed Troughs - Hackaday",
-      "description": "[Steve Mould] came across an interesting little phenomenon of blue flames zipping around a circular track. This led to diving down a bit of a rabbit hole about excitable mediums, ultimately leading…",
-      "url": "https://hackaday.com/2024/04/28/corral-some-zippy-blue-flames-into-3d-printed-troughs/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/04/zipping-flame-optimized.gif",
-      "publishedAt": "2024-04-28T17:00:00Z",
-      "content": "[Steve Mould] came across an interesting little phenomenon of blue flames zipping around a circular track. This led to diving down a bit of a rabbit hole about excitable mediums, ultimately leading h… [+868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Teslarati"
-      },
-      "author": "Zachary Visconti",
-      "title": "Tesla announces European Cybertruck tour across 24 cities - TESLARATI",
-      "description": "Tesla has announced the next leg of its Cybertruck tour around the world, with the unique electric pickup now set to make its way to 24...",
-      "url": "https://www.teslarati.com/tesla-european-cybertruck-tour/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/02/New-Cybertruck-wrap-colors-are-now-available-at-the-Tesla-Shop--scaled.jpg",
-      "publishedAt": "2024-04-28T16:38:08Z",
-      "content": "Tesla has announced the next leg of its Cybertruck tour around the world, with the unique electric pickup now set to make its way to 24 different cities in Europe.\r\nOn Sunday, Teslas Europe and Middl… [+2974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Time For 'Destiny 2' To Undo Its Industry-Worst Transmog System - Forbes",
-      "description": "Destiny 2 is in wish-granting genie mode as of late, blowing through a huge number of player requests over the last year,",
-      "url": "https://www.forbes.com/sites/paultassi/2024/04/28/time-for-destiny-2-to-undo-its-industry-worst-transmog-system/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662e78047caf0bc4692c0c66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-04-28T16:27:43Z",
-      "content": "Dsetiny 2\r\nBungie\r\nDestiny 2 is in wish-granting genie mode as of late, blowing through a huge number of player requests over the last year, and the last few months especially. They are saying outrig… [+2799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motogp.com"
-      },
-      "author": null,
-      "title": "UNHEARD: \"I bodyslammed you in Parc Ferme!\" - motogp.com",
-      "description": "Podium trio Pecco Bagnaia, Marc Marquez and Marco Bezzecchi unpack a cracking Spanish GP in the cooldown room",
-      "url": "https://www.motogp.com/en/videos/2024/04/28/unheard-i-bodyslammed-you-in-parc-ferme/496735",
-      "urlToImage": "https://resources.motogp.pulselive.com/photo-resources/2024/04/28/c653c921-6b4c-4ec8-a3d5-3e6d9eadace3/DSC05116.jpg?width=1200&height=630",
-      "publishedAt": "2024-04-28T16:20:45Z",
-      "content": "Podium trio Pecco Bagnaia, Marc Marquez and Marco Bezzecchi unpack a cracking Spanish GP in the cooldown room\r\n28 Apr 2024"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Delta retro game emulator coming soon to iPad, here's a first look - 9to5Mac",
-      "description": "Earlier this month, Riley Testut brought his excellent Delta game emulator for iPhone to the App Store for the first...",
-      "url": "https://9to5mac.com/2024/04/28/delta-retro-game-emulator-coming-soon-to-ipad/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/delta-ipad-game-emulator.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-04-28T16:13:00Z",
-      "content": "Earlier this month, Riley Testut brought his excellent Delta game emulator for iPhone to the App Store for the first time. Now, Riley is teasing Delta’s expansion to the iPad  giving users a way to e… [+1314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "iPhone 16 dummy units leak, showing off everything - Android Authority",
-      "description": "If you want to know what the iPhone 16 series is probably going to look like, these leaked dummy units give away the goods.",
-      "url": "https://www.androidauthority.com/iphone-16-dummy-units-3438018/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/Dummy-iPhone-16-Models-Side-By-Side.jpeg",
-      "publishedAt": "2024-04-28T16:03:14Z",
-      "content": "<ul><li>A leak shows us four dummy units depicting the designs of the upcoming iPhone 16 series.</li><li>The Pro Max unit is enormous, while the non-Pro models feature a new camera module design.</li… [+2018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Christopher Smith",
-      "title": "Tesla Model S Plaid Versus Lucid Air Sapphire: It's Not Even Close - Motor1 ",
-      "description": "This video shows how a Tesla Model S Plaid and a Lucid Air Sapphire compare in a drag race.",
-      "url": "https://www.motor1.com/news/717677/tesla-model-s-plaid-lucid-air-sapphire-drag-race/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/7ZQ0OJ/s1/tesla-versus-lucid-drag-race.jpg",
-      "publishedAt": "2024-04-28T16:00:00Z",
-      "content": "There aren't many production cars that can match the Tesla Model S Plaid or Lucid Air Sapphire for straight-line speed, but how do they compare side-by-side? The latest DragTimes video brings these t… [+1665 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UploadVR"
-      },
-      "author": "Amanda Watson",
-      "title": "Amanda Watson On The Carnegie Mellon Oculus Booth Incident Of 2014 - UploadVR",
-      "description": "Amanda Watson wanted to work for Oculus \"more than anything else in the entire world.\"\n\nBut how would she make a good first impression?",
-      "url": "https://www.uploadvr.com/amanda-watson-apology-oculus/",
-      "urlToImage": "https://www.uploadvr.com/content/images/2024/04/Oculus-Classic.jpg",
-      "publishedAt": "2024-04-28T15:35:20Z",
-      "content": "Editor's Note: Amanda Watson joined Oculus VR in 2015 and took a cubicle outside John Carmack's office in Dallas where she worked late nights on the mobile SDK. Later in California, she worked on Ocu… [+29733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Peter",
-      "title": "Deals: Galaxy A55 and A35 get free Buds FE, Galaxy S23+ and S23 Ultra prices slump - GSMArena.com news - GSMArena.com",
-      "description": "The S23+ and S23 Ultra offers include 10% off for Amazon Prime Student members.  At the end of March you could have bought the new Samsung Galaxy A55 and...",
-      "url": "https://www.gsmarena.com/deals_galaxy_a55_and_a35_get_free_buds_fe_galaxy_s23_and_s23_ultra_prices_slump-news-62625.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/weekly-deals-26/-952x498w6/gsmarena_uk.jpg",
-      "publishedAt": "2024-04-28T15:07:02Z",
-      "content": "At the end of March you could have bought the new Samsung Galaxy A55 and gotten the new Galaxy Buds FE at 50% off. Now you can double the discount and get the buds for free. The phones price is still… [+2727 chars]"
+      "author": "Kat Bailey",
+      "title": "Todd Howard Seemingly Teasing Two Unannounced Fallout Projects - IGN",
+      "description": "In a new interview, Todd Howard appeared to tease two new Fallout projects while talking about the franchise's runway to the future. However, plenty of questions remain.",
+      "url": "https://www.ign.com/articles/todd-howard-seemingly-teasing-two-unannounced-fallout-projects",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/29/fo3-1280-1714420134314.png?width=1280",
+      "publishedAt": "2024-04-29T19:54:59Z",
+      "content": "With the Fallout TV series topping 65 million viewers to become one of the most watched Prime Video shows ever, the pressure is on for more content set in the wasteland, and Bethesda is seemingly rea… [+2422 chars]"
     },
     {
       "source": {
@@ -255,12 +138,129 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Can The Tesla Cybertruck Really Off-Road? - Top Gear",
-      "description": "Can it jump? Rock crawl? Survive the whoops? Conquer the sand dunes?  In short, can the Tesla Cybertruck REALLY off-road? Viral videos of it struggling on mi...",
-      "url": "https://www.youtube.com/watch?v=WSgNA-pWM8w",
-      "urlToImage": "https://i.ytimg.com/vi/WSgNA-pWM8w/maxresdefault.jpg",
-      "publishedAt": "2024-04-28T15:00:33Z",
+      "title": "Apple May 7 Event Sneak Peek: OLED iPads and a New Apple Pencil on the Horizon? - Cult of Mac",
+      "description": "Join us as we dive deep into the upcoming Apple event on May 7th! Apple is set to unveil its latest innovations, and we're here to break down all the excitin...",
+      "url": "https://www.youtube.com/watch?v=50p7YMYbThY",
+      "urlToImage": "https://i.ytimg.com/vi/50p7YMYbThY/maxresdefault.jpg",
+      "publishedAt": "2024-04-29T19:51:36Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Can Rabbit's R1 outsmart the smartphone assistants? Let's find out! - The Verge",
+      "description": "We put the Rabbit R1, Google Assistant, and Siri to the test. Are any of these smart assistants really that smart? Or should we just keep googling stuff? Find out!",
+      "url": "https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gFBWNcjyXes7Ov-GwE8IFuhl3ho=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25425719/DSC07257_processed_2.jpg",
+      "publishedAt": "2024-04-29T19:30:00Z",
+      "content": "Can Rabbits R1 outsmart the smartphone assistants? Lets find out!\r\nCan Rabbits R1 outsmart the smartphone assistants? Lets find out!\r\n / The pilot episode of a thrilling and imaginary new game show.\r… [+3566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Gabe Gurwin",
+      "title": "Every Game Pass Day-One Release Shown At ID@Xbox April Showcase - GameSpot",
+      "description": "These games won't cost you anything extra if you have a Game Pass subscription.",
+      "url": "https://www.gamespot.com/gallery/every-game-pass-day-one-release-shown-at-idxbox-april-showcase/2900-5326/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971423/4295195-5679580689-38093.jpg",
+      "publishedAt": "2024-04-29T19:26:47Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Lance Ulanoff",
+      "title": "ChatGPT Plus just got a major update that might make it feel more human – here's how the new memory feature works - TechRadar",
+      "description": "Welcome memories",
+      "url": "https://www.techradar.com/computing/artificial-intelligence/your-chatgpt-plus-subscription-just-got-a-major-update-and-might-feel-more-human-than-ever-if-that-s-your-thing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/G5qscqGax56LFWeaPA7Vx7-1200-80.jpg",
+      "publishedAt": "2024-04-29T19:14:52Z",
+      "content": "Artificial intelligence might seem a little less artificial today now that Memory is live for all ChatGPT Plus users.\r\nAfter a few months of testing in both the free and pay versions of the generativ… [+4255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Levi Winslow",
+      "title": "Streamer Builds Skyrim Mod That Lets Twitch Chat Voice NPCs - Kotaku",
+      "description": "Content creator Blurbs has given his chatters the means to voice NPCs in Bethesda’s 2011 fantasy RPG",
+      "url": "https://kotaku.com/twitch-streamer-blurbs-elder-scrolls-v-skyrim-voice-mod-1851443327",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3f58ea044939c3eab533fe68d5e5e837.jpg",
+      "publishedAt": "2024-04-29T18:40:00Z",
+      "content": "All these years later, it seems folks just cant stop playing Bethesdas hit open-world game Skyrim. Originally released in 2011, the fantasy action-RPG has been re-re-re-released on just about every p… [+3144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "Pokémon GO Hub",
+      "title": "Pokémon GO May 2024 Event Guide | Pokémon GO Hub - Pokémon GO Hub",
+      "description": null,
+      "url": "https://pokemongohub.net/post/news/pokemon-go-may-2024-event-guide/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-29T18:01:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "Chrono Trigger, Final Fantasy 7 Inspire New Indie RPG Beyond Galaxyland - Push Square",
+      "description": "Out for PS5, PS4 later this year",
+      "url": "https://www.pushsquare.com/news/2024/04/chrono-trigger-final-fantasy-7-inspire-new-indie-rpg-beyond-galaxyland",
+      "urlToImage": "https://images.pushsquare.com/c925341234412/1280x720.jpg",
+      "publishedAt": "2024-04-29T18:00:00Z",
+      "content": "Subscribe to Push Square on YouTube145k\r\nClassic RPGs Chrono Trigger and Final Fantasy VII have been referenced as inspirations behind a new galaxy-spanning RPG set for release on PS5, PS4 later this… [+1804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PC Gamer"
+      },
+      "author": "Andy Chalk",
+      "title": "'No Rest for the Wicked is like our Lord of the Rings,' Moon Studios boss says: 'We won't be making Ori 3 anytime soon' - PC Gamer",
+      "description": "Moon Studios chief Thomas Mahler says the studio plans to be working on No Rest for the Wicked for another 5-10 years.",
+      "url": "https://www.pcgamer.com/games/action/no-rest-for-the-wicked-is-like-our-lord-of-the-rings-moon-studios-boss-says-we-wont-be-making-ori-3-anytime-soon/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/c6ss8mjnRKBetBXCwWeAma-1200-80.png",
+      "publishedAt": "2024-04-29T17:55:02Z",
+      "content": "If you're holding out hope that Moon Studios will quickly wrap things up with the action RPG No Rest for the Wicked and get on with making a third Ori game, studio CEO Thomas Mahler has some bad news… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Taylor Lyles",
+      "title": "ID@Xbox April 2024: Everything Announced - IGN",
+      "description": "Here's everything Microsoft announced during today's ID@Xbox April 2024 digital event.",
+      "url": "https://www.ign.com/articles/idxbox-april-2024-everything-announced",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/25/idatxbox-april2024-announced-blogroll-1714068593950.jpg?width=1280",
+      "publishedAt": "2024-04-29T17:40:32Z",
+      "content": "Microsoft just held its latest ID@Xbox, a digital showcase showing many fantastic indie games headed to Xbox and PC. From existing games getting updates, such as Palworld and Vampire Survivors, to ne… [+8119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Live Activities on Android? Android 15 tests lock screen change reminiscent of iOS - Android Authority",
+      "description": "Google is testing a change in Android 15 that moves the At a Glance widget to the bottom of the lock screen.",
+      "url": "https://www.androidauthority.com/android-15-live-activities-3438256/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lockscreen-in-hand.jpg",
+      "publishedAt": "2024-04-29T17:32:36Z",
+      "content": "<ul><li>Google is testing a change in Android 15 that moves the At a Glance widget to the bottom of the lock screen.</li><li>The At a Glance widget is currently positioned near the top, right below t… [+4314 chars]"
     }
   ]
 }
