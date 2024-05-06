@@ -1,227 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 189,
+  "totalResults": 199,
   "articles": [
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Vlad",
-      "title": "One UI 6.1 update for Galaxy S22 series halted due to a bug - GSMArena.com news - GSMArena.com",
-      "description": "Quality control really should be better on these. Samsung started rolling out the update to One UI 6.1, containing the Galaxy AI features that debuted in...",
-      "url": "https://www.gsmarena.com/one_ui_61_update_for_galaxy_s22_series_halted_due_to_a_bug-news-62714.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/samsung-galaxy-s22-one-ui-6-1-update-halted/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-05-03T22:03:01Z",
-      "content": "Samsung started rolling out the update to One UI 6.1, containing the Galaxy AI features that debuted in January, to the Galaxy S22 family in Korea yesterday. And here we are not even 24 hours later, … [+1333 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "More details emerge about Apple's plans for AI in iOS 18 - The Verge",
-      "description": "A report from AppleInsider highlights several new features that Apple is reportedly planning to introduce to the iPhone in iOS.",
-      "url": "https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
-      "publishedAt": "2024-05-03T19:57:54Z",
-      "content": "More details emerge about Apples plans for AI in iOS 18\r\nMore details emerge about Apples plans for AI in iOS 18\r\n / Apple is working on a way for Siri to summarize text messages, according to a repo… [+1856 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Isaiah Colbert",
-      "title": "Arrowhead CEO Apologizes As Helldivers 2 Is Review Bombed on Steam: 'I Just Want to Make Great Games' - IGN",
-      "description": "Arrowhead CEO Johan Pilestedt apologizes to Helldivers 2 players amid Steam review bombing after Sony announced players must link their Steam accounts to a PlayStation Network Account to continue playing the game.",
-      "url": "https://www.ign.com/articles/arrowhead-ceo-apologizes-amid-helldivers-2-review-bombing",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/02/15/vlcsnap-2024-02-15-02h21m50s298-1707992541308.png?width=1280",
-      "publishedAt": "2024-05-03T19:37:41Z",
-      "content": "Arrowhead CEO Johaan Pilstedt has released a statement apologizing to disgruntled Helldivers 2 fans in the wake of Sony forcing Steam players to link their accounts to a PlayStation Network Account i… [+2437 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Microsoft has warning about these 2 Android apps with billions of download, name of the infected apps and - The Times of India",
-      "description": "TECH NEWS : Microsoft uncovered Android app vulnerabilities, 'dirty stream' attack risks data theft. Xiaomi's File Manager, WPS Office updated. Emphasis on app up",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-warning-about-these-2-android-apps-with-billions-of-download-name-of-infected-apps-and-why-millions-may-still-be-at-risk/articleshow/109825567.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109825563,width-1070,height-580,imgsize-62402,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-05-03T19:10:00Z",
-      "content": null
+      "author": "Peter",
+      "title": "Deals: Samsung Galaxy S24 Ultra and S23 FE prices fall - GSMArena.com news - GSMArena.com",
+      "description": "The S23 FE price is now just $20 off the OnePlus 12R price. Meanwhile, the Galaxy Z Fold5 comes with a $300 gift card from Amazon.",
+      "url": "https://www.gsmarena.com/deals_samsung_galaxy_s24_ultra_and_s23_fe_prices_fall-news-62695.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/weekly-deals-2/-952x498w6/gsmarena_us.jpg",
+      "publishedAt": "2024-05-04T21:11:02Z",
+      "content": "Last week a 512GB Galaxy S24 Ultra was $1,220, now its down $50 on both Amazon and Best Buy. The 256GB model remains at $1,100 and doubling the storage is well worth the $70 if you ask us. It will he… [+3361 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "India.com"
+      },
+      "author": "https://www.india.com/author/tahir-qureshi/",
+      "title": "Can Artificial Intelligence Help Tablets Grow Like PCs And Smartphones In 2024? - India.com",
+      "description": "Global tablet shipments registered a modest growth of 0.5 percent (year-on-year) in the first quarter this year.",
+      "url": "https://www.india.com/business/can-artificial-intelligence-help-tablets-grow-like-pcs-and-smartphones-in-2024-6904691/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2024/05/QT-ai.jpg",
+      "publishedAt": "2024-05-04T19:59:53Z",
+      "content": "Global tablet shipments registered a modest growth of 0.5 percent (year-on-year) in the first quarter this year.\r\nArtificial Intelligence: Can artificial intelligence (AI) drive the slow pace of grow… [+1318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "Google Engineers On Learnings From Building Gemini - Forbes",
-      "description": "Three Google engineers, James Rubin, Peter Danenberg and Peter Grabowski, discuss what they’re learned so far working on Google’s Gemini ai and what’s to com...",
-      "url": "https://www.youtube.com/watch?v=UUsVTEUfJAY",
-      "urlToImage": "https://i.ytimg.com/vi/UUsVTEUfJAY/maxresdefault.jpg",
-      "publishedAt": "2024-05-03T18:35:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "author": "Thomas Hundal",
-      "title": "Yes, A Brake Job On This Mercedes Really Does Cost $120,000 - The Autopian",
-      "description": "Make sure you're standing above a soft surface, because your jaw will hit the floor when you learn what Mercedes-Benz SLR McLaren brakes cost.",
-      "url": "https://www.theautopian.com/yes-a-brake-job-on-this-mercedes-really-does-cost-120000/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Mercedes-Benz-SLR_McLaren_Brake_Job_TS.jpg",
-      "publishedAt": "2024-05-03T18:35:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Hisense launches CanvasTV to take on 'The Frame' - 9to5Google",
-      "description": "Hisense has announced its newest TV lineup, the CanvasTV series. This series takes a cue from Samsung’s existing “The Frame”...",
-      "url": "http://9to5google.com/2024/05/03/hisense-launches-canvastv/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Hisense-CanvasTV.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-03T18:35:00Z",
-      "content": "Hisense has announced its newest TV lineup, the CanvasTV series. This series takes a cue from Samsung’s existing “The Frame” TVs and pivots itself around displaying art on a display that suits it wel… [+1569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Helldivers 2 Community At War Over Controversial PSN Requirement - Kotaku",
-      "description": "One announcement has fractured a gaming community that was previously united and happy",
-      "url": "https://kotaku.com/helldivers-2-psn-steam-account-linking-explained-sony-1851455071",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/75b5af963b4c8c7c12c161c5ceceb953.png",
-      "publishedAt": "2024-05-03T18:25:00Z",
-      "content": "Helldivers 2is a game about endless war and now its fanbase finds itself in a similar situation as a civil war rages on between players following a change to how the super-popular online shooter will… [+5676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "HTC A101 Plus Edition tablet gets official with Unisoc T606 chipset - GSMArena.com news - GSMArena.com",
-      "description": "It's the newest affordable tablet from the Taiwanese brand. Not long ago a leak surfaced regarding the upcoming HTC U24 Pro smartphone, and if you needed...",
-      "url": "https://www.gsmarena.com/htc_a101_plus_edition_tablet_gets_official_with_unisoc_t606_chipset-news-62713.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/htc-a101-plus-edition-launches/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-05-03T18:12:01Z",
-      "content": "Not long ago a leak surfaced regarding the upcoming HTC U24 Pro smartphone, and if you needed even more proof that the Taiwanese company does in fact still exist, here you go.\r\nToday the HTC A101 Plu… [+739 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Flipkart Big Savings Days 2024: Top 5 Phones At Heavily Discounted Prices, From iPhone 15 To Nothing Phone 2 - ABP Live",
-      "description": "Flipkart Big Savings Days 2024 kicked off on Thursday with consumers purchasing items from their wishlist at slashed prices making it a much sweeter deal.",
-      "url": "https://news.abplive.com/technology/gadgets/top-smartphone-deals-flipkart-big-savings-days-2024-deals-lucrative-discounts-best-5-phones-to-buy-iphone-15-google-pixel-8-oneplus-nord-ce-3-nothing-phone-2-samsung-galaxy-s23-poco-m6-pro-1684902",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/05/03/fa8433ab3da85a7ae83a7508f8425a161714758748058555_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-05-03T17:53:29Z",
-      "content": "The Flipkart Big Savings Days 2024 commenced on Thursday, marking the beginning of a fantastic opportunity for customers to avail themselves of heavily discounted products across various categories. … [+4614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Claire Jackson",
-      "title": "Metal Gear Solid: Master Collection Censors Johnny's Bare Butt - Kotaku",
-      "description": "Spare me your history lessons about which versions did or did not have Johnny’s bare ass",
-      "url": "https://kotaku.com/metal-gear-solid-master-collection-censored-1851454927",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/19bf9c1bc7abba95f450ac190fab3552.jpg",
-      "publishedAt": "2024-05-03T17:50:00Z",
-      "content": "I recently decided to play a phenomenal old game called Metal Gear Solid via the recently released Metal Gear Solid Master Collection, hoping to show my friends the scene where I could see a mans bar… [+2756 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "10 years in the making, retro game emulator Delta is now No. 1 on the iOS charts - TechCrunch",
-      "description": "Video game emulator Delta’s decade-long struggle against the iOS App Store began with a school-issued TI-84 calculator. When Riley Testut was a sophomore",
-      "url": "https://techcrunch.com/2024/05/03/retro-game-emulator-delta-app-store-ios/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/pokemon-on-iphone.jpg?resize=1200,675",
-      "publishedAt": "2024-05-03T17:34:43Z",
-      "content": "Video game emulatorDeltas decade-long struggle against the iOS App Store began with a school-issued TI-84 calculator.\r\nWhen Riley Testut was a sophomore in high school, he showed his friends how to l… [+7432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "What 'Starfield' Needs To Launch Alongside Its 'Shattered Space' Expansion - Forbes",
-      "description": "Starfield has just launched a new patch into its beta that adds some legitimately useful quality of life elements, but it needs one thing in particular.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/05/03/what-starfield-needs-to-launch-alongside-its-shattered-space-expansion/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f479347e850fb96485cc97/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-05-03T17:02:32Z",
-      "content": "Starfield\r\nBethesda\r\nStarfield has just launched a new patch into its beta that adds some legitimately useful quality of life elements, difficulty toggling, ship decoration, inventory tabs, actual ci… [+3623 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Hisense is launching a $999 CanvasTV as a cheaper rival to Samsung's Frame - The Verge",
-      "description": "Hisense is getting ready to launch the CanvasTV, which offers a 4K QLED anti-glare display. It’s available in 55 and 65 inches and starts at $999.",
-      "url": "https://www.theverge.com/2024/5/3/24148080/hisense-cheaper-canvastv-samsung-frame",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Z7Qp2GlGqNw6SuZfU9NPOHjSc5U=/0x0:3840x2160/1200x628/filters:focal(2606x827:2607x828)/cdn.vox-cdn.com/uploads/chorus_asset/file/25431774/CanvasTV_Image.jpg",
-      "publishedAt": "2024-05-03T16:58:34Z",
-      "content": "Hisense is launching a $999 CanvasTV as a cheaper rival to Samsungs Frame\r\nHisense is launching a $999 CanvasTV as a cheaper rival to Samsungs Frame\r\n / The CanvasTV can hide out as wall art when you… [+2053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Thomas Morgan",
-      "title": "Fallout 4's next-gen upgrade: bugged on Series X/S, disappointing on PS5 and PC - Eurogamer.net",
-      "description": "Thomas Morgan presents testing of the next-gen upgrade for Fallout 4, as experienced on PS5 and Series X/S.",
-      "url": "https://www.eurogamer.net/digitalfoundry-2024-fallout-4s-next-gen-upgrade-feels-like-a-wasted-opportunity",
-      "urlToImage": "https://assetsio.gnwcdn.com/fallout4-return-blogroll-1714002263077.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-05-03T16:47:39Z",
-      "content": "In the wake of the massive success of the Fallout TV series, Fallout 4 has received a free next-gen upgrade for PC, PS5 and Series X/S that aims to bring the nine-year-old game up to modern standards… [+10376 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Alex Whitelock",
-      "title": "The LG C4 OLED has just been released and it's already discounted at Amazon - TechRadar",
-      "description": "Save cash on this stunning new OLED TV today",
-      "url": "https://www.techradar.com/televisions/the-lg-c4-oled-has-just-been-released-and-its-already-discounted-at-amazon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zgh2eDNhWv9U33z4Ld968R-1200-80.jpg",
-      "publishedAt": "2024-05-03T16:35:07Z",
-      "content": "We've just spotted the first-ever discount on the brand-new LG C4 - the brand's flagship mid-range OLED that's likely to be one of the best TVs this year.\r\nRight now, you can pick up the smallest 42-… [+1268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "What to Expect From Apple's May 7th iPad Event! - MacRumors",
-      "description": "Apple is set to hold its first event of the year next Tuesday, and the focus will be on the iPad. The iPad Pro and iPad Air models are set to be updated, and...",
-      "url": "https://www.youtube.com/watch?v=oZ05z2YhFyY",
-      "urlToImage": "https://i.ytimg.com/vi/oZ05z2YhFyY/maxresdefault.jpg",
-      "publishedAt": "2024-05-03T16:01:05Z",
-      "content": null
+      "title": "The biggest Pixel 8a leak yet reveals all the juicy details - Android Authority",
+      "description": "A massive leak, including a detailed spec list and a promotional image for the Google Pixel 8a has surfaced online.",
+      "url": "https://www.androidauthority.com/pixel-8a-documents-leak-3439857/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Pixel-8-back-standing-upright.jpg",
+      "publishedAt": "2024-05-04T19:08:33Z",
+      "content": "<ul><li>A major leak, including a spec sheet and promo image, has revealed extensive details about the Google Pixel 8a.</li><li>The document all but confirms key specs, including a 120Hz display, Ten… [+3530 chars]"
     },
     {
       "source": {
@@ -229,38 +47,220 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google Wallet adds new 'Payment methods' list on Android - 9to5Google",
-      "description": "A small tweak to Google Wallet for Android introduces a straightforward list of all your saved \"Payment methods.\"",
-      "url": "http://9to5google.com/2024/05/03/google-wallet-payment-methods-list/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-03T15:34:00Z",
-      "content": "A small tweak to Google Wallet for Android introduces a straightforward list of all your saved “Payment methods.” \r\nFor starters, the account menu has been tweaked with “Pay contactless setup” rename… [+1045 chars]"
+      "title": "Google Fit dev APIs shutdown set, fate of Android & Wear OS apps go unannounced - 9to5Google",
+      "description": "Earlier this week, the company detailed how the \"Google Fit APIs have been deprecated\" and that the shutdown is set for June 30, 2025.",
+      "url": "http://9to5google.com/2024/05/04/google-fit-api-shutdown/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-fit-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-04T18:45:00Z",
+      "content": "Since the launch of Health Connect in 2022, Google has been winding down the Google Fit developer APIs. Earlier this week, the company fully detailed how the “Google Fit APIs have been deprecated and… [+1873 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Microsoft expanding biometric passkey access for more users - CBS News",
-      "description": "Microsoft users can now use biometric passkeys, like a thumbprint or Face ID, to sign into Microsoft 365, Copilot. Jon Fingas, senior editor at Techopedia, h...",
-      "url": "https://www.youtube.com/watch?v=CqSx6GvE34w",
-      "urlToImage": "https://i.ytimg.com/vi/CqSx6GvE34w/maxresdefault.jpg",
-      "publishedAt": "2024-05-03T15:27:59Z",
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "Poco F6, F6 Pro with Snapdragon chipsets may launch soon: What to expect - The Times of India",
+      "description": "MOBILES & TABLETS News: Poco to launch F6 and F6 Pro, succeeding F5. F6 features Snapdragon 8s Gen 3, F6 Pro with Snapdragon 8 Gen 2. Both models may have high RAM capacity a",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/poco-f6-f6-pro-with-snapdragon-chipsets-may-launch-soon-what-to-expect/articleshow/109844691.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109844684,width-1070,height-580,imgsize-7224,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-04T16:17:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "Eurogamer.net"
       },
-      "author": "Wesley LeBlanc",
-      "title": "Here Are The Senua's Saga: Hellblade II PC Specs And System Requirements - Game Informer",
-      "description": "You're going to need a beefy computer to run this sequel at its best.",
-      "url": "https://www.gameinformer.com/news/2024/05/03/here-are-the-senuas-saga-hellblade-ii-pc-specs-and-system-requirements",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2024/05/03/819c55bc/hellblade-ii-senuas-saga-pc-specs-requirements.jpg",
-      "publishedAt": "2024-05-03T15:21:00Z",
-      "content": "Id like to ask you to support Game Informers continued coverage of games with a subscription. For less than two dollars per issue, we mail you a full year of 10 print magazines, each with cover stori… [+934 chars]"
+      "author": "Vikki Blake",
+      "title": "Resident Evil 9 \"should be revealed pretty soon and release next year\", leaker suggests - Eurogamer.net",
+      "description": "Resident Evil 9 \"should be revealed pretty soon and release next year\".That's according to horror leaker Dusk Golem, wh…",
+      "url": "https://www.eurogamer.net/resident-evil-9-should-be-revealed-pretty-soon-and-release-next-year-leaker-suggests",
+      "urlToImage": "https://assetsio.gnwcdn.com/Resident-Evil-4-remake-6.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-05-04T15:53:14Z",
+      "content": "Resident Evil 9 \"should be revealed pretty soon and release next year\".\r\nThat's according to horror leaker Dusk Golem, who posted the news to Twitter/X yesterday.\r\n29 Things You Didn't Know About Res… [+1667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "DH Web Desk",
+      "title": "Dicey Dungeons+, Summer Pop+ and more titles join Apple Arcade - Deccan Herald",
+      "description": null,
+      "url": "https://www.deccanherald.com/technology/dicey-dungeons-summer-pop-and-more-titles-join-apple-arcade-3006847",
+      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-05%2F9dd17a60-07c9-4ec9-889e-7b9677340721%2FApple_Arcade_logo.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2024-05-04T15:25:17Z",
+      "content": "Launched in 2019, Apple Arcade has grown in popularity among iPhone, iPad and Mac device owners. It houses more than 200 exclusive ad-free gaming titles including FIFA, NBA and more.\r\nNow, Apple Arca… [+180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "vivo X100 Ultra's camera samples shared by company official - GSMArena.com news - GSMArena.com",
+      "description": "It's expected to launch this month with a 200MP telephoto camera. vivo is expected to unveil the X100s and X100 Ultra this month. The brand recently shared...",
+      "url": "https://www.gsmarena.com/vivo_x100_ultra_camera_samples-news-62720.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/vivo-x100-ultra-camera-samples/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2024-05-04T15:05:01Z",
+      "content": "vivo is expected to unveil the X100s and X100 Ultra this month. The brand recently shared camera samples of the vivo X100s, showcasing the phone's AI-powered image editing capability. Now, we are loo… [+1168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EventHubs"
+      },
+      "author": "Justin 'AdaptiveTrigger' Gordon",
+      "title": "How the rules are changing for Akuma and his red fireball in Street Fighter 6 - EventHubs",
+      "description": "Akuma's gameplay trailer for Street Fighter 6 was recently shown off towards the end of Evo Japan 2024. Shortly afterwards, the PlayStation Blog post detailed how Akuma is changing in Street Fighter 6.Of course, the Shoto's fireball ...",
+      "url": "https://www.eventhubs.com/news/2024/may/04/changing-akuma-red-fireball-sf6/",
+      "urlToImage": "https://media.eventhubs.com/images/2024/05/04_red-fireball-bnrt.webp",
+      "publishedAt": "2024-05-04T15:03:23Z",
+      "content": "Akuma's gameplay trailer for Street Fighter 6 was recently shown off towards the end of Evo Japan 2024. Shortly afterwards, the PlayStation Blog post detailed how Akuma is changing in Street Fighter … [+2779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "The Weird New Way To Prep For Destiny 2's 'The Final Shape' - Forbes",
+      "description": "The Destiny 2 economy/farming system is changing in some pretty weird ways when The Final Shape hits, and will require a different sort of prep this time around.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/05/04/the-weird-new-way-to-prep-for-destiny-2s-the-final-shape/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/642ec84bf28587ad433c0b5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-04T14:35:04Z",
+      "content": "Exotic decoding\r\nBungie\r\nThe Destiny 2 economy/farming system is changing in some pretty weird ways when The Final Shape hits, and will require a different sort of prep this time around.\r\nSome things… [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Round Up: Celebrate Star Wars Day 2024 On The Nintendo Switch - Nintendo Life",
+      "description": "\"May the 4th be with you\"",
+      "url": "https://www.nintendolife.com/news/2024/05/round-up-celebrate-star-wars-day-2024-on-the-nintendo-switch",
+      "urlToImage": "https://images.nintendolife.com/5d7f7986b0d10/1280x720.jpg",
+      "publishedAt": "2024-05-04T14:30:00Z",
+      "content": "Today is May 4th and that means it's Star Wars Day! If you're looking for something to play in a galaxy far, far away, there's plenty to jump into on the Nintendo Switch.\r\nThere's even a sale to go w… [+2213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Kaan Serin",
+      "title": "Helldivers 2's PSN mandate won't stop players in unsupported regions from playing the game, while devs look \"for better options\" - Gamesradar",
+      "description": "Arrowhead won't \"force people to either break Sony TOS or not play the game\"",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2s-psn-mandate-wont-stop-players-in-unsupported-regions-from-playing-the-game-while-devs-look-for-better-options/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b3ABWi9vJPPz3UPvvxeqU-1200-80.jpg",
+      "publishedAt": "2024-05-04T14:09:09Z",
+      "content": "Helldivers 2 PC players who live in regions without access to the PlayStation Network will still be able to play the game, even after the account linking mandate comes into effect, according to one d… [+1624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Here's What Might Be Leaving Xbox Game Pass In June 2024 - Pure Xbox",
+      "description": "Some early predictions!",
+      "url": "https://www.purexbox.com/news/2024/05/heres-what-might-be-leaving-xbox-game-pass-in-june-2024",
+      "urlToImage": "https://images.purexbox.com/b08c8e8ca1576/1280x720.jpg",
+      "publishedAt": "2024-05-04T13:33:58Z",
+      "content": "What's leaving Xbox Game Pass in June 2024? Well, Microsoft hasn't confirmed anything just yet, but based on some games that were added to the service this time last year, we can at least make a few … [+3317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India TV News"
+      },
+      "author": "Saumya Nigam",
+      "title": "WWDC 2024: iOS 18 set to revolutionize Siri with new AI capabilities - India TV News",
+      "description": "Apple's CEO, Tim Cook, has recently expressed his confidence in the upcoming AI roadmap and further highlighted the strategic advantage over its competitors of the tech giant. Cook further emphasized the privacy and commitment which has been anticipated incor…",
+      "url": "https://www.indiatvnews.com/technology/news/wwdc-2024-ios-18-set-to-revolutionize-siri-with-new-ai-capabilities-2024-05-04-929565",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/05/apple-wwdc-2024-1714827549.jpg",
+      "publishedAt": "2024-05-04T13:03:46Z",
+      "content": "Apple's upcoming event- WWDC is one of the most anticipated events from the tech giant. This year, everyone has been eagerly waiting to know what is new in the event, and speculations have stated tha… [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Staff",
+      "title": "The Rabbit R1 Flops, Nokia Gets Back to Basics, and More - Gizmodo",
+      "description": "Catch up on our consumer technology stories from this week.",
+      "url": "https://gizmodo.com/the-rabbit-r1-flops-nokia-gets-back-to-basics-and-mor-1851454637",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7d3b43979836a9f098e6c14b43804f64.jpg",
+      "publishedAt": "2024-05-04T13:00:00Z",
+      "content": "If you thought the less-than-stellar launch of the highly anticipated Rabbit R1 AI device was all that happened in gadget news this week, we understand. Everyone in the tech industry was talking abou… [+548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Helldivers 2's positive Steam score tumbles as PC players hit back at Sony's PSN requirements - Eurogamer.net",
+      "description": "The originally well-received Helldivers 2 now has a \"mixed\" review score on Steam following over 100,000 \"mostly negati…",
+      "url": "https://www.eurogamer.net/helldivers-2s-positive-steam-score-tumbles-as-pc-players-hit-back-at-sonys-psn-requirements",
+      "urlToImage": "https://assetsio.gnwcdn.com/Helldivers-2_ixUdGFZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-05-04T12:41:48Z",
+      "content": "The originally well-received Helldivers 2 now has a \"mixed\" review score on Steam following over 100,000 \"mostly negative\" review bombs from PC players unhappy about having to sign into Sony's PlaySt… [+2393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Here's why you should play Xbox Game Pass Ultimate's Star Wars Jedi: Survivor for May 4 - TrueAchievements",
+      "description": "It's May 4, Star Wars Jedi: Survivor is available with Xbox Game Pass Ultimate via EA Play and with Free Play days — here's more reasons why you should play!",
+      "url": "https://www.trueachievements.com/news/heres-why-you-should-play-star-wars-jedi-survivor",
+      "urlToImage": "https://www.trueachievements.com/imgs/148707/heres-why-you-should-play-xbox-game-pass-ultimates-star-wars-jedi-survivor-for-may-4.jpg",
+      "publishedAt": "2024-05-04T12:29:37Z",
+      "content": "We had the chance to have a go at Star Wars Jedi: Fallen Order when the TrueAchievements team went to X019. It was a lot of fun (although it really seemed to like chucking Cal down sudden drops for e… [+5173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Christian Hoffer",
+      "title": "D&D Beyond Rolls Out Controversial Change With Marketplace Redesign - ComicBook.com",
+      "description": "D&D Beyond has gotten rid of a la carte purchases, removing a cost-effective method of playing Dungeons & Dragons.",
+      "url": "https://comicbook.com/gaming/news/dungeons-dragons-dnd-beyond-a-la-carte-marketplace-change-controversy/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/2021/08/09/90d072b5-ef09-42e1-877e-d70d09207881/dnd-asterik-1234066-4-1268920.jpg?width=1200",
+      "publishedAt": "2024-05-04T12:04:00Z",
+      "content": "D&amp;D Beyond, the online hub for Dungeons &amp; Dragons, has just introduced a controversial pricing change that makes the game a lot more expensive for some players. As part of a new marketplace d… [+1947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Divya Bhati",
+      "title": "Apple Let Loose event 2024: iPad Pro models with OLED screen to M4 chip, everything we are expecting - India Today",
+      "description": "Apple039s first major event of 2024 the Let Loose event is gearing up to reveal new generation of iPads with significant upgrades",
+      "url": "https://www.indiatoday.in/technology/news/story/apple-let-loose-event-2024-ipad-pro-models-with-oled-screen-to-m4-chip-everything-we-are-expecting-2535277-2024-05-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/ipad-pro-290110783-16x9.jpg?VersionId=UGCZVQ0RyjTBMP9OmcvAm97bQY.h.ITi",
+      "publishedAt": "2024-05-04T11:57:09Z",
+      "content": "Apple’s first major event of 2024, titled the \"Let Loose\" event, is set to take place on May 7. This event will focus on the new generation of iPads. In fact, it is expected that this year Apple is m… [+3762 chars]"
     }
   ]
 }
