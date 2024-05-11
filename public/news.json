@@ -1,175 +1,188 @@
 {
   "status": "ok",
-  "totalResults": 88,
+  "totalResults": 139,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Nate Anderson",
-      "title": "What's coming in major new versions of Logic Pro for Mac and iPad - Ars Technica",
-      "description": "Logic now goes to 11.",
-      "url": "https://arstechnica.com/gadgets/2024/05/whats-coming-in-major-new-versions-of-logic-pro-for-mac-and-ipad/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/chord-track-760x380.jpg",
-      "publishedAt": "2024-05-08T23:22:22Z",
-      "content": "Enlarge/ The new Chord Track feature.\r\n15\r\nIf you watched yesterday's iPad-a-palooza event from Apple, then you probably saw the segment about cool new features coming to the iPad version of Logic Pr… [+2995 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kat Bailey",
-      "title": "Tango Gameworks Pitched Hi-Fi Rush Sequel Before Its Sudden Shutdown - Report - IGN",
-      "description": "Arkane Austin and Tango Gameworks were both in the process of pitching new games, including a Hi-Fi Rush sequel, before they were shut down, according to a new report. ZeniMax and Xbox reportedly opted to shut down the studios because they felt they were spre…",
-      "url": "https://www.ign.com/articles/xbox-tango-gameworks-arkane-report",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/25/hi-fi-rush3-1674678254927.jpg?width=1280",
-      "publishedAt": "2024-05-08T20:48:39Z",
-      "content": "Tango Gameworks was in the process of pitching a Hi-Fi Rush sequel and wanted to hire additional staff before its sudden closure, according to a new Bloomberg report.\r\nThe report, which sheds additio… [+3575 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Inside Microsoft's Xbox turmoil - The Verge",
-      "description": "Microsoft’s gaming layoffs are part of big Xbox strategy shifts. Employees at Xbox are bracing for what’s next as Microsoft reprioritizes its game lineup.",
-      "url": "https://www.theverge.com/2024/5/8/24151814/microsoft-xbox-layoffs-strategy-changes-arkane-tango",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DK4nra59NWkRJFlTFUX4Xj_MRL8=/0x0:1900x1080/1200x628/filters:focal(950x540:951x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25438498/FireVapor_Canvas_JPG_e97eac7b7fa59195c6d9_1900x1080.jpg",
-      "publishedAt": "2024-05-08T20:07:22Z",
-      "content": "Inside Microsofts Xbox turmoil\r\nInside Microsofts Xbox turmoil\r\n / Microsoft is making tough Xbox decisions amid a game industry thats hurting.\r\nByTom Warren, a senior editor covering all things Micr… [+7183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ivan",
-      "title": "TrendForce: Apple to ship 4.5 to 5 million OLED iPad Pros in 2024 - GSMArena.com",
-      "description": "That's lower than the current iPad Pros. TrendForce's latest report projects that Apple will ship between 4.5 and 5 million OLED iPad Pros this year....",
-      "url": "https://www.gsmarena.com/trendforce_apple_to_ship_45_to_5_million_new_ipad_pros_in_2024-news-62779.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/trendforce-ipad-projection/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-05-08T20:01:01Z",
-      "content": "TrendForce's latest report projects that Apple will ship between 4.5 and 5 million OLED iPad Pros this year. That's the 11-inch and 13-inch combined, and it's a lower sales volume expectation than th… [+980 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "John Timmer",
-      "title": "DeepMind adds a diffusion engine to latest protein-folding software - Ars Technica",
-      "description": "Major under-the-hood changes let AlphaFold handle protein-DNA complexes and more.",
-      "url": "https://arstechnica.com/science/2024/05/deepmind-adds-a-diffusion-engine-to-latest-protein-folding-software/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-2.54.53 PM-760x380.png",
-      "publishedAt": "2024-05-08T19:45:12Z",
-      "content": "Enlarge/ Prediction of the structure of a coronavirus Spike protein from a virus that causes the common cold.\r\n11\r\nMost of the activities that go on inside cellsthe activities that keep us living, br… [+4228 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kate Knibbs",
-      "title": "OpenAI Is 'Exploring' How to Responsibly Generate AI Porn - WIRED",
-      "description": "OpenAI released draft guidelines for how  it wants the AI technology inside ChatGPT to behave—and revealed that it’s exploring how to ‘responsibly’ generate explicit content.",
-      "url": "https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/",
-      "urlToImage": "https://media.wired.com/photos/663bc0baa6e8aa6d53b55c2b/191:100/w_1280,c_limit/OpenAI-NSFW-Content-Business-GettyImages-2133941176.jpg",
-      "publishedAt": "2024-05-08T19:13:20Z",
-      "content": "OpenAI released draft documentation Wednesday laying out how it wants ChatGPT and its other AI technology to behave. Part of the lengthy Model Spec document discloses that the company is exploring a … [+3227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Dominic Patten",
-      "title": "Apple’s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else - Deadline",
-      "description": "Tim Cook may be praising the new iPad & the ad accompanying it, but the tech giant CEO seems to be alone there",
-      "url": "http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Apple-Ipad-Justine-Bateman-and-Hugh-Grant.jpg?w=1024",
-      "publishedAt": "2024-05-08T18:55:00Z",
-      "content": "(Updated with more reactions)Apple’s new iPad Pro isn’t hitting the shelves for another week, but the self-described “thinnest Apple product yet” is already being crushed because of a new ad.\r\nReleas… [+2686 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Widder",
-      "title": "You can get a $100 gift card when you preorder Google's Pixel 8A - The Verge",
-      "description": "Amazon and other retailers are already offering Google’s next midrange phone with a $100 gift card. You can also save on the Beats Studio Buds and Lego’s Tiny Plants set.",
-      "url": "https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZEQC9urFhHz9rw_mQX-UEGO2u3E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25435485/1vpavic_20240501__0190.jpg",
-      "publishedAt": "2024-05-08T18:29:30Z",
-      "content": "You can get a $100 gift card when you preorder Googles Pixel 8A\r\nYou can get a $100 gift card when you preorder Googles Pixel 8A\r\n / Googles next midrange phone will ship on May 14th, the same day as… [+3199 chars]"
+      "author": "Bloomberg",
+      "title": "Tim Cook can't run Apple forever. Who's next? - The Times of India",
+      "description": "If Cook were to step down soon, these people say, he would almost assuredly be replaced by COO Jeff Williams, who emerged as the top candidate to be C",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/tim-cook-cant-run-apple-forever-whos-next/articleshow/109990265.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109990292,width-1070,height-580,imgsize-498248,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-09T21:38:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Filipe Espósito",
-      "title": "New iPads hint at eSIM-only iPhone expanding to more countries soon - 9to5Mac",
-      "description": "Apple on Tuesday announced the new iPad Air and iPad Pro, and an interesting detail about both of them is...",
-      "url": "https://9to5mac.com/2024/05/08/ipad-esim-only-iphone/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iPhone-15-SIM-card-eSIM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-08T18:24:00Z",
-      "content": "Apple on Tuesday announced the new iPad Air and iPad Pro, and an interesting detail about both of them is that their respective Cellular versions are eSIM only, which means that they no longer have a… [+1744 chars]"
+      "author": "Michael Potuck",
+      "title": "M4 iPad Pro vs M2 iPad Air - 9to5Mac",
+      "description": "The 2024 iPad Pro levels up performance as the first Apple device with the M4 chip. And the new mid-tier Apple tablet...",
+      "url": "https://9to5mac.com/2024/05/09/m4-ipad-pro-vs-m2-ipad-air/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-vs-m2-ipad-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-09T20:56:00Z",
+      "content": "The 2024 iPad Pro levels up performance as the first Apple device with the M4 chip. And the new mid-tier Apple tablet is the M2 iPad Air which comes in two sizes for the first time. So what is all di… [+11755 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GoNintendo"
+        "name": "MacRumors"
       },
-      "author": "rawmeatcowboy",
-      "title": "Nintendo confirms Switch successor will use Nintendo Accounts - GoNintendo",
-      "description": "You can account on that",
-      "url": "https://gonintendo.com/sandbox/35224-nintendo-confirms-switch-successor-will-use-nintendo-accounts",
-      "urlToImage": "https://gonintendo.com/attachments/image/47687/file/medium-667a1410f7ff3501a4a4118adfb74f3e.jpg",
-      "publishedAt": "2024-05-08T17:47:07Z",
-      "content": "For a few years now, Nintendo has talked about just how important Nintendo Accounts are to their future. Nintendo wants to make sure they ease any transition customers go through with their products,… [+793 chars]"
+      "author": "Juli Clover",
+      "title": "What's New With the iPad Pro Magic Keyboard - MacRumors",
+      "description": "With the iPad Pro, Apple introduced an overhauled version of the Magic Keyboard to add new features that make using an iPad Pro feel more like using...",
+      "url": "https://www.macrumors.com/2024/05/09/ipad-pro-magic-keyboard/",
+      "urlToImage": "https://images.macrumors.com/t/3CtHsQoE8qjLFkvO4e1W3F_GQyQ=/1600x/article-new/2024/05/magic-keyboard-1.jpg",
+      "publishedAt": "2024-05-09T20:44:00Z",
+      "content": "With the iPad Pro, Apple introduced an overhauled version of the Magic Keyboard to add new features that make using an ‌iPad Pro‌ feel more like using a Mac. If youre thinking about buying one of the… [+1864 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emily Mullin",
+      "title": "Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design - WIRED",
+      "description": "Neuralink experienced a mechanical issue with its first human brain-computer interface implant. Its novel design may make it more prone to failure.",
+      "url": "https://www.wired.com/story/neuralinks-brain-implant-issues/",
+      "urlToImage": "https://media.wired.com/photos/663cfc33758c8de6616e56e9/191:100/w_1280,c_limit/Neuralink%E2%80%99s%20Brain%20Implant%20_GettyImages-1258889171.jpg",
+      "publishedAt": "2024-05-09T20:10:09Z",
+      "content": "Rather than building a device from the ground up, Synchron and Paradromics have taken inspiration from previous medical devices. Paradromics design, for instance, is based on the Utah array but makes… [+3310 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "AdAge.com"
       },
-      "author": "Ben Schoon",
-      "title": "OnePlus might be preparing more bloatware for your phone - 9to5Google",
-      "description": "According to new code findings, OnePlus may be preparing to push more bloatware apps on its phones in the future.",
-      "url": "http://9to5google.com/2024/05/08/oneplus-bloatware-apps-prep/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/oneplus-12-1-24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-08T17:35:00Z",
-      "content": "Bloatware has been a long-time problem for Android devices, but some brands have stood against it for a while. OnePlus, though, seems to be sneaking more bloatware onto its devices as of late.\r\nOnePl… [+2856 chars]"
+      "author": "Ad Age",
+      "title": "Apple apologizes for iPad Pro ad that 'missed the mark' - Ad Age",
+      "description": null,
+      "url": "https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321",
+      "urlToImage": null,
+      "publishedAt": "2024-05-09T19:37:58Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "David Pierce",
-      "title": "LinkedIn’s new daily games are surprisingly fun to play - The Verge",
-      "description": "The professional social network has three new games: Pinpoint, Crossclimb, and Queens. All three are an unexpected amount of fun.",
-      "url": "https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AjGTrSgMc5Xd8C6_wHswlaEr57I=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25427564/Copy_of_Pinpoint_Queens_Crossclimb_Start_Screen_Option_2__1920x1080.png",
-      "publishedAt": "2024-05-08T16:30:59Z",
-      "content": "I regret to inform you that LinkedIns games are very fun\r\nI regret to inform you that LinkedIns games are very fun\r\n / Queens is trickier than it looks, but these three games are already becoming par… [+3902 chars]"
+      "author": "Sean Hollister",
+      "title": "Asus' next ROG Ally will be the ROG Ally X - The Verge",
+      "description": "Asus is beginning to reveal its ROG Ally successor, the ROG Ally X. Don’t call it an Ally 2: it’ll have the same chip and screen when it ships in the second half of 2024.",
+      "url": "https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EYzyXf3MYG30UnTfhOB1jhxT_78=/0x0:2700x1925/1200x628/filters:focal(1584x645:1585x646)/cdn.vox-cdn.com/uploads/chorus_asset/file/25440568/rog_ally_teaser.jpg",
+      "publishedAt": "2024-05-09T19:22:45Z",
+      "content": "Asus next ROG Ally handheld will be the ROG Ally X\r\nAsus next ROG Ally handheld will be the ROG Ally X\r\n / Before it begins work on a ROG Ally 2, Asus wants to ship an improved version of the origina… [+4909 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "[Removed]"
       },
-      "author": "Sal Romano",
-      "title": "Sonic Rumble announced for iOS, Android – 32-player battle royale - Gematsu",
-      "description": "SEGA has announced Sonic Rumble, a 32-player battle royale based on the Sonic the Hedgehog series developed in collaboration with Rovio. It will launch for iOS and Android this winter. A closed bet…",
-      "url": "https://www.gematsu.com/2024/05/sonic-rumble-announced-for-ios-android-32-player-battle-royale",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/05/Sonic-Rumble-Ann_05-08-24.jpg",
-      "publishedAt": "2024-05-08T16:12:02Z",
-      "content": "SEGA has announced Sonic Rumble, a 32-player battle royale based on the Sonic the Hedgehog series developed in collaboration with Rovio. It will launch for iOS and Android this winter. A closed beta … [+1038 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "WhatsApp gets major makeover, introduces new colors, icons, and better dark mode - Android Authority",
+      "description": "WhatsApp announced it is updating the appearance of its platform to help keep the platform looking fresh, simple, and approachable.",
+      "url": "https://www.androidauthority.com/whatsapp-gets-makeover-3441545/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/English-WhatsApp-UI-Refresh-Updates.jpg",
+      "publishedAt": "2024-05-09T18:04:09Z",
+      "content": "<ul><li>WhatsApp is introducing a new color palette and updated icons, illustrations, and chat background.</li><li>The Android app is getting a bottom navigation bar.</li><li>A new attachment layout … [+1983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Dave LeClair",
+      "title": "Nintendo Switch 2 leaks just revealed specs and potential release window - Tom's Guide",
+      "description": "Nintendo fans have been doing some digging",
+      "url": "https://www.tomsguide.com/gaming/nintendo/nintendo-switch-2-leaks-just-revealed-specs-and-potential-release-window",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7rmYTrFt8RkEB8NdVyezb8-1200-80.jpg",
+      "publishedAt": "2024-05-09T17:45:52Z",
+      "content": "We know that a Nintendo Switch 2 is coming, with Nintendo confirming plans to release a Switch follow-up in 2025. And now we have more details about what to expect from the Switch 2, thanks fo a seri… [+2639 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Bloomberg: iOS 18 AI tech to rely on data centers with Apple silicon - 9to5Mac",
+      "description": "Apple plans to use its own high-end Apple silicon chips in data centers designed to power its upcoming iOS 18 AI features.",
+      "url": "https://9to5mac.com/2024/05/09/bloomberg-ios-18-ai-apple-silicon/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/ios18-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-09T17:39:00Z",
+      "content": "Coming on the heels of a Wall Street Journal report that Apple was developing its own chips geared toward powering AI-focused data centers, today Mark Gurman at Bloomberg effectively confirmed the re… [+1192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "\"Destruction Of Human Experience\": Apple's New iPad Ad Sparks Backlash. Here's Why - NDTV",
+      "description": "Apple CEO Tim Cook wrote while sharing the ad, \"Just imagine all the things it'll be used to create.\"",
+      "url": "https://www.ndtv.com/world-news/destruction-of-human-experience-apples-new-ipad-ad-sparks-backlash-heres-why-5627297",
+      "urlToImage": "https://c.ndtvimg.com/2024-05/0o51e2qo_apple_625x300_09_May_24.jpg",
+      "publishedAt": "2024-05-09T16:05:38Z",
+      "content": "Many people on social media called the ad \"destructive\".\r\nTech giant Apple is famous for its products and its stylish and effective marketing strategies and events. However, to promote its new iPad, … [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "10 Reasons to Wait for Next Year's iPhone 17 - MacRumors",
+      "description": "Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive...",
+      "url": "https://www.macrumors.com/2024/05/09/10-reasons-to-wait-iphone-17/",
+      "urlToImage": "https://images.macrumors.com/t/v-r2P4S9LIQkwm29DvTDzcGKC14=/2500x/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg",
+      "publishedAt": "2024-05-09T16:00:00Z",
+      "content": "Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive ‌iPhone‌ models concurrently, which is why we sometim… [+5728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -177,51 +190,64 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "TicWatch Pro 5 Enduro adds sapphire glass for the same price - 9to5Google",
-      "description": "About a year after launching the TicWatch Pro 5, Mobvoi is back with a new “Enduro” refresh that brings some...",
-      "url": "http://9to5google.com/2024/05/08/mobvoi-ticwatch-pro-5-enduro-sapphire/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/mobvoi-ticwatch-pro-5-enduro-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-08T16:00:00Z",
-      "content": "About a year after launching the TicWatch Pro 5, Mobvoi is back with a new “Enduro” refresh that brings some hardware upgrades.\r\nThe new TicWatch Pro 5 Enduro is launching today as an upgraded versio… [+1801 chars]"
+      "title": "Google Chrome is preparing its own version of Android's Circle to Search - 9to5Google",
+      "description": "Circle to Search on Android is a very useful feature because of its simplicity and, from the looks of it,...",
+      "url": "http://9to5google.com/2024/05/09/google-chrome-circle-to-search/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/circle-to-search-cover-v.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-09T15:39:00Z",
+      "content": "Circle to Search on Android is a very useful feature because of its simplicity and, from the looks of it, it’s also coming to Google Chrome on desktop platforms.\r\nGoogle launched Circle to Search on … [+1305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Vishnu Sarangapurkar",
+      "title": "Google Messages finally sees voice moods feature in action for RCS chats - Android Central",
+      "description": "The new rollout is currently only for Google Messages beta users.",
+      "url": "https://www.androidcentral.com/apps-software/google-messages-starts-getting-voice-moods-and-recorder-redesign",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ziZDiSfrJmLq6TJoFTB57F-1200-80.jpg",
+      "publishedAt": "2024-05-09T15:31:23Z",
+      "content": "What you need to know\r\n<ul><li>Google Messages app in beta brings handy new features from the November 2023 announcement.</li><li>They include voice moods accompanied by an audio recorder redesign.</… [+2253 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "SamMobile"
       },
-      "author": "SamMobile, Abid Iqbal Shaik",
-      "title": "Galaxy S24 was the third best-selling phone in Japan - SamMobile - Samsung news",
-      "description": "Samsung unveiled the Galaxy S24 series in January 2024 and launched the flagship smartphones in most countries around the globe ...",
-      "url": "https://www.sammobile.com/news/galaxy-s24-third-best-selling-phone-japan/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Galaxy-S24-41-720x405.jpg",
-      "publishedAt": "2024-05-08T15:41:00Z",
-      "content": "Samsung unveiled the Galaxy S24 series in January 2024 and launched the flagship smartphones in most countries around the globe the same month. However, in Japan, the company launched those devices o… [+967 chars]"
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "Galaxy Z Fold 4 and Z Flip 4 already getting first post-One UI 6.1 update - SamMobile - Samsung news",
+      "description": "Last weekend, Samsung initiated a surprise rollout of the One UI 6.1 update for flagship Galaxy S and Galaxy Z ...",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-4-flip-4-first-post-one-ui-6-1-update/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Samsung-Galaxy-Z-Fold-5-software-update-720x404.jpg",
+      "publishedAt": "2024-05-09T14:45:00Z",
+      "content": "Last weekend, Samsung initiated a surprise rollout of the One UI 6.1 update for flagship Galaxy S and Galaxy Z smartphones that were launched in 2021 and 2022. Today, the company is already rolling o… [+1223 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "author": "Umar Shakir",
-      "title": "A new iPhone shortcut replicates Android's best new feature - The Verge",
-      "description": "The Google App on iOS now has a new shortcut feature that replicates the function of Circle to Search. It works on iPhone 15 Pro with the Action button, as well as Back Tap.",
-      "url": "https://www.theverge.com/2024/5/8/24151918/google-app-shortcut-circle-to-search-google-lens-ios",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wNk5BXqXpG4LwcAMHxG_b7AT8uo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952247/HT012_google_0003.jpg",
-      "publishedAt": "2024-05-08T15:16:02Z",
-      "content": "A new iPhone shortcut replicates Androids best new feature\r\nA new iPhone shortcut replicates Androids best new feature\r\n / A new iOS shortcut made by Google lets you quickly activate Google Lens and … [+2092 chars]"
+      "author": "The Associated Press",
+      "title": "Asteroids, Myst, Resident Evil, SimCity and Ultima inducted into World Video Game Hall of Fame - ABC News",
+      "description": "The World Video Game Hall of Fame has inducted its 10th class of honorees",
+      "url": "https://abcnews.go.com/US/wireStory/asteroids-myst-resident-evil-simcity-ultima-inducted-world-110072765",
+      "urlToImage": "https://i.abcnewsfe.com/a/7870acb3-4835-4961-91fa-774183525011/wirestory_a1ca583d7df77b8a188e711d54116c74_16x9.jpg?w=1600",
+      "publishedAt": "2024-05-09T14:42:06Z",
+      "content": "ROCHESTER, N.Y. -- The World Video Game Hall of Fame inducted its 10th class of honorees Thursday, recognizing Asteroids, Myst, Resident Evil, SimCity and Ultima for their impacts on the video game i… [+3627 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Dan Robinson",
-      "title": "iFixit hails replaceable LPCAMM2 laptop memory as a 'big deal' - The Register",
-      "description": "So long SODIMM? Only in new Thinkpad so far, but memory format may well spread across market",
-      "url": "https://www.theregister.com/2024/05/08/ifixit_hails_replaceable_lpcamm2_laptop/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/08/lenovo_micron_memory.jpg",
-      "publishedAt": "2024-05-08T14:30:00Z",
-      "content": "LPCAMM2 memory is getting the thumbs up from the team at iFixit, which hailed it as a return to the upgradeable laptop and reckons the writing is on the wall for models with soldered-down, non-servic… [+2615 chars]"
+      "author": "David Kirton, Brenda Goh",
+      "title": "Exclusive: Huawei's new phone uses more China-made parts, memory chip - Reuters",
+      "description": "Huawei's latest high-end phone features more Chinese suppliers, including a new flash memory storage chip and an improved chip processor, a teardown analysis showed, pointing to the progress China is making towards technology self-sufficiency.",
+      "url": "https://www.reuters.com/technology/huaweis-new-phone-uses-more-china-made-parts-memory-chip-2024-05-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NURHHTBOTJNW5GD53YYG7IRNDA.jpg?auth=91d3550ea9c6e65f4abd3d14e9e709fd670f54567492ca57caa8eb04749d9aa9&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-05-09T14:26:03Z",
+      "content": null
     },
     {
       "source": {
@@ -229,38 +255,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Nintendo World Championships: NES Edition — Announcement Trailer — Nintendo Switch - Nintendo of America",
-      "description": "Learn more: https://nintendo.com/us/store/products/nintendo-world-championships-nes-edition-switchBring the excitement of the Nintendo World Championships in...",
-      "url": "https://www.youtube.com/watch?v=ELmBYBga5SY",
-      "urlToImage": "https://i.ytimg.com/vi/ELmBYBga5SY/maxresdefault.jpg",
-      "publishedAt": "2024-05-08T14:01:00Z",
+      "title": "$2M vs. $63,000: Luxury Racing Simulators | WIRED - WIRED",
+      "description": "We're putting two of the world's most luxurious racing simulators head-to-head: the ultra-premium $2 million Dynisma racing simulator against the more access...",
+      "url": "https://www.youtube.com/watch?v=PoXSmeHUMzE",
+      "urlToImage": "https://i.ytimg.com/vi/PoXSmeHUMzE/maxresdefault.jpg",
+      "publishedAt": "2024-05-09T14:06:53Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Affiliate Desk",
-      "title": "Mi LED TVs offer numerous features and value: Top 10 options for you | Mint - Mint",
-      "description": "Looking for the best Mi LED TV in India? Check out our list of the top 10 Mi LED TVs available on Amazon, along with their features, pros, and cons.",
-      "url": "https://www.livemint.com/technology/gadgets/mi-led-tvs-offer-numerous-features-and-value-top-10-options-for-you-11715155308167.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/08/1600x900/B0CH31C1BR_7476852970996671602_1715155304359.jpg",
-      "publishedAt": "2024-05-08T13:41:35Z",
-      "content": "1. MI 43 inches Smart TV with Google\r\nThe MI 43 inches Smart TV with Google offers stunning visuals with its Full HD display, along with seamless access to a variety of apps and content. With built-i… [+10119 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "Apple Pencil Pro packaging is an inspiring piece of art - 9to5Mac",
-      "description": "Love those artistic Apple logos promoting the latest iPad event? It turns out the new Apple Pencil Pro carries that...",
-      "url": "https://9to5mac.com/2024/05/08/apple-pencil-pro-packaging-is-an-inspiring-piece-of-art/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/apple-pencil-pro-art.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-08T13:05:00Z",
-      "content": "Love those artistic Apple logos promoting the latest iPad event? It turns out the new Apple Pencil Pro carries that same energy with its packaging.\r\nBefore Apple Pencil Pro, packaging for Apple’s dig… [+1128 chars]"
     }
   ]
 }
