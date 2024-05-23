@@ -1,123 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 212,
+  "totalResults": 104,
   "articles": [
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Pandaily.com"
       },
-      "author": "Alex Stedman",
-      "title": "Nintendo Acquires Hogwarts Legacy Port Studio From Embracer Group - IGN",
-      "description": "Nintendo announced today that it's acquiring Shiver Entertainment, the company behind the Nintendo Switch ports of Hogwarts Legacy, Mortal Kombat 1, and more.",
-      "url": "https://www.ign.com/articles/nintendo-acquires-hogwarts-legacy-port-studio-from-embracer-group",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/20/hogwartslegacyswitch-performancereview-blogroll-1700171470079-1716249308926.jpg?width=1280",
-      "publishedAt": "2024-05-20T23:58:33Z",
-      "content": "Nintendo announced today that it's acquiring Shiver Entertainment, the company behind the Nintendo Switch ports of Hogwarts Legacy, Mortal Kombat 1, and more.\r\nThe company said in a press release tha… [+1872 chars]"
+      "author": "Pandaily",
+      "title": "OPPO Reno 12 Teaser: The First Android Phone that Can Release Live Photos - Pandaily",
+      "description": "OPPO Reno 12 series officially announces the Live Photo feature, claiming to be the 'first Android phone capable of publishing live photos'.",
+      "url": "https://pandaily.com/oppo-reno-12-teaser-the-first-android-phone-that-can-release-live-photos/",
+      "urlToImage": "https://assets.pandaily.com/uploads/2024/05/OPPO-Reno12-1.jpg",
+      "publishedAt": "2024-05-22T00:02:22Z",
+      "content": "Earlier, there were leaks that the new OPPO phone will support Live Photo feature, which can rival iPhone. On May 20th, the OPPO Reno 12 series officially announced this feature, claiming to be ‘the … [+1305 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs - TechCrunch",
+      "description": "Microsoft unveiled a new lineup of Windows machines it's calling Copilot+ PCs, plus generative AI-powered features. And new Microsoft Surface devices are on the way.",
+      "url": "https://techcrunch.com/2024/05/21/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024",
+      "publishedAt": "2024-05-21T21:29:00Z",
+      "content": "Microsoft wants to bring generative AI to the forefront of Windows and the PCs running it.\r\nAt a pair of keynotes during its annual Build developer conference this week, the company unveiled a new li… [+9438 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Microsoft Says New Surface Pro is Faster Than 15\" M3 MacBook Air - MacRumors",
-      "description": "Microsoft is going all in on AI, today introducing a series of Copilot+ PCs that have AI-focused hardware. The new Surface Pro is one of the first...",
-      "url": "https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/",
-      "urlToImage": "https://images.macrumors.com/t/m7ALSRPajQgdnT071SqX90fT5aA=/2000x/article-new/2024/05/microsoft-surface-pro-qualcomm.jpg",
-      "publishedAt": "2024-05-20T22:19:23Z",
-      "content": "Microsoft is going all in on AI, today introducing a series of Copilot+ PCs that have AI-focused hardware. The new Surface Pro is one of the first Copilot+ PCs, equipped with Qualcomm's Arm-based Sna… [+1610 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Does anyone really need a 1000 Hz gaming display? - Ars Technica",
-      "description": "TCL's ultra-fast 4K LCD prototype has us musing about diminishing smoothness returns.",
-      "url": "https://arstechnica.com/gaming/2024/05/does-anyone-really-need-a-1000-hz-gaming-display/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1447259383-760x380.jpg",
-      "publishedAt": "2024-05-20T22:13:09Z",
-      "content": "Enlarge/ A better monitor refresh rate might help with all that motion blurring...\r\n36\r\nJust a couple of years ago, companies like Nvidia were talking up prototype 500 Hz gaming monitors as having \"b… [+3830 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode",
-      "title": "Apple's Photo Bug Exposes the Myth of 'Deleted' - WIRED",
-      "description": "An Apple Photos glitch, now fixed, is a reminder that digital bits of your life will live on forever.",
-      "url": "https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/",
-      "urlToImage": "https://media.wired.com/photos/664b9f478e005a5d3194c25f/191:100/w_1280,c_limit/Deleted-Photos-Gear-GettyImages-97239899.jpg",
-      "publishedAt": "2024-05-20T21:57:33Z",
-      "content": "And even when its not a bug, theres the simple fact that your photos are stored on both your device and someone elses cloud. You do not own that cloud. You rent it from giant tech companies, every mo… [+3583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
+        "name": "Itmedia.co.jp"
       },
       "author": null,
-      "title": "Android 15 Beta 2 fully restores Cast volume controls for speaker groups on Pixel phones - Android Authority",
-      "description": "With the release of Android 15 Beta 2, Pixel phones can once again control the volume of Google Home speaker groups while casting.",
-      "url": "https://www.androidauthority.com/pixel-speaker-group-volume-control-3445010/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-TV-logo-on-smartphone-next-to-Chromecast-devices-and-remote-Stock-photo-3.jpg",
-      "publishedAt": "2024-05-20T21:13:41Z",
-      "content": "<ul><li>With the release of Android 15 Beta 2, Pixel phones can once again control the volume of Google Home speaker groups while casting.</li><li>Google intentionally disabled this functionality on … [+4326 chars]"
+      "title": "Microsoft、YouTubeなどの動画のAI採用リアルタイム吹き替え機能をEdgeで提供へ - ITmedia NEWS",
+      "description": "Microsoft・ｽﾍ「Build 2024・ｽv・ｽﾅ、・ｽuEdge・ｽv・ｽﾌ・ｿｽ・ｽA・ｽ・ｽ・ｽ^・ｽC・ｽ・ｽ・ｽ|・ｽ・ｽ@・ｽ\\・ｽｭ表・ｽ・ｽ・ｽ・ｽ・ｽBAI・ｽ・ｽ・ｽﾌ用・ｽ・ｽ・ｽAYouTube・ｽ窿搾ｿｽC・ｽ^・ｽ[・ｽﾌ難ｿｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽ・ｽﾖゑｿｽ・ｽﾆ趣ｿｽ・ｽ・ｽ・ｽﾅ翻・ｽｷゑｿｽB・ｽﾔゑｿｽ・ｽﾈゑｿｽ・ｽ・ｽ・ｽp・ｽﾂ能・ｽﾉなゑｿｽA・ｽ・ｽ・ｽ・ｽ・ｽI・ｽﾉは難ｿｽ・ｽ{・ｽ・ｽ・ｽ・ｽT・ｽ|・ｽ[・ｽg・ｽ・ｽ・ｽ…",
+      "url": "https://www.itmedia.co.jp/news/articles/2405/22/news089.html",
+      "urlToImage": "https://image.itmedia.co.jp/news/articles/2405/22/cover_news089.jpg",
+      "publishedAt": "2024-05-21T21:05:00Z",
+      "content": "@Microsoft521inAJNJcuMicrosoft Build 2024vuWebuEUuEdgevAIA^C|@\\BYouTubeAA^CB\r\n@YouTubeALinkedInAReutersACNBC NewsABloombergACourserapB\r\n@XyCpAphCcAqfB[AC^AAVAAXyCAXyCpT|[gAIpvB\r\n@EdgeN12YouTubev@\\A\\X… [+100 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "CNET"
       },
-      "author": "Ethan Gach",
-      "title": "Pokémon YouTuber Sells His Cards To GameStop And It's A Mess - Kotaku",
-      "description": "GameStop has started selling Pokémon cards and other rare collectibles",
-      "url": "https://kotaku.com/pokemon-card-trade-in-gamestop-youtube-leonhart-1851489326",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bd803a2f91910cb1040cf36398b7d977.jpg",
-      "publishedAt": "2024-05-20T20:50:00Z",
-      "content": "In a surprise twist, GameStop recently announced internally that some of its stores would begin buying and selling graded collectibles like Pokémon cards. There were immediately a bunch of questions … [+2759 chars]"
+      "author": null,
+      "title": "Sonos Releases New Roam 2 Speaker With Simplified Bluetooth Connectivity - CNET",
+      "description": "The updated version of Sonos' smallest portable speaker looks almost the same as the original but makes it easier to switch between your home WiFi network and Bluetooth.",
+      "url": "https://www.cnet.com/tech/home-entertainment/sonos-releases-new-roam-2-speaker-with-simplified-bluetooth-connectivity/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9bbe654a0fd59075aab8d5b40bb65f9e37af41cb/hub/2024/05/21/d8201831-0e47-4aa6-8d54-610dd5ab7261/sonos-roam-2-colors.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-21T17:33:00Z",
+      "content": "Sonos's original Roam speaker sounded very good for its compact size, but many users complained that it was tricky to go from WiFi mode at home and Bluetooth mode on the go. With the release of the t… [+2270 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Nathan Edwards",
-      "title": "Samsung’s first Copilot Plus PC is the Galaxy Edge4 Book - The Verge",
-      "description": "The Galaxy Edge4 Book comes in both 14- and 16-inch varieties, with AMOLED touchscreens and Snapdragon X Elite processors.",
-      "url": "https://www.theverge.com/2024/5/20/24161018/samsung-copilot-plus-pc-free-tv-preorder",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/D_jfexI0F2HNn_Xvd-6h0V1KFxI=/0x0:1433x1065/1200x628/filters:focal(717x533:718x534)/cdn.vox-cdn.com/uploads/chorus_asset/file/25456865/samsung_galaxy_ai_book4edge.jpg",
-      "publishedAt": "2024-05-20T20:28:53Z",
-      "content": "Samsungs first Copilot Plus PC comes with a free TV\r\nSamsungs first Copilot Plus PC comes with a free TV\r\n / But only if you preorder and only for a limited time.\r\nByNathan Edwards, a senior reviews … [+1818 chars]"
+      "author": "Emma Roth",
+      "title": "Google's AI search results are already getting ads - The Verge",
+      "description": "Google will soon start testing ads in AI Overviews, the feature that shows an AI-generated summary in search results.",
+      "url": "https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+      "publishedAt": "2024-05-21T16:55:38Z",
+      "content": "Googles AI search results are already getting ads\r\nGoogles AI search results are already getting ads\r\n / The new AI Overviews ads are coming to users in the US.\r\nByEmma Roth, a news writer who covers… [+1304 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Digital Trends"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Luke Larsen",
-      "title": "The MacBook monopoly just got overturned - Digital Trends",
-      "description": "Microsoft's new Copilot+ PCs are faster and longer lasting than the MacBook Air.",
-      "url": "https://www.digitaltrends.com/computing/copilot-pcs-microsofts-answer-to-macbook/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/05/copilot-pcs-01.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2024-05-20T20:20:41Z",
-      "content": "Luke Larsen / Digital Trends\r\nMacBooks have had a good ride.\r\nIt’s been four years of running circles around Intel, AMD, Microsoft, and every laptop manufacturer with their Apple Silicon ARM chips. U… [+6536 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "M4 iPad Pro teardown finds easier-to-access battery, glimpses of Tandem OLED design - Ars Technica",
-      "description": "Straightforward tablet teardown is followed by a comically difficult Pencil one.",
-      "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-teardown-finds-easier-to-access-battery-glimpses-of-tandem-oled-design/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/iPad-Pro-teardown-battery-760x380.png",
-      "publishedAt": "2024-05-20T19:35:48Z",
-      "content": "22\r\niFixit's M4 iPad Pro teardown.\r\nRight on schedule for past releases, iFixit has done a teardown of Apple's new, redesigned iPad Pro. It found that the iPad itself has one big improvement in repai… [+1837 chars]"
+      "author": "Sean Hollister",
+      "title": "Here's the eight-inch Snapdragon PC for your Windows on Arm experiments - The Verge",
+      "description": "Qualcomm is selling a Snapdragon Dev Kit with a Snapdragon X Elite chip — it’s an eight-inch PC that’ll cost $900 for the Mac Mini / NUC of Windows on Arm.",
+      "url": "https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ymxPCQ_mDnO4iQS7uPTOgE_xRSs=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25458267/Snapdragon_Dev_Kit_for_Windows___Transparent_look.jpg",
+      "publishedAt": "2024-05-21T16:10:10Z",
+      "content": "Heres the eight-inch Snapdragon PC for your Windows on Arm experiments\r\nHeres the eight-inch Snapdragon PC for your Windows on Arm experiments\r\n / The 2024 Snapdragon Dev Kit will ship June 18th.\r\nBy… [+1879 chars]"
     },
     {
       "source": {
@@ -125,103 +86,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Microsoft CEO on How New Windows AI Copilot+ PCs Beat Apple's Macs | WSJ - The Wall Street Journal",
-      "description": "Microsoft’s new Copilot+ PCs with Qualcomm chips and AI Windows features aim to beat Apple’s MacBooks. WSJ’s Joanna Stern tried out the new laptops and sat d...",
-      "url": "https://www.youtube.com/watch?v=uHEPBzYick0",
-      "urlToImage": "https://i.ytimg.com/vi/uHEPBzYick0/maxresdefault.jpg",
-      "publishedAt": "2024-05-20T19:22:22Z",
+      "title": "Elden Ring Shadow of the Erdtree Story Trailer Breakdown and Lore Discussion - GameSpot",
+      "description": "From Software and Bandai Namco have released a new cinematic story trailer for Elden Rings DLC. Dave, Lucy, and Tamoor go through it and pull out all the hid...",
+      "url": "https://www.youtube.com/watch?v=cQDNmDiWZiw",
+      "urlToImage": "https://i.ytimg.com/vi/cQDNmDiWZiw/maxresdefault.jpg",
+      "publishedAt": "2024-05-21T16:07:44Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "YouTube"
       },
-      "author": "Sheena Vasani",
-      "title": "The latest 13-inch MacBook Air has dropped to a new all-time low - The Verge",
-      "description": "Apple’s latest 13-inch MacBook Air is currently $150 off in multiple configurations. We also found steep discounts on the Echo Show 8 and various DirecTV Stream packages.",
-      "url": "https://www.theverge.com/2024/5/20/24160755/apple-macbook-air-13-inch-m3-directvstream-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/__XxEX3j4TfRQgvigfz1o8fz6ZA=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25456522/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
-      "publishedAt": "2024-05-20T19:21:51Z",
-      "content": "The latest 13-inch MacBook Air has dropped to a new all-time low\r\nThe latest 13-inch MacBook Air has dropped to a new all-time low\r\n / Plus, new subscribers can save up to $90 on a three-month subscr… [+3010 chars]"
+      "author": null,
+      "title": "Paper Mario: The Thousand-Year Door — Launch Trailer — Nintendo Switch - Nintendo of America",
+      "description": "Pre-order: https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/?utm_source=SW-AA&utm_medium=soyt&utm_campaign=N1132-01&utm_i...",
+      "url": "https://www.youtube.com/watch?v=1CSAQ8UxK64",
+      "urlToImage": "https://i.ytimg.com/vi/1CSAQ8UxK64/maxresdefault.jpg",
+      "publishedAt": "2024-05-21T16:00:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "Google Search's New AI Overviews Will Soon Have Ads - WIRED",
+      "description": "Google is set to start mixing ads into its new AI-generated search answers. It’s a test of how the company’s biggest revenue stream can adapt to the age of generative AI.",
+      "url": "https://www.wired.com/story/google-search-ai-overviews-ads/",
+      "urlToImage": "https://media.wired.com/photos/664bdc33980aa51a80ac3a0a/191:100/w_1280,c_limit/Google-Overview-AI-Ads-Business-2152425668.jpg",
+      "publishedAt": "2024-05-21T16:00:00Z",
+      "content": "Last week Google introduced a radical shake-up of search that presents users with AI-generated answers to their queries. Now the company says it will soon start including ads inside those AI Overview… [+2317 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "9to5google.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "iPhone 17 Ultra could be the next iPhone X moment - 9to5Mac",
-      "description": "Reports of a new ultra-thin and ultra-premium iPhone 17 model sound very much like an iPhone 17 Ultra is coming. Here’s what it might bring.",
-      "url": "https://9to5mac.com/2024/05/20/iphone-17-ultra-could-be-next-iphone-x-moment/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/5B13C442-3FC6-40A3-9221-09CFA188E227.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-20T19:20:00Z",
-      "content": "I still remember my first moments with an iPhone X. It felt like something from the future: the OLED display, Face ID, all-screen design, new UX paradigms for navigation. The iPhone X truly was a lea… [+3820 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notateslaapp.com"
-      },
-      "author": "Karan Singh",
-      "title": "Tesla Is Removing Steam Gaming in New Model S and Model X Vehicles - Not a Tesla App",
-      "description": "Tesla drops Steam support in new Model S/X vehicles, likely due to cost cutting. Future gaming might focus on Arcade Mode and potential HDMI pass-through.",
-      "url": "https://www.notateslaapp.com/news/2029/tesla-is-removing-steam-gaming-in-new-model-s-and-model-x-vehicles",
-      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/2022/steam-2.jpg/e32c9c0e7fb13c1781fd660afadb98b0.jpg",
-      "publishedAt": "2024-05-20T19:13:00Z",
-      "content": "May 20, 2024 \r\nTesla is no longer including Steam support in any of its newer Model S and Model X vehicles, according to messages received by customers who are awaiting deliveries of the flagship veh… [+9152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "S Aadeetya",
-      "title": "Pixel 8a Could Be Google’s Way To End The Series Soon: Here’s Why - News18",
-      "description": "Pixel 8a was launched this month and its focus in the US and Indian market could not be any more different when you look at their price tags in the region.",
-      "url": "https://www.news18.com/tech/pixel-8a-could-be-googles-way-to-end-the-series-soon-heres-why-8897052.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/05/pixel-8a-pricing-issue-india-2024-05-c88abae6cc07c335a826d69c72fc7f94-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-05-20T18:54:51Z",
-      "content": "Google launched the Pixel 8a version earlier this month and the pricing announced at the event was in line with the expectations. However, the Pixel 8a India price did surprise and even shock many of… [+2187 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "Ninja Theory Studio Head Sends Heartfelt Message to Hellblade 2 Fans - IGN",
-      "description": "A day before Hellblade 2 releases, Ninja Theory Studio head Dom Matthews shared a heartfelt message to fans for their support and excitement to play the next chapter in the Hellblade franchise.",
-      "url": "https://www.ign.com/articles/ninja-theory-studio-head-sends-heartfelt-message-to-hellblade-2-fans",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/20/senuasagahellblade2launchtrailer-ign-blogroll-1716213168256.jpg?width=1280",
-      "publishedAt": "2024-05-20T18:26:33Z",
-      "content": "With less than a day until Senua's Saga: Hellblade 2 releases, Ninja Theory studio head Dom Matthews has issued a heartfelt statement to fans. \r\nPosted on the official Ninja Theory X account, Matthew… [+1998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Samuel Tolbert, Jez Corden",
-      "title": "\"Making video games is difficult.\" Ninja Theory studio head talks at the fore of Senua's Saga: Hellblade 2's Xbox and PC launch - Windows Central",
-      "description": "Ninja Theory studio head Dom Matthews shares a message with players on Senua's Saga: Hellblade 2.",
-      "url": "https://www.windowscentral.com/gaming/xbox/making-video-games-is-difficult-ninja-theory-studio-head-talks-at-the-fore-of-senuas-saga-hellblade-2s-xbox-and-pc-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cYUfTgotdVvTNAnZLGS5Df-1200-80.jpg",
-      "publishedAt": "2024-05-20T18:23:37Z",
-      "content": "What you need to know\r\n<ul><li>Ninja Theory's Senua's Saga: Hellblade 2 is launching on Xbox Series X|S, Windows PC, and Xbox Game Pass on May 21, 2024. </li><li>Ahead of the game's arrival, Ninja Th… [+2978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pocket-lint"
-      },
-      "author": "Roger Fingas",
-      "title": "Sonos' long-awaited, first-ever headphones should be officially announced soon - Pocket-lint",
-      "description": "They could ship sooner than people were predicting.",
-      "url": "https://www.pocket-lint.com/sonos-headphones-should-be-announced-may-21/",
-      "urlToImage": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/05/untitled-design-2024-05-20t143014-374.jpg",
-      "publishedAt": "2024-05-20T18:18:00Z",
-      "content": "Key Takeaways\r\n<ul><li> Sonos should unveil the Ace, its first pair of headphones, on May 21 at 6 AM Pacific, possibly priced at $449. </li><li> Features should include USB-C, Wi-Fi, and Bluetooth, b… [+2756 chars]"
+      "author": "Damien Wilde",
+      "title": "Upgrade paths: Pixel 6a vs. Pixel 8a [Video] - 9to5Google",
+      "description": "Is the new Pixel 8a worth upgrading from the Pixel 6a? We compare cameras, AI features, performance & software support to help you decide!",
+      "url": "http://9to5google.com/2024/05/21/pixel-6a-vs-pixel-8a/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-Pixel-6a-Rear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-21T16:00:00Z",
+      "content": "The Pixel 6a brought sleek design and Google’s signature camera smarts to the mid-range market. Now, the brand new Pixel 8a is here, tempting Pixel 6a owners with the promise of even more. But is it … [+11866 chars]"
     },
     {
       "source": {
@@ -229,38 +138,129 @@
         "name": "Search Engine Journal"
       },
       "author": "Matt G. Southern",
-      "title": "Google CEO Addresses Concerns Over AI's Impact On Search Traffic - Search Engine Journal",
-      "description": "Google CEO downplays concerns over AI search impacting website traffic, claims it drives more engagement.",
-      "url": "https://www.searchenginejournal.com/google-ceo-addresses-concerns-over-ais-impact-on-search-traffic/516842/",
-      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/05/img_2024-05-20-140740-536.jpeg",
-      "publishedAt": "2024-05-20T18:11:32Z",
-      "content": "In a recent interview, Google CEO Sundar Pichai discussed the company’s implementation of AI in search results and addressed concerns from publishers and website owners about its potential impact on … [+3283 chars]"
+      "title": "Google Won't Commit To AI Search Traffic Data In Search Console - Search Engine Journal",
+      "description": "Google won’t commit to providing websites with Search Console data on traffic generated from AI search results.",
+      "url": "https://www.searchenginejournal.com/google-wont-commit-to-ai-search-traffic-data-in-search-console/516956/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/05/img_2024-05-21-115445-682.jpeg",
+      "publishedAt": "2024-05-21T15:58:25Z",
+      "content": "In a recent interview, Google CEO Sundar Pichai sidestepped questions about whether the company would provide website owners with more granular data on traffic from AI-generated search previews.\r\nAs … [+4427 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Vox"
+        "name": "Thomsonreuters.com"
       },
-      "author": "Edward Vega",
-      "title": "Is there a better way to use your phone at night? - Vox.com",
-      "description": "And does the night shift setting actually work?",
-      "url": "https://www.vox.com/videos/2024/5/20/24158516/better-way-phone-night-sleep-screen-light",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_HUw8dr1CpoicTIZaMUokxm4F6M=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25451747/VDC_XEC_039_night_shift_effectiveness_THUMB_CLEAN.jpg",
-      "publishedAt": "2024-05-20T18:10:00Z",
-      "content": "Weve all heard that using our phones before bed is bad for us, but do we actually know why? \r\nOne of the most commonly cited reasons is that our phones blue light is disrupting our ability to fall as… [+837 chars]"
+      "author": null,
+      "title": "Thomson Reuters showcases the power of CoCounsel combined with Microsoft Copilot during the 2024 Microsoft Build keynote - Thomson Reuters",
+      "description": "A press release from Thomson Reuters",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2024/may/thomson-reuters-showcases-the-power-of-cocounsel-combined-with-microsoft-copilot-during-the-2024-microsoft-build-keynote.html",
+      "urlToImage": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/photography/reuters/rtr1zkvu-luke-macgregor-tr.jpg.transform/rect-768/q90/image.jpg",
+      "publishedAt": "2024-05-21T15:42:44Z",
+      "content": "TORONTO, May 21, 2024 Thomson Reuters (TSX/NYSE: TRI), a global content and technology company, today brought to life the combined power of Thomson Reuters CoCounsel, its professional-grade AI Assist… [+7081 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "VentureBeat"
       },
-      "author": "Abner Li",
-      "title": "Google rolling out Android 15 Beta 2.1 with Private space fix - 9to5Google",
-      "description": "Following last week's big update, Google is rolling out Android 15 Beta 2.1 today with just one fix for Private space...",
-      "url": "http://9to5google.com/2024/05/20/google-rolling-out-android-15-beta-2-1-with-private-space-fix/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Android-15-logo-Settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-20T18:07:00Z",
-      "content": "Following last week’s big update, Google is rolling out Android 15 Beta 2.1 today with just one fix for Private space.\r\nAP31.240426.023 with the May 2024 security patch is available for all supported… [+1681 chars]"
+      "author": "Ken Yeung",
+      "title": "Developers can bring their own models to Qualcomm's AI Hub - VentureBeat",
+      "description": "Qualcomm's AI Hub is allowing developers to import models and optimizing them for use in AI PCs. It also now supports Snapdragon X processors.",
+      "url": "https://venturebeat.com/ai/qualcomms-ai-hub-adds-support-for-snapdragon-x-processors-allows-developers-to-use-their-own-ai-models/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/05/Qualcomm-AI-Hub-for-Snapdragon-X-Series-Platforms-Image.jpg?w=1200&strip=all",
+      "publishedAt": "2024-05-21T15:30:00Z",
+      "content": "Join us in returning to NYC on June 5th to collaborate with executive leaders in exploring comprehensive methods for auditing AI models regarding bias, performance, and ethical compliance across dive… [+2137 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Microsoft upgrades its AI app-building platforms - TechCrunch",
+      "description": "Microsoft has rolled out upgrades for Azure AI Studio and Copilot Studio, its bot- and agent-building platforms for enterprise customers.",
+      "url": "https://techcrunch.com/2024/05/21/microsoft-upgrades-its-ai-app-building-platforms/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/microsoft-midnight-blizzard-hack.jpg?resize=1200,800",
+      "publishedAt": "2024-05-21T15:30:00Z",
+      "content": "Microsoft’s big focus at this year’s Build conference is generative AI. And to that end, the tech giant announced a series of updates to its platforms for building generative AI-powered apps and expe… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Microsoft Edge will translate and dub YouTube videos as you're watching them - The Verge",
+      "description": "Microsoft Edge is getting a new AI video translation feature that works on sites like YouTube, LinkedIn, Coursera, and more.",
+      "url": "https://www.theverge.com/2024/5/21/24160664/microsoft-edge-real-time-video-translation-ai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/7TVI7hihAWvwwvwfpcw31Kh4syo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg",
+      "publishedAt": "2024-05-21T15:30:00Z",
+      "content": "Microsoft Edge will translate and dub YouTube videos as youre watching them\r\nMicrosoft Edge will translate and dub YouTube videos as youre watching them\r\n / It will also support AI dubbing and subtit… [+1505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "VentureBeat",
+      "title": "Qualcomm unveils Snapdragon Dev Kit for Windows - VentureBeat",
+      "description": null,
+      "url": "https://venturebeat.com/ai/qualcomms-snapdragon-dev-kit-is-a-compact-pc-designed-to-help-create-ai-apps-for-windows/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-21T15:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Frederic Lardinois",
+      "title": "Microsoft's Power Automate no-code platform adds AI flows - TechCrunch",
+      "description": "Microsoft wants to put its Copilot everywhere. It's only a matter of time before Microsoft renames its annual Build developer conference to Microsoft",
+      "url": "https://techcrunch.com/2024/05/21/microsofts-power-automate-no-code-platform-adds-ai-flows/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1173107666.jpg?resize=1200,800",
+      "publishedAt": "2024-05-21T15:30:00Z",
+      "content": "Microsoft wants to put its Copilot everywhere. It’s only a matter of time before Microsoft renames its annual Build developer conference to Microsoft Copilot. Hopefully, some of those upcoming events… [+2125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Nathan Birch",
+      "title": "Senua’s Saga: Hellblade II Can’t Consistently Maintain its 30fps Target on Xbox Series X/S - Wccftech",
+      "description": "Senua's Saga: Hellblade II is only 30fps on Xbox Series X/S, but at least it's a consistent 30fps, right? Well, about that...",
+      "url": "https://wccftech.com/senuas-saga-hellblade-ii-performance-analysis-xbox-series-x-can-not-maintain-30fps/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/05/WCCFsenuassagahellblade26.jpg",
+      "publishedAt": "2024-05-21T15:13:00Z",
+      "content": "Senuas Saga: Hellblade II is out now, and on PC, its a demanding but visually dazzling experience if youve got the hardware (check out Alessios review of the game running on an RTX 4090 here), but wh… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ro",
+      "title": "iPhone 16 Pro to get two new cameras, Pro Max will bring improved ultrawide - GSMArena.com news - GSMArena.com",
+      "description": "Both handsets are getting significant camera upgrades. According to a tipster on Weibo, the iPhone 16 Pro and Pro Max are getting a substantial camera...",
+      "url": "https://www.gsmarena.com/iphone_16_pro_lineup_to_get_a_significant_camera_upgrade-news-62966.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/apple-iphone-15-pro-max-dxo/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-05-21T15:09:01Z",
+      "content": "According to a tipster on Weibo, the iPhone 16 Pro and Pro Max are getting a substantial camera upgrade. The former is supposed to get a new 48MP ultrawide camera with better capabilities, while the … [+396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Elden Ring Shadow of the Erdtree - Official Story Trailer - IGN",
+      "description": "Watch the Elden Ring Shadow of the Erdtree trailer for a look at the upcoming Elden Ring DLC story.In the Land of Shadow, a place obscured by the Erdtree, Em...",
+      "url": "https://www.youtube.com/watch?v=sNgER9MVNFs",
+      "urlToImage": "https://i.ytimg.com/vi/sNgER9MVNFs/maxresdefault.jpg",
+      "publishedAt": "2024-05-21T15:06:51Z",
+      "content": null
     }
   ]
 }
