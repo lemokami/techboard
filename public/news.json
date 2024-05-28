@@ -1,97 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 237,
+  "totalResults": 269,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Deccan Herald"
+        "name": "Hackaday"
       },
-      "author": "Nalini S Malaviya",
-      "title": "Metaphors for inner conflicts - Deccan Herald",
-      "description": "Metaphors for inner conflicts",
-      "url": "https://www.deccanherald.com/features/art-and-culture/metaphors-for-inner-conflicts-3037284",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-05%2F8bd9f6d4-fbe4-49b3-abfa-d6e965ee31dc%2Ffile7venmqtj0rko1cmuipx.jpg?rect=0%2C26%2C2738%2C1437&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2024-05-25T21:37:22Z",
-      "content": "Bricks have been used by several artists to make sculptures and installations, especially in public spaces. A much-cited instance is of artist Jorge Méndez Blake, who in 2007, created a massive 75-fo… [+572 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ardhra Nair",
-      "title": "Loving the stars to OpenAI star: Journey of Pune boy who realised Altman’s vision - The Times of India",
-      "description": "India News: Alka Dhariwal, based in San Francisco, played a crucial role in her son Prafulla Dhariwal's journey from Pune to becoming a key contributor at OpenAI'",
-      "url": "https://timesofindia.indiatimes.com/india/loving-the-stars-to-openai-star-journey-of-pune-boy-who-realised-altmans-vision/articleshow/110427952.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110427962,width-1070,height-580,imgsize-1407605,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-05-25T21:29:00Z",
-      "content": "10 common mistakes of Indian parenting and their solutions"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "A jury hands Bungie a landmark victory in a Destiny 2 cheating lawsuit - The Verge",
-      "description": "Bungie is owed more than $60,000 by the company that owns AimJunkies, a site offering gaming cheats, along with four defendants it accused of being involved.",
-      "url": "https://www.theverge.com/2024/5/25/24164679/bungie-anti-cheating-lawsuit-jury-trial-aimjunkies-copyright-violation-victory",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nCbPVRPxiSUj5hf2zvPw61b9Ck0=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24870278/2023_Final_Shape_Reveal_Press_Kit_Standard_Key_Art_16x9.jpg",
-      "publishedAt": "2024-05-25T19:21:18Z",
-      "content": "A jury hands Bungie a victory in a landmark anti-cheating decision\r\nA jury hands Bungie a victory in a landmark anti-cheating decision\r\n / It may be the first time a jury has decided that cheating so… [+2094 chars]"
+      "author": "Maya Posch",
+      "title": "ICQ Will Shut Down On June 26 This Year - Hackaday",
+      "description": "In many ways, ICQ has always been a bit of a curiosity. It was one of the first major instant messenger clients of the 1990s. It saw broad uptake alongside the likes of AOL Instant Messenger and MS…",
+      "url": "https://hackaday.com/2024/05/26/icq-will-shut-down-on-june-26-this-year/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/05/icq_2001b_screenshot.jpg",
+      "publishedAt": "2024-05-26T20:00:00Z",
+      "content": "In many ways, ICQ has always been a bit of a curiosity. It was one of the first major instant messenger clients of the 1990s. It saw broad uptake alongside the likes of AOL Instant Messenger and MSN … [+1254 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "author": "Abner Li",
-      "title": "Tensor G5 development at TSMC for Pixel 10 progressing - 9to5Google",
-      "description": "Last year, Google's switch to TSMC for the Tensor G5 was reported, and additional confirmation today shows that work for the Pixel 10...",
-      "url": "http://9to5google.com/2024/05/25/pixel-10-tensor-g5-tsmc/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/09/first-google-pixel-6-ad-7.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-25T18:30:00Z",
-      "content": "In July of 2023, Google’s switch from Samsung to TSMC for the Tensor G5 was definitively reported, and additional confirmation today shows that work towards the Pixel 10 is continuing. \r\nThe Informat… [+2149 chars]"
+      "author": "Hartley Charlton",
+      "title": "Gurman: iOS 18 Will Allow Users to Recolor App Icons and Place Them Anywhere - MacRumors",
+      "description": "Apple's iOS 18 update will introduce new features for further customizing the iPhone's home screen, according to Bloomberg's Mark Gurman....",
+      "url": "https://www.macrumors.com/2024/05/26/ios-18-to-allow-users-to-recolor-app-icons/",
+      "urlToImage": "https://images.macrumors.com/t/mjC1_SICu40G5Yhmin3ltYf1Tww=/2500x/article-new/2024/03/iOS-18-WWDC-24-Feature-2.jpg",
+      "publishedAt": "2024-05-26T19:22:26Z",
+      "content": "Apple's iOS 18 update will introduce new features for further customizing the iPhone's home screen, according to Bloomberg's Mark Gurman.\r\nIn the latest edition of his \"Power On\" newsletter, Gurman c… [+697 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Jagran.com"
+        "name": "Timeextension.com"
       },
-      "author": "Vikas Yadav",
-      "title": "Google Taking Swift Action After AI-Powered Search Claims Obama Is Muslim, Cats And Astronauts Played On Moon - Jagran English",
-      "description": "Since Googles AI Overviews started reaching the public in the US, it has been a hotbed of criticism. After asking users to eat rocks and put glue on pizza, the AI claimed Barack Obama is a Muslim. Plus, the tool told an AP reporter that astronauts and cats pl…",
-      "url": "https://english.jagran.com/technology/google-taking-swift-action-after-ai-powered-search-claims-obama-is-muslim-cats-and-astronauts-played-on-moon-10162946",
-      "urlToImage": "https://imgeng.jagran.com/images/2024/05/25/article/image/barack-obama-ai-overview-1716657176804.jpg",
-      "publishedAt": "2024-05-25T17:03:00Z",
-      "content": "Google showcased AI Overviews at its Google I/O 2024 event. Since the feature started reaching the public, it has been a hot topic of discussion due to its inaccurate information. Soon after recommen… [+1884 chars]"
+      "author": "Damien McFerran",
+      "title": "32 Years Later, Super Mario Kart Gets Fan-Made 'Horizons' Expansion - Time Extension",
+      "description": "\"Race across new courses in brand new custom locations\"",
+      "url": "https://www.timeextension.com/news/2024/05/32-years-later-super-mario-kart-gets-fan-made-horizons-expansion",
+      "urlToImage": "https://images.timeextension.com/2d2b86dc82b71/1280x720.jpg",
+      "publishedAt": "2024-05-26T18:30:00Z",
+      "content": "Subscribe to Time Extension on YouTube1.5k\r\nA new Rom Hack for Super Mario Kart has massively expanded the game 32 years after it originally launched on the SNES.\r\nCreated by gridatttack, Super Mario… [+2194 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Livemint"
       },
-      "author": null,
-      "title": "WhatsApp News | How To Ensure Your WhatsApp Chats Remain Private, And Are Not Seen By Unwanted Eyes - NDTV",
-      "description": "In order to prevent prying eyes from looking at your phone, its important to use a strong passcode. For those times when you have to hand over your phone to ...",
-      "url": "https://www.youtube.com/watch?v=T02hQ7t_dmA",
-      "urlToImage": "https://i.ytimg.com/vi/T02hQ7t_dmA/maxresdefault.jpg",
-      "publishedAt": "2024-05-25T16:30:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Elycia Rubin",
-      "title": "Beyond Botox: Hollywood’s Secret New Beauty Hacks - Hollywood Reporter",
-      "description": "Big lips and blinding choppers are out. Earlobe fillers and implant-free breasts are in. An inside guide to L.A.’s hottest cosmetic surgery trends.",
-      "url": "http://www.hollywoodreporter.com/lifestyle/style/guide-hollywood-secret-new-beauty-hacks-1235905399/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/15town_beauty-MAIN.jpg?w=1024",
-      "publishedAt": "2024-05-25T16:00:26Z",
-      "content": "In Hollywood, as unnatural butt lifts and overplumped lips (mostly) fall out of favor, a host of aesthetic treatments promise to give more natural-looking results, whether that means resetting brows,… [+15937 chars]"
+      "author": "Livemint",
+      "title": "Apple iOS 18 to introduce AI-powered ‘Emoji Customization,’ suggests Mark Gurman | Mint - Mint",
+      "description": "Mark Gurman previews Apple's upcoming iOS 18 and macOS 15 in his Power On newsletter. iOS 18 will introduce AI-generated custom emojis, improved home screen customization, and AI enhancements in various applications.",
+      "url": "https://www.livemint.com/technology/tech-news/apple-ios-18-to-introduce-ai-powered-emoji-customization-suggests-mark-gurman-11716744758126.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/26/1600x900/wall_street_regulators_emojis_1688037789381_1716744992831.JPG",
+      "publishedAt": "2024-05-26T17:42:25Z",
+      "content": "Mark Gurman from Bloomberg has shed light on what to anticipate from Apples upcoming iOS 18 and macOS 15, as detailed in the latest edition of his Power On newsletter. According to Gurman, one of the… [+2652 chars]"
     },
     {
       "source": {
@@ -109,145 +70,145 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Neowin"
       },
-      "author": "Paul Tassi",
-      "title": "'Diablo 4' Season 4 Is The Most Addicted To Diablo I've Been In A Decade - Forbes",
-      "description": "Diablo 4 never got me all the way addicted until the launch of season 4 now, given the gearing process and endgame goals they've now laid out.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/05/25/diablo-4-season-4-is-the-most-addicted-to-diablo-ive-been-in-a-decade/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665200a4eccc303c829c2c69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-05-25T15:28:25Z",
-      "content": "Diablo 4\r\nBlizzard\r\nI have been truly addicted to very few games in my life. You could argue one of them is a constant, low-level addiction to keeping up Destiny 1 and 2, but that doesnt usually invo… [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "“I’ve seen it firsthand…”: Tim Cook on shares what people feel when they “try Vision Pro for first time” - The Times of India",
-      "description": "TECH NEWS : Apple CEO Tim Cook highlighted the impact of Vision Pro VR headset, emphasizing users' significant reactions. Apple won a Black Pencil at D&AD Awards",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ive-seen-it-firsthand-tim-cook-on-shares-what-people-feel-when-they-try-vision-pro-for-first-time/articleshow/110425725.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110425711,width-1070,height-580,imgsize-787882,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-05-25T15:26:00Z",
-      "content": null
+      "author": "Taras Buria",
+      "title": "Windows 11 24H2's exclusive AI feature Recall has already been ported to existing hardware - Neowin",
+      "description": "Windows 11 version 24H2&#039;s best feature, Recall, requires new hardware, namely a Copilot+ PC. However, to no one&#039;s surprise, enthusiasts have already backported it to existing, even low-end hardware.",
+      "url": "https://www.neowin.net/news/windows-11-24h2s-exclusive-ai-feature-recall-has-already-been-ported-to-existing-hardware/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1716233015_recall_story.jpg",
+      "publishedAt": "2024-05-26T17:16:00Z",
+      "content": "Recall, the feature Microsoft announced for Windows 11 at its May 20 event, is certainly an interesting addition to the operating system. Unfortunately, getting your hands on it requires buying one o… [+1998 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "CNET"
       },
-      "author": "Sagar",
-      "title": "Samsung Galaxy F55's price surfaces ahead of launch - GSMArena.com news - GSMArena.com",
-      "description": "It's a rebranded Galaxy C55. The Samsung Galaxy F55's May 17 launch was postponed to May 27, and while Samsung revealed the phone would be priced between...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_f55_india_price_surfaces-news-63005.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/samsung-galaxy-f55-renders-key-specs-geekbench/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2024-05-25T14:01:01Z",
-      "content": "The Samsung Galaxy F55's May 17 launch was postponed to May 27, and while Samsung revealed the phone would be priced between INR20,000 ($240/220) and INR29,999 ($360/330) in India, it didn't reveal t… [+953 chars]"
+      "author": null,
+      "title": "We've Found the Best Apple Deals this Memorial Day - CNET",
+      "description": "Memorial Day shoppers can snag some noteworthy discounts on a variety of Apple products.",
+      "url": "https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-26/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/adc47a1f7daf76132323ac1e6ce799af1b5c1eaa/hub/2024/05/23/5b0b434c-60c6-4176-a8aa-82e12fe7bf4c/apple-memorial-day-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-26T16:41:00Z",
+      "content": "Looking to save on some of Apple's top products? Apple itself may not have the price cuts you're looking for, but retailers like Amazon, Best Buy, and Walmart are running massive Memorial Day sales t… [+2443 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Medium"
       },
-      "author": "Alex Battaglia",
-      "title": "Ghost of Tsushima on PC delivers impressive upgrades over PS5 - Eurogamer",
-      "description": "Ghost of Tsushima PC vs PS5, best settings and more in the Digital Foundry tech review.",
-      "url": "https://www.eurogamer.net/digitalfoundry-2024-ghost-of-tsushima-on-pc-delivers-impressive-upgrades-over-ps5",
-      "urlToImage": "https://assetsio.gnwcdn.com/TSUSHIMA-SITEE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-05-25T14:00:00Z",
-      "content": "Four years after its initial PS4 release, Sucker Punch's Ghost of Tsushima arrives on PC, ported by Nixxes Software. Initial impressions of the port were favourable, but having now spent around a wee… [+9243 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "David Nield",
-      "title": "How to Keep an Old Computer Running - WIRED",
-      "description": "You have options that don’t involve saying goodbye to your hardware.",
-      "url": "https://www.wired.com/story/how-to-keep-an-old-computer-running/",
-      "urlToImage": "https://media.wired.com/photos/6650bd52675222084c361767/191:100/w_1280,c_limit/Everything-You-Can-Do-to-Keep-an-Old-Computer-Running-Gear-GettyImages-1395337680.jpg",
-      "publishedAt": "2024-05-25T14:00:00Z",
-      "content": "While Windows gives you the choice of keeping your personal files when you reset the OS, for the best results (on both macOS and Windows) you need a complete wipe. You're going to need to take all yo… [+3016 chars]"
+      "author": "Aditya Krishnan",
+      "title": "Google IO 2024 : Ride The AI Wave | by Aditya Krishnan | May, 2024 - Medium",
+      "description": "Attended the Google’s annual developer conference, Google I/O which was held recently, with the focus area being on how Generative AI will be transforming , reshaping the world of search through its…",
+      "url": "https://adityasrkrishnan.medium.com/google-io-2024-ride-the-ai-wave-ab511c8b74ce",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*t6TZnjfi76ABXS19NxUzoA.jpeg",
+      "publishedAt": "2024-05-26T16:40:04Z",
+      "content": "Ripple effects leading to a tsunami of product developments\r\nImage Source : Google.com\r\nAttended the Googles annual developer conference, Google I/O which was held recently, with the focus area being… [+3515 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "GamesRadar+"
       },
-      "author": "Janhoi McGregor",
-      "title": "Samsung Slashes Galaxy S24 Price In A Major New Promotion - Forbes",
-      "description": "Samsung isn't finished with the discounts yet.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2024/05/25/samsung-galaxy-s24-ultra-price-cut-galaxy-z-fold-5-discount/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6650907658e8aa35d834726d/0x0.jpg?format=jpg&crop=2858,2212,x474,y81,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-05-25T13:43:06Z",
-      "content": "SHANGHAI, CHINA - MARCH 14, 2024 - Visitors visit the Galaxy S24 phones at SAMSUNG booth at AWE2024 ... [+] in Shanghai, China, March 14, 2024. (Photo credit should read CFOTO/Future Publishing via G… [+2975 chars]"
+      "author": "Ali Jones",
+      "title": "After a string of defeats, Helldivers 2 players have defeated the Automatons on Varylia 5 to unlock the new Emancipator Exosuit mech - Gamesradar",
+      "description": "A new toy for the troops",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/after-a-string-of-defeats-helldivers-2-players-have-defeated-the-automatons-on-varylia-5-to-unlock-the-new-emancipator-exosuit-mech/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iwiCcnJmAy42uUN25ydbK7-1200-80.png",
+      "publishedAt": "2024-05-26T16:36:39Z",
+      "content": "Helldivers 2 players have completed their latest Major Order despite a recent spate of defeats, unlocking a new mech strategem in the process.\r\nEarlier today, the official Helldivers account confirme… [+1754 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Cgtn.com"
+        "name": "Business Standard"
       },
-      "author": "CGTN",
-      "title": "Science Saturday: OpenAI, pyramids, humanoid robot and solar power - CGTN",
-      "description": "OpenAI debuts GPT-4oOpenAI has unveiled GPT-4o, its newest conversational AI model. The letter \"o\" stands for \"omni.\" The new model is an update from the company's previous GPT-4 model, which launched just over a year ago.Based on the company's demonstration,",
-      "url": "https://news.cgtn.com/news/2024-05-25/Science-Saturday-OpenAI-pyramids-humanoid-robot-and-solar-power-1tTGue4miuA/p.html",
-      "urlToImage": "https://video.cgtn.com/news/2024-05-25/Science-Saturday-OpenAI-pyramids-humanoid-robot-and-solar-power-1tTGue4miuA/video/b6c184e956f84b32aa8ece1735d7e0fe/b6c184e956f84b32aa8ece1735d7e0fe-1280.jpg",
-      "publishedAt": "2024-05-25T13:39:44Z",
-      "content": "OpenAI debuts GPT-4o\r\nOpenAI has unveiled GPT-4o, its newest conversational AI model. The letter \"o\" stands for \"omni.\" The new model is an update from the company's previous GPT-4 model, which launc… [+2084 chars]"
+      "author": "Ashutosh Mishra",
+      "title": "Total recall: Microsoft feature for computers sparks privacy debate - Business Standard",
+      "description": "Recall on Copilot Plus computers will memorise and save everything that's on a PC user's screen",
+      "url": "https://www.business-standard.com/technology/tech-news/total-recall-microsoft-feature-for-computers-sparks-privacy-debate-124052600656_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/26/thumb/fitandfill/400X400/1716741083-6802.jpg",
+      "publishedAt": "2024-05-26T16:32:45Z",
+      "content": "Recall on Copilot Plus computers will memorise and save everything that's on a PC user's screen\r\nRepresentative Picture\r\nAshutosh Mishra\r\nArtificial intelligence (AI) technologies that the world is e… [+775 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "9to5google.com"
       },
-      "author": "John Ballard, The Motley Fool",
-      "title": "Should You Buy Apple Stock Before June 10? - Yahoo Finance",
-      "description": "AI features coming to the iPhone could potentially drive a strong upgrade cycle over the next few years.",
-      "url": "https://www.fool.com/investing/2024/05/25/should-you-buy-apple-stock-before-june-10/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
-      "urlToImage": "https://media.zenfs.com/en/motleyfool.com/0c4b0d73add285b23e59acdf0c42ccba",
-      "publishedAt": "2024-05-25T13:37:00Z",
-      "content": "Shares of Apple(NASDAQ: AAPL) have fallen behind the return of the broader market over the last year. One of the issues weighing the stock is the perception that other tech companies like Alphabet an… [+4809 chars]"
+      "author": "Ben Schoon",
+      "title": "Google Search AI can be helpful, just not with Overviews - 9to5Google",
+      "description": "Google Search has AI now, but it's not helpful in its current form. That said, Google already knows how to make it helpful.",
+      "url": "http://9to5google.com/2024/05/26/google-search-ai-overviews-helpful/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/google-search-ai-overview.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-26T16:00:00Z",
+      "content": "AI Overviews have barely been out for a week and things are already going off the rails. And, the painful part of it all is that Google has already shown that it knows how to make AI in Search truly … [+5565 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBCTV18"
+        "name": "Nintendo Life"
       },
-      "author": "https://www.cnbctv18.com",
-      "title": "Google introduces 'ask someone else to pay' button on Play Store for Indian users; how it works - CNBCTV18",
-      "description": "The payment link may be shared through the Android share sheet, and once it is opened, the recipient has 24 hours to complete the transaction before it expires automatically.",
-      "url": "https://www.cnbctv18.com/technology/google-introduces-ask-someone-else-to-pay-button-on-play-store-for-indian-users-details-19417728.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2021/04/Google-Play-Store-e1651054437637.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-05-25T13:26:37Z",
-      "content": "Google has wrapped its annual I/O developer conference during which it unveiled a plethora of cutting-edge tools for app developers. In the 30-minute presentation on the latest developments in Google… [+2109 chars]"
+      "author": "Liam Doolan",
+      "title": "Round Up: Indie Live Expo 2024 - Every Nintendo Switch Game Showcased - Nintendo Life",
+      "description": "The 10th outing featuring more than 150 games",
+      "url": "https://www.nintendolife.com/news/2024/05/round-up-indie-live-expo-2024-every-nintendo-switch-game-showcased",
+      "urlToImage": "https://images.nintendolife.com/42c98b700efdf/1280x720.jpg",
+      "publishedAt": "2024-05-26T16:00:00Z",
+      "content": "Subscribe to Nintendo Life on YouTube767k\r\nThe digital showcase Indie Live Expo returned for its 10th outing and as part of this, it's showcased more than 150 games - with plenty of them coming to th… [+2026 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Apple's WWDC may include AI-generated emoji and an OpenAI partnership - The Verge",
+      "description": "Apple will announce iOS and macOS features like AI summaries and writing suggestions, AI-created emoji at WWDC, along with a new OpenAI chatbot partnership.",
+      "url": "https://www.theverge.com/2024/5/26/24165040/apple-wwdc-2024-ai-openai-ios-18-macos-15-iphone-macbook",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
+      "publishedAt": "2024-05-26T15:38:00Z",
+      "content": "Apples WWDC may include AI-generated emoji and an OpenAI partnership\r\nApples WWDC may include AI-generated emoji and an OpenAI partnership\r\n / Apple is preparing to play its generative AI cards.\r\nByW… [+3670 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "India TV News"
       },
-      "author": "Ashley Capoot",
-      "title": "Here's what it's like inside the operating room when someone gets a brain implant - CNBC",
-      "description": "Precision Neuroscience is testing its brain implant at the Mount Sinai Health System in New York City. CNBC observed one procedure from the operating room.",
-      "url": "https://www.cnbc.com/2024/05/25/neuralink-competitor-precision-neuroscience-is-testing-its-brain-implant-in-humans.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418067-1716319126867-1J5A1192.jpg?v=1716319685&w=1920&h=1080",
-      "publishedAt": "2024-05-25T13:21:25Z",
-      "content": "Dr. Joshua Bederson places Precision Neuroscience's electrodes onto a brain.\r\nAs the lights dimmed in an operating room at The Mount Sinai Hospital in New York City, Dr. Joshua Bederson prepared to m… [+11349 chars]"
+      "author": "Saumya Nigam",
+      "title": "Upcoming smartphone in June 2024: Honor, OnePlus, Vivo and more - India TV News",
+      "description": "Whether you’re interested in foldable technology, mid-range affordability, or flagship performance, there will be plenty of options to choose from in the upcoming month (June 2024).",
+      "url": "https://www.indiatvnews.com/technology/news/upcoming-smartphone-in-june-2024-honor-oneplus-vivo-and-more-2024-05-26-933522",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/05/elon-musk-reportedly-on-the-verge-of-raising-billions-for-his-ai-company-62-1716735844.jpg",
+      "publishedAt": "2024-05-26T15:29:39Z",
+      "content": "In June 2024, several tech companies are planning to launch several smart devices in the global market. meaning, the upcoming month will be all about technological advancement, and if you are plannin… [+2549 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "CNET"
       },
-      "author": "Millie Davis-Williams",
-      "title": "Best Buy Memorial Day weekend sale is live now — here's 45 deals I'd get - Tom's Guide",
-      "description": "See the top Best Buy Memorial Day sales on Switch games, OLED TVs, laptops and more",
-      "url": "https://www.tomsguide.com/sales-events/best-buy-memorial-day-sales-2024",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LtCXfrnT7ZLnDW7JANfehN-1200-80.jpg",
-      "publishedAt": "2024-05-25T13:04:02Z",
-      "content": "The holiday weekend is here, and that means now is the time to shop Memorial Day sales. There are some epic deals up for grabs at Best Buy, with discounts on everything from OLED TVs to laptops to vi… [+670 chars]"
+      "author": null,
+      "title": "Save Thousands on TVs This Memorial Day Weekend: 30+ Best Deals on Samsung, Sony, TCL and More - CNET",
+      "description": "Don't snooze on these TV deals this Memorial Day weekend.",
+      "url": "https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-26/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4cae8f68440d61ad872bce5297477394eec668b8/hub/2024/05/21/33df8ad6-1598-43cb-853c-55a8905f8ef2/best-memorial-day-tv-sale.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-26T14:55:00Z",
+      "content": "CNET/Samsung\r\nMemorial Day weekend is a great time to upgrade your home entertainment setup with all the sales happening. Whether you're looking for a top-of-the-line OLED model smart TV or a budget-… [+4471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Gemini AI feature in Google Messages expands with support for Workspace, YouTube, and Maps Extensions | Mint - Mint",
+      "description": "Google has rolled out Gemini feature in Google Messages, offering an AI assistant for one-on-one interactions with optimized responses. Users can provide feedback and access Gemini Extensions, excluding EEA, UK, Switzerland, and India but supporting English a…",
+      "url": "https://www.livemint.com/technology/tech-news/gemini-ai-feature-in-google-messages-expands-with-support-for-workspace-youtube-and-maps-extensions-11716734371584.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/26/1600x900/FILES-US-TECH-GOOGLE-AI-0_1716556370646_1716734493588.jpg",
+      "publishedAt": "2024-05-26T14:48:03Z",
+      "content": "Google has begun the widespread rollout of its Gemini feature in Google Messages, following its announcement at I/O 2024, reported 9To5Google. Over the past few days, stable users have started receiv… [+2327 chars]"
     },
     {
       "source": {
@@ -255,12 +216,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Predicting Rockstar Games' GTA 6 Release Date | GTFM - IGN",
-      "description": "With GTA 6 expected to release sometime next year, we prict the exact day and date that Rockstar Games plans on releasing Grand Theft Auto 6 ... using a magi...",
-      "url": "https://www.youtube.com/watch?v=wx9_2crTUio",
-      "urlToImage": "https://i.ytimg.com/vi/wx9_2crTUio/maxresdefault.jpg",
-      "publishedAt": "2024-05-25T13:01:02Z",
+      "title": "Best TV Deals to Buy Now from Sony, Samsung, LG, and More | You Asked Ep. 41 - Digital Trends",
+      "description": "If you're looking for the best TV deals, 2023 models offer significant savings compared to 2024 versions. Older models are often discounted to make room for ...",
+      "url": "https://www.youtube.com/watch?v=MjrTYPQQVzk",
+      "urlToImage": "https://i.ytimg.com/vi/MjrTYPQQVzk/maxresdefault.jpg",
+      "publishedAt": "2024-05-26T14:45:01Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Creaders.net"
+      },
+      "author": null,
+      "title": "iPhone被偷，美国少年烧死一家五口！还烧错了…--万维读者网 - 焦点新闻",
+      "description": "Man pleads guilty after reportedly setting fire to the wrong home, killing 5 innocent family members, in attempt to get revenge for his stolen iPhone pic.twitter.com/3kv9PpXK8T&mdash; Daily Loud (@DailyLoud) May 23, 2024[ShareScript] async",
+      "url": "https://news.creaders.net/society/2024/05/26/2735654.html",
+      "urlToImage": "https://pub.creaders.net/upload_files/image/202405/20240525_17167051197525.jpg",
+      "publishedAt": "2024-05-26T14:42:08Z",
+      "content": "Man pleads guilty after reportedly setting fire to the wrong home, killing 5 innocent family members, in attempt to get revenge for his stolen iPhone pic.twitter.com/3kv9PpXK8T\r\n— Daily Loud (@DailyL… [+260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Ruben Circelli",
+      "title": "Surface Laptop 7 vs the M3 MacBook Air: Which should you buy? - XDA Developers",
+      "description": "In a clash of lightweight laptop heavyweights, should you opt for the Mac or the Windows machine? Here's what you need to know.",
+      "url": "https://www.xda-developers.com/surface-laptop-7-vs-macbook-air-which-should-you-buy/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/05/surfacelaptop7-vs-macbookair.png",
+      "publishedAt": "2024-05-26T14:30:00Z",
+      "content": "<ul><li> Surface Laptop 7 \r\nMicrosoft's Surface Laptop 7 features an all-new design, complete with thinner bezels and a new haptic touchpad. Plus, this laptop also sports Snapdragon X Elite or Snapdr… [+8906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Jordan Middler",
+      "title": "Warner Bros. is 'threatening to destroy,' a popular Mortal Kombat Youtube channel, it's claimed | VGC - Video Games Chronicle",
+      "description": "A popular content creator is claiming that Warner Bros. has threatened to “destroy,” their channel.",
+      "url": "https://www.videogameschronicle.com/news/warner-bros-is-threatening-to-destroy-a-popular-mortal-kombat-youtube-channel-its-claimed/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2024/05/MK-Mod.jpg",
+      "publishedAt": "2024-05-26T14:18:00Z",
+      "content": "A popular content creator is claiming that Warner Bros. has threatened to “destroy their channel.\r\nToastedShoes, who runs a channel featuring videos of Mortal Kombat mods, has taken to X to claim tha… [+1232 chars]"
     }
   ]
 }
