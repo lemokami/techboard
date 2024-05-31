@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 220,
+  "totalResults": 153,
   "articles": [
     {
       "source": {
@@ -8,90 +8,90 @@
         "name": "The Verge"
       },
       "author": "Mia Sato",
-      "title": "Google won't comment on a potentially massive leak of its search algorithm documentation - The Verge",
-      "description": "Thousands of pages of leaked internal documentation from Google reveal signals the company may collect for its search algorithm.",
-      "url": "https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
-      "publishedAt": "2024-05-28T20:00:49Z",
-      "content": "Google wont comment on a potentially massive leak of its search algorithm documentation\r\nGoogle wont comment on a potentially massive leak of its search algorithm documentation\r\n / A purported leak o… [+5997 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Devin Coldewey",
-      "title": "AI models have favorite numbers, because they think they're people - TechCrunch",
-      "description": "AI models are always surprising us, not just in what they can do, but what they can't, and why. An interesting new behavior is both superficial and",
-      "url": "https://techcrunch.com/2024/05/28/ai-models-have-favorite-numbers-because-they-think-theyre-people/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/numbers-pattern-getty.jpg?resize=1200,811",
-      "publishedAt": "2024-05-28T20:00:27Z",
-      "content": "AI models are always surprising us, not just in what they can do, but what they can’t, and why. An interesting new behavior is both superficial and revealing about these systems: they pick random num… [+3943 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Brian Galindo",
-      "title": "29 Things All Parents Had In Their House In The '90s - BuzzFeed",
-      "description": "Somewhere, there are dusty seashell decorative handsoaps that have been in the same bowl in the same spot in a guest bathroom since the first Clinton administration.",
-      "url": "https://www.buzzfeed.com/briangalindo/1990s-home-things-everyones-parents-had",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-05/22/5/enhanced/a29164314807/original-900-1716356970-10.jpg?crop=1200:628;0,0%26downsize=1250:*",
-      "publishedAt": "2024-05-28T19:53:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "This Lego Apple Store design submission is pitch-perfect - The Verge",
-      "description": "A new Lego Ideas submission shows a clever concept resembling one of Apple’s retail stores, including details like the first iMac.",
-      "url": "https://www.theverge.com/2024/5/28/24166361/lego-apple-store-build-idea-concept-legotruman-2a2a",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GysslgTQkp5Nt7S581rYGhv6ZkQ=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25467807/732298e7_cac1_43de_8e5b_567b92f22105_resize_1920x1080.png",
-      "publishedAt": "2024-05-28T18:38:03Z",
-      "content": "This Lego Apple Store design submission is pitch-perfect\r\nThis Lego Apple Store design submission is pitch-perfect\r\n / Brought to you by someone whose previous ideas include the Lego Starry Night pai… [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Peter",
-      "title": "5G version of the Redmi Pad Pro appears on TENAA, likely set for a July launch - GSMArena.com news - GSMArena.com",
-      "description": "This version of the Redmi Pad Pro has been officially confirmed by Lei Jun himself, but official details are still scarce.",
-      "url": "https://www.gsmarena.com/5g_version_of_the_redmi_pad_pro_appears_on_tenaa_likely_set_for_a_july_launch-news-63037.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/xiaomi-redmi-pad-pro-5g-tenaa/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-05-28T18:31:01Z",
-      "content": "There are three versions of the Xiaomi Redmi Pad so far regular, Pro and SE but none of them offers 5G connectivity. That will change soon as CEO Lei Jun shared that a 5G variant of the Redmi Pad Pro… [+1361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Willa Rowe",
-      "title": "Hades 2 Fan Artists Imagine Dark Souls, Jesus, And More In-Game - Kotaku",
-      "description": "Everybody from Hatsune Miku to Solaire is ready to hang out with Melinoë",
-      "url": "https://kotaku.com/hades-2-fan-art-dark-souls-baldurs-gate-3-call-of-duty-1851504368",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e6af2f15279eca2020792eba3e9e6cf5.jpg",
-      "publishedAt": "2024-05-28T18:20:00Z",
-      "content": "With the release of Hades 2in Early Access, fans are tearing up the Underworld (and beyond), which already holds so much to discover. In fact, the sequel to Supergiant Games seminal 2020 action rogue… [+2113 chars]"
+      "title": "Google confirms the leaked Search documents are real - The Verge",
+      "description": "Until yesterday, Google had refused to comment on the authenticity of the trove of documents, some of which may indicate what the company uses to rank sites in search.",
+      "url": "https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
+      "publishedAt": "2024-05-29T22:12:18Z",
+      "content": "Google confirms the leaked Search documents are real\r\nGoogle confirms the leaked Search documents are real\r\n / Until today, the company refused to comment on the authenticity of the trove of document… [+2971 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Ron Amadeo",
-      "title": "iFixit dumps Samsung partnership, says company doesn't care about repair - Ars Technica",
-      "description": "iFixit says \"flashy press releases don’t mean much without follow-through.\"",
-      "url": "https://arstechnica.com/gadgets/2024/05/ifixit-dumps-samsung-partnership-says-company-doesnt-care-about-repair/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Self-Repair-Program-Expansion_main1-760x380.jpg",
-      "publishedAt": "2024-05-28T18:14:32Z",
-      "content": "25\r\nIFixit and Samsung were once leading the charge in device repair, but iFixit says it's ending its repair partnership with Samsung because it feels Samsung just isn't participating in good faith. … [+4058 chars]"
+      "author": "Samuel Axon",
+      "title": "RIP ICQ: Remembering a classic messaging app that was way ahead of its time - Ars Technica",
+      "description": "ICQ will cease operations June 26. If you know, you know.",
+      "url": "https://arstechnica.com/gadgets/2024/05/rip-icq-remembering-a-classic-messaging-app-that-was-way-ahead-of-its-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-29-160454-760x380.png",
+      "publishedAt": "2024-05-29T21:33:01Z",
+      "content": "Enlarge/ ICQ in Windows 98.\r\n73\r\nAfter nearly 28 years in operation, messaging service ICQ will cease operations on June 26, according to its current owners.\r\nYou'd be forgiven for not realizing it s… [+3458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple Music launches special playlist to promote WWDC 2024, hints at new icon - 9to5Mac",
+      "description": "We’re less than two weeks away from WWDC 2024, another edition of Apple’s annual conference for developers. And although the...",
+      "url": "https://9to5mac.com/2024/05/29/apple-music-playlist-wwdc-2024/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Apple-WWDC24-event-announcement-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-29T21:21:00Z",
+      "content": "We’re less than two weeks away from WWDC 2024, another edition of Apple’s annual conference for developers. And although the main focus of the event is software, Apple has just launched a special pla… [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steven Petite",
+      "title": "Tons Of PS5-Exclusive Games Are On Sale For Low Prices For PlayStation's Days Of Play - GameSpot",
+      "description": "The event runs through June 12, giving you a chance to save on games, accessories, consoles, and more.",
+      "url": "https://www.gamespot.com/articles/playstation-days-of-play-2024-ps5-deals/1100-6523751/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4310133-ps5exclsuives.jpg",
+      "publishedAt": "2024-05-29T20:50:09Z",
+      "content": "Days of Play 2024 feature big discounts on just about every major PlayStation 5 exclusive. Most major retailers are participating in the annual Sony sales event, though eligible titles differ by reta… [+1350 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Is Apple planning to 'sherlock' Arc? - TechCrunch",
+      "description": "With the release of iOS 18 later this year, Apple may again borrow ideas third-party apps. This time it's Arc that could be among those affected.",
+      "url": "https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/Arc-Search-1.jpg?resize=1200,675",
+      "publishedAt": "2024-05-29T20:35:56Z",
+      "content": "One of the more innovative features of the mobile web browser Arc Search from The Browser Company is its ability to search the web for you and then spit back a summary of what it learned, instead of … [+3286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Google's generative AI fails 'will slowly erode our trust in Google' - Yahoo Finance",
+      "description": "Google's generative AI flubs could erode consumer trust in the company that's synonymous with finding accurate information online.",
+      "url": "https://finance.yahoo.com/news/googles-generative-ai-fails-will-slowly-erode-our-trust-in-google-202314852.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p7OdGvdUhspjQNsLXqOnXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/4558bfb0-1df2-11ef-a7dd-4b24c174058d",
+      "publishedAt": "2024-05-29T20:24:29Z",
+      "content": "It was a busy Memorial Day weekend for Google (GOOG, GOOGL) as the company raced to contain the fallout from a number of wild suggestions by the new AI Overview feature in its Search platform. In cas… [+4942 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Signals That It's Working on TV+ App for Android Phones - Bloomberg",
+      "description": "Apple Inc. is seeking a senior engineer to help build a television and sports app for Android, a sign the company is finally bringing its TV+ service to the rival smartphone platform.",
+      "url": "https://www.bloomberg.com/news/articles/2024-05-29/apple-signals-that-it-s-working-on-tv-app-for-android-phones",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWWgNHs4zxHk/v0/1200x800.jpg",
+      "publishedAt": "2024-05-29T19:09:41Z",
+      "content": "Apple Inc. is seeking a senior engineer to help build a television and sports app for Android, a sign the company is finally bringing its TV+ service to the rival smartphone platform. \r\nIn a job list… [+234 chars]"
     },
     {
       "source": {
@@ -99,12 +99,155 @@
         "name": "The Verge"
       },
       "author": "Ash Parrish",
-      "title": "YouTube rolls out its new Playables games to all users - The Verge",
-      "description": "YouTube has announced its Playables feature is now available to all users on the YouTube website and mobile apps.",
-      "url": "https://www.theverge.com/2024/5/28/24166363/youtube-games-playables-youtube-premium",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OfXI9zS0AlriCJyUkz7nZJMrmcg=/0x0:1226x498/1200x628/filters:focal(613x249:614x250)/cdn.vox-cdn.com/uploads/chorus_asset/file/25467796/Screenshot_2024_05_28_at_1.38.02_PM.png",
-      "publishedAt": "2024-05-28T18:01:22Z",
-      "content": "YouTube rolls out its new Playables games to all users\r\nYouTube rolls out its new Playables games to all users\r\n / Once exclusive to YouTube Premium members, Playables includes over 75 games you can … [+1545 chars]"
+      "title": "Sony pulls interview with Neil Druckmann, citing “significant errors and inaccuracies” - The Verge",
+      "description": "Sony has retracted an interview it conducted with The Last of Us creator Neil Druckmann after he posted clarifications to some of his answers on social media.",
+      "url": "https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8OHmFY5w7sU8zJYfmGK-MDEJL5g=/0x0:5504x3669/1200x628/filters:focal(2752x1835:2753x1836)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469418/1928390322.jpg",
+      "publishedAt": "2024-05-29T18:17:09Z",
+      "content": "Sony pulls interview with Neil Druckmann, citing significant errors and inaccuracies\r\nSony pulls interview with Neil Druckmann, citing significant errors and inaccuracies\r\n / The retraction comes aft… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Matt Jarvis",
+      "title": "No Man's Sky Adrift update leaves you completely alone in its universe, except for sandworms and ghost ships - Rock Paper Shotgun",
+      "description": "No shops or shortcuts means it’ll be a new survival challenge too.",
+      "url": "https://www.rockpapershotgun.com/no-mans-sky-adrift-update-leaves-you-completely-alone-in-its-universe-except-for-sandworms-and-ghost-ships",
+      "urlToImage": "https://assetsio.gnwcdn.com/no-mans-sky-adrift-update.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-05-29T17:58:54Z",
+      "content": "With an effectively infinite universe to fill in No Man’s Sky, developers Hello Games have certainly risen to the challenge of trying to fill it with as much stuff as they possibly can over the last … [+1841 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Google will soon let you resize Android's Live Captions feature - Android Authority",
+      "description": "Android’s Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.",
+      "url": "https://www.androidauthority.com/resize-live-captions-on-android-3447092/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/08/Live-Caption-on-a-Pixel-phone-resize-2-scaled.jpg",
+      "publishedAt": "2024-05-29T17:58:08Z",
+      "content": "<ul><li>Androids Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.</li><li>This upcoming feature was announced at Google I/O and was… [+3486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Renée Onque",
+      "title": "I've studied longevity for 35 years: Here's the 1 habit I won't change even for a longer life - CNBC",
+      "description": "Here's one thing that Italian longevity expert Valter Longo says he doesn't plan to change even if it could increase his chances of living longer.",
+      "url": "https://www.cnbc.com/2024/05/29/italian-longevity-expert-1-habit-i-wont-change-even-for-a-longer-life.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107421431-1717002802230-gettyimages-1341976416-210602-a73-112-healthy-food.jpeg?v=1717004251&w=1920&h=1080",
+      "publishedAt": "2024-05-29T17:51:24Z",
+      "content": "Growing up in Italy, Valter Longo was fascinated by what leads to longevity, especially when it comes to diet.\r\nLongo first began studying longevity on a larger scale in 1989. 35 years later, he's se… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "8BitDo M Edition mechanical keyboard is a modern take on IBM's Model M - Ars Technica",
+      "description": "Numpad sold separately.",
+      "url": "https://arstechnica.com/gadgets/2024/05/8bitdos-retro-ibm-inspired-keyboard-could-use-more-retro/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/head-760x380.jpg",
+      "publishedAt": "2024-05-29T17:43:49Z",
+      "content": "32\r\n<ul><li>\r\n 8BitDo's IBM-like M Edition keyboard. \r\n</li><li>\r\n Design cues help pay tribute to the '80s buckling spring keyboard. \r\n</li><li>\r\n It even has arrows on the Tab key, like the origina… [+4336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "POCO M6 Plus 5G expected to launch soon in India, BIS Certification hints: What to expect | Mint - Mint",
+      "description": "Poco's upcoming M6 Plus 5G, certified by BIS, is expected to be a budget-friendly smartphone with premium specs like Snapdragon 4 Gen 2 processor and a 120Hz display. Anticipated features include a 50MP primary camera, up to 12GB RAM, and 512GB storage.",
+      "url": "https://www.livemint.com/technology/tech-news/poco-m6-plus-5g-expected-to-launch-soon-in-india-bis-certification-hints-what-to-expect-11716999958217.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/29/1600x900/IMG20240523151707_1716457786796_1717000299000.jpg",
+      "publishedAt": "2024-05-29T16:36:25Z",
+      "content": "Poco is gearing up to release a new M-series smartphone in India, as indicated by a recent Bureau of Indian Standards (BIS) certification. The forthcoming device, identified as the Poco M6 Plus 5G, h… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Galaxy Z Fold 6 leak shows off boxy design - 9to5Google",
+      "description": "Samsung is apparently making some changes to the design of the Galaxy Z Fold 6, with a boxy design showing up in a new leak.",
+      "url": "http://9to5google.com/2024/05/29/samsung-galaxy-z-fold-6-boxy-design-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/galaxy-z-fold-6-boxy-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-29T16:11:00Z",
+      "content": "Samsung is expected to bring some changes to its upcoming Galaxy Z Fold 6, and if a new leak is to be believed, that includes a boxier design and a wider cover display.\r\nSamsung’s plans for the Galax… [+1294 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "This founder says meme tech is the next big thing - TechCrunch",
+      "description": "Alex Taub, a longtime founder with multiple exits under his belt, believes it's time to disrupt the meme industry. “I have this big thesis that meme tech",
+      "url": "https://techcrunch.com/2024/05/29/this-founder-says-memetech-is-the-next-big-thing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/distracted-girlfriend.jpg?resize=1200,800",
+      "publishedAt": "2024-05-29T16:00:01Z",
+      "content": "Alex Taub, a longtime founder with multiple exits under his belt, believes it’s time to disrupt the meme industry.\r\nI have this big thesis that meme tech is going to be the next big category, Taub to… [+4474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AnandTech"
+      },
+      "author": "Gavin Bonshor",
+      "title": "Arm Unveils 2024 CPU Core Designs, Cortex X925, A725 and A520: Arm v9.2 Redefined For 3nm - AnandTech",
+      "description": null,
+      "url": "https://www.anandtech.com/show/21399/arm-unveils-2024-cpu-core-designs-cortex-x925-a725-and-a520-arm-v9-2-redefined-for-3nm-",
+      "urlToImage": "https://images.anandtech.com/doci/21399/Cortex_2024_Family_Car_678x452.png",
+      "publishedAt": "2024-05-29T16:00:00Z",
+      "content": "As the semiconductor industry continues to evolve, Arm stands at the forefront of innovation for its core and IP architecture, especially in the mobile space, by pushing the boundaries of technology … [+13040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "Top 20 Best-Selling Games For April 2024 In The US - GameSpot",
+      "description": "Here are all the top-selling games for April; can you guess what's No. 1?",
+      "url": "https://www.gamespot.com/gallery/top-20-best-selling-games-for-april-2024-in-the-us/2900-5434/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4309891-screenshot2024-05-29at9.34.09am.png",
+      "publishedAt": "2024-05-29T15:47:50Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Activision is awarded $14.5 million in a Call of Duty cheating lawsuit - The Verge",
+      "description": "A US district judge awarded Activision a $14.5 million default judgment against many defendants of cheat creator EngineOwning, who never responded to the lawsuit.",
+      "url": "https://www.theverge.com/2024/5/29/24166932/activision-call-of-duty-cheat-creator-lawsuit-engineowning",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zrDqrQEiIfqIl_oaPl1a40r8g8Y=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25054976/MW3_CP_REVEAL_08_BRANDED.png",
+      "publishedAt": "2024-05-29T15:40:58Z",
+      "content": "Activision is awarded $14.5 million in a Call of Duty cheating lawsuit\r\nActivision is awarded $14.5 million in a Call of Duty cheating lawsuit\r\n / The court also ordered the defendants, EngineOwning,… [+2322 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Microsoft’s Copilot is now on Telegram - TechCrunch",
+      "description": "Microsoft’s Copilot, a generative AI-powered tool that can generate text as well as answer specific questions, is now available as an in-app chatbot on Microsoft’s Copilot is now available as an in-app chatbot on Telegram.",
+      "url": "https://techcrunch.com/2024/05/29/telegram-microsoft-copilot-ai-chatbot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-917260478.jpg?resize=1200,800",
+      "publishedAt": "2024-05-29T15:37:51Z",
+      "content": "Microsofts Copilot, a generative AI-powered tool that can generate text as well as answer specific questions, is now available as an in-app chatbot on Telegram, the instant messaging app. \r\nCurrently… [+1274 chars]"
     },
     {
       "source": {
@@ -112,155 +255,12 @@
         "name": "The Times of India"
       },
       "author": "TOI Tech Desk",
-      "title": "WWDC 2024: Apple shares details of its developers conference; AI focus, iPhone, iPad software updates and - The Times of India",
-      "description": "TECH NEWS : Apple reveals details about WWDC 2024 with a focus on AI-powered features, software updates, and functionalities for developers and tech enthusiasts.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/wwdc-2024-apple-shares-details-of-its-developers-conference-ai-focus-iphone-ipad-software-updates-and-more/articleshow/110507089.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110507076,width-1070,height-580,imgsize-16330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-05-28T18:00:00Z",
+      "title": "WWDC 2024: Apple’s ‘secret’ plan to protect user privacy with AI features - The Times of India",
+      "description": "TECH NEWS : Apple is set to reveal AI updates and a 'Black Box' for user privacy at WWDC 2024, featuring iOS 18, iPadOS 18, macOS 15, and visionOS 2.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/wwdc-2024-apples-secret-plan-to-protect-user-privacy-with-ai-features/articleshow/110541100.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-110541080,width-1070,height-580,imgsize-16330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-05-29T15:24:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Hannah Hoolihan",
-      "title": "Score a 10th Gen iPad at An All-Time Low Price at Amazon - IGN",
-      "description": "You can score a 10th Gen iPad at a new all-time low price of $299.99 at Amazon.",
-      "url": "https://www.ign.com/articles/10th-gen-ipad-all-time-low-price-at-amazon",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/28/apple-ipad-10th-gen-deal-amazon-1716915910433.jpg?width=1280",
-      "publishedAt": "2024-05-28T17:47:24Z",
-      "content": "With brand new iPads available to purchase comes a drop in price or sales on some of the older models. So, if you've been waiting for a good opportunity to pick one up for yourself at a discount, now… [+1543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Darryn Bonthuys",
-      "title": "PlayStation Plus Extra And Premium Games For June 2024 Revealed - GameSpot",
-      "description": "Sony's Days of Play event is here, and PlayStation subscribers can look forward to some terrific titles to celebrate.",
-      "url": "https://www.gamespot.com/gallery/playstation-plus-extra-and-premium-games-for-june-2024-revealed/2900-5433/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4309219-ps-plus-june-2024.jpg",
-      "publishedAt": "2024-05-28T17:45:38Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "Galaxy Ring Listing Confirms Sizes, Batteries, Charging Cradle, More - Droid Life",
-      "description": "The Samsung Galaxy Ring might end up being priced higher than some were expecting and could come with a monthly subscription, but we’re still looking forward to it. The wearability of a smart ring is something to consider over smartwatches, which are often bu…",
-      "url": "https://www.droid-life.com/2024/05/28/samsungs-galaxy-ring-stops-through-fcc-and-shows-off-everything/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/02/Galaxy-Ring-Black-600x315-cropped.jpg",
-      "publishedAt": "2024-05-28T17:42:51Z",
-      "content": "The Samsung Galaxy Ring might end up being priced higher than some were expecting and could come with a monthly subscription, but we’re still looking forward to it. The wearability of a smart ring is… [+1903 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Lauren Feiner",
-      "title": "Why Epic Games and Apple are back in court - The Verge",
-      "description": "Apple is defending its compliance with a court order related to Epic’s antitrust challenge against it that required Apple to give developers a way to make in-app purchases outside its ecosystem.",
-      "url": "https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g1flmZjBgOMtyLXpsHALmcgzbGI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25345068/STK468_APPLE_ANTITRUST_CVIRGINIA_C.jpg",
-      "publishedAt": "2024-05-28T17:33:00Z",
-      "content": "Why Epics lawsuit against Apple just wont quit\r\nWhy Epics lawsuit against Apple just wont quit\r\n / The trial in Epic Games v. Apple ended three years ago. So why are the companies back in court?\r\nByL… [+7370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Xbox reportedly signs the first game from Rocksteady co-founders' new studio | VGC - Video Games Chronicle",
-      "description": "Hundred Star Games is said to be developing a single-player action-adventure game…",
-      "url": "https://www.videogameschronicle.com/news/xbox-reportedly-signs-the-first-game-from-rocksteady-co-founders-new-studio/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2022/10/Rocksteady.jpg",
-      "publishedAt": "2024-05-28T17:23:19Z",
-      "content": "Xbox Game Studios has reportedly signed the next game from Rocksteady co-founders Sefton Hill and Jamie Walker.\r\nThats according to eXputer, which claims that London-based Hundred Star Games is worki… [+1474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple's Worldwide Developers Conference to kick off June 10 with Keynote address - Apple",
-      "description": "Today, Apple unveiled the lineup for its annual Worldwide Developers Conference, including Keynote and Platforms State of the Union.",
-      "url": "https://www.apple.com/newsroom/2024/05/apples-worldwide-developers-conference-to-kick-off-june-10-with-keynote-address/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2024/05/apples-worldwide-developers-conference-to-kick-off-june-10-with-keynote-address/tile/Apple-WWDC24-event-details-hero-lp.jpg.og.jpg?202405281659",
-      "publishedAt": "2024-05-28T17:00:12Z",
-      "content": "May 28, 2024\r\nUPDATE\r\nApples Worldwide Developers Conference to kick off June 10 with Keynote address\r\nThe annual online conference takes place June 10-14 and promises an incredible week of technolog… [+3900 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Phil Hornshaw",
-      "title": "Destiny 2's Final Shape Brings New Depth To Its Missions And \"Defragmented\" World - GameSpot",
-      "description": "Bungie provided a closer look into the Pale Heart of the Traveler ahead of Destiny 2's next expansion, and it's not all nostalgia and memories.",
-      "url": "https://www.gamespot.com/articles/destiny-2s-final-shape-brings-new-depth-to-its-missions-and-defragmented-world/1100-6523728/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick_large/1581/15811374/4308412-2024_tfs_press_preview_event_press_kit_campaign_m1_compressed_001.jpg",
-      "publishedAt": "2024-05-28T17:00:00Z",
-      "content": "Ten years ago, the story of Destiny started with the Traveler, a god-like entity the size of a small moon, hovering over Earth and dispensing superpowers to humans to use against encroaching alien ho… [+11273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "https://www.cnbctv18.com",
-      "title": "Upcoming tech launches in June 2024: From Vivo X Fold 3 Pro to Xiaomi 14 Civi and more - CNBCTV18",
-      "description": "From OnePlus and Vivo to Xiaomi and Motorola, the month of June 2024 will witness a variety of smartphone launches from top brands.",
-      "url": "https://www.cnbctv18.com/technology/upcoming-tech-launches-in-june-vivo-x-fold-3-pro-to-xiaomi-14-civi-and-more-19418858.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2024/05/vivo-x-fold-3-pro-2024-05-b82b26ffede8625210cc8c4365f7c5d2.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-05-28T16:14:44Z",
-      "content": "June 2024 promises a wide variety of smartphone launches across all price segments from top makers like OnePlus, Oppo, Vivo, Motorola and others. If you are planning to purchase a new handset, consid… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boing Boing"
-      },
-      "author": "Boing Boing",
-      "title": "Reverse Turing Test: Can You Spot the Human? - Boing Boing",
-      "description": null,
-      "url": "https://boingboing.net/2024/05/28/theres-a-human-among-these-famous-ai-characters-can-you-spot-the-imposter.html",
-      "urlToImage": null,
-      "publishedAt": "2024-05-28T16:12:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Quentyn Kennemer, Sheena Vasani",
-      "title": "The 10th-gen iPad drops to $300 for the first time - The Verge",
-      "description": "The latest iPad is $50 off at Amazon, marking a new low. Samsung’s Galaxy Buds 2 and Apple’s leather AirTag Loops are also on sale.",
-      "url": "https://www.theverge.com/2024/5/28/24166180/amazon-apple-ipad-samsung-galaxy-buds-2-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/o2eZ-UI17WzzB0FGKz23I7FMzUE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24128002/226361_Apple_iPad_10.9_10th_gen_DSeifert_0001.jpg",
-      "publishedAt": "2024-05-28T16:12:02Z",
-      "content": "The 10th-gen iPad drops below $300 for the first time\r\nThe 10th-gen iPad drops below $300 for the first time\r\n / Samsungs Galaxy Buds 2 and Apples discontinued leather AirTag Loops are also down to a… [+2539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "We Found the Top Best Buy Memorial Day Deals for You - CNET",
-      "description": "You won't want to miss the tail end of Best Buy's Memorial Day sale, which is still offering big discounts on TVs, phones, laptops and more.",
-      "url": "https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-28/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/21da7ad046d56d55b757de6d02eb9510016e934a/hub/2024/05/24/71ec6be7-0e8d-49fe-af3e-5980a5405e66/samsung-oled-commerce-image.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-05-28T16:11:00Z",
-      "content": "Samsung/CNET\r\nMemorial Day is the perfect time to find deals at major retailers like Amazon, Walmart and Best Buy, but if you missed out on the main event, there are still some lingering deals you ca… [+3035 chars]"
     }
   ]
 }
