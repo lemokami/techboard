@@ -1,162 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 153,
+  "totalResults": 174,
   "articles": [
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Mia Sato",
-      "title": "Google confirms the leaked Search documents are real - The Verge",
-      "description": "Until yesterday, Google had refused to comment on the authenticity of the trove of documents, some of which may indicate what the company uses to rank sites in search.",
-      "url": "https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
-      "publishedAt": "2024-05-29T22:12:18Z",
-      "content": "Google confirms the leaked Search documents are real\r\nGoogle confirms the leaked Search documents are real\r\n / Until today, the company refused to comment on the authenticity of the trove of document… [+2971 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "RIP ICQ: Remembering a classic messaging app that was way ahead of its time - Ars Technica",
-      "description": "ICQ will cease operations June 26. If you know, you know.",
-      "url": "https://arstechnica.com/gadgets/2024/05/rip-icq-remembering-a-classic-messaging-app-that-was-way-ahead-of-its-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-29-160454-760x380.png",
-      "publishedAt": "2024-05-29T21:33:01Z",
-      "content": "Enlarge/ ICQ in Windows 98.\r\n73\r\nAfter nearly 28 years in operation, messaging service ICQ will cease operations on June 26, according to its current owners.\r\nYou'd be forgiven for not realizing it s… [+3458 chars]"
+      "author": "Emma Roth",
+      "title": "iOS 18 (and AI) will give Siri much more control over your apps - The Verge",
+      "description": "Apple is planning a big AI update for Siri that could let you control specific app features with your voice, according to Bloomberg.",
+      "url": "https://www.theverge.com/2024/5/30/24168175/ios-18-ai-siri-apple-apps",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HhtPIc_Bgm9tsmM2DcwW6vZ8GV0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931349/236792_iPhone_15_Pro_and_15_Pro_Max_product_photos_AJohnson_0005.jpg",
+      "publishedAt": "2024-05-30T21:11:50Z",
+      "content": "iOS 18 (and AI) will give Siri much more control over your apps\r\niOS 18 (and AI) will give Siri much more control over your apps\r\n / Apple will let you control specific app features using Siri, accor… [+2353 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "author": "Filipe Espósito",
-      "title": "Apple Music launches special playlist to promote WWDC 2024, hints at new icon - 9to5Mac",
-      "description": "We’re less than two weeks away from WWDC 2024, another edition of Apple’s annual conference for developers. And although the...",
-      "url": "https://9to5mac.com/2024/05/29/apple-music-playlist-wwdc-2024/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Apple-WWDC24-event-announcement-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-29T21:21:00Z",
-      "content": "We’re less than two weeks away from WWDC 2024, another edition of Apple’s annual conference for developers. And although the main focus of the event is software, Apple has just launched a special pla… [+1797 chars]"
+      "author": "Ethan Gach",
+      "title": "7 Things We Just Learned About Sony's Big PlayStation 5 Plans - Kotaku",
+      "description": "The company says this console generation is the most profitable ever thanks to microtransactions",
+      "url": "https://kotaku.com/ps5-pc-release-date-ports-mobile-ps-plus-1851510271",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c0e32530a36aa91d937393428ba391d4.jpg",
+      "publishedAt": "2024-05-30T20:25:00Z",
+      "content": "Sony recently held a business briefing for investors where it painted an incredibly rosy picture around the PlayStation 5 and its future outlook. Despite recent layoffs and failing to reach its sales… [+6785 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "esquire.com"
       },
-      "author": "Steven Petite",
-      "title": "Tons Of PS5-Exclusive Games Are On Sale For Low Prices For PlayStation's Days Of Play - GameSpot",
-      "description": "The event runs through June 12, giving you a chance to save on games, accessories, consoles, and more.",
-      "url": "https://www.gamespot.com/articles/playstation-days-of-play-2024-ps5-deals/1100-6523751/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4310133-ps5exclsuives.jpg",
-      "publishedAt": "2024-05-29T20:50:09Z",
-      "content": "Days of Play 2024 feature big discounts on just about every major PlayStation 5 exclusive. Most major retailers are participating in the annual Sony sales event, though eligible titles differ by reta… [+1350 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Is Apple planning to 'sherlock' Arc? - TechCrunch",
-      "description": "With the release of iOS 18 later this year, Apple may again borrow ideas third-party apps. This time it's Arc that could be among those affected.",
-      "url": "https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/Arc-Search-1.jpg?resize=1200,675",
-      "publishedAt": "2024-05-29T20:35:56Z",
-      "content": "One of the more innovative features of the mobile web browser Arc Search from The Browser Company is its ability to search the web for you and then spit back a summary of what it learned, instead of … [+3286 chars]"
+      "author": "Garrett Munce",
+      "title": "The 7 Very Best At-Home Laser Hair Removal Devices for Men - Esquire",
+      "description": "Tired of manscaping? Say goodbye to hair for good with expert-approved at-home removal devices that are both easy to use and travel-friendly.",
+      "url": "https://www.esquire.com/style/grooming/g60942398/best-at-home-laser-hair-removal-devices/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/hair-razor-66589a38b9bcf.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-05-30T20:14:11Z",
+      "content": "Keep in mind that at-home laser hair removal devices are not as powerful as those youll find in a professional setting, so in general it may take longer to see results. Think of them as more of a mai… [+3416 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Google's generative AI fails 'will slowly erode our trust in Google' - Yahoo Finance",
-      "description": "Google's generative AI flubs could erode consumer trust in the company that's synonymous with finding accurate information online.",
-      "url": "https://finance.yahoo.com/news/googles-generative-ai-fails-will-slowly-erode-our-trust-in-google-202314852.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p7OdGvdUhspjQNsLXqOnXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/4558bfb0-1df2-11ef-a7dd-4b24c174058d",
-      "publishedAt": "2024-05-29T20:24:29Z",
-      "content": "It was a busy Memorial Day weekend for Google (GOOG, GOOGL) as the company raced to contain the fallout from a number of wild suggestions by the new AI Overview feature in its Search platform. In cas… [+4942 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Signals That It's Working on TV+ App for Android Phones - Bloomberg",
-      "description": "Apple Inc. is seeking a senior engineer to help build a television and sports app for Android, a sign the company is finally bringing its TV+ service to the rival smartphone platform.",
-      "url": "https://www.bloomberg.com/news/articles/2024-05-29/apple-signals-that-it-s-working-on-tv-app-for-android-phones",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWWgNHs4zxHk/v0/1200x800.jpg",
-      "publishedAt": "2024-05-29T19:09:41Z",
-      "content": "Apple Inc. is seeking a senior engineer to help build a television and sports app for Android, a sign the company is finally bringing its TV+ service to the rival smartphone platform. \r\nIn a job list… [+234 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Ash Parrish",
-      "title": "Sony pulls interview with Neil Druckmann, citing “significant errors and inaccuracies” - The Verge",
-      "description": "Sony has retracted an interview it conducted with The Last of Us creator Neil Druckmann after he posted clarifications to some of his answers on social media.",
-      "url": "https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8OHmFY5w7sU8zJYfmGK-MDEJL5g=/0x0:5504x3669/1200x628/filters:focal(2752x1835:2753x1836)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469418/1928390322.jpg",
-      "publishedAt": "2024-05-29T18:17:09Z",
-      "content": "Sony pulls interview with Neil Druckmann, citing significant errors and inaccuracies\r\nSony pulls interview with Neil Druckmann, citing significant errors and inaccuracies\r\n / The retraction comes aft… [+3091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Matt Jarvis",
-      "title": "No Man's Sky Adrift update leaves you completely alone in its universe, except for sandworms and ghost ships - Rock Paper Shotgun",
-      "description": "No shops or shortcuts means it’ll be a new survival challenge too.",
-      "url": "https://www.rockpapershotgun.com/no-mans-sky-adrift-update-leaves-you-completely-alone-in-its-universe-except-for-sandworms-and-ghost-ships",
-      "urlToImage": "https://assetsio.gnwcdn.com/no-mans-sky-adrift-update.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-05-29T17:58:54Z",
-      "content": "With an effectively infinite universe to fill in No Man’s Sky, developers Hello Games have certainly risen to the challenge of trying to fill it with as much stuff as they possibly can over the last … [+1841 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Google will soon let you resize Android's Live Captions feature - Android Authority",
-      "description": "Android’s Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.",
-      "url": "https://www.androidauthority.com/resize-live-captions-on-android-3447092/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/08/Live-Caption-on-a-Pixel-phone-resize-2-scaled.jpg",
-      "publishedAt": "2024-05-29T17:58:08Z",
-      "content": "<ul><li>Androids Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.</li><li>This upcoming feature was announced at Google I/O and was… [+3486 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "YouTube"
       },
-      "author": "Renée Onque",
-      "title": "I've studied longevity for 35 years: Here's the 1 habit I won't change even for a longer life - CNBC",
-      "description": "Here's one thing that Italian longevity expert Valter Longo says he doesn't plan to change even if it could increase his chances of living longer.",
-      "url": "https://www.cnbc.com/2024/05/29/italian-longevity-expert-1-habit-i-wont-change-even-for-a-longer-life.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107421431-1717002802230-gettyimages-1341976416-210602-a73-112-healthy-food.jpeg?v=1717004251&w=1920&h=1080",
-      "publishedAt": "2024-05-29T17:51:24Z",
-      "content": "Growing up in Italy, Valter Longo was fascinated by what leads to longevity, especially when it comes to diet.\r\nLongo first began studying longevity on a larger scale in 1989. 35 years later, he's se… [+2520 chars]"
+      "author": null,
+      "title": "Sony State of Play May 2024 Livestream - IGN",
+      "description": "State of Play is back! Tune in live for updates on PS5 and PS VR2 titles, plus a look at PlayStation Studios games arriving later this year.The 30+ minute sh...",
+      "url": "https://www.youtube.com/watch?v=2xdzg4Nh81Q",
+      "urlToImage": "https://i.ytimg.com/vi/2xdzg4Nh81Q/hqdefault_live.jpg",
+      "publishedAt": "2024-05-30T19:02:17Z",
+      "content": null
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Scharon Harding",
-      "title": "8BitDo M Edition mechanical keyboard is a modern take on IBM's Model M - Ars Technica",
-      "description": "Numpad sold separately.",
-      "url": "https://arstechnica.com/gadgets/2024/05/8bitdos-retro-ibm-inspired-keyboard-could-use-more-retro/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/head-760x380.jpg",
-      "publishedAt": "2024-05-29T17:43:49Z",
-      "content": "32\r\n<ul><li>\r\n 8BitDo's IBM-like M Edition keyboard. \r\n</li><li>\r\n Design cues help pay tribute to the '80s buckling spring keyboard. \r\n</li><li>\r\n It even has arrows on the Tab key, like the origina… [+4336 chars]"
+      "author": "Thomas Barrabi",
+      "title": "Google admits massive leak related to search is authentic - New York Post ",
+      "description": "The documents amount to “the biggest leak that we’ve ever seen come out of Google for search,” according to Michael King, the CEO of consulting firm iPullRank.",
+      "url": "https://nypost.com/2024/05/30/business/google-admits-massive-leak-related-to-search-is-authentic/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/2023-google-said-combine-software-80308611.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-30T18:10:00Z",
+      "content": "Google has confirmed that a massive leak of some 2,500 internal documents related to its search engine is authentic and one expert said the trove shows that “Google tells us one thing and they do ano… [+4937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Michael King",
+      "title": "How SEO moves forward with the Google Content Warehouse API leak - Search Engine Land",
+      "description": "Addressing common questions, critiques and concerns following the massive Google Search leak and how your approach to SEO should change.",
+      "url": "https://searchengineland.com/how-seo-moves-forward-google-leak-442749",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2024/05/leaking-google-logo-1920.jpg",
+      "publishedAt": "2024-05-30T17:52:00Z",
+      "content": "In case you missed it, 2,569 internal documents related to internal services at Google leaked. \r\nA search marketer named Erfan Amizi brought them to Rand Fishkin’s attention, and we analyzed them. \r\n… [+27156 chars]"
     },
     {
       "source": {
@@ -164,12 +99,12 @@
         "name": "Livemint"
       },
       "author": "Livemint",
-      "title": "POCO M6 Plus 5G expected to launch soon in India, BIS Certification hints: What to expect | Mint - Mint",
-      "description": "Poco's upcoming M6 Plus 5G, certified by BIS, is expected to be a budget-friendly smartphone with premium specs like Snapdragon 4 Gen 2 processor and a 120Hz display. Anticipated features include a 50MP primary camera, up to 12GB RAM, and 512GB storage.",
-      "url": "https://www.livemint.com/technology/tech-news/poco-m6-plus-5g-expected-to-launch-soon-in-india-bis-certification-hints-what-to-expect-11716999958217.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/29/1600x900/IMG20240523151707_1716457786796_1717000299000.jpg",
-      "publishedAt": "2024-05-29T16:36:25Z",
-      "content": "Poco is gearing up to release a new M-series smartphone in India, as indicated by a recent Bureau of Indian Standards (BIS) certification. The forthcoming device, identified as the Poco M6 Plus 5G, h… [+2112 chars]"
+      "title": "Nothing Phone (2a) Special Edition combines Red, Yellow, and Blue for a fresh look: Check price | Mint - Mint",
+      "description": "Nothing's Phone 2a Special Edition features a distinct color combination of red, yellow, and blue, adding a vibrant look to the device. It retains the original design and specifications, including a 50MP dual camera system, 32MP front camera, and 5000mAh batt…",
+      "url": "https://www.livemint.com/technology/gadgets/nothing-phone-2a-special-edition-combines-red-yellow-and-blue-for-a-fresh-look-check-price-11717090154198.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/30/1600x900/nothingphone2a_1717090357644_1717090365610.webp",
+      "publishedAt": "2024-05-30T17:36:41Z",
+      "content": "In an exciting new development, Nothing has introduced a Special Edition of their Phone (2a) smartphone, featuring a striking new color scheme that blends red, yellow, and blue hues. This unique colo… [+2115 chars]"
     },
     {
       "source": {
@@ -177,90 +112,155 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Galaxy Z Fold 6 leak shows off boxy design - 9to5Google",
-      "description": "Samsung is apparently making some changes to the design of the Galaxy Z Fold 6, with a boxy design showing up in a new leak.",
-      "url": "http://9to5google.com/2024/05/29/samsung-galaxy-z-fold-6-boxy-design-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/galaxy-z-fold-6-boxy-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-29T16:11:00Z",
-      "content": "Samsung is expected to bring some changes to its upcoming Galaxy Z Fold 6, and if a new leak is to be believed, that includes a boxier design and a wider cover display.\r\nSamsung’s plans for the Galax… [+1294 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "This founder says meme tech is the next big thing - TechCrunch",
-      "description": "Alex Taub, a longtime founder with multiple exits under his belt, believes it's time to disrupt the meme industry. “I have this big thesis that meme tech",
-      "url": "https://techcrunch.com/2024/05/29/this-founder-says-memetech-is-the-next-big-thing/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/distracted-girlfriend.jpg?resize=1200,800",
-      "publishedAt": "2024-05-29T16:00:01Z",
-      "content": "Alex Taub, a longtime founder with multiple exits under his belt, believes it’s time to disrupt the meme industry.\r\nI have this big thesis that meme tech is going to be the next big category, Taub to… [+4474 chars]"
+      "title": "Samsung has officially lost its crown in the foldable market - 9to5Google",
+      "description": "After a few years, Samsung has officially lost its crown in the foldable market as the competition has continued to heat up.",
+      "url": "http://9to5google.com/2024/05/30/samsung-foldables-no-longer-market-leader/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/galaxy-z-flip-5-fold-5-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-30T17:13:00Z",
+      "content": "Foldables are still a new concept, but they’ve been getting much better over the few years they’ve been on the market. Samsung has been the leader in foldables since the beginning, but the company ha… [+1833 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AnandTech"
+        "name": "Eurogamer.net"
       },
-      "author": "Gavin Bonshor",
-      "title": "Arm Unveils 2024 CPU Core Designs, Cortex X925, A725 and A520: Arm v9.2 Redefined For 3nm - AnandTech",
-      "description": null,
-      "url": "https://www.anandtech.com/show/21399/arm-unveils-2024-cpu-core-designs-cortex-x925-a725-and-a520-arm-v9-2-redefined-for-3nm-",
-      "urlToImage": "https://images.anandtech.com/doci/21399/Cortex_2024_Family_Car_678x452.png",
-      "publishedAt": "2024-05-29T16:00:00Z",
-      "content": "As the semiconductor industry continues to evolve, Arm stands at the forefront of innovation for its core and IP architecture, especially in the mobile space, by pushing the boundaries of technology … [+13040 chars]"
+      "author": "Victoria Kennedy",
+      "title": "Todd Howard says Fallout renaissance is \"beyond anything\" he's seen in his career - Eurogamer",
+      "description": "Bethesda's Todd Howard has called the recent Fallout renaissance \"beyond anything [he's] ever seen in [his] 30 years of doing this\".",
+      "url": "https://www.eurogamer.net/todd-howard-says-fallout-renaissance-is-beyond-anything-hes-seen-in-his-career",
+      "urlToImage": "https://assetsio.gnwcdn.com/Fallout-76-enemy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-05-30T16:50:24Z",
+      "content": "Bethesda's Todd Howard has called Fallout's recent renaissance \"beyond anything [he's] ever seen in [his] 30 years of doing this\".\r\nThis renewed interest in the series all came about thanks to Amazon… [+2481 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Slate Magazine"
       },
-      "author": "Eddie Makuch",
-      "title": "Top 20 Best-Selling Games For April 2024 In The US - GameSpot",
-      "description": "Here are all the top-selling games for April; can you guess what's No. 1?",
-      "url": "https://www.gamespot.com/gallery/top-20-best-selling-games-for-april-2024-in-the-us/2900-5434/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4309891-screenshot2024-05-29at9.34.09am.png",
-      "publishedAt": "2024-05-29T15:47:50Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+      "author": "Nitish Pahwa",
+      "title": "Google A.I. search feature: How the company is repeating Elizabeth Holmes' mistakes. - Slate",
+      "description": "Would you eat glue? Smoke while pregnant? Google’s A.I. search feature thinks you should.",
+      "url": "https://slate.com/technology/2024/05/google-ai-search-elizabeth-holmes-theranos-repeating-mistakes.html",
+      "urlToImage": "https://compote.slate.com/images/662544ba-cd3e-4841-ae88-5b5f58d90cbe.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-05-30T16:35:00Z",
+      "content": "The new artificial intelligence features Google announced just weeks ago are finally breaking through to the mainstreamalbeit not in the manner Google might prefer.\r\nAs you may have gleaned from rece… [+9697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Android adding Cross-device services: Call casting, Instant hotspot - 9to5Google",
+      "description": "Google's Better Together initiative on Android is continuing today with \"Cross-device services.\" Call casting and Instant hotspot...",
+      "url": "http://9to5google.com/2024/05/30/android-cross-device-services/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Android-Cross-device-services-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-30T16:01:00Z",
+      "content": "Google’s Better Together initiative to improve the experience of owning multiple Android-powered devices is continuing today with “Cross-device services.”\r\nCall casting lets you “change devices in th… [+1282 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "Chatbots Are Entering Their Stone Age - WIRED",
+      "description": "Anthropic and other big AI startups are teaching chatbots “tool use,” to make them more useful in the workplace.",
+      "url": "https://www.wired.com/story/chatbots-are-entering-the-stone-age/",
+      "urlToImage": "https://media.wired.com/photos/6657bc992dd651758a2748e5/191:100/w_1280,c_limit/AI-Tool-Use-Fast-Forward-Business-145065467.jpg",
+      "publishedAt": "2024-05-30T16:00:00Z",
+      "content": "For all the bluster about generative artificial intelligence upending the world, the technology has yet to meaningfully transform white-collar work. Workers are dabbling with chatbots for tasks such … [+3347 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "Activision is awarded $14.5 million in a Call of Duty cheating lawsuit - The Verge",
-      "description": "A US district judge awarded Activision a $14.5 million default judgment against many defendants of cheat creator EngineOwning, who never responded to the lawsuit.",
-      "url": "https://www.theverge.com/2024/5/29/24166932/activision-call-of-duty-cheat-creator-lawsuit-engineowning",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zrDqrQEiIfqIl_oaPl1a40r8g8Y=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25054976/MW3_CP_REVEAL_08_BRANDED.png",
-      "publishedAt": "2024-05-29T15:40:58Z",
-      "content": "Activision is awarded $14.5 million in a Call of Duty cheating lawsuit\r\nActivision is awarded $14.5 million in a Call of Duty cheating lawsuit\r\n / The court also ordered the defendants, EngineOwning,… [+2322 chars]"
+      "author": "Kylie Robison",
+      "title": "Anthropic's AI now lets you create bots to work for you - The Verge",
+      "description": "Anthropic’s Claude can now interact with the world of APIs and deliver personalized solutions.",
+      "url": "https://www.theverge.com/2024/5/30/24167231/anthropic-claude-ai-assistant-automate-tasks",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vNMfM5bpGgs8ixA4ksEjBydTG-4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469772/STK269_ANTHROPIC_A.jpg",
+      "publishedAt": "2024-05-30T16:00:00Z",
+      "content": "Anthropics AI now lets you create bots to work for you\r\nAnthropics AI now lets you create bots to work for you\r\n / It can buy shoes, read emails, or do whatever you want.\r\nByKylie Robison, a senior A… [+2488 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lauren Forristal",
-      "title": "Microsoft’s Copilot is now on Telegram - TechCrunch",
-      "description": "Microsoft’s Copilot, a generative AI-powered tool that can generate text as well as answer specific questions, is now available as an in-app chatbot on Microsoft’s Copilot is now available as an in-app chatbot on Telegram.",
-      "url": "https://techcrunch.com/2024/05/29/telegram-microsoft-copilot-ai-chatbot/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-917260478.jpg?resize=1200,800",
-      "publishedAt": "2024-05-29T15:37:51Z",
-      "content": "Microsofts Copilot, a generative AI-powered tool that can generate text as well as answer specific questions, is now available as an in-app chatbot on Telegram, the instant messaging app. \r\nCurrently… [+1274 chars]"
+      "author": "Jess Weatherbed",
+      "title": "Google lets you edit sent Messages in latest Android feature drop - The Verge",
+      "description": "Google is releasing seven new Android updates, including the ability to edit Google Messages up to 15 minutes after they’ve been sent.",
+      "url": "https://www.theverge.com/2024/5/30/24167743/android-updates-edit-sent-google-messages-wearos-smart-home",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Slbltj1n_UWkt8RcKa0S1iJoU-g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg",
+      "publishedAt": "2024-05-30T16:00:00Z",
+      "content": "Google lets you edit sent Messages in latest Android feature drop\r\nGoogle lets you edit sent Messages in latest Android feature drop\r\n / Seven new Android features are rolling out affecting Google Me… [+2354 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Android Police"
       },
-      "author": "TOI Tech Desk",
-      "title": "WWDC 2024: Apple’s ‘secret’ plan to protect user privacy with AI features - The Times of India",
-      "description": "TECH NEWS : Apple is set to reveal AI updates and a 'Black Box' for user privacy at WWDC 2024, featuring iOS 18, iPadOS 18, macOS 15, and visionOS 2.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/wwdc-2024-apples-secret-plan-to-protect-user-privacy-with-ai-features/articleshow/110541100.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110541080,width-1070,height-580,imgsize-16330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-05-29T15:24:00Z",
-      "content": null
+      "author": "Samuel Martinez",
+      "title": "Google's newest Android features get you RCS message editing, instant hotspot, and more - Android Police",
+      "description": "Plus seamless video call switching, new Emoji Kitchen combos, and Google Home widgets",
+      "url": "https://www.androidpolice.com/google-new-android-features-rcs-message-editing-more/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-review-06.jpg",
+      "publishedAt": "2024-05-30T16:00:00Z",
+      "content": "Summary\r\n<ul><li> Google has announced a suite of new features heading to Android devices in the coming days. </li><li> Editing sent RCS messages in Google Message is now possible. A new instant hots… [+2927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Home rolling out 'Favorites' Android widget, Wear OS Tile - 9to5Google",
+      "description": "As we previously spotted, the Google Home app on Android is getting a new homescreen widget and Wear OS Tile.",
+      "url": "http://9to5google.com/2024/05/30/google-home-android-widget-wear-os-tile/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Google-Home-Favorites-widget-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-30T16:00:00Z",
+      "content": "As we previously spotted, the Google Home app on Android is getting a new homescreen widget and Wear OS Tile.\r\nThis new Favorites widget can show your smart home devices, automations, and actions in … [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "How independent websites are dealing with the end of Google traffic - The Verge",
+      "description": "Search is a foundational platform the modern web was built on. But all platforms come and go — so what’s next?",
+      "url": "https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+      "publishedAt": "2024-05-30T15:55:21Z",
+      "content": "Google Zero is here now what?\r\nGoogle Zero is here now what?\r\n / Search is an invisible platform that shaped the entire web. And its changing.\r\nWeve been covering big changes to Google and Google Sea… [+2843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Christine Romero-Chan",
+      "title": "5 tablets you should buy instead of the iPad Air (2024) - Digital Trends",
+      "description": "Thinking about getting the new iPad Air? Before you buy it, here are five other tablets you should consider instead.",
+      "url": "https://www.digitaltrends.com/mobile/tablets-you-should-buy-instead-of-the-apple-ipad-air-2024/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/05/ipad-air-screens.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-05-30T15:00:11Z",
+      "content": "Andy Boxall / Digital Trends\r\nApple finally released some new iPads this year after going over a year without any updates. The iPad Air got a big refresh, now with an M2 chip inside and a new size — … [+8527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Every Summer Game Fest/Not-E3 2024 Showcase Streaming In June - Kotaku",
+      "description": "June will be full of new trailers and big reveals for Xbox, Ubisoft, and more",
+      "url": "https://kotaku.com/e3-summer-game-fest-2024-conference-streaming-when-date-1851507950",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/75f50c3e31b8e50f60f604b3a11cd949.jpg",
+      "publishedAt": "2024-05-30T14:50:00Z",
+      "content": "Whats dead may never die. E3 may finally be gone for good but its spirit lives on in Summer Game Fest. Hosted by The Game Awards creator Geoff Keighley, the event kicks off in June and promises tease… [+6983 chars]"
     }
   ]
 }
