@@ -1,97 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 161,
+  "totalResults": 194,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Millions of iPhone users have already been using RCS, they just don't know it - Android Authority",
+      "description": "Millions of Japanese iPhone users have been sending text messages over RCS for years now. Here's how they've been doing it.",
+      "url": "https://www.androidauthority.com/iphone-already-has-rcs-3449177/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/12/Apple-iPhone-15-Plus_3-scaled.jpg",
+      "publishedAt": "2024-06-05T21:37:13Z",
+      "content": "<ul><li>Millions of Japanese iPhone users have been sending text messages over RCS for years now.</li><li>This is thanks to the downloadable +Message app created by three major Japanese carriers.</li… [+4568 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "Over 200k Team Fortress 2 Fans Want Valve To Fix The Game - Kotaku",
-      "description": "Players are tired of aimbots ruining servers in the popular free-to-play shooter",
-      "url": "https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f057aa1fa612cb891519910df0a015c4.jpg",
-      "publishedAt": "2024-06-04T21:05:00Z",
-      "content": "Valves free-to-play class-based shooter,Team Fortress 2, is over 16 years old and yet continues to be one of the most-played games on Steam. However, TF2's large fanbase is fed up with Valves inabili… [+2728 chars]"
+      "title": "Indie Dev's Reply After Cloning Someone's Game: 'Happens Every Day Homie' - Kotaku",
+      "description": "Dire Decks creator kindanice gave a developer some advice and that dev then copied his game",
+      "url": "https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/49ad2ef0011ebd8d2a9ede25498afccb.jpg",
+      "publishedAt": "2024-06-05T21:30:00Z",
+      "content": "Heres a weird one. A video game developer was contacted by another developer and the two shared some tips and advice with each other. Then a year later, one of those devs turned around and cloned the… [+2550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cined.com"
+      },
+      "author": "Jeff Loch, Jeff Loch",
+      "title": "Canon EOS C400 Cinema Camera Announced - 6K, Full Frame, RAW Internal Recording, Triple Base ISO, and More - CineD",
+      "description": "Canon has just announced their latest RF-mount cinema camera: the EOS C400. This camera features a 6K Full Frame image sensor, it can record in Cinema RAW Light",
+      "url": "https://www.cined.com/canon-eos-c400-cinema-camera-announced-6k-full-frame-raw-internal-recording-triple-base-iso-and-more/",
+      "urlToImage": "https://www.cined.com/content/uploads/2024/06/C400.jpg",
+      "publishedAt": "2024-06-05T21:25:31Z",
+      "content": "Canon has just announced their latest RF-mount cinema camera: the EOS C400. This camera features a 6K Full Frame image sensor, it can record in Cinema RAW Light at up to 6K/60P onto CFexpress memory … [+12496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cined.com"
+      },
+      "author": "Jakub Han, Jakub Han",
+      "title": "Panasonic LUMIX GH7 Announced - PDAF, Internal ProRes RAW, 32-bit Float Audio, and More - CineD",
+      "description": "The new Panasonic LUMIX GH7 camera features a new 25.2MP Micro Four Thirds sensor with phase detect autofocus (PDAF) and faster AFS and AFC in both photo and vi",
+      "url": "https://www.cined.com/panasonic-lumix-gh7-announced-pdaf-internal-prores-raw-32-bit-float-audio-and-more/",
+      "urlToImage": "https://www.cined.com/content/uploads/2024/06/Panasonic-LUMIX-GH7-5.jpg",
+      "publishedAt": "2024-06-05T21:00:39Z",
+      "content": "The new Panasonic LUMIX GH7 camera features a new 25.2MP Micro Four Thirds sensor with phase detect autofocus (PDAF) and faster AFS and AFC in both photo and video. There is a wide variety of 10-bit … [+8560 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Humane warns AI Pin owners to “immediately” stop using its charging case - The Verge",
+      "description": "Humane told an AI Pin owner that, after finding an issue with a third-party-supplied battery cell, it recommends that customer stop using the charging case that came with it.",
+      "url": "https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fZ8Dp9T9f8FElz6-6FT8ci5PuyI=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379319/247075_Humane_AI_pin_AKrales_0111.jpg",
+      "publishedAt": "2024-06-05T20:49:02Z",
+      "content": "Humane warns AI Pin owners to immediately stop using its charging case\r\nHumane warns AI Pin owners to immediately stop using its charging case\r\n / The company says it found an issue with its battery … [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "IGN",
+      "title": "Sony Appears to Remove 8K Tag From PlayStation 5 Boxes - IGN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvc29ueS1hcHBlYXJzLXRvLXJlbW92ZS04ay10YWctZnJvbS1wbGF5c3RhdGlvbi01LWJveGVz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-05T20:20:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Muhammad Zuhair",
+      "title": "Samsung Unveils New Odyssey Gaming Monitors, Featuring The Odyssey OLED G8 & Odyssey OLED G6 - Wccftech",
+      "description": "Samsung unveils a new models of its Odyssey gaming monitor lineup, the Odyssey OLED G8 and OLED G6, which features cutting-edge capabilities",
+      "url": "https://wccftech.com/samsung-unveils-new-odyssey-gaming-monitors-odyssey-oled-g8-odyssey-oled-g6/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/06/Odyssey-Monitors_PR_main2-1.jpg",
+      "publishedAt": "2024-06-05T20:15:00Z",
+      "content": "Samsung finally unveils a new models of its \"Odyssey\" gaming monitor lineup, the Odyssey OLED G8 and OLED G6, which features cutting-edge capabilities and AI \"goodies.\"\r\nWell, the Korean giant's Odys… [+2209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Pixel 8 and 8 Pro now come with the best of Google AI - 9to5Google",
+      "description": "During the Google Store summer sale, Pixel 8 and 8 Pro buyers can get four months of Google One AI Premium for free.",
+      "url": "http://9to5google.com/2024/06/05/pixel-8-google-ai/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/pixel-8-google-ai-premium-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-05T19:54:00Z",
+      "content": "During the Google Store summer sale, Pixel 8 and 8 Pro buyers can get four months of Google One AI Premium for free.\r\nWith Fitbit Ace LTE pre-orders ending today, the top spot on the Google Store hom… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CRN"
+      },
+      "author": "Dylan Martin",
+      "title": "4 Big Points About Intel's New, Efficiency-Focused Xeon 6 E-Core CPUs - CRN",
+      "description": "CRN goes through four important points about Intel’s newly launched Xeon 6 E-core processors, including their specs and how they can help data centers reduce energy consumption.",
+      "url": "https://www.crn.com/news/components-peripherals/2024/4-big-points-about-intel-s-new-efficiency-focused-xeon-6-e-core-cpus",
+      "urlToImage": "https://www.crn.com/news/components-peripherals/2024/media_16096a3dacf04f46e0e8482ac7c227b6e2712c12f.png?width=1200&format=pjpg&optimize=medium",
+      "publishedAt": "2024-06-05T19:16:00Z",
+      "content": "Intel says its new Xeon 6 E-core CPUs feature up to 288 cores and will enable data centers to significantly reduce energy consumption and space. CRN goes through four important points about the new s… [+9297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCGamesN"
+      },
+      "author": "PCGamesN",
+      "title": "Skyrim, Baldur's Gate 3, and other saves will come under risk as GOG will delete data - PCGamesN",
+      "description": null,
+      "url": "https://www.pcgamesn.com/the-elder-scrolls-v-skyrim-special-edition/gog-save-data",
+      "urlToImage": null,
+      "publishedAt": "2024-06-05T19:04:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Maps location history change rolling out, Your Timeline on web going away - 9to5Google",
+      "description": "A big change to Google Maps location history is continuing to roll out, and will see Your Timeline go away on the web...",
+      "url": "http://9to5google.com/2024/06/05/google-maps-timeline-web/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-maps-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-05T19:00:00Z",
+      "content": "Back in December, Google announced that Maps Location History would soon be stored on your phone instead of the cloud. This change to the Google Maps Timeline is continuing to roll out, and will see … [+1992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Jaron Schneider",
+      "title": "Canon's 35mm f/1.4L VCM Lens is the First in a New Series of Hybrid Primes - PetaPixel",
+      "description": "The first in a series of high-performance primes.",
+      "url": "https://petapixel.com/2024/06/05/canons-35mm-f-1-4l-vcm-lens-is-the-first-in-a-new-series-of-hybrid-primes/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2024/06/Canons-35mm-f1.4L-VCM-Lens-is-the-First-in-a-New-Series-of-Hybrid-Primes.jpg",
+      "publishedAt": "2024-06-05T18:59:18Z",
+      "content": "Canon announced the 35mm f/1.4L VCM prime lens which is designed to work equally well for both video production and photo capture. Canon says it is the first in a series of new primes that are meant … [+4516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Why Apple's generative AI push won't launch an iPhone supercycle in 2024 - Yahoo Finance",
+      "description": "Apple is expected to unveil its big generative AI push with new capabilities for the iPhone. But don’t expect generative AI itself to spur a new iPhone sales...",
+      "url": "https://finance.yahoo.com/news/why-apples-generative-ai-push-wont-launch-an-iphone-supercycle-in-2024-184411662.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uf0BWwsquymF4_jAkGxdTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d0d54dd0-229b-11ef-aeff-c53977758562",
+      "publishedAt": "2024-06-05T18:44:11Z",
+      "content": "Were less than a week out from Apples (AAPL) Worldwide Developers Conference (WWDC), which kicks off on June 10 at the companys headquarters in Cupertino, Calif. This year the company is expected to … [+5018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple’s iPhone security update guarantee outdone by Samsung - 9to5Mac",
+      "description": "Apple has committed to support new iPhones for five years from their release date, less than what some of its competitors guarantee.",
+      "url": "https://9to5mac.com/2024/06/05/apple-promises-fewer-years-of-iphone-security-updates-than-samsung-and-google/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-loses-smartphone-crown.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-05T18:44:00Z",
+      "content": "Historically, Apple has been hesitant to commit to solid timelines of how long it will support its devices with security and software updates. Now, thanks to a particular UK legal requirement, that h… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Why Arm chips pose a threat to Intel and AMD's PC dominance - Yahoo Finance",
+      "description": "Arm-based chips are coming to Windows PCs, and they pose a series threat to Intel and AMD's dominance.",
+      "url": "https://finance.yahoo.com/news/why-arm-chips-pose-a-threat-to-intel-and-amds-pc-dominance-180840226.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kng4SzLykKC0zRAR1sX6Jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/619cbcc0-235c-11ef-aff5-ddb4cf5836eb",
+      "publishedAt": "2024-06-05T18:08:40Z",
+      "content": "Intel (INTC) and AMD (AMD) are staring down a new competitor in the PC market: Arm (ARM).\r\nThe UK-based chip designer is making a fresh push into the space via Qualcomm (QCOM) and its Arm-based Snapd… [+5240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "RPG MAKER WITH – Make Games with Friends Trailer – Nintendo Switch - Nintendo of America",
+      "description": "RPG MAKER WITH is coming to Nintendo Switch on October 11th!  Making games is more fun with everyone in RPG MAKER WITH! With user-friendly tools, intuitive c...",
+      "url": "https://www.youtube.com/watch?v=PH9axkYdAoY",
+      "urlToImage": "https://i.ytimg.com/vi/PH9axkYdAoY/hqdefault.jpg",
+      "publishedAt": "2024-06-05T18:00:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple's Latest Macs and iPads Have Hidden Smart Home Thread Radio - MacRumors",
+      "description": "Apple has added an unannounced Thread radio in most of the Macs and iPads that have been released in the last eight months, according to a report...",
+      "url": "https://www.macrumors.com/2024/06/05/hidden-thread-macs-ipads/",
+      "urlToImage": "https://images.macrumors.com/t/aH0y7ONseZbDd8NvZXpSygi9QOc=/2500x/article-new/2024/05/m2-iPad-Air-Horizontal-Feature-Blue-and-Purple.jpg",
+      "publishedAt": "2024-06-05T17:54:22Z",
+      "content": "Apple has added an unannounced Thread radio in most of the Macs and iPads that have been released in the last eight months, according to a report from The Verge. Thread is not listed as a feature in … [+2104 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Brian Heater",
-      "title": "What to expect from WWDC 2024: iOS 18, macOS 15 and so much AI - TechCrunch",
-      "description": "Apple is hoping to make WWDC 2024 memorable as it finally spells out its generative AI plans.",
-      "url": "https://techcrunch.com/2024/06/04/what-to-expect-from-wwdc-2024-ios-18-macos-15-and-so-much-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-audio.jpg?resize=1200,675",
-      "publishedAt": "2024-06-04T20:18:44Z",
-      "content": "Apples annual World Wide Developer Conference kicks off on Monday at 10 a.m. PT/1 p.m. ET with the standard Tim Cook keynote. Whereas last years WWDC will be remembered as the event that finally intr… [+5873 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "The 32\" Samsung Odyssey G80SD 4K 240Hz OLED Gaming Monitor Is Finally Available, and It Comes With a Bonus $300 Best Buy Gift Card - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/best-gaming-monitor-deals-2024-32-samsung-odyssey-g80sd-4k-240hz-oled-display",
-      "urlToImage": null,
-      "publishedAt": "2024-06-04T19:40:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Moises Taveras",
-      "title": "Destiny 2 Servers Slammed Due To The Final Shape's Launch - Kotaku",
-      "description": "The climactic expansion recently exceeded more than a million pre-orders",
-      "url": "https://kotaku.com/destiny-2-the-final-shape-servers-1851519144",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d1133f05ff9180422c6c620c9f31e92e.jpg",
-      "publishedAt": "2024-06-04T18:30:00Z",
-      "content": "Destiny 2 servers are not available. Dismiss this message to try again.\r\nAs expected, Destiny 2s servers are slammed, and very few people have managed to get into the game to experience its climactic… [+1835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "author": "Bridget Botelho",
-      "title": "AMD, Intel and Nvidia's latest moves in the AI PC chip race - TechTarget",
-      "description": "Major chip makers used Computex 2024 to launch their aggressive AI chip strategies and stake a claim in the burgeoning AI PC market.",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366587752/AMD-Intel-and-Nvidias-latest-moves-in-the-AI-PC-chip-race",
-      "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/code_g1297696209.jpg",
-      "publishedAt": "2024-06-04T18:03:07Z",
-      "content": "The CEOs of AMD, Intel, Nvidia and Qualcomm all delivered keynotes during Computex conference in Taiwan this week to share significant chip advancements as the companies aim to turn every device into… [+7051 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Google's AI Overviews misunderstand why people use Google - Ars Technica",
-      "description": "Answers that are factually \"wrong\" are only part of the problem.",
-      "url": "https://arstechnica.com/ai/2024/06/googles-ai-overviews-misunderstand-why-people-use-google/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/google-super-tasty-pizza-glue-760x380.jpg",
-      "publishedAt": "2024-06-04T17:31:39Z",
-      "content": "I'm going to disagree with the basic premise of the article: \"Googles AI Overviews misunderstand why people use Google.\" To mean it needs to be at least clarified to how some people use Google, what … [+2520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "OnePlus 13 leaks: Robust battery, Snapdragon 8 Gen 4- chipset, and Hasselblad partnership expected | Mint - Mint",
-      "description": "The OnePlus 13, expected in October 2024, may forgo wireless charging in favor of a 6,000mAh battery with 100W wired charging. It is likely to feature a Snapdragon 8 Gen 4 processor, revamped camera design, micro-curved WQHD+ display, and ultrasonic fingerpri…",
-      "url": "https://www.livemint.com/technology/tech-news/oneplus-13-leaks-robust-battery-snapdragon-8-gen-4-chipset-and-hasselblad-partnership-expected-11717521675889.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/04/1600x900/one_plus_1712320134384_1717522086433.jpg",
-      "publishedAt": "2024-06-04T17:27:33Z",
-      "content": "Speculation surrounding the OnePlus 13 has already started to gain momentum online. According to Digital Chat Station, a well-known Chinese tipster, the upcoming OnePlus flagship may omit wireless ch… [+2647 chars]"
+      "author": "Kyle Wiggers",
+      "title": "Stability AI releases a sound generator - TechCrunch",
+      "description": "Stability AI, the company behind Stable Diffusion, has released a sound-generating AI model called Stable Audio Open.",
+      "url": "https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/Screenshot_2024-06-05_at_1.36.18a_¯PM-transformed.png?resize=1200,595",
+      "publishedAt": "2024-06-05T17:39:06Z",
+      "content": "Stability AI, the startup behind the AI-powered art generator Stable Diffusion, has released an open AI model for generating sounds and songs that it claims was trained exclusively on royalty-free re… [+2618 chars]"
     },
     {
       "source": {
@@ -99,168 +242,25 @@
         "name": "Forbes"
       },
       "author": "Paul Tassi",
-      "title": "'Destiny 2' Servers Offline, Hammered By 'Final Shape' Player Logins - Forbes",
-      "description": "Destiny 2's servers are offline and login queues have yet to even begin as The Final Shape deals with a crush of players.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/06/04/destiny-2-servers-offline-hammered-by-final-shape-player-logins/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665f4cbd4b4a0b0492c898a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-04T17:22:11Z",
-      "content": "Destiny 2\r\nBungie\r\nTo the surprise of no one, Destiny 2 is having a bit of difficulty managing the enormous amount of people who are logging in to play its final Light and Darkness expansion, The Fin… [+2243 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Motorola Edge 2024 with 68W fast charging, 50MP camera launched - The Times of India",
-      "description": "MOBILES & TABLETS News: Motorola expands Edge series with launch of Motorola Edge 2024 smartphone in the US. Features pOLED display, Qualcomm chipset, IP68 rating, 5000 mAh b",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/motorola-edge-2024-with-68w-fast-charging-50mp-camera-launched/articleshow/110711996.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110711968,width-1070,height-580,imgsize-13896,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-04T17:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India TV News"
-      },
-      "author": "Om Gupta",
-      "title": "OnePlus Nord 3 gets huge discount: Check out new prices here - India TV News",
-      "description": "OnePlus has significantly reduced the price of another mid-budget smartphone. This OnePlus phone is now available for less than Rs 20,000. Launched last year, this phone boasts strong features such as the MediaTek Dimensity 9000 processor and 16GB of RAM.",
-      "url": "https://www.indiatvnews.com/technology/news/oneplus-nord-3-gets-huge-discount-check-out-new-prices-here-2024-06-04-935207",
-      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/oneplus-nord-3-1717520034.jpg",
-      "publishedAt": "2024-06-04T16:55:10Z",
-      "content": "OnePlus is gearing up to launch its Nord 4 smartphone in India. Prior to the launch of this smartphone, the price of the OnePlus Nord 3 5G, which was launched last year, has been drastically reduced.… [+1790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Land"
-      },
-      "author": "Danny Goodwin",
-      "title": "Google AI Overviews visibility drops, only shows for 15% of queries - Search Engine Land",
-      "description": "Google's AI Overviews (when it was known as Search Generative Experience in Labs) once showed 84% of the time.",
-      "url": "https://searchengineland.com/google-ai-overviews-visibility-drops-15-percent-queries-442850",
-      "urlToImage": "https://searchengineland.com/wp-content/seloads/2024/01/google-robot-painting-1920.jpg",
-      "publishedAt": "2024-06-04T16:00:00Z",
-      "content": "Google’s AI Overviews now appear less than 15% of the time, according to a new analysis.\r\nThe drop. Here’s a screenshot showing the data:\r\nThe data was shared with Search Engine Land by enterprise SE… [+1830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ro",
-      "title": "Nothing's cryptic teaser decoded - CMF Phone 1 incoming, specs in tow - GSMArena.com",
-      "description": "A budget-friendly device with a unique feature. Nothing published a cryptic teaser yesterday, which lead to speculation that the company was ready to...",
-      "url": "https://www.gsmarena.com/nothings_cryptic_teaser_decoded__cmf_phone_1_incoming_specs_in_tow-news-63133.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/nothing-cmf-phone-1-specs/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-06-04T15:51:01Z",
-      "content": "Nothing published a cryptic teaser yesterday, which lead to speculation that the company was ready to launch the Nothing Phone (3), given that the two predecessors were announced in July. However, tw… [+1268 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Samsung leak reveals a cheaper Galaxy Watch - The Verge",
-      "description": "A set of leaked renders show what appears to be a cheaper, FE version of Samsung’s Galaxy Watch. The watch is rumored to cost $199.",
-      "url": "https://www.theverge.com/2024/6/4/24171225/samsung-galaxy-watch-fe-leak-cheaper",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OK80rwrX3nJmKBmkx3IqpXhxvp4=/0x0:900x800/1200x628/filters:focal(450x400:451x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477197/samsung_galaxy_watch_fe_leak.jpg",
-      "publishedAt": "2024-06-04T15:40:16Z",
-      "content": "Samsung leak reveals a cheaper Galaxy Watch\r\nSamsung leak reveals a cheaper Galaxy Watch\r\n / The FE version of the Galaxy Watch could cost $199.\r\nByEmma Roth, a news writer who covers the streaming w… [+1326 chars]"
+      "title": "Report: Microsoft Will Debut Handheld Xbox Hardware At Its Games Showcase - Forbes",
+      "description": "Xbox is always telling us it wants us to play Xbox games anywhere, and that might about to be very literal.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/06/05/report-microsoft-will-debut-handheld-xbox-hardware-at-its-games-showcase/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f6b45673ba7fb9bc0386fe8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-05T17:38:41Z",
+      "content": "Xbox\r\nMS\r\nXbox is always telling us it wants us to play Xbox games anywhere, and that might about to become very literal.\r\nA new report from well-known leaker eXtas1 says that Microsoft is getting re… [+2102 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Emily Baker-White",
-      "title": "A Zero Day TikTok Hack Is Taking Over Celebrity And Brand Accounts - Forbes",
-      "description": "The compromised accounts include CNN and Paris Hilton — and all users have to do to be hacked is open a DM.",
-      "url": "https://www.forbes.com/sites/emilybaker-white/2024/06/04/a-zero-day-tiktok-hack-is-taking-over-celebrity-and-brand-accounts/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665f1997047a75091e902088/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-04T15:11:18Z",
-      "content": "Malicious code in DMs is taking over TikTok accounts, including those of celebrities and brands.\r\nNurPhoto via Getty Images\r\nMalicious code is taking over accounts on TikTok, and has already compromi… [+3277 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess",
-      "title": "This Hacker Tool Extracts All the Data Collected by Windows' New Recall AI - WIRED",
-      "description": "Windows Recall takes a screenshot every five seconds. Cybersecurity researchers say the system is simple to abuse—and one ethical hacker has already built a tool to show how easy it really is.",
-      "url": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-      "urlToImage": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/191:100/w_1280,c_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-      "publishedAt": "2024-06-04T15:08:25Z",
-      "content": "Hagenah says an attacker could get a huge amount of information about their target, including insights into their emails, personal conversations, and any sensitive information thats captured by Recal… [+2769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nojitter.com"
-      },
-      "author": null,
-      "title": "Microsoft Debuts Dynamics Contact Center, a Copilot-First CCaaS - No Jitter",
-      "description": "The new product – and its ability to support other CRM applications – is a sign that Microsoft is preparing to go head-to-head with leaders in the CCaaS market.",
-      "url": "https://www.nojitter.com/contact-center-customer-experience/microsoft-debuts-dynamics-contact-center-copilot-first-ccaas",
-      "urlToImage": null,
-      "publishedAt": "2024-06-04T15:01:37Z",
-      "content": "Today, Microsoft announced Microsoft Dynamics Contact Center. The standalone contact center as a service (CCaaS) solution is scheduled to enter general availability on July 1st, when pricing for the … [+7148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Noctua Finally Did It | NH-D15 G2 Launching, Thermosiphon, & Fans - Gamers Nexus",
-      "description": "Sponsor: Thermal Grizzly Aeronaut on Amazon https://geni.us/e8Oq & Hydronaut (Amazon) https://geni.us/hOQrBAbNoctua is finally launching its Noctua NH-D15 G2...",
-      "url": "https://www.youtube.com/watch?v=nDDxYlkp-_A",
-      "urlToImage": "https://i.ytimg.com/vi/nDDxYlkp-_A/maxresdefault.jpg",
-      "publishedAt": "2024-06-04T14:34:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "BS Tech",
-      "title": "Tech wrap Jun 04: Instagram's unskippable ads, X allows adult content, more - Business Standard",
-      "description": "Instagram unskippable ads: Instagram tests unskippable ads to boost engagement. X updates guidelines related to violent and adult content. iOS 18 and AI to take centre stage at WWDC on June 10",
-      "url": "https://www.business-standard.com/technology/tech-news/tech-wrap-jun-04-instagram-s-unskippable-ads-x-allows-adult-content-more-124060401077_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/04/thumb/fitandfill/400X400/1717500161-0897.jpg",
-      "publishedAt": "2024-06-04T14:33:00Z",
-      "content": "Instagram tests unskippable ads to boost engagement. X updates guidelines related to violent and adult content. iOS 18 and AI to take centre stage at WWDC on June 10\r\nTech Wrap June 04\r\nBS TechNew De… [+2860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "How to install Android 15 beta | Learn how to UPGRADE in under 5 minutes! - Android Authority",
-      "description": "If you've been wanting to test out Android 15 beta on your Android phone to test out a few of its features early, then this quick guide is for you! Read more...",
-      "url": "https://www.youtube.com/watch?v=EX8Y8qs69Vo",
-      "urlToImage": "https://i.ytimg.com/vi/EX8Y8qs69Vo/maxresdefault.jpg",
-      "publishedAt": "2024-06-04T14:30:04Z",
-      "content": null
+      "author": "Paul Tassi",
+      "title": "'Destiny 2: The Final Shape' Review (Part 1): They Did It - Forbes",
+      "description": "The Final Shape campaign is indeed the best Destiny 2 expansion storyline Bungie's ever done, combining series-best environment design and impressive mission structure.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/06/05/destiny-2-the-final-shape-review-part-1-they-did-it/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66609cff9735516b8698074a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-05T17:22:03Z",
+      "content": "Destiny 2\r\nBungie\r\nAfter being plagued with server issues most of yesterday, I was able to finish the current collection of Destiny 2 campaign missions for The Final Shape. A raid is coming on Friday… [+6636 chars]"
     }
   ]
 }
