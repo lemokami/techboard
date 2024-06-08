@@ -1,201 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 194,
+  "totalResults": 229,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Forbes"
       },
-      "author": null,
-      "title": "Millions of iPhone users have already been using RCS, they just don't know it - Android Authority",
-      "description": "Millions of Japanese iPhone users have been sending text messages over RCS for years now. Here's how they've been doing it.",
-      "url": "https://www.androidauthority.com/iphone-already-has-rcs-3449177/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/12/Apple-iPhone-15-Plus_3-scaled.jpg",
-      "publishedAt": "2024-06-05T21:37:13Z",
-      "content": "<ul><li>Millions of Japanese iPhone users have been sending text messages over RCS for years now.</li><li>This is thanks to the downloadable +Message app created by three major Japanese carriers.</li… [+4568 chars]"
+      "author": "Kris Holt",
+      "title": "Today's NYT 'Strands' Hints, Spangram And Answers For Friday, June 7 - Forbes",
+      "description": "Looking for some help with Friday's NYT Strands? An extra hint and the answers are right here.",
+      "url": "https://www.forbes.com/sites/krisholt/2024/06/06/todays-nyt-strands-hints-spangram-answers-friday-june-7-sorority-signs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622d37751713d67a500e5cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-06T21:45:12Z",
+      "content": "Today's NYT Strands hints and answers.\r\nNew York Times\r\nLooking for Thursdays Strands hints, spangram and answers? You can find them here:\r\nForbesToday's NYT 'Strands' Hints, Spangram And Answers For… [+3677 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GameSpot"
       },
-      "author": "Zack Zwiezen",
-      "title": "Indie Dev's Reply After Cloning Someone's Game: 'Happens Every Day Homie' - Kotaku",
-      "description": "Dire Decks creator kindanice gave a developer some advice and that dev then copied his game",
-      "url": "https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/49ad2ef0011ebd8d2a9ede25498afccb.jpg",
-      "publishedAt": "2024-06-05T21:30:00Z",
-      "content": "Heres a weird one. A video game developer was contacted by another developer and the two shared some tips and advice with each other. Then a year later, one of those devs turned around and cloned the… [+2550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cined.com"
-      },
-      "author": "Jeff Loch, Jeff Loch",
-      "title": "Canon EOS C400 Cinema Camera Announced - 6K, Full Frame, RAW Internal Recording, Triple Base ISO, and More - CineD",
-      "description": "Canon has just announced their latest RF-mount cinema camera: the EOS C400. This camera features a 6K Full Frame image sensor, it can record in Cinema RAW Light",
-      "url": "https://www.cined.com/canon-eos-c400-cinema-camera-announced-6k-full-frame-raw-internal-recording-triple-base-iso-and-more/",
-      "urlToImage": "https://www.cined.com/content/uploads/2024/06/C400.jpg",
-      "publishedAt": "2024-06-05T21:25:31Z",
-      "content": "Canon has just announced their latest RF-mount cinema camera: the EOS C400. This camera features a 6K Full Frame image sensor, it can record in Cinema RAW Light at up to 6K/60P onto CFexpress memory … [+12496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cined.com"
-      },
-      "author": "Jakub Han, Jakub Han",
-      "title": "Panasonic LUMIX GH7 Announced - PDAF, Internal ProRes RAW, 32-bit Float Audio, and More - CineD",
-      "description": "The new Panasonic LUMIX GH7 camera features a new 25.2MP Micro Four Thirds sensor with phase detect autofocus (PDAF) and faster AFS and AFC in both photo and vi",
-      "url": "https://www.cined.com/panasonic-lumix-gh7-announced-pdaf-internal-prores-raw-32-bit-float-audio-and-more/",
-      "urlToImage": "https://www.cined.com/content/uploads/2024/06/Panasonic-LUMIX-GH7-5.jpg",
-      "publishedAt": "2024-06-05T21:00:39Z",
-      "content": "The new Panasonic LUMIX GH7 camera features a new 25.2MP Micro Four Thirds sensor with phase detect autofocus (PDAF) and faster AFS and AFC in both photo and video. There is a wide variety of 10-bit … [+8560 chars]"
+      "author": "Joey Carr",
+      "title": "Hogwarts Legacy - Everything New In the Summer Update - GameSpot",
+      "description": "The summer update has introduced a plethora of new content into Hogwarts Legacy, and we're breaking it all down.",
+      "url": "https://www.gamespot.com/gallery/hogwarts-legacy-everything-new-in-the-summer-update/2900-5457/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1745/17457013/4314157-penny.jpg",
+      "publishedAt": "2024-06-06T21:22:57Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "Humane warns AI Pin owners to “immediately” stop using its charging case - The Verge",
-      "description": "Humane told an AI Pin owner that, after finding an issue with a third-party-supplied battery cell, it recommends that customer stop using the charging case that came with it.",
-      "url": "https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fZ8Dp9T9f8FElz6-6FT8ci5PuyI=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379319/247075_Humane_AI_pin_AKrales_0111.jpg",
-      "publishedAt": "2024-06-05T20:49:02Z",
-      "content": "Humane warns AI Pin owners to immediately stop using its charging case\r\nHumane warns AI Pin owners to immediately stop using its charging case\r\n / The company says it found an issue with its battery … [+2903 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IGN",
-      "title": "Sony Appears to Remove 8K Tag From PlayStation 5 Boxes - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvc29ueS1hcHBlYXJzLXRvLXJlbW92ZS04ay10YWctZnJvbS1wbGF5c3RhdGlvbi01LWJveGVz0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-06-05T20:20:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Muhammad Zuhair",
-      "title": "Samsung Unveils New Odyssey Gaming Monitors, Featuring The Odyssey OLED G8 & Odyssey OLED G6 - Wccftech",
-      "description": "Samsung unveils a new models of its Odyssey gaming monitor lineup, the Odyssey OLED G8 and OLED G6, which features cutting-edge capabilities",
-      "url": "https://wccftech.com/samsung-unveils-new-odyssey-gaming-monitors-odyssey-oled-g8-odyssey-oled-g6/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/06/Odyssey-Monitors_PR_main2-1.jpg",
-      "publishedAt": "2024-06-05T20:15:00Z",
-      "content": "Samsung finally unveils a new models of its \"Odyssey\" gaming monitor lineup, the Odyssey OLED G8 and OLED G6, which features cutting-edge capabilities and AI \"goodies.\"\r\nWell, the Korean giant's Odys… [+2209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Pixel 8 and 8 Pro now come with the best of Google AI - 9to5Google",
-      "description": "During the Google Store summer sale, Pixel 8 and 8 Pro buyers can get four months of Google One AI Premium for free.",
-      "url": "http://9to5google.com/2024/06/05/pixel-8-google-ai/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/pixel-8-google-ai-premium-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-05T19:54:00Z",
-      "content": "During the Google Store summer sale, Pixel 8 and 8 Pro buyers can get four months of Google One AI Premium for free.\r\nWith Fitbit Ace LTE pre-orders ending today, the top spot on the Google Store hom… [+1821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CRN"
-      },
-      "author": "Dylan Martin",
-      "title": "4 Big Points About Intel's New, Efficiency-Focused Xeon 6 E-Core CPUs - CRN",
-      "description": "CRN goes through four important points about Intel’s newly launched Xeon 6 E-core processors, including their specs and how they can help data centers reduce energy consumption.",
-      "url": "https://www.crn.com/news/components-peripherals/2024/4-big-points-about-intel-s-new-efficiency-focused-xeon-6-e-core-cpus",
-      "urlToImage": "https://www.crn.com/news/components-peripherals/2024/media_16096a3dacf04f46e0e8482ac7c227b6e2712c12f.png?width=1200&format=pjpg&optimize=medium",
-      "publishedAt": "2024-06-05T19:16:00Z",
-      "content": "Intel says its new Xeon 6 E-core CPUs feature up to 288 cores and will enable data centers to significantly reduce energy consumption and space. CRN goes through four important points about the new s… [+9297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": "PCGamesN",
-      "title": "Skyrim, Baldur's Gate 3, and other saves will come under risk as GOG will delete data - PCGamesN",
-      "description": null,
-      "url": "https://www.pcgamesn.com/the-elder-scrolls-v-skyrim-special-edition/gog-save-data",
-      "urlToImage": null,
-      "publishedAt": "2024-06-05T19:04:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Maps location history change rolling out, Your Timeline on web going away - 9to5Google",
-      "description": "A big change to Google Maps location history is continuing to roll out, and will see Your Timeline go away on the web...",
-      "url": "http://9to5google.com/2024/06/05/google-maps-timeline-web/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-maps-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-05T19:00:00Z",
-      "content": "Back in December, Google announced that Maps Location History would soon be stored on your phone instead of the cloud. This change to the Google Maps Timeline is continuing to roll out, and will see … [+1992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PetaPixel"
-      },
-      "author": "Jaron Schneider",
-      "title": "Canon's 35mm f/1.4L VCM Lens is the First in a New Series of Hybrid Primes - PetaPixel",
-      "description": "The first in a series of high-performance primes.",
-      "url": "https://petapixel.com/2024/06/05/canons-35mm-f-1-4l-vcm-lens-is-the-first-in-a-new-series-of-hybrid-primes/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2024/06/Canons-35mm-f1.4L-VCM-Lens-is-the-First-in-a-New-Series-of-Hybrid-Primes.jpg",
-      "publishedAt": "2024-06-05T18:59:18Z",
-      "content": "Canon announced the 35mm f/1.4L VCM prime lens which is designed to work equally well for both video production and photo capture. Canon says it is the first in a series of new primes that are meant … [+4516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Why Apple's generative AI push won't launch an iPhone supercycle in 2024 - Yahoo Finance",
-      "description": "Apple is expected to unveil its big generative AI push with new capabilities for the iPhone. But don’t expect generative AI itself to spur a new iPhone sales...",
-      "url": "https://finance.yahoo.com/news/why-apples-generative-ai-push-wont-launch-an-iphone-supercycle-in-2024-184411662.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uf0BWwsquymF4_jAkGxdTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d0d54dd0-229b-11ef-aeff-c53977758562",
-      "publishedAt": "2024-06-05T18:44:11Z",
-      "content": "Were less than a week out from Apples (AAPL) Worldwide Developers Conference (WWDC), which kicks off on June 10 at the companys headquarters in Cupertino, Calif. This year the company is expected to … [+5018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple’s iPhone security update guarantee outdone by Samsung - 9to5Mac",
-      "description": "Apple has committed to support new iPhones for five years from their release date, less than what some of its competitors guarantee.",
-      "url": "https://9to5mac.com/2024/06/05/apple-promises-fewer-years-of-iphone-security-updates-than-samsung-and-google/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-loses-smartphone-crown.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-05T18:44:00Z",
-      "content": "Historically, Apple has been hesitant to commit to solid timelines of how long it will support its devices with security and software updates. Now, thanks to a particular UK legal requirement, that h… [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Why Arm chips pose a threat to Intel and AMD's PC dominance - Yahoo Finance",
-      "description": "Arm-based chips are coming to Windows PCs, and they pose a series threat to Intel and AMD's dominance.",
-      "url": "https://finance.yahoo.com/news/why-arm-chips-pose-a-threat-to-intel-and-amds-pc-dominance-180840226.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kng4SzLykKC0zRAR1sX6Jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/619cbcc0-235c-11ef-aff5-ddb4cf5836eb",
-      "publishedAt": "2024-06-05T18:08:40Z",
-      "content": "Intel (INTC) and AMD (AMD) are staring down a new competitor in the PC market: Arm (ARM).\r\nThe UK-based chip designer is making a fresh push into the space via Qualcomm (QCOM) and its Arm-based Snapd… [+5240 chars]"
+      "author": "Emma Roth",
+      "title": "Apple might reveal a new “Passwords” app next week - The Verge",
+      "description": "Apple may show off a new “Passwords” app at WWDC 2024 that will compete with 1Password and LastPass, securing logins on iPhone, iPad, Mac, Vision Pro, and Windows.",
+      "url": "https://www.theverge.com/2024/6/6/24173202/apple-password-manager-rumor-1password-lastpass",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4LNrvISWOzpoG9hF68SCMFgOuvI=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25299201/STK453_PRIVACY_B_CVirginia.jpg",
+      "publishedAt": "2024-06-06T21:07:43Z",
+      "content": "Apple might reveal a new Passwords app next week\r\nApple might reveal a new Passwords app next week\r\n / Bloomberg reports that Apple is ready to launch a standalone password and passkeys manager that … [+1412 chars]"
     },
     {
       "source": {
@@ -203,64 +47,220 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "RPG MAKER WITH – Make Games with Friends Trailer – Nintendo Switch - Nintendo of America",
-      "description": "RPG MAKER WITH is coming to Nintendo Switch on October 11th!  Making games is more fun with everyone in RPG MAKER WITH! With user-friendly tools, intuitive c...",
-      "url": "https://www.youtube.com/watch?v=PH9axkYdAoY",
-      "urlToImage": "https://i.ytimg.com/vi/PH9axkYdAoY/hqdefault.jpg",
-      "publishedAt": "2024-06-05T18:00:50Z",
+      "title": "Cooler Master's \"Super Conductor\" Heatsink, New NR200P Case Concept, & Clever ITX - Gamers Nexus",
+      "description": "Sponsor: Thermal Grizzly Aeronaut on Amazon https://geni.us/e8Oq & Hydronaut (Amazon) https://geni.us/hOQrBAbCooler Master's exhibit at Computex 2024 showed ...",
+      "url": "https://www.youtube.com/watch?v=EgUtAo6mlws",
+      "urlToImage": "https://i.ytimg.com/vi/EgUtAo6mlws/maxresdefault.jpg",
+      "publishedAt": "2024-06-06T20:48:13Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Juli Clover",
-      "title": "Apple's Latest Macs and iPads Have Hidden Smart Home Thread Radio - MacRumors",
-      "description": "Apple has added an unannounced Thread radio in most of the Macs and iPads that have been released in the last eight months, according to a report...",
-      "url": "https://www.macrumors.com/2024/06/05/hidden-thread-macs-ipads/",
-      "urlToImage": "https://images.macrumors.com/t/aH0y7ONseZbDd8NvZXpSygi9QOc=/2500x/article-new/2024/05/m2-iPad-Air-Horizontal-Feature-Blue-and-Purple.jpg",
-      "publishedAt": "2024-06-05T17:54:22Z",
-      "content": "Apple has added an unannounced Thread radio in most of the Macs and iPads that have been released in the last eight months, according to a report from The Verge. Thread is not listed as a feature in … [+2104 chars]"
+      "author": "Kyle Orland",
+      "title": "You can inherit a dead relative's GOG account—if you have a court order - Ars Technica",
+      "description": "\"We'd do our best to make it happen... with the help of the justice system.\"",
+      "url": "https://arstechnica.com/gaming/2024/06/gog-will-transfer-your-dead-relatives-game-account-but-only-with-a-court-order/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1424658921-760x380.jpg",
+      "publishedAt": "2024-06-06T20:19:03Z",
+      "content": "Enlarge/ At least my son will be able to use my copy of Fallout: New Vegas to distract him from mourning...\r\n34\r\nA few weeks ago, we called some attention to the legal difficulty of passing on your d… [+4027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Nothing confirms CMF Phone 1 is launching soon - 9to5Google",
+      "description": "In a teaser image, Nothing confirmed that it will soon launch CMF Phone 1 with its sub-brand, but it's unclear what the device will offer.",
+      "url": "http://9to5google.com/2024/06/06/nothing-cmf-phone-1-launch-teaser/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/cmf-by-nothing-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-06T20:15:00Z",
+      "content": "After debuting with headphones and other accessories last year, Nothing’s sub-brand “CMF” is preparing to launch its first phone.\r\nIn a post on Twitter/X, Nothing confirmed that it will launch “CMF P… [+1227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jim McGregor",
+      "title": "Intel Changes Mobile PC Architecture With Lunar Lake AI SoC - Forbes",
+      "description": "...at 48 AI NPU AI TOPS and 120 platform AI TOPS, Lunar Lake will hold the platform TOPS performance lead...",
+      "url": "https://www.forbes.com/sites/tiriasresearch/2024/06/06/intel-changes-mobile-pc-architecture-with-lunar-lake-ai-soc/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6660e56da116aadbb93a8fb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-06T19:42:20Z",
+      "content": "Intel introduced the new Lunar Lake processor for the Ultra Core product line as Computex.\r\nIntel\r\nIntel Lunar Lake AI performance by processing architecture\r\nIntel\r\nIn just a week, we went from only… [+9781 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Kyle Wiggers",
-      "title": "Stability AI releases a sound generator - TechCrunch",
-      "description": "Stability AI, the company behind Stable Diffusion, has released a sound-generating AI model called Stable Audio Open.",
-      "url": "https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/Screenshot_2024-06-05_at_1.36.18a_¯PM-transformed.png?resize=1200,595",
-      "publishedAt": "2024-06-05T17:39:06Z",
-      "content": "Stability AI, the startup behind the AI-powered art generator Stable Diffusion, has released an open AI model for generating sounds and songs that it claims was trained exclusively on royalty-free re… [+2618 chars]"
+      "author": "Sarah Perez",
+      "title": "What to expect from Apple's AI-powered iOS 18 at WWDC 2024 - TechCrunch",
+      "description": "As WWDC 2024 nears, all sorts of rumors and leaks have emerged about what iOS 18 and its AI-powered apps and features have in store.",
+      "url": "https://techcrunch.com/2024/06/06/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/maxresdefault_b1e671.jpg?resize=1200,675",
+      "publishedAt": "2024-06-06T19:38:55Z",
+      "content": "Apple’s Worldwide Developers Conference next week promises to be a pivotal moment in the iPhone maker’s history. Though the Vision Pro debuted at last year’s event, don’t expect hardware to be the ma… [+5669 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Sounds like Intel's and AMD's Copilot Plus PCs won't have Copilot AI features at launch - The Verge",
+      "description": "When Intel’s and AMD’s new Copilot Plus PCs arrive this fall, they won’t necessarily come with any of the Copilot Plus AI features.",
+      "url": "https://www.theverge.com/2024/6/6/24173080/intel-amd-nvidia-copilot-plus-pc-ai-exclusivity-qualcomm-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YyT3RoEttkADAepgj1j8vv9-svw=/0x0:1920x1081/1200x628/filters:focal(1521x507:1522x508)/cdn.vox-cdn.com/uploads/chorus_asset/file/25470856/Copilot_PC_Hero.jpg",
+      "publishedAt": "2024-06-06T19:38:05Z",
+      "content": "Sounds like Intels and AMDs Copilot Plus PCs wont have Copilot AI features at launch\r\nSounds like Intels and AMDs Copilot Plus PCs wont have Copilot AI features at launch\r\n / They might not even get … [+2497 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "GameSpot"
       },
-      "author": "Paul Tassi",
-      "title": "Report: Microsoft Will Debut Handheld Xbox Hardware At Its Games Showcase - Forbes",
-      "description": "Xbox is always telling us it wants us to play Xbox games anywhere, and that might about to be very literal.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/06/05/report-microsoft-will-debut-handheld-xbox-hardware-at-its-games-showcase/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f6b45673ba7fb9bc0386fe8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-05T17:38:41Z",
-      "content": "Xbox\r\nMS\r\nXbox is always telling us it wants us to play Xbox games anywhere, and that might about to become very literal.\r\nA new report from well-known leaker eXtas1 says that Microsoft is getting re… [+2102 chars]"
+      "author": "Eddie Makuch",
+      "title": "Xbox Games Showcase Rumors: Black Ops 6 Release Date, Xbox Handheld, New Doom, Starfield PS5, And More - GameSpot",
+      "description": "Halo on PlayStation? Gears of War 6? New look at Fable? Here's all the major rumors for this year's showcase.",
+      "url": "https://www.gamespot.com/gallery/xbox-games-showcase-rumors-black-ops-6-release-date-xbox-handheld-new-doom-starfield-ps5-and-more/2900-5455/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4314098-screenshot2024-06-06at1.37.41pm.png",
+      "publishedAt": "2024-06-06T18:43:35Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "CNET"
       },
-      "author": "Paul Tassi",
-      "title": "'Destiny 2: The Final Shape' Review (Part 1): They Did It - Forbes",
-      "description": "The Final Shape campaign is indeed the best Destiny 2 expansion storyline Bungie's ever done, combining series-best environment design and impressive mission structure.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/06/05/destiny-2-the-final-shape-review-part-1-they-did-it/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66609cff9735516b8698074a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-05T17:22:03Z",
-      "content": "Destiny 2\r\nBungie\r\nAfter being plagued with server issues most of yesterday, I was able to finish the current collection of Destiny 2 campaign missions for The Final Shape. A raid is coming on Friday… [+6636 chars]"
+      "author": null,
+      "title": "Microsoft's AI Recall Feature May Not Even Hit Your PC, but Here's How to Disable It - CNET",
+      "description": "There are calls for Microsoft to pull back on its recall feature before it creates a security crisis.",
+      "url": "https://www.cnet.com/tech/services-and-software/microsofts-ai-recall-feature-may-not-even-hit-your-pc-but-heres-how-to-disable-it/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/862bb9d29efb45874d650033e330d0d1cfa4e4da/hub/2024/01/09/614d7418-5e46-4dec-ab37-8492dadb56ba/ai-key-keyboard-14.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-06-06T18:27:00Z",
+      "content": "Microsoft unveiled Windows Recall as a key feature of its Copilot artificial intelligence tool just two weeks ago, but the software feature is already being blasted by security experts.\r\nRecall, whic… [+3030 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "How to build a DOA product: Humane AI Pin founders banned internal criticism - Ars Technica",
+      "description": "Questioning the design and dev progress was apparently \"against company policy.\"",
+      "url": "https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/14-760x380.jpg",
+      "publishedAt": "2024-06-06T18:23:41Z",
+      "content": "Enlarge/ The Humane AI Pin.\r\n113\r\nThe Humane AI Pin has launched, crashed, and burned, with founders already looking to sell the company just one month after launch. The New York Times has an article… [+5579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Adobe users just now getting upset over content scanning allowance in Terms of Use - The Register",
+      "description": "Update that triggered user rage didn't really change much – software company has always been able to scan your stuff",
+      "url": "https://www.theregister.com/2024/06/06/adobe_users_upset_over_content/",
+      "urlToImage": "https://regmedia.co.uk/2015/05/12/adobe_photoshop_3a.jpg",
+      "publishedAt": "2024-06-06T18:15:00Z",
+      "content": "A practically ancient terms-of-use update has landed Adobe in freshly boiled water over how the Photoshop giant gives itself the right to review user content stored in its cloud. \r\nThe issue kicked o… [+3729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "Krishna SinhaChaudhury",
+      "title": "Carl Pei Confirms Nothing Phone 3 Will Launch Next Year With AI - ABP Live",
+      "description": "London-based Nothing's CEO Carl Pei has posted a video announcing that the next handset from the firm, the Nothing Phone 3 will not be launched this year.",
+      "url": "https://news.abplive.com/technology/gadgets/carl-pei-nothing-phone-3-launch-next-year-2025-ai-artificial-intelligence-gadgets-future-x-post-twitter-1693870",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/06/06/05a69cca0ef14a1b77752e3157c41aa51717697389348295_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-06-06T18:10:59Z",
+      "content": "London-based Nothing's CEO Carl Pei has posted a video announcing that the next handset from the firm, the Nothing Phone 3 will not be launched this year, but in 2025. He also stated that smartphones… [+2391 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "What to expect at WWDC24: Big iOS changes, more Vision Pro, and so much AI - Ars Technica",
+      "description": "There might not be new hardware, but Apple could make up for it with software.",
+      "url": "https://arstechnica.com/gadgets/2024/06/what-to-expect-at-wwdc-24-big-ios-changes-more-vision-pro-and-so-much-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/wwdc-2024-main-image-760x380.jpeg",
+      "publishedAt": "2024-06-06T18:07:19Z",
+      "content": "Enlarge/ The logo for WWDC24.\r\n29\r\nApple's annual developer conference, WWDC, kicks off in Cupertino, California, next week. As always, it will start with a livestream keynote on Monday morning at 10… [+4223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Frogun ENCORE – Release Date Reveal Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Frogun ENCORE is coming to Nintendo Switch on June 25th!  Guess who's back? Frogun returns with more frog-grappling action in Frogun ENCORE, a dashing standa...",
+      "url": "https://www.youtube.com/watch?v=8sD1hn5YoN4",
+      "urlToImage": "https://i.ytimg.com/vi/8sD1hn5YoN4/maxresdefault.jpg",
+      "publishedAt": "2024-06-06T18:00:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "The OnePlayer X1 Mini is now on presale starting at $799 early bird / $1099 retail. - The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/2024/6/6/24173013/the-oneplayer-x1-mini-is-now-on-presale-starting-at-799-early-bird-1099-retail",
+      "urlToImage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+      "publishedAt": "2024-06-06T18:00:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Meta rolls out Meta Verified for WhatsApp Business users in Brazil, India, Indonesia and Colombia - TechCrunch",
+      "description": "Meta launched its Meta Verified program today along with other features, such as the ability to call large businesses and custom messages.",
+      "url": "https://techcrunch.com/2024/06/06/meta-rolls-out-meta-verified-for-whatsapp-business-users-in-brazil-india-indonesia-and-colombia/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/Meta-Verified.jpg?resize=1200,675",
+      "publishedAt": "2024-06-06T17:49:49Z",
+      "content": "Meta on Thursday said it is rolling out its Meta Verified program for WhatsApp Business users in Brazil, India, Indonesia and Colombia, and eventually to more countries. Subscription plans for this s… [+3357 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Taylor Lyles",
+      "title": "Microsoft Reportedly Working on Halo: Combat Evolved Remaster, Considering PlayStation 5 Release - IGN",
+      "description": "A new report form The Verge claims that Microsoft is working on a remaster for the 2001 first-person shooter Halo: Combat Evolved, with the project potentially seeing a release on PS5.",
+      "url": "https://www.ign.com/articles/microsoft-reportedly-working-on-halo-combat-evolved-remaster-considering-playstation-5-release",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/06/halospeedrunblogroll-1533336736758-1717694718988.jpg?width=1280",
+      "publishedAt": "2024-06-06T17:49:10Z",
+      "content": "Microsoft is reportedly working on a remaster of Halo: Combat Evolved, and there are suggestions that it may also come to PS5 in addition to Xbox. \r\nIn a new report by The Verge, Tom Warren writes in… [+2160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Five Night at Freddy's: Into the Pit announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC - Gematsu",
+      "description": "Developer Mega Cat Studios has announced side-scrolling adventure game Five Night at Freddy’s: Into the Pit for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and PC (Steam). A …",
+      "url": "https://www.gematsu.com/2024/06/five-night-at-freddys-into-the-pit-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/06/Five-Nights-Into-Pit_06-06-24.jpg",
+      "publishedAt": "2024-06-06T17:42:35Z",
+      "content": "Developer Mega Cat Studios has announced side-scrollingadventure gameFive Night at Freddy’s: Into the Pit for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and PC (Steam). A release da… [+1316 chars]"
     }
   ]
 }
