@@ -1,175 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 140,
+  "totalResults": 235,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": null,
-      "title": "Starship Troopers: Extermination - Official Release Date Trailer | IGN Live 2024 - IGN",
-      "description": "Watch this trailer for Starship Troopers: Extermination as hordes of insectoid aliens attack and are dealt with during fierce combat. Starship Troopers: Exte...",
-      "url": "https://www.youtube.com/watch?v=eS54-yR89ug",
-      "urlToImage": "https://i.ytimg.com/vi/eS54-yR89ug/maxresdefault.jpg",
-      "publishedAt": "2024-06-08T18:27:38Z",
+      "author": "Alex Stedman",
+      "title": "Phil Spencer Briefly Explains the Decision to Bring Doom: The Dark Ages to PlayStation 5 - IGN Live 2024 - IGN",
+      "description": "At IGN Live today, Xbox head Phil Spencer briefly explained the decision to bring Doom: The Dark Ages to PlayStation 5: \"It’s a franchise that I think everyone deserves to play.\"",
+      "url": "https://www.ign.com/articles/phil-spencer-briefly-explains-the-decision-to-bring-doom-the-dark-ages-to-playstation-5-ign-live-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/09/screenshot-2024-06-09-135501-1717959501795-1717970052853.png?width=1280",
+      "publishedAt": "2024-06-09T22:44:14Z",
+      "content": "Xbox head Phil Spencer stopped by IGN Live for a chat following today's Xbox Showcase, talking about some of the biggest reveals and announcements. One of those was not only the reveal of Doom: The D… [+2185 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "Xbox Games Showcase and Black Ops 6 Direct June 2024: Everything Announced - IGN",
+      "description": "The Xbox Games Showcase is here to show us a peek into the future of Xbox gaming.",
+      "url": "https://www.ign.com/articles/xbox-games-showcase-and-black-ops-6-direct-june-2024-everything-announced",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/09/xbox-1-blogroll-1-1717950197089.jpg?width=1280",
+      "publishedAt": "2024-06-09T22:07:30Z",
+      "content": "Microsoft just wrapped up its June 2024 Xbox Games Showcase, revealing a smorgasbord of details about games new and old.\r\nHighlights from the hour-and-a-half show include a nice selection of titles f… [+16790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Microsoft unveils all-digital Xbox consoles, 'Doom' title at Games Showcase By Reuters - Investing.com",
+      "description": "Microsoft unveils all-digital Xbox consoles, 'Doom' title at Games Showcase",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-unveils-alldigital-xbox-consoles-doom-title-at-games-showcase-3476764",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE0L0XJ_L.jpg",
+      "publishedAt": "2024-06-09T20:35:20Z",
+      "content": "(Reuters) - Microsoft (NASDAQ:MSFT) kicked off its annual Xbox Games Showcase on Sunday, unveiling a new all-digital version of its Xbox Series X and S consoles as well as trailers for more than a do… [+1565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "10 VisionOS features I'd like to see Apple announce at WWDC this week - ZDNet",
+      "description": "Will VisionOS 2 be a game-changer for Apple's Vision Pro? It could be if Apple fixes these 10 VisionOS annoyances.",
+      "url": "https://www.zdnet.com/article/10-visionos-features-id-like-to-see-apple-announce-at-wwdc-this-week/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2a454b4f87fbe9f3b4566c0a517d5834f1734a1e/2024/06/03/67c78014-31a9-4c8f-84d9-f969ab2e8866/cover.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-06-09T19:41:00Z",
+      "content": "David Gewirtz/ZDNET\r\nThe Apple Vision Pro has been available since February. While it's an impressive device, it's also somewhat challenging and annoying to use. Some of that is unavoidable in a firs… [+9243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Edwin Evans-Thirlwell",
+      "title": "Diablo 4 Vessel Of Hatred gets October release date plus trailer which I refuse to watch because it sounds horrid - Rock Paper Shotgun",
+      "description": "Microsoft and Blizzard have slapped a release date on Diablo 4's forthcoming content-o-season Vessel Of Hatred. It's ou…",
+      "url": "https://www.rockpapershotgun.com/diablo-4-vessel-of-hatred-gets-october-release-date-plus-trailer-which-i-refuse-to-watch-because-it-sounds-horrid",
+      "urlToImage": "https://assetsio.gnwcdn.com/vesselofhatred1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-06-09T19:06:53Z",
+      "content": "Microsoft and Blizzard have slapped a release date on Diablo 4's forthcoming content-o-season Vessel Of Hatred. It's out 8th October 2024, and sees you hooting and hollering down the road to the new … [+1914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "Perfect Dark Gets First Gameplay Trailer - GameSpot",
+      "description": "The Initiative and Crystal Dynamics are working on the next chapter in the Perfect Dark series.",
+      "url": "https://www.gamespot.com/articles/perfect-dark-gets-first-gameplay-trailer/1100-6524084/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4316033-screenshot2024-06-09at1.48.38pm.png",
+      "publishedAt": "2024-06-09T18:56:56Z",
+      "content": "Microsoft's long-in-development new Perfect Dark game resurfaced during Microsoft's Xbox Games Showcase today, providing a first look at gameplay from the next entry in the shooter series. In the foo… [+2598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "4gamer.net"
+      },
+      "author": "Aetas Inc.",
+      "title": "「Xbox Series」本体に新ラインナップが追加。デジタル版や2TB SSD搭載のSeries X，1TB SSD搭載のSeries Sなどが登場 - 4Gamer.net",
+      "description": "鐃緒申Microsoft鐃緒申鐃緒申鐃緒申鐃緒申6鐃緒申10鐃緒申鐃祝￥申同鐃述のワ申鐃順ー鐃緒申鐃緒申鐃緒申鐃緒申鐃駿ワ申函鐃怚box Games Showcase 2024鐃竣で￥申Xbox Series鐃緒申鐃塾のライ鐃緒申淵奪鐃緒申媛辰鐃夙・緒申鐃緒申鐃緒申鐃緒申妊鐃緒申鐃緒申鐃緒申任鐃怍eries X鐃緒申1TB SSD鐃緒申鐃緒申椶鐃緒申鐃怍eries S鐃緒申Series X鐃緒申2TB SSD鐃緒申椒鐃叔ワ申覆匹鐃緒申鐃緒申鐃熟逸申妊曠鐃叔￥申鐃緒申鐃緒申鐃緒申鐃緒申鐃夙・申鐃粛緒申鐃緒申鐃緒申",
+      "url": "https://www.4gamer.net/games/990/G999028/20240610021/",
+      "urlToImage": "https://www.4gamer.net/games/990/G999028/20240610021/SS/001.jpg",
+      "publishedAt": "2024-06-09T18:51:36Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Beebom"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 18: Control Center going multi-page is a big deal for users - 9to5Mac",
-      "description": "Apple has big plans for Control Center in iOS 18, including the ability to create multiple custom pages of controls for your iPhone.",
-      "url": "https://9to5mac.com/2024/06/08/new-control-center-in-ios-18-will-have-multiple-pages-heres-what-that-means/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/control-center-ios.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-08T18:00:00Z",
-      "content": "iOS 18 will be fully unveiled this Monday at the WWDC keynote. According to one of the late breaking rumors, the iPhone update will introduce a redesigned Control Center.\r\nOne core feature of the new… [+3359 chars]"
+      "author": "Sagnik Das Gupta",
+      "title": "NYT Strands Hints, Spangram, and Answers for June 10, 2024 - Beebom",
+      "description": "Not able to solve the June 10 NYT Strands? Well, to make things easier for you, we've listed the hints and answers for it right here!",
+      "url": "https://beebom.com/nyt-strands-hints-spangram-answers-june-10-2024/",
+      "urlToImage": "https://beebom.com/wp-content/uploads/2024/06/JUNE-10-NYT-STRANDS.jpg?w=1250&quality=75",
+      "publishedAt": "2024-06-09T18:50:10Z",
+      "content": "Hi Strands fam! I’m back with another solve, and it did gave me quite the recap of my journalism course syllabus back in the day. While it’s not exactly hard, it can be surprisingly challenging. So, … [+2619 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India.com"
+        "name": "Gizmodo.com"
       },
-      "author": "https://www.india.com/author/intern41-seoindia-com/",
-      "title": "DuckDuckGo Introduces AI Chat, Users Can Anonymously Access ChatGPT, Meta AI, And Other Chatbots; Here’s How - India.com",
-      "description": "DuckDuckGo in a blog post announced that the AI chat support four AI chatbot models - Open AI’s ChatGPT 3.5 Turbo, Anthropic’s Claude 3, Haiku, Meta’s Llama 3, and Mistral’s Mixtral 8X7B.",
-      "url": "https://www.india.com/technology/duckduckgo-introduces-ai-chat-users-can-anonymously-access-chatgpt-meta-ai-and-other-chatbots-heres-how-to-access-it-7001071/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2024/06/DuckDuckGo.png",
-      "publishedAt": "2024-06-08T17:19:07Z",
-      "content": "DuckDuckGo in a blog post announced that the AI chat support four AI chatbot models - Open AIs ChatGPT 3.5 Turbo, Anthropics Claude 3, Haiku, Metas Llama 3, and Mistrals Mixtral 8X7B.\r\nDuckDuckGos AI… [+2081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "iPhone 16: The Most Exciting Rumors - CNET",
-      "description": "There are hints that Apple has big changes in store for the iPhone 16. Here are all the important rumors about the next iPhone, and the leaks.",
-      "url": "https://www.cnet.com/tech/mobile/iphone-16-the-most-exciting-rumors/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c52697d87d43518d2a1e6300631f130b2256a806/hub/2024/04/12/25866c21-4cba-4b22-b896-5add650cdc64/iphone-16-rumors-2-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-06-08T17:00:00Z",
-      "content": "It's been more than nine months since the iPhone 15 launched, and as Apple's Worldwide Developers Conference approaches on June 10, we wonder what goodies the next iPhone will bring.\r\nWe've heard whi… [+8858 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Realme Narzo N63 vs Moto G04s: How the two entry-level smartphones compare - The Times of India",
-      "description": "MOBILES & TABLETS News: Realme Narzo N63 launched in India with vegan leather back, 45W SuperVOOC charging, and Mini Capsule 2.0. It competes with Moto G04s, featuring a 50MP",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/realme-narzo-n63-vs-moto-g04s-how-the-two-entry-level-smartphones-compare/articleshow/110824584.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110824824,width-1070,height-580,imgsize-1013185,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-08T16:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Abhinav Kaustubh",
-      "title": "WWDC 2024: Apple Intelligence, iOS 18, ChatGPT-Siri collab, and more to expect at this year's developers - The Times of India",
-      "description": "TECH NEWS : Apple's WWDC starting June 10 will focus on artificial intelligence integration into core products like iPhones, branded as 'Apple Intelligence.' User",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/wwdc-2024-apple-intelligence-ios-18-chatgpt-siri-collab-and-more-to-expect-at-this-years-developers-conference/articleshow/110824582.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110824639,width-1070,height-580,imgsize-16330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-08T16:11:00Z",
-      "content": "<ul><li>News</li>\r\n<li>Technology News</li>\r\n<li>Tech News</li>\r\n<li>WWDC 2024: Apple Intelligence, iOS 18, ChatGPT-Siri collab, and more to expect at this year's developers conference</li></ul>\r\nApp… [+293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Zo Ahmed",
-      "title": "Intel's new Gaudi 3 accelerators massively undercut Nvidia GPUs as AI race heats up - TechSpot",
-      "description": "Pricing for products like these is typically kept hidden from the public, but Intel has bucked the trend and provided some official figures. The flagship Gaudi 3...",
-      "url": "https://www.techspot.com/news/103313-intel-new-gaudi-3-accelerators-massively-undercut-nvidia.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/06/2024-06-08-image.jpg",
-      "publishedAt": "2024-06-08T16:09:00Z",
-      "content": "What just happened? Intel threw down the gauntlet against Nvidia in the heated battle for AI hardware supremacy. At Computex this week, CEO Pat Gelsinger unveiled pricing for Intel's next-gen Gaudi 2… [+2943 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "iPhone and Apple Watch single hairline display cracks no longer covered under standard warranty: What is - The Times of India",
-      "description": "TECH NEWS : Apple updated its warranty policy for iPhones and Apple Watches, excluding single hairline crack repairs categorized as accidental damage. The change",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/iphone-and-apple-watch-single-hairline-display-cracks-no-longer-covered-under-standard-warranty-what-is-important-for-users-to-know-about-this-change/articleshow/110824424.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-110824410,width-1070,height-580,imgsize-14318,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-08T15:51:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": "Issy van der Velde",
-      "title": "Disturbingly realistic bodycam game has mixed reviews, lots of players - PCGamesN",
-      "description": "Despite getting mixed reviews, the new early access ultra-realistic bodycam game, Bodycam, has lots of players on Steam right now.",
-      "url": "https://www.pcgamesn.com/bodycam/mixed-reviews-many-players",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/06/bodycam-steam-sale.jpg",
-      "publishedAt": "2024-06-08T15:31:32Z",
-      "content": "Ultra-realistic shooter Bodycam, shown from the POV of the titular cameras, launched in early access yesterday. Despite its mixed reviews, it’s sitting at a relatively high concurrent player count of… [+2069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Liam Doolan",
-      "title": "Block Meets Block In New Minecraft X Tetris Collaboration - Nintendo Life",
-      "description": "\"Get the add-on now!\"",
-      "url": "https://www.nintendolife.com/news/2024/06/block-meets-block-in-new-minecraft-x-tetris-collaboration",
-      "urlToImage": "https://images.nintendolife.com/526bde2f13bb5/1280x720.jpg",
-      "publishedAt": "2024-06-08T13:30:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube768k\r\nHot off Minecraft's 15th anniversary celebrations, Mojang has unveiled a collaboration with the famous puzzle game Tetris in the form of a new add-on. The g… [+810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Nothing Phone (3) Bad News, moto Edge 50 Ultra Coming, CMF Phone 1 Launch, Apple Foldable 😯-#TTN1581 - Trakin Tech",
-      "description": "Hello, Friends Welcome to Tech News No.1581. Today There Are Lots Of Amazing Tech News Lined Up For You. So Let's Get Started And Don't Forget To Like & Subs...",
-      "url": "https://www.youtube.com/watch?v=XT5gz0VZYms",
-      "urlToImage": "https://i.ytimg.com/vi/XT5gz0VZYms/maxresdefault.jpg",
-      "publishedAt": "2024-06-08T13:15:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UploadVR"
-      },
-      "author": "Ian Hamilton",
-      "title": "Camouflaj Tests Quest 3's Power For Batman: Arkham Shadow - UploadVR",
-      "description": "Batman casts a shadow in real-time across enemies in Arkham Shadow on Quest 3.",
-      "url": "https://www.uploadvr.com/batman-arkham-shadow-quest-3/",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2024/06/Announce_BatmanvsGoons3.png",
-      "publishedAt": "2024-06-08T13:13:28Z",
-      "content": "Developers at Camouflaj are spending a \"decent amount of the CPU and the GPU\" of Quest 3 to render real-time shadows \"at a crisp level\" for Batman: Arkham Shadow.\r\nCamouflaj founder Ryan Payton told … [+4311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Victor",
-      "title": "Qualcomm quietly unveils the Snapdragon 6s Gen 3 chipset - GSMArena.com news - GSMArena.com",
-      "description": "It appears to be similar to the Snapdragon 695 and Snapdragon 4 Gen 1 and not a successor to the Snapdragon 6 Gen 1. Qualcomm’s current naming scheme can...",
-      "url": "https://www.gsmarena.com/qualcomm_quietly_unveils_the_snapdragon_6s_gen_3_chipset-news-63197.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/snapdragon-6s-gen-3-announced/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2024-06-08T13:09:01Z",
-      "content": "Qualcomms current naming scheme can sometimes be confusing, but the s generally denotes a step-down model in the lineup, and thats exactly what the new Snapdragon 6s Gen 3 is. Qualcomm quietly put up… [+1566 chars]"
+      "author": "Justin Carter",
+      "title": "Indiana Jones & the Great Circle Whips Up a Frosty New Trailer - Gizmodo",
+      "description": "MachineGames' take on the famous explorer is to play the hits, one busted Nazi face at a time.",
+      "url": "https://gizmodo.com/indiana-jones-great-circle-xbox-trailer-1851528903",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/eb611ab8c12662e475b1cbafb1a5ebf7.png",
+      "publishedAt": "2024-06-09T18:45:00Z",
+      "content": "Earlier this year, we got our first real look at Indiana Jones &amp; the Great Circle. The game, coming from Wolfenstein developer MachineGames, puts players in Indys hat between Raidersand Last Crus… [+1611 chars]"
     },
     {
       "source": {
@@ -177,12 +125,25 @@
         "name": "Forbes"
       },
       "author": "Paul Tassi",
-      "title": "Destiny 2's 10 Year Finale Mission Is Live Now, A Perfect Ending - Forbes",
-      "description": "Desitny 2’s Final Shape’s raid has been beaten, and immediately, Bungie unleashed the final battle against The Witness that all players can participate in.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/06/08/destiny-2s-10-year-finale-mission-is-live-now-a-perfect-ending/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6664573e5d21cb9b0b5cecaf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-08T13:08:14Z",
-      "content": "Destiny 2\r\nBungie\r\nDesitny 2s Final Shapes raid has been beaten, and immediately, Bungie unleashed the final battle against The Witness that all players can participate in. The result is a finale tha… [+2558 chars]"
+      "title": "'Starfield,' 'Diablo 4' Expansions Both Look Excellent In New Trailers - Forbes",
+      "description": "Xbox just ended what I have to consider what may possibly be its best overall showcase…ever? I’m not exaggerating.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/06/09/starfield-diablo-4-expansions-both-look-excellent-in-new-trailers/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6665f7339c88a252c31b9da8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-09T18:43:36Z",
+      "content": "Starfield\r\nBethesda\r\nXbox just ended what I have to consider what may possibly be its best overall showcaseever? Im not exaggerating. The amount and quality of the games was enormous, and I was genui… [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Poll: How Would You Grade The Xbox Games Showcase 2024? - Pure Xbox",
+      "description": "Give us your verdict",
+      "url": "https://www.purexbox.com/features/poll-how-would-you-grade-the-xbox-games-showcase-2024",
+      "urlToImage": "https://images.purexbox.com/c22e0ef7fb440/1280x720.jpg",
+      "publishedAt": "2024-06-09T18:30:00Z",
+      "content": "I gave it an A. Sure, not everything looked like something I want to play personally (in fact, probably less than half the games appealed to me). Heck, I cant stand CoD or Gears, for instance, but th… [+1176 chars]"
     },
     {
       "source": {
@@ -190,51 +151,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Summer Game Fest 2024: Giant Bomb Talks Over - Giant Bomb",
+      "title": "Gears of War: E-Day - Reveal Trailer | Xbox Showcase 2024 - IGN",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/watch?v=eTg4xIXJyhg",
+      "url": "https://www.youtube.com/watch?v=oOGdbORKaPs",
       "urlToImage": null,
-      "publishedAt": "2024-06-08T13:00:42Z",
+      "publishedAt": "2024-06-09T18:26:11Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Nichepcgamer.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "にっち",
-      "title": "NVIDIAもAMDもIntelも次世代グラボの発売は2025年になると報じられる。2024年内には発売されない？ - ニッチなPCゲーマーの環境構築Z",
-      "description": "NVIDIA GeForce RTX 5000シリーズ(Blackwell)もAMD Radeon RX 8000シリーズ(RDNA 4)もIntel Arc Bシリーズ(Battlemage)も、...",
-      "url": "https://www.nichepcgamer.com/archives/nvidia-amd-and-intels-next-generation-graphics-cards-are-reported-to-be-launch-in-2025.html",
-      "urlToImage": "https://www.nichepcgamer.com/wp-content/uploads/2024/06/nvidia-amd-intel-logo-a.jpg",
-      "publishedAt": "2024-06-08T12:51:18Z",
-      "content": "NVIDIAAMDIntel20242025COMPUTEX 2024\r\nNVIDIAGeForce RTX 500020252024\r\nAMDIntel2025AMDIntel20242024CES 2025\r\nAMDIntelAMDRDNA 4\r\nIntelArcGeForce RTX 4070"
+      "author": "Rebekah Valentine",
+      "title": "Xbox Series X All-Digital Edition Officially Announced - Xbox Games Showcase 2024 - IGN",
+      "description": "After months of speculation and rumor, Xbox has unveiled a new series of hardware upgrades for both the Xbox Series X and S, including an all-digital Series X, all of which will be available this holiday.",
+      "url": "https://www.ign.com/articles/xbox-series-x-all-digital-edition-officially-announced-xbox-games-showcase-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/09/4k-xbox-games-showcase-followed-by-call-of-duty-black-ops-6-direct-1-44-43-screenshot-1717957285265.png?width=1280",
+      "publishedAt": "2024-06-09T18:25:08Z",
+      "content": "After months of speculation and rumor, Xbox has unveiled a new series of hardware upgrades for both the Xbox Series X and S, including an all-digital Series X, all of which will be available this hol… [+1280 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gadgets360.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Sucharita Ganguly, Siddharth Suvarna",
-      "title": "Xiaomi 14 Civi Price in India Tipped Ahead of June 12 Launch - Gadgets 360",
-      "description": "Xiaomi 14 Civi is set to launch in India on June 12. The company has teased several key features of the upcoming handset previously. The design and colour options of the phone have also been revealed. It has been tipped to be a rebadged version of the Xiaomi …",
-      "url": "https://www.gadgets360.com/mobiles/news/xiaomi-14-civi-price-leak-india-launch-specifications-features-5846263",
-      "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_civi_4_pro_xiaomi_1711014658639.jpg",
-      "publishedAt": "2024-06-08T12:39:38Z",
-      "content": "Xiaomi 14 Civi is set to launch in India on June 12. The company has teased several key features of the upcoming handset previously. The design and colour options of the phone have also been revealed… [+1931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Still No One Has Beaten Destiny 2's Final Shape Raid, Now Its Longest Ever (Update: Someone Did) - Forbes",
-      "description": "Good morning everyone, no, no one has beaten Destiny 2’s Last Wish raid yet, Salvation’s Edge, which has just past The Last Wish in completion time.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/06/08/still-no-one-has-beaten-destiny-2s-final-shape-raid-now-its-longest-ever/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666446ed299923d94e2c16c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-06-08T12:01:56Z",
-      "content": "Destiny 2\r\n@strawhatkey_\r\nUpdate: A team has now claimed to beat the raid, off-stream. Team Parabellum, and unknown squad. Bungie is confirming.\r\nOriginal article follows:\r\nGood morning everyone, no,… [+3397 chars]"
+      "author": "Wesley Yin-Poole",
+      "title": "Microsoft Picks Up Wuchang: Fallen Feathers for Day-One Xbox Game Pass Launch - IGN",
+      "description": "Microsoft is bringing Wuchang: Fallen Feathers to Game Pass day one in 2025.",
+      "url": "https://www.ign.com/articles/microsoft-picks-up-wuchang-fallen-feathers-for-day-one-xbox-game-pass-launch",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/09/xbox-games-showcase-2024-call-of-duty-black-ops-6-direct-sunday-live-at-10a-pt-1p-et-1-21-9-screenshot-1717956847517.png?width=1280",
+      "publishedAt": "2024-06-09T18:16:40Z",
+      "content": "Microsoft is bringing Wuchang: Fallen Feathers to Game Pass day one in 2025.\r\nConfirmation came during Microsoft's Xbox Games Showcase alongside a new trailer, below:\r\nWUCHANG: Fallen Feathers was re… [+952 chars]"
     },
     {
       "source": {
@@ -242,25 +190,77 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "The Fujifilm X100VI Is the Perfect iPhone Companion - CNET",
-      "description": "I used the Fujifilm X100VI over three weeks while traveling between New York and San Francisco. I viewed the X100 through the perspective of someone who mast...",
-      "url": "https://www.youtube.com/watch?v=K9AqqECp7lk",
-      "urlToImage": "https://i.ytimg.com/vi/K9AqqECp7lk/maxresdefault.jpg",
-      "publishedAt": "2024-06-08T12:00:30Z",
+      "title": "Indiana Jones and the Great Circle Official Showcase Reveal Trailer | Xbox Games Showcase 2024 - GameSpot",
+      "description": "You are Indiana Jones. In this pivotal cinematic, Indy and Gina make a startling discovery in the Himalayas. Prepare for this single player adventure set bet...",
+      "url": "https://www.youtube.com/watch?v=5eIKsu50NKw",
+      "urlToImage": "https://i.ytimg.com/vi/5eIKsu50NKw/maxresdefault.jpg",
+      "publishedAt": "2024-06-09T18:10:28Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Blizzard.com"
       },
-      "author": "Victor",
-      "title": "Samsung Galaxy Watch FE shows up in Amazon listing - GSMArena.com news - GSMArena.com",
-      "description": "The page basically confirms the previously leaked budget price point for the wearable. The Galaxy Watch FE is definitely on its way. That much is already...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_watch_fe_shows_up_in_amazon_listing-news-63196.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/samsung-galaxy-watch-fe-amazon-listing/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2024-06-08T11:03:01Z",
-      "content": "The Galaxy Watch FE is definitely on its way. That much is already certain. We have plenty of leaks to prove it, including one from the official Samsung website. There is also the fact that the compa… [+1164 chars]"
+      "author": null,
+      "title": "Prepare to Embody the Spiritborn – Pre-Purchase Vessel of Hatred - Blizzard News",
+      "description": "Vessel of Hatred arrives on October 8. Learn about the all-new Spiritborn Class, a new region, and more.",
+      "url": "https://news.blizzard.com/en-us/diablo4/24096025/prepare-to-embody-the-spiritborn-pre-purchase-vessel-of-hatred",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ya/YA4RAD17E95Y1717561704300.png",
+      "publishedAt": "2024-06-09T18:05:29Z",
+      "content": "Vessel of Hatred, the first expansion for Diablo IV, is now available for pre-purchase through Battle.net, PlayStation® and Xbox Games Stores, and Steam, and will release on October 8. Deep in the ju… [+7185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Life is Strange: Double Exposure Announce Trailer | Xbox Games Showcase 2024 - GameSpot",
+      "description": "Max Caulfield returns in Life is Strange: Double Exposure, an all-new supernatural murder mystery in the award-winning Life is Strange series. Coming to Xbox...",
+      "url": "https://www.youtube.com/watch?v=NYZiqfVGsPA",
+      "urlToImage": "https://i.ytimg.com/vi/NYZiqfVGsPA/maxresdefault.jpg",
+      "publishedAt": "2024-06-09T18:03:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Jeremy Peel",
+      "title": "You'll be able to play as a ghoul in Fallout 76 early next year and channel your inner Walton Goggins from the Fallout TV show - Gamesradar",
+      "description": "Here's how becoming a playable ghoul is going to work in Fallout 76",
+      "url": "https://www.gamesradar.com/games/action-rpg/fallout-76-playable-ghoul-fallout-tv-show/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oog9sHsiUZUseJixKHvqZ7-1200-80.jpg",
+      "publishedAt": "2024-06-09T18:00:26Z",
+      "content": "After six years of wandering West Virginia’s wasteland, Fallout 76 players will soon have the option to give in to the radiation and become a ghoul. It’s just like Walton Goggins said: 'I’m you, swee… [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft Flight Simulator 2024 launches on November 19th - The Verge",
+      "description": "Asobo has been working on a new Microsoft Flight Simulator. Launching on November 19th, the new 2024 game includes a lot of new planes.",
+      "url": "https://www.theverge.com/2024/6/9/24173672/microsoft-flight-simulator-2024-november-19th-release-date-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8tdfgQfp8b3QfCGHzGaJ-FEElOQ=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25484112/microsoft_flight_simulator_2024_pc_game_cover.jpg",
+      "publishedAt": "2024-06-09T17:57:42Z",
+      "content": "Microsoft Flight Simulator 2024 launches on November 19th\r\nMicrosoft Flight Simulator 2024 launches on November 19th\r\n / The next major Flight Simulator has a lot of new planes and ways to play.\r\nByT… [+870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Fable - Release Window Trailer | Xbox Showcase 2024 - IGN",
+      "description": "Check out a new look at Fable and hear more from Humphrey as Playground Games shares more from its reimagining of the fantasy RPG series. Full of magic, fair...",
+      "url": "https://www.youtube.com/watch?v=I6sREGbfzRg",
+      "urlToImage": "https://i.ytimg.com/vi/I6sREGbfzRg/maxresdefault.jpg",
+      "publishedAt": "2024-06-09T17:53:15Z",
+      "content": null
     }
   ]
 }
