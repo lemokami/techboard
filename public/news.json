@@ -1,19 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 79,
+  "totalResults": 121,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Itmedia.co.jp"
+        "name": "9to5Mac"
       },
-      "author": null,
-      "title": "「Apple ID」は今秋から「Apple Account」に名称変更 - ITmedia NEWS - ITmedia NEWS",
-      "description": "Apple・ｽﾍ、・ｽ・ｽ・ｽH・ｽﾌ茨ｿｽA・ｽ・ｽOS・ｽA・ｽb・ｽv・ｽf・ｽ[・ｽg・ｽﾉ搾ｿｽ・ｽ墲ｹ・ｽA・ｽuApple ID・ｽv・ｽﾌ厄ｿｽ・ｽﾌゑｿｽ・ｽuApple Account・ｽv・ｽﾉ変更・ｽ・ｽ・ｽ・ｽﾆ費ｿｽ・ｽ\\・ｽ・ｽ・ｽ・ｽ・ｽB",
-      "url": "https://www.itmedia.co.jp/news/articles/2406/12/news088.html",
-      "urlToImage": "https://image.itmedia.co.jp/news/articles/2406/12/cover_news088.jpg",
-      "publishedAt": "2024-06-11T21:18:00Z",
-      "content": "@Apple611inAH{AOSAbvf[gAT[rXpAJEguApple IDvuApple Accountv\\B\r\n@AppleHAiOS 18AiPadOS 18A macOS SequoiaAwatchOS 11AvisionOS 2AtvOS 18[X\\BAppleApple[rXTCCu[U[ivB\r\n@Apple IDApple MusicAApple TV+AiCloudAp… [+219 chars]"
+      "author": "Chance Miller",
+      "title": "These are the macOS Sequoia features not available on Intel Macs - 9to5Mac",
+      "description": "If you’re still running an Intel-powered Mac, you’ll have at least one more year of macOS support. Apple says that...",
+      "url": "https://9to5mac.com/2024/06/12/macos-sequoia-intel-apple-silicon-features/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-12T19:50:00Z",
+      "content": "If you’re still running an Intel-powered Mac, you’ll have at least one more year of macOS support. Apple says that macOS Sequoia runs on the same Macs as macOS Sonoma, but as usual, there are some ca… [+2022 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Roku TV owners complain that motion smoothing is stuck “on” after an update - The Verge",
+      "description": "Several owners of TCL’s Roku smart TVs report that the “Action Smoothing” feature is suddenly on, and there are no settings in Roku OS 13 on their TVs to turn it off again.",
+      "url": "https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NV5puIaDTaMhh0uWwQ-O3NBR45g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25375048/STK265_ROKU_CVirginia.jpg",
+      "publishedAt": "2024-06-12T19:43:53Z",
+      "content": "Roku TV owners complain that motion smoothing is stuck on after an update\r\nRoku TV owners complain that motion smoothing is stuck on after an update\r\n / Some Roku TV owners with Roku OS 13 installed … [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "The Windows on Arm chip race heats up with a challenger to Qualcomm - The Verge",
+      "description": "Reuters reports that the Taiwanese chip company MediaTek is now preparing an AI PC chipset to launch in late 2025, specifically for Windows PCs.",
+      "url": "https://www.theverge.com/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sBARgoK41Cci1e9rXB_Gisq2slc=/0x0:4608x3072/1200x628/filters:focal(2144x1475:2145x1476)/cdn.vox-cdn.com/uploads/chorus_asset/file/25488794/1243355573.jpg",
+      "publishedAt": "2024-06-12T19:39:53Z",
+      "content": "The Windows on Arm chip race heats up with a challenger to Qualcomm\r\nThe Windows on Arm chip race heats up with a challenger to Qualcomm\r\n / Taiwanese firm MediaTek is playing to get inside your PC.\r… [+2248 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Google's abuse of Fitbit continues with web app shutdown - Ars Technica",
+      "description": "Users say the app, which is now the only Fitbit interface, lacks matching features.",
+      "url": "https://arstechnica.com/gadgets/2024/06/googles-abuse-of-fitbit-continues-with-web-app-shutdown/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/25-760x380.jpg",
+      "publishedAt": "2024-06-12T19:02:22Z",
+      "content": "43\r\nView more stories\r\nGoogle's continued abuse of the Fitbit brand is continuing with the shutdown of the web dashboard. Fitbit.com used to be both a storefront and a way for users to get a big-scre… [+1753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Darryn Bonthuys",
+      "title": "All The PlayStation Plus June 2024 Games For Premium And Extra Subscribers - GameSpot",
+      "description": "PS Plus expands this month with some of the best Capcom, Ubisoft, and Lego games.",
+      "url": "https://www.gamespot.com/gallery/all-the-playstation-plus-june-2024-games-for-premium-and-extra-subscribers/2900-5471/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4317878-ps-plus-june-main.jpg",
+      "publishedAt": "2024-06-12T18:37:14Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
     },
     {
       "source": {
@@ -21,25 +73,129 @@
         "name": "9to5google.com"
       },
       "author": "Andrew Romero",
-      "title": "Here are a few iPhone features your Android phone already has - 9to5Google",
-      "description": "In case you missed it, Apple announced a ton of new iPhone features at WWDC, though a lot of them...",
-      "url": "http://9to5google.com/2024/06/11/new-iphone-features-your-android-phone-has/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/iphone-15-pro-google-pixel-8-pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-11T21:15:00Z",
-      "content": "In case you missed it, Apple announced a ton of new iPhone features at WWDC, though a lot of them are things Android phones can already do.\r\nInnovation is innovation, and that includes bringing featu… [+5058 chars]"
+      "title": "Samsung confirms Galaxy Buds 3 and other devices before launch - 9to5Google",
+      "description": "Just over a month before Samsung is said to launch a new Galaxy Watch FE model, the Watch7, Galaxy Buds...",
+      "url": "http://9to5google.com/2024/06/12/samsung-confirms-buds-3-other-devices/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/Samsung-Galaxy-logo-google-booth.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-12T18:37:00Z",
+      "content": "Just over a month before Samsung is said to launch a new Galaxy Watch FE model, the Watch7, Galaxy Buds 3 Pro, and the Galaxy Ring, the company is all but confirming its setlist within a support page… [+1687 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Nintendo Life"
       },
-      "author": "Josh Schafer",
-      "title": "Apple stock surges to record high after AI announcements - Yahoo Finance",
-      "description": "Apple stock rose to a new intraday record high on Tuesday as investors digested the company's announcement of Apple Intelligence.",
-      "url": "https://finance.yahoo.com/news/apple-stock-surges-to-record-high-after-ai-announcements-150325922.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_bV7BlhMXvFehk9GYqaPvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/bb912800-2803-11ef-bfea-f82fec74653e",
-      "publishedAt": "2024-06-11T20:34:47Z",
-      "content": "Apple's (AAPL) stock surged 7% on Tuesday to reach a record-high close for the first time in 2024 as investors digested the announcement of its AI platform, Apple Intelligence. \r\nAfter the stock fell… [+3539 chars]"
+      "author": "Jim Norman",
+      "title": "Rumour: New Leaked Codenames Suggest Turok, Tomb Raider, DOOM & More Are Inbound - Nintendo Life",
+      "description": "According to EpicDB",
+      "url": "https://www.nintendolife.com/news/2024/06/rumour-new-leaked-codenames-suggest-turok-tomb-raider-doom-and-more-are-inbound",
+      "urlToImage": "https://images.nintendolife.com/99e7f487caa7f/1280x720.jpg",
+      "publishedAt": "2024-06-12T17:58:46Z",
+      "content": "Image: Zion Grassl / Nintendo Life\r\nThose who are well-versed in Steam will likely be familiar with SteamDB. This publicly-available, unofficial database provides all sorts of figures and information… [+2693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Matt Jarvis",
+      "title": "Most Elden Ring players on Steam won't even be able to play its Shadow of the Erdtree DLC next week - Rock Paper Shotgun",
+      "description": "In From fashion, you’ll need to defeat a tough boss at the end of an secret side area before you enter the expansion.",
+      "url": "https://www.rockpapershotgun.com/most-elden-ring-players-on-steam-wont-even-be-able-to-play-its-shadow-of-the-erdtree-dlc-on-release",
+      "urlToImage": "https://assetsio.gnwcdn.com/elden-ring-mohg-lord-of-blood.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-06-12T17:36:48Z",
+      "content": "Shadow Of The Erdtree is out in under 10 days, but some players must be in for a surprise if they expect to be able to jump in straight away. As it turns out, most players on Steam haven’t even progr… [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Mark Delaney",
+      "title": "Lego Horizon Adventures Isn't Your Typical Lego Game - GameSpot",
+      "description": "If you think you know what Lego Horizon Adventures is, you may wind up surprised.",
+      "url": "https://www.gamespot.com/articles/lego-horizon-adventures-isnt-your-typical-lego-game/1100-6524180/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4317369-lha_screen_cinematic_aloy_portrait_logo.png",
+      "publishedAt": "2024-06-12T17:00:00Z",
+      "content": "The foundational elements of a Lego game have remained largely unchanged for 20+ years: Smash everything into bricks and studs, collect characters by the dozens, then use those characters to jump bac… [+5957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Tim Cook talks Apple Intelligence, ChatGPT, and ... the Magic Mouse in post-WWDC interviews - 9to5Mac",
+      "description": "Following the WWDC keynote on Monday, Apple CEO Tim Cook sat down for interviews with iJustine, SuperSaf, and MKBHD to...",
+      "url": "https://9to5mac.com/2024/06/12/tim-cook-talks-apple-intelligence-chatgpt-and-the-magic-mouse-in-post-wwdc-interviews/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/tim-cook-mkbhd.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-12T16:59:00Z",
+      "content": "Following the WWDC keynote on Monday, Apple CEO Tim Cook sat down for interviews with iJustine, SuperSaf, and MKBHD to talk about iOS 18 and Apple Intelligence. Cook also touched on Apple’s partnersh… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Epic Games database leak hints at a trove of unannounced games - The Verge",
+      "description": "EpicDB, a site tracking titles on the Epic Games Store, may have leaked several unannounced games, such as Turok, BioShock 4, and the PC version of The Last of Us Part II.",
+      "url": "https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EGgdnRQNINWRvjVSTTGXt5dyyQg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932923/acastro_STK108__01.jpg",
+      "publishedAt": "2024-06-12T16:22:47Z",
+      "content": "Epic Games database leak hints at a trove of unannounced games\r\nEpic Games database leak hints at a trove of unannounced games\r\n / Codenames on the list might point to a Final Fantasy 9 remake and th… [+1741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan",
+      "title": "watchOS 11 Unprecedentedly Cancels Support For 3 Apple Watches, Confirmed - Forbes",
+      "description": "Every year, when Apple announces its next Apple Watch software, watchOS, there could be a model or two that loses support. But never as many as this…",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/06/12/watchos-11-unprecedentedly-cancels-support-for-3-apple-watches-report-says/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66672449481d833cec6e6027/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-12T16:21:12Z",
+      "content": "Apple announces new software for its devices once a year, at the World Wide Developers Conference. That took place on Monday, June 10 and it confirmed precisely the reports that had leaked ahead of t… [+5591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Epravda.com.ua"
+      },
+      "author": "Р•РєРѕРЅРѕРјС–С‡РЅР° РїСЂР°РІРґР°",
+      "title": "Apple знову стала найдорожчою компанією у світі, обігнавши Microsoft - Економічна правда",
+      "description": "РўРµС…РЅРѕРіС–РіР°РЅС‚ Apple Сѓ СЃРµСЂРµРґСѓ Р·РЅРѕРІСѓ СЃС‚Р°РІ РЅР°Р№РґРѕСЂРѕР¶С‡РѕСЋ РєРѕРјРїР°РЅС–С”СЋ СЃРІС–С‚Сѓ, Р·РјС–СЃС‚РёРІС€Рё Р· РїРµСЂС€РѕРіРѕ РјС–СЃС†СЏ Microsoft.",
+      "url": "https://www.epravda.com.ua/news/2024/06/12/715097/",
+      "urlToImage": "https://eimg.pravda.com/images/doc/7/1/715097_fb_image_ukr_2024_06_12_19_29_42.png",
+      "publishedAt": "2024-06-12T16:17:02Z",
+      "content": "µ° Apple µµ · ° °¶ ° , · · µ Microsoft.\r\n µ µ Reuters.\r\n°·°°, ° Apple, ° °»° µµ ·° ° -, » °¶µ ° 4% µ 215,04 », ° ° 3,29 » ».\r\n ° °°»·° Microsoft ° 3,24 » » - ° °»° Apple µµ ·° ' .\r\n° ° ±» ° » , µ» µ … [+164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Dragon Age: Veilguard Is Addressing Criticism Of DA2's Romance - Kotaku",
+      "description": "BioWare is going out of its way to avoid the ‘playersexual’ trope while having a pansexual party",
+      "url": "https://kotaku.com/dragon-age-veilguard-romance-pansexual-playersexual-1851535412",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/07a8ae7ab22a0ac0adc826d50d015702.jpg",
+      "publishedAt": "2024-06-12T16:10:00Z",
+      "content": "BioWares upcoming RPG Dragon Age: The Veilguard seems heavily influenced by 2011s Dragon Age II. Its evocative of the second games action-driven combat, goes back to its three-path tone-driven dialog… [+3206 chars]"
     },
     {
       "source": {
@@ -47,25 +203,12 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Android 14 QPR3 rolling out with June Pixel update - 9to5Google",
-      "description": "In addition to the Feature Drop, Google is rolling out QPR3 to Android 14 with the June 2024 security patch...",
-      "url": "http://9to5google.com/2024/06/11/android-14-qpr3-pixel-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-14-qpr3-easter-egg-v-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-11T16:05:00Z",
-      "content": "In addition to the Feature Drop, Google is rolling out QPR3 to Android 14 with the June 2024 security patch for the latest Pixel devices: 5a, 6, 6 Pro, 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, and 8… [+1487 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "The Pixel Watch 2 can now detect when you've been in a car crash - The Verge",
-      "description": "Google is updating the Pixel Watch lineup’s safety features, with car crash detection for the Pixel Watch 2 and improved fall detection for bikes on both watches.",
-      "url": "https://www.theverge.com/2024/6/11/24176081/google-pixel-watch-crash-fall-detection-paypal-smartwatch-wearables",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oFQvx6nn40ob5Px56D4p31VH0mM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24992630/236828_Pixel_Watch_2_AKrales_0830.jpg",
-      "publishedAt": "2024-06-11T16:00:00Z",
-      "content": "The Pixel Watch 2 can now detect when youve been in a car crash\r\nThe Pixel Watch 2 can now detect when youve been in a car crash\r\n / Improved fall detection, PayPal in Google Wallet, and the Google H… [+2045 chars]"
+      "title": "Google Phone app rolling out 'Lookup' reverse number search - 9to5Google",
+      "description": "As announced with the June Pixel Feature Drop yesterday, Phone by Google is rolling out its reverse number \"Lookup\" shortcut...",
+      "url": "http://9to5google.com/2024/06/12/google-phone-lookup-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-12T15:30:00Z",
+      "content": "As announced with the June Pixel Feature Drop yesterday, Phone by Google is rolling out its reverse number “Lookup” shortcut. \r\nIn the Recents tab, tapping to expand an incoming call that you don’t h… [+967 chars]"
     },
     {
       "source": {
@@ -73,194 +216,51 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Dragon Age: The Veilguard - Official Gameplay Reveal - IGN",
-      "description": "Dragon Age: The Veilguard is the latest installment in the open-world RPG series developed by Bioware. Watch 20 minutes of gameplay from Dragon Age: The Veil...",
-      "url": "https://www.youtube.com/watch?v=tBPiovqVeHo",
-      "urlToImage": "https://i.ytimg.com/vi/tBPiovqVeHo/maxresdefault.jpg",
-      "publishedAt": "2024-06-11T15:51:11Z",
+      "title": "Elden Ring - Official The Journey So Far Trailer - IGN",
+      "description": "Check out the latest Elden Ring trailer to catch up on the story of the action RPG ahead of the launch of Elden Ring: Shadow of the Erdtree DLC. Brave Advent...",
+      "url": "https://www.youtube.com/watch?v=i1wVj-IrxdY",
+      "urlToImage": "https://i.ytimg.com/vi/i1wVj-IrxdY/maxresdefault.jpg",
+      "publishedAt": "2024-06-12T15:21:42Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Lance Whitney",
-      "title": "Apple's iOS 18 will let you record phone calls without a third-party app - ZDNet",
-      "description": "With the new AI-powered Apple Intelligence, your iPhone will be able to record, transcribe, and summarize phone calls. Here's what we know so far.",
-      "url": "https://www.zdnet.com/article/apples-ios-18-will-let-you-record-phone-calls-without-a-third-party-app/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b37cc9c2cae86b960ba77b9f4bd07c99ce2e46d4/2024/06/11/a041ef41-933a-422f-9670-8f4da65ae614/apple-ios-18-call-recording.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-06-11T15:23:00Z",
-      "content": "Apple\r\nRecording phone calls on your iPhone has long been doable but it's always required a third-party recording app. Now, Apple has unveiled a built-in phone recording feature available via the AI … [+1864 chars]"
+      "author": "Casey DeFreitas",
+      "title": "The Monster Hunter Wilds Devs Explain Gemma, Biggest Weapon Changes, and More - Summer Game Fest 2024 - IGN",
+      "description": "We talk to Monster Hunter Wilds art director and executive director Kaname Fujioka, series producer Ryozo Tsujimoto, and director Yuya Tokuda about the weapon updates, Gemma, and that dating sim tag.",
+      "url": "https://www.ign.com/articles/the-monster-hunter-wilds-devs-answer-all-of-our-questions-sgf-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/12/gemma-character-art-wilds-1718169404931.jpg?width=1280",
+      "publishedAt": "2024-06-12T15:01:54Z",
+      "content": "Even with the handful of Monster Hunter Wilds trailers released so far, theres still a lot we dont know about. Over the weekend, I was lucky enough to watch a 30-minute Monster Hunter Wilds gameplay … [+10994 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "Android Central"
       },
-      "author": "Wesley LeBlanc",
-      "title": "Get Your First Look At Dragon Age: The Veilguard's Real-Time Action Combat In First Gameplay Trailer - Game Informer",
-      "description": "More than 20 minutes of flashy Veilguard action, coming right up.",
-      "url": "https://www.gameinformer.com/news/2024/06/11/get-your-first-look-at-dragon-age-the-veilguards-real-time-action-combat-in-first",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2024/06/11/15844484/veilguard_promo_2.jpg",
-      "publishedAt": "2024-06-11T15:21:00Z",
-      "content": "Developer BioWare has released the first official gameplay trailer for its upcoming RPG, Dragon Age: The Veilguard. Featuring more than 20 minutes of gameplay, this is the first look at the game's ac… [+1754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Rajendra Saxena",
-      "title": "US stock markets: Apple stock hits record high on AI announcements | Stock Market News - Mint",
-      "description": "At 1:25 pm EDT, the Apple stock was at $205.17, higher by $12.05 or 6.24 per cent.",
-      "url": "https://www.livemint.com/market/stock-market-news/apple-stock-climbs-4-to-hit-record-high-on-ai-announcements-11718117899421.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/11/1600x900/Apple-Showcase-0_1718118020519_1718118053823.jpg",
-      "publishedAt": "2024-06-11T15:09:35Z",
-      "content": "Apple Inc. stock climbed more than 6 per cent to hit a record high on Tuesday, following its long-awaited AI strategy, presented at its annual developer conference WWDC. At 1:25 pm EDT, the Apple sto… [+2712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Best camera phones to buy under ₹30,000 in June 2024: Redmi Note 13 Pro+, Tecno Camon 30 and more | Mint - Mint",
-      "description": "Comparison of best camera phones under  ₹30,000 in India including Realme 12 Pro+, Tecno Camon 30, OnePlus Nord CE 4, Vivo V30e, and Redmi Note 13 Pro+ with detailed specifications and features.",
-      "url": "https://www.livemint.com/technology/gadgets/best-camera-phones-to-buy-under-rs-30-000-in-june-2024-redmi-note-13-pro-tecno-camon-30-realme-12-pro-nord-ce-4-11718115159612.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/11/1600x900/guygj_1704358514057_1718118255330.jpeg",
-      "publishedAt": "2024-06-11T15:06:55Z",
-      "content": "With almost all major brands promising to deliver flagship level camera performance on a budget, it can be hard to distinguish between these options and look for the right option. But fear not! For w… [+4590 chars]"
+      "author": "Jay Bonggolto",
+      "title": "Galaxy Z Fold 6 and Flip 6 leak reveals some disappointing news about their US pricing - Android Central",
+      "description": "The upcoming Samsung foldables are rumored to be $100 more expensive than their predecessors.",
+      "url": "https://www.androidcentral.com/phones/galaxy-z-fold-6-and-flip-6-leak-reveals-some-disappointing-news-about-their-us-pricing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bd4wth9QeCZTGQzPmNnqtQ-1200-80.jpg",
+      "publishedAt": "2024-06-12T14:44:25Z",
+      "content": "What you need to know\r\n<ul><li>The Galaxy Z Fold 6 is rumored to be pricier than the Z Fold 5, starting at $1,900 for the base model, which is $100 more.</li><li>The same may be the case with the Gal… [+2914 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "David Pierce",
-      "title": "The Light Phone 3 adds a better screen, a camera, and new ways to replace your smartphone - The Verge",
-      "description": "Light’s minimalist smartphones have been a success for years, and now the company is adding features like an OLED screen, a camera, and NFC to appeal to more people.",
-      "url": "https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JjPNCaKoJb2yZdmDHQIkT5aTkqw=/0x0:3336x2432/1200x628/filters:focal(1668x1216:1669x1217)/cdn.vox-cdn.com/uploads/chorus_asset/file/25486427/LightPhoneIII.ToolboxMenuB.jpeg",
-      "publishedAt": "2024-06-11T15:00:00Z",
-      "content": "The Light Phone 3 is a little less light but a lot more useful\r\nThe Light Phone 3 is a little less light but a lot more useful\r\n / Striking the right balance for a minimalist phone is hard, and somet… [+5511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Treyarch discusses how being on Game Pass is impacting Black Ops 6’s development - Video Games Chronicle",
-      "description": "With an influx of new players expected, the studio wants to make the game as accessible as possible…",
-      "url": "https://www.videogameschronicle.com/news/treyarch-discusses-how-being-on-game-pass-is-impacting-black-ops-6s-development/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/06/black-ops-6-h.jpg",
-      "publishedAt": "2024-06-11T14:54:29Z",
-      "content": "Treyarch has discussed how Black Ops 6s inclusion on Game Pass is impacting the final stretch of the new Call of Duty games development.\r\nMicrosoft announced at the end of May that Black Ops 6 will b… [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "More details about the OnePlus 13's cameras leak - GSMArena.com news - GSMArena.com",
-      "description": "The full array of sensors used is now known. Last week some details about the OnePlus 13's camera setup got outed in China, and now the same prolific...",
-      "url": "https://www.gsmarena.com/more_details_about_the_oneplus_13s_cameras_leak-news-63232.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/oneplus-13-camera-sensors/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-06-11T14:15:01Z",
-      "content": "Last week some details about the OnePlus 13's camera setup got outed in China, and now the same prolific source who goes by Digital Chat Station is back with some additional details regarding the exa… [+789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Sucharita Ganguly",
-      "title": "HMD 110, HMD 105 Feature Phones With Inbuilt UPI Support Launched in India: Price, Features - Gadgets 360",
-      "description": "HMD 110 and HMD 105 were announced in India on Tuesday. These are the company's first self-branded feature phones in India. They are also said to include voice assistance and large displays. The company has also packed inbuilt UPI apps into these newly-launch…",
-      "url": "https://www.gadgets360.com/mobiles/news/hmd-110-105-price-india-launch-availability-features-5867157",
-      "urlToImage": "https://i.gadgets360cdn.com/large/hmd_110_hmd_1718104981635.jpg",
-      "publishedAt": "2024-06-11T12:38:24Z",
-      "content": "HMD 110 and HMD 105 were announced in India on Tuesday. These are the company's first self-branded feature phones in India. They are offered in multiple colour options and are budget offerings equipp… [+2067 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livelaw.in"
-      },
-      "author": "Pankaj Bajpai",
-      "title": "Predictable Application Of Existing Technology To New Context Not \"Inventive Step\": Delhi HC Rejects... - Live Law - Indian Legal News",
-      "description": "The Delhi High Court has confirmed an order of the Assistant Controller of Patents & Designs refusing patent registration to \"Portable Vehicle Management System\" which claimed novel features like...",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-facial-data-privacy-inventive-step-rejection-indian-patent-act-260232",
-      "urlToImage": "https://www.livelaw.in/h-upload/2022/07/20/426695-justice-sanjeev-narula.jpg",
-      "publishedAt": "2024-06-11T12:00:02Z",
-      "content": "The Delhi High Court has confirmed an order of the Assistant Controller of Patents &amp; Designs refusing patent registration to \"Portable Vehicle Management System\" which claimed novel features like… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Broker Research",
-      "title": "Neutral InterGlobe Aviation; target of Rs 4210: Motilal Oswal - Moneycontrol",
-      "description": "Motilal Oswal recommended Neutral rating on InterGlobe Aviation with a target price of Rs 4210 in its research report dated May 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/business/neutral-interglobe-aviation-target-of-rs-4210-motilal-oswal-12746082.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/neutral2-378x213.jpg",
-      "publishedAt": "2024-06-11T11:55:53Z",
-      "content": "Motilal Oswal's research report on InterGlobe Aviation\r\nINDIGO reported EBITDA growth of 45% YoY to INR39.8b in 4QFY24, while PAT more than doubled to INR18.9b (vs. our est. of INR23.7b). Revenue pas… [+1096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Akash Dutta, Siddharth Suvarna",
-      "title": "Apple Brings RCS, Satellite Capabilities to the Messages App for iPhone With iOS 18 - Gadgets 360",
-      "description": "Apple unveiled iOS 18, the next generation of its operating system for iPhone, at the Worldwide Developers Conference (WWDC) 2024 on Monday. Among many new features such as Home Screen customisation, Apple Intelligence, and Control Center improvements, the Cu…",
-      "url": "https://www.gadgets360.com/mobiles/news/ios-18-rcs-satellite-capabilities-messages-app-iphone-wwdc-apple-5866241",
-      "urlToImage": "https://i.gadgets360cdn.com/large/iphone_satellite_text_1718099543646.jpg",
-      "publishedAt": "2024-06-11T10:55:07Z",
-      "content": "Apple unveiled iOS 18, the next generation of its operating system for iPhone, at the Worldwide Developers Conference (WWDC) 2024 on Monday. Among many new features such as Home Screen customisation,… [+2278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Realme GT 6 confirmed to be powered by Snapdragon 8s Gen 3 chip, feature 5,500mAh battery: All we know so far | Mint - Mint",
-      "description": "Realme GT 6 set to launch in India and other countries on June 20 with confirmed specifications including Snapdragon 8s Gen 3 chipset, dual VC cooling system, 5,500mAh battery, and 120W SUPERVOOC charge.",
-      "url": "https://www.livemint.com/technology/gadgets/realme-gt-6-confirmed-to-be-powered-by-snapdragon-8s-gen-3-chip-feature-5-500mah-battery-poco-f6-realme-gt-6t-price-11718097392661.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/11/1600x900/realme_gt_6_1718100236598_1718100244644.jpg",
-      "publishedAt": "2024-06-11T10:08:27Z",
-      "content": "Realme's flagship smartphone, the Realme GT 6, is set to make its debut in India and a number of other countries on June 20. Ahead of the device's official launch, Realme has now confirmed a number o… [+2073 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Mark Harris",
-      "title": "The Titan Submersible Disaster Shocked the World. The Inside Story Is More Disturbing Than Anyone Imagined - WIRED",
-      "description": "A year after OceanGate’s sub imploded, thousands of leaked documents and interviews with ex-employees reveal how the company’s CEO cut corners, ignored warnings, and lied in his fatal quest to reach the Titanic.",
-      "url": "https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/",
-      "urlToImage": "https://media.wired.com/photos/65a99116ccf1dfc50354872c/191:100/w_1280,c_limit/Submarine_Round_3.jpg",
-      "publishedAt": "2024-06-11T10:00:00Z",
-      "content": "The Ocean Sciences Building at the University of Washington in Seattle is a brightly modern, four-story structure, with large glass windows reflecting the bay across the street.\r\nOn the afternoon of … [+2904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Kevin Okemwa",
-      "title": "Microsoft will end support for Copilot Pro's GPT Builder in July - Windows Central",
-      "description": "Microsoft will retire Copilot Pro's GPT Builder in July.",
-      "url": "https://www.windowscentral.com/software-apps/copilot-pros-gpt-builder-bites-the-microsoft-graveyard-dust-as-the-company-prioritizes-refinement-of-core-experiences",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JtCgjFrRT6JwEGWp4X2FNS-1200-80.jpg",
-      "publishedAt": "2024-06-11T09:52:33Z",
-      "content": "What you need to know\r\n<ul><li>Microsoft is cutting support for GPT Builder in Copilot Pro.</li><li>Starting July 10, 2024, the company will remove all GPTs created by Microsoft and customers, includ… [+1790 chars]"
+      "author": "Jess Weatherbed",
+      "title": "This macOS Sequoia wallpaper pays tribute to classic Macintosh icons - The Verge",
+      "description": "Apple is introducing a new dynamic screensaver and wallpaper combo in macOS 15 Sequoia that respectfully eulogizes retro Macintosh iconography.",
+      "url": "https://www.theverge.com/2024/6/12/24176917/macos-sequoia-wallpaper-classic-macintosh-icons-susan-kare",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rBkHnP7y_QnaNktNEXvxTRnWvmI=/0x0:6400x3552/1200x628/filters:focal(3200x1776:3201x1777)/cdn.vox-cdn.com/uploads/chorus_asset/file/25488446/Yellow_Icons.jpg",
+      "publishedAt": "2024-06-12T14:33:13Z",
+      "content": "This macOS Sequoia wallpaper pays tribute to classic Macintosh icons\r\nThis macOS Sequoia wallpaper pays tribute to classic Macintosh icons\r\n / The new dynamic wallpaper and screensaver combo features… [+1432 chars]"
     }
   ]
 }
