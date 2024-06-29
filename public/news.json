@@ -1,162 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 179,
+  "totalResults": 193,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Joshua Hawkins, Joshua Hawkins",
-      "title": "The world's most dangerous cheese is served covered in jumping maggots - BGR",
-      "description": "Ever wondered what the world's most dangerous cheese is? Here's everything you need to know about casu marzu.",
-      "url": "https://bgr.com/science/the-worlds-most-dangerous-cheese-is-served-covered-in-jumping-maggots/",
-      "urlToImage": "https://bgr.com/wp-content/uploads/2024/06/casu-marzu-cheese-with-maggots.jpg?quality=82&strip=all",
-      "publishedAt": "2024-06-26T22:20:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Elden Ring: Shadow of the Erdtree’s First Update Makes It Slightly Easier - IGN Daily Fix - IGN",
-      "description": "In today's Daily Fix:Elden Ring: Shadow of the Erdtree just got its first post-launch patch, and Update 1.12.2 just might make the game a little easier. Ther...",
-      "url": "https://www.youtube.com/watch?v=790Pw1ULZWU",
-      "urlToImage": "https://i.ytimg.com/vi/790Pw1ULZWU/maxresdefault.jpg",
-      "publishedAt": "2024-06-26T22:17:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Top Tech News Today: Samsung Galaxy Unpacked Event Confirmed For July 10, Realme C61 Budget Smartphone Launched, More - ABP Live",
-      "description": "Samsung has set July 10 for its Galaxy Unpacked event, during which the South Korean electronics giant will unveil the Galaxy Z Fold 6 and Galaxy Z Flip 6.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-june-26-samsung-galaxy-unpacked-event-confirmed-for-july-10-realme-c61-budget-smartphone-launched-1698467",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/06/27/f56972a7e3a85271833baddb8389a91e1719433520634295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-06-26T20:27:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Florence Ion",
-      "title": "The Green Bubble Nightmare Is Over, Apple Messages now Support RCS - Gizmodo",
-      "description": "The developer beta is the only way to solve the Android vs. Apple feud for now, but it’s excellent news for the future.",
-      "url": "https://gizmodo.com/apple-messages-supports-rcs-ios18-beta-1851562461",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7689a532f2d524df6df78d37a67dc297.png",
-      "publishedAt": "2024-06-26T20:05:00Z",
-      "content": "If youre running the iOS 18 developer beta, you may have noticed your Android friends arent the same green bubbles as they used to be. Carriers have been steadily rolling out RCS support on the backe… [+1729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Here's what Xbox's ill-fated cloud gaming console might have looked like, according to newly surfaced patent - Eurogamer",
-      "description": "Remember Microsoft's Xbox cloud gaming device, codenamed Keystone? The one that got announced in 2021, was cancelled in…",
-      "url": "https://www.eurogamer.net/heres-what-xboxs-ill-fated-cloud-gaming-console-might-have-looked-like-according-to-newly-surfaced-patent",
-      "urlToImage": "https://assetsio.gnwcdn.com/xbox-keystone-patent-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-06-26T19:26:04Z",
-      "content": "Remember Microsoft's Xbox cloud gaming device, codenamed Keystone? The one that got announced in 2021, was cancelled in its original form a year later, then showed up on Phil Spencer's shelf after th… [+2398 chars]"
-    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
       "author": "Jay Peters",
-      "title": "Steam has a new game recording tool, and it works on Steam Deck - The Verge",
-      "description": "Valve is adding a native gameplay recording tool to Steam. The game recording tool is now in beta, and it even works on Steam Deck.",
-      "url": "https://www.theverge.com/2024/6/26/24186716/valve-steam-native-game-recording-tool-deck",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Lwh8wHFQHVxUooQjqY02h2EnONc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062777/STK138_Stream_Kradtke_02.jpg",
-      "publishedAt": "2024-06-26T19:16:34Z",
-      "content": "Steams new native gameplay recording tool also works on the Steam Deck\r\nSteams new native gameplay recording tool also works on the Steam Deck\r\n / You can try the new feature in beta now.\r\nByJay Pete… [+1925 chars]"
+      "title": "The New York Times' excellent word search game is now in its Games app - The Verge",
+      "description": "Strands, The New York Times’ word search game, has been officially added to the NYT’s Games app on iOS and Android.",
+      "url": "https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/e0rDX1urCG7aRKm2fdOExaGSe-k=/0x0:1000x600/1200x628/filters:focal(500x300:501x301)/cdn.vox-cdn.com/uploads/chorus_asset/file/25509375/Strands_Press_Hero_5x3_1.jpg",
+      "publishedAt": "2024-06-27T21:24:20Z",
+      "content": "The New York Times excellent word search game is now in its Games app\r\nThe New York Times excellent word search game is now in its Games app\r\n / Now you can do your crossword, Wordle, Connections, an… [+1826 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Perplexity's grand theft AI - The Verge",
+      "description": "Perplexity CEO Aravind Srinivas admitted that the company was founded on pretending to be something it wasn’t so it could scrape data. What does that mean for publishers?",
+      "url": "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CefqI3bsBi0HPjOc91iW6qaJOKE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg",
+      "publishedAt": "2024-06-27T20:32:05Z",
+      "content": "Perplexitys grand theft AI\r\nPerplexitys grand theft AI\r\n / More like Perfidy?\r\nByElizabeth Lopatto, a reporter who writes about tech, money, and human behavior. She joined The Verge in 2014 as scienc… [+5907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "The Steam Summer Sale Includes Some Of The Biggest Deals Ever - Kotaku",
+      "description": "Valve's annual sale is filled with some huge discounts on big games like Battlefield, Batman, and more",
+      "url": "https://kotaku.com/steam-summer-sale-best-biggest-deals-deep-discounts-pc-1851564737",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8d9fa5c2e3b0683ce6ecee0ef1467906.jpg",
+      "publishedAt": "2024-06-27T20:15:00Z",
+      "content": "Do you smell that? Thats the smell of millions of credit cards around the world melting as gamers empty their bank accounts buying up cheap games during this years Steam Summer Sale. And this time ar… [+2443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Ride the Tides into the July Trading Post — World of Warcraft — Blizzard News - Blizzard News",
+      "description": "Let the tides of summer carry you away this month. Take Trishi the baby naga pet with you everywhere you go. She’ll help keep an eye out for you on all your adventures!",
+      "url": "https://news.blizzard.com/en-us/world-of-warcraft/24107642/ride-the-tides-into-the-july-trading-post",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/93/93LD5NEU5JBM1718731672257.png",
+      "publishedAt": "2024-06-27T20:00:00Z",
+      "content": "Let the tides of summer carry you away this month. Take Trishi the baby naga pet with you everywhere you go. Shell help keep an eye out for you on all your adventures!\r\nVisit T&amp;W** (Tawney and Wi… [+6215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASASpaceflight.com"
+      },
+      "author": "Justin Davenport",
+      "title": "Starship preparations point to possible tower catch attempt on Flight 5 - NASASpaceFlight.com - NASASpaceflight.com",
+      "description": "The Starship program is testing with a possible tower catch in mind for the next…",
+      "url": "https://www.nasaspaceflight.com/2024/06/starship-preparations-tower-catch-flight-5/",
+      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/06/DSC_6689-wmarked-525x350.jpeg",
+      "publishedAt": "2024-06-27T18:30:16Z",
+      "content": "2The Starship program is testing with a possible tower catch in mind for the next flight of the system, a goal that seems more within reach after Flight 4s successful ocean soft landing. In addition … [+6248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "9 Things We Just Learned About PlayStation's Polarizing Sci-Fi Shooter Concord - Kotaku",
+      "description": "The mashup of Overwatch and Destiny sounds like it has potential",
+      "url": "https://kotaku.com/concord-ps5-previews-maps-beta-signup-fps-1851564594",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5f319c9658fe87a6b94cd1ab885a708f.png",
+      "publishedAt": "2024-06-27T18:30:00Z",
+      "content": "Concord is Sonys next big PlayStation bet on live service gaming and the sci-fi shooter is just a couple months away. A recent batch of previews finally gave us a better idea of what to expect, and t… [+5878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Delshad Irani",
+      "title": "Angel One sees surge in web traffic and app installs following IPL sponsorship - CNBCTV18",
+      "description": "In an interview with CNBC-TV18, Prabhakar Tiwari, Chief Growth Officer of Angel One, stressed the importance of visibility and brand recall in a competitive market landscape, citing research that positioned Angel One among the top three most recalled brands d…",
+      "url": "https://www.cnbctv18.com/videos/storyboard18/angel-one-app-gets-ipl-sponsorship-boost-19435011.htm",
+      "urlToImage": "https://www.cnbctv18.com/static/images/logo-600x314.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-06-27T18:25:14Z",
+      "content": "Broking firm Angel One, aims to become the most trusted fintech brand, impacting a billion lives. To realise this vision, the company chose to sponsor the Indian Premier League (IPL).In an interview … [+4141 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Lauren Forristal",
-      "title": "Google improves search experience in the Chrome mobile app - TechCrunch",
-      "description": "Facing new competition from startups like Arc, Google announced on Wednesday that it’s bringing five new features to the Chrome browser on mobile devices, Google is bringing new features to the Chrome browser on mobile devices, designed to enhance the search …",
-      "url": "https://techcrunch.com/2024/06/26/google-chrome-mobile-app-updates-ios-android/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/Chrome-app-updates-2024.png?w=1200",
-      "publishedAt": "2024-06-26T19:16:10Z",
-      "content": "Facing new competition from startups like Arc, Google announced on Wednesday that its bringing five new features to the Chrome browser on mobile devices, each designed to enhance the search experienc… [+2000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": "VideoCardz.com",
-      "title": "Microsoft's cancelled Xbox mini cloud streaming console appears in a patent filing - VideoCardz.com",
-      "description": null,
-      "url": "https://videocardz.com/newz/microsofts-cancelled-xbox-mini-cloud-streaming-console-appears-in-a-patent-filing",
-      "urlToImage": null,
-      "publishedAt": "2024-06-26T18:58:00Z",
-      "content": null
+      "author": "Sarah Perez",
+      "title": "Zuckerberg disses closed-source AI competitors as trying to 'create God' - TechCrunch",
+      "description": "In the conversation, Zuckerberg said there needs to be a lot of different AIs that get created to reflect people's different interests.",
+      "url": "https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/zuckerberg-interview.jpg?resize=1200,697",
+      "publishedAt": "2024-06-27T18:04:19Z",
+      "content": "Riffing on what he sees for the future of AI, Meta CEO Mark Zuckerberg said in an interview published Thursday that he deeply believes that there will not be “just one AI.” Touting the value of open … [+4930 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Ben Schoon",
-      "title": "WhatsApp for Android testing video replies - 9to5Google",
-      "description": "Soon, WhatsApp for Android may be adding support for sending video replies to video messages. Alongside text and voice messages,...",
-      "url": "http://9to5google.com/2024/06/26/whatsapp-for-android-testing-video-replies/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/WhatsApp-Android-Play-Store-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-26T18:38:00Z",
-      "content": "Soon, WhatsApp for Android may be adding support for sending video replies to video messages.\r\nAlongside text and voice messages, WhatsApp also supports the ability to send a brief video as a message… [+611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Figma CEO on failed Adobe deal, startup landscape, big redesign with AI - CNBC Television",
-      "description": "Figma CEO Dylan Field joins 'The Exchange' with CNBC's Deirdre Bosa to discuss Figma's announcements of new AI features, the abandonment of the company's mer...",
-      "url": "https://www.youtube.com/watch?v=URcJCad4SsI",
-      "urlToImage": "https://i.ytimg.com/vi/URcJCad4SsI/maxresdefault.jpg",
-      "publishedAt": "2024-06-26T18:35:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Peter Holderith",
-      "title": "The New M5 Is Heavier Than a Chevy Tahoe. What Is BMW Doing? - Motor1 ",
-      "description": "When a classic sports sedan has strayed so far from its original vision, we can either be disappointed or find the entire situation hilarious.",
-      "url": "https://www.motor1.com/news/724647/2025-bmw-m5-weight-more-than-suv/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/BXe6xv/s1/2025-bmw-m5.jpg",
-      "publishedAt": "2024-06-26T18:15:00Z",
-      "content": "BMW just debuted the new 2025 M5: A twin-turbocharged, V-8, all-wheel-drive hybrid sports sedan with 717 horsepower. It also weighs 5,390 pounds, which makes it heavier than some electric sedans, SUV… [+3870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "Dead Rising Deluxe Remaster Announced With Teaser Trailer - Game Informer",
-      "description": "There's no word on a release date for the game, though.",
-      "url": "https://www.gameinformer.com/news/2024/06/26/dead-rising-deluxe-remaster-announced-with-teaser-trailer",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2024/06/26/bf24ac2a/dead_rising_deluxe_remaster_announced.jpg",
-      "publishedAt": "2024-06-26T18:02:00Z",
-      "content": "Id like to ask you to support Game Informers continued coverage of games with a subscription. For less than two dollars per issue, we mail you a full year of 10 print magazines, each with cover stori… [+934 chars]"
+      "author": "Abner Li",
+      "title": "YouTube details progress on top Premium features requests - 9to5Google",
+      "description": "In addition to announcing the latest features for Premium subscribers today, YouTube shared updates on top feature requests...",
+      "url": "http://9to5google.com/2024/06/27/youtube-premium-features/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/YouTube-mobile.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-06-27T17:46:00Z",
+      "content": "In addition to announcing the latest features for Premium subscribers today, YouTube shared updates on top feature requests.\r\nFor starters, YouTube is “improving the download experience by addressing… [+1299 chars]"
     },
     {
       "source": {
@@ -164,103 +125,142 @@
         "name": "Livemint"
       },
       "author": "Livemint",
-      "title": "Made by Google event announced: Pixel 9 series, Pixel Watch 3, and Pixel Buds Pro 2 expected | Mint - Mint",
-      "description": "Google's ‘Made by Google 2024’ event, moved up to August 13, will showcase the Pixel 9 series, Pixel Watch 3, and Pixel Buds Pro 2. Taking place in Mountain View, California, the event will also highlight new AI features and the anticipated Android 15.",
-      "url": "https://www.livemint.com/technology/tech-news/made-by-google-event-announced-pixel-9-series-pixel-watch-3-and-pixel-buds-pro-2-expected-11719423945782.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/26/1600x900/pixel_8_f_1696432375950_1719424731965.png",
-      "publishedAt": "2024-06-26T18:01:56Z",
-      "content": "In an unexpected move, Google has revealed that its \"Made by Google 2024\" event will occur earlier than usual, slated for August 13. Traditionally held in October, this year's event has been shifted … [+2189 chars]"
+      "title": "Oppo Reno12 5G, Reno 12 Pro 5G tipped to get THESE AI features: All we know so far | Mint - Mint",
+      "description": "Reno12 Series by OPPO integrates AI tools like AI Record Summary, AI Clear Voice, and AI Writer for enhanced productivity. AI Eraser 2.0 uses Generative AI for accurate background removal with professional editing results.",
+      "url": "https://www.livemint.com/technology/tech-news/oppo-reno12-5g-reno-12-pro-5g-tipped-to-get-these-ai-features-all-we-know-so-far-11719507080528.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/27/1600x900/_OPPO_AI_is_coming_1719507595315_1719507601959.jpg",
+      "publishedAt": "2024-06-27T17:02:03Z",
+      "content": "OPPO India is set to launch the Reno12 5G and Reno12 Pro 5G, two smartphones boasting advanced AI-powered camera features designed to deliver without the need for post-editing. These features include… [+2951 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "SiliconANGLE News"
       },
-      "author": "Kevin Dolak",
-      "title": "Toys ‘R’ Us Debuts First Video Ad Using Sora, OpenAI’s Text-to-Video Tool - Hollywood Reporter",
-      "description": "The spot, which is garnering mixed reviews online, tells the brand's origin story via the highly anticipated tool from the company behind ChatGPT.",
-      "url": "http://www.hollywoodreporter.com/business/digital/toys-r-us-ad-sora-openai-video-tool-reaction-1235932993/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/ToysRUs-AI-Ad.jpg?w=1024",
-      "publishedAt": "2024-06-26T17:36:48Z",
-      "content": "Revived retailer Toys ‘R’ Us is the first brand to use Sora, OpenAI’s highly anticipated text-to-video tool, for its advertising — and the one-minute spot it debuted at a conference in France this we… [+4031 chars]"
+      "author": null,
+      "title": "Google uses AI to bring 110 new languages to Translate - SiliconANGLE News",
+      "description": "Google uses AI to bring 110 new languages to Translate - SiliconANGLE",
+      "url": "https://siliconangle.com/2024/06/27/google-uses-ai-bring-110-new-languages-translate/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/google-translate-screenshot.png",
+      "publishedAt": "2024-06-27T17:00:10Z",
+      "content": "Google LLC said today that it’s bringing 110 new languages to its web and smartphone translation app using the power of artificial intelligence, making it more comprehensive than ever with 243 langua… [+3661 chars]"
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": null,
+        "name": "SamMobile"
       },
-      "author": "Katie Paul",
-      "title": "AI dataset licensing companies form trade group - Reuters",
-      "description": "Seven content-licensing sellers of music, image, video and other datasets for use in training artificial intelligence systems have formed the sector's first trade group, they said on Wednesday.",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/ai-dataset-licensing-companies-form-trade-group-2024-06-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FRPTERBBEROPBB2DCRXRKHEXQ4.jpg?auth=3ae43578b14813f016d8af768a4f5fb6fac3a992c127e27f4b73f16fae534879&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-06-26T17:05:00Z",
-      "content": null
+      "author": "SamMobile, Mihai Matei",
+      "title": "Galaxy Watch 7, Ultra, and Buds 3 official renders leak in detail - SamMobile - Samsung news",
+      "description": "Anyone who kept an eye on the recent leaks concerning Samsung's next Unpacked event should have at least a rough ...",
+      "url": "https://www.sammobile.com/news/galaxy-watch-7-ultra-and-buds-3-official-renders-leak-in-detail/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/06/Reserve-next-Galaxy-720x406.png",
+      "publishedAt": "2024-06-27T16:57:00Z",
+      "content": "Anyone who kept an eye on the recent leaks concerning Samsung's next Unpacked event should have at least a rough idea of what to expect from the company's next-gen wearables. But if you were waiting … [+2341 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Livemint"
       },
-      "author": "Jay Peters",
-      "title": "Figma announces big redesign with AI - The Verge",
-      "description": "Figma is adding new generative AI tools to help people more easily make projects in the popular design app. It’s also adding a slides feature and introducing a redesign.",
-      "url": "https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-AMjR821g7hTj4QiNrpgB4PF5BY=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501876/_External__Figma_AI.png",
-      "publishedAt": "2024-06-26T16:15:00Z",
-      "content": "Figma announces big redesign with AI\r\nFigma announces big redesign with AI\r\n / Figma is launching a presentation feature, too.\r\nByJay Peters, a news editor who writes about technology, video games, a… [+5635 chars]"
+      "author": "Livemint",
+      "title": "Moto Razr 50 Ultra confirmed to launch on July 4: What all to expect | Mint - Mint",
+      "description": "Lenovo-owned Motorola teases the launch of Moto Razr 50 Ultra in India with Midnight Blue, Spring Green, and Peach Fuzz color options, Moto AI integrations, Google Gemini, and IPX8 water resistance.",
+      "url": "https://www.livemint.com/technology/tech-news/moto-razr-50-ultra-confirmed-to-launch-on-july-4-what-all-to-expect-11719503140776.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/27/1600x900/HVHVH_1719503491083_1719503505269.webp",
+      "publishedAt": "2024-06-27T16:38:06Z",
+      "content": "Motorola is gearing up to introduce the Moto Razr 50 Ultra in India, confirmed to be available through Amazon. This latest model, powered by the Snapdragon 8s Gen 3 processor, features an IPX8-rated … [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Microsoft pulls Windows 11 KB5039302 update causing reboot loops - BleepingComputer",
+      "description": "Microsoft pulled the June Windows 11 KB5039302 update after finding that it causes some devices to restart repeatedly.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/02/09/Windows__11.jpg",
+      "publishedAt": "2024-06-27T16:10:38Z",
+      "content": "Microsoft pulled the June Windows 11 KB5039302 update after finding that it causes some devices to restart repeatedly.\r\nThe KB5039302 update is the June preview update released this week, allowing co… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Asif Iqbal Shaik",
+      "title": "Second One UI 6 Watch Beta update now available for Galaxy Watch 6 - SamMobile - Samsung news",
+      "description": "Samsung has released the second One UI 6 Watch beta update in South Korea, and it could also be released ...",
+      "url": "https://www.sammobile.com/news/galaxy-watch-6-one-ui-6-watch-beta-2-update-released-korea/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/08/Galaxy-Watch-6-Classic-review-20-720x405.jpg",
+      "publishedAt": "2024-06-27T16:08:00Z",
+      "content": "Samsung has released the second One UI 6 Watch beta update in South Korea, and it could also be released soon in the US. The update is available for the Galaxy Watch 6 series.\r\nThe update comes two w… [+1611 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Eurogamer.net"
       },
-      "author": "Victoria Kennedy",
-      "title": "Borderlands 3 headlines PlayStation Plus games for July - Eurogamer",
-      "description": "Sony has announced next month's PlayStation Plus games.",
-      "url": "https://www.eurogamer.net/borderlands-3-headlines-playstation-plus-games-for-july",
-      "urlToImage": "https://assetsio.gnwcdn.com/borderlands_3_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-06-26T16:06:34Z",
-      "content": "Sony has announced next month's PlayStation Plus games, and headlining July's PS Plus lineup is shooter-looter Borderlands 3.\r\n\"The humour is even more annoying, the guns even more amazing and Gearbo… [+1558 chars]"
+      "author": "Tom Phillips",
+      "title": "Newscast: With the death of Keystone, will Xbox give up its streaming console plans forever? - Eurogamer",
+      "description": "This week on the Eurogamer Newscast, we discuss the cancelled Xbox project Keystone: Microsoft's plans to launch a rela…",
+      "url": "https://www.eurogamer.net/eurogamer-newscast-playstation-upsets-vr-fans-not-e3-june-hype-cycle-1-1",
+      "urlToImage": "https://assetsio.gnwcdn.com/xbox-keystone-patent-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-06-27T16:04:03Z",
+      "content": "This week on the Eurogamer Newscast, we discuss the cancelled Xbox project Keystone: Microsoft's plans to launch a relatively cheap streaming console.\r\nKeystone popped up yesterday in an old patent w… [+919 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Abplive.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Krishna SinhaChaudhury",
-      "title": "CMF Phone 1 Price And Specs Leaked Ahead Of Launch On July 8 - ABP Live",
-      "description": "The CMF Phone 1 is set to officially launch in India on July 8. Ahead of the launch, pricing information for Nothing's inaugural budget handset has been leaked by tipster Yogesh Brar.",
-      "url": "https://news.abplive.com/technology/gadgets/cmf-phone-1-price-leak-launch-july-8-tipster-yogesh-brar-x-specs-features-colours-1698431",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/06/26/80a7276bc2752003094ea923f85e42df1719415716228295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-06-26T15:42:36Z",
-      "content": null
+      "author": "Tom Warren",
+      "title": "Windows on Arm puts Intel on notice - The Verge",
+      "description": "Microsoft and Qualcomm have delivered a Windows on Arm experience that rivals Intel-powered laptops. The transition to Windows on Arm feels like a real thing now.",
+      "url": "https://www.theverge.com/2024/6/27/24187343/intel-windows-on-arm-microsoft-qualcomm-notepad",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/s5hQq5rIlJ3hZWCimRtq6Ek2Agc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501065/DSCF7721.jpg",
+      "publishedAt": "2024-06-27T16:00:00Z",
+      "content": "Windows on Arm puts Intel on notice\r\nWindows on Arm puts Intel on notice\r\n / Microsoft and Qualcomm have delivered some real Intel competition.\r\nByTom Warren, a senior editor and author of Notepad, w… [+1126 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Samsung.com"
+        "name": "Ubisoft.com"
       },
       "author": null,
-      "title": "[Invitation] Galaxy Unpacked July 2024: Galaxy AI Is Here – Samsung Newsroom South Africa - Samsung",
-      "description": "The next frontier of Galaxy AI is coming. Prepare to discover the power of Galaxy AI, now infused into the latest Galaxy Z series and the entire Galaxy",
-      "url": "https://news.samsung.com/za/invitation-galaxy-unpacked-july-2024-galaxy-ai-is-here",
-      "urlToImage": "https://img.global.news.samsung.com/za/wp-content/uploads/2024/06/Screenshot-2024-06-26-173329.png",
-      "publishedAt": "2024-06-26T15:36:42Z",
-      "content": "The next frontier of Galaxy AI is coming. Prepare to discover the power of Galaxy AI, now infused into the latest Galaxy Z series and the entire Galaxy ecosystem. Get ready for a world of possibiliti… [+481 chars]"
+      "title": "CEO Yves Guillemot on Ubisoft's Upcoming Portfolio, the Future of Assassin's Creed - Ubisoft",
+      "description": "Guillemot discusses his vision for Ubisoft’s upcoming slate, the future of the Assassin’s Creed franchise, the good and bad of the games industry, and more.",
+      "url": "https://news.ubisoft.com/en-us/article/E1e8T9q8rjZ4arsPNT1Xd/ceo-yves-guillemot-on-ubisofts-upcoming-portfolio-the-future-of-assassins-creed",
+      "urlToImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1yCQ3xMSOmhiO6qCfjZBOp/edc04681f6c9970b8e3866ae2ba6b6ac/ubisoft-logo.jpg",
+      "publishedAt": "2024-06-27T15:54:20Z",
+      "content": "After the excitement of Ubisoft Forward earlier in June, we were able to briefly sit down with CEO Yves Guillemot, who was feeling reflective after the whirlwind June showcase season. Among other top… [+6363 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "Kotaku"
       },
-      "author": "Millie Davis-Williams",
-      "title": "Massive Amazon Prime Day preview sale — 17 deals I'd buy on Blink, Ring, Fire TVs and more from $22 - Tom's Guide",
-      "description": "Score Amazon hardware from $22",
-      "url": "https://www.tomsguide.com/sales-events/massive-amazon-prime-day-preview-sale-15-deals-id-buy-on-blink-ring-fire-tvs-and-more-from-dollar22",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MRBbJnPNZ4uwx7qUpDW9xA-1200-80.jpg",
-      "publishedAt": "2024-06-26T15:34:24Z",
-      "content": "Prime Day is getting close, but if you just can't wait, don't worry. Amazon just released some excellent sales on their devices, with everything from Blink security to Ring video doorbells being slas… [+882 chars]"
+      "author": "Ethan Gach",
+      "title": "Fans Can't Believe Donkey Kong HD Costs More Than Metroid Prime - Kotaku",
+      "description": "How much is too much for a remaster of an old Nintendo game?",
+      "url": "https://kotaku.com/donkey-kong-returns-hd-metroid-prime-remaster-price-1851563971",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b3f9fc6305eac0a5af40b4a947656e94.jpg",
+      "publishedAt": "2024-06-27T15:40:00Z",
+      "content": "Donkey Kong Country Returns HD is an enhanced version of the 2o10 Wii game coming to Switch in 2025, and fans cant believe Nintendo is charging $60 for it. The price was revealed in the new eShop lis… [+2868 chars]"
     }
   ]
 }
