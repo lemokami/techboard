@@ -1,32 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 226,
+  "totalResults": 235,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "CNET"
       },
-      "author": "Vlad",
-      "title": "Realme 13 Pro+ gets certified in China, here's what it looks like - GSMArena.com news - GSMArena.com",
-      "description": "It should become official soon alongside the Realme 13 Pro. The Realme 13 Pro+ has been certified by the FCC last week, and now it's done the same in China...",
-      "url": "https://www.gsmarena.com/realme_13_pro_gets_certified_in_china_heres_what_it_looks_like-news-63557.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/realme-13-pro-plus-certified-tenaa/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-07-04T00:22:01Z",
-      "content": "The Realme 13 Pro+ has been certified by the FCC last week, and now it's done the same in China at TENAA. This process has revealed what it looks like, although as per the usual TENAA standard, the p… [+1230 chars]"
+      "author": null,
+      "title": "July 4th TV Deals: Grab Discounts of Up to $2,700 on Top Brands like Sony, LG, Samsung and More - CNET",
+      "description": "Snag yourself a brand-new TV this July 4th with incredible deals on budget-friendly and high-end options. Hurry -- these offers won't last.",
+      "url": "https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-04/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3a52191adf5e78a9f5a0fa935d422448386e39b1/hub/2024/06/26/8aa7b848-9eee-45e2-ac8c-383bc32899c9/sony-tv-fourth-of-july-commerce-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-04T20:55:00Z",
+      "content": "Sony / CNET\r\nUpgrade your home entertainment this Fourth of July with unbeatable deals on some of the best televisions. Whether you're into movies, games or streaming the latest TV shows, these telev… [+3132 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Samsung.com"
+        "name": "CNET"
       },
       "author": null,
-      "title": "[Galaxy History ②] Evolution of the Galaxy Buds Series: Listening Innovation That Eliminated Wires - Samsung",
-      "description": "Wireless earphones have become essential accessories for anyone active and on the go including music lovers, students and office workers. Even though",
-      "url": "https://news.samsung.com/global/galaxy-history-%e2%91%a1-evolution-of-the-galaxy-buds-series-listening-innovation-that-eliminated-wires",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2024/07/Samsung-Mobile-Galaxy-Buds-series-History-2024_thumb728.jpg",
-      "publishedAt": "2024-07-03T23:01:30Z",
-      "content": "Wireless earphones have become essential accessories for anyone active and on the go including music lovers, students and office workers. Even though people have listened to music through wired earph… [+6677 chars]"
+      "title": "40 Unbeatable July 4th Sales at Best Buy: Massive Savings on Tech, Appliances, Audio and More - CNET",
+      "description": "Don’t miss out on the savings at Best Buy’s Fourth of July sale -- great deals on TVs, video games, audio and more. These July 4th sales at Best Buy are here for a limited time, so don’t wait.",
+      "url": "https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-04/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/468705574f09e5ab14413379b5f00857d062d6a4/hub/2024/06/26/ed6869b1-d1d2-4fdb-b4fd-df4bd008bb8d/4th-of-july-promo-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-04T20:50:00Z",
+      "content": "CNET\r\nReady to save? We’ve curated the biggest and best deals from Best Buy’s Fourth of July sale, so you don’t have to do the work. Sit back, relax and score incredible savings on a wide range of pr… [+3194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Boing Boing",
+      "title": "Roku update turns on hated motion-smoothing feature, with no off switch - Boing Boing",
+      "description": null,
+      "url": "https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html",
+      "urlToImage": null,
+      "publishedAt": "2024-07-04T20:10:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Owen Bellwood",
+      "title": "Watch This Lego Gearbox Spin To See How CVTs Work - Jalopnik",
+      "description": "This simple model showcases how a continuously variable transmission cycles through the gears in your car.",
+      "url": "https://jalopnik.com/watch-this-lego-gearbox-spin-to-see-how-cvts-work-1851577137",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a7efeba49cd4af2b50bd2c2a0f0016b8.gif",
+      "publishedAt": "2024-07-04T18:30:00Z",
+      "content": "Lego bricks are pretty great, they can be used to recreate iconic airports, let you build up your dream car and can now be used to demonstrate whats going on inside your cars transmission. Thats than… [+1822 chars]"
     },
     {
       "source": {
@@ -34,37 +60,167 @@
         "name": "Abplive.com"
       },
       "author": "ABP News Bureau",
-      "title": "Top Tech News Today: Figma Pulls AI Tool That Copied Apple's Weather App, AI Spam Ranks Higher Than Original Content In Google Search, More - ABP Live",
-      "description": "Figma CEO Dylan Field shared a series of posts on X on Tuesday morning, explaining the decision to pull the tool.",
-      "url": "https://news.abplive.com/technology/top-tech-news-today-figma-pulls-new-ai-tool-that-copied-apple-weather-app-ai-spam-ranks-higher-than-original-content-in-google-search-1700104",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/04/c9e24035d9571902d460cd3308149cbb1720036917240295_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-07-03T20:21:50Z",
+      "title": "iPhone 15 Gets Big Price Cut In India. Check Discounted Price On Flipkart - ABP Live",
+      "description": "Flipkart has announced its Big Bachat Days sale which brings deep discounts on all four models of the iPhone 15 series.",
+      "url": "https://news.abplive.com/technology/gadgets/iphone-15-discount-price-cut-india-flipkart-sale-price-specs-features-1700332",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/04/5e8b2e311d3e3be999d66614f97467ff1720116314745295_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-07-04T18:07:00Z",
+      "content": "Many of us wish to own an iPhone, but the high cost often keeps it out of reach, but this might be the right time to invest in one as e-commerce site Flipkart is offering big discounts on the entire … [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "Galaxy Z Flip 6 might feature an IPS LCD cover display panel - SamMobile - Samsung news",
+      "description": "The Galaxy Z Flip 5 brought a major upgrade in size for the cover display. The Z Flip 4 and ...",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-flip-6-ips-lcd-cover-screen-rumor/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/06/Galaxy-Z-Flip-5-Always-On-cover-display-3-720x404.jpg",
+      "publishedAt": "2024-07-04T18:03:00Z",
+      "content": "The Galaxy Z Flip 5 brought a major upgrade in size for the cover display. The Z Flip 4 and Flip 3 had 1.9-inch cover displays that weren't of much use, and Samsung addressed that by equipping the Fl… [+1531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Lava Blaze X will sport the Dimensity 7050 SoC, rumor claims - GSMArena.com news - GSMArena.com",
+      "description": "More details have been outed. Lava is unveiling its next smartphone, the Blaze X, on July 10. The date was revealed earlier today, following a teaser last...",
+      "url": "https://www.gsmarena.com/lava_blaze_x_will_sport_the_dimensity_7050_soc_rumor_claims-news-63581.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/lava-blaze-x-details-leak/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-07-04T17:37:01Z",
+      "content": "Lava is unveiling its next smartphone, the Blaze X, on July 10. The date was revealed earlier today, following a teaser last week. The brand has already confirmed that the device comes with a 64 MP m… [+791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "16 Extraordinary Games To Wishlist This Indie-Penance Day! - Kotaku",
+      "description": "Prepare your future backlog with an incredible array of upcoming games",
+      "url": "https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ca92b325cb4fe4ed18010002ad6a5f5a.jpg",
+      "publishedAt": "2024-07-04T17:07:02Z",
+      "content": "Astonishingly, this is the fourthyear in a rowKotaku has celebrated Indie-Penance Day, since the holiday was invented to mark the liberation of gaming from the cruel rule of the British monarchy. To … [+825 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google might fix its fingerprint scanner woes with the Pixel 9 - The Verge",
+      "description": "Google’s upcoming Pixel 9 lineup will reportedly feature a faster, more reliable ultrasonic fingerprint scanner that should make it easier to unlock your phone.",
+      "url": "https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cToHiLKSLAgp_H3_DnwTvaDGSFQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24992601/236828_Pixel_Watch_2_AKrales_0014.jpg",
+      "publishedAt": "2024-07-04T16:59:56Z",
+      "content": "Google might fix its fingerprint scanner woes with the Pixel 9\r\nGoogle might fix its fingerprint scanner woes with the Pixel 9\r\n / The upcoming Pixel 9 phones are expected to ditch the old optical fi… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ytechb.com"
+      },
+      "author": null,
+      "title": "Download OnePlus Ace 3 Pro Stock Wallpapers [FHD+] - YTECHB",
+      "description": "Looking for the OnePlus Ace 3 Pro Wallpapers? Here are all OnePlus Ace 3 Pro Stock Wallpapers in high quality.",
+      "url": "https://www.ytechb.com/download-oneplus-ace-3-pro-stock-wallpapers/",
+      "urlToImage": "https://www.ytechb.com/wp-content/uploads/2024/07/OnePlus-Ace-3-Pro-Wallpapers.webp",
+      "publishedAt": "2024-07-04T16:57:40Z",
+      "content": "Last week, OnePlus added a member to the Ace series in mainland China, dubbed the OnePlus Ace 3 Pro. The latest premium mid-ranger is billing with the Snapdragon 8 Gen 3, 6,100mAh battery, up to 24GB… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Amazon Kindles can’t download books due to an outage - The Verge",
+      "description": "Amazon Kindle owners can’t download ebooks to their devices, even though the Kindle apps are working. Amazon Support says it’s working to resolve a known outage.",
+      "url": "https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4-KXlOMg67HAxG_FYvOFOBdbkVQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24110035/226347_Kindle_SVasani_0004.jpg",
+      "publishedAt": "2024-07-04T16:56:01Z",
+      "content": "Amazon Kindle book downloads are broken\r\nAmazon Kindle book downloads are broken\r\n / Kindle devices cant download new or previously purchased books, and Amazon has said it could take a while before i… [+1860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "New Game Porting Toolkit 2.0 by Apple eases Windows Game ports to Mac and iOS | Mint - Mint",
+      "description": "Apple introduces Game Porting Toolkit 2.0, allowing developers to seamlessly bring Windows games to macOS, iPhone, and iPad. The toolkit translates DirectX graphics to Metal, supports game controller, Spatial Audio, and HDR video capabilities.",
+      "url": "https://www.livemint.com/technology/tech-news/new-game-porting-toolkit-2-0-by-apple-eases-windows-game-ports-to-mac-and-ios-11720109905617.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/04/1600x900/FILES-CHINA-APPLE-META-ECONOMY-COMPUTERS-0_1719286405303_1720110204614.jpg",
+      "publishedAt": "2024-07-04T16:39:35Z",
+      "content": "California-based Apple has announced an upgraded version of its Game Porting Toolkit, designed to simplify the process of bringing Windows games to macOS and now iOS, reported 9To5Mac. Originally lau… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Widder",
+      "title": "Amazon's Fire HD 10 tablet is nearly 50 percent off for Prime members - The Verge",
+      "description": "Amazon Prime members can grab the latest Fire HD 10 starting at just $74.99 ($65 off). You can also save on the Nothing Ear (a) earbuds and Philips Hue Solo light strip.",
+      "url": "https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hh7PyJSxbuCeN15Vkbx10RXP_Zw=/0x0:1000x667/1200x628/filters:focal(500x334:501x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25517480/2023_Amazon_Fire_HD_10_Lifestyle_Press_Image_2.jpg",
+      "publishedAt": "2024-07-04T16:15:23Z",
+      "content": "Amazons Fire HD 10 tablet is nearly 50 percent off for Prime members\r\nAmazons Fire HD 10 tablet is nearly 50 percent off for Prime members\r\n / Non-Prime members, meanwhile, can save on the latest Phi… [+4170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Aaron Perris",
+      "title": "Leak Confirms Apple's Work On 'Home Accessory' - MacRumors",
+      "description": "Code discovered on Apple's backend by MacRumors confirms Apple is indeed working on a long-rumored home accessory in addition to the HomePod and...",
+      "url": "https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/",
+      "urlToImage": "https://images.macrumors.com/t/8Gw2Bi5nk7Z4Gbnb2CCDGNff5t8=/2500x/article-new/2021/04/HomePod-G4-Feature.jpg",
+      "publishedAt": "2024-07-04T16:15:00Z",
+      "content": "Code discovered on Apple's backend by MacRumors confirms Apple is indeed working on a long-rumored home accessory in addition to the HomePod and Apple TV.\r\nThe code references a device with the ident… [+955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCGamesN"
+      },
+      "author": "PCGamesN",
+      "title": "Yoshi-P outlines first FF14 Dawntrail job changes, with Viper and Pictomancer both affected - PCGamesN",
+      "description": null,
+      "url": "https://www.pcgamesn.com/final-fantasy-xiv/ff14-dawntrail-job-changes",
+      "urlToImage": null,
+      "publishedAt": "2024-07-04T16:12:10Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "GameSpot"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Brendan Hesse",
-      "title": "Best Buy's July 4th Sale Is Stacked With Awesome Tech And Gaming Deals - GameSpot",
-      "description": "Save on TVs, gaming PCs, laptops, Apple devices, and more.",
-      "url": "https://www.gamespot.com/articles/best-buy-fourth-of-july-sale-best-deals/1100-6524668/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4328657-bbhed.jpg",
-      "publishedAt": "2024-07-03T19:39:23Z",
-      "content": "Best Buy's big 4th of July Sale runs through Sunday, July 7. The event drops the prices on tons of items available online and in stores, including 4K TVs, pre-built PCs, gaming accessories, and more.… [+9228 chars]"
+      "author": "Adela Suliman",
+      "title": "U.K. man jailed for carrying Legend of Zelda replica sword in public - The Washington Post",
+      "description": "The man argued the replica Master Sword from the Legend of Zelda games was being used as a “fidget” toy to keep his hands busy, but police said that was no excuse.",
+      "url": "https://www.washingtonpost.com/world/2024/07/04/zelda-master-sword-jail-nuneaton/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NNMJWDHUEN6MXYYNBEZUFAQXPE.jpg&w=1440",
+      "publishedAt": "2024-07-04T16:08:32Z",
+      "content": "LONDON A man in Britain has been sentenced to four months in prison and a fineof $196 after wielding a replica sword from the Legend of Zelda Nintendo computer video games on the street.\r\nAnthony Bra… [+2661 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GeekWire"
+        "name": "Android Police"
       },
-      "author": "GeekWire",
-      "title": "Microsoft lays off employees in new round of cuts - GeekWire",
+      "author": "Android Police",
+      "title": "Android’s Offline Device Lock works only twice a day - Android Police",
       "description": null,
-      "url": "https://www.geekwire.com/2024/microsoft-lays-off-employees-in-new-round-of-cuts/",
+      "url": "https://www.androidpolice.com/androids-offline-device-lock-works-only-twice/",
       "urlToImage": null,
-      "publishedAt": "2024-07-03T19:32:02Z",
+      "publishedAt": "2024-07-04T15:50:00Z",
       "content": null
     },
     {
@@ -73,77 +229,25 @@
         "name": "The Verge"
       },
       "author": "Andrew Liszewski",
-      "title": "Nothing's first CMF phone could be customizable with dial and kickstand add-ons - Circuit Breaker",
-      "description": "The Nothing CMF Phone 1 could have a swappable rear panel and other add-on accessories.",
-      "url": "https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hCxxatWuIe8lizfQ59K_5y37xqw=/0x0:2500x1666/1200x628/filters:focal(1250x833:1251x834)/cdn.vox-cdn.com/uploads/chorus_asset/file/25516933/nothing_cmf_phone_1.jpg",
-      "publishedAt": "2024-07-03T19:22:25Z",
-      "content": "Nothings first CMF phone could be customizable with dial and kickstand add-ons\r\nNothings first CMF phone could be customizable with dial and kickstand add-ons\r\n / The first phone from Nothings more a… [+2335 chars]"
+      "title": "Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app - The Verge",
+      "description": "The Nike Adapt App will continue to work with the self-lacing Adapt BB sneakers, but after August 6th, it can no longer be installed on new Android or iOS devices.",
+      "url": "https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6c9_nZlH3_B9QE2xx9qdtpPkFQw=/251x111:1835x1146/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13681399/fshivakumar_181109_3078_0026.jpg",
+      "publishedAt": "2024-07-04T15:29:44Z",
+      "content": "Nikes self-lacing Adapt BB sneakers are losing their remote control mobile app\r\nNikes self-lacing Adapt BB sneakers are losing their remote control mobile app\r\n / The Nike Adapt App is leaving app st… [+2059 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "BusinessLine"
       },
-      "author": "Moises Taveras",
-      "title": "Elden Ring Boss Getting Beat By Players Who've Finished The DLC - Kotaku",
-      "description": "After finishing Shadow of the Erdtree, folks are diving back into the base game to whoop Gideon",
-      "url": "https://kotaku.com/elden-ring-shadow-of-erdtree-dlc-gideon-boss-1851576225",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1f5ac69e946c0e5e7c93bd9ce6b56822.jpg",
-      "publishedAt": "2024-07-03T19:15:00Z",
-      "content": "A lot of Elden Ringplayers have been struggling with the games recently released Shadow of the Erdtreeexpansion. The DLC, which takes place in an entirely new region, features a hard-as-nails boss ga… [+3099 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "OpenAI's ChatGPT Mac app was storing conversations in plain text - The Verge",
-      "description": "OpenAI updated its ChatGPT macOS app on Friday after users discovered it stored conversations insecurely in plain text.",
-      "url": "https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2e0-IzeyJ7KzcdVPwSc9wHJt9zc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
-      "publishedAt": "2024-07-03T19:12:05Z",
-      "content": "OpenAIs ChatGPT Mac app was storing conversations in plain text\r\nOpenAIs ChatGPT Mac app was storing conversations in plain text\r\n / After the security flaw was spotted, OpenAI updated its desktop Ch… [+2329 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Fizz, the anonymous Gen Z social app, adds a marketplace for college students - TechCrunch",
-      "description": "Teddy Solomon just moved to a new house in Palo Alto, so he turned to the Stanford community on Fizz to furnish his room. “Every time I show up to buy",
-      "url": "https://techcrunch.com/2024/07/03/fizz-the-anonymous-gen-z-social-app-adds-a-marketplace-for-college-students/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/fizz-marketplace.jpg?resize=1200,710",
-      "publishedAt": "2024-07-03T18:59:05Z",
-      "content": "Teddy Solomon just moved to a new house in Palo Alto, so he turned to the Stanford community on Fizz to furnish his room.\r\nEvery time I show up to buy something from somebody, I grill them about the … [+5433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Alex Wawro",
-      "title": "Japan breaks Internet speed record by hitting 402 Tbps, so fast you could download Elden Ring in a millisecond - Tom's Guide",
-      "description": "And no, you can't get it at home",
-      "url": "https://www.tomsguide.com/computing/internet/japan-breaks-internet-speed-record-by-hitting-402-tbps-so-fast-you-could-download-windows-11-in-under-a-millisecond",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/75Ws5pc5j7nWorgt6VAXgD-1200-80.jpg",
-      "publishedAt": "2024-07-03T18:51:13Z",
-      "content": "Internet speed freaks, this one's for you: Japanese researchers have officially set a new world record for download speeds by hitting 402 Tbps (Terabits per second), breaking the 321 Tbps record they… [+2730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Photos makes accessing the Locked Folder much faster - 9to5Google",
-      "description": "After rolling out cross-device sync last year, Google Photos is making it much easier to open your Locked Folder on Android and iOS...",
-      "url": "http://9to5google.com/2024/07/03/google-photos-locked-folder-access/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/Google-Photos-navbar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-07-03T18:41:00Z",
-      "content": "After rolling out cross-device sync last year, Google Photos is making it much easier to open your Locked Folder on Android and iOS.\r\nPreviously, you accessed the Locked Folder by opening Google Phot… [+1135 chars]"
+      "author": "Sanjana B",
+      "title": "Enterprises must exhibit agility to adapt to changing business environment, says Sonata Software CTO - BusinessLine",
+      "description": "Enterprises must exhibit agility to adapt to changing business environment, says Sonata Software CTO",
+      "url": "https://www.thehindubusinessline.com/companies/enterprises-must-exhibit-agility-to-adapt-to-changing-business-environment-says-sonata-software-cto/article68367281.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hzxmc1/article68367280.ece/alternates/LANDSCAPE_1200/mt02quo6.png",
+      "publishedAt": "2024-07-04T15:26:48Z",
+      "content": "With the evolving landscape of technology, enterprises are required to adapt agility and modernisation practices. And if enterprises have to be agile, data needs to be at the centre, says Rajsekhar D… [+2934 chars]"
     },
     {
       "source": {
@@ -151,116 +255,12 @@
         "name": "GSMArena.com"
       },
       "author": "Vlad",
-      "title": "Red Magic Titan 16 Pro laptop launches with Intel Core i9 and RTX4060 or RTX4070 graphics - GSMArena.com news - GSMArena.com",
-      "description": "It will become available internationally too. Aside from the new Red Magic 9S Pro and 9S Pro+ smartphones, the nubia sub-brand has today also introduced...",
-      "url": "https://www.gsmarena.com/red_magic_titan_16_pro_laptop_launches_with_intel_core_i9_and_rtx4060_or_rtx4070_graphics-news-63562.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/red-magic-titan-16-pro/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-07-03T18:29:01Z",
-      "content": "Aside from the new Red Magic 9S Pro and 9S Pro+ smartphones, the nubia sub-brand has today also introduced the Titan 16 Pro laptop. As the name implies, it's got a 16-inch screen, with 16:10 aspect r… [+1559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Tom Ivan",
-      "title": "Sony has announced a new line of collectible PlayStation figurines - Video Games Chronicle",
-      "description": "Including Aloy, Varl, Kratos, Atreus and Jin Sakai, costing between $30/£29 and $50/",
-      "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-new-line-of-collectible-playstation-figurines/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/07/playstation-figurines.jpg",
-      "publishedAt": "2024-07-03T18:20:45Z",
-      "content": "Sony has announced a new line of collectible PlayStation figurines.\r\nCreated in collaboration with toy company Spin Master, The Shapes Collection is a new line of collectibles based on PlayStation St… [+1175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "Aashish Kumar Shrivastava",
-      "title": "Google Files Patent For Multi Car Group Navigation Feature In Maps App: Here's What We Know - ABP Live",
-      "description": "The aim of this feature is the ability to designate a lead car, which can then be linked to other cars in the group. The lead car will share crucial road and traffic updates with the other travellers.",
-      "url": "https://news.abplive.com/technology/google-maps-new-feature-2024-files-patent-multi-car-group-navigation-in-app-details-1700088",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/03/8c65761909f18b519bf6ed9eda5ab59f1720030460950555_original.png?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-07-03T18:14:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "WhatsApp's new feature could forward video notes across chats. All about it | Mint - Mint",
-      "description": "WhatsApp is reportedly set to introduce a feature for forwarding outgoing video notes, simplifying sharing across chats. Initially for beta testers, this update streamlines recording via a dedicated camera mode.",
-      "url": "https://www.livemint.com/technology/tech-news/whatsapps-new-feature-could-forward-video-notes-across-chats-all-about-it-11720024069002.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/03/1600x900/APPLE-CHINA--0_1714213836197_1720024438427.JPG",
-      "publishedAt": "2024-07-03T17:27:46Z",
-      "content": "Meta-owned WhatsApp continues to innovate with new features aimed at enhancing user convenience. According to a recent report from WABetaInfo, the messaging app plans to introduce the ability to forw… [+2452 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "You can save $200 on a refurbished second-gen Sonos Beam - The Verge",
-      "description": "Sonos’ second-gen Beam and Ray soundbars are as cheap as they get right now and come with one-year warranties. You can also save on Apple’s last-gen iPad Air.",
-      "url": "https://www.theverge.com/2024/7/3/24191483/sonos-beam-ray-soundbar-refurbished-ipad-air-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/I8ymwuGknnEtIzZ83PODCaB2TZk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22889000/DSCF5692_3.jpg",
-      "publishedAt": "2024-07-03T17:24:05Z",
-      "content": "You can save $200 on a refurbished second-gen Sonos Beam\r\nYou can save $200 on a refurbished second-gen Sonos Beam\r\n / Sonos refurbs even come with a one-year warranty, making the Beam a great value … [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Vishnu Sarangapurkar",
-      "title": "Google Pixel 9 again leaks in another video, giving us a closer look - Android Central",
-      "description": "The leak now showcases even the display in action next to the colorway.",
-      "url": "https://www.androidcentral.com/phones/google-pixel-9-in-pink-leaks-again-in-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vE9k7SeZt6PtqfmELNDvgX-1200-80.jpg",
-      "publishedAt": "2024-07-03T17:01:26Z",
-      "content": "What you need to know\r\n<ul><li>Google's upcoming Pixel 9 in Pink shows up in a new video ahead of its official launch.</li><li>The new hands-on video also showcases the display of the Pixel 9 next to… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Warhammer 40,000: Space Marine 2 - Official Weapon: Chainsword Trailer - IGN",
-      "description": "Wield the most iconic melee weapon of the Imperium: the Chainsword. Watch the latest Warhammer 40,000: Space Marine 2 trailer to see the Chainsword tear enem...",
-      "url": "https://www.youtube.com/watch?v=s6hT7MPV8P0",
-      "urlToImage": "https://i.ytimg.com/vi/s6hT7MPV8P0/maxresdefault.jpg",
-      "publishedAt": "2024-07-03T17:00:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Dead Rising Remaster Locks Classic Frank West Behind A Pre-Order Paywall - Kotaku",
-      "description": "Capcom seems to have predicted many fans wouldn't like the new Frank West",
-      "url": "https://kotaku.com/dead-rising-remaster-classic-frank-west-skin-pre-order-1851575527",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b9e31a99580b0f208bbc59427424bc12.jpg",
-      "publishedAt": "2024-07-03T16:40:00Z",
-      "content": "When Dead Rising Deluxe Remaster releases later this year, fans will have to play as a new, different-looking Frank West. This improved version of the character hasnt been well received online, so it… [+2446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "George Yang",
-      "title": "The First Descendant's Microtransaction System Prompts Mixed Response From Players - GameSpot",
-      "description": "The developer is also offering compensation for launch day issues.",
-      "url": "https://www.gamespot.com/articles/the-first-descendants-microtransaction-system-prompts-mixed-response-from-players/1100-6524679/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/4328488-image_2024-07-03_101324553.jpg",
-      "publishedAt": "2024-07-03T16:30:12Z",
-      "content": "With the launch of The First Descendant, its microtransaction system has garnered mixed reactions from players. The game has also been experiencing some issues and developer Nexon is providing some i… [+2056 chars]"
+      "title": "Samsung Galaxy M35 is launching in India on July 17 - GSMArena.com news - GSMArena.com",
+      "description": "It comes with \"Monster\" features, the company says. A couple of days ago we found out that Samsung's Galaxy M35 was finally headed to India, following its...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m35_is_launching_in_india_on_july_17-news-63579.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/samsung-galaxy-m35-india-launch-date/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-07-04T15:16:01Z",
+      "content": "A couple of days ago we found out that Samsung's Galaxy M35 was finally headed to India, following its initial launch in Brazil back in March. The company had at that point started teasing the phone … [+907 chars]"
     }
   ]
 }
