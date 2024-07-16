@@ -1,45 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 240,
+  "totalResults": 238,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "25-yr-old says colleague molested her - The Times of India",
+      "description": "A 25-year-old woman filed a police complaint against her colleague for alleged molestation during a hiking trip. The incident took place in Badlapur, Mumbai.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/25-year-old-woman-accuses-colleague-of-molestation-during-hiking-trip/articleshow/111739191.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14T22:51:00Z",
+      "content": "Aishwarya Rai Bachchan, Priyanka Chopra, Shah Rukh Khan, Alia: Best dressed celebs at Anant-Radhika wedding"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kris Holt",
+      "title": "Today’s NYT ‘Strands’ Hint, Spangram And Answers For Monday, July 15 - Forbes",
+      "description": "Looking for some help with Monday's NYT Strands? An extra hint and the answers are right here.",
+      "url": "https://www.forbes.com/sites/krisholt/2024/07/14/todays-nyt-strands-hint-spangram-and-answers-for-monday-july-15-give-it-the-ol-college-try/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622d362b47c5b3c5804a1c9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-14T21:45:21Z",
+      "content": "Today's NYT Strands hints and answers.\r\nNew York Times\r\nLooking for Sundays Strands hints, spangram and answers? You can find them here:\r\nForbesToday's NYT 'Strands' Hint, Spangram And Answers For Su… [+3407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kris Holt",
+      "title": "Today’s NYT ‘Connections’ Hints And Answers For Monday, July 15 - Forbes",
+      "description": "Looking for some help with Monday's NYT Connections words? Some hints and the answers are right here.",
+      "url": "https://www.forbes.com/sites/krisholt/2024/07/14/nyt-connections-today-help-hints-answers-monday-july-15/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64dbcee7d64da3663d88000e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-14T21:30:52Z",
+      "content": "Find the links between the words to win today's game of Connections.\r\ngetty\r\nLooking for Sundays Connections hints and answers? You can find them here:\r\nForbesNYT 'Connections' Today Help Hints Answe… [+3557 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "CNET"
       },
       "author": null,
-      "title": "Prime Day Finds Under $100: Fantastically Priced Deals on Kitchen Essentials, Tech, and More at Amazon - CNET",
-      "description": "With Amazon Prime Day fast approaching, a flurry of cool early deals are available at discounted prices. Don't wait too long though, these limited-time deals are running out fast.",
-      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-07-13/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/109a7b6cc55d57df5daca3da3cdb6e8ae0d193d7/hub/2024/06/25/6d4a5ede-d389-4f24-9835-288236b7a623/100.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-07-13T19:45:00Z",
-      "content": "Zooey Liao/ CNET\r\nAmazon's Prime Day sale is finally here to bring you hot summer savings. We've put together a list of the steals you can find under $100. Be it tech, kitchen gadgets, or other essen… [+1511 chars]"
+      "title": "Prime Day Deals Under $50: Score Yourself Some Saturday Bargains on Home Tech, Fitness Equipment, Outdoor Essentials and More - CNET",
+      "description": "Grab your top picks on Amazon for less than $50 before they're gone. These Prime Day sales include discounts on a variety of products from fashion and fitness to home and kids' essentials.",
+      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-07-14/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d401d91ecb1cc6ad1f1496ba7ac0a737204dcbc2/hub/2024/06/25/94ccdc84-757b-48c5-aa97-0da6cf4f784f/50.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-14T19:57:00Z",
+      "content": "Zooey Liao/CNET\r\nWith Amazon Prime Day just a couple of days away, early deals are becoming breezing through to give you a fresh bit of summer savings. We've gathered the best finds under $50 so you … [+2296 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up - The Verge",
+      "description": "Observations of crash telemetry show Intel’s 13th- and- 14th-generation CPUs experiencing unexpectedly high rates of crashes in servers and across some games.",
+      "url": "https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IHImgFUEa2GtcT_olctDlgs465g=/0x0:2560x1695/1200x628/filters:focal(1280x848:1281x849)/cdn.vox-cdn.com/uploads/chorus_asset/file/25007293/intel14900k.jpg",
+      "publishedAt": "2024-07-14T19:21:40Z",
+      "content": "Complaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up\r\nComplaints about crashing 13th, 14th Gen Intel CPUs now have data to back them up\r\n / MMO developer Alderon Games cl… [+1956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Ro",
-      "title": "Samsung Galaxy S25 Ultra to have a different frame design for better ergonomics - GSMArena.com news - GSMArena.com",
-      "description": "We hope that the sharp corners will be replaced with round ones too. While the Galaxy Z Flip6 and Z Fold6 have been the center of attention for the last...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra_to_have_a_different_frame_design_for_better_ergonomics-news-63709.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/galaxy-s25-ultra-new-frame-design/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-07-13T19:41:01Z",
-      "content": "While the Galaxy Z Flip6 and Z Fold6 have been the center of attention for the last couple of weeks, it's perhaps time to turn our heads to the upcoming Galaxy S25 lineup as rumors will likely intens… [+1104 chars]"
+      "author": "Peter",
+      "title": "Deals: Galaxy Z Fold6, Galaxy Z Flip6 and Motorola razr+ 2024, early Prime Day deals - GSMArena.com",
+      "description": "The Galaxy Z Flip6 and the two Moto razr 2024 models both launch on July 24. Which one would you pick (if any)? Samsung unveiled its next generation...",
+      "url": "https://www.gsmarena.com/deals_galaxy_z_fold6_galaxy_z_flip6_and_motorola_razr_2024_early_prime_day_deals-news-63694.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/weekly-deals-12/-952x498w6/gsmarena_us.jpg",
+      "publishedAt": "2024-07-14T18:41:01Z",
+      "content": "Samsung unveiled its next generation foldables this week and they are set to become available on July 24. However, Motorola has chosen that exact same date to launch its new razrs.\r\nThe Samsung Galax… [+4903 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pokemon GO Hub"
+        "name": "GamesRadar+"
       },
-      "author": "Pokémon GO Hub",
-      "title": "Ultra Unlock Teasers: Shiny Togedemaru, Mega Lucario and Tandemaus Debut? - Pokémon GO Hub",
-      "description": null,
-      "url": "https://pokemongohub.net/post/news/ultra-unlock-teasers-shiny-togedemaru-mega-lucario-and-tandemaus-debut/",
-      "urlToImage": null,
-      "publishedAt": "2024-07-13T19:14:57Z",
-      "content": null
+      "author": "Ali Jones",
+      "title": "Baldur's Gate 3 won so many awards that it started to \"affect development\", forcing Larian to send \"rotating teams\" of devs to ceremonies - Gamesradar",
+      "description": "Swen Vincke is suffering from success",
+      "url": "https://www.gamesradar.com/games/baldur-s-gate/baldurs-gate-3-won-so-many-awards-that-it-started-to-affect-development-forcing-larian-to-send-rotating-teams-of-devs-to-ceremonies/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q5GF8d5YsduyGUoeapZLCf-1200-80.jpg",
+      "publishedAt": "2024-07-14T18:28:57Z",
+      "content": "Baldur's Gate 3 was such a massive critical success that sending developers to collect  all of its awards was starting to \"affect development.\"\r\nSpeaking to Edge, Larian CEO and Baldur's Gate 3 direc… [+2111 chars]"
     },
     {
       "source": {
@@ -47,12 +112,142 @@
         "name": "Android Authority"
       },
       "author": null,
-      "title": "Nothing says CMF Phone 1 update coming after unexpected 'see-through' camera discovery - Android Authority",
-      "description": "A user discovered that the CMF Phone 1's depth sensor can see through some objects. Nothing will soon restrict access to the sensor.",
-      "url": "https://www.androidauthority.com/cmf-phone-1-see-through-camera-3460476/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/07/Nothing-CMF-Phone-1-cameras-close.jpg",
-      "publishedAt": "2024-07-13T18:18:35Z",
-      "content": "<ul><li>A video went viral after a user managed to access the CMF Phone 1s depth camera, discovering they could use it to see through certain objects.</li><li>The co-founder of Nothing, Akis Evangeli… [+2907 chars]"
+      "title": "OnePlus Pad 2 price leak suggests you could be paying more - Android Authority",
+      "description": "A new leak may have revealed the price of the OnePlus Pad 2 in India. The leak suggests that the tablet will be more expensive.",
+      "url": "https://www.androidauthority.com/oneplus-pad-2-price-leak-3460507/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/04/oneplus-pad-home-screen-1.jpg",
+      "publishedAt": "2024-07-14T18:07:35Z",
+      "content": "<ul><li>A leak has revealed the prices of the OnePlus Pad 2, Smart Keyboard, and Stylo 2 in India.</li><li>The OnePlus Pad 2, Smart Keyboard, and Stylo 2 will reportedly sell for 45,999 (~ $550), 11,… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Noah Hunter",
+      "title": "Daily Deals: Shin Megami Tensei V: Vengeance, Final Fantasy XVI, HyperX CloudX, and More - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/daily-deals-shin-megami-tensei-v-vengeance-final-fantasy-xvi-hyperx-cloudx-and-more",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/07/14/daily-deals-7-14-1720980276808.png?width=1280",
+      "publishedAt": "2024-07-14T18:07:01Z",
+      "content": "Ahead of Prime Day on Tuesday, now is the time to cash in on some sweet discounts. In particular, some of the biggest games of 2024 are now available at a discount, which makes today a perfect time t… [+4213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Best Buy Anti-Prime Day Sale: 32 Deals You Need to See on Tech, Home and More - CNET",
+      "description": "Best Buy is pulling out all their cards against Amazon with some hot deals already dropping with early Black Friday in July sales.",
+      "url": "https://www.cnet.com/deals/best-buy-anti-prime-day-sale-2024-07-14/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e17efc811cde6f241f7b23c57a58c8c6da0be189/hub/2024/06/25/8838e965-e0cc-4d55-b771-7512263fd53b/best-buy.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-14T18:05:00Z",
+      "content": "Zooey Liao/CNET\r\nWe're still about two days away from the anticipated Prime Day, but if you can't wait to shop any longer, Best Buy is here to compete with anti-Prime Day deals. There are some seriou… [+2720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "Make a lot of calls? Galaxy Buds 3 Pro are the perfect upgrade - SamMobile - Samsung news",
+      "description": "The Galaxy Buds 3 Pro are the best wireless earbuds from Samsung yet. They offer more powerful audio thanks to ...",
+      "url": "https://www.sammobile.com/news/galaxy-buds-3-pro-perfect-upgrade-for-making-calls/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Buds-3-and-Pro-29-720x405.jpg",
+      "publishedAt": "2024-07-14T17:42:00Z",
+      "content": "The Galaxy Buds 3 Pro are the best wireless earbuds from Samsung yet. They offer more powerful audio thanks to upgrades such as a new dual-driver audio setup, dual amplifiers, and a higher-quality au… [+1247 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "Oppo Reno 12 vs Motorola Edge 50 Pro: How the mid-range two smartphones - The Times of India",
+      "description": "MOBILES & TABLETS News: Oppo Reno 12 and Motorola Edge 50 Pro, launched in India with Rs 32,999 and Rs 31,999 prices respectively, feature advanced displays, different RAM/st",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-reno-12-vs-motorola-edge-50-pro-how-the-mid-range-two-smartphones/articleshow/111735943.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111735924,width-1070,height-580,imgsize-568249,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14T17:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan",
+      "title": "Plaud Note Review: Is This The Best, Slickest, Voice Recorder You Can Buy? - Forbes",
+      "description": "If you need to record interviews, meetings or phone calls, the Plaud Note is an outstanding choice for transcription and summary.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/07/14/plaud-note-review-is-this-the-best-slickest-voice-recorder-you-can-buy/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66940174e713d191a65a754a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-14T17:00:00Z",
+      "content": "Plaud Note\r\nPlaud\r\nHeres a secret: Im on a mission to make my life easier. You too, perhaps. For me, as a writer, one of the most draining, most reliably tedious jobs is transcribing interviews. Mayb… [+4550 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "CMF Phone 1 vs OnePlus Nord CE 4 Lite: How the two mid-range smartphones compare - The Times of India",
+      "description": "MOBILES & TABLETS News: CMF Phone 1 (Rs. 15,999) and OnePlus Nord CE 4 Lite (Rs. 19,999) target budget consumers in India. CMF Phone 1 features MediaTek Dimensity 7300, custo",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/cmf-phone-1-vs-oneplus-nord-ce-4-lite-how-the-two-mid-range-smartphones-compare/articleshow/111735476.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111735461,width-1070,height-580,imgsize-547321,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-14T16:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan",
+      "title": "Apple iPhone 16 Pro Design Upgrade Promises Key Feature Boost, Report Says - Forbes",
+      "description": "The iPhone 16 Pro looks like it will introduce an upgraded design to help dispel the great existential worry: battery anxiety.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/07/14/apple-iphone-16-pro-design-upgrade-promises-key-feature-boost-report-says-iphone-16-pro-max/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665cc4cf4464aeb62c0972d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-14T16:06:00Z",
+      "content": "Updated July 14 with more information about charging speeds and how each iPhone will be affected.\r\nApple iPhone 15 Pro: will the iPhone 16 Pro have faster charging?\r\nGetty Images\r\nWhen Apple releases… [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Michael L Hicks",
+      "title": "The Galaxy Watch Ultra (mostly) lives up to Samsung's lofty fitness promises - Android Central",
+      "description": "Both the Galaxy Watch Ultra and Watch 7 have upgraded heart rate and GPS data. I put their revamped accuracy to the test.",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch-ultra-fitness-test",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gSqUoTjNTtrUqYrRgaRrw-1200-80.jpg",
+      "publishedAt": "2024-07-14T16:00:21Z",
+      "content": "(Image credit: Android Central)\r\nIn this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his… [+6601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "The Legend of Zelda: Echoes of Wisdom ESRB rating confirms we'll get to play as Link as well as Zelda - Eurogamer",
+      "description": "A rating for The Legend of Zelda: Echoes of Wisdom has popped up on ESRB, giving us a sneaky peek at what to expect whe…",
+      "url": "https://www.eurogamer.net/the-legend-of-zelda-echoes-of-wisdom-esrb-rating-confirms-well-get-to-play-as-link-as-well-as-zelda",
+      "urlToImage": "https://assetsio.gnwcdn.com/The-Legend-of-Zelda-Echoes-of-Wisdom_J7fDcxj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-07-14T15:58:32Z",
+      "content": "A rating for The Legend of Zelda: Echoes of Wisdom has popped up on ESRB, giving us a sneaky peek at what to expect when the game releases in September.\r\nThe listing confirms the game is rated \"E for… [+1193 chars]"
     },
     {
       "source": {
@@ -64,203 +259,8 @@
       "description": "Upgrade your home theater setup by taking advantage of these Prime Day QLED TV deals. If you need a recommendation or some buying advice, we've got your back.",
       "url": "https://www.digitaltrends.com/home-theater/prime-day-qled-tv-deals/",
       "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/Samsung-Class-QN900C-Neo-QLED-8K-Smart-Tizen-TV-e1710331688305.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2024-07-13T18:12:02Z",
-      "content": "Samsung\r\nThere’s always a lot of attention on TVs whenever there are shopping events, and for this year’s Prime Day deals, we recommend going for a QLED TV. Our QLED TV versus OLED TV comparison high… [+5387 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Noah Hunter",
-      "title": "Daily Deals: Super Mario Odyssey, Splatoon 3, Pikmin 4, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/daily-deals-super-mario-odyssey-splatoon-3-pikmin-4-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/07/13/daily-deals-1720893940971.png?width=1280",
-      "publishedAt": "2024-07-13T18:09:54Z",
-      "content": "This weekend is kicking off with plenty of deals, especially for Nintendo Switch owners. The Target Circle promotion is still ongoing, with loads of discounts that you can still take advantage of. Ah… [+3695 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Kingdom Hearts - Official 'What Order Should You Play Kingdom Hearts' Overview Trailer - IGN",
-      "description": "Kingdom Hearts is a series of third-person action RPG's developed by Square Enix. With the Kingdom Hearts Series making their way to Steam recently, take a l...",
-      "url": "https://www.youtube.com/watch?v=X6jjwMxsyxY",
-      "urlToImage": "https://i.ytimg.com/vi/X6jjwMxsyxY/maxresdefault.jpg",
-      "publishedAt": "2024-07-13T17:16:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Google Pixel 9 Series Leak: Pricing, Storage & Colour Options Revealed - ABP Live",
-      "description": "The prices of Google Pixel 9 series have allegedly been leaked online. It is important to note that Google has not made any official announcements about this yet.",
-      "url": "https://news.abplive.com/web-stories/gadgets/google-pixel-9-pro-xl-price-in-india-leak-pricing-storage-web-story-specifications-colour-options-1702504",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/13/e4dbf3497ca62032b4521e1f70bae3c01720888110667555_original.png",
-      "publishedAt": "2024-07-13T16:58:57Z",
-      "content": "Redmi 13 5G Challengers: From CMF Phone 1 To iQoo Z9x &amp; More"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Samsung Galaxy Ring | Tech giant introduces latest in wearable AI - CTV News",
-      "description": "Tech and cybersecurity expert Ritesh Kotak explains Samsung's newest wearable technology; an AI programed smart ring.Subscribe to CTV News to watch more vide...",
-      "url": "https://www.youtube.com/watch?v=QDLTCg_Aosg",
-      "urlToImage": "https://i.ytimg.com/vi/QDLTCg_Aosg/maxresdefault.jpg",
-      "publishedAt": "2024-07-13T16:39:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": "Pavan Naidu",
-      "title": "6 sports cars built for off-roading - DNA India",
-      "description": "6 sports cars built for off-roading, Lamborghini Huracan Sterrato, Porsche 959, Lancia Stratos, ItalDesign Parcour, Audi Nanuk Quattro",
-      "url": "https://www.dnaindia.com/web-stories/viral/6-sports-cars-built-for-off-roading-audi-lamborghini-porsche-1720886098163",
-      "urlToImage": null,
-      "publishedAt": "2024-07-13T16:18:00Z",
-      "content": "Jul 13, 2024, 09:48 PM IST"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Oli Welsh",
-      "title": "Everything we know about OD, Hideo Kojima’s Xbox horror game - Polygon",
-      "description": "What’s the release date? Is it Xbox-exclusive? Who besides Jordan Peele is collaborating with Kojima on it? And how will it play? Here’s everything we know",
-      "url": "https://www.polygon.com/gaming/24197091/od-hideo-kojima-release-date-trailer-gameplay",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XMJTNK_pOw_K2TqcQqp0Zic-BEE=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25142370/vlcsnap_2023_12_07_21h01m23s917.jpg",
-      "publishedAt": "2024-07-13T16:00:00Z",
-      "content": "Metal Gear Solid creator Hideo Kojima is a very busy guy. Since parting ways with Metal Gear publisher Konami and establishing Kojima Productions as an independent studio in 2015, Kojima has released… [+5881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Unpacking Samsung’s Galaxy Unpacked event, Game Pass’ latest price hike and more | The Morning After - Engadget",
-      "description": "The Morning After ensures you're up to speed on what's happening in the world of technology. Read the full stories at Engadget:Samsung’s big Unpacked event: ...",
-      "url": "https://www.youtube.com/watch?v=4Y4qEeejiUc",
-      "urlToImage": "https://i.ytimg.com/vi/4Y4qEeejiUc/maxresdefault.jpg",
-      "publishedAt": "2024-07-13T15:18:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Hassan Mujtaba",
-      "title": "AMD Ryzen 9 9950X CPU Tested With Unlimited PPT Mode: 320W Power, Over 5.5 GHz Clocks Across All Cores, 40% Faster Vs 14900K - Wccftech",
-      "description": "AMD's Ryzen 9 9950X CPU has been tested with a 5.5 GHz all core overclock and again, using an unlimited power profile pushing 320W power.",
-      "url": "https://wccftech.com/amd-ryzen-9-9950x-cpu-tested-unlimited-ppt-mode-320w-power-5-5-ghz-oc-across-all-cores/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/07/AMD-Ryzen-9000-Zen-5-Desktop-CPUs.jpg",
-      "publishedAt": "2024-07-13T15:05:00Z",
-      "content": "AMD's Ryzen 9 9950X CPU has been tested with a 5.5 GHz all core overclock and again, using an unlimited power profile pushing 320W power.\r\nThe final bombs of the AMD Ryzen 9 9950X CPU tests has been … [+4336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple's AirPods Pro 2 vs. Samsung's Galaxy Buds3 Pro - MacRumors",
-      "description": "Samsung this week introduced its latest earbuds, the Galaxy Buds3 Pro, which look quite a bit like Apple's AirPods Pro 2. Given the similarities,...",
-      "url": "https://www.macrumors.com/2024/07/13/airpods-pro-2-vs-galaxy-buds3-pro/",
-      "urlToImage": "https://images.macrumors.com/t/ehAkfPxiis92CPffxL_hmvAhjQQ=/2298x/article-new/2024/07/AirPods-Pro-vs-Galaxy-Buds3-Thumb-1.jpg",
-      "publishedAt": "2024-07-13T15:00:00Z",
-      "content": "Samsung this week introduced its latest earbuds, the Galaxy Buds3 Pro, which look quite a bit like Apple's AirPods Pro 2. Given the similarities, we thought we'd compare Samsung's new earbuds to the … [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kotaku Staff",
-      "title": "A Free Game, More Elden Ring: Shadow Of The Erdtree Help, And This Week's Other Tips - Kotaku",
-      "description": "You can get Suicide Squad: Kill the Justice League for free",
-      "url": "https://kotaku.com/a-free-game-more-elden-ring-shadow-of-the-erdtree-hel-1851590034",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/00d7ec6074c81cea7dbb84702bdde8eb.jpg",
-      "publishedAt": "2024-07-13T15:00:00Z",
-      "content": "To think, the Shadow Keep seemed to be going so well, and then you run into a vicious, fiery, reptilian wall. Messmer is just an absolute unholy nightmare of unorthodox timing, neverending combos, he… [+311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "iOS 17.5.2: Apple Abruptly Cancels Unexpected iPhone Update, Report Claims - Forbes",
-      "description": "A surprise iPhone update was on the cards, it seems, but has now been suddenly dropped, a new report claims.",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/07/13/ios-1752-apple-abruptly-cancels-unexpected-iphone-update-report-claims/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669291cf8d5d2e17fdf099b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-13T14:42:06Z",
-      "content": "Apple was about to release an iPhone update, iOS 17.5.2, if a recent report was correct. But now its not, it seems. Heres what we know about the mysterious software update.\r\nApple iOS 17.5.2 was on i… [+2290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Monckton",
-      "title": "Apple iPhone 16 Pro Major Upgrade Is Just The Beginning, Report Claims - Forbes",
-      "description": "Will the iPhone 16 Pro gain a 5x zoom tetraprism lens? Future iPhones tipped to receive extensive camera upgrades.",
-      "url": "https://www.forbes.com/sites/paulmonckton/2024/07/13/apple-iphone-16-pro-major-upgrade-is-just-the-beginning-report-claims/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66928fb616ee62eb233a9bfe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-13T14:36:45Z",
-      "content": "Apple's iPhone 16 Pro is expected to delivery a big camera advantage over the iPhone 15 Pro ... [+] (pictured)\r\ngetty\r\nThis years iPhone 16 Pro is tipped to become the first of Apples smaller smartph… [+3169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Skye Jacobs",
-      "title": "A new quantum computer breaks Google's quantum supremacy record by 100-fold - TechSpot",
-      "description": "A new 56-qubit H2-1 computer has dislodged Google's Sycamore quantum computer from its 'quantum supremacy' record by 100-fold.",
-      "url": "https://www.techspot.com/news/103802-new-quantum-computer-breaks-google-quantum-supremacy-record.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-13-image-3.jpg",
-      "publishedAt": "2024-07-13T14:31:00Z",
-      "content": "What just happened? In 2019, Google's Sycamore quantum computer achieved a so-called quantum supremacy record by completing a specific task in 200 seconds that would have taken a classical supercompu… [+3155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "‘The First Descendant’ Is Not A Great Game, I’m Loving It - Forbes",
-      "description": "The First Descendant made such a poor initial impression on me I almost quit within the first few hours. It's not great, yet I am loving it all the same. Why?",
-      "url": "https://www.forbes.com/sites/paultassi/2024/07/13/the-first-descendant-is-not-a-great-game-im-loving-it/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668d43cb8946366298cf6d18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-13T14:07:10Z",
-      "content": "The First Descendant\r\nNexon\r\nThe First Descendant made such a poor initial impression on me I almost quit within the first few hours. It seemed bland, repetitive and a Warframe clone to such an exten… [+3379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": "Pavan Naidu",
-      "title": "The only active volcano in India is… - DNA India",
-      "description": "The only active volcano in India is…, Barren Island, hot lava, eruption",
-      "url": "https://www.dnaindia.com/web-stories/viral/the-only-active-volcano-in-india-is-barren-island-hot-lava-1720878379380",
-      "urlToImage": null,
-      "publishedAt": "2024-07-13T14:06:22Z",
-      "content": "Jul 13, 2024, 07:36 PM IST"
+      "publishedAt": "2024-07-14T15:55:48Z",
+      "content": "Samsung\r\nPrime Day is a great opportunity to add a new TV to your viewing setup, and Prime Day deals are a great opportunity to do so with some savings. Among the best Prime Day TV deals are Prime Da… [+5550 chars]"
     }
   ]
 }
