@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 81,
   "articles": [
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Engadget",
-      "title": "Apple Maps is now available on the web in beta - Engadget",
+      "author": "Jalopnik",
+      "title": "1,064-Horsepower 2025 Chevrolet Corvette ZR1 Is A Shock To The Supercar System - Jalopnik",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM01CRGcxd3dITXdqWmNLTFIzT0dBdk14aVg2dldyWUx5ak1FZGlHbDlrVmhaXzh2ZDZQTi1uQ0E2Y0Radm9zSnRFMGJ2ajBCMmZBR19EZkpIMXVVeWFjb3NvVkFtN2RVNTNlNHM1Z2dMd3o5aXdQbXpkOFhOa0ZOZ3l4cFEweUg3UXZOd3c2aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmRWQURjeE0tSWo5amtaMGdKMktXbVljS29LNFFhLUlBYmZvbURWa1lEN00wTll1akpPSnZJdE5Ecjg5NXNVNjNsOUxrcWgtbEZJdVN3UmdMejVLa05SMmhjLWhySmFYQ2ZnLTVYeV9OVDZlOGhrRFlYWVNuRTRFcjlPcWpPUm9tR3JQcVhiQmc?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T19:36:48Z",
+      "publishedAt": "2024-07-25T23:30:00Z",
       "content": null
     },
     {
@@ -20,77 +20,90 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The Verge",
-      "title": "World of Warcraft developers form Blizzard’s largest and most inclusive union - The Verge",
+      "author": "BuzzFeed",
+      "title": "\"This Is The Biggest Scam Of Modern Times\": 24 \"Trendy\" Things That People Are Admitting They Actually Can't Stand - BuzzFeed",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0FnejJGNlRhbU92VEVWTmdPZDNsMWVLdnN3bVZ0dDdwbVRCckxrOTlNR2hmNmJrdU1aNXlYX3VBTHNUTVd0QS1FX3MxSjJVSDQwRVN3TzFXTW1mSHFtSVJlWlI3QjV5VkFBclJVTml5UVJZeVVLcFYtdUlKYU9ieldaZ3RXU3ZGTGxtWFVrcmxrU2RsUFVTRTlRdU4tbE4tbURMdERicVZuZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kTDd2VVNFUF95cm1WeHZ0c0Q5N3FwUUVYcU45R01JQS1JNF92MTRCZ1U4b1Utb3RBcDh1Nk5LcVFndjVTTlhJX0k4WWtxbmhZSlUtbVl6dUVWNWdGSkdTeFlFd2N1dWJia2NJRjNEanJ3amc?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T19:30:00Z",
+      "publishedAt": "2024-07-25T22:16:02Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Google claims math breakthrough with proof-solving AI models - Ars Technica",
+      "description": "AlphaProof and AlphaGeometry 2 solve problems, with caveats on time and human assistance",
+      "url": "https://arstechnica.com/information-technology/2024/07/google-ai-earns-silver-medal-equivalent-at-international-mathematical-olympiad/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/alphaproof_hero-760x380.jpg",
+      "publishedAt": "2024-07-25T21:54:52Z",
+      "content": "Enlarge/ An illustration provided by Google.\r\n18\r\nOn Thursday, Google DeepMind announced that AI systems called AlphaProof and AlphaGeometry 2 reportedly solved four out of six problems from this yea… [+4113 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The Wall Street Journal",
-      "title": "Time to Turn Off Cookies? Making Sense of Google’s Chrome Changes - The Wall Street Journal",
+      "author": "IGN",
+      "title": "Samsung Galaxy Z Flip 6 Review - IGN",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVZDOGlSbUR2R2VkaVpka21BSTF5a0h2TWtfaWVDaWIwU21LNzd5VFlWaWdBVWNnVzR1MUJlU2p1bHZKZ0g4dzBGUmRESjFoa3g2cFFYc3NBZHJ4c3ktOWxtb2huYng4b1N4dkd5QXMtZ0NjZHBnQnN0dlZZd2tWMGdmZ2lnMlh6UHBrOVBTQ25MejNfRVVtUWJxNDFWbDNKdDdzMFJHdGRYRlNRRmwzMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZy1pamxzWmJ5VmJTV3Z5NkJPOU1NeXpNN2lCUEpjVk01cHBBYm9CUzNDMTZHcTFXSWtpNWZ4OHhfZlA3SDhjcXhkLWdJeUlzZlR5bUdReDEwaTROeUI3S1pyUFlUWEdRNlNN?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T19:06:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GameSpot",
-      "title": "CoD: Warzone And MW3 Season 5 Patch Notes Detail Perk Changes, Superi 46 Nerf, And A Big Gas Mask Tweak - GameSpot",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHJZNzFaX1dsNDZTWnNPcFhMS3p2ejNlNEMyZ0tYdEFYNFBLSlQ2eEpGb3NnV0YyM3VqdnpCX002MjVyTHdDZEVwTVpTRzItS2NpMUpVQ1M1RTh4MFh4cHE2RjBlRGNSZTBwU0RzM01UY19NczBDdkt6V2RIZGg1elVVaXVfaEZYWjZiUA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-24T17:33:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN Underscored",
-      "title": "Save up to $900 on Samsung’s latest OLED TVs at the lowest prices yet from Best Buy - CNN Underscored",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxb2ZVT2xHVW9wRThWYXlDdmk5Q1g3Y3doRFpDRjlnQTZaRWI4SE1WRFZwUjNFMTJkcEVHbWRfUWE3ZkdNQkxadWR6ZjZDRFAyTXptUnZEQWRSSEl0akZzSTYtWER4RVQzZEtyTTZoSHZ6bTh1enNz0gF8QVVfeXFMUFcyWE1OdmxZYjl0WVpQWUdWWV9leXBEX1Bxay11OUtXdGU0cXJHY210a0t6R1h3NEtpX0F5WnpZSTk5b0s4LTVwXzlBd1VxNk51RkJ1bDVQaGZUazVrbHVudTJyUDBlRElHMUE0RFRrb3dSZVI5TW9VV0JZUg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-24T16:26:00Z",
+      "publishedAt": "2024-07-25T21:19:07Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Hindustan Times"
       },
-      "author": "Abner Li",
-      "title": "Pixel Buds Pro 2 leaks reveals new design, same case [Gallery] - 9to5Google",
-      "description": "In addition to colors, we now have our first design leak of the Pixel Buds Pro 2 and it shows a refined look. Google is...",
-      "url": "http://9to5google.com/2024/07/24/pixel-buds-pro-2-leaks/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Pixel-Buds-Pro-2-design-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-07-24T15:24:00Z",
-      "content": "In addition to colors, we now have our first design leak of the Pixel Buds Pro 2 and it shows a new, updated look. Overall, Google is sticking with the same buds form factor rather than pursuing a st… [+1033 chars]"
+      "author": "AP",
+      "title": "OpenAI tests ChatGPT-powered search engine that could compete with Google - Hindustan Times",
+      "description": "San Francisco-based OpenAI said Thursday it is releasing a preview of the SearchGPT feature to get feedback from a small group of users and publishers.",
+      "url": "https://www.hindustantimes.com/technology/openai-tests-chatgpt-powered-search-engine-that-could-compete-with-google-101721940254413.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/25/1600x900/OpenAI_Sam_Altman_1700490205569_1721940758756.JPG",
+      "publishedAt": "2024-07-25T21:05:04Z",
+      "content": "OpenAI is testing a ChatGPT-powered search engine that could put the artificial intelligence company in direct competition with search giant Google and affect the flow of internet traffic seeking new… [+837 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Gizmodo",
-      "title": "Why AI Model Collapse Due to Self-Training Is a Growing Concern - Gizmodo",
+      "author": "9to5Google",
+      "title": "Epic Games pulls Fortnite from Galaxy Store, citing Samsung’s new sideloading settings - 9to5Google",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXBlX256d1NaN0EwZF9iRFhYQ1pZNGxrc0ZoMW41NzYwWWlnal9iNUo0cHVGQzFDMEdXNjBDQjBXbUpVX1lvQjNmWDBxOFRYcGxBTWFFclRrWDJfQ3VtZlg5bGNJclhrUW12bmNRVGdzVlIwVUI1WFdYMWNWcmlJZVRoc2oyQlFPa2pVNmVxMkpjTmRaWTFFRmlBMG9XRGhDT3NsbA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVh3ZHBDMkpmVFZvT2wxdTZfSGNjNVN1VVJmbVNpSHRkMGRDcUhsWS15Y1FXXzNnaEZOcFlvZElxWS1kMWdlcW1NOWhGTFRORHBNVmlzemFhRm5Lb3J0YWVSN2pzM3NXTmp5enNqOE5IM1U5YkVqOTdhRFE0c1VwWjVxSmk?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T15:00:07Z",
+      "publishedAt": "2024-07-25T20:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Chrome will now prompt some users to send passwords for suspicious files - Ars Technica",
+      "description": "Google says passwords and files will be deleted shortly after they are deep-scanned.",
+      "url": "https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/Chrome.jpg",
+      "publishedAt": "2024-07-25T20:12:59Z",
+      "content": "34\r\nGoogle is redesigning Chrome malware detections to include password-protected executable files that users can upload for deep scanning, a change the browser maker says will allow it to detect mor… [+4524 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Ars Technica",
+      "title": "Lego’s newest retro art piece is a 1,215-piece Super Mario World homage - Ars Technica",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHpvYVJkeWkxVllJN2RqclNORFpzeDJRLU9lUmpjVkRxUG5aeXVCRUxZM3ptTW9YM2pfc2EtT0NoaHVqMjBsUXljYVRBVV92WThKRTM3TUI1aVBrSEQxYWtQbThhR1pzXzJYdHgxZ0JwZnVjaGFsc1prV0VfM3JLQlM4VmRzaUcwWW9FM2RvYlo3U01weVdtR0lfWFRvVllsc21qQnQtaVMxNTNlMFE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T19:59:12Z",
       "content": null
     },
     {
@@ -98,12 +111,77 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Forbes",
-      "title": "Everything Revealed About Helldivers 2’s Major New Update, Plus A Release Date - Forbes",
+      "author": "9to5Mac",
+      "title": "iOS 18 beta release schedule: Here’s when to expect new betas - 9to5Mac",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWd0WmRNQkk0RmlMRVZqZ1lBV0R0VDFhTnNLVW55c3VocDY5WFdhT2xTcFFDSmxMbDdJMWpmb3NDdjB5STdsazVXRTRfUjhBVTNLMm5tckpzM09NMDZyR3h3WGpHVEVUc3F3LVVfRnZQNGZLVlNoLTNtWDNhTDBMeVlWRVZyMVRzZF9URjlPVUZZNHFSMi15QlBQODY0N1JHaDlHR1AtQVIzRUVjbTVyc25GVjQ4ek1XMWk0UXM1WG1CUzQyUXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb29wNkhwaWYzU1lxam5iMlBIRHhENTYzbi0wTUdsOWlEazNUblJFNFFxOF9Yd1FPeUZLRW5tY0hLYThndlFyUjFMaWhnZDFxLUJnTERmOHRnaTZVbzJ5ZGcxZnI5YjVBVjctQW91UW1wbzd3ekRraFBMQW1OVTAycDVINExQdW4xazB1eWRpaElZbEFGRVE?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T13:52:43Z",
+      "publishedAt": "2024-07-25T19:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Engadget",
+      "title": "Tesla warns against wet towel charging trick two months too late - Engadget",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalB3UHA4ZDkwQXhSWEFnd1dJX21PQzVoeUxLZWh0V0R3NTRwXzM5b1FiUzUtb2J1dDZsS0FmV09ua2w3RzI2V3Q5YVVpVS1CcnN4VHhDRXRQSkFoTGNpQi1yNWhaZDgxU05teFNWTXVqTTdFRldMams3V1V2WlRVQ3Ewc2hqelJDS3Y4VzczQnhxUGV3QndzVUtkQTIyWXdGVEF0Sk9JZw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T19:02:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Halo Waypoint",
+      "title": "Sandbox Update | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQbnpzVU9lSXlBd3JHYVk5cHVIeFBwcHhyb0JIdExZa2Z3TG55NnNqT3pyZ0ZwVjlZOUlNYzhnQXd2YzEzODNwQ29ISGtYS3NQeVBiMzVJSTRIeFU0ZlZVbnFRLXlNZkNpUEVFMFJGVQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T18:04:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Ars Technica",
+      "title": "Secure Boot is completely broken on 200+ models from 5 big device makers - Ars Technica",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJzQzhSeTJJemtFSVpERW4tMmtzanNNUEFKMUVpVnJ6QWVpMWx4UUJNc1dkU1MzeUk1MXhETnlaZFNMN29lY016Q1d5X0ZpQ09oZ0JiN3V0RDZNdU15VHBWS0tob0RLQm05ZERHTWJUN0pxcEZzN3lMRkNhRTNLajA3eUxSeW1ua2Q1TzdEWVZCSzBya3VnWUlfV18weHNpVWJqOGtLenF0ZGYzel9OaFh1YVNXUUp5T1E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T18:00:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MacRumors",
+      "title": "Amazon Introduces Big Savings on Popular Accessories From Anker, Eufy, and Jackery - MacRumors",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBndnhKU1NVVTNVMWZEdDBpa2tuV2xlOTFEYmtOWlJVaWR6NE1PNFVUYzhvN0RzalV2U1k1OXdZUkpSSGpKX2VmS3JFVG52ek1aamo4OE1TdGoxNHJZdEJQWHFWVFhnM1BzS2xEN0MtbmZCSW9BU0dTazRidw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T17:32:03Z",
       "content": null
     },
     {
@@ -112,38 +190,25 @@
         "name": "Google News"
       },
       "author": "9to5Google",
-      "title": "Google Play’s new ‘Collections’ widget is a mini Google Now - 9to5Google",
+      "title": "Reddit changes have blocked all search engines except Google amid AI ‘misuse’ [U] - 9to5Google",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmlPQTlZMmo5cXM5ZmN6ZHluc2JoU1JsUThpZW03TG1GNGdueXhZTHNzUXFuXzNtR1IwRm9waDZ6N0pWNWJMQWt5M1o4aVA4cF9UcXM3UGRBN19CR1RGdmY3Y3ZaM1pPMHg4a3BVbkhHTVFRMWFHb0ZtTUx3bW5tTk1nWGh0Y2w2NlVGX3A5Q2toNUUxV0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRkhkcE5Cd2ZaQ1VOQ1o0R2lBejNKNmktaVNveUw5dDdqWHV2dFI0aGRNelVfb2FNSEVLM2hWVlF1ZDZrU2pZZHphYWtfMHJJOThtV09ONmMyUzdQZzZfbnJJRmVtM1FsMTFONXZFSkdHWGNnVWxDY01ReHktQQ?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T13:00:00Z",
+      "publishedAt": "2024-07-25T17:14:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Paul Tassi",
-      "title": "Destiny 2’s Even Slower Episodic Storytelling Is Not Working In ‘Echoes’ - Forbes",
-      "description": "I am currently that GIF of Larry David tilting his head back and forth as I try to figure out if I like Destiny 2’s new Episodes or not.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/07/24/destiny-2s-even-slower-episodic-storytelling-is-not-working-in-echoes/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669519d3e6308d564b9c0a4b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-24T12:54:28Z",
-      "content": "Destiny 2 Echoes\r\nBungie\r\nI am currently that GIF of Larry David tilting his head back and forth as I try to figure out if I like Destiny 2s new Episodes or not. The volume of content is there, and I… [+2665 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Engadget",
-      "title": "New PS5 update makes it easier to join multiplayer games - Engadget",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWg4NUZRblZXSjlaaDBveE5TeEpSSTJFeHRnZ2FLOWItSk9LWGFWeGM0YmJua2kyQmVndkdJamRYZkVyT3ZyUEgydlBXRlg0a3lWOFA4aGwxZ21xX2ViMnRJNkJYcVZGY2lzc2Z2ZFI1YV9WR1VNRXlnd2xYVHBvcGRUUjh6YTBhcDR2SFZ1STdOcklvbkZQNXJwRXY?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-24T12:37:30Z",
-      "content": null
+      "author": "Kyle Wiggers",
+      "title": "Google makes its Gemini chatbot faster and more widely available - TechCrunch",
+      "description": "Google is upgrading its Gemini chatbot experience with a newer model, Gemini 1.5 Flash, and bringing Gemini to more places.",
+      "url": "https://techcrunch.com/2024/07/25/google-speeds-up-its-gemini-chatbot-and-brings-it-to-more-places/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1998277195-1.jpg?resize=1200,800",
+      "publishedAt": "2024-07-25T16:00:00Z",
+      "content": "In its bid to maintain pace with generative AI rivals like Anthropic and OpenAI, Google is rolling out updates to the no-fee tier of Gemini, its AI-powered chatbot. The updates are focused on making … [+4721 chars]"
     },
     {
       "source": {
@@ -151,116 +216,51 @@
         "name": "SamMobile"
       },
       "author": "SamMobile, Asif Iqbal Shaik",
-      "title": "Galaxy Z Flip 6 passes durability test with flying colors - SamMobile - Samsung news",
-      "description": "Samsung claimed it improved the durability of its new foldables, the Galaxy Z Flip 6 and the Galaxy Z Fold ...",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-durability-test-passed-flying-colors/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Samsung-Galaxy-Z-Flip-6-Durability-Teardown-720x405.jpg",
-      "publishedAt": "2024-07-24T12:30:00Z",
-      "content": "Samsung claimed it improved the durability of its new foldables, the Galaxy Z Flip 6 and the Galaxy Z Fold 6. But how can we take the company's word for it? Well, the South Korean firm's claims seem … [+2347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Divya Bhati",
-      "title": "AI impacting jobs in gaming industry, studios using GenAI to create concept art and graphics - India Today",
-      "description": "It is a perception that AI is set to impact jobs in various sectors Now a report highlights that it is already happening as some game studios rely on GenAI tools to create concept art and graphics",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-impacting-jobs-in-gaming-industry-studios-using-genai-to-create-concept-art-and-graphics-2571282-2024-07-24",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/ai-robot-241858419-16x9_1.jpg?VersionId=xZirz1GIQusN_xisvDOidxb1RlWjN5Zl",
-      "publishedAt": "2024-07-24T11:25:28Z",
-      "content": "We keep hearing about how AI may lead to job losses in various industries and sectors. Now we are getting reports that in some it is actually happening. A report highlights that some game studios are… [+3030 chars]"
+      "title": "One unlucky buyer received Galaxy Watch Ultra with a weird issue - SamMobile - Samsung news",
+      "description": "Samsung recently found itself in a controversy related to Galaxy Buds 3 Pro quality control issues. And it looks like ...",
+      "url": "https://www.sammobile.com/news/galaxy-watch-ultra-quality-control-issue/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Watch-Ultra-1-720x405.jpg",
+      "publishedAt": "2024-07-25T15:17:00Z",
+      "content": "Samsung recently found itself in a controversy related to Galaxy Buds 3 Pro quality control issues. And it looks like that isn't the only issue with the company's recently released wearable devices. … [+1686 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Nintendo Life",
-      "title": "All Humble Games Staff Reportedly Laid Off As Publisher Announces \"Restructuring\" - Nintendo Life",
+      "author": "Wccftech",
+      "title": "Chinese Shopkeeper Shows AMD Ryzen 9000 “Zen 5” Desktop CPU Prices, Lower Than Ryzen 7000 Series - Wccftech",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcF9EYmNEaVNpcHFheXZ3U1hEQjZHQXdBQjEzNlpyZWVmOUI3TXhNRmZsVGJUcHZGSG04bnplQWIwYnIxYzU2clY0TkVMR1JleEwwOHdjNUJqTndCUjBtZVk5R0x4U09sek95QkZVWThZVmlqWi1BWEp4Zk5aWE9nOFhFX1FFNkdBZ0pXS1hhamxNMGpUVUdYRVFoRWhlTUh2MERrMWVQbGFtbDZxM1N3YXZYS004Vll1dTN5T0dn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVRZVjl0RzMtZWxwSkpRdkpUTHZsQjZQbDY5WXFNcDNPN1hPSUQzUHVZUE1VVElNWnBiYXBwX0lBamVvMnNjYVNsaXBaaGtTTXN1Y29nRG80YV9IaWdxUzVzcl9KR3ZTZ3FWSktJNkZkYWVBRnBGUnVaenV0SzhLRXY0ODlZOWNSQkE4ODRneTRzaENKS01WVEs0WkhOeDVLcGlNcUxka9IBrAFBVV95cUxNUE5tQ2p2cnJOdGlxNXFtem5wNVJ5RTc3Y0lCRHIwY3l4dW1TTmhEWFhPeFlZUjdkc3R1RnVNcTRxa1lndmY1SjhjaF9RWjdfbU9fM0R5Zjl1bFItRUw5RHBHUV9pS0FVNFRWbVVENl9uczJuZ1hjMmJqcHRtVTk1T25vTjd3eE1OYl9UNWNzd29FYkloZzVKYlR4a2dZa0RCQWx3MV93eHV5a0Jy?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T11:00:00Z",
+      "publishedAt": "2024-07-25T15:00:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Android Authority"
       },
-      "author": "Business Standard",
-      "title": "HMD Crest series set to launch in India on July 25: All you need to know - Business Standard",
-      "description": "HMD Crest Series India Launch: HMD announced the launch in a post on X. The maiden self-branded smartphone line from Finnish maker will be available for purchase on e-commerce platform Amazon",
-      "url": "https://www.business-standard.com/technology/tech-news/hmd-crest-series-set-to-launch-in-india-on-july-25-all-you-need-to-know-124072400717_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/26/thumb/facecrop/400X400/1714117048-1265.jpg",
-      "publishedAt": "2024-07-24T10:19:38Z",
-      "content": "HMD announced the launch in a post on X. The maiden self-branded smartphone line from Finnish maker will be available for purchase on e-commerce platform Amazon\r\nRepresentative Image\r\nPrakruti Mishra… [+2017 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Gamesradar",
-      "title": "Assassin's Creed Shadows debate somehow reaches Japanese government ministries, who reportedly remind everyone that historical fiction isn't really their concern at all - Gamesradar",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQTmFEVkw2eC04alhxYjVBWVd3eTRET2tMOFoxU0ZoWVlBTEM3YWpoNlNLaTFfR3FjdHFuRjdPMnk5bHJiRjJnQzI2Rkh0NnRyVFcwVE42bDJIWDNqOXlPOFdhSGtWdVdqZGVOeUtzRTAyR1hDNkFDemRyeDBWSjRMeVVVR1BKQVZWemxOS0RSWWxmMFdFMUdYZmlRQlU0LURXajNndHhXbXVCRlR3a1lobk9USVktdFBXUDJFMFRyaVN6emlJc2dxRjZQZzlZUXhGeWNpQWdrVXhyVVVfT191TE9kVm1qTGVQYXNwOVNTclJJdTU3V1BrX0lsWnBCVV95ZmpjTGtfWjF0SjZUenp0T1dTeTNZMHpXWjlabml0SnRsZjRnTy1ONVdFSHprX0xwd0ZZMXlodHFwbHMz?oc=5",
+      "author": null,
+      "title": "Bing rolls out a new search interface that might steal you away from Google - Android Authority",
+      "description": "Bing is getting a new search results page today, which shunts traditional web results to the right in favor of generative AI summaries.",
+      "url": "https://www.androidauthority.com/bing-generative-search-update-3464659/",
       "urlToImage": null,
-      "publishedAt": "2024-07-24T10:18:10Z",
-      "content": null
+      "publishedAt": "2024-07-25T14:40:02Z",
+      "content": "<ul><li>Bing will now display rich AI-generated information boxes in response to select search queries.</li><li>The move comes just shortly after Google was forced to backpedal on AI-generated search… [+2842 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "CNET",
-      "title": "iOS 18 Beta Cheat Sheet: An Expert's Guide to Exploring New iPhone Features - CNET",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2hmb0tpRXg0OHJGRGpXV25FWEl5bWFKbF9sbGlaWk9acmxIOWVRc0FuZjktMlVqU3ZxZUIxU3lIbVlZa09wUHRPUW14bXJibkk4dDBSY1YwRXpveDRHM0l1YlBqSXBtQWFzUnJRSlF5b0hHVUlmYy1ZQjZkUFN5dDg3U2cxQ1djajdhWHlTcTJoOWktZXhPc2c1NlBJT0RhNC13UWNBamZkeWh5MklCXzljd0tKeWUxS0FwNUl3bVU?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-24T10:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Adnan Farooqui",
-      "title": "Galaxy Ring demand so high that Samsung’s making a million units - SamMobile - Samsung news",
-      "description": "The Galaxy Ring is Samsung's first smart ring and it appears that a lot of people want it, even more ...",
-      "url": "https://www.sammobile.com/news/galaxy-ring-demand-so-high-that-samsungs-making-a-million-units/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Ring-hands-on-17-720x405.jpg",
-      "publishedAt": "2024-07-24T09:51:00Z",
-      "content": "The Galaxy Ring is Samsung's first smart ring and it appears that a lot of people want it, even more than what Samsung had initially anticipated. Pre-orders for the Galaxy Ring have been open for a c… [+1375 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IGN",
-      "title": "Activision Reportedly Sold an AI-Generated Call of Duty: Modern Warfare 3 Cosmetic - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTJiNVRwR0NBZzVSV0JTV1R0WU1EUFp6ZTJWS2UxMHpYellDVUNsdWdLcEJ5c0R5dUZ3b0xKdmdJS29EOExDeEhhM0RILVlubndCMnRONF9NNVhJZGVLVEF1V1BudWs3QmFPM2dWdG5wWnAyM2cycUJJcTZxMnFRSVp0QnB6dHF6blprZEZhQVhlcTNHNW9GV2NrLUExSHo5d3M3dnROcjdxU1ZfS1Bj?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-24T08:53:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Samsung Warns Millions Of Galaxy Users—Do Not Install These Apps - Forbes",
-      "description": "This is how Samsung’s new warning affects you.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/07/24/samsung-galaxy-z-fold-6-z-flip-6-s25-ultra-new-update-warning/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665f1316eb56abe36576d67d/0x0.jpg?format=jpg&crop=1653,880,x269,y694,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-24T08:00:00Z",
-      "content": "Samsungs sudden crackdown will surprise many users\r\nFuture Publishing via Getty Images\r\nIn a surprise move, Samsung has made a radical switch with its latest devices and OS to fundamentally change ho… [+4122 chars]"
+      "author": "Tarun Verma",
+      "title": "Best Triple Camera Phone For Content Creators, Photographers and Influencers - The Times of India",
+      "description": "Here is a detailed article on some of the best triple camera phones for content creators. This article will let you know about how you can buy the best camera smartphone without spending a lot of money.",
+      "url": "https://timesofindia.indiatimes.com/hot-picks/best-triple-camera-phone-for-content-creators-photographers-and-influencers/articleshow/112018209.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112018209,width-1070,height-580,imgsize-824282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-25T14:30:00Z",
+      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]"
     }
   ]
 }
