@@ -1,161 +1,161 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 90,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Eurogamer.net"
       },
-      "author": "Kotaku",
-      "title": "Capcom Made A Game That Doesn't Belong In 2024 And It's Fantastic - Kotaku",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8va290YWt1LmNvbS9rdW5pdHN1LWdhbWktcGF0aC1nb2RkZXNzLWdhbWUtcGFzcy1jYXBjb20tMTg1MTYwNjg1MtIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:43:23Z",
-      "content": null
+      "author": "Vikki Blake",
+      "title": "Steam improves how demos \"appear and behave\" in your library and on the Steam store - Eurogamer",
+      "description": "Steam has updated how demos \"appear and behave\" within the Steam library. In a post to the official website, Valve said…",
+      "url": "https://www.eurogamer.net/steam-improves-how-demos-appear-and-behave-in-your-library-and-the-steam-store",
+      "urlToImage": "https://assetsio.gnwcdn.com/steam_ROoZJs3_d5erV0U.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-07-27T17:45:20Z",
+      "content": "Steam has updated how demos \"appear and behave\" within the Steam library.\r\nIn a post to the official website, Valve said that with \"thousands of playable demos launching on Steam every year, and mill… [+2230 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Slashdot",
-      "title": "No Fix For Intel's Crashing 13th and 14th Gen CPUs - Any Damage is Permanent - Slashdot",
+      "author": "Wccftech",
+      "title": "AMD Ryzen 9 9900X 12-Core & Ryzen 7 9700X 8-Core CPU Benchmarks Leak: 11% Faster Vs 7900X & 10% Faster Vs 7700X In Cinebench - Wccftech",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vaXQuc2xhc2hkb3Qub3JnL3N0b3J5LzI0LzA3LzI2LzE3NjIxNS9uby1maXgtZm9yLWludGVscy1jcmFzaGluZy0xM3RoLWFuZC0xNHRoLWdlbi1jcHVzLS0tYW55LWRhbWFnZS1pcy1wZXJtYW5lbnTSAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1yeXplbi05LTk5MDB4LTEyLWNvcmUtcnl6ZW4tNy05NzAweC04LWNvcmUtY3B1LWNpbmViZW5jaGJlbmNobWFya3MtbGVhay_SAWVodHRwczovL3djY2Z0ZWNoLmNvbS9hbWQtcnl6ZW4tOS05OTAweC0xMi1jb3JlLXJ5emVuLTctOTcwMHgtOC1jb3JlLWNwdS1jaW5lYmVuY2hiZW5jaG1hcmtzLWxlYWsvYW1wLw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T20:19:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "MacRumors",
-      "title": "Apple Seeds Updated Fourth Betas of iOS 18 and iPadOS 18 to Developers - MacRumors",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNy8yNi9hcHBsZS1zZWVkcy11cGRhdGVkLWlvcy0xOC1iZXRhLTQv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:13:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "VideoCardz.com",
-      "title": "Intel confirms no recall for Raptor Lake CPUs, microcode won’t fix affected units - VideoCardz.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vdmlkZW9jYXJkei5jb20vbmV3ei9pbnRlbC1jb25maXJtcy1uby1yZWNhbGwtZm9yLXJhcHRvci1sYWtlLWNwdXMtbWljcm9jb2RlLXdvbnQtZml4LWFmZmVjdGVkLXVuaXRz0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Gizmodo",
-      "title": "New Leaked Renders Give Us the Best Look of the Google Pixel 9 Pro Fold - Gizmodo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZ2l6bW9kby5jb20vbmV3LWxlYWtlZC1yZW5kZXJzLWdvb2dsZS1waXhlbC05LXByby1mb2xkLTIwMDA0Nzk0NDDSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T18:00:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Kotaku",
-      "title": "Castle Crashers' First DLC In 12 Years Lets You Make Your Own Characters - Kotaku",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8va290YWt1LmNvbS9jYXN0bGUtY3Jhc2hlcnMtZmlyc3QtZGxjLWluLTEyLXllYXJzLWxldHMteW91LW1ha2UteW91LTE4NTE2MDY1MzXSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T17:25:00Z",
+      "publishedAt": "2024-07-27T15:05:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "GameRant"
       },
-      "author": null,
-      "title": "Pixel Buds Pro 2 leak points to expensive upgrade - Android Authority",
-      "description": "A new leak may have revealed how much the Pixel Buds Pro 2 will cost. It also reveals the official names of the colors.",
-      "url": "https://www.androidauthority.com/pixel-buds-pro-2-prices-leak-3465147/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/03/google-pixel-buds-pro-coral-1-scaled.jpg",
-      "publishedAt": "2024-07-26T15:05:08Z",
-      "content": "<ul><li>A leak may have revealed the price of the Pixel Buds Pro 2.</li><li>Googles next iteration of its flagship earbuds are said to cost $229 (USD), 249 (EU), and £219 (UK).</li><li>The official c… [+1630 chars]"
+      "author": "Daniel Morris",
+      "title": "Borderlands Boss Teases New Game Announcement - GameRant",
+      "description": "Randy Pitchford, the CEO of Borderlands studio Gearbox Software, teases a new game announcement that may come sooner than players think.",
+      "url": "https://gamerant.com/borderlands-gearbox-new-game-announcement-soon/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/07/borderlands-gearbox-new-game-announcement-soon.jpg",
+      "publishedAt": "2024-07-27T14:51:00Z",
+      "content": "Highlights\r\n<ul><li>\r\n Gearbox Software's CEO hints at an upcoming title announcement, which is expected sooner rather than later.\r\n </li><li>\r\n Fans of Borderlands may anticipate a new game followin… [+3374 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BusinessLine"
+        "name": "Abplive.com"
       },
-      "author": "Ayushi Kar",
-      "title": "OpenAI launches AI search engine to rival Google - BusinessLine",
-      "description": "OpenAI introduces SearchGPT, an AI-powered search engine challenging Google's dominance, providing fast, relevant answers from the web.",
-      "url": "https://www.thehindubusinessline.com/info-tech/microsoft-backed-openai-launches-ai-search-engine-to-rival-google/article68450002.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/igazma/article68450173.ece/alternates/LANDSCAPE_1200/2024-07-25T213617Z_402609888_RC2LU7AC4ZLN_RTRMADP_3_OPENAI-SEARCH.JPG",
-      "publishedAt": "2024-07-26T14:03:10Z",
-      "content": "In a significant move that could challenge Googles control over the $200 billion search market, ChatGPT maker OpenAI announced a new AI-powered search engine, SearchGPT.\r\nIn a blog post, the company … [+3076 chars]"
+      "author": "Krishna SinhaChaudhury",
+      "title": "Oppo Reno 12 5G Review: Excelling In The Mid-Range Segment - ABP Live",
+      "description": "High notes: Useful and practical AI features, beautiful and bright display, insanely fast charging. Low notes: Pre-installed apps aren't needed, polycarbonate back.",
+      "url": "https://news.abplive.com/technology/gadgets/oppo-reno-12-5g-review-pros-and-cons-1706139",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/27/9d595ac421d405ef633b2831d16ab6941722089434798295_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-07-27T14:45:31Z",
+      "content": "We have entered a transformative era, where artificial intelligence (AI) is reshaping our interactions with smartphones. While AI has become a ubiquitous marketing term, it is often overused to gener… [+6075 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "CNBC"
       },
-      "author": "India Today Video Desk",
-      "title": "OnePlus Nord 4 vs OnePlus 12R Battery Drain Test | Make the Wise Decision! - India Today - India Today",
-      "description": "If battery life and endurance are two of the key selling points when purchasing a new phone, which one should you buy between the OnePlus Nord 4 and the OnePlus 12R?",
-      "url": "https://www.indiatoday.in/technology/video/video/oneplus-nord-4-vs-oneplus-12r-battery-drain-test-make-the-wise-decision-2572366-2024-07-26",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202407/oneplus-nord-4-vs-oneplus-12r-260041862-16x9_0.jpg?VersionId=fbwejBp6aTG0TexVWBogoO5psnYdkVIQ",
-      "publishedAt": "2024-07-26T14:01:07Z",
-      "content": "Watch as Group Captain (R) Nachiketa Rao, then a flight lieutenant and was flying MiG-27 fighter jet in the Batalik sector, talks about his mission and how he was forced to eject after his jet's engi… [+13 chars]"
+      "author": "Cheryl Winokur Munk",
+      "title": "Why you should avoid use of one-time passwords sent by text - CNBC",
+      "description": "One-time passwords have become a common method to restore consumer access to apps, but they are vulnerable to hacks.",
+      "url": "https://www.cnbc.com/2024/07/27/why-you-should-avoid-one-time-passwords-text.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108012491-1722015334878-gettyimages-1764557397-pbstudio_09092023_168.jpeg?v=1722015365&w=1920&h=1080",
+      "publishedAt": "2024-07-27T14:37:00Z",
+      "content": "One of the most convenient methods for mobile phone users to log into apps and one many companies rely on to grant access is the one-time password, or OTP, often shared by text. But theres a growing … [+6390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Activision's researchers reckon skill-based matchmaking is better for everyone - Eurogamer",
+      "description": "Activision has published a 25-page white paper exploring the impact of skill-based matchmaking (SBMM) on its multiplaye…",
+      "url": "https://www.eurogamer.net/activisions-researchers-reckon-skill-based-matchmaking-is-better-for-everyone",
+      "urlToImage": "https://assetsio.gnwcdn.com/BO6_Multiplayer_Omnimovement.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-07-27T14:17:29Z",
+      "content": "Activision has published a 25-page white paper exploring the impact of skill-based matchmaking (SBMM) on its multiplayer lobbies, determining that SBMM is better for all players.\r\nAs spotted by indie… [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Hassan Mujtaba",
+      "title": "AMD Ryzen 9000 CPUs Show Strong Pre-Sales Reception In China, First Pre-Builds Listed & Priced As Thousands Wait For Zen 5 Launch - Wccftech",
+      "description": "AMD Ryzen 9000 pre-sales activity has started in China & showing a strong reception from hardware enthusiasts ahead of Zen 5's retail launch.",
+      "url": "https://wccftech.com/amd-ryzen-9000-cpus-strong-pre-sales-china-first-pre-builds-listed-priced-thousands-wait-for-zen-5/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/07/AMD-Ryzen-9000-China.jpg",
+      "publishedAt": "2024-07-27T13:00:00Z",
+      "content": "AMD Ryzen 9000 pre-sales activity has commenced in China &amp; showing a strong reception from hardware enthusiasts ahead of Zen 5's retail launch.\r\nFirst AMD Ryzen 9000 \"Zen 5\" CPU Pre-Builts Availa… [+4636 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "TipRanks",
-      "title": "Google’s (NASDAQ:GOOGL) DeepMind Achieves AI Breakthrough in Math Problem Solving - TipRanks",
+      "author": "Forbes",
+      "title": "‘Suicide Squad: Kill The Justice League’ Is Now Resurrecting The Justice League - Forbes",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRpcHJhbmtzLmNvbS9uZXdzL2dvb2dsZXMtbmFzZGFxZ29vZ2wtZGVlcG1pbmQtYWNoaWV2ZXMtYWktYnJlYWt0aHJvdWdoLWluLW1hdGgtcHJvYmxlbS1zb2x2aW5n0gEA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcGF1bHRhc3NpLzIwMjQvMDcvMjcvc3VpY2lkZS1zcXVhZC1raWxsLXRoZS1qdXN0aWNlLWxlYWd1ZS1pcy1ub3ctcmVzdXJyZWN0aW5nLXRoZS1qdXN0aWNlLWxlYWd1ZS_SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T13:28:01Z",
+      "publishedAt": "2024-07-27T12:47:16Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "The Indian Express"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "author": "Anurag Chawake",
+      "title": "Best tablets for studying and taking notes under Rs 50,0000 - The Indian Express",
+      "description": "Are you a student or college-goer looking for tablets to take notes, study and watch lectures on? From budget to mid-range, here are some of the best tablets you can buy under Rs 50,000 that come with stylus support.",
+      "url": "https://indianexpress.com/article/technology/mobile-tabs/best-tablets-for-studying-and-taking-notes-under-rs-500000-9479162/",
+      "urlToImage": "https://images.indianexpress.com/2024/07/20240727_173326_0000.jpg",
+      "publishedAt": "2024-07-27T12:11:57Z",
+      "content": "With students preferring digital slates over notebooks, demand for tablets in schools and colleges has increased multi-fold in the last few years. Not only can tablets help you organise your thoughts… [+4366 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Tom's Guide"
       },
-      "author": "Zak Doffman",
-      "title": "WhatsApp Confirms Biggest iPhone Update Of 2024—Watch Out iMessage - Forbes",
-      "description": "WhatsApp launches a major strike at iMessage—but there’s a nasty sting in the tail.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/07/26/whatsapp-update-hits-at-iphone-16-and-ios-18-as-millions-switch-imessage/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65744e9437fe0bbac67751bf/0x0.jpg?format=jpg&crop=2003,1154,x563,y600,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-07-26T12:30:12Z",
+      "author": "Anthony Spadafora",
+      "title": "Tom's Guide Awards 2024: All the big winners of the year - Tom's Guide",
+      "description": "Here are all our favorite products, devices and services of the year",
+      "url": "https://www.tomsguide.com/news/toms-guide-awards-2024",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XqLnWPjJf9FMaMERAUkJxC-1200-80.jpg",
+      "publishedAt": "2024-07-27T12:00:57Z",
+      "content": "Please give a round of applause for all of the winners in the Tom's Guide Awards 2024. Now in its fifth year, the Tom's Guide Awards celebrates our favorite products across several major categories i… [+2110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digitalterminal.in"
+      },
+      "author": "NDM News Network",
+      "title": "HP Launches EliteBook Ultra & OmniBook X Copilot+ AI PCs - Digital Terminal",
+      "description": "HP unveiled its most powerful AI PCs aimed at empowering large enterprises, startups, and retail consumers to enable a never before PC experience. The newly lau",
+      "url": "https://digitalterminal.in/launchpad/hp-launches-elitebook-ultra-omnibook-x-copilot-ai-pcs",
+      "urlToImage": "https://media.assettype.com/digitalterminal%2F2024-07%2Fb9f60056-21ec-41be-a4a2-f55aeba3e3cf%2FHP.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2024-07-27T10:55:41Z",
+      "content": "HP unveiled its most powerful AI PCs aimed at empowering large enterprises, startups, and retail consumers to enable a never before PC experience. The newly launched laptops include the HP EliteBook … [+1429 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Wccftech",
+      "title": "Game Devs Are Now Adding In-Game Warnings for Gamers Running Intel 13th & 14th Gen CPUs - Wccftech",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd2NjZnRlY2guY29tL2dhbWUtZGV2cy1hZGQtZ2FtZS13YXJuaW5ncy1mb3ItZ2FtZXJzLXJ1bm5pbmctaW50ZWwtMTN0aC0xNHRoLWdlbi1jcHVzL9IBYWh0dHBzOi8vd2NjZnRlY2guY29tL2dhbWUtZGV2cy1hZGQtZ2FtZS13YXJuaW5ncy1mb3ItZ2FtZXJzLXJ1bm5pbmctaW50ZWwtMTN0aC0xNHRoLWdlbi1jcHVzL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T10:30:00Z",
       "content": null
     },
     {
@@ -163,26 +163,78 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "9to5Mac",
-      "title": "iPhone prices cut in India in new first for Apple, following tax cuts - 9to5Mac",
+      "author": "9to5Google",
+      "title": "Google Pixel Buds Pro 2 pricing leaks - 9to5Google",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNy8yNi9pcGhvbmUtcHJpY2VzLWN1dC1pbi1pbmRpYS_SAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNy8yNy9waXhlbC1idWRzLXByby0yLXByaWNlL9IBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T12:05:00Z",
+      "publishedAt": "2024-07-27T10:05:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Livemint"
       },
-      "author": "HT Brand Studio",
-      "title": "OPPO K12x 5G is all set to make its mark with Segment-leading durability on July 29th - Hindustan Times",
-      "description": "This release is not worth missing as OPPO K12x 5G is poised to revolutionize the design and durability game in the price segment.",
-      "url": "https://www.hindustantimes.com/sponsored-post/oppo-k12x-5g-is-all-set-to-make-its-mark-with-segment-leading-durability-on-july-29th-101714197078223.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2024/07/26/1600x900/kseries_1721993318563_1721993328103.jpg",
-      "publishedAt": "2024-07-26T11:40:10Z",
-      "content": "Life is an adventure and your smartphone is your constant companion it accompanies you for that early-morning workout, that late-night brainstorming session, and everything in between. An ideal smart… [+4930 chars]"
+      "author": "Livemint",
+      "title": "Upcoming phone launches in August 2024: Google Pixel 9 series, Vivo V40 lineup, Motorola Edge 50 and more | Mint - Mint",
+      "description": "Upcoming Phone launches in August 2024: From the Google Pixel 9 to the Vivo V40 series, a number of new devices are set to be launched in the month of August. Here's a look at the top 5 devices that have been confirmed so far.",
+      "url": "https://www.livemint.com/technology/gadgets/upcoming-phone-launches-in-august-2024-google-pixel-9-series-vivo-v40-lineup-motorola-edge-50-and-more-11722058922668.html",
+      "urlToImage": "https://images.livemint.com/img/2024/07/27/1600x900/GS0X3TPbEAElF0Q_1722071009679_1722071020221.jpeg",
+      "publishedAt": "2024-07-27T09:07:25Z",
+      "content": "Upcoming Phone launches in August 2024: A number of new smartphones are set to hit the Indian market in the month of August including the flagship Pixel 9 lineup, Vivo V40 series, Motorola Edge 50, P… [+3670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "ABP News Bureau",
+      "title": "Garena Free Fire Max: Exclusive Redeem Codes Unveiled For July 27. Here's How To Use - ABP Live",
+      "description": "Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins.",
+      "url": "https://news.abplive.com/technology/garena-free-fire-max-redeem-codes-jul-27-july-2024-daily-free-rewards-1706113",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/27/2dadca8f6dc29d55e81ab35e0e9ace8e1722066692644555_original.png?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2024-07-27T07:52:25Z",
+      "content": "In the ever-evolving landscape of Garena Free Fire Max, a highly anticipated event unfolded on July 27, 2024. During this noteworthy occasion, redemption codes were unveiled, presenting players with … [+2583 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu Bureau",
+      "title": "HP EliteBook Ultra G1q and Asus Vivobook S 15 with Snapdragon X Elite processor compared - The Hindu",
+      "description": "Powered by Qualcomm Snapdragon X Elite processor and a dedicated NPU (Neural Processing Unit), these new age gen AI capable personal computers aim to simplify computing by enhancing on-device processing and help prepare for the future workloads.",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/hp-elitebook-ultra-g1q-and-asus-vivobook-s-15-with-snapdragon-x-elite-processor-compared/article68452969.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/lj3vnm/article68452976.ece/alternates/LANDSCAPE_1200/20240727_125411.jpg",
+      "publishedAt": "2024-07-27T07:45:00Z",
+      "content": "Generative artificial intelligence (AI) is not something limited only to smartphones, but it has started trickling down to personal computers as well. In the recent days, we have seen the launch of A… [+3393 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu Bureau",
+      "title": "ChatGPT’s Advanced Voice Mode to be launched for Plus users next week - The Hindu",
+      "description": "OpenAI CEO announces ChatGPT's Advanced Voice Mode for Plus users, promising improved latency and real-time conversation capabilities.",
+      "url": "https://www.thehindu.com/sci-tech/technology/chatgpts-advanced-voice-mode-to-be-launched-for-plus-users-next-week/article68452917.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/9mntd8/article68452921.ece/alternates/LANDSCAPE_1200/2024-07-13T173224Z_1773237746_RC2LU7A5HL5J_RTRMADP_3_OPENAI-SEC-WHISTLEBLOWERS.JPG",
+      "publishedAt": "2024-07-27T07:21:00Z",
+      "content": "OpenAI CEO Sam Altman confirmed that ChatGPTs Advanced Voice Mode will be rolling out for Plus users next week. \r\nAltman, in a post on X, said the much-anticipated GPT-4o powered Voice Mode will be a… [+725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets360.com"
+      },
+      "author": "David Delima",
+      "title": "Nothing Phone 2a Plus Specifications Leak Ahead of July 31 Launch Date - Gadgets 360",
+      "description": "Nothing Phone 2a Plus key specifications and memory variants have leaked online, days ahead of its debut on July 31. The handset is expected to bring three notable upgrades it will bring over the standard Nothing Phone 2a that was launched earlier this year.",
+      "url": "https://www.gadgets360.com/mobiles/news/nothing-phone-2a-plus-specifications-leak-features-report-6199505",
+      "urlToImage": "https://i.gadgets360cdn.com/large/nothing_phone_2a_nothing_4_1710941574297.jpg",
+      "publishedAt": "2024-07-27T06:42:01Z",
+      "content": "Nothing Phone 2a Plus is set to launch in global markets including India in the coming days and the UK startup led by former OnePlus CEO and Co-Founder Carl Pei has already revealed some details rela… [+1499 chars]"
     },
     {
       "source": {
@@ -190,77 +242,25 @@
         "name": "The Times of India"
       },
       "author": "TOI Tech Desk",
-      "title": "Poco F6 Deadpool limited edition launched in India: Price in India, specifications and more - The Times of India",
-      "description": "MOBILES & TABLETS News: Poco launched the F6 Deadpool limited edition smartphone in India, coinciding with Marvel's new movie release. Priced at Rs 29,999 (including offers),",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/poco-f6-deadpool-limited-edition-launched-in-india-price-in-india-specifications-and-more/articleshow/112043470.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112043439,width-1070,height-580,imgsize-45940,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-26T11:23:00Z",
-      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+2411 chars]"
+      "title": "Realme Buds T310 to launch in India on July 30: What to expect - The Times of India",
+      "description": "WEARABLES News: Realme launched the Buds T310 with adjustable noise levels and a 12.4mm bass driver. The Realme 13 Pro series introduced Monet-inspired designs and du",
+      "url": "https://timesofindia.indiatimes.com/technology/wearables/realme-buds-t310-to-launch-in-india-on-july-30-what-to-expect/articleshow/112058724.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112058724,width-1070,height-580,imgsize-34370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-27T06:06:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "GamesRadar+"
+        "id": "the-hindu",
+        "name": "The Hindu"
       },
-      "author": "Kaan Serin",
-      "title": "Almost 100 modders spent 5 years making Fallout London, an RPG mod so expansive its creators call it \"Fallout 4.5\" - Gamesradar",
-      "description": "A 20-hour main quest makes this more than your everyday fanmade mod",
-      "url": "https://www.gamesradar.com/games/fallout/almost-100-modders-spent-5-years-making-fallout-london-an-rpg-mod-so-expansive-its-creators-call-it-fallout-45/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fYxc6sKJNxyiYxRatdapDB-1200-80.jpg",
-      "publishedAt": "2024-07-26T10:17:26Z",
-      "content": "Fallout London, the expansive fanmade Fallout 4 mod that shows us The Big Smoke's version of the nuclear post-apocalypse, is out now after a very lengthy development. But it's ballooned so much after… [+2257 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Steam is getting some big upgrades for game demos - The Verge",
-      "description": "Valve has introduced some changes that should make it easier to find and install playable game demos, and make demos behave more like standalone games on Steam.",
-      "url": "https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Lwh8wHFQHVxUooQjqY02h2EnONc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062777/STK138_Stream_Kradtke_02.jpg",
-      "publishedAt": "2024-07-26T10:09:27Z",
-      "content": "Steam is getting some big upgrades for game demos\r\nSteam is getting some big upgrades for game demos\r\n / They now behave more like standalone games, making them easier to find, install, and remove fr… [+2316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TribLIVE"
-      },
-      "author": "Rob Owen",
-      "title": "TV Talk: Pittsburgh’s public access cable channel PCTV to shutter - TribLIVE",
-      "description": "PCTV, public access cable channel Pittsburgh Community Television, will cease operations by the end of August due to a dearth of funding. &ldquo;The continuing decline in cable subscribers and the changing media landscape has had a devastating impact on our f…",
-      "url": "https://triblive.com/aande/movies-tv/tv-talk-pittsburghs-public-access-cable-channel-pctv-to-shutter/",
-      "urlToImage": "https://assets-varnish.triblive.com/2024/07/7572499_web1_ptr-TVTalk1-07252024-PCTVbuilding.jpg",
-      "publishedAt": "2024-07-26T10:00:00Z",
-      "content": "PCTV, public access cable channel Pittsburgh Community Television, will cease operations by the end of August due to a dearth of funding.\r\nThe continuing decline in cable subscribers and the changing… [+6091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Gmail Storage Full? Use the Nuclear Option for Automatic Inbox Zero - CNET",
-      "description": "Free up your inbox without losing any messages, photos or videos.",
-      "url": "https://www.cnet.com/tech/services-and-software/gmail-storage-full-use-the-nuclear-option-for-automatic-inbox-zero/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/74899f0b6f4068d74de710653bfdfb8d80254d45/hub/2024/07/25/88b19b03-99e3-4b31-a48d-fa8b83472e6c/gmail-messages-inbox-graphic-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-07-26T10:00:00Z",
-      "content": "Does your Gmail inbox contain thousands of unread emails? Have you burned through the 15GB of free storage that comes with your account? \r\nMaybe you've been meaning to clean out your Gmail inbox, but… [+9023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Aabhas Sharma",
-      "title": "HP unveils EliteBook Ultra, OmniBook X Copilot+ AI PCs with Snapdragon X Elite SoC in India - Moneycontrol",
-      "description": "HP has launched two new Copilot+ powered laptops in India, with a starting price of Rs 1,39,999. Both laptops have high-end AI capabilities with Neural Processing Unit 6.",
-      "url": "https://www.moneycontrol.com/technology/hp-unveils-elitebook-ultra-omnibook-x-copilot-ai-pcs-with-snapdragon-x-elite-soc-in-india-article-12779483.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/07/20240726094931_WhatsApp-Image-2024-07-26-at-13.04.37.jpeg",
-      "publishedAt": "2024-07-26T09:49:57Z",
-      "content": "HP has launched the EliteBook Ultra and OmniBook X, its latest AI-powered laptops in India. These machines are based on the Arm-based Snapdragon X Elite platform and take advantage of the dedicated N… [+1832 chars]"
+      "author": "Haider Ali Khan",
+      "title": "Nothing CMF Phone 1 Review: Appealing to tech-savvy consumers without overspending - The Hindu",
+      "description": "With its carefully curated mix of features, including a 6.67-inch 120Hz Super AMOLED display, a 50MP main camera, and the MediaTek Dimensity 7300 5G chipset, the CMF Phone 1 aims to redefine expectations in its segment",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-cmf-phone-1-review-appealing-to-tech-savvy-consumers-without-overspending/article68449818.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qfugxr/article68449829.ece/alternates/LANDSCAPE_1200/IMG_7012.JPG",
+      "publishedAt": "2024-07-27T03:30:00Z",
+      "content": null
     }
   ]
 }
