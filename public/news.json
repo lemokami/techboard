@@ -1,135 +1,31 @@
 {
   "status": "ok",
-  "totalResults": 85,
+  "totalResults": 75,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Kotaku",
-      "title": "Please Don't Spend $300+ On A PS4 Copy Of The Deadpool Game - Kotaku",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaU1qN3dVcERfaDZTYXRDaUFURjlyMG5pOU9WTDJybTZWSjhJVkxLbUNFXzRRWkc2VkhJSDhZdEhhLWlYOTFhVGJhNEV6bTExc0RXOVRvM0pyM2p2Z2hVZjdub1ZUTDJjak1NaEQ0bDlPTklaOEROOXpWUnlUel9HQ3I3Y3BuUVc1T2c?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T21:00:00Z",
-      "content": null
+      "author": "Gerrit De Vynck",
+      "title": "Google pulls Olympics artificial intelligence ad after backlash - The Washington Post",
+      "description": "The ad showed a father using AI to help his daughter write a letter to her sports hero.",
+      "url": "https://www.washingtonpost.com/technology/2024/08/02/google-gemini-ad-ai-sydney-mclaughlin/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJW2WZDMQLAS2BYI22P2YPXQRM_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-08-02T22:42:59Z",
+      "content": "SAN FRANCISCO Google pulled a video advertisement it had been running prominently on Olympics coverage that showed a father using artificial intelligence to help his daughter write a letter to her sp… [+3241 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "9to5Google",
-      "title": "Google’s Pixel 9 Pro Fold will be bigger, brighter, and thinner than Galaxy Z Fold 6 - 9to5Google",
+      "author": "CNBC",
+      "title": "Google pulls AI ad for Olympics following backlash - CNBC",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzY3b3ZZZ01neUNxVEhlS0JVMF9MLWxHVXZWeXBDeXVjbDVvbjl5WGtBQmw3SUlWU2lQTW1LQkExdU5WOGZwVk14SmFKeUVsNmFUemtHOXFpaHdUbHRadF9xZGRFTDFkTmFDVG4xYzRMdTFFdGZTbnU2elo0WkxENHFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXAtVURQVTMtaHYxcWVCQXh4VTZXRjFtY1pIamhhaDdjVThNU0pXRy0xSjdKbXVkS0tvWmRJVnpqd1o2QzZzY1BRNV9BWkw1c2VscUxQcjhJNWJiN0lTZk1ueWtZaTlIbk1jc1ZQbDQ5dFZMTmEwWXhtTzFwVXB1cVJKRVlLX3hyRHNtcXoxMHXSAZYBQVVfeXFMTTlQX3FSSlU4dlFIMTQ0WTR4S3hlMk9iTGM2LV9mUVRwb1B3c29mYnVIRFROaTMtc09yYUVQWUZHX0dhZGc2RHlTeHoyRkhMSU9ETHpydWVDUnh3UlBvNnQxeW1fUGhqSXdYU2l6Ynd3Y3dHT21DQjdLejdwNUwzcGIyOTBPUWZQZ2Z6dWZqZy1tbGUyOC1B?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-08-01T19:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google on why you should disable 2G on your Android phone - 9to5Google",
-      "description": "One way to combat SMS Blasters and their fake texts is by disabling the insecure 2G connection on your Android device...",
-      "url": "http://9to5google.com/2024/08/01/android-disable-2g/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Android-disable-2G-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-08-01T18:44:00Z",
-      "content": "SMS Blasters which are also known as Stingrays, False Base Stations (FBS), and cell-site simulators can be used by nefarious parties to lure mobile devices to connect to them and send fake text messa… [+2874 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Gizmodo",
-      "title": "Google Declares War on Deepfake Porn - Gizmodo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zNHJFYkVLb2xwaUh0UC1CY3MtUk4zdVdGVjZFZTZzaGduSGpGY3ZueS1jZUxEZzN2aDZtN2piS1EteUwyNlJyMkhYVElub0E3T0d4VFVrTnJTR2ZkcE5wSENMVDN1ODZab3NVdkk4ZTctU0NyTXc?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T18:00:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GSMArena.com",
-      "title": "OnePlus Open Apex Edition arrives on August 7 in Crimson Shadow - GSMArena.com news - GSMArena.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRmMmF1ZWV2QWcwU1liM0dwSW1nQTFueHpLb3V5SzJ5SnE1UjVscWNETzNjZVF1b09LLTlKNnBmbUZhWDBJYmlOcmZwTURnZGFZdHdvY096S2NaaG9lQ3ZiYUN5dmN6Qm1ydXJFcHQ0U1lCTVZEbVJKbXk0SE9EVElDQjJLa08yV2M5dy1ZMFBBblRMcm5ZTTVwS0s1VlFXTlhvRHZR0gGiAUFVX3lxTFBoampocUU5a3ZWVDRwdmJFV0Vzd05GQWR3M3hWeEM4eGJrTjVEMUhacjV0bURHTVh6eUlhUHVYSUYtQzIwSTZxLUVrVE16cURlbmZwS0VyMG5QWjlMaEFyUmxrM0JzSUx6b0duSlI1WURkZTBNTVVfczU5RXhwdF9DenV6a213OVhxSzJsVGptVWpfc2JKdGdOZGthczJGRmlnZw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T17:32:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "PCGamesN",
-      "title": "This long-awaited sequel to spectacular 2008 space strategy game finally has a launch date - PCGamesN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11b0JKampWLUNGbGUyYmZ1d09SU0tSX1RoLTg2S2JfQWI0bS1lcWN6QWhRVUdXanNURWw5NjBWVkNPbjhhNVBIMFp1Vy1BbnAxWWltSFNqUmZRWFpmd09RUzJmc3FTUXNvUzN5MUhn?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T17:00:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Jason Fanelli",
-      "title": "Fellowship Is A Co-Op Adventure Game That's All Dungeons, All The Time - GameSpot",
-      "description": "If your favorite part of an MMO is the dungeons, this game is for you.",
-      "url": "https://www.gamespot.com/articles/fellowship-is-a-co-op-adventure-game-thats-all-dungeons-all-the-time/1100-6525467/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4344219-fellowship-key-art-nologo.jpg",
-      "publishedAt": "2024-08-01T17:00:00Z",
-      "content": "The dungeon experience in an MMO is sometimes the best part of the game, but grinding to get to the endgame dungeons can be a chore. A new Swedish studio is looking to ease that burden with Fellowshi… [+1347 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Hardware Canucks",
-      "title": "This new NZXT case is Genius - Hardware Canucks",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC0ViR2I2UmY4dmJRmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T16:10:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IGN",
-      "title": "Spectre Divide Hands-On Preview: Breaking FPS Boundaries - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkx5NUdwVUliMmJPSHEweHBRc2J6YW9MMDI3ZFBTek1lTHJDV29mTXFxN1o4bnR5MnFTQjlPR0wySlZiZTdkVWdjRi1pdElBQVBaWmllTUVVV3l2alhqb2FzWmxzWEN5YndVSExYVEVtdnVkcm1qMTlNVVJyY182dkZVZzJZYlBCMTNLSg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T16:02:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Polygon",
-      "title": "The frontrunners for Game of the Year have seldom been less clear - Polygon",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QNTJWZVJoeEdJcnhYb0VsVThtLUVWU1ViZVVlSUZMLWhROU85TFV0VkFqNUd1RFBkY3AzUGtHcnNxc3lBejgyUGxJMUtmdTgzSDdWZXdfbWxQNWZqN3gxRzc2QWtNOC1KeUFsYzk2Yw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-08-01T16:00:00Z",
+      "publishedAt": "2024-08-02T18:58:51Z",
       "content": null
     },
     {
@@ -137,25 +33,25 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jay Peters",
-      "title": "Chrome is going to use AI to help you compare products from across your tabs - The Verge",
-      "description": "Google wants to help ease the pain of comparison shopping across multiple tabs in Chrome with a new AI-powered tool that can summarize your tabs into one page.",
-      "url": "https://www.theverge.com/2024/8/1/24210777/google-chrome-ai-tab-compare-products",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SG4iPE7l0IeanwDnl8FuQNcjwaU=/0x0:1201x1080/1200x628/filters:focal(601x540:602x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25554407/unnamed.png",
-      "publishedAt": "2024-08-01T16:00:00Z",
-      "content": "Chrome is going to use AI to help you compare products from across your tabs\r\nChrome is going to use AI to help you compare products from across your tabs\r\n / The new tab compare feature will pull pr… [+2385 chars]"
+      "author": "Victoria Song",
+      "title": "Google pulls Gemini AI ad from Olympics after backlash - The Verge",
+      "description": "Google pulls its “Dear Sydney” Olympics ad that shows a father using Gemini to write a heartfelt letter for his daughter.",
+      "url": "https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JQva0LYZ5hAmkLgsR8DlhhA_sBE=/0x0:1858x934/1200x628/filters:focal(929x467:930x468)/cdn.vox-cdn.com/uploads/chorus_asset/file/25557357/Screenshot_2024_08_02_at_2.29.55_PM.png",
+      "publishedAt": "2024-08-02T18:57:55Z",
+      "content": "Google pulls Gemini AI ad from Olympics after backlash\r\nGoogle pulls Gemini AI ad from Olympics after backlash\r\n / Maybe writing a heartfelt letter to your heroes isnt supposed to be easy.\r\np&gt;span… [+3323 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Ars Technica",
-      "title": "Qualcomm promises $700 Arm-powered PCs are coming sometime in 2025 - Ars Technica",
+      "author": "Digital Trends",
+      "title": "Samsung Galaxy Buds 3 Pro review: say goodbye to AirPods envy - Digital Trends",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VLeUJKQlduR3pJMVBhNWhCRlhTaVJWWmNfb19iUUx2VEJsck9zZHBsMXBDelg0STM3bmUwRVN6OUF2ME0xNHpSaWduWWh1UGZjelVFb24wZUhGU3JVQXpqdW05YUtuRlRrMmNuNTFtaldWZUxuVV9mRmJjNHVtU3FteUdCRUJUYXFMd0NXcG5Nd0R6b0JMQ0dhR3BQWDhlOUFOWHJvSnNOZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGJGWWNxaWlrOWRuaTJDZzhFSURrZXFDX0NRUURDaFZtTEJMOHMwbnEzWlZBWExJYVYyV2xWeTV4aVNXY1ZQeUVscU5vWjBrdDI1cThMNWRqRUg0alBWcTZFb183VXZfbG5abXk5QUF2U0ctcVo0dnJBQmJoODQ0dzZn?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-08-01T15:48:59Z",
+      "publishedAt": "2024-08-02T18:30:55Z",
       "content": null
     },
     {
@@ -163,12 +59,38 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "TechRadar",
-      "title": "The best budget OLED TV of 2024 just dropped to its lowest price ever - TechRadar",
+      "author": "Gizmodo",
+      "title": "A 20-Year-Old Rom Site Is Shutting Down and Moving to the Internet Archive - Gizmodo",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUZjNjRlYUo5YldfdkZyQm9aeURhRWNYTmswZnNoa2FRck5PSTBnaWI1YUxSaldGWW92N082M0g2YkpGNXdfTlFGcW93MGVUN3VjUkhfbVVTN3pwUE4yZ090eURJRVM3Njl4MFRoalktblhGSzB2UjhqODVTaW54MmliZzdQdk96QUgzcldhdkpTUnBjVXBjS1FvanRXaU9LS3c4TUtJOVRyclk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnZTZG5fZ3Y1YkZDTnRPOUZBcWp6THFkZlpiMUxNSU5vVUp0d0RlSkFUMnlkYTRTT2JDMEFmREhWMjlNUURvTmpTZ1RwYUVyNC1CS1ZiUHNidTZ1bUFra2FYVklmbF9LQWRFYnlFOWtyMGhNamVUcUY5S3RGdXliSVMydEpaR0Y2U2U5U3hTdU5odHFuZjNZckZDU19CUGw3bEZlYTY5RWM?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-08-01T15:38:04Z",
+      "publishedAt": "2024-08-02T17:26:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Game Informer to Shut Down After 33 Years - IGN",
+      "description": "Game Informer has announced it is shutting down after 33 years after GameStop reportedly told the publication it was \"closing immediately, they were all laid off, and they would begin receiving severance terms.\"",
+      "url": "https://www.ign.com/articles/game-informer-to-shut-down-after-33-years",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/02/gi-1722614165004.png?width=1280",
+      "publishedAt": "2024-08-02T16:30:00Z",
+      "content": "Game Informer has announced it is shutting down after 33 years after GameStop reportedly told the publication it was \"closing immediately, they were all laid off, and they would begin receiving sever… [+2658 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Tom's Guide",
+      "title": "Epic Best Buy weekend sale is live — here's 25 deals I’d buy now on OLED TVS, laptops and more - Tom's Guide",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkVQT0ZMbVF2VlhEelNzbjE0eHJTWjN4bE1nNDBhdERYUndQTDVLNXo1bG1yTmtCN19TUV85SWtneGMySnRLMDFlVEdsc3pDdEluamxWek90akxVX3k1bGZ0UEZBcl9PbWppTU9ONHlmcFJnaERMVXZvbjlSNmRUOXRpTDNuWUJCQjkxVnRFbkhPVFMxRFZVd2RqeERlbXE5eXBBZ3lpWFYtYUxWYUFGTnlscy1CWXU1ZmluUXQxd0Zta2FXbllB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T15:53:38Z",
       "content": null
     },
     {
@@ -177,90 +99,168 @@
         "name": "Google News"
       },
       "author": "9to5Mac",
-      "title": "AI diary: Testing Apple Intelligence Writing Tools, and finding myself impressed - 9to5Mac",
+      "title": "Tim Cook addresses Apple Intelligence’s staggered rollout and ChatGPT timing - 9to5Mac",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWMjVJLXplaWY1WmVzSFdWcDUzVC1INGNGU01CX1ZjaW1ib0YxaFNrbmhTQ0JRU3lYcUxtdHhnM0tRMERqTFQyY0NXYkdPYmpuU0ktYm5vdnk0V1FGczJ2ckpMc0ZCWC14Z2FEV1NPYnlLRDV2SFcydm9HVW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDBQWHRjYnE4VE1yVjNOUmQwcVdlT2dnczB4ZEs4aTNRTTRNX1ZJbjhLOEpwcFR1WU5MaVJvRHY2Z0lOdThIZXhPN0F1RTVKQ1h4XzhJMUtXVEJCVWpHTExOVTB6Z0I0dWMwelVMcERRRk9ubERoM01wcDgzRC1ONDF3Q09GcXhJNnB2eDhyWVNqbVlDaXpMWWFqTnA4c1JpNVNoZGs1cTRQcjdZeVZHR25n?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-08-01T14:19:00Z",
+      "publishedAt": "2024-08-02T15:37:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Google Pixel 9 Series to debut with thermal efficient Tensor G4 chipset: Report - Mint",
-      "description": "Google's Pixel 9 series, launching August 13, is likely to feature the Tensor G4 chipset with an eight-core 4+3+1 configuration for improved thermal efficiency.",
-      "url": "https://www.livemint.com/technology/tech-news/google-pixel-9-series-to-debut-with-thermal-efficient-tensor-g4-chipset-report-11722519553270.html",
-      "urlToImage": "https://images.livemint.com/img/2024/08/01/1600x900/Screenshot_2024-07-19_095449_1721363733587_1722519864356.png",
-      "publishedAt": "2024-08-01T13:49:18Z",
-      "content": "California-based Google is gearing up for the launch of its flagship smartphone lineup, the Pixel 9 series, on August 13. Recent leaks have provided insights into the performance and specifications o… [+2263 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Video Games Chronicle",
-      "title": "Xbox annouces Gamescom 2024 plans, including over 50 playable games - Video Games Chronicle",
+      "author": "Daily Mail",
+      "title": "Urgent warning to Google users after cyberattack targets search browser with fake ads - here's how to stay safe - Daily Mail",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjJjV0YzVVVuUGxwbExMeFRMOGJuR0w5Nks0bjJaTXpManBKVVNDQm1telVxZ0hDNGVGZEswOFNyRkNUSGtVYUNhYW5DS0U4VlpFMjd2WDg3bU1jZWVBOVo1d0VqcE5lQVhnRDRybnJmbXEtZGpGN3NsMUdPLXNFSWlwWlZHZS1BUlNoajkyajVmQ3FiOUtja0hrQnkwcXp5R3NpdVF2T2lvSE91?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2hyYVVSbXJVZGNpUXFlQ0hRai04Y1hiaEdPaWZGX3JIRlNxMnNEamJadEt0dUNxS2s3SXpoWWp1Z3VrZzVvcHdPbWJVeW9hVVpiWWhWenQ5QUhpbGtqV2dOVEpVOXlzbE9xcFdIMEl5TUFCenduWVprOENsVk11eHJzV0ZnclFhR2JTMW1KS1hYREw4TktlMzl4WkQ?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-08-01T13:26:10Z",
+      "publishedAt": "2024-08-02T15:11:32Z",
       "content": null
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Daily Sabah"
       },
-      "author": "Wesley Yin-Poole",
-      "title": "Xbox Announces 3 Days of Live Broadcasts for Gamescom 2024 - IGN",
-      "description": "Here's what to expect from Microsoft during its Xbox livestreams at gamescom 2024.",
-      "url": "https://www.ign.com/articles/xbox-announces-3-days-of-live-broadcasts-for-gamescom-2024",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/01/main-kv-a0ec4489c953e193cf30-1536x864-1722518371376.jpg?width=1280",
-      "publishedAt": "2024-08-01T13:24:57Z",
-      "content": "Microsoft has fully revealed its plans for gamescom 2024, and they include three days of live broadcasts.\r\nIn a post on Xbox Wire, Microsoft said it will host a series of daily streams from its Xbox … [+6815 chars]"
+      "author": "Timur Sırt",
+      "title": "Search engines lose media crown: Long live artificial intelligence | Daily Sabah - Daily Sabah",
+      "description": "On Google, search for ferry schedules, locksmiths or technical services. The result is often disappointing. Manipulated answers and advertisements are far...",
+      "url": "https://www.dailysabah.com/business/tech/search-engines-lose-media-crown-long-live-artificial-intelligence",
+      "urlToImage": "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/08/02/thumbs/800x531/339669.jpg",
+      "publishedAt": "2024-08-02T14:59:04Z",
+      "content": "On Google, search for ferry schedules, locksmiths or technical services. The result is often disappointing. Manipulated answers and advertisements are far from what the user is looking for. Generativ… [+9834 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jalopnik",
+      "title": "Ford Mustang Mach-E GT Owners Can Unlock A Bunch Of Extra Power For $995 - Jalopnik",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3NRa1JXVHNSSlZycElYQklCbkI0ZXR4alM1VVRpS2MzUDQ2Q3I4RU4wbjhmeWE0ak5DYnJNTk1ReU1RSWNXZXV2dlZweF9jcmhNNW9fak9kNEZYRkx4SDNkWlpBRUZTSnZPc1o0bWRoX0VDdEI1TjBKaTVGV29HZHY5ZzFpVGtnUUR4Y2JtVTI?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T14:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Engadget",
+      "title": "Nintendo profits fall 55 percent as people save their cash for the Switch 2 - Engadget",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcS1ENWVGSXliVmstUVZQd0hfdXpyWExwNVJTUmVKRnNmOUh0dWFGTVJBOE9KZi1YQ3ZvRl91bGVXeUdibHlOWWNZSHIzdVB6ZzZmOEtwMDJsTW9ZRlZoNUZNR0NWNTAzMEhjODNQaFBENXhsOUk2NVhKQWxMempheXZtTVlBSDFHMzFCLXBRUExWWEJqNW0xb21fSTRFYlplR2V5TV9DR1FDTFhnZVAyb1ZrLXQwUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T14:00:19Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "CNBCTV18"
       },
-      "author": "Claire Jackson",
-      "title": "From Star Wars Outlaws To Visions Of Mana : 18 Cool Games To Check Out In August - Kotaku",
-      "description": "August’s lineup features open-world scoundrel shenanigans, gooey puzzles, otherworldly nature preservation and much more",
-      "url": "https://kotaku.com/august-2024-games-coming-out-star-wars-warcraft-1851610266",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/298af38ca8e2d67749c2080cec1fbab2.gif",
-      "publishedAt": "2024-08-01T13:15:00Z",
-      "content": "August has arrived. That means a fresh new calendar of game releases, from massive AAA titles to potential new indie darlings. \r\nThis month packs not one but two Star Wars games, a new entry in the M… [+5816 chars]"
+      "author": "Vijay Anand",
+      "title": "Dell aims to lead the PC-Ai revolution with Qualcomm partnership - CNBCTV18",
+      "description": "Qualcomm's Snapdragon X series processors are transforming the PC landscape by integrating advanced AI, enhancing performance, and improving battery life. Dell's new Latitude 7455 laptops leverage these technologies, offering seamless connectivity, resource e…",
+      "url": "https://www.cnbctv18.com/technology/dell-aims-to-lead-the-pc-ai-revolution-with-qualcomm-partnership-19453880.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2024/08/latitude-7445-4-2024-08-1bef7461c34e6283dca41bb40355c1c1.jpeg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-08-02T13:18:11Z",
+      "content": "As artificial intelligence (AI) continues to advance, it is fundamentally transforming the PC landscape, ushering in a new era of computing.According to Indrajit Belgundi, Senior Director and General… [+6602 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Deeksha Somani",
-      "title": "Apple iPhone 15 Plus is available for just Rs 16,730 on Amazon; check exchange deal and bank offer - The Times of India",
-      "description": "MOBILES & TABLETS News: The iPhone 15 Plus (Black, 128GB) has seen a notable price reduction on Amazon, dropping from Rs 89,600 to Rs 81,900. Exchange discounts of up to Rs 5",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-plus-is-available-for-just-rs-16730-on-amazon-check-exchange-deal-and-bank-offer/articleshow/112199291.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112200931,width-1070,height-580,imgsize-11076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-01T12:39:00Z",
-      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+2411 chars]"
+      "author": "Android Authority",
+      "title": "It's not just the fans, Samsung's chairman is also mad at the Apple-inspired designs - Android Authority",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2Rpc2I3N2FFUTd0UnRXRFY4alk0LVlYVnFRVThQTkJOVDY4ekR5RldVWlpobldBdXktaUZnc0NMZFJ6OWhWeUc0S1NMUk1VcG5uaFJFT0N5cUFuUlhfczZac0VmSTlCNzhPTHpSaHFXckN1WXVvaWxoQjZMbWd6ZQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T13:16:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "AnandTech",
+      "title": "Intel Extends 13th & 14th Gen Core Retail CPU Warranties By 2 Years In Response to Chip Instability Issues - AnandTech",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHdrdmFZRms3YUpVMkdIeWpTN3pfY2Rfdlpta3o3TUtxRkx6MVkzQWtnSmxUWWdpYXRBMkVJLThyQ1F2bS1NWlpOdGVEYXdXVUp0bS1tTXNhblBnMEJoaXNQSFY4Q21RTUtPQURqOURvS3QyTzVOME1kOWp5cEZLOHM3cXZjZmhWdHRTQ2VtYWFoZUlvQU1HcnhSbUlJeU1WZVhkQmlldVNlSlVUazBKdHdHcndWUUZzOFZuOC1sYzJsdS16UGUxX3lJM29OV1NmUGNWVTlR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T13:00:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "THE WEEK"
+        "name": "Gizmodo.com"
       },
-      "author": "PTI",
-      "title": "Motorola Launches the World’s Slimmest IP68 MIL-STD-810H Military Grade Certified Durable Smartphone- motorola edge 50 at Rs 25 999 - The Week",
-      "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
-      "url": "https://www.theweek.in/wire-updates/business/2024/08/01/dcm103-motorola.html",
-      "urlToImage": "https://www.theweek.in/content/dam/week/wire-updates/the-week-pti-wire-updates.jpg",
-      "publishedAt": "2024-08-01T12:08:32Z",
-      "content": "New Delhi, Delhi, India Business Wire India\r\nThe motorola edge 50 comes with MIL-STD-810H certified design, IP68 Underwater protection which makes it the most durable smartphone under 30K. The Phone … [+16851 chars]"
+      "author": "Lucas Ropek",
+      "title": "Developer Says the ‘Friend’ AI Amulet Ripped Off His Project, Releases Diss Track - Gizmodo",
+      "description": "Another piece of AI hardware, that looks nearly identical, and is also called \"Friend,\" was launched long before this week's product.",
+      "url": "https://gizmodo.com/developer-says-the-friend-ai-amulet-ripped-off-his-project-releases-diss-track-2000482431",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-30-at-8.50.29 AM.jpg",
+      "publishedAt": "2024-08-02T12:50:40Z",
+      "content": "Friend is already making enemies. The weird, AI-fueled cure-all-for-loneliness hardware that debuted earlier this week has been around less than three days and already its being accused of being a to… [+2377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Express"
+      },
+      "author": null,
+      "title": "Apple working with regulators to roll out Apple Intelligence in China and EU - The Financial Express",
+      "description": "Apple CEO Tim Cook addressed inquiries about expanding Apple Intelligence to additional markets, including China and the EU.",
+      "url": "https://www.financialexpress.com/life/technology-apple-working-with-regulators-to-roll-out-apple-intelligence-in-china-and-eu-3572424/",
+      "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2024/08/apple-resized-1-1.webp",
+      "publishedAt": "2024-08-02T12:31:23Z",
+      "content": "During the WWDC 2024 event, Apple introduced Apple Intelligence, initially available only in US English. However, users in China and the European Union are currently unable to access these new AI fea… [+1984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Arijit Sarkar",
+      "title": "ビットコインのマイニング難易度が最高値を記録 過去3ヶ月間の下落トレンドから反転 - コインテレグラフ・ジャパン（ビットコイン、仮想通貨、ブロックチェーンのニュース）",
+      "description": "Despite a temporary decline, Bitcoin's network difficulty hit a new all-time high on August 1, impacting miners' profitability.",
+      "url": "https://jp.cointelegraph.com/news/bitcoin-network-difficulty-increase-aug-2024",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-08/200acf92-5010-4601-8b46-012fe6d6662f.jpg",
+      "publishedAt": "2024-08-02T12:27:09Z",
+      "content": "English version is available \r\n Switch to the English version?"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MacRumors",
+      "title": "Apple's First Foldable iPad Could Face Delays Into 2026 - MacRumors",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iSVBDOG9JNHRfTjQ4Yl96YkdTWmFLLXBEcFAxZjE4OXk2WXZNVkIxQnJlUm1NNlB5b0s3N3NUXzhEd2RhNVF5eXBQWXE1RVlfcXMzSE9Yc3ZDc3hqRUFoM2RTZGJMRy0tREh1Yl9aanRUdw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T12:04:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": "ZeeBiz WebTeam",
+      "title": "Poco Launches M6 Plus 5G with 108MP Camera and Buds X1 with Noise Cancellation - Zee Business",
+      "description": "",
+      "url": "https://www.zeebiz.com/technology/mobiles/news-poco-launches-m6-plus-5g-with-108mp-camera-and-buds-x1-with-noise-cancellation-305660",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/08/02/308771-pocom6plus.jpg",
+      "publishedAt": "2024-08-02T12:01:07Z",
+      "content": "Poco Launches M6 Plus 5G and Buds X1: Poco, introduced M6 Plus 5G, an addition to its M-series lineup. Built as the successor of the M6 Pro, the M6 Plus 5G features a premium glass with ring flash de… [+4024 chars]"
     }
   ]
 }
