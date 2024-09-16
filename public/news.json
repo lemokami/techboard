@@ -1,214 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Dan Goodin",
-      "title": "1.3 million Android-based TV boxes backdoored; researchers still don’t know how - Ars Technica",
-      "description": "Infection corrals devices running AOSP-based firmware into a botnet.",
-      "url": "https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/streaming-tv-760x380.jpg",
-      "publishedAt": "2024-09-13T20:20:23Z",
-      "content": "28\r\nResearchers still dont know the cause of a recently discovered malware infection affecting almost 1.3 million streaming devices running an open source version of Android in almost 200 countries.\r… [+7617 chars]"
+      "author": "Amanda Silberling",
+      "title": "The LinkedIn games are fun, actually - TechCrunch",
+      "description": "I have a guilty pleasure, and it’s not that I just rewatched “Glee” in its entirety (yes, even the awful later seasons), or that I have read an ungodly",
+      "url": "https://techcrunch.com/2024/09/14/the-linkedin-games-are-fun-actually/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/Combined-Game-Play-1920x1080-1.webp?w=1200",
+      "publishedAt": "2024-09-14T21:00:00Z",
+      "content": "I have a guilty pleasure, and its not that I just rewatched Glee in its entirety (yes, even the awful later seasons), or that I have read an ungodly amount of Harry Potter fan fiction in my time.\r\nMy… [+4450 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Taylor Steele",
+      "title": "23 Kinda Embarrassing Things To Order Online So You Can Totally Avoid The Whole Cashier Interaction - BuzzFeed",
+      "description": "Let's avoid all that annoying side-eye from people IRL.",
+      "url": "https://www.buzzfeed.com/taylor_steele/kinda-embarrassing-things-to-order-online-so-you-can",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/12/14/enhanced/29a51598949f/original-2014-1726150163-2.jpg?crop=3000:1575;0,0%26downsize=1250:*",
+      "publishedAt": "2024-09-14T20:31:02Z",
+      "content": "The hairs in your nose play an important role in filtering out any harmful debris. But of course, it's your body, and if you want to wax your nose hairs, you're more than welcome to just be careful, … [+531 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "ComicBook.com"
       },
-      "author": "Investor's Business Daily",
-      "title": "Apple Begins Taking Preorders For AI-Enabled iPhone 16 Handsets - Investor's Business Daily",
-      "description": null,
-      "url": "https://www.investors.com/news/technology/apple-stock-iphone-16-preorders-begin/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-13T20:04:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple Intelligence Features Expected to Roll Out in This Order Between iOS 18.1 and iOS 18.4 - MacRumors",
-      "description": "iOS 18 will be released to the public on Monday, but the first Apple Intelligence features will not be available until iOS 18.1 is released in...",
-      "url": "https://www.macrumors.com/2024/09/13/apple-intelligence-features-timing/",
-      "urlToImage": "https://images.macrumors.com/t/qelrrJvUIhV-bIC4pzqk41jy7-g=/2000x/article-new/2024/09/iphone-16-pro-apple-intelligence.jpg",
-      "publishedAt": "2024-09-13T20:01:54Z",
-      "content": "iOS 18 will be released to the public on Monday, but the first Apple Intelligence features will not be available until iOS 18.1 is released in October.\r\nApple Intelligence features will continue to r… [+4468 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Mac Observer"
-      },
-      "author": "Devesh Beri",
-      "title": "Stolen iPhones Will Be Even More Useless From iOS 18 Onwards - The Mac Observer",
-      "description": "iOS 18 extends Activation Lock to iPhone parts, making stolen devices and components useless. A major blow to iPhone theft and black markets.",
-      "url": "https://www.macobserver.com/ios/stolen-iphones-will-be-even-more-useless-from-ios-18-onwards/",
-      "urlToImage": "https://www.macobserver.com/wp-content/uploads/2022/08/AppleTradeSecretsGuiltyAug2022Featured.jpg",
-      "publishedAt": "2024-09-13T18:50:36Z",
-      "content": "Apple has unveiled a new feature in iOS 18 that extends Activation Lock to individual iPhone components. This update, set to roll out on September 16, 2024.\r\nSo, what’s new? The latest iOS update bri… [+1283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "AI giants pinky swear (again) not to help make deepfake smut - The Register",
-      "description": "Oh look, another voluntary, non-binding agreement to do better",
-      "url": "https://www.theregister.com/2024/09/13/ai_deepfake_pledge/",
-      "urlToImage": "https://regmedia.co.uk/2019/09/25/pinkypromise.jpg",
-      "publishedAt": "2024-09-13T18:46:00Z",
-      "content": "Some of the largest AI firms in America have given the White House a solemn pledge to prevent their AI products from being used to generate non-consensual deepfake pornography and child sexual abuse … [+3658 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Joseph Menn",
-      "title": "Apple seeks to drop its lawsuit against Israeli spyware pioneer NSO - The Washington Post",
-      "description": "Apple is dropping its lawsuit against spyware pioneer NSO Group, arguing in a filing shared exclusively with The Post that a recent Israeli government raid of the company’s headquarters might have removed key secrets from the reach of the U.S. discovery proce…",
-      "url": "https://www.washingtonpost.com/technology/2024/09/13/apple-lawsuit-nso-pegasus-spyware/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAHOZ6BZWII63OFPBICOLXB5WY_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-09-13T18:20:35Z",
-      "content": "SAN FRANCISCO Apple asked a court Friday to dismiss its three-year-old hacking lawsuit against spyware pioneer NSO Group, arguing that it might never be able to get the most critical files about NSOs… [+4477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Will iPhone 15 cases fit the iPhone 16? - 9to5Mac",
-      "description": "Do you need to buy a new case for your iPhone 16 or iPhone 16 Pro? Here's everything you need to know – and some of the best picks.",
-      "url": "https://9to5mac.com/will-iphone-15-cases-fit-the-iphone-16/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-16-vs-15-comparison-video.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-13T17:41:00Z",
-      "content": "The iPhone 16 and iPhone 16 Pro are officially available for pre-order, bringing multiple significant design changes. Here’s what these changes mean for your iPhone 16 accessories. Hint: you’re going… [+1730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Android 15 QPR1 adds ‘Limit to 80%’ Pixel battery charging optimization - 9to5Google",
-      "description": "Android 15 QPR1 Beta 2 fully rolls out the ability to limit battery charging to 80% for Pixel devices. This optimization...",
-      "url": "http://9to5google.com/2024/09/13/android-15-qpr1-limit-battery-charging/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-USB-C-to-USB-C-cable.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-13T16:48:00Z",
-      "content": "Android 15 QPR1 Beta 2 fully rolls out the ability to limit battery charging to 80% for Pixel devices.\r\nWith Beta 1, some users saw a notification about enabling the new charge limit, but were unable… [+962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegamepost.com"
-      },
-      "author": "TheGamePost",
-      "title": "Bungie Resolves Fan Art Plagiarism Accusation Over Destiny 2 Ace of Spades NERF Replica - TheGamePost",
-      "description": null,
-      "url": "https://thegamepost.com/bungie-fan-art-destiny-2-ace-of-spades-nerf-replica/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-13T16:20:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Overwatch 2 x World of Warcraft – Collaboration Trailer – Nintendo Switch - Nintendo of America",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-09-13T16:15:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Potuck",
-      "title": "Apple Watch 10 vs Ultra 2: What's different? - 9to5Mac",
-      "description": "This detailed comparison covers Apple Watch 10 vs Ultra 2 when it comes to size, display, battery, performance, features, and more.",
-      "url": "https://9to5mac.com/apple-watch-series-10-vs-ultra-2-comparison/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-watch-10-vs-ultra-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-13T15:12:00Z",
-      "content": "The all-new Apple Watch Series 10 is here and comes with the largest screen ever paired with the thinnest design, a new chip, faster charging, and new health/fitness features. Meanwhile, Apple is off… [+7931 chars]"
+      "author": "Tyler Fischer",
+      "title": "\"Ultra-Violent\" Steam Game Is Now Available for Free - ComicBook.com",
+      "description": "Steam has a new free game for everyone to download.",
+      "url": "https://comicbook.com/gaming/news/steam-deck-free-game-infected-shelter/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/2023/02/14/aab19d4a-a151-4b27-9c06-67b683c3212b/aw2.png?width=1200",
+      "publishedAt": "2024-09-14T20:27:00Z",
+      "content": "A Steam game described as \"ultra-violent\" has been made free five years after its initial release on the Valve storefront. Not only is the PC game, which used to cost $10, now free, but it supports t… [+2135 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Ash Parrish",
-      "title": "Astro Bot sounds as great as it plays - The Verge",
-      "description": "Astro Bot improves upon its predecessor with incredible music, sound effects, and utilization of the DualSense controller.",
-      "url": "https://www.theverge.com/2024/9/13/24243763/astro-bot-sound-design-dualsense-controller",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fzUoPZ0Fbe7ewV2BAsjbCkwmuls=/0x0:1600x900/1200x628/filters:focal(821x651:822x652)/cdn.vox-cdn.com/uploads/chorus_asset/file/25619016/53971042042_e76709bbf9_h.jpg",
-      "publishedAt": "2024-09-13T14:46:54Z",
-      "content": "Astro Bot sounds as great as it plays\r\nAstro Bot sounds as great as it plays\r\n / A phenomenal happy-go-lucky soundtrack combined with excellent utilization of the DualSense controller makes a special… [+4151 chars]"
+      "author": "Wes Davis",
+      "title": "8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play - The Verge",
+      "description": "A new conversion kit from 8BitDo lets you add drift-resistant Hall effects joysticks and wireless Bluetooth connectivity to old GameCube controllers.",
+      "url": "https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JJE5DvFbfvwTLpzBEdYN3JZI_hM=/0x0:1800x1308/1200x628/filters:focal(1279x495:1280x496)/cdn.vox-cdn.com/uploads/chorus_asset/file/25621073/Wireless_Silver.png",
+      "publishedAt": "2024-09-14T19:34:13Z",
+      "content": "8BitDos new Bluetooth mod kit puts GameCube controllers back into play\r\n8BitDos new Bluetooth mod kit puts GameCube controllers back into play\r\n / For $26, you can add Hall effects joysticks and Blue… [+1792 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Boing Boing"
+        "name": "Forbes"
       },
-      "author": "Boing Boing",
-      "title": "Dreamcast aficionado Tim Walz added as playable character to Sega classic Crazy Taxi - Boing Boing",
+      "author": "Ewan Spence",
+      "title": "Apple Forced Into Drastic iPhone 16 Pro Downgrade - Forbes",
+      "description": "Apple is removing a key piece of software from some iPhone 16 and iPhone 16 Pro smartphones.",
+      "url": "https://www.forbes.com/sites/ewanspence/2024/09/14/apple-iphone-16-pro-apple-intelligence-european-union-dma-new-iphone/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66df81d1f5cb18a0d9162bb7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-14T19:00:07Z",
+      "content": "The new iPhone 16 Pro fon show in Cupertino, California,(Photo by NIC COURY/AFP via Getty Images)\r\nAFP via Getty Images\r\nWith the launch of the iPhone 16 and iPhone 16 Pro, Apple has taken its first … [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Dexerto",
+      "title": "Justin Wong is so good at MvC2 that players are refunding the game after fighting him - Dexerto",
       "description": null,
-      "url": "https://boingboing.net/2024/09/13/dreamcast-aficionado-tim-walz-added-as-playable-character-to-sega-classic-crazy-taxi.html",
+      "url": "https://www.dexerto.com/gaming/justin-wong-is-so-good-at-mvc2-that-players-are-refunding-the-game-after-fighting-him-2899387/",
       "urlToImage": null,
-      "publishedAt": "2024-09-13T14:13:49Z",
+      "publishedAt": "2024-09-14T18:56:59Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Sarah Perez",
-      "title": "Spotify begins piloting parent-managed accounts for kids on family plans - TechCrunch",
-      "description": "Following the moves of other tech giants, Spotify announced on Friday it's introducing in-app parental controls in the form of \"managed accounts\" for",
-      "url": "https://techcrunch.com/2024/09/13/spotify-begins-piloting-parent-managed-accounts-for-kids-on-family-plans/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-      "publishedAt": "2024-09-13T13:50:31Z",
-      "content": "Following the moves of other tech giants, Spotify announced on Friday it’s introducing in-app parental controls in the form of “managed accounts” for listeners under the age of 13. The new feature wi… [+1968 chars]"
+      "author": "Kenneth Niemeyer",
+      "title": "Megan Ellison, the award-winning daughter of billionaire Larry Ellison, has a headache on her hands - Business Insider",
+      "description": "Annapurna Interactive's entire staff resigned this week, leaving Megan Ellison and her video game studio scrambling.",
+      "url": "https://www.businessinsider.com/larry-ellison-daughter-megan-ellison-annapurna-video-games-staff-revolt-2024-9",
+      "urlToImage": "https://i.insider.com/66e5ccefd17aa3c7b2b2aa72?width=1200&format=jpeg",
+      "publishedAt": "2024-09-14T18:30:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Slashdot.org"
       },
-      "author": "Megan Cerullo",
-      "title": "FDA approves Apple AirPods Pro 2 to be used as hearing aids - CBS News",
-      "description": "Tech giant's latest AirPods will soon function as hearing aids for people with mild to moderate hearing loss.",
-      "url": "https://www.cbsnews.com/news/fda-approves-apple-airpods-2-as-hearing-aids/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/13/46fde834-45bb-4cfc-8232-a733f8d092c8/thumbnail/1200x630/2eefa03f4c83c6368aa662feec9e62dd/gettyimages-2171047193.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-13T13:42:00Z",
-      "content": "Apple AirPods Pro 2 can soon be used as hearing aids, after they received Food and Drug Administration (FDA) clearance, in what experts call a game changer for the hearing aid market.\r\nThe FDA on Thu… [+2792 chars]"
+      "author": "Slashdot",
+      "title": "OpenAI Acknowledges New Models Increase Risk of Misuse To Create Bioweapons - Slashdot",
+      "description": null,
+      "url": "https://slashdot.org/story/24/09/13/1842216/openai-acknowledges-new-models-increase-risk-of-misuse-to-create-bioweapons",
+      "urlToImage": null,
+      "publishedAt": "2024-09-14T18:27:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google TV’s free channels have a new name as ‘Freeplay’ starts rolling out - 9to5Google",
+      "description": "Google TV is rolling out new branding for its free channels, with a new app and experience called \"Freeplay.\"",
+      "url": "http://9to5google.com/2024/09/14/google-tv-freeplay-update-rolling-out/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/google-tv-freeplay-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-14T18:22:00Z",
+      "content": "After adding a few more new channels recently, Google TV has started rolling out “Freeplay” as a new home for its free, ad-supported TV channels.\r\nGoogle first started rolling out free, ad-supported … [+1415 chars]"
     },
     {
       "source": {
@@ -216,51 +125,142 @@
         "name": "Eurogamer.net"
       },
       "author": "Vikki Blake",
-      "title": "CWA union slams Microsoft layoffs as \"extremely disappointing\" - Eurogamer",
-      "description": "The Communications Workers of America union (CWA) has denounced Microsoft's decision to lay off an additional 650 video…",
-      "url": "https://www.eurogamer.net/cwa-union-slams-microsoft-layoffs-as-extremely-disappointing",
-      "urlToImage": "https://assetsio.gnwcdn.com/xbox-gamecom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-09-13T13:18:54Z",
-      "content": "The Communications Workers of America union (CWA) has denounced Microsoft's decision to lay off an additional 650 video game workers yesterday as \"extremely disappointing\".\r\nIn a statement, the CWA s… [+1843 chars]"
+      "title": "Palworld is \"not changing business model\" or switching to \"free-to-play or games-as-a-service\" - Eurogamer",
+      "description": "Palworld developer Pocketpair says it is \"not changing [Palworld's] business model\", assuring players it will \"remain b…",
+      "url": "https://www.eurogamer.net/palworld-is-not-changing-business-model-or-switching-to-free-to-play-or-games-as-a-service",
+      "urlToImage": "https://assetsio.gnwcdn.com/palworld-console-commands.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-09-14T16:44:09Z",
+      "content": "Palworld developer Pocketpair says it is \"not changing [Palworld's] business model\", assuring players it will \"remain buy-to-play and not free-to-play or games-as-a-service\".\r\nThe company was forced … [+2086 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "Kotaku"
       },
-      "author": "Edwin Evans-Thirlwell",
-      "title": "A European consumer watchdog wants you to be able to buy exactly as much in-game currency as you need, not fixed chunks - Rock Paper Shotgun",
-      "description": "A European consumer advocacy group have published an open letter to the European Union Commission expressing their conc…",
-      "url": "https://www.rockpapershotgun.com/a-european-consumer-watchdog-wants-you-to-be-able-to-buy-exactly-as-much-in-game-currency-as-you-need-not-fixed-chunks",
-      "urlToImage": "https://assetsio.gnwcdn.com/diablo-immortal-premium-purchase-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-09-13T12:50:49Z",
-      "content": "A European consumer advocacy group have published an open letter to the European Union Commission expressing their concerns about video games that make use of premium in-game currencies - aka, make-b… [+5175 chars]"
+      "author": "Kotaku Staff",
+      "title": "PS5 Pro Reactions, Destiny Anniversary Feels, And More Of This Week's Spiciest Takes - Kotaku",
+      "description": "This week Sony revealed its mid-gen console and Bungie celebrated a milestone",
+      "url": "https://kotaku.com/ps5-pro-reactions-destiny-anniversary-feels-and-more-1851647997",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ed9e3db1eb3fee60c9b6d63bc6b8796.jpg",
+      "publishedAt": "2024-09-14T16:30:00Z",
+      "content": "Gaming tags on Steam are used with wild abandon, to the degree that theyre fairly useless. Point-and-click has been reduced to any game with a cursor, and action appears to mean any game where you mo… [+460 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Check out the Pixel 9 Pro Fold’s guts in iFixit’s latest teardown - The Verge",
+      "description": "Foldables are still hard to repair, but iFixit says in its latest teardown video it thinks the Google Pixel 9 Pro Fold is the most user-fixable one yet.",
+      "url": "https://www.theverge.com/2024/9/14/24244590/google-pixel-9-pro-fold-teardown-x-ray-ct-scan-repairability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PmaN-cJy_7ESaYJlVrYwDogLyI0=/0x0:1890x1260/1200x628/filters:focal(945x630:946x631)/cdn.vox-cdn.com/uploads/chorus_asset/file/25607215/DSC08188_processed.jpg",
+      "publishedAt": "2024-09-14T16:23:31Z",
+      "content": "Check out the Pixel 9 Pro Folds guts in iFixits latest teardown\r\nCheck out the Pixel 9 Pro Folds guts in iFixits latest teardown\r\n / Head to iFixits blog for a fun interactive X-ray of Googles Pixel … [+189 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "CNBC"
       },
-      "author": "Jeff Parsons",
-      "title": "Nintendo Switch 2 leaker just tipped price and launch date - Tom's Guide",
-      "description": "This could be legit",
-      "url": "https://www.tomsguide.com/gaming/nintendo-switch-2-leaker-just-tipped-price-and-launch-date",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AW2V5RFWCArLoRcdZTz6h4-1200-80.jpg",
-      "publishedAt": "2024-09-13T12:21:38Z",
-      "content": "Sony has made a bit of a splash this week with the PS5 Pro announcement and it's outrageous $700/£700 price point. While a lot of gamers will be weighing up whether they should buy or skip the most p… [+2434 chars]"
+      "author": "Aditi Shrikant",
+      "title": "A bar is the worst place to meet a potential mate, dating coaches say: Here's where to go instead - CNBC",
+      "description": "Bars tend to be the go-to venue for singles, but often don't net meaningful connections, and there are other ways to meet a potential partner.",
+      "url": "https://www.cnbc.com/2024/09/14/dating-experts-bars-are-the-worst-place-to-find-lovetry-here-instead.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034121-1726250293498-gettyimages-1464826932-victoria-parsons7541copy.jpeg?v=1726250321&w=1920&h=1080",
+      "publishedAt": "2024-09-14T16:00:01Z",
+      "content": "Every few months I or one of my friend declares that we're \"done with the dating apps.\" The endless swiping can make people feel disposable and conversations on Tinder or Hinge often just die in the … [+4257 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "author": "Victoria Kennedy",
-      "title": "Leaked Legend of Zelda: Echoes of Wisdom rom reportedly out in the kingdom - Eurogamer",
-      "description": "There are reports the upcoming Nintendo Switch release The Legend of Zelda: Tears of the Kingdom has leaked.",
-      "url": "https://www.eurogamer.net/leaked-legend-of-zelda-echoes-of-wisdom-rom-reportedly-out-in-the-kingdom",
-      "urlToImage": "https://assetsio.gnwcdn.com/Zelda-Echoes-of-Wisdom_8CGJK2f.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-09-13T11:15:56Z",
-      "content": "There are reports the upcoming Nintendo Switch release The Legend of Zelda: Echoes of Wisdom has leaked.\r\nIt appears a link to a rom containing the entire game has started making its way online. Nint… [+1788 chars]"
+      "author": "Michael Burkhardt",
+      "title": "These new features are coming to your iPhone in December with iOS 18.2 - 9to5Mac",
+      "description": "Apple has made a lot of promises for iOS 18, yet a good chunk of them aren’t available in the...",
+      "url": "https://9to5mac.com/ios-18-2/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iOS-18.2-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-14T16:00:00Z",
+      "content": "Apple has made a lot of promises for iOS 18, yet a good chunk of them aren’t available in the current betas of both iOS 18.0 and iOS 18.1. Since most of the promised features are coming “later this y… [+3193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "New PS5 Exclusive Game Just Released Is Free for Everyone - ComicBook.com",
+      "description": "A new PS5 game released this week is free on the PlayStation Store.",
+      "url": "https://comicbook.com/gaming/news/ps5-playstation-5-free-game-exclusive-undefeated/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/2024/09/14/27dbfbfa-9ff7-4755-910f-7256f13e4c2c/ps5-logo.png?width=1200",
+      "publishedAt": "2024-09-14T15:56:00Z",
+      "content": "A new PS5 game just released this week is free for everyone who owns the Sony console. As PlayStation fans will know, PS5 free games are not very common. Even in the age of free-to-play, live-service… [+2093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Hassan Mujtaba",
+      "title": "Intel Core Ultra 5 245K “Arrow Lake” 14 Core CPU Benchmarked, 6% Faster Than 14600K, Runs Cool & Consumes Up To 160W - Wccftech",
+      "description": "Latest benchmarks of Intel Core Ultra 5 245K Arrow Lake Desktop CPU have leaked, showcasing a nominal performance increase over the 14600K.",
+      "url": "https://wccftech.com/intel-core-ultra-5-245k-arrow-lake-14-core-cpu-benchmarked-faster-14600k-runs-cool-160w/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/08/Intel-Core-Ultra-5-245K-Arrow-Lake-Desktop-CPU-Main.jpg",
+      "publishedAt": "2024-09-14T15:15:00Z",
+      "content": "The latest benchmarks of Intel's Core Ultra 5 245K \"Arrow Lake\" Desktop CPU have leaked out showcasing a nominal performance increase over the 14600K.\r\nIntel's Core Ultra 5 245K \"Arrow Lake\" CPU Feat… [+4757 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Samsung’s massive OLED monitor is on sale with a free 24-inch display thrown in - The Verge",
+      "description": "The Samsung Odyssey OLED G9 ultrawide gaming monitor is on sale with a whole second 24-inch monitor as a free gift. This might be the most “Samsung” deal ever.",
+      "url": "https://www.theverge.com/2024/9/14/24243769/samsung-g9-odyssey-oled-gaming-monitor-god-of-war-ragnarok-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SwcC3EUYhS7CvzpU-j6ilklwVsI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24328229/g95schero.jpg",
+      "publishedAt": "2024-09-14T15:06:12Z",
+      "content": "Samsungs massive OLED monitor is on sale with a free 24-inch display thrown in\r\nSamsungs massive OLED monitor is on sale with a free 24-inch display thrown in\r\n / Its a very Saturday Samsung kind of … [+2920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Gina Carey",
+      "title": "Latest Beauty Trend: The 'Morning Shed' - Newser",
+      "description": "Critics warn the extensive beauty routine on TikTok might cause skin problems",
+      "url": "https://www.newser.com/story/356136/breakout-tiktok-skin-trend-may-cause-breakouts.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1559163-12-20240914102317.jpeg",
+      "publishedAt": "2024-09-14T15:00:00Z",
+      "content": "Yet another TikTok beauty trend has gone viral, and with that inevitably comes the commentary. This one involves an overnight hair and skin care routine dubbed the \"morning shed\" that Vogue writer Sa… [+1567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "iPhone 16’s A18 Pro chip outperforms the M1 chip in new benchmarks [Updated] - 9to5Mac",
+      "description": "We got our first look at a Geekbench result from the iPhone 16 earlier this week, with somewhat disappointing results....",
+      "url": "https://9to5mac.com/2024/09/14/iphone-16-pro-m1/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/geekbench-a18-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-14T14:55:00Z",
+      "content": "We got our first look at a Geekbench result from the iPhone 16 earlier this week, with somewhat disappointing results. There was a decent improvement in single core performance, but the multi-core sc… [+2210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Firearms Expert Reacts To Warhammer 40K: Space Marine 2's Guns - GameSpot",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/",
+      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "publishedAt": "2024-09-14T14:00:31Z",
+      "content": null
     }
   ]
 }
