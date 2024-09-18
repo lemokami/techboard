@@ -1,84 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 64,
+  "totalResults": 66,
   "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "iOS 18 brings RCS to major carrier iPhones, but prepaid plans are still waiting - Ars Technica",
+      "description": "A future iOS update may be needed to unlock better Apple-to-Android messages.",
+      "url": "https://arstechnica.com/gadgets/2024/09/ios-18-brings-rcs-to-major-carrier-iphones-but-prepaid-plans-are-still-waiting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2055623763-760x380.jpg",
+      "publishedAt": "2024-09-16T19:57:35Z",
+      "content": "Enlarge/ Illustration of a person who refuses to check their iPhone's messages until RCS is enabled on their MVNO carrier, out of respect for their Android-toting friends and family.\r\n13\r\nThe future … [+4442 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Kat Bailey",
+      "title": "Exclusive: Vince Zampella Confirms Next Battlefield Will Use Modern Setting, First Concept Art Revealed - IGN",
+      "description": "In an exclusive interview with IGN, Head of Respawn & Group GM for EA Studios Organization Vince Zampella sat down to talk about Battlefield's return to a modern setting while revealing its first concept art.",
+      "url": "https://www.ign.com/articles/exclusive-first-battlefield-concept-art-revealed-vince-zampella",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/16/battlefield-concept-art-1726502144551.png?width=1280",
+      "publishedAt": "2024-09-16T19:02:11Z",
+      "content": "Ahead of its Investor Day on September 17, EA revealed fresh details on its untitled Battlefield game alongside its first officially concept art, which IGN can exclusively reveal for the first time. … [+8397 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Kat Bailey",
+      "title": "Vince Zampella Defends the PS5 Pro Price And 'We'll See' What It Means for Battlefield - IGN",
+      "description": "In an exclusive interview with IGN, Head of Respawn & Group GM for EA Studios Organization Vince Zampella defended the price of the PS5 Pro while taking a wait and see approach to what it might mean for Battlefield.",
+      "url": "https://www.ign.com/articles/vince-zampella-defends-the-ps5-pro-price-battlefield",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/16/battlefield-blogroll-1726510385957.jpg?width=1280",
+      "publishedAt": "2024-09-16T19:02:11Z",
+      "content": "Sony caused a stir when it revealed the PlayStation 5 Pro last week, with many fans wondering whether a mid-gen upgrade is worth a cool $700. One big question the PS5 Pro is facing is what it'll mean… [+3458 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Michael Burkhardt",
-      "title": "Kuo: iPhone 16 Pro demand lower than expected, iPhone 16 Plus pre-orders up 48% - 9to5Mac",
-      "description": "According to new pre-order analysis from Ming Chi-Kuo, Apple is facing less demand for iPhone 16 Pro and iPhone 16...",
-      "url": "https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone16pro-desert-titanium.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-15T20:59:00Z",
-      "content": "According to new pre-order analysis from Ming Chi-Kuo, Apple is facing less demand for iPhone 16 Pro and iPhone 16 Pro Max than expected. iPhone 16 and iPhone 16 Plus have had more sales compared to … [+1549 chars]"
+      "author": "Zac Hall",
+      "title": "AirPods are having their Apple Watch moment - 9to5Mac",
+      "description": "Some seriously impressive new health-related features are coming to AirPods Pro 2. The customer reach of these features will be...",
+      "url": "https://9to5mac.com/2024/09/16/airpods-health/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/AirPods-Pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-16T18:52:00Z",
+      "content": "Some seriously impressive new health-related features are coming to AirPods Pro 2. The customer reach of these features will be especially great for the same reason Apple Watch impacts so many lives.… [+1671 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Detroit Free Press"
       },
-      "author": null,
-      "title": "Best Case of 2024 So Far: Antec Flux Pro Review & Benchmarks - Gamers Nexus",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-09-15T20:25:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Original ‘Flappy Bird’ Creator Surfaces To Disown Its Crypto Zombie Resurrection - Forbes",
-      "description": "Dong Nguyen has returned to Twitter to disown the upcoming, resurrected version of Flappy Bird that is acting like it was transferred from him",
-      "url": "https://www.forbes.com/sites/paultassi/2024/09/15/original-flappy-bird-creator-surfaces-to-disown-its-crypto-zombie-resurrection/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e725ba7f110f2ac8c1ceb6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-15T18:27:15Z",
-      "content": "Flappy Bird\r\nDong Nguyen\r\nOne of the most memorable stories in my last decade of covering gaming was when Flappy Bird creator, Dong Nguyen, announced one day that he was deleting the game entirely. T… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mtgrocks.com"
-      },
-      "author": "Zachary Fink",
-      "title": "MTG Best Duskmourn Commander Cards - MTG Rocks",
-      "description": "There is a boatload of incredible Duksmourn cards that should see ample EDH play. Here are the MTG best Duskmourn Commander cards.",
-      "url": "https://mtgrocks.com/mtg-best-duskmourn-commander-cards/",
-      "urlToImage": "https://mtgrocks.com/wp-content/uploads/2024/09/kona-rescue-beastie-art.jpg",
-      "publishedAt": "2024-09-15T18:08:18Z",
-      "content": "Duskmourn spoiler season has finally concluded, and there are a ton of powerful cards available, especially for Commander. From amazing combo engines to elite ways to cheat huge bombs into play on th… [+7086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Latest Galaxy S25 Ultra render leak compares it to the Galaxy S24 Ultra - Android Authority",
-      "description": "A newly leaked render of the Galaxy S25 Ultra showcases how it differs from the Galaxy S24 Ultra's design.",
-      "url": "https://www.androidauthority.com/galaxy-s25-ultra-render-comparison-3481903/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-1-1.jpg",
-      "publishedAt": "2024-09-15T17:38:33Z",
-      "content": "<ul><li>A fresh render of the Galaxy S25 Ultra shows off the difference between it and the S24 Ultra.</li><li>Its said Samsung will tweak the metal frame to be thinner and lighter with rounded corner… [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "author": "Justin Kahn",
-      "title": "Cutout or conductive crystal? What you need to know about iPhone 16 cases with proper Camera Control buttons - 9to5Toys",
-      "description": "Here is what you need to know about the new iPhone 16 cases with a proper conductive crystal Camera Control button.",
-      "url": "http://9to5toys.com/2024/09/15/iphone-16-cases-camera-control-button/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/09/Camera-Control-iPhone-16-cases-01.jpg?resize=1200%2C628&ssl=1",
-      "publishedAt": "2024-09-15T17:15:00Z",
-      "content": "There is one major distinction in the iPhone case market this year for the launch of Apples series 16 handsets, Camera Control. With the introduction of the new multi-gesture Camera Control button, c… [+6197 chars]"
+      "author": "Adrienne Roberts",
+      "title": "New Mustang GTD is 'fastest, most powerful' in Mustang history, Ford says - Detroit Free Press",
+      "description": "Ford said the 2025 Mustang GTD \"sets a new performance bar\" with 815 horsepower. First round of applications to buy is already closed.",
+      "url": "https://www.freep.com/story/money/cars/ford/2024/09/16/ford-2025-mustang-gtd-horsepower/75250616007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2024/09/16/PDTF/75251405007-2025-mustang-gtd-1.jpg?crop=6083,3423,x0,y316&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-09-16T18:51:25Z",
+      "content": "Ford Motor Co. said Monday its new 2025 Mustang GTD \"sets a new performance bar\" with 815 horsepower, 664 pound-feet of torque and a top speed of 202 mph, the most of any street-legal Mustang ever.\r\n… [+1502 chars]"
     },
     {
       "source": {
@@ -86,64 +73,129 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "iOS 18 Available Tomorrow With These 8 New Features For Your iPhone - MacRumors",
-      "description": "Following over three months of beta testing, iOS 18 will finally be widely released to the public this Monday, September 16. The update should be...",
-      "url": "https://www.macrumors.com/2024/09/15/ios-18-available-tomorrow/",
-      "urlToImage": "https://images.macrumors.com/t/I00FSkiBU64SDTMfRlzvINueoe0=/2500x/article-new/2024/06/Generic-iOS-18-Feature-Real-Mock.jpg",
-      "publishedAt": "2024-09-15T17:09:48Z",
-      "content": "Following over three months of beta testing, iOS 18 will finally be widely released to the public this Monday, September 16. The update should be available to install tomorrow starting at around 10 a… [+2684 chars]"
+      "title": "Apple Leaks New Mac Mini With 5 USB-C Ports - MacRumors",
+      "description": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was...",
+      "url": "https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/",
+      "urlToImage": "https://images.macrumors.com/t/9tyzQZqo7v7TK2Atl8AjOMPjqRw=/2500x/article-new/2024/08/M4-Mac-mini-Black-Ortho-Cooler.jpg",
+      "publishedAt": "2024-09-16T18:40:49Z",
+      "content": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was discovered today by MacRumors contributor Aaron Perris… [+1137 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gamingonlinux.com"
+        "name": "[Removed]"
       },
-      "author": "Liam Dawe",
-      "title": "Microsoft Windows kernel changes don't suddenly mean big things for Linux gaming - GamingOnLinux",
-      "description": "There's a lot of blog posts and news articles being written right now centred around Microsoft's plans for updates to Windows 11, and potential kernel changes, with some thinking this means big things for Linux gaming.",
-      "url": "https://www.gamingonlinux.com/2024/09/microsoft-windows-kernel-changes-dont-suddenly-mean-big-things-for-linux-gaming/.",
-      "urlToImage": "https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png",
-      "publishedAt": "2024-09-15T16:43:13Z",
-      "content": "There's a lot of blog posts and news articles being written right now centred around Microsoft's plans for updates to Windows 11, and potential kernel changes, with some thinking this means big thing… [+3774 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T18:21:03Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "PsyPost"
+        "name": "WLWT Cincinnati"
       },
-      "author": "Vladimir Hedrih",
-      "title": "Mindfulness-based programs can lead to altered states of consciousness up to a year later, study finds - PsyPost",
-      "description": "New research reveals surprising and lasting effects of mindfulness-based programs, challenging conventional views on how these practices influence our perception of self and reality.",
-      "url": "https://www.psypost.org/mindfulness-based-programs-can-lead-to-altered-states-of-consciousness-up-to-a-year-later-study-finds/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/09/young-woman-meditating.jpg",
-      "publishedAt": "2024-09-15T16:01:21Z",
-      "content": "A recent study examined the effects of mindfulness-based programs on individuals with severe mental illness. It found that participants who underwent these programs were more likely to experience spi… [+6328 chars]"
+      "author": "Eric Jones",
+      "title": "Remember this? Quirky ‘80s tech included interactive video games and talking teddy bear phones - WLWT Cincinnati",
+      "description": "Video games, knitting with a computer and talking teddy bear phones? The '80s had it all!",
+      "url": "https://www.wlwt.com/article/retro-find-1987-cutting-edge-tech/62226002",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/retrotech-thumb-66e853430fac1.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2024-09-16T18:21:00Z",
+      "content": "Video games made a massive comeback in the mid-1980s after nearly disappearing from the market.\r\nNintendo released an interactive exercise mat that let players hop and duck through on-screen obstacle… [+439 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "[Removed]"
       },
-      "author": "Kyle Wiggers",
-      "title": "DryMerge promises to connect apps that normally don't talk to each other — and when it works, it's great - TechCrunch",
-      "description": "DryMerge, a Y Combinator-backed startup, is building a platform that taps AI to generate automation workflows across different apps.",
-      "url": "https://techcrunch.com/2024/09/15/drymerge-promises-to-connect-apps-that-normally-dont-talk-to-each-other-and-when-it-works-its-great/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2067248129.jpg?resize=1200,800",
-      "publishedAt": "2024-09-15T16:00:00Z",
-      "content": "Platforms to connect apps that wouldn’t normally talk to each other have been around for a minute (see: Zapier). But they have not gotten dramatically simpler to use if you’re nontechnical. Generativ… [+5755 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T17:20:23Z",
+      "content": "[Removed]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Toussaint Egan, Polygon Staff",
-      "title": "The best games under five hours long - Polygon",
-      "description": "Your time is limited and your options are limitless. Here are the best short games you can play in one sitting this weekend.",
-      "url": "https://www.polygon.com/what-to-play/450384/best-short-games-nintendo-switch-windows-pc",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/screen1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2024-09-15T15:00:00Z",
-      "content": "Where to play: Mac, Windows PC\r\nIf you really want a short game, how about an epic, multilayered spy caper packed into 15 minutes? This is the stunning achievement of Brendon Chungs 2012 miniature ma… [+843 chars]"
+      "author": "Andrew Liszewski",
+      "title": "watchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2 - The Verge",
+      "description": "The latest Apple Watch update will finally let athletes take a rest without breaking a streak and can alert users when a bad night’s sleep is a sign of something more serious.",
+      "url": "https://www.theverge.com/2024/9/16/24246171/apple-watchos-11-watch-sleep-apnea-smartwatch-launch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SLwRmeWAiFPBrus9Ul_oJUxxzdY=/0x0:2040x1360/1200x628/filters:focal(1132x709:1133x710)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531348/watchos11face.jpg",
+      "publishedAt": "2024-09-16T17:05:01Z",
+      "content": "watchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2\r\nwatchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2\r\n / The latest Apple Watch upd… [+2811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Apple Newsroom"
+      },
+      "author": null,
+      "title": "macOS Sequoia is available today - Apple",
+      "description": "macOS Sequoia, the latest version of the world’s most advanced desktop operating system, is available today as a free software update for Mac.",
+      "url": "https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2024/09/macos-sequoia-is-available-today/tile/Apple-macOS-Sequoia-hero-lp.jpg.og.jpg?202409162044",
+      "publishedAt": "2024-09-16T17:03:59Z",
+      "content": "September 16, 2024\r\nUPDATE\r\nmacOS Sequoia is available today, bringing iPhone Mirroring, Apple Intelligence, and more to Mac\r\nmacOS Sequoia, the latest version of the worlds most advanced desktop ope… [+7066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Deborah Mary Sophia",
+      "title": "Apple shares slip as shorter iPhone 16 shipping times signal soft demand - Yahoo Finance",
+      "description": "Shares of Apple fell nearly 3% on Monday after some analysts said delivery times for the new iPhone 16 Pro models indicated weaker-than-expected demand...",
+      "url": "https://finance.yahoo.com/news/apple-shares-slip-shorter-iphone-153432774.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-09-16T16:42:29Z",
+      "content": "By Deborah Mary Sophia\r\n(Reuters) - Shares of Apple fell nearly 3% on Monday after some analysts said delivery times for the new iPhone 16 Pro models indicated weaker-than-expected demand, possibly d… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile - Samsung news",
+      "title": "Rollable Samsung phone with massive screen reportedly coming in 2025 - SamMobile - Samsung news",
+      "description": null,
+      "url": "https://www.sammobile.com/news/samsungs-rollable-phone-massive-screen-arriving-2025/",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T16:33:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith, Chris Smith",
+      "title": "The people who ruined the iPhone in Europe will no longer be in office - BGR",
+      "description": "Thierry Breton resigned from the European Commission. He spearheaded the main anti-Big Tech laws in Europe, which ruined the iPhone for me.",
+      "url": "https://bgr.com/tech/the-people-who-ruined-the-iphone-in-europe-will-no-longer-be-in-office/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2023/09/iPhone-15-3.jpg?quality=82&strip=all",
+      "publishedAt": "2024-09-16T16:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
+      },
+      "author": null,
+      "title": "Sources: Bungie’s Marathon Appears To Be Targeting $40 Launch Price - TheGamePost",
+      "description": "Multiple sources tell The Game Post that Bungie is considering a $40 launch price for Marathon, its upcoming PvP extraction shooter.",
+      "url": "https://thegamepost.com/bungie-marathon-targeting-40-launch-price/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/09/bungie-marathon-price-1.webp",
+      "publishedAt": "2024-09-16T16:01:48Z",
+      "content": "Multiple sources tell The Game Post that Bungie is considering a $40 launch price for Marathon, its upcoming PvP extraction shooter.\r\nIt’s been well over a year since Bungie announced its first non-D… [+3140 chars]"
     },
     {
       "source": {
@@ -151,116 +203,64 @@
         "name": "Kotaku"
       },
       "author": "Moises Taveras",
-      "title": "No Amount Of Non-Astro Bot News From Sony Can Keep Us From Talking About This Delightful Game - Kotaku",
-      "description": "Flopping shooters and soaring console prices be damned—there is nothing more important to us than Astro Bot",
-      "url": "https://kotaku.com/astro-bot-sony-concord-ps5-pro-1851648360",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7fcb852134df20d90052babc71205d5b.jpg",
-      "publishedAt": "2024-09-15T15:00:00Z",
-      "content": "Amid Concords demise and a somewhat divisive PS5 Pro announcement, Astro Bot brought us some joy during an otherwise super serious month for Sony. The adorable 3D platformer is filled to the brim wit… [+628 chars]"
+      "title": "Marvel Vs. Capcom Fighting Collection: Arcade Classics , As Told By Steam Reviews - Kotaku",
+      "description": "Fans of these games are overjoyed to have them back, when they aren't being plagued by technical issues and a certain legendary fighting game player",
+      "url": "https://kotaku.com/marvel-vs-capcom-collection-steam-reviews-1851649035",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfb6fc939e02565b12eec5cb8238563f.jpg",
+      "publishedAt": "2024-09-16T15:55:00Z",
+      "content": "Last week, Capcom released its latest compilation of retro arcade games to massive acclaim. Marvel Vs. Capcom Fighting Collection: Arcade Classics features seven legendary titles, including a stunnin… [+2937 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Justin 'AdaptiveTrigger' Gordon",
-      "title": "Maximilian Dood appeared on CNN to talk about the release of Marvel vs. Capcom Fighting Collection: Arcade Classics - EventHubs",
-      "description": "The digital version of Marvel vs. Capcom Fighting Collection: Arcade Classics was recently released for the PlayStation 4, Nintendo Switch, and PC. Xbox fans still have to wait until 2025 until the collection is released for the Xbox One.While ...",
-      "url": "https://www.eventhubs.com/news/2024/sep/15/maximilian-dood-cnn-mvc-collection/",
-      "urlToImage": "https://media.eventhubs.com/images/2024/09/15_max-mvc-cnn-bnrt.webp",
-      "publishedAt": "2024-09-15T14:47:12Z",
-      "content": "The digital version of Marvel vs. Capcom Fighting Collection: Arcade Classics was recently released for the PlayStation 4, Nintendo Switch, and PC. Xbox fans still have to wait until 2025 until the c… [+1825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Britt Ross",
-      "title": "The best Amazon deals to shop this weekend include an Apple Macbook at an all-time low price - Yahoo Life",
-      "description": "Score big markdowns on Yankee Candle, a Ring video doorbell, fall fashion, Halloween decor and home goods galore.",
-      "url": "https://www.yahoo.com/lifestyle/the-best-amazon-deals-to-shop-this-weekend-include-an-apple-macbook-at-an-all-time-low-price-ahead-of-prime-day-163226311.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kyzlBdhQIbAmkZ2CXSyf0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/2571ff70-71d7-11ef-9eff-f6bb4c3170d8",
-      "publishedAt": "2024-09-15T14:31:45Z",
-      "content": "Don't you grow weary of e-commerce shopping sites trying to cajole you with come-ons, loosen you up with levity and snare you with snark, all in the hope of getting you to buy a bunch of stuff you re… [+1370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DSOGaming"
-      },
-      "author": "John Papadopoulos",
-      "title": "New Assassin's Creed Shadows video shows off destruction, lighting, weather and environments - DSOGaming",
-      "description": "Assassin JorRaptor shared a video that shows off the environmental destruction, lighting, weather, and world of Assassin's Creed Shadows.",
-      "url": "https://www.dsogaming.com/videotrailer-news/new-assassins-creed-shadows-video-shows-off-destruction-lighting-weather-and-environments/",
-      "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2024/05/Assassins-Creed-Shadows-first-screenshots-2.jpg",
-      "publishedAt": "2024-09-15T14:09:29Z",
-      "content": "YouTube’s ‘Assassin JorRaptor’ has shared a video that shows off the environmental destruction, lighting, weather, and world of Assassin’s Creed Shadows. This video will give you a pretty good idea o… [+2248 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Companies Like to Pit Internal Teams Against Each Other. Bad Idea. - The Wall Street Journal",
-      "description": "Research suggests that when employees compete, they become less innovative, because they don’t want to share ideas with their rivals",
-      "url": "https://www.wsj.com/lifestyle/workplace/competition-companies-employees-9099a425",
-      "urlToImage": "https://images.wsj.net/im-67056782/social",
-      "publishedAt": "2024-09-15T14:00:00Z",
-      "content": "Many organizations encourage competition between internal teams, believing it will spark innovation and drive performance. The trouble is, what actually happens is the opposite: Internal competition … [+356 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "The great Evernote reboot - The Verge",
-      "description": "Evernote was once one of the best and most popular productivity tools. On this episode of The Vergecast, a conversation with Bending Spoons about getting that back.",
-      "url": "https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TSv6iVlcaCVcydavh-ueAwX3XSk=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25617276/The_Vergecast_quest_for_the_perfect_productivity_app_3000x2000px.jpg",
-      "publishedAt": "2024-09-15T14:00:00Z",
-      "content": "The great Evernote reboot\r\nThe great Evernote reboot\r\n / On The Vergecast: what happened to a once mega-popular productivity app, and where its headed now.\r\nByDavid Pierce, editor-at-large and Vergec… [+2388 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company - TechCrunch",
-      "description": "When he's not working on building large language models for enterprise customers, Nick Frosst is the frontman of indie rock band Good Kid.",
-      "url": "https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2165331996.jpg?w=1024",
-      "publishedAt": "2024-09-15T13:00:00Z",
-      "content": "Nick Frosst, the co-founder of $5.5 billion Canadian AI startup Cohere, has been a musician his whole life. He told TechCrunch that once he started singing, he never shut up. Thats still true today. … [+3902 chars]"
+      "title": "Microsoft 365 Copilot: Wave 2 | Microsoft September 2024 Event - Microsoft",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/",
+      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "publishedAt": "2024-09-16T15:30:10Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Gematsu"
       },
-      "author": "Janhoi McGregor",
-      "title": "Apple Shows Why You Should Sell Your iPhone 14 Pro Max - Forbes",
-      "description": "The iPhone 14 could lose a lot of value in the next few weeks.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2024/09/15/why-you-should-sell-your-apple-iphone-14-iphone-16-trade-in/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e6a8c4abd0931571235a74/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-15T12:59:29Z",
-      "content": "The Apple iPhone 14 Pro on sale at the company's Fifth Avenue store in New York, US, on Friday, ... [+] Sept. 16, 2022. The latest iPhone hits stores Friday, and Apple Inc. is counting on well-heeled… [+3742 chars]"
+      "author": "Sal Romano",
+      "title": "Starfield DLC ‘Shattered Space’ – ‘Deep Dive’ trailer - Gematsu",
+      "description": "Publisher Bethesda Softworks and developer Bethesda Game Studios have released a deep dive trailer for Starfield downloadable content “Shattered Space.”",
+      "url": "https://www.gematsu.com/2024/09/starfield-dlc-shattered-space-deep-dive-trailer",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/09/Starfield-PV_09-16-24.jpg",
+      "publishedAt": "2024-09-16T15:24:52Z",
+      "content": "In “Shattered Space,” Starfield‘s first major expansion, players will visit the homeworld of House Va’ruun for the first time. Explore a fully handcrafted new location and unravel the mysteries surro… [+925 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "MacRumors"
       },
-      "author": "Janhoi McGregor",
-      "title": "Samsung Drops Galaxy S24, Galaxy Watch And Galaxy Z Fold 6 Prices In New Promotion - Forbes",
-      "description": "Samsung is challenging Apple's iPhone 16 with new limited-time sale.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2024/09/15/new-samsung-sale-galaxy-s24-galaxy-watch-7-galaxy-z-fold-6/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e6b180e3c25228c48ab1e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-15T12:57:27Z",
-      "content": "Granada, Andalusia, Spain, 24th January 2024: New Samsung S24, Ultra smartphone in its box. Detail ... [+] of the cameras. Illustrative editorial photography.\r\ngetty\r\nNot to be outdone by Apples pre-… [+2672 chars]"
+      "author": "Joe Rossignol",
+      "title": "Apple Sports App Updated With Live Scores on iPhone's Lock Screen and More New Features - MacRumors",
+      "description": "Apple today updated its free Sports app for the iPhone with several new features and changes, including Live Activities support.   The latest version...",
+      "url": "https://www.macrumors.com/2024/09/16/apple-sports-app-live-activities/",
+      "urlToImage": "https://images.macrumors.com/t/Qmi7vj7b4nhjaDsZT1iXC9Udznw=/2322x/article-new/2024/08/Apple-Sports-to-Offer-Live-Activities-for-All-Leagues-Available-Within-App-Feature.jpg",
+      "publishedAt": "2024-09-16T15:22:09Z",
+      "content": "Apple today updated its free Sports app for the iPhone with several new features and changes, including Live Activities support.\r\nThe latest version of the Apple Sports app on iOS 18 and watchOS 11 i… [+1233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T15:15:49Z",
+      "content": "[Removed]"
     }
   ]
 }
