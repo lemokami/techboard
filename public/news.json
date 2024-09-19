@@ -1,214 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 34,
   "articles": [
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kevin Purdy",
-      "title": "iOS 18 brings RCS to major carrier iPhones, but prepaid plans are still waiting - Ars Technica",
-      "description": "A future iOS update may be needed to unlock better Apple-to-Android messages.",
-      "url": "https://arstechnica.com/gadgets/2024/09/ios-18-brings-rcs-to-major-carrier-iphones-but-prepaid-plans-are-still-waiting/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2055623763-760x380.jpg",
-      "publishedAt": "2024-09-16T19:57:35Z",
-      "content": "Enlarge/ Illustration of a person who refuses to check their iPhone's messages until RCS is enabled on their MVNO carrier, out of respect for their Android-toting friends and family.\r\n13\r\nThe future … [+4442 chars]"
+      "author": "Andrew Cunningham",
+      "title": "Apple pauses iPadOS 18 rollout for M4 iPad Pro after bricking complaints - Ars Technica",
+      "description": "Apple's servers have stopped signing the 18.0 update for M4 iPad Pros for now.",
+      "url": "https://arstechnica.com/gadgets/2024/09/apple-pauses-ipados-18-rollout-for-m4-ipad-pro-after-bricking-complaints/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/apple-ipados-18-760x380.jpeg",
+      "publishedAt": "2024-09-17T22:18:21Z",
+      "content": "Enlarge/ iPads running iPadOS 18.\r\n20\r\nApple has temporarily paused the rollout of the iPadOS 18 update for M4 iPad Pros. The company has stopped signing the update for these iPads, meaning it will n… [+1776 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Kat Bailey",
-      "title": "Exclusive: Vince Zampella Confirms Next Battlefield Will Use Modern Setting, First Concept Art Revealed - IGN",
-      "description": "In an exclusive interview with IGN, Head of Respawn & Group GM for EA Studios Organization Vince Zampella sat down to talk about Battlefield's return to a modern setting while revealing its first concept art.",
-      "url": "https://www.ign.com/articles/exclusive-first-battlefield-concept-art-revealed-vince-zampella",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/16/battlefield-concept-art-1726502144551.png?width=1280",
-      "publishedAt": "2024-09-16T19:02:11Z",
-      "content": "Ahead of its Investor Day on September 17, EA revealed fresh details on its untitled Battlefield game alongside its first officially concept art, which IGN can exclusively reveal for the first time. … [+8397 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kat Bailey",
-      "title": "Vince Zampella Defends the PS5 Pro Price And 'We'll See' What It Means for Battlefield - IGN",
-      "description": "In an exclusive interview with IGN, Head of Respawn & Group GM for EA Studios Organization Vince Zampella defended the price of the PS5 Pro while taking a wait and see approach to what it might mean for Battlefield.",
-      "url": "https://www.ign.com/articles/vince-zampella-defends-the-ps5-pro-price-battlefield",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/16/battlefield-blogroll-1726510385957.jpg?width=1280",
-      "publishedAt": "2024-09-16T19:02:11Z",
-      "content": "Sony caused a stir when it revealed the PlayStation 5 Pro last week, with many fans wondering whether a mid-gen upgrade is worth a cool $700. One big question the PS5 Pro is facing is what it'll mean… [+3458 chars]"
+      "author": "Ewan Spence",
+      "title": "Apple Forced Into Drastic iPhone 16 Pro Downgrade - Forbes",
+      "description": "Apple is removing a key piece of software from some iPhone 16 and iPhone 16 Pro smartphones.",
+      "url": "https://www.forbes.com/sites/ewanspence/2024/09/17/apple-iphone-16-pro-apple-intelligence-european-union-dma-new-iphone/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66df81d1f5cb18a0d9162bb7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-17T19:38:58Z",
+      "content": "Update September 17 with details on iPhone 16 pre-order volume and the rollout of Apple Intelligence.\r\nThe new iPhone 16 Pro fon show in Cupertino, California,(Photo by NIC COURY/AFP via Getty Images… [+5520 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Zac Hall",
-      "title": "AirPods are having their Apple Watch moment - 9to5Mac",
-      "description": "Some seriously impressive new health-related features are coming to AirPods Pro 2. The customer reach of these features will be...",
-      "url": "https://9to5mac.com/2024/09/16/airpods-health/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/AirPods-Pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-16T18:52:00Z",
-      "content": "Some seriously impressive new health-related features are coming to AirPods Pro 2. The customer reach of these features will be especially great for the same reason Apple Watch impacts so many lives.… [+1671 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Snapchat is getting redesigned, plus new AI lens displays an old-aged you - 9to5Mac",
+      "description": "Snapchat is getting some big changes in its app, including a streamlined navigation system, plus fun new AI features.",
+      "url": "https://9to5mac.com/2024/09/17/snapchat-is-getting-redesigned-plus-an-ai-lens-to-see-an-old-aged-you/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/snapchat-ai-lens-old-age.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-17T18:08:00Z",
+      "content": "Snap announced a lot of big changes coming to the Snapchat app starting today. Theres a major app redesign rolling out, plus new AI features including a lens that shows you an old-aged version of you… [+1345 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Snap’s extremely large Spectacles bring impressive AR to developers at $99 a month - TechCrunch",
+      "description": "The Spectacles 5 are designed specifically for developers.",
+      "url": "https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1805.jpg?resize=1200,900",
+      "publishedAt": "2024-09-17T18:00:00Z",
+      "content": "Snaps new Spectacles are the next big thing in the most literal way possible. The augmented reality glasses are extremely physically large. The social media firm sees the footprint as a kind of middl… [+2416 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Detroit Free Press"
+        "name": "9to5google.com"
       },
-      "author": "Adrienne Roberts",
-      "title": "New Mustang GTD is 'fastest, most powerful' in Mustang history, Ford says - Detroit Free Press",
-      "description": "Ford said the 2025 Mustang GTD \"sets a new performance bar\" with 815 horsepower. First round of applications to buy is already closed.",
-      "url": "https://www.freep.com/story/money/cars/ford/2024/09/16/ford-2025-mustang-gtd-horsepower/75250616007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2024/09/16/PDTF/75251405007-2025-mustang-gtd-1.jpg?crop=6083,3423,x0,y316&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-09-16T18:51:25Z",
-      "content": "Ford Motor Co. said Monday its new 2025 Mustang GTD \"sets a new performance bar\" with 815 horsepower, 664 pound-feet of torque and a top speed of 202 mph, the most of any street-legal Mustang ever.\r\n… [+1502 chars]"
+      "author": "Abner Li",
+      "title": "Google working on RCS encryption between Android and iPhone - 9to5Google",
+      "description": "With RCS rolling out on the iPhone, Google is working on cross-platform end-to-end encryption (E2EE) between Android and iPhone...",
+      "url": "http://9to5google.com/2024/09/17/rcs-encryption-android-iphone-work/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/11/iphone-android-rcs-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-17T17:26:00Z",
+      "content": "With RCS rolling out on the iPhone yesterday, Google is looking ahead on new features including cross-platform end-to-end encryption (E2EE) between Android and iPhone.\r\nThe governing GSMA body says t… [+1985 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Leaks New Mac Mini With 5 USB-C Ports - MacRumors",
-      "description": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was...",
-      "url": "https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/",
-      "urlToImage": "https://images.macrumors.com/t/9tyzQZqo7v7TK2Atl8AjOMPjqRw=/2500x/article-new/2024/08/M4-Mac-mini-Black-Ortho-Cooler.jpg",
-      "publishedAt": "2024-09-16T18:40:49Z",
-      "content": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was discovered today by MacRumors contributor Aaron Perris… [+1137 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-16T18:21:03Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLWT Cincinnati"
-      },
-      "author": "Eric Jones",
-      "title": "Remember this? Quirky ‘80s tech included interactive video games and talking teddy bear phones - WLWT Cincinnati",
-      "description": "Video games, knitting with a computer and talking teddy bear phones? The '80s had it all!",
-      "url": "https://www.wlwt.com/article/retro-find-1987-cutting-edge-tech/62226002",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/retrotech-thumb-66e853430fac1.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-      "publishedAt": "2024-09-16T18:21:00Z",
-      "content": "Video games made a massive comeback in the mid-1980s after nearly disappearing from the market.\r\nNintendo released an interactive exercise mat that let players hop and duck through on-screen obstacle… [+439 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-16T17:20:23Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "watchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2 - The Verge",
-      "description": "The latest Apple Watch update will finally let athletes take a rest without breaking a streak and can alert users when a bad night’s sleep is a sign of something more serious.",
-      "url": "https://www.theverge.com/2024/9/16/24246171/apple-watchos-11-watch-sleep-apnea-smartwatch-launch",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SLwRmeWAiFPBrus9Ul_oJUxxzdY=/0x0:2040x1360/1200x628/filters:focal(1132x709:1133x710)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531348/watchos11face.jpg",
-      "publishedAt": "2024-09-16T17:05:01Z",
-      "content": "watchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2\r\nwatchOS 11 is now available with sleep apnea detection for the Series 9 and Ultra 2\r\n / The latest Apple Watch upd… [+2811 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "macOS Sequoia is available today - Apple",
-      "description": "macOS Sequoia, the latest version of the world’s most advanced desktop operating system, is available today as a free software update for Mac.",
-      "url": "https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2024/09/macos-sequoia-is-available-today/tile/Apple-macOS-Sequoia-hero-lp.jpg.og.jpg?202409162044",
-      "publishedAt": "2024-09-16T17:03:59Z",
-      "content": "September 16, 2024\r\nUPDATE\r\nmacOS Sequoia is available today, bringing iPhone Mirroring, Apple Intelligence, and more to Mac\r\nmacOS Sequoia, the latest version of the worlds most advanced desktop ope… [+7066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Deborah Mary Sophia",
-      "title": "Apple shares slip as shorter iPhone 16 shipping times signal soft demand - Yahoo Finance",
-      "description": "Shares of Apple fell nearly 3% on Monday after some analysts said delivery times for the new iPhone 16 Pro models indicated weaker-than-expected demand...",
-      "url": "https://finance.yahoo.com/news/apple-shares-slip-shorter-iphone-153432774.html/",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-      "publishedAt": "2024-09-16T16:42:29Z",
-      "content": "By Deborah Mary Sophia\r\n(Reuters) - Shares of Apple fell nearly 3% on Monday after some analysts said delivery times for the new iPhone 16 Pro models indicated weaker-than-expected demand, possibly d… [+1886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile - Samsung news",
-      "title": "Rollable Samsung phone with massive screen reportedly coming in 2025 - SamMobile - Samsung news",
-      "description": null,
-      "url": "https://www.sammobile.com/news/samsungs-rollable-phone-massive-screen-arriving-2025/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-16T16:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Chris Smith, Chris Smith",
-      "title": "The people who ruined the iPhone in Europe will no longer be in office - BGR",
-      "description": "Thierry Breton resigned from the European Commission. He spearheaded the main anti-Big Tech laws in Europe, which ruined the iPhone for me.",
-      "url": "https://bgr.com/tech/the-people-who-ruined-the-iphone-in-europe-will-no-longer-be-in-office/",
-      "urlToImage": "https://bgr.com/wp-content/uploads/2023/09/iPhone-15-3.jpg?quality=82&strip=all",
-      "publishedAt": "2024-09-16T16:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegamepost.com"
-      },
-      "author": null,
-      "title": "Sources: Bungie’s Marathon Appears To Be Targeting $40 Launch Price - TheGamePost",
-      "description": "Multiple sources tell The Game Post that Bungie is considering a $40 launch price for Marathon, its upcoming PvP extraction shooter.",
-      "url": "https://thegamepost.com/bungie-marathon-targeting-40-launch-price/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/09/bungie-marathon-price-1.webp",
-      "publishedAt": "2024-09-16T16:01:48Z",
-      "content": "Multiple sources tell The Game Post that Bungie is considering a $40 launch price for Marathon, its upcoming PvP extraction shooter.\r\nIt’s been well over a year since Bungie announced its first non-D… [+3140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Moises Taveras",
-      "title": "Marvel Vs. Capcom Fighting Collection: Arcade Classics , As Told By Steam Reviews - Kotaku",
-      "description": "Fans of these games are overjoyed to have them back, when they aren't being plagued by technical issues and a certain legendary fighting game player",
-      "url": "https://kotaku.com/marvel-vs-capcom-collection-steam-reviews-1851649035",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfb6fc939e02565b12eec5cb8238563f.jpg",
-      "publishedAt": "2024-09-16T15:55:00Z",
-      "content": "Last week, Capcom released its latest compilation of retro arcade games to massive acclaim. Marvel Vs. Capcom Fighting Collection: Arcade Classics features seven legendary titles, including a stunnin… [+2937 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Seeds Fourth Developer Betas of iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1 With Apple Intelligence - MacRumors",
+      "description": "Apple today provided developers with the fourth betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 to continue testing Apple Intelligence...",
+      "url": "https://www.macrumors.com/2024/09/17/apple-fourth-beta-ios-18-1/",
+      "urlToImage": "https://images.macrumors.com/t/ILRf-IVw2oV_1mKP95yqAgpWiB8=/2500x/article-new/2024/07/Apple-Intelligence-Feature-2.jpg",
+      "publishedAt": "2024-09-17T17:11:55Z",
+      "content": "Apple today provided developers with the fourth betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 to continue testing Apple Intelligence features. The third betas come two weeks after Apple seed… [+2017 chars]"
     },
     {
       "source": {
@@ -216,25 +86,64 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Microsoft 365 Copilot: Wave 2 | Microsoft September 2024 Event - Microsoft",
+      "title": "Frostpunk 2 - Official Launch Trailer - IGN",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "url": "https://www.youtube.com/",
       "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-09-16T15:30:10Z",
+      "publishedAt": "2024-09-17T17:00:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan Dinsdale",
+      "title": "The Pokémon Company Wins $15 Million Copyright Lawsuit Against Game That Copied Pokémon Characters - IGN",
+      "description": "The Pokémon Company has won around $15 million in a copyright lawsuit against a Chinese company that appeared to blatantly use Pokémon characters in its game.",
+      "url": "https://www.ign.com/articles/the-pokmon-company-wins-15-million-copyright-lawsuit-against-game-that-copied-pokmon-characters",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/17/screenshot-2024-09-17-152808-1726583347035.png?width=1280",
+      "publishedAt": "2024-09-17T15:34:16Z",
+      "content": "The Pokémon Company has won around $15 million in a copyright lawsuit against a Chinese company that appeared to blatantly use Pokémon characters in its game.\r\nAs reported by GamesBiz and translated … [+2432 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Gabby Landsverk",
+      "title": "A 30-year-old man built muscle and burned fat in 4 months with a time-saving workout technique - Business Insider",
+      "description": "After years of not seeing results in the gym, a busy office worker switched his workouts to full body superset for major muscle gains and fat loss.",
+      "url": "https://www.businessinsider.com/how-to-build-muscle-and-burn-fat-faster-with-supersets-2024-9",
+      "urlToImage": "https://i.insider.com/66d9eef01d8d2deb96b97687?width=1200&format=jpeg",
+      "publishedAt": "2024-09-17T15:30:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "Variety"
       },
-      "author": "Sal Romano",
-      "title": "Starfield DLC ‘Shattered Space’ – ‘Deep Dive’ trailer - Gematsu",
-      "description": "Publisher Bethesda Softworks and developer Bethesda Game Studios have released a deep dive trailer for Starfield downloadable content “Shattered Space.”",
-      "url": "https://www.gematsu.com/2024/09/starfield-dlc-shattered-space-deep-dive-trailer",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/09/Starfield-PV_09-16-24.jpg",
-      "publishedAt": "2024-09-16T15:24:52Z",
-      "content": "In “Shattered Space,” Starfield‘s first major expansion, players will visit the homeworld of House Va’ruun for the first time. Explore a fully handcrafted new location and unravel the mysteries surro… [+925 chars]"
+      "author": "Jennifer Maas",
+      "title": "No ‘The Sims 5’ Coming as EA Sets Multiplayer Expansion to Current Game, ‘Creator Kits’ to Sell User Generated Content - Variety",
+      "description": "EA's \"The Sims\" is breaking from tradition, with the gaming company confirming Tuesday that there are no plans for a \"The Sims 5\" game.",
+      "url": "https://variety.com/2024/gaming/news/the-sims-5-update-multiplayer-creator-content-ea-interview-1236142010/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/The-Sims.png?w=1000&h=563&crop=1",
+      "publishedAt": "2024-09-17T15:00:00Z",
+      "content": "Electronic Arts‘ popular free-to-play life-simulation video game franchise “The Sims” is breaking from tradition, with the gaming company confirming Tuesday that there are no plans for a “Sims 5” gam… [+18696 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "My Time at Portia Dev Announces Sequel for PC, Xbox Series X and S, PS5 and ‘Future Nintendo Platforms Yet to Be Announced’ - IGN",
+      "description": "With Nintendo fan excitement for Switch 2 reaching fever pitch, developers are starting to say they’re planning to release their upcoming games on the unannounced next-generation console.",
+      "url": "https://www.ign.com/articles/my-time-at-portia-dev-announces-sequel-for-pc-xbox-series-x-and-s-ps5-and-future-nintendo-platforms-yet-to-be-announced",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/17/my-time-main-1726583915735.png?width=1280",
+      "publishedAt": "2024-09-17T14:50:11Z",
+      "content": "With Nintendo fan excitement for Switch 2 reaching fever pitch, developers are starting to say theyre planning to release their upcoming games on the unannounced next-generation console.\r\nThe latest … [+2916 chars]"
     },
     {
       "source": {
@@ -242,25 +151,116 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "Apple Sports App Updated With Live Scores on iPhone's Lock Screen and More New Features - MacRumors",
-      "description": "Apple today updated its free Sports app for the iPhone with several new features and changes, including Live Activities support.   The latest version...",
-      "url": "https://www.macrumors.com/2024/09/16/apple-sports-app-live-activities/",
-      "urlToImage": "https://images.macrumors.com/t/Qmi7vj7b4nhjaDsZT1iXC9Udznw=/2322x/article-new/2024/08/Apple-Sports-to-Offer-Live-Activities-for-All-Leagues-Available-Within-App-Feature.jpg",
-      "publishedAt": "2024-09-16T15:22:09Z",
-      "content": "Apple today updated its free Sports app for the iPhone with several new features and changes, including Live Activities support.\r\nThe latest version of the Apple Sports app on iOS 18 and watchOS 11 i… [+1233 chars]"
+      "title": "Apple Says These tvOS 18 Features Aren't Coming Until Later This Year - MacRumors",
+      "description": "Apple released tvOS 18 on Monday following over three months of beta testing, but not all of the new features for the Apple TV are available right...",
+      "url": "https://www.macrumors.com/2024/09/17/tvos-18-features-coming-later-this-year/",
+      "urlToImage": "https://images.macrumors.com/t/KHlkYmP6tlmiIscFQx5VTRb-9t0=/2500x/article-new/2024/08/tvOS-18-Thumb-1.jpg",
+      "publishedAt": "2024-09-17T14:45:00Z",
+      "content": "Apple released tvOS 18 on Monday following over three months of beta testing, but not all of the new features for the Apple TV are available right away.\r\nIn a press release, Apple said the following … [+807 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Apple rolls out watchOS 11: New features and apps - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/09/16/apple-watch-11-features-app-updates",
+      "urlToImage": null,
+      "publishedAt": "2024-09-17T14:22:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "Apple transforms AirPods Pro 2 into low-cost hearing aids - Fox News",
+      "description": "Kurt “CyberGuy\" Knutsson: Apple’s AirPods Pro 2 will double as hearing aids via a software update.",
+      "url": "https://www.foxnews.com/tech/apple-transforms-airpods-pro-2-low-cost-hearing-aids",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/1-Apple-transforms-AirPods-Pro-2-into-low-cost-hearing-aids-intro.jpg",
+      "publishedAt": "2024-09-17T14:00:00Z",
+      "content": "Apple announced a handful of new products during its \"Its Glowtime\" event this month. While the iPhone 16 lineup grabbed most of the attention, the most intriguing announcement came from a different … [+5136 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Tech.co"
+      },
+      "author": "Katie Scott",
+      "title": "OpenAI Responds to ChatGPT ‘Coming Alive’ Fears - Tech.co",
+      "description": "OpenAI states that the signs of life shown by ChatGPT in initiating conversations is nothing more than a glitch...",
+      "url": "https://tech.co/news/chatgpt-alive-openai-respond",
+      "urlToImage": "https://images.tech.co/wp-content/uploads/2024/07/04043930/chatgpt-data-train.jpg",
+      "publishedAt": "2024-09-17T13:13:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
+      "title": "Google Nest Learning Thermostat 4th Gen Review: Whole-Home Comfort at a Steep Cost - CNET",
+      "description": "It's pretty, it's brilliant, it comes with an external temperature sensor and it costs $280. But is it really worth it?",
+      "url": "https://www.cnet.com/home/energy-and-utilities/google-nest-learning-thermostat-4th-gen-review/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dd99ebe25c8d877dd8efa89da80470afa60deee6/hub/2024/09/13/1bf59afa-60d9-4005-b2b9-23675567cffb/nest-learning-thermostat-4th-gen.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-17T13:00:00Z",
+      "content": "When my colleague Tyler Graham got a first look at Google's 4th Gen Nest Learning Thermostat and told me Google hoped consumers would see it as a piece of art, I was skeptical. It's a thermostat. How… [+8866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PlayStation LifeStyle"
+      },
+      "author": "PlayStation LifeStyle",
+      "title": "New Xbox Layoffs Blasted by Union That Supported Activision Deal - PlayStation LifeStyle",
+      "description": null,
+      "url": "https://www.playstationlifestyle.net/2024/09/17/xbox-layoffs-blasted-by-union-in-favor-of-activision-deal/",
       "urlToImage": null,
-      "publishedAt": "2024-09-16T15:15:49Z",
-      "content": "[Removed]"
+      "publishedAt": "2024-09-17T12:37:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zak Doffman",
+      "title": "New Microsoft Windows Deadline—You Have 3 Weeks To Update Your PC - Forbes",
+      "description": "Microsoft’s last update had a nasty sting in the tail, triggering a new government warning.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2024/09/17/microsoft-warning-21-days-to-update-or-stop-using-windows/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66cd8ee9b5b1fd02b236a1b3/0x0.jpg?format=jpg&crop=905,616,x1299,y402,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-17T12:30:00Z",
+      "content": "Microsofts urgent update warning comes in two parts.\r\nSOPA Images/LightRocket via Getty Images\r\nA nasty new surprise from Microsoft has just provided a sting in the tail to last weeks Patch Tuesday. … [+4341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Random: Limited Run CEO Visits Nintendo, Acknowledges \"Great\" Partnership - Nintendo Life",
+      "description": "He also met up with Howard Lincoln",
+      "url": "https://www.nintendolife.com/news/2024/09/random-limited-run-ceo-visits-nintendo-acknowledges-great-partnership",
+      "urlToImage": "https://images.nintendolife.com/9db3cd5953f92/1280x720.jpg",
+      "publishedAt": "2024-09-17T12:27:38Z",
+      "content": "Image: Nintendo Life\r\nLimited Run Games has published multiple high-profile titles during the Switch's lifecycle, and while we don't know what the future holds for the physical distributor ahead of t… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Inside the Apple Watch Series 10's New Sleep Apnea Detection Feature - CNET",
+      "description": "CNET spoke with Apple's Deidre Caldbeck and Matt Bianchi about the Apple Watch's newest health tracking feature, which took 11,000-plus nights to perfect.",
+      "url": "https://www.cnet.com/tech/mobile/inside-the-apple-watch-series-10s-new-sleep-apnea-detection-feature/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c25440fdd96127c52c4a75a77298068abf061fe1/hub/2024/09/12/03598be9-eb1d-40b9-a245-9b3fa16845c3/apple-watch-series-10-3988.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-17T12:00:00Z",
+      "content": "Learning whether you have a sleep disorder like sleep apnea typically requires what many would likely consider to be an uncomfortable night's rest, with sensors placed all over your body and even ins… [+9645 chars]"
     }
   ]
 }
