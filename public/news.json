@@ -1,71 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Andrew Cunningham",
-      "title": "Microsoft releases a new Windows app called Windows App for running Windows apps - Ars Technica",
-      "description": "Windows App replaces Microsoft Remote Desktop on macOS, iOS, and Android.",
-      "url": "https://arstechnica.com/gadgets/2024/09/microsoft-releases-a-new-windows-app-called-windows-app-for-running-windows-apps/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/windows-app-2-760x380.jpeg",
-      "publishedAt": "2024-09-19T22:03:33Z",
-      "content": "Enlarge/ The Windows App runs on Windows, but also macOS, iOS/iPadOS, web browsers, and Android.\r\n24\r\nMicrosoft announced today that it's releasing a new app called Windows App as an app for Windows … [+2251 chars]"
+      "author": "Rebekah Valentine",
+      "title": "Inside Annapurna Interactive's Mass Walkout: Internal Politics, the Surprise Remedy Deal, and Why It All Happened - IGN",
+      "description": "Earlier this month, the entire staff of Annapurna Interactive walked out the door in a group resignation. But while some of the circumstances around their departure emerged in the reporting, one pressing question was left unanswered: why? IGN has pieced toget…",
+      "url": "https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/18/annapurnainteractive-blogroll-1726693324101.jpg?width=1280",
+      "publishedAt": "2024-09-20T21:02:02Z",
+      "content": "Last week, Bloomberg reported that 25 people comprising the entire staff of Annapurna Interactive walked out the door in a group resignation. But while some of the circumstances around their departur… [+14003 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Ryan Christoffel",
-      "title": "October will be big for Apple products, here’s what’s coming next - 9to5Mac",
-      "description": "Apple has had a big September, but there’s a lot more coming in October. Here are the product launches coming next month.",
-      "url": "https://9to5mac.com/2024/09/19/october-will-be-big-for-apple-heres-whats-coming-next/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/iPhone-15-event-date.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-19T20:35:00Z",
-      "content": "September is always Apples most packed month for product launches. This year, the iPhone 16 and 16 Pro, Apple Watch Series 10, and AirPods 4 were joined by key software updates like iOS 18, macOS Seq… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Benjamin Mayo",
-      "title": "iPhone 15 Pro Max gets one hour extra battery life thanks to iOS 18 optimizations - 9to5Mac",
-      "description": "As part of his iPhone 16 coverage, Chinese blogger Geekerwan did a battery test of the new flagships, comparing all...",
-      "url": "https://9to5mac.com/2024/09/19/iphone-15-pro-max-longer-battery-life-ios-18/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-15-16-battery-life-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-19T18:42:00Z",
-      "content": "As part of his iPhone 16 coverage, Chinese blogger Geekerwan did a battery test of the new flagships, comparing all the iPhone 16 models to the iPhone 15 Pro, iPhone 15 Pro Max and some Chinese Andro… [+2641 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "30th-anniversary limited-run PS5 and PS5 Pro bring back mid-’90s gray plastic - Ars Technica",
-      "description": "Sony launched a similar gray PlayStation 4 in 2014 for the 20th anniversary.",
-      "url": "https://arstechnica.com/gaming/2024/09/30th-anniversary-limited-run-ps5-and-ps5-pro-bring-back-mid-90s-gray-plastic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ps5-ps1-pro-760x380.jpg",
-      "publishedAt": "2024-09-19T18:06:17Z",
-      "content": "36\r\n<ul><li>\r\n The PS5 Pro version of the 30th anniversary bundle comes with both varieties of DualSense controller, a plate for an (optional) optical drive, and other accessories. \r\n</li><li>\r\n The … [+2474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "The First 26 Minutes of God of War Ragnarok PC Gameplay - 4K 60FPS Ultra Settings - IGN",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-09-19T18:04:34Z",
+      "author": "The Wall Street Journal",
+      "title": "Why Boise Might Secretly Be the Coolest City in the Pacific Northwest - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/lifestyle/travel/why-boise-might-secretly-be-the-coolest-city-in-the-pacific-northwest-9b341eb3",
+      "urlToImage": null,
+      "publishedAt": "2024-09-20T19:05:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Laura Bratton",
+      "title": "Former Snap design engineer on new AR glasses: 'Obviously bad' - Yahoo Finance",
+      "description": "A former Snap engineer who worked on designing previous versions of the glasses, slammed the product in a post on X this week.",
+      "url": "https://finance.yahoo.com/news/former-snap-design-engineer-on-new-ar-glasses-obviously-bad-181408794.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-09-20T18:14:08Z",
+      "content": "One of Snaps (SNAP) former employees thinks its augmented reality glasses are \"bad.\"\r\nSterling Crispin, an engineer who worked on designing previous versions of the glasses, slammed the product in a … [+2716 chars]"
     },
     {
       "source": {
@@ -73,38 +47,51 @@
         "name": "TechCrunch"
       },
       "author": "Brian Heater",
-      "title": "Apple Intelligence is now live in public beta. Here’s what it offers and how to enable it. - TechCrunch",
-      "description": "Starting Thursday, those who are enrolled in Apple’s public beta program will be able to experience the generative AI-fueled platform the company has been talking up since June.",
-      "url": "https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800",
-      "publishedAt": "2024-09-19T17:47:47Z",
-      "content": "Apple Intelligence took another major step toward mainstream availability Thursday with the launch of the iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas.\r\nStarting Thursday, those who are… [+2414 chars]"
+      "title": "Plaud’s $169 ChatGPT-powered NotePin has a permanent place in my travel bag - TechCrunch",
+      "description": "The $169 Plaud NotePin is a tiny magnetic recording device. Recordings are transcribed and AI provide summaries of meetings.",
+      "url": "https://techcrunch.com/2024/09/20/plauds-169-chatgpt-powered-notepin-has-a-permanent-place-in-my-travel-bag/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_8045.jpg?resize=1200,800",
+      "publishedAt": "2024-09-20T17:23:51Z",
+      "content": "The Plaud.AI pin took up mercifully little space in my carry-on. It also presented an opportunity to kill two birds: I was flying across the country and knew I would be taking copious notes.\r\nIf youv… [+4625 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5Mac"
       },
-      "author": "Juli Clover",
-      "title": "Apple Seeds First iOS 18.1, iPadOS 18.1, and macOS Sequoia Public Betas With Apple Intelligence - MacRumors",
-      "description": "Apple today released the first public betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1, allowing non-developers to test the software ahead of...",
-      "url": "https://www.macrumors.com/2024/09/19/apple-seeds-first-ios-18-1-public-beta/",
-      "urlToImage": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "publishedAt": "2024-09-19T17:46:39Z",
-      "content": "Apple today released the first public betas of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1, allowing non-developers to test the software ahead of its October launch.\r\nPublic beta testers who have s… [+1981 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple calls AirPods design ‘the snorkel,’ plus other AirPods 4 details - 9to5Mac",
+      "description": "Apple’s AirPods 4 team sat down for a new interview detailing the challenges and timeline for the new AirPods’ design and development.",
+      "url": "https://9to5mac.com/2024/09/20/apple-calls-airpods-design-the-snorkel-plus-other-airpods-4-details/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/airpods-4-features-bento.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-20T16:15:00Z",
+      "content": "AirPods 4 are available today, and Engadget has a great new interview with the team behind the product. Details include the timing of when development started, how ANC is made possible on an open-ear… [+2549 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "God of War Ragnarök Launches to ‘Mixed’ Steam User Reviews — With Most Complaining About the PlayStation Network Account Requirement - IGN",
+      "description": "God of War Ragnarök has a ‘mixed’ user review rating on Steam following its PC launch, with most of the complaints revolving around Sony’s controversial PlayStation Network Account requirement.",
+      "url": "https://www.ign.com/articles/god-of-war-ragnark-launches-to-mixed-steam-user-reviews-with-most-complaining-about-the-playstation-network-account-requirement",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/11/03/godofwarragnarokps5vsps4provsps4performancereview-36190303-gowragnarok-performancereview-blogroll-1667490349112.jpg?width=1280",
+      "publishedAt": "2024-09-20T15:48:28Z",
+      "content": "God of War Ragnarök has a mixed user review rating on Steam following its PC launch, with most of the complaints revolving around Sonys controversial PlayStation Network Account requirement.\r\nSony ha… [+2958 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "BleepingComputer"
       },
-      "author": "SamMobile - Samsung news",
-      "title": "Galaxy Tab S9 series gets One UI 6.1.1 update with Galaxy AI features in the US - SamMobile - Samsung news",
-      "description": null,
-      "url": "https://www.sammobile.com/news/galaxy-tab-s9-plus-ultra-one-ui-6-1-1-update-usa/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-19T16:19:00Z",
-      "content": null
+      "author": "Lawrence Abrams",
+      "title": "macOS Sequoia change breaks networking for VPN, antivirus software - BleepingComputer",
+      "description": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
+      "url": "https://www.bleepingcomputer.com/",
+      "urlToImage": "https://www.bleepstatic.com/logo/bleepingcomputer-logo.png",
+      "publishedAt": "2024-09-20T15:45:24Z",
+      "content": "Google announced that starting today, passkeys added to Google Password Manager will automatically sync between Windows, macOS, Linux, Android, and ChromeOS devices for logged-in users."
     },
     {
       "source": {
@@ -116,47 +103,60 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-09-19T16:00:56Z",
+      "publishedAt": "2024-09-20T15:40:52Z",
       "content": "[Removed]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Tim Hardwick",
-      "title": "50 New macOS Sequoia Features and Changes Worth Checking Out - MacRumors",
-      "description": "Apple on September 16 released macOS Sequoia, the latest version of the company's Mac operating system. ‌macOS Sequoia introduces interactive...",
-      "url": "https://www.macrumors.com/guide/50-new-macos-sequoia-features-and-changes/",
-      "urlToImage": "https://images.macrumors.com/t/_imBOuNpEXMCxpNun7pR4FLkO6U=/2500x/article-new/2024/09/50-New-Features-and-Changes-Worth-Checking-Out-in-macOS-Sequoia-2.jpg",
-      "publishedAt": "2024-09-19T15:44:38Z",
-      "content": "Apple on September 16 released macOS Sequoia, the latest version of the company's Mac operating system. macOS Sequoia introduces interactive iPhone Mirroring, easier window tiling, a new Passwords ap… [+28218 chars]"
+      "author": "Andrew Liszewski",
+      "title": "A new PS5 update is here to address Final Fantasy XVI bugs - The Verge",
+      "description": "A new PS5 update released on September 20th is in response to complaints about graphics glitches affected Final Fantasy XVI and other games.",
+      "url": "https://www.theverge.com/2024/9/20/24249912/sony-ps5-final-fantasy-xvi-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_erYljgPppBycj-9sLjv1ZdTouk=/0x0:2400x1600/1200x628/filters:focal(1332x488:1333x489)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631413/finalfantasy.jpg",
+      "publishedAt": "2024-09-20T15:35:42Z",
+      "content": "A new PS5 update is here to address Final Fantasy XVI bugs\r\nA new PS5 update is here to address Final Fantasy XVI bugs\r\n / Graphics glitches and other bugs that have plagued some PS5 games since the … [+1390 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Concord Game Director Steps Down as Staff at Sony-Owned Firewalk Await Their Fate — Report - IGN",
+      "description": "Following Sony’s shock decision to haul live service hero shooter Concord offline, its game director has reportedly stepped down with some staff concerned about the future of the studio.",
+      "url": "https://www.ign.com/articles/concord-game-director-steps-down-as-staff-at-sony-owned-firewalk-await-their-fate-report",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/07/31/concordlennoxtrailer-ign-blogroll-1722447575035.jpg?width=1280",
+      "publishedAt": "2024-09-20T15:25:56Z",
+      "content": "Following Sonys shock decision to haul live service hero shooter Concord offline two weeks after launch, its game director has reportedly stepped down with some staff concerned about the future of th… [+2531 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Theregister.com"
       },
-      "author": "Zac Hall",
-      "title": "watchOS 11 update removes four faces from Apple Watch - 9to5Mac",
-      "description": "It’s not just the Siri face that’s gone in watchOS 11. Apple has discontinued the analog Chronograph, Explorer, and Numerals...",
-      "url": "https://9to5mac.com/2024/09/19/watchos-11-update-removes-two-more-faces-from-apple-watch/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/09/apple-watch-series-3-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-19T15:23:00Z",
-      "content": "It’s not just the Siri face that’s gone in watchOS 11. Apple has discontinued the analog Chronograph, Explorer, and Numerals watch faces as well.\r\nChronograph is one of the original faces that arrive… [+1333 chars]"
+      "author": "Richard Speed",
+      "title": "Microsoft on a roll for terrible rebranding with Windows App - The Register",
+      "description": "If you hadn't guessed, that's the artist formerly known as Remote Desktop",
+      "url": "https://www.theregister.com/2024/09/20/microsoft_windows_app/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/20/windows_app.jpg",
+      "publishedAt": "2024-09-20T14:35:00Z",
+      "content": "Microsoft's breathtaking ability to rename things badly carries on with the Windows App, a hub to stream Windows from a variety of sources.\r\nUsers might know the product better as the Remote Desktop … [+2107 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Robert Purchese",
-      "title": "BioWare keen to release Dragon Age: The Veilguard character creator before launch - Eurogamer",
-      "description": "BioWare was suspiciously coy when asked whether it was considering releasing a standalone character creator for Dragon …",
-      "url": "https://www.eurogamer.net/bioware-keen-to-release-dragon-age-the-veilguard-character-creator-before-launch",
-      "urlToImage": "https://assetsio.gnwcdn.com/dragon-age-veilguard-char-customisation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-09-19T15:00:18Z",
-      "content": "BioWare was suspiciously coy when asked whether it was considering releasing a standalone character creator for Dragon Age: The Veilguard before the game's full release on 31st October.\r\nWhen asked a… [+2540 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Anker recalls MagSafe iPhone batteries over fire risk - Circuit Breaker",
+      "description": "Anker has recalled the 334 MagGo Battery (PowerCore 10K), Power Bank, and MagGo Power Bank, saying owners should stop using them because of a battery defect.",
+      "url": "https://www.theverge.com/2024/9/20/24249805/anker-recall-maggo-magsafe-iphone-battery-power-bank",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-DVcChasP2ogKX2PbxibG2HpLr0=/0x0:1058x705/1200x628/filters:focal(529x353:530x354)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631243/ankerrecall1.jpg",
+      "publishedAt": "2024-09-20T14:29:55Z",
+      "content": "Anker recalls MagSafe iPhone batteries over fire risk\r\nAnker recalls MagSafe iPhone batteries over fire risk\r\n / Stop using the Anker 334 MagGo Battery (PowerCore 10K), Anker Power Bank, and Anker Ma… [+1685 chars]"
     },
     {
       "source": {
@@ -164,102 +164,102 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "WhatsApp may soon let you theme chats with colors and wallpapers [Gallery] - 9to5Google",
-      "description": "Work behind the scenes on WhatsApp suggests the popular app will soon let users individually theme chats with wallpapers and...",
-      "url": "http://9to5google.com/2024/09/19/whatsapp-color-wallpaper-chat-themes-coming/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/whatsapp-fi-04.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-19T14:15:00Z",
-      "content": "Work behind the scenes on WhatsApp suggests the popular app will soon let users individually theme chats with wallpapers and colors.\r\nSpotted by WABetaInfo and Android Authority in the WhatsApp v2.24… [+1027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rockstargames.com"
-      },
-      "author": "Rockstar Games",
-      "title": "Track Down Bail Office Bounty Targets for 2X GTA$ and RP - Rockstar Games",
-      "description": "Bail enforcement can be a surprisingly lucrative undertaking, especially when all Standard and Most Wanted Bounty Targets are dishing out Double Rewards. Securing six Bounty Targets of any kind will complete the Weekly Challenge and get you an...",
-      "url": "https://www.rockstargames.com/newswire/article/511o133o972847/track-down-bail-office-bounty-targets-for-2x-gta-and-rp",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/511o133o972847/e0e662b882f2cd0df3f166e81b00e4c561628288.jpg",
-      "publishedAt": "2024-09-19T13:54:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Charles Pulliam-Moore",
-      "title": "Pokémon TCG Pocket wants to be a gateway to digital card collecting - The Verge",
-      "description": "We sat down with Creatures Inc. and The Pokémon Company to discuss and play Pokémon TCG Pocket, due out October 30th.",
-      "url": "https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QVsWFeW940CUQnOOzKsuYZvDRc0=/0x0:2854x1600/1200x628/filters:focal(1427x800:1428x801)/cdn.vox-cdn.com/uploads/chorus_asset/file/25628420/Screen_Shot_2024_09_18_at_2.07.32_PM.png",
-      "publishedAt": "2024-09-19T13:01:24Z",
-      "content": "Pokémon TCG Pocket wants to be a gateway to digital card collecting\r\nPokémon TCG Pocket wants to be a gateway to digital card collecting\r\n / The Pokémon Companys latest mobile game is designed to bri… [+6936 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Charlie Hall",
-      "title": "Microsoft Flight Simulator 2024 stuns in first hands-on experience - Polygon",
-      "description": "Microsoft Flight Simulator 2024 claims to be 4,000x more detailed where it counts — on the ground, and in its recreations of real-world aircraft.",
-      "url": "https://www.polygon.com/gaming/453235/microsoft-flight-simulator-2024-preview-grand-canyon",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/MSFS2024_DeHavilland_CL415-copy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2024-09-19T13:00:00Z",
-      "content": "When the reboot of Microsoft Flight Simulator launched in the summer of 2020, I called it the most remarkable new game in a generation. By combining data from Bing Maps with a next-generation physics… [+5459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-19T12:37:24Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Apple’s Update Decision—Bad News Confirmed For Millions Of iPhone Users - Forbes",
-      "description": "Apple’s iOS 18: what you need to know before you use iMessage’s biggest ever update.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/09/19/apples-ios-18-update-new-warning-for-millions-of-iphone-15-iphone-16-users/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65744e9437fe0bbac67751bf/0x0.jpg?format=jpg&crop=2007,1116,x366,y602,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-19T11:41:00Z",
-      "content": "iOS 18 comes with bad news for users.\r\nNurPhoto via Getty Images\r\nUpdated on September 19 with response to RCS encryption announcement.\r\nAs hundreds of millions of iPhone users update their devices t… [+14263 chars]"
+      "title": "Google Pixel 9 Pro Fold has the lowest charging speed of the series - 9to5Google",
+      "description": "The Pixel 9 Pro Fold is a stunning piece of hardware, but it has a few downsides compared to Google’s...",
+      "url": "http://9to5google.com/2024/09/20/google-pixel-9-pro-fold-charging-speed/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-9-Pro-Fold-and-Pixel-9-Pro-XL-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-20T14:25:00Z",
+      "content": "The Pixel 9 Pro Fold is a stunning piece of hardware, but it has a few downsides compared to Google’s other new phones, including its charging speed, which is the slowest of the bunch.\r\nPixel 9 Pro X… [+1408 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Ben Lovejoy",
-      "title": "Only iPhone 18 Pro models likely to get 2nm chips, suggests analyst - 9to5Mac",
-      "description": "We may still be waiting for iPhone 16 deliveries tomorrow, but the rumor mill is already busy looking ahead to...",
-      "url": "https://9to5mac.com/2024/09/19/only-iphone-18-pro-models-likely-to-get-2nm-chips-suggests-analyst/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Only-iPhone-18-Pro-models-likely-to-get-2nm-chips-suggests-analyst.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-19T11:04:00Z",
-      "content": "We may still be waiting for iPhone 16 deliveries tomorrow, but the rumor mill is already busy looking ahead to both the iPhone 17 and iPhone 18.\r\nA tweet by supply chain analyst Ming-Chi Kuo claims t… [+1702 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple Watch Series 10 design tidbits revealed in new interview - 9to5Mac",
+      "description": "Apple’s design team sat down with British GQ to outline some of the changes coming with the Apple Watch Series 10 and titanium black Ultra 2.",
+      "url": "https://9to5mac.com/2024/09/20/apple-watch-series-10-design-tidbits-revealed-in-new-interview/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-watch-series-10-gold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-20T14:11:00Z",
+      "content": "Apples design team, including design heads Molly Anderson and Alan Dye, recently sat down with British GQ to talk the Apple Watch Series 10 and the new black Apple Watch Ultra 2. Here are the key des… [+2194 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Eurogamer.net"
       },
-      "author": "SamMobile - Samsung news",
-      "title": "Gemini Live is rolling out to Galaxy phones for free - SamMobile - Samsung news",
-      "description": null,
-      "url": "https://www.sammobile.com/news/gemini-live-rolling-out-galaxy-phones-free/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-19T10:36:00Z",
+      "author": "Tom Phillips",
+      "title": "Nintendo's Palworld lawsuit looks to hinge on Pokéball patent - Eurogamer",
+      "description": "Nintendo and The Pokémon Company's shock move to launch legal action against Palworld looks to hinge on a patent relati…",
+      "url": "https://www.eurogamer.net/nintendos-palworld-lawsuit-looks-to-hinge-on-pokeball-patent",
+      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-1_elZvafj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-09-20T13:43:42Z",
+      "content": "Nintendo and The Pokémon Company's shock move to launch legal action against Palworld looks to hinge on a patent relating to how players throw Pokéballs. \r\nYesterday, Nintendo confirmed it was suing … [+3410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Rory Mellon",
+      "title": "How to pre-order PlayStation 30th Anniversary Collection PS5 Pro, DualSense, PlayStation Portal and more - Tom's Guide",
+      "description": "The PS5 is getting a classic makeover to celebrate 30 years of PlayStation",
+      "url": "https://www.tomsguide.com/gaming/playstation/playstation-30th-anniversary-collection-pre-orders-how-to-buy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VSQSJDgy2YKyPSYHjVokjR-1200-80.jpg",
+      "publishedAt": "2024-09-20T13:35:56Z",
+      "content": "The PlayStation 30th Anniversary Collection is celebrating three decades of Sony gaming. The original PlayStation console turns 30 years old this year (it launched in December 1994 in the company’s n… [+5481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Our Hopes And Predictions For Nintendo’s Switch 2 Reveal - Kotaku",
+      "description": "With a hardware reveal seemingly right around the corner, here are our biggest dreams and our best guesses",
+      "url": "https://kotaku.com/nintendo-switch-2-reveal-mario-screen-specs-features-1851653104",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d60899ca8764193d6fbd8cabcaf4aa00.png",
+      "publishedAt": "2024-09-20T13:15:00Z",
+      "content": "Over the years, the Nintendo Switch has cultivated one of the most baller catalogs of any console in my lifetime. Its got everything you could want from a Nintendo system, including a number of Mario… [+775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "The Dragon Age Books, Comics, And More BioWare Recommends You Check Out Before The Veilguard - Kotaku",
+      "description": "Dragon Age: Inquisition came out a decade ago, but the series hasn’t gone away entirely",
+      "url": "https://kotaku.com/dragon-age-veilguard-books-comics-missing-audio-drama-1851649328",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/43566cc133e0f293cdaa21a6592de81f.jpg",
+      "publishedAt": "2024-09-20T13:00:00Z",
+      "content": "Eplers last recommendation is Dragon Age: Tevinter Nights. This short story anthology was released in 2020 and features several stories about different characters throughout the universe, including s… [+554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Janhoi McGregor",
+      "title": "Apple Confirms iPhone 16 Has Advanced New Battery Tech - Forbes",
+      "description": "Apple's new iPhone 16 could usher in a new era of replaceable batteries.",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2024/09/20/apple-iphone-16-battery-removal-new-adhesive-technology/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ec3b32d3c0dca74744a560/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-20T12:54:00Z",
+      "content": "The Apple iPhone 16 plus during an event at Apple Park campus in Cupertino, California, US, on ... [+] Monday, Sept. 9, 2024. Apple Inc. introduced the latest version of its flagship device, the iPho… [+3915 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Kirton",
+      "title": "Huawei 'super fans' fuming as left empty handed by $2,800 phone launch - Reuters",
+      "description": "Huawei and Apple's latest smartphones went on sale in China on Friday, with many fans of the Chinese company disappointed that its much-anticipated $2,800 phone was not available for walk-in customers.",
+      "url": "https://www.reuters.com/technology/huaweis-2800-tri-fold-phone-hits-stores-amid-supply-concerns-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/D2DZVD4DTZLF7BT7Q3D7R3OEYM.jpg?auth=2bafe08919d5a83b9754a49acde66469c460d530072e96ecf13300e4426ea95e&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-20T12:19:32Z",
       "content": null
     }
   ]
