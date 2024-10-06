@@ -1,97 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 54,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Releases iOS 18.0.1 With Touch Screen Bug Fix and More - MacRumors",
-      "description": "Apple today released iOS 18.0.1 and iPadOS 18.0.1, the first updates to the iOS 18 and iPadOS 18 operating systems that debuted earlier in September....",
-      "url": "https://www.macrumors.com/2024/10/03/apple-releases-ios-18-0-1/",
-      "urlToImage": "https://images.macrumors.com/t/b3A-0vLL4N31sUa19RIpjA8c3BY=/2500x/article-new/2024/09/Generic-iOS-18.0.1-Feature-Real-Mock.jpg",
-      "publishedAt": "2024-10-03T21:22:52Z",
-      "content": "Apple today released iOS 18.0.1 and iPadOS 18.0.1, the first updates to the iOS 18 and iPadOS 18 operating systems that debuted earlier in September. iOS 18.0.1 and iPadOS 18.0.1 come two weeks after… [+1467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rockstargames.com"
-      },
-      "author": "Rockstar Games",
-      "title": "Halloween Lands in Los Santos with Ghoulish Gifts and Spooky Rewards - Rockstar Games",
-      "description": "Today kicks off a monthlong celebration of Halloween happenings on and above the streets of Southern Los Santos, culminating in close encounters of a wholly different kind.",
-      "url": "https://www.rockstargames.com/newswire/article/9kkk7195595oo4/halloween-lands-in-los-santos-with-ghoulish-gifts-and-spooky-rewards",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9kkk7195595oo4/a7082631eb715b705ec3c3a6388b49aacde6a2f9.jpg",
-      "publishedAt": "2024-10-03T20:58:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Filipe Espósito",
-      "title": "iPhone SE 4 to feature Apple’s first 5G modem, A18 chip, same cameras as iPhone 15 - 9to5Mac",
-      "description": "Apple has been working on a new generation of the iPhone SE, and a recent Bloomberg report revealed that it...",
-      "url": "https://9to5mac.com/2024/10/03/iphone-se-4-modem-a18-camera/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/iPhone-SE-4-concept-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-03T20:02:00Z",
-      "content": "Apple has been working on a new generation of the iPhone SE, and a recent Bloomberg report revealed that it should be introduced sometime next year. 9to5Mac’s reliable sources, who also told us preci… [+2665 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Blair Marnell",
-      "title": "Ubisoft's Effort To Save Star Wars Outlaws Continues With Huge Patch - GameSpot",
-      "description": "The new patch for Star Wars Outlaws offers some fixes for many of the complaints about the game.",
-      "url": "https://www.gamespot.com/articles/ubisofts-effort-to-save-star-wars-outlaws-continues-with-huge-patch/1100-6526900/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4378574-starwarsoutlaws.jpg",
-      "publishedAt": "2024-10-03T20:00:18Z",
-      "content": "Ubisoft hasn't been shy about admitting that Star Wars Outlaws didn't have the strong launch that the company was hoping for. Some reports have stated that Star Wars Outlaws only sold 1 million copie… [+10700 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Initialized Capital restructures, and lets multiple partners go - TechCrunch",
-      "description": "Two partners, Jennifer Wolf and Jenny Fleiss have left Initialized with numerous other cuts across multiple teams.",
-      "url": "https://techcrunch.com/2024/10/03/initialized-capital-restructures-and-lets-multiple-partners-go/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1244428548.jpg?w=1024",
-      "publishedAt": "2024-10-03T19:35:38Z",
-      "content": "Initialized Capital is restructuring its team to “meet the moment” in the venture market, according to a blog post from the firm’s managing partner Brett Gibson.\r\nThe San Francisco-based venture capi… [+2632 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Mac Mini Expected to Receive First Major Redesign Since 2010 Very Soon - MacRumors",
-      "description": "Rumors suggest that Apple plans to introduce a redesigned Mac mini this month, alongside updated MacBook Pro and iMac models. Most notably, the...",
-      "url": "https://www.macrumors.com/2024/10/03/mac-mini-redesign-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/22e_RBpp3-HTyjDGJlIme1LR0PM=/2500x/article-new/2024/08/M4-Mac-mini-Silver-Ortho-Cooler.jpg",
-      "publishedAt": "2024-10-03T19:30:00Z",
-      "content": "Rumors suggest that Apple plans to introduce a redesigned Mac mini this month, alongside updated MacBook Pro and iMac models. Most notably, the portable desktop computer is expected to receive its fi… [+1079 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Apple Watch will get a key Apple Intelligence feature in iOS 18.1 - 9to5Mac",
-      "description": "Apple Intelligence is officially limited to iPhone, iPad, and Mac, but there’s a key feature coming to Apple Watch: notification summaries.",
-      "url": "https://9to5mac.com/apple-watch-will-get-key-apple-intelligence-feature-in-ios-18-1/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-03T19:01:00Z",
-      "content": "Apple Intelligence isnt officially supported on the Apple Watch. But one of the key AI features in iOS 18.1 is availableand at its bestwhen used on the Watch. Heres how notification summaries bring A… [+2739 chars]"
+      "title": "M4 Mac release schedule: Here’s when to expect new Macs - 9to5Mac",
+      "description": "Apple is planning to update every Mac in its lineup to the M4 chip. When will these M4 Macs release? Here’s what to expect.",
+      "url": "https://9to5mac.com/m4-mac-release-schedule-when-to-expect-new-macs/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/m4-macs-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-04T20:23:00Z",
+      "content": "Apples M4 chip debuted on the iPad Pro, but its coming to the Mac starting later this month. Unlike prior M-series chips, the M4 is set to upgrade the full lineup of Mac products. From the MacBook Ai… [+2832 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Claudia Santos",
+      "title": "People Are Sharing The Most Bizarre Thing They’ve Seen With Their Own Two Eyes That No One Ever Believes - BuzzFeed",
+      "description": "\"To this day, I have no idea what happened, but I remember it vividly, and no one believes me.\"",
+      "url": "https://www.buzzfeed.com/claudiasantos/bizarre-unbelievable-events-people-witnessed",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-10/2/18/enhanced/a78746154c2a/original-525-1727894053-3.jpg?crop=1246:652;3,0%26downsize=1250:*",
+      "publishedAt": "2024-10-04T20:16:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Zelda: Echoes Of Wisdom Player Discovers How To Keep Playing As Link Thanks To Wild Glitch - Kotaku",
+      "description": "Speedrunners still don't know if it's possible to beat the game this way",
+      "url": "https://kotaku.com/zelda-echoes-wisdom-glitch-link-warp-speedrun-1851665866",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ee5fab2c455851cc3c7a832c6ed588a.jpg",
+      "publishedAt": "2024-10-04T20:15:00Z",
+      "content": "The Legend of Zelda: Echoes Of Wisdom finally makes the titular princess the playable star of the show. After a short prologue as Link, players leave the Hero of Time behind for a completely new type… [+2692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Two Weeks With the iPhone 16 Pro Max - MacRumors",
+      "description": "Now that it's been two weeks since the iPhone 16 models were released, we've been able to spend enough time with the new devices to share a...",
+      "url": "https://www.macrumors.com/2024/10/04/iphone-16-pro-max-two-week-review/",
+      "urlToImage": "https://images.macrumors.com/t/t39cDamaPQqWKrqODosyjY8MWao=/2500x/article-new/2024/10/iPhone-16-Pro-Max-Review-Thumb-1.5.jpg",
+      "publishedAt": "2024-10-04T19:04:24Z",
+      "content": "Now that it's been two weeks since the iPhone 16 models were released, we've been able to spend enough time with the new devices to share a more in-depth review on their performance, battery life, fe… [+2222 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Meta’s new “Movie Gen” AI system can deepfake video from a single photo - Ars Technica",
+      "description": "A future where realistic video fakes are easy and plentiful seems inevitable.",
+      "url": "https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/meta_moviegen_deepfake.jpg",
+      "publishedAt": "2024-10-04T18:42:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Madeline Wells",
+      "title": "Michelin-starred SF seafood restaurant closing after less than 2 years - SFGATE",
+      "description": "SoMa fine dining restaurant Aphotic has a Michelin star as well as a Michelin Green Star for its sustainability practices.",
+      "url": "https://www.sfgate.com/food/article/michelin-star-sf-seafood-restaurant-19815899.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/43/76/55/26209142/3/rawImage.jpg",
+      "publishedAt": "2024-10-04T18:37:56Z",
+      "content": "San Francisco restaurant Aphotic at 816 Folsom St. is closing.\r\nCherylynn N. via Yelp\r\nAfter less than two years and despite a Michelin star under its belt, San Francisco fine dining restaurant Aphot… [+2175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Dragon Quest III Designer Said He Doesn't Understand One Of The Remake's Changes, Then Things Got Weird - Kotaku",
+      "description": "Yuji Horii weighed in on Dragon Quest III HD-2D Remake's revised gender description",
+      "url": "https://kotaku.com/dragon-quest-3-remake-changes-horii-gender-elon-musk-1851665687",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e1092b6e32ef00548e8235875843b042.jpg",
+      "publishedAt": "2024-10-04T18:05:00Z",
+      "content": "Writer and game designer Yuji Horii is largely considered the father of Dragon Quest, the long-time Final Fantasy rival up until Square Soft and Enix merged in 2003. So when he says something about t… [+4731 chars]"
     },
     {
       "source": {
@@ -103,7 +103,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-03T18:41:07Z",
+      "publishedAt": "2024-10-04T17:33:41Z",
       "content": "[Removed]"
     },
     {
@@ -111,26 +111,78 @@
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Tom Marks",
-      "title": "Magic: The Gathering Developer Responds to Fears It’s Only Focused on Short-term Profits - IGN",
-      "description": "\"Our goal is not to make the quickest buck we can and call it a day,” WOTC says.",
-      "url": "https://www.ign.com/articles/magic-the-gathering-developer-responds-to-fears-its-only-focused-on-short-term-profits",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/03/smothering-tithe-blogroll-1727979149769.jpg?width=1280",
-      "publishedAt": "2024-10-03T18:30:40Z",
-      "content": "Editor's note:This article is based on an interview that took place on August 29, 2024, long before both the recent Commander bans\r\n and changes to control of the format\r\n were announced. As such, th… [+6436 chars]"
+      "author": "Alex Stedman",
+      "title": "Haley Joel Osment Reacts to Potentially Saying Goodbye to Sora After Kingdom Hearts 4 - IGN",
+      "description": "In the wake of Tetsuya Nomura saying that Kingdom Hearts 4 would move the series toward its conclusion, Haley Joel Osment weighs in on potentially saying goodbye to Sora.",
+      "url": "https://www.ign.com/articles/haley-joel-osment-reacts-to-potentially-saying-goodbye-to-sora-after-kingdom-hearts-4",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/03/image-104-1727973970385.png?width=1280",
+      "publishedAt": "2024-10-04T17:00:03Z",
+      "content": "Haley Joel Osment has been the voice of Kingdom Hearts protagonist Sora for more than 20 years now, but it might almost be time to say goodbye.\r\nOsment sat down with us recently for an episode of IGN… [+2148 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Google as Darth Vader: Why iA Writer quit the Android app market - Ars Technica",
+      "description": "After 7 years of increasing piracy, review spam, and shifting requirements, a notable productivity app calls it quits on Android.",
+      "url": "https://arstechnica.com/gadgets/2024/10/ia-pulls-its-writer-app-from-android-citing-red-tape-piracy-and-review-spam/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-471076206.jpg",
+      "publishedAt": "2024-10-04T16:03:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Alessio Palumbo",
+      "title": "Diablo IV Vessel of Hatred Launch Roundtable Q&A – Blizzard Dives into Every Aspect of the Expansion - Wccftech",
+      "description": "With only a few days left before the debut of Diablo IV Vessel of Hatred, Blizzard spilled the beans on every major feature of the expansion.",
+      "url": "https://wccftech.com/diablo-iv-vessel-of-hatred-launch-roundtable-qa-blizzard-dives-into-every-aspect-of-the-expansion/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/10/mephisto-HD-scaled.jpg",
+      "publishedAt": "2024-10-04T16:00:00Z",
+      "content": "As part of their Diablo IV Vessel of Hatred review program, Blizzard set up a roundtable Q&amp;A with all the reviewers involved to answer practically every major question about the expansion due to … [+18972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Damien Wilde",
+      "title": "Pixel 9 Pro XL vs. iPhone 16 Pro Max: The AI phone face-off [Video] - 9to5Google",
+      "description": "How does the Pixel 9 Pro XL stack up against the iPhone 16 Pro Max? Here's what you need to know about AI-powered flagships.",
+      "url": "http://9to5google.com/2024/10/04/pixel-9-pro-xl-iphone-16-pro-max/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/iPhone-16-Pro-Max-and-Pixel-9-Pro-XL-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-04T16:00:00Z",
+      "content": "We’ve seen Google take a few cues from Apple over the years. The result of following a tried-and-tested playbook is a very similar-looking handset no matter what side of the fence you fall on. How do… [+10697 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "A buggy Samsung smart home update broke old Galaxy S10 phones, but there’s a fix - The Verge",
+      "description": "Samsung pulled a SmartThings app update that put Galaxy S10, Note 10, A90, and M51 Android smartphones in an infinite boot loop. Service centers in Korea have a fix.",
+      "url": "https://www.theverge.com/2024/10/4/24261940/samsung-smart-home-smartthings-bug-bootloop-galaxy-s10-note-10",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eSWMPI8l5igOzafeCgFU9V6-rf8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13964208/galaxys10_vladsavov.jpg",
+      "publishedAt": "2024-10-04T15:36:18Z",
+      "content": "A buggy Samsung smart home update broke old Galaxy S10 phones, but theres a fix\r\nA buggy Samsung smart home update broke old Galaxy S10 phones, but theres a fix\r\n / Samsung has replaced a SmartThings… [+1475 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Ethan Gach",
-      "title": "Starfield's Big Expansion Shattered Space Is Getting Hammered By Negative Reviews - Kotaku",
-      "description": "The DLC is even more poorly received than the original sci-fi RPG",
-      "url": "https://kotaku.com/starfield-shattered-space-metacritic-steam-reviews-long-1851664605",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9fa7182c0c79d0a9696904da8666f8a9.jpg",
-      "publishedAt": "2024-10-03T18:25:00Z",
-      "content": "It felt like Shattered Spacemight finally bring space RPG Starfield closer to the original promise of its sprawling NASA-punk space adventure. Instead, the new expansion is getting slammed even harde… [+2738 chars]"
+      "author": "Kenneth Shepard",
+      "title": "If You’re Liking Space Marine 2 , Grab This Other Great Warhammer 40K Game On Sale - Kotaku",
+      "description": "Warhammer 40K: Rogue Trader is a tactical RPG that launched last year",
+      "url": "https://kotaku.com/warhammer-40k-rogue-trader-void-shadows-space-marine-2-1851665413",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/be2a13f49b4b9e754a10626d5ce7b172.jpg",
+      "publishedAt": "2024-10-04T15:33:40Z",
+      "content": "Shooter/hack-and-slash game Warhammer 40K: Space Marine 2is popping off right now, and if youre only just now getting into the franchise, it has a lot of history and games to sift through. Its easy t… [+1682 chars]"
     },
     {
       "source": {
@@ -138,25 +190,25 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Samsung’s Android 15 update is delayed until 2025 - 9to5Google",
-      "description": "Samsung has gotten a lot better about quickly releasing new Android updates, but it sounds like Android 15 will break...",
-      "url": "http://9to5google.com/2024/10/03/samsung-android-15-2025-release-date/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/samsung-one-ui-7-preview-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-03T18:19:00Z",
-      "content": "Samsung has gotten a lot better about quickly releasing new Android updates, but it sounds like Android 15 will break that streak as the company has confirmed that the update won’t arrive until 2025.… [+1681 chars]"
+      "title": "Samsung shows off more ways that One UI 7 copies iOS including multitasking [Gallery] - 9to5Google",
+      "description": "Samsung has shown off a few more ways that One UI 7 copies iOS, including in the Quick Settings and multitasking screens.",
+      "url": "http://9to5google.com/2024/10/04/samsung-one-ui-7-ios-copy-preview/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/samsung-one-ui-7-ios-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-04T15:10:00Z",
+      "content": "At its developer conference this week, Samsung showed off a Galaxy S24 Ultra running the company’s One UI 7 well ahead of its release, confirming a few key leaks and offering some enticing first impr… [+1642 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Thegamepost.com"
+        "name": "The A.V. Club"
       },
       "author": null,
-      "title": "Destiny 2 Is Updating 19 Exotic Armor In Episode Revenant, Detailed Here - TheGamePost",
-      "description": "Bungie is giving 19 Exotic armor pieces a revamp in Destiny 2's upcoming Episode Revenant. Here's a detailed breakdown of what's changing.",
-      "url": "https://thegamepost.com/destiny-2-19-exotic-armor-updates-episode-revenant/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/10/destiny-2-exotic-armor-changes-21.webp",
-      "publishedAt": "2024-10-03T18:03:43Z",
-      "content": "Bungie is giving 19 Exotic armor pieces a revamp in Destiny 2s upcoming Episode Revenant. Heres a detailed breakdown of whats changing for Hunters, Titans, and Warlocks.\r\nWith the release of Episode … [+7789 chars]"
+      "title": "Game Theory: Echoes Of Wisdom is Nintendo's latest effort to blow up The Legend Of Zelda - The A.V. Club",
+      "description": "Game Theory: Echoes Of Wisdom is Nintendo's latest effort to blow up The Legend Of Zelda",
+      "url": "https://www.avclub.com/game-theory-echoes-of-wisdom-fixing-zelda",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/03164209/zelda-echoes-Feature.jpg",
+      "publishedAt": "2024-10-04T15:00:00Z",
+      "content": "It’s been clear, for about a decade now, that the designers creating Nintendo’s various Zelda games were getting kind of sick of the franchise’s basic formula. We refer, generally, to the  Zelda dung… [+4768 chars]"
     },
     {
       "source": {
@@ -164,103 +216,51 @@
         "name": "Nintendo Life"
       },
       "author": "Ollie Reynolds",
-      "title": "'Ultimate' Zelda Switch Lite Comes With OLED Screen And Hall Effect Joysticks - Nintendo Life",
-      "description": "Good. Lord.",
-      "url": "https://www.nintendolife.com/news/2024/10/ultimate-zelda-switch-lite-comes-with-oled-screen-and-hall-effect-joysticks",
-      "urlToImage": "https://images.nintendolife.com/0ba578aeb61a0/1280x720.jpg",
-      "publishedAt": "2024-10-03T17:45:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube779k\r\nOver the last year or so, we've been reporting on a new OLED screen mod for the Nintendo Switch Lite from modder Taki Udon. After months of arduous work, Ud… [+1363 chars]"
+      "title": "Surprise Surprise, Devolver Digital Is Excited For The 'Switch 2' - Nintendo Life",
+      "description": "So are we, Big D",
+      "url": "https://www.nintendolife.com/news/2024/10/surprise-surprise-devolver-digital-is-excited-for-the-switch-2",
+      "urlToImage": "https://images.nintendolife.com/f8bdfddbfda46/1280x720.jpg",
+      "publishedAt": "2024-10-04T15:00:00Z",
+      "content": "Image: Devolver Digital\r\nAnticipation for Nintendo's successor to the Switch (which we've been affectionately calling the 'Switch 2' until further notice) is reaching almost impossible levels ahead o… [+1699 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Beth Mole",
-      "title": "Popular gut probiotic completely craps out in randomized controlled trial - Ars Technica",
-      "description": "If you’re familiar with the history of Activia, you may not be surprised.",
-      "url": "https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-151046607-scaled.jpeg",
-      "publishedAt": "2024-10-03T17:34:09Z",
-      "content": null
+      "author": "Billy Givens",
+      "title": "Throne And Liberty Is Steam's Latest Massive Free Hit: Here's What You Need To Know - Kotaku",
+      "description": "The MMO is nudging at Black Myth Wukong for concurrent player numbers, so what's it all about?",
+      "url": "https://kotaku.com/throne-and-liberty-mmo-ncsoft-everything-to-know-1851665223",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b7f1b879d5f6981463b1381245ad1dac.jpg",
+      "publishedAt": "2024-10-04T14:30:00Z",
+      "content": "After multiple delays and name changes, Throne and Liberty has finally been released, offering us a new MMO in a time of drought. The genre has waned in popularity, and can often seem overshadowed by… [+4721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Andrew Romero",
+      "title": "Eligible FSA and HSA accounts will now reimburse you for your Galaxy Ring purchase - 9to5Google",
+      "description": "It is now possible to obtain a Samsung Galaxy Ring with reimbursement if you have an eligible FSA or HSA...",
+      "url": "http://9to5google.com/2024/10/04/redeem-samsung-galaxy-ring-through-fsa-hsa/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Samsung-Galaxy-Ring-family.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-04T14:28:00Z",
+      "content": "It is now possible to obtain a Samsung Galaxy Ring with reimbursement if you have an eligible FSA or HSA account. This includes access to Samsung’s health suite, as there is no subscription cost.\r\nTh… [+1712 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "A new Ray-Ban Meta update adds reminders and voice messages - The Verge",
-      "description": "The latest update for the Ray-Bans Meta smart glasses will let you set reminders as well as send and record voice messages.",
-      "url": "https://www.theverge.com/2024/10/3/24261238/meta-ray-ban-update-reminders-voice-messages",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_v9rLpeXfNTW8FiO0yWbq3wVLwM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25012279/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0563.jpg",
-      "publishedAt": "2024-10-03T17:16:35Z",
-      "content": "A new Ray-Ban Meta update adds reminders and voice messages\r\nA new Ray-Ban Meta update adds reminders and voice messages\r\n / You can now use the glasses to remind you to make a phone call or even whe… [+1954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Unboxing a GIANT | The 110-Inch Hisense UX Championship Edition! - Digital Trends",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-10-03T17:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects - TechCrunch",
-      "description": "OpenAI introduced a new way to interact with ChatGPT on Thursday: an interface it calls \"canvas.\" The product opens a separate window, beside the normal",
-      "url": "https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/server-zoom.gif?w=800",
-      "publishedAt": "2024-10-03T17:08:25Z",
-      "content": "OpenAI introduced a new way to interact with ChatGPT on Thursday: an interface it calls “canvas.” The product opens a separate window, beside the normal chat window, with a workspace for writing and … [+2786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "author": null,
-      "title": "Samsung Celebrates 10 Years of SDC and Spotlights AI-Based Innovation at SDC24 - Samsung Global Newsroom",
-      "description": "Conference emphasizes how more personalized, secure customer experiences are enabled by wide-ranging innovations in AI technology  Users can do more with their devices; developers can build and create for the future",
-      "url": "https://news.samsung.com/global/samsung-celebrates-10-years-of-sdc-and-spotlights-ai-based-innovation-at-sdc24",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2024/10/Samsung-Corporate-Technology-SDC24-10-Years-of-SDC-AI-Innovation_Thumbnail728-FINAL.jpg",
-      "publishedAt": "2024-10-03T17:02:30Z",
-      "content": "Samsung Electronics today held its annual Samsung Developer Conference (SDC) at the San Jose McEnery Convention Center. Celebrating a decade of collaboration and innovation with developers, the compa… [+13213 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kat Bailey",
-      "title": "We Asked the Monster Hunter and Sonic Devs About the PS5 Pro, and They Had Very Different Answers - IGN",
-      "description": "We talk to Sonic Team's Takashi Iizuka and Monster Hunter's Ryozo Tsujimoto about their plans for the PS5 Pro, their reactions to the price, and more.",
-      "url": "https://www.ign.com/articles/monster-hunter-wilds-sonic-ps5-pro-support",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/03/ps5-pro-shadow-monsterhunter-blogroll-1727974636845.jpg?width=1280",
-      "publishedAt": "2024-10-03T17:00:23Z",
-      "content": "The PlayStation 5 Pro has divided fans since it was announced in September, and game developers have differing outlooks on the new premium console as well.\r\nSpeaking with the developers behind Sonic … [+3824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Mario + Rabbids lead and Red Dead Redemption lead designer form new studio - Video Games Chronicle",
-      "description": "Davide Soliani and Christian Cantamessa have launched Day 4 Night Studios and are working on a new IP…",
-      "url": "https://www.videogameschronicle.com/news/mario-rabbids-lead-and-red-dead-redemption-lead-designer-form-new-studio/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/10/day-4-night.jpg",
-      "publishedAt": "2024-10-03T16:31:41Z",
-      "content": "Mario + Rabbids director Davide Soliani has founded a new studio, Day 4 Night, along with other former leaders of Ubisoft Milan.\r\nSoliani is joined by co-founders Christian Cantamessa, who was a writ… [+1944 chars]"
+      "author": "David Pierce",
+      "title": "Get ready to meet your AI best friend - The Verge",
+      "description": "What’s next for OpenAI, agentic language models, the future of WordPress hangs in the balance, the DirecTV / Dish merger, and more on this episode of The Vergecast.",
+      "url": "https://www.theverge.com/2024/10/4/24261989/ai-companion-microsoft-copilot-openai-directv-dish-vergecast",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AYVd2ztKqMt4sK9ezHWnZHpeETs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25657907/VST_1004_Site.jpg",
+      "publishedAt": "2024-10-04T13:43:37Z",
+      "content": "Get ready to meet your AI best friend\r\nGet ready to meet your AI best friend\r\n / On The Vergecast: what AI companions are really for, all-knowing smart glasses, and the sordid history of DirecTV and … [+2019 chars]"
     }
   ]
 }
