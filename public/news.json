@@ -4,42 +4,55 @@
   "articles": [
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "Kat Bailey",
-      "title": "Future Halo Games Moving to Unreal Engine as Developer 343 Industries Officially Changes Its Name - IGN",
-      "description": "Halo is undergoing a major shakeup, with 343 Industries rebranding to Halo Studios and announcing that all future game development will be shifting Unreal Engine. It's a huge shakeup for Xbox's flagship franchise, paving the way for \"multiple new projects\" co…",
-      "url": "https://www.ign.com/articles/future-halo-games-moving-to-unreal-engine-as-developer-343-industries-officially-changes-its-name",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/06/a-new-dawn-halo-studios-youtube-0-6-04-1728257852027.jpeg?width=1280",
-      "publishedAt": "2024-10-06T23:31:01Z",
-      "content": "The future of Halo is starting to come into focus. During Sunday's Halo World Championships, 343 Industries made a number of announcements, including that it will officially be changing its name to H… [+2812 chars]"
+      "author": "Harri Weber",
+      "title": "Teen Sets a Mind-Melting NES Tetris Record, Achieves ‘Rebirth’ - Gizmodo",
+      "description": "The live-streamed saga featured several nail-biters, including a color-palette glitch that made the rapidly falling blocks even harder to see",
+      "url": "https://gizmodo.com/teen-sets-a-mind-melting-nes-tetris-record-achieves-rebirth-2000508530",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/dogplayingtetris-record.jpg",
+      "publishedAt": "2024-10-07T20:10:08Z",
+      "content": "Over the weekend, 16-year-old American competitive gamer Michael Artiaga became the first human NES Tetris player to achieve “rebirth” by beating level 255 and rolling the counter back to zero.\r\nArti… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Report: First wave of M4 Macs, including smaller Mac mini, coming November 1 - Ars Technica",
+      "description": "Macs will reportedly launch around the same time as Apple Intelligence in macOS.",
+      "url": "https://arstechnica.com/gadgets/2024/10/report-first-wave-of-m4-macs-including-smaller-mac-mini-coming-november-1/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/m4-overview-scaled.jpg",
+      "publishedAt": "2024-10-07T19:24:15Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "TrueAchievements"
       },
-      "author": "Chance Miller",
-      "title": "New unboxing video allegedly reveals unannounced M4 MacBook Pro, benchmark results - 9to5Mac",
-      "description": "Apple is expected to debut new M4 Macs later this month, with an expected launch on November 1. A new...",
-      "url": "https://9to5mac.com/2024/10/06/m4-macbook-pro-unboxing-benchmarks/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/screenshot-2024-10-06-at-18.31.24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-06T22:34:00Z",
-      "content": "Screenshot\r\nApple is expected to debut new M4 Macs later this month, with an expected launch on November 1. A new unboxing video on YouTube, however, claims to offer our first look the 14-inch MacBoo… [+2067 chars]"
+      "author": null,
+      "title": "Most popular Xbox games — Shattered Space DLC boosts Starfield back into top ten - TrueAchievements",
+      "description": "Starfield is back in the top ten of our latest gameplay chart of popular Xbox games, while Baldur's Gate 3's latest big update helps it back into the top 40.",
+      "url": "https://www.trueachievements.com/news/xbox-gameplay-chart-starfield",
+      "urlToImage": "https://img.trueachievements.com/chart/329",
+      "publishedAt": "2024-10-07T18:32:12Z",
+      "content": "It seems players are jumping in for the new Starfield achievements now its big Shattered Space DLC is out, as Starfield is back in the top ten of our latest Xbox gameplay chart.It's the only change i… [+1403 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "fox8.com"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Justin Dennis",
-      "title": "WATCH: Fireball streaks against Northeast Ohio sky - WJW FOX 8 News Cleveland",
-      "description": "A local photographer captured what he said might be the best captures of a fireball lighting up the sky on Saturday night.",
-      "url": "https://fox8.com/news/watch-fireball-streaks-against-northeast-ohio-sky/",
-      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/10/2024-10-06-ugc-ryan-connor-n-royalton-fireball-GIF.gif?w=1280",
-      "publishedAt": "2024-10-06T22:31:49Z",
-      "content": "NORTH ROYALTON, Ohio (WJW) — A Northeast Ohio photographer got what he said might be the best local shots of a fireball lighting up the sky on Saturday night.\r\nRyan Connor of North Royalton, who’s pa… [+1177 chars]"
+      "author": "Gene Park",
+      "title": "‘Play Nice’ chronicles the rise and fall of an entertainment empire - The Washington Post",
+      "description": "Journalist Jason Schreier talks with The Post about his new book on the history of the video game company Blizzard Entertainment.",
+      "url": "https://www.washingtonpost.com/books/2024/10/07/play-nice-blizzard-entertainment-schreier/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6VB3RGKKAI63HGFUWFE63MEZU_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-10-07T18:31:59Z",
+      "content": "At the peak of Blizzard Entertainments popularity, developers at the video game company clogged hotel room shower drains with vomit and would get excited over trips to Las Vegas like fraternity broth… [+4678 chars]"
     },
     {
       "source": {
@@ -47,103 +60,51 @@
         "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "27 Biggest Changes In Destiny 2 Episode Revenant Players Should Look Forward To - TheGamePost",
-      "description": "Here are 27 of the biggest changes players should be looking forward to in Destiny 2 Episode Revenant next week.",
-      "url": "https://thegamepost.com/27-changes-destiny-2-episode-revenant/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/10/destiny-2-revenant-key-art-12.webp",
-      "publishedAt": "2024-10-06T22:08:07Z",
-      "content": "Destiny 2 Episode Revenant is set to bring some of the most exciting changes the game has seen. Here are the 27 biggest changes players should be looking forward to next week.\r\nWe are just two days a… [+12817 chars]"
+      "title": "Destiny 2 Players Asked For More Investment In Onslaught, And 'That Is Exactly What We Are Doing With Onslaught Salvation' In Episode Revenant, Says Bungie - TheGamePost",
+      "description": "Bungie is delivering on player feedback with Onslaught Salvation in Destiny 2 Episode Revenant, adding new maps, enemies, and defenses.",
+      "url": "https://thegamepost.com/destiny-2-investment-onslaught-salvation-revenant-bungie/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/10/destiny-2-revenant-onslaught-salvation-3412.webp",
+      "publishedAt": "2024-10-07T18:17:44Z",
+      "content": "Bungie is delivering on player feedback with Onslaught Salvation in Destiny 2 Episode Revenant, adding new maps, enemies, and defenses.\r\nThe second episode of the year for The Final Shape is just aro… [+2723 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "9to5Mac"
       },
-      "author": "Kris Holt",
-      "title": "Today’s NYT ‘Strands’ Hints, Spangram And Answers For Monday, October 7 - Forbes",
-      "description": "Looking for some help with Monday's NYT Strands? An extra hint and the answers are right here.",
-      "url": "https://www.forbes.com/sites/krisholt/2024/10/06/todays-nyt-strands-hints-spangram-and-answers-for-monday-october-7-most-excellent/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6622d362b47c5b3c5804a1c9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-06T22:00:05Z",
-      "content": "Today's NYT Strands hints and answers.\r\nNew York Times\r\nLooking for Sundays Strands hints, spangram and answers? You can find them here:\r\nForbesTodays NYT Strands Hints, Spangram And Answers For Sund… [+3720 chars]"
+      "author": "Filipe Espósito",
+      "title": "Apple Watch sleep apnea detection now available with iOS 18.1 beta 6 - 9to5Mac",
+      "description": "Apple last month announced a new sleep apnea detection feature for Apple Watch. The feature was still unavailable to users...",
+      "url": "https://9to5mac.com/2024/10/07/apple-watch-sleep-apnea-detection-beta/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Three-Apple-Watches-get-FDA-approval-for-sleep-apnea-detection.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-07T17:50:00Z",
+      "content": "Apple last month announced a new sleep apnea detection feature for Apple Watch. The feature was still unavailable to users running iOS 18.1 beta. However, iOS 18.1 beta 6 finally enables sleep apnea … [+2279 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "[Removed]"
       },
-      "author": "Brendan Lowry",
-      "title": "Halo Infinite's Helldivers 2 mode just got an October release date, and its gameplay trailer has me more hyped than ever - Windows Central",
-      "description": "The long-awaited \"Helljumpers\" Helldivers 2 experience for Halo Infinite is just a few weeks away.",
-      "url": "https://www.windowscentral.com/gaming/halo-infinites-helldivers-2-mode-just-got-an-october-release-date-and-its-gameplay-trailer-has-me-more-hyped-than-ever",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W73y4fXpYZ53NFgfgtzHJQ-1200-80.jpg",
-      "publishedAt": "2024-10-06T18:30:57Z",
-      "content": "What you need to know\r\n<ul><li>Helljumpers is a community-made Helldivers 2 mode coming to Halo Infinite soon. It's being made by The Forge Falcons, a team of talented fans using the game's Forge map… [+5540 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-07T17:31:35Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Kotaku"
       },
-      "author": "Gizmodo Deals",
-      "title": "This Samsung 4TB SSD Costs Almost Nothing on Prime Day, Only $0.07 per GB - Gizmodo",
-      "description": "One of our favorite deals currently on Amazon.",
-      "url": "https://gizmodo.com/this-samsung-4tb-ssd-costs-almost-nothing-on-prime-day-only-0-07-per-gb-2000508008",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Samsung-T9-926.jpg",
-      "publishedAt": "2024-10-06T18:28:59Z",
-      "content": "The Samsung T9 4TB SSD is currently making waves with an incredible Prime Day deal price of $299 down from its original $549 representing a substantial 45% discount. This offer is accessible to all c… [+2694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Android Auto continues to build on local media support - Android Police",
-      "description": "Version 13.0 has arrived",
-      "url": "https://www.androidpolice.com/android-auto-13-0-update-local-media/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/05/android-auto-1-ap24-hero.jpg",
-      "publishedAt": "2024-10-06T16:58:00Z",
-      "content": "Key Takeaways\r\n<ul><li> The Android Auto app has just been updated to version 13.0, with no major features in sight. </li><li> However, new strings within the app show that work towards local media s… [+2791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Amazon Slashes AirPods Max Price to Record Low for Prime Day Clearance Sale - Gizmodo",
-      "description": "And Apple hates discounts!",
-      "url": "https://gizmodo.com/amazon-slashes-airpods-max-price-to-record-low-for-prime-day-clearance-sale-2000507985",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple-1.jpg",
-      "publishedAt": "2024-10-06T16:43:32Z",
-      "content": "Amazon has slashed prices on Apple’s premium AirPods Max and offers an unprecedented deal that’s turning heads in the tech world. These high-end over-ear headphones originally priced at $549 saw an i… [+2510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rachel Roszmann",
-      "title": "Michelle Pfeiffer loves a black turtleneck — we found one like hers that's 'not too tight' at Amazon - Yahoo Life",
-      "description": "Not since Audrey Hepburn has someone made a high-neck top so alluring — this one's 50% off.",
-      "url": "https://www.yahoo.com/lifestyle/michelle-pfeiffer-loves-a-black-turtleneck--we-found-one-like-hers-thats-not-too-tight-at-amazon-161950039.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-01/dff6e320-b642-11ee-93ee-2b04a3c61deb",
-      "publishedAt": "2024-10-06T16:40:39Z",
-      "content": "Michelle Pfeiffer is about as glam as you can get without being over-the-top. This Catwoman still purrs, occasionally making us swoon with her makeup-free selfies on Instagram. And if youve scrolled … [+2896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "iPad 9: Amazon Slashes Price Again, Now 5x Cheaper Than iPad Pro for Prime Day - Gizmodo",
-      "description": "Amazon is slashing prices across all Apple products for Prime Day.",
-      "url": "https://gizmodo.com/ipad-9-amazon-slashes-price-again-now-5x-cheaper-than-ipad-pro-for-prime-day-2000507980",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
-      "publishedAt": "2024-10-06T16:31:25Z",
-      "content": "As the autumn chill sets in, Amazon is turning up the heat on its digital marketplace with an incredible Prime Day deal that’s catching everyone’s attention. The star of the show? The 9th generation … [+2283 chars]"
+      "author": "Brian Barnett",
+      "title": "Everything You Need To Know About Diablo 4: Vessel Of Hatred Spiritborn Classes - Kotaku",
+      "description": "We break down all the details about all four animal variants of Blizzard's big update to the action-RPG",
+      "url": "https://kotaku.com/diablo-4-vessel-of-hatred-spiritborn-class-guide-1851666908",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/41f36c331dda701c6ed06665b73105b5.jpg",
+      "publishedAt": "2024-10-07T17:30:00Z",
+      "content": "The build I primarily focused on, Centipede is all about poisoning and weakening your enemies, and calling upon the mighty power of the Centipede spirit to execute your poisoned foes. Unlike Jaguar, … [+3494 chars]"
     },
     {
       "source": {
@@ -151,116 +112,155 @@
         "name": "Android Authority"
       },
       "author": null,
-      "title": "A year later, Apple has failed at USB-C (just like everyone else) - Android Authority",
-      "description": "It's been a year since the iPhone adopted USB-C. Has Apple's switch been for the best, or is the series worse off?",
-      "url": "https://www.androidauthority.com/apple-usb-c-one-year-later-3483637/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-USB-C-cable-and-port.jpg",
-      "publishedAt": "2024-10-06T16:04:53Z",
-      "content": "Its been one year since Apple \r\nrevolutionized\r\ncaught up\r\n was forced into adopting USB-C on the iPhone (thanks, EU) over its longstanding proprietary Lightning connector, and the arrival of the new… [+5579 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Petrana Radulovic, Pete Volk, Nicole Carpenter, Ana Diaz, Polygon Staff",
-      "title": "13 great horror games for horror wimps to play - Polygon",
-      "description": "From the casual spooky vibes of Night in the Woods to the David Lynch-esque Control, here are 13 horror games for scaredy-cats.",
-      "url": "https://www.polygon.com/what-to-play/458656/best-horror-games-wimps-not-too-scary",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/polygon-mosaic-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2024-10-06T16:00:00Z",
-      "content": "Where to play: Mac OS, Windows PC (and starting Oct. 24, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X)What it is: Slay the Princess is deceptively simple: You are on a p… [+818 chars]"
+      "title": "Google is testing a new version of Chrome for Android with extensions support - Android Authority",
+      "description": "Google is working on a new version of Chrome for Android that supports browser extensions, but it might not be available for mobile devices.",
+      "url": "https://www.androidauthority.com/desktop-chrome-android-extensions-3488455/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-9-pro-fold-chrome-android-authority-2.jpg",
+      "publishedAt": "2024-10-07T17:09:00Z",
+      "content": "<ul><li>Google is working on a new version of Chrome for Android that supports browser extensions.</li><li>Specifically, the company is experimenting with desktop builds of Chrome for Android.</li><l… [+4444 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "MacRumors"
       },
-      "author": "Janhoi McGregor",
-      "title": "Google Launches New Feature Boost To Millions Of Android Phones - Forbes",
-      "description": "Google is finding ways to spread AI to as many phones as possible without major OS updates.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2024/10/06/google-lens-android-update-circle-to-search-gemini-ai/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6700f1ed7a87fba255f560b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-06T15:38:46Z",
-      "content": "The Google Pixel 9. (Photo by Justin Sullivan/Getty Images)\r\nGetty Images\r\nGoogle and Samsung are finding ways to spread AI to as many phones as possible without major OS updates, or requiring new ha… [+3272 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Seeds Sixth Developer Betas of iOS 18.1 and iPadOS 18.1 With Apple Intelligence - MacRumors",
+      "description": "Apple today provided developers with the sixth betas of iOS 18.1 and iPadOS 18.1 to continue testing Apple Intelligence features. The fifth betas...",
+      "url": "https://www.macrumors.com/2024/10/07/apple-seeds-ios-18-1-beta-6/",
+      "urlToImage": "https://images.macrumors.com/t/ILRf-IVw2oV_1mKP95yqAgpWiB8=/2500x/article-new/2024/07/Apple-Intelligence-Feature-2.jpg",
+      "publishedAt": "2024-10-07T17:06:41Z",
+      "content": "Apple today provided developers with the sixth betas of iOS 18.1 and iPadOS 18.1 to continue testing Apple Intelligence features. The fifth betas come two weeks after Apple seeded the fifth iOS 18.1 … [+1475 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "Eurogamer.net"
       },
-      "author": "Hassan Mujtaba",
-      "title": "Intel Core Ultra 9 285K Breaks Past 5K Points To Become The Fastest Single-Threaded CPU At PassMark, 11% Faster Than 14900K - Wccftech",
-      "description": "Intel Core Ultra 9 285K has set a record before its launch, achieving the fastest single-threaded CPU score at PassMark.",
-      "url": "https://wccftech.com/intel-core-ultra-9-285k-fastest-single-threaded-cpu-passmark-11-percent-faster-14900k/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/09/Intel-Core-Ultra-9-285K-Arrow-Lake-CPU-Main.jpg",
-      "publishedAt": "2024-10-06T15:32:00Z",
-      "content": "Intel Core Ultra 9 285K has set a record before its launch, achieving the fastest single-threaded CPU score at PassMark.\r\nIntel's Arrow Lake Surprises With Top-Notch Single-Thread Performance As Core… [+4437 chars]"
+      "author": "Matt Wales",
+      "title": "Commandos: Origins' WW2 real-time stealth tactics revival now has a demo - Eurogamer",
+      "description": "If you've been impatiently awaiting the arrival of Commandos: Origins since its announcement last year, here's the next…",
+      "url": "https://www.eurogamer.net/commandos-origins-ww2-real-time-stealth-tactics-revival-now-has-a-demo",
+      "urlToImage": "https://assetsio.gnwcdn.com/commandos-origins-desert.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-07T16:56:55Z",
+      "content": "If you've been impatiently awaiting the arrival of Commandos: Origins since its announcement last year, here's the next best thing; Claymore Game Studios' revival of the classic WW2 real-time stealth… [+2013 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Pokemon GO Hub"
       },
-      "author": "David Phelan",
-      "title": "17 Outstanding iPhone 16 And iPhone 16 Pro Cases For Design And Function - Forbes",
-      "description": "So, you’re buying a new iPhone? Treat it right with a case that will protect it and make it look great.",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/10/06/13-outstanding-iphone-16-and-iphone-16-pro-cases-for-design-and-function-best-iphone-16-pro-max-cases/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670013a83b10466181ffcc05/0x0.jpg?format=jpg&crop=1000,750,x0,y122,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-06T15:27:41Z",
-      "content": "Updated Oct. 6 with more iPhone 16 and iPhone 16 Pro cases. \r\nApples class of 2024 iPhones have arrived. The iPhone 16 series consists of four new models all slightly different in size from each othe… [+13829 chars]"
+      "author": "kittypokemonsalot",
+      "title": "Pikachu Pop Star, Pikachu Rock Star, and Snorlax wearing a Studded Jacket Featured in the Wild Area Event! - Pokémon GO Hub",
+      "description": "Trainers, get excited for the Wild Area event both in Fukuoka and globally, Pop Star Pikachu and Rock Star Pikachu return to Pokémon GO for the first time since 2021, and a new Snorlax costume will debut, in a studded jacket! Pop Star and Rock Star Pikachu fi…",
+      "url": "https://pokemongohub.net/post/news/wild-area-pop-rock-star-pika-jacket-snorlax/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2024/10/snorlax-in-studded-jacket.webp",
+      "publishedAt": "2024-10-07T16:21:38Z",
+      "content": "Trainers, get excited for the Wild Area event both in Fukuoka and globally, Pop Star Pikachu and Rock Star Pikachu return to Pokémon GO for the first time since 2021, and a new Snorlax costume will d… [+1828 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Central"
+        "name": "9to5Mac"
       },
-      "author": "Michael L Hicks",
-      "title": "I like rucking, but be careful before you go all-in on this popular workout fad - Android Central",
-      "description": "Before you spend upwards of $500 on a Goruck rucksack, weighted plates, hiking boots, and other tech, make sure you know what you're getting into.",
-      "url": "https://www.androidcentral.com/wearables/rucking-workout-fad-is-fun-novelty-but-not-for-everyone",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XaxKRFKGAu9BUK7nb9TR2R-1200-80.jpg",
-      "publishedAt": "2024-10-06T15:19:49Z",
-      "content": "(Image credit: Android Central)\r\nIn this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his… [+8973 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Tony Fadell-backed Plumerai brings on-device AI to home security cameras - TechCrunch",
-      "description": "On Wednesday, some Harvard students made headlines by outfitting a pair of Ray-Ban Meta glasses with facial recognition. The DIY project is the latest",
-      "url": "https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Plumerai-TechCrunch-Image.jpg?resize=1200,738",
-      "publishedAt": "2024-10-06T15:00:00Z",
-      "content": "On Wednesday, some Harvard students made headlines by outfitting a pair of Ray-Ban Meta glasses with facial recognition. The DIY project is the latest piece of news to stoke privacy concerns around t… [+3546 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jolie Kerr",
-      "title": "Do laundry detergent sheets actually clean your clothes? I spent months testing them to find out - CNN Underscored",
-      "description": "Laundry detergent sheets are the new kid on the block, but do they work as well as traditional liquid, pod or powder formulas? Our cleaning expert put Arm & Hammer Power Sheets to the test.",
-      "url": "https://www.cnn.com/cnn-underscored/reviews/arm-and-hammer-laundry-detergent-sheets",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/arm-and-hammer-power-sheets-4.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-10-06T15:00:00Z",
-      "content": "When it comes to doing laundry, one of the most important factors is using the right products for the job. While most people have a go-to laundry detergent thats a staple in their household, new form… [+6177 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Vision Pro’s first scripted immersive film is coming this week, here’s the trailer - 9to5Mac",
+      "description": "Apple has released the trailer for the first scripted film captured in Immersive Video. Submerged will debut this Thursday on Vision Pro.",
+      "url": "https://9to5mac.com/2024/10/07/vision-pros-first-scripted-immersive-film-is-coming-this-week-heres-the-trailer/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/submerged-vision-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-07T16:00:00Z",
+      "content": "The Vision Pro is a fantastic device for video, especially anything captured in Apples Immersive Video format. Before now, all Immersive Video content has been unscripted: things like sports, global … [+1796 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "9to5google.com"
       },
-      "author": "David Phelan",
-      "title": "Apple iPad Mini And iPad 11 Release Date: New Report Reveals Extraordinary Strategy - Forbes",
-      "description": "A new report from a respected source suggests an exact date for the release of one new iPad, but what about the other one?",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/10/06/apple-ipad-mini-and-ipad-11-release-date-new-report-reveals-extraordinary-strategy-apple-intelligence/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6702a0966abaebeb308f6291/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-06T14:45:02Z",
-      "content": "Apple is expected to update at least one of the iPads in its range in the coming weeks, the iPad mini. But when, exactly, and what about the regular iPad, currently in its tenth-generation? A new rep… [+2831 chars]"
+      "author": "Andrew Romero",
+      "title": "MediaTek’s best chips will now support multimodal Gemini Nano - 9to5Google",
+      "description": "MediaTek is bringing Gemini Nano support to its processors, starting with the upcoming Dimensity 9400, which is set to launch...",
+      "url": "http://9to5google.com/2024/10/07/mediatek-adds-support-for-gemini-nano/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/11/MediaTek-Dimensity-9300-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-07T16:00:00Z",
+      "content": "MediaTek is bringing Gemini Nano support to its processors, starting with the upcoming Dimensity 9400, which is set to launch soon.\r\nGemini Nano has slowly expanded over the last few months to more O… [+1622 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Rabbit CEO Jesse Lyu isn’t thinking too far ahead - The Verge",
+      "description": "Rabbit’s large action model playground is finally live, but generative AI is a very crowded space right now.",
+      "url": "https://www.theverge.com/24260181/rabbit-r1-large-action-model-lam-playground-generative-ai-jesse-lyu-interview-users",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FOahZr5zuYxL5u-daRo-5TT1fNA=/0x0:2760x1839/1200x628/filters:focal(1380x920:1381x921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25662651/DCD_Jesse_Lyu.png",
+      "publishedAt": "2024-10-07T15:33:36Z",
+      "content": "Rabbits large action model is here, sort of but everyone else is coming fast.\r\nByNilay Patel, editor-in-chief of The Verge, host of the Decoder podcast, and co-host of The Vergecast.\r\nToday, Im talki… [+71146 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "Apple Pencil Pro drops under $100 for the first time - The Verge",
+      "description": "The Apple Pencil Pro drops to an all-time low of $99. We’re also seeing one of the first Pixel Watch 3 discounts, and the  PS5 Slim is matching its lowest price.",
+      "url": "https://www.theverge.com/2024/10/7/24264200/apple-pencil-pro-pixel-watch-3-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ivH3s9yhS-sxhXfRD95b2zlI4m0=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25437226/DSC08748.JPG",
+      "publishedAt": "2024-10-07T15:19:02Z",
+      "content": "Apple Pencil Pro drops under $100 for the first time\r\nApple Pencil Pro drops under $100 for the first time\r\n / Were also seeing the Pixel Watch 3s first deal, $50 off a PS5 Slim, and the Lego Piranha… [+3178 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan Dinsdale",
+      "title": "Nintendo Switch Modder Who Refused to Shut Down Now Takes to Court Against Nintendo Without a Lawyer - IGN",
+      "description": "The alleged Nintendo Switch modder who refused to shut down their business despite a warning from Mario maker Nintendo now appears to be taking the titan on in court without a lawyer.",
+      "url": "https://www.ign.com/articles/nintendo-switch-modder-who-refused-to-shut-down-now-takes-to-court-against-nintendo-without-a-lawyer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/02/mario-movie-pratt-trailer-director-says-perfect-1677717657530.jpg?width=1280",
+      "publishedAt": "2024-10-07T15:15:25Z",
+      "content": "The alleged Nintendo Switch modder who refused to shut down their business despite a warning from Mario maker Nintendo now appears to be taking the titan on in court without a lawyer.\r\nAs reported by… [+3403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Silent Hill 2 Remake \"a legitimate evolution\", says original director - Eurogamer",
+      "description": "The director of Silent Hill 2 has commented on the furore around some of the changes Bloober Team and Konami made to it…",
+      "url": "https://www.eurogamer.net/silent-hill-2s-original-director-calls-silent-hill-2-remake-a-legitimate-evolution-of-silent-hill-2",
+      "urlToImage": "https://assetsio.gnwcdn.com/SH2R_10.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-07T15:13:54Z",
+      "content": "The director of Silent Hill 2 has commented on the furore around some of the changes Bloober Team and Konami made to its reimagined Silent Hill 2 Remake, saying he \"wants to try playing the even more… [+3068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Willa Rowe",
+      "title": "One Of The Best Metroidvanias Of The Past Decade Is A Bargain On Steam Right Now - Kotaku",
+      "description": "Dead Cells and its expansions are currently over 50 percent off",
+      "url": "https://kotaku.com/dead-cells-steam-sale-metroidvania-roguelike-pc-1851666710",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2ca76140cecd945adbbf24e3624f8859.jpg",
+      "publishedAt": "2024-10-07T15:05:00Z",
+      "content": "In the past decade, Metroidvanias have seen a massive resurgence thanks to the indie scene. There have been dozens of new entries in the genre that introduce their own twists on the formula, and one … [+2580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "Alien: Isolation 2 teased by Creative Assembly, with original director returning - Eurogamer",
+      "description": "An Alien: Isolation sequel is in the works, with original director Al Hope at the helm.",
+      "url": "https://www.eurogamer.net/alien-isolation-2-teased-by-creative-assembly-with-original-director-returning",
+      "urlToImage": "https://assetsio.gnwcdn.com/Alien-Isolation-concept-art-by-artist-and-illustrator-Brad-Wright-showing-Ripley-and-her-cat.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-07T15:02:49Z",
+      "content": "Can you believe Alien: Isolation is now 10?! Doesn't time fly when you are cowering for your life underneath a table, as a hulking great big Xenomorph stalks you around a space station. Ahh, good tim… [+1538 chars]"
     }
   ]
 }
