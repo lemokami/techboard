@@ -1,240 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 45,
   "articles": [
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy, Wes Davis",
-      "title": "How to send messages via satellite on your iPhone or Pixel - The Verge",
-      "description": "Apple’s Emergency SOS via satellite and Google’s Satellite SOS services can connect you with 911 when you don’t have reception. Plus, Apple’s new Messages via satellite can help you stay in touch with loved ones.",
-      "url": "https://www.theverge.com/24265288/satellite-messages-iphone-pixel-how-to-send",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/d7ScMsIszjWFJ3hFy314F0MciwA=/720x0:2721x1208/1200x628/filters:focal(1730x479:1731x480)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485431/Screenshot_2024_06_10_at_1.23.44_PM.png",
-      "publishedAt": "2024-10-08T20:42:14Z",
-      "content": "How to send messages via satellite on your iPhone or Pixel\r\nHow to send messages via satellite on your iPhone or Pixel\r\n / Satellite messaging features on iPhones and Pixels can provide a lifeline in… [+6314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Keith Cooper",
-      "title": "Can Rocket Lab come to NASA's rescue with new Mars sample-return plan? - Space.com",
-      "description": "The precious Mars samples collected by the Perseverance rover could be coming to Earth sooner rather than later.",
-      "url": "https://www.space.com/rocket-lab-mars-sample-return-proposal-nasa",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BRmR6J25JhBehfYTbwiHMJ-1200-80.jpg",
-      "publishedAt": "2024-10-08T20:00:01Z",
-      "content": "NASA's troubled Mars sample-return program may have a new lifeline, in the form of a proposal from private space company Rocket Lab to help save the mission.\r\nWhen the Perseverance\r\n rover landed on … [+4828 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "Samsung foldable that debuted at $2K in 2020 stops receiving security updates - Ars Technica",
-      "description": "Newer Samsung Galaxy phones are promised seven years of updates.",
-      "url": "https://arstechnica.com/gadgets/2024/10/samsung-foldable-that-debuted-at-2k-in-2020-stops-receiving-security-updates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/02_galaxyzfold2_mysticbronze_back115-scaled.jpg",
-      "publishedAt": "2024-10-08T19:31:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Rory Mellon",
-      "title": "PlayStation just beat Prime Day with the best PS5 games from $2 — here’s 13 deals I’d buy - Tom's Guide",
-      "description": "PlayStation Store is out-discounting Amazon Prime Day",
-      "url": "https://www.tomsguide.com/gaming/playstation/playstation-just-beat-prime-day-with-the-best-ps5-games-from-usd2-heres-13-deals-id-buy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CUmF2PeaaHTVPWdHr7x6hm-1200-80.jpg",
-      "publishedAt": "2024-10-08T18:22:32Z",
-      "content": "The second Prime Day event of 2024 is in full swing, but other retailers aren’t letting Amazon enjoy the deals spotlight unchallenged. Case in point, the PlayStation Store is running a rival sale wit… [+846 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "The best Prime Day smart home deals we found - The Verge",
-      "description": "Here are the best Amazon Prime Big Deal Days deals we found on video doorbells, robot vacuums, smart lights, and more.",
-      "url": "https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GfnYkAVN4mMQvifvXBgo_TfyBbY=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25289918/247023_Echo_Hub_JTuohy_0003.jpg",
-      "publishedAt": "2024-10-08T16:22:45Z",
-      "content": "The best Prime Day smart home deals we found\r\nThe best Prime Day smart home deals we found\r\n / Our smart home reviewer rounds up her favorite deals on video doorbells, robot vacuums, smart lights, an… [+6020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-10-08T16:12:58Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Android Lovers’ Dream, The Pixel 8a Price is Slashed on Amazon For Prime Day - Gizmodo",
-      "description": "It's also 3 times cheaper than a Pixel 9 Pro.",
-      "url": "https://gizmodo.com/android-lovers-dream-the-pixel-8a-price-is-slashed-on-amazon-for-prime-day-2000509131",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/pixel-8a-google.jpg",
-      "publishedAt": "2024-10-08T15:51:37Z",
-      "content": "As Prime Day unfolds its digital red carpet, this pocket-sized smartphone is stealing the spotlight with a price tag that’s more attractive than a cat video on your social media feed. At 24% off, the… [+1868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Taylor Clemons",
-      "title": "Meta's new 512GB Quest 3 deal is one of the best October Prime Day VR deals right now - ZDNet",
-      "description": "Meta announced that it will discontinue the 128GB version of the Quest 3 VR headset, and drop the price of the the 512GB by $150. Just in time for Amazon's October Prime Day.",
-      "url": "https://www.zdnet.com/article/meta-quest-3-deal-10-08-2024/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4209c7b9ea9408ac634ed14747f95b1dcf375132/2023/12/26/b24865bb-4dc8-4519-9490-0c7c26577632/meta-quest-3-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-10-08T15:39:00Z",
-      "content": "The Meta Quest 3 gets a price drop this fall.\r\nJason Hiner/ZDNET\r\nAt the Meta Connect event on Wednesday, Meta announced that not only would it discontinue the 128GB version of the Meta Quest 3 VR he… [+1412 chars]"
-    },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Wesley Yin-Poole",
-      "title": "Sony Announces Permanent Removal of LittleBigPlanet 3 PS4 From the PlayStation Store - IGN",
-      "description": "Sony has announced plans to pull LittleBigPlanet 3 PS4 from the PlayStation Store for good after years of insurmountable server issues caused by hackers.",
-      "url": "https://www.ign.com/articles/sony-announces-permanent-removal-of-littlebigplanet-3-ps4-from-the-playstation-store",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/19/littlebigplanet-3-1713563545564.png?width=1280",
-      "publishedAt": "2024-10-08T15:13:33Z",
-      "content": "Sony has announced plans to pull LittleBigPlanet 3 from the PlayStation Store for good after years of insurmountable server issues caused by hackers.\r\nThe PS4 version of LittleBigPlanet leaves the Pl… [+1868 chars]"
+      "author": "Noah Hunter",
+      "title": "Best Buy Has the PS5 Game Deals Amazon Is Missing, and They'll Be Gone Tomorrow - IGN",
+      "description": "Best Buy has slashed the price of select PS5 games today for Prime Day, and we've rounded up the best deals available.",
+      "url": "https://www.ign.com/articles/best-buy-ps5-games-on-sale-october-prime-day-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/09/best-buy-games-1728510705197.png?width=1280",
+      "publishedAt": "2024-10-09T23:18:32Z",
+      "content": "Alongside Prime Big Deal Days, other retailers, like Best Buy, are offering competing discounts and sales. Today only, you can save on select PlayStation 5 video games at Best Buy, with some of the b… [+1807 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "BleepingComputer"
       },
-      "author": "Victoria Kennedy",
-      "title": "Diablo 4 Vessel of Hatred DLC boosts Steam players to record high, despite rocky launch - Eurogamer",
-      "description": "Diablo 4's expansion Vessel of Hatred released earlier today, welcoming a record number of Steam players in the process.",
-      "url": "https://www.eurogamer.net/diablo-4-vessel-of-hatred-dlc-boosts-steam-players-to-record-high-despite-rocky-launch",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-from-Diablo-4-Vessel-of-Hatred-live-action-trailer-showing-a-warrior-with-a-cheetah-style-head-dress-in-a-jungle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-08T14:52:54Z",
-      "content": "Diablo 4's expansion Vessel of Hatred released earlier today, welcoming a record number of Steam players in the process.\r\nAt the time of writing, there are 45,231 Diablo 4 players on Steam, a record … [+2409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Nintendo Life",
-      "title": "Amazon Prime Big Deal Days 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And More - Nintendo Life",
-      "description": "Amazon's next mega sale is here!",
-      "url": "https://www.nintendolife.com/guides/amazon-prime-big-deal-days-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more",
-      "urlToImage": "https://images.nintendolife.com/fcc6101a595dc/1280x720.jpg",
-      "publishedAt": "2024-10-08T14:44:24Z",
-      "content": "The latest Amazon Prime Day is here in the form of Amazon Prime Big Deal Days and as always, there are plenty of deals on Switch consoles, games, micro SD cards, accessories, and more to be found!\r\nT… [+4890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Currie",
-      "title": "Netizens are torturing Google's AI podcast hosts - The Register",
-      "description": "NotebookLM's Audio Overview feature rudely discovers its wife never existed",
-      "url": "https://www.theregister.com/2024/10/08/torturing_google_podcast_hosts/",
-      "urlToImage": "https://regmedia.co.uk/2020/04/09/robotexploding.jpg",
-      "publishedAt": "2024-10-08T14:15:00Z",
-      "content": "The demise of HAL 9000 in Stanley Kubrick's 2001: A Space Odyssey remains a haunting cinema moment nearly six decades on for the questions it raises about consciousness, the ethics of AI control, and… [+4802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Camera World"
-      },
-      "author": "Gareth Bevan",
-      "title": "The refreshed Panasonic Lumix S5D offers great full-frame value for pro creators - Digital Camera World",
-      "description": "Panasonic refreshes the original Lumix S5 to add DJI LiDAR autofocus compatibility – still at a tantalizingly low price",
-      "url": "https://www.digitalcameraworld.com/news/the-refreshed-panasonic-lumix-s5d-offers-great-full-frame-value-for-pro-creators",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5dmymr3WiE9BdD5YP5mWVn-1200-80.jpg",
-      "publishedAt": "2024-10-08T14:00:58Z",
-      "content": "Panasonic has just announced a slight refresh of its Lumix S5 camera – called the Lumix S5D, it offers some minor improvements over the original model with new compatibility with DJI's LiDAR autofocu… [+3430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Now 30% Off at Prime Day, This Bose Soundbar is The Most Affordable And Top-Rated Option on The Market - Gizmodo",
-      "description": "This versatile Bose speaker can fulfill various roles in your living space.",
-      "url": "https://gizmodo.com/now-30-off-at-prime-day-this-bose-soundbar-is-the-most-affordable-and-top-rated-option-on-the-market-2000508940",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-soundbar.jpg",
-      "publishedAt": "2024-10-08T13:40:07Z",
-      "content": "As Amazon’s Prime Day is here, one standout deal has caught our attention: the Bose TV Speaker which is a compact soundbar that packs a powerful punch is now available at an astonishing 29% discount … [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "James Archer",
-      "title": "Prime Big Deal Days cuts the excellent WD Black SN850X SSD to its lowest price in ages - Rock Paper Shotgun",
-      "description": "The best gaming SSD (according to us), the WD Black SN850X, is enjoying some discounts in the Amazon Prime Big Deal Days sale.",
-      "url": "https://www.rockpapershotgun.com/prime-big-deal-days-cuts-the-excellent-wd-black-sn850x-ssd-to-its-lowest-price-in-ages",
-      "urlToImage": "https://assetsio.gnwcdn.com/WD-Black-SN850X-SSD-fixed.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-08T13:28:24Z",
-      "content": "This latest Amazon Prime Big Deal Days really is playing all the hits for PC storage. As well as money off the finest Steam Deck microSD, there are savings to be had on our tip-top desktop SSD pick, … [+1479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Red Dead Redemption and Undead Nightmare - Official PC Announcement Trailer - IGN",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-10-08T13:08:25Z",
-      "content": null
+      "author": "Lawrence Abrams",
+      "title": "Internet Archive hacked, data breach impacts 31 million users - BleepingComputer",
+      "description": "Internet Archive's \"The Wayback Machine\" has suffered a data breach after a threat actor compromised the website and stole a user authentication database containing 31 million unique records.",
+      "url": "https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/09/internet-archive.jpg",
+      "publishedAt": "2024-10-09T22:22:20Z",
+      "content": "Internet Archive's \"The Wayback Machine\" has suffered a data breach after a threat actor compromised the website and stole a user authentication database containing 31 million unique records.\r\nNews o… [+2660 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jess Weatherbed",
-      "title": "Adobe has a new tool to protect artists’ work from AI - The Verge",
-      "description": "Adobe is expanding its plans to fix online content attribution, making it easier for creatives to label their work and opt out of AI training.",
-      "url": "https://www.theverge.com/2024/10/8/24265031/adobe-content-authenticity-web-app-ai-label-availability",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/z1VVVs9aBwynTCfDTScpr2YQyWI=/0x0:1280x800/1200x628/filters:focal(640x400:641x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664092/ACA_ChromeExtension.jpg",
-      "publishedAt": "2024-10-08T13:00:00Z",
-      "content": "Adobe has a new tool to protect artists work from AI\r\nAdobe has a new tool to protect artists work from AI\r\n / The free Content Authenticity web app allows creators to apply attribution and do not tr… [+4074 chars]"
+      "author": "Jay Peters",
+      "title": "Nintendo is taking applications to join a mysterious Switch Online playtest - The Verge",
+      "description": "Nintendo will allow up to 10,000 participants to try a new feature for the Nintendo Switch Online service, with applications available starting Thursday at 11AM ET.",
+      "url": "https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZPiMIMZFblzUQCO-8pBDV_x8ack=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590105/STK054_NINTENDO_C.jpg",
+      "publishedAt": "2024-10-09T22:16:42Z",
+      "content": "Nintendo is taking applications to join a mysterious Switch Online playtest\r\nNintendo is taking applications to join a mysterious Switch Online playtest\r\n / As many as 10,000 participants will be all… [+1924 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "author": "Tom Phillips",
-      "title": "Behind the scenes at Blizzard: Jason Schreier talks misconduct, swingers parties and what press got wrong - Eurogamer",
-      "description": "Few video game companies hold such a personal connection to fans as Blizzard. Now, imagine how deep that connection run…",
-      "url": "https://www.eurogamer.net/behind-the-scenes-at-blizzard-jason-schreier-talks-misconduct-swingers-parties-and-what-press-got-wrong",
-      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-1_O2B9y7a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-08T11:46:50Z",
-      "content": "Few video game companies hold such a personal connection to fans as Blizzard. Now, imagine how deep that connection runs if you worked there. For the many thousands of staff who sweated to build Worl… [+19165 chars]"
+      "author": "ABC News",
+      "title": "How to connect to emergency satellite on iPhone and Android before Hurricane Milton - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/connect-emergency-satellite-iphone-android-hurricane-milton-makes/story?id\\\\u003d114651217",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T21:54:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Kitty Guo",
+      "title": "October Prime Day Is for Gift Shopping - New York Magazine",
+      "description": "We found the best October Amazon Prime Day deals for Christmas gifting, including a Barbie Dreamhouse, Aura digital picture frames, and the Theragun Mini.",
+      "url": "http://nymag.com/strategist/article/october-amazon-prime-day-deals-christmas-gifts-2024.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/ae4/d61/53d0330821d901e37d551a18503cb11b51-primedaylede-pimple-patch.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-10-09T21:44:00Z",
+      "content": "October Prime Day is here. To find the best deals in every category, follow all of our Prime Day coverage. \r\nAs October Prime Day draws to a close, might I suggest devoting some time this evening to … [+4662 chars]"
     },
     {
       "source": {
@@ -246,21 +77,190 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-08T11:45:28Z",
+      "publishedAt": "2024-10-09T21:42:51Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Newser",
+      "title": "Teen Is First to Achieve Tetris 'Rebirth' - Newser",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWxWdi1tb2tydlNPaGI2MzExVmptVWRmZzR2dWo1eDRiR2NrNW1DSElPcU9YQW5wQUwtRkk4eDZZRkJvdW8wYTVfeHZHNHFtSjc0RlhZcVZtbl9peEpsLVZUWlczSG9PYTlxRUpRWjB1eEhpbnpDQ2dSRVJYcC1rcFQ2cEVQems?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T21:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Few Hours Left To Get the Nearly 50% Off Anker Power Bank That Can Fully Charge an iPhone Nearly 5 Times Over - Gizmodo",
+      "description": "Get the Anker power bank with a smart digital display for just $80 — down from $150 for Prime Day.",
+      "url": "https://gizmodo.com/few-hours-left-to-get-the-nearly-50-off-anker-power-bank-that-can-fully-charge-an-iphone-nearly-5-times-over-2000510172",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AnkerPowerBank-2.jpg",
+      "publishedAt": "2024-10-09T21:22:50Z",
+      "content": "We’re approaching the end of Prime Day which means your time to save money on a ton of crap you’ve convinced yourself you need is dwindling. Here is something you might actually need or at the very l… [+2029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T20:54:17Z",
       "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "MacRumors"
       },
-      "author": "SamMobile, Abhijeet Mishra",
-      "title": "Galaxy S24 FE’s seven-year journey of software updates starts this month - SamMobile - Samsung news",
-      "description": "Samsung has added the Galaxy S24 FE to the list of devices that are eligible to receive monthly security updates, ...",
-      "url": "https://www.sammobile.com/news/galaxy-s24-fe-seven-years-software-update-support-begins/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/09/Galaxy-S24-FE-hands-on-Galaxy-AI-720x405.jpg",
-      "publishedAt": "2024-10-08T09:46:00Z",
-      "content": "Samsung has added the Galaxy S24 FE to the list of devices that are eligible to receive monthly security updates, kickstarting what will be a seven-year journey of software updates for the latest Fan… [+1455 chars]"
+      "author": "Juli Clover",
+      "title": "Apple's M4 iPad Pro vs. Samsung's Galaxy Tab S10 Ultra - MacRumors",
+      "description": "Both Samsung and Apple have come out with new top-of-the-line tablet options this year, with Apple introducing the M4 iPad Pro back in May and...",
+      "url": "https://www.macrumors.com/2024/10/09/m4-ipad-pro-vs-galaxy-tab-s10-ultra/",
+      "urlToImage": "https://images.macrumors.com/t/LIGaD_l3cYw7lIh4J_OistBoMuM=/2500x/article-new/2024/10/M4-Pro-vs-S10-Ultra-Thumb-1.5.jpg",
+      "publishedAt": "2024-10-09T20:01:19Z",
+      "content": "Both Samsung and Apple have come out with new top-of-the-line tablet options this year, with Apple introducing the M4 iPad Pro back in May and Samsung debuting the Galaxy Tab S10 Ultra earlier this m… [+2388 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Apple’s Vision Pro leader, Dan Riccio, is retiring - The Verge",
+      "description": "Dan Riccio, who heads the Vision Pro and oversaw much of Apple’s popular new hardware from 2012 to 2021, is reportedly retiring this month after 26 years.",
+      "url": "https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ed7T1NHwsYw7ALRGvqF9Z9pWj74=/0x0:1960x1362/1200x628/filters:focal(980x681:981x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/22259288/Apple_dan_riccio_begins_a_new_chapter_at_apple_01252020_big.jpg.large_2x.jpg",
+      "publishedAt": "2024-10-09T19:20:46Z",
+      "content": "Apples Vision Pro leader, Dan Riccio, is retiring\r\nApples Vision Pro leader, Dan Riccio, is retiring\r\n / Dan Riccio transitioned from being Apples SVP of hardware engineering in 2021 to take over a n… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "You can grab three months of Xbox Game Pass Ultimate for just $29 today - The Verge",
+      "description": "Today only, Woot is offering a three-month subscription to Xbox Game Pass Ultimate for about $29. One-month subscription codes are also on sale for around $11.",
+      "url": "https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3mI_OlIaR6adBkCioVw1wQj6g0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg",
+      "publishedAt": "2024-10-09T17:57:15Z",
+      "content": "You can grab three months of Xbox Game Pass Ultimate for just $29 today\r\nYou can grab three months of Xbox Game Pass Ultimate for just $29 today\r\n / And you can still stack up to 36 months worth of s… [+2444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Image Tools in iOS 18.2: These new Apple Intelligence features are coming - 9to5Mac",
+      "description": "Apple Intelligence will introduce three key Image Tools in iOS 18.2 later this year. Here’s everything new that’s coming.",
+      "url": "https://9to5mac.com/2024/10/09/image-tools-in-ios-182-these-new-apple-intelligence-features-are-coming/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/image-tools-apple-intelligence-ios182.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-09T17:34:00Z",
+      "content": "The first wave of Apple Intelligence features will arrive in just a few weeks as part of iOS 18.1. But some of the more highly anticipated AI capabilitiesincluding three key Image Toolsare expected i… [+3868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LADbible"
+      },
+      "author": "Brenna Cooper",
+      "title": "Apple declares another one of its iPhones now 'obsolete' and it's bad news if you have it - LADbible",
+      "description": "Apple has declared another one of its iPhone models obsolete - is yours now on the list?",
+      "url": "https://www.ladbible.com/news/technology/iphone-models-obsolete-october-2024-854999-20241009",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt5ccbe7fc2d1468c0/6706af339b5d87abe08f5276/iphone-obsolete.png",
+      "publishedAt": "2024-10-09T17:23:26Z",
+      "content": "Apple has just announced they're making another one of their older iPhone models obsolete - here's what it means if yours is on the list.\r\nTrying to keep up with the constant release of new iPhone mo… [+2345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "October's PlayStation Plus Extra and Premium games include Dead Island 2, Dino Crisis - Eurogamer",
+      "description": "October's PlayStation Plus additions for Premium and Extra subscribers have been revealed, and there's a bunch of seaso…",
+      "url": "https://www.eurogamer.net/octobers-playstation-plus-extra-and-premium-games-include-dead-island-2-dino-crisis",
+      "urlToImage": "https://assetsio.gnwcdn.com/ss_d0ac6f8e16e69a331d848b879f6a2384f4cd8acd.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-09T16:15:38Z",
+      "content": "October's PlayStation Plus additions for Premium and Extra subscribers have been revealed, and there's a bunch of seasonally appropriate spookiness - Dead Island 2 and Dark Pictures: The Devil Within… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Google Photos could soon tell you if an image is AI-generated (APK teardown) - Android Authority",
+      "description": "Google Photos could soon show image metadata which would tell you whether an image has been edited with AI or generated with AI. Read on!",
+      "url": "https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/08/google-pixel-9-pro-xl-studio-app-3-scaled.jpg",
+      "publishedAt": "2024-10-09T16:12:50Z",
+      "content": "<ul><li>Google Photos could soon display IPTC credit metadata on images, which will be helpful in figuring out if an image is AI-generated or not.</li><li>The changes are not currently live within Go… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Never mind the Switch 2, Nintendo launches a $100 sleep-tracking alarm clock - TechCrunch",
+      "description": "That Nintendo gadget that showed up on the Federal Communications Commission’s site last month is sadly not the Switch 2. While the gaming giant confirmed",
+      "url": "https://techcrunch.com/2024/10/09/never-mind-the-switch-2-nintendo-launches-a-100-sleep-tracking-alarm-clock/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/121311-nintendo-sound-clock-alarmo-zelda-face-bedside-2-1200x675-1.jpeg?w=1050",
+      "publishedAt": "2024-10-09T15:58:35Z",
+      "content": "That Nintendo gadget that showed up on the Federal Communications Commissions site last month is sadly not the Switch 2. While the gaming giant confirmed in May that a Switch successor is, indeed, in… [+454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Halowaypoint.com"
+      },
+      "author": "Alex Wakeford",
+      "title": "Haloween Operation Launch | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>As the dark and cold close in, the dead have begun to stir. Gear up and find out how long you can endure the terrifying hordes in the Survive the Undead playlist, featuring three chilling maps created by The Forge Falcons, and much more!</p>",
+      "url": "https://www.halowaypoint.com/news/haloween-operation-launch",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/10/Haloween.jpg",
+      "publishedAt": "2024-10-09T15:40:40Z",
+      "content": "Spooky scary skeletonsSend shivers down your spine,Shrieking skulls will shock your soulSee the coming of Spartanstein!\r\nIts that time of year again where theres a chill in the air, the wind howls an… [+11283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Metaphor: ReFantazio’ Review Scores Have Made It A Three-Way Race For GOTY 2024 - Forbes",
+      "description": "Metaphor: ReFantazio has arrived with a 94 Metascore, which is tied for the highest of the year alongside Sony’s Astro Bot and Elden Ring’s Shadow of the Erdtree expan...",
+      "url": "https://www.forbes.com/sites/paultassi/2024/10/09/metaphor-refantazio-review-scores-have-made-it-a-three-way-race-for-goty-2024/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670698e29f48f7e27e3706fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-09T14:55:54Z",
+      "content": "Metaphor: ReFantazio\r\nAtlus\r\nNever count out Atlus, and now the famed studio has unleashed a late-comer for GOTY 2024. What may have felt like a surefire head-to-head matchup before is now up in the … [+2399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Best Buy and Samsung Introduce Prime Day-Like Sales With Big Savings Sitewide - MacRumors",
+      "description": "Amazon's second Prime Day of the year ends later today, and a few retailers have been hosting their own 48-hour discount events to compete with...",
+      "url": "https://www.macrumors.com/2024/10/09/best-buy-and-samsung-prime-day/",
+      "urlToImage": "https://images.macrumors.com/t/fWg-3w99LU5lKjJ3i6_Afjcnnlw=/2500x/article-new/2024/10/best-buy-prime-day-blue.jpeg",
+      "publishedAt": "2024-10-09T14:38:25Z",
+      "content": "Amazon's second Prime Day of the year ends later today, and a few retailers have been hosting their own 48-hour discount events to compete with Prime Day. Below we've collected deals from Best Buy an… [+2463 chars]"
     }
   ]
 }
