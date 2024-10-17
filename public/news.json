@@ -1,71 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Dan Goodin",
-      "title": "Invisible text that AI chatbots understand and humans can’t? Yep, it’s a thing. - Ars Technica",
-      "description": "A quirk in the Unicode standard harbors an ideal steganographic code channel.",
-      "url": "https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye.jpg",
-      "publishedAt": "2024-10-14T19:06:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Lots of PCs are poised to fall off the Windows 10 update cliff one year from today - Ars Technica",
-      "description": "Windows 10 is by far the most-used version of Windows, and support ends soon.",
-      "url": "https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new.jpg",
-      "publishedAt": "2024-10-14T17:51:52Z",
-      "content": null
+      "author": "Quentyn Kennemer",
+      "title": "Oura Ring 3 Horizon drops to $299 - The Verge",
+      "description": "We’re seeing the lowest price yet on the third-gen Oura Ring Horizon. Plus, an NES Lego set is down to its lowest price, as is the 2023 Motorola Razr foldable.",
+      "url": "https://www.theverge.com/2024/10/15/24270678/oura-ring-3-horizon-motorola-razr-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/d5VPuavvWuoP6TwjBhNT5uDCSl8=/0x0:1280x854/1200x628/filters:focal(640x427:641x428)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062894/HERO_Oura_Gen3_Horizon___Group_Shot.jpeg",
+      "publishedAt": "2024-10-15T19:04:50Z",
+      "content": "Oura Ring 3 Horizon drops to $299\r\nOura Ring 3 Horizon drops to $299\r\n / Were also seeing the lowest prices yet on a Lego NES build and the foldable Motorola Razr.\r\nByQuentyn Kennemer, a writer who h… [+3414 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "Space.com"
       },
-      "author": "Sal Romano",
-      "title": "Ys X: Nordics demo now available in the west - Gematsu",
-      "description": "A demo for Ys X: Nordics is now available for PlayStation 5, PlayStation 4, Switch, and PC via Steam, publisher NIS America announced.",
-      "url": "https://www.gematsu.com/2024/10/ys-x-nordics-demo-now-available-in-the-west",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/10/Ys-X-Nordics-Demo_10-14-24.jpg",
-      "publishedAt": "2024-10-14T17:24:47Z",
-      "content": "A demo for Ys X: Nordics is now available for PlayStation 5, PlayStation 4, Switch, and PC via Steam, publisher NIS America announced. \r\nThe demo will allow users to play from the prologue to partway… [+325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "FOX Business Staff",
-      "title": "Stuart Varney: Elon Musk 'opens the door to a new era in space exploration' - Fox Business",
-      "description": "FOX Business' Stuart Varney discussed Elon Musk's latest space mission aimed to break new ground for SpaceX and advance his vision of colonizing Mars.",
-      "url": "https://www.foxbusiness.com/media/stuart-varney-elon-musk-opens-door-new-era-space-exploration",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Varney-10-27.jpg?ve=1&tl=1",
-      "publishedAt": "2024-10-14T17:20:00Z",
-      "content": "During his \"My Take,\" Monday, \"Varney &amp; Co.\" host Stuart Varney discussed the significance of Elon Musk's history-making test flight of his massive Starship rocket from SpaceX's launch site in Bo… [+2560 chars]"
+      "author": "Robert Lea",
+      "title": "Vast Space unveils Haven-2, a private space station to follow the ISS after its fiery end - Space.com",
+      "description": "\"This vision of global cooperation in space will create opportunities for scientific and technological advancements, benefiting new and current sovereign partners as well as industries around the world.\"",
+      "url": "https://www.space.com/haven2-international-space-station-suceed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ThHEFSsoJtYAGhmaempfKF-1200-80.jpg",
+      "publishedAt": "2024-10-15T18:59:02Z",
+      "content": "The retirement of the International Space Station (ISS) is planned for 2030. With just six years left on the clock, private companies are vying to see their space stations reach low-Earth orbit and b… [+4343 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "Apple releases iOS 18.1 beta 7 as public launch nears - 9to5Mac",
-      "description": "Update: New public betas for iOS 18.1, tvOS 18.1, and iPadOS 18.1 are now available as well. iOS 18.1 will...",
-      "url": "https://9to5mac.com/2024/10/14/apple-releases-ios-18-1-beta-7-as-public-launch-nears/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/iOS-18.1-hero-b7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-14T17:09:00Z",
-      "content": "Update: New public betas for iOS 18.1, tvOS 18.1, and iPadOS 18.1 are now available as well. \r\niOS 18.1 will be released to everyone in just two weeks. In the meantime, beta testing continues. iOS 18… [+1729 chars]"
+      "author": "Ryan Christoffel",
+      "title": "New AirPods Pro 2 beta firmware arrives ahead of iOS 18.1 release - 9to5Mac",
+      "description": "New AirPods Pro 2 firmware is here, dropping just a couple weeks before the expected release of iOS 18.1 and more.",
+      "url": "https://9to5mac.com/2024/10/15/new-airpods-pro-2-firmware-arrives-ahead-of-ios-181-release/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/AirPods-pro-2-review.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-15T18:34:00Z",
+      "content": "Its been a busy fall for Apple software releases, and thats set to continue. iOS 18.1 and more will arrive in the next couple weeks. But ahead of those updates, Apple has just released new beta firmw… [+1175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
+      },
+      "author": null,
+      "title": "D'oh! Man brings Simpson car to life - WGAL Susquehanna Valley Pa.",
+      "description": "If you are a Simpsons fan, I've got great news for you. You don't have to travel to Springfield to find an exact replica of Homer's car.",
+      "url": "https://www.wgal.com/article/man-brings-simpson-car-to-life/62601561",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/simpsonscar-jpg-670ea2ae32c8e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-10-15T18:30:00Z",
+      "content": "WXMI —If you are a Simpsons fan, I've got great news for you. You don't have to travel to Springfield to find an exact replica of Homer's car.\r\nTurns out there is one in West Michigan.\r\nYup this is r… [+2394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "In the iPad Mini 7 Box: No Charger in Europe, New Braided USB-C Cable - MacRumors",
+      "description": "The new iPad mini 7 does not come with a charger in the box in European countries, including the UK, France, Germany, Italy, Spain, the Netherlands,...",
+      "url": "https://www.macrumors.com/2024/10/15/whats-in-the-ipad-mini-7-box/",
+      "urlToImage": "https://images.macrumors.com/t/SdwushTVANgbMv54dNE0UPOhLiE=/1920x/article-new/2024/10/ipad-mini-7-charger-feature.jpg",
+      "publishedAt": "2024-10-15T17:45:00Z",
+      "content": "The new iPad mini 7 does not come with a charger in the box in European countries, including the UK, France, Germany, Italy, Spain, the Netherlands, and others. This change is likely in response to E… [+1176 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Daniel Wu",
+      "title": "His daughter was murdered. Then she reappeared as an AI chatbot. - The Washington Post",
+      "description": "Drew Crecente’s daughter was murdered nearly two decades ago. Earlier this month, he discovered that her name and image had been used to create an AI chatbot.",
+      "url": "https://www.washingtonpost.com/nation/2024/10/15/murdered-daughter-ai-chatbot-crecente/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WTZF2QFUSNEBHMK6SAFQWMM3V4.png&w=1440",
+      "publishedAt": "2024-10-15T17:30:13Z",
+      "content": "One morning in early October, about 18 years after his daughter Jennifer was murdered, Drew Crecente received a Google alert flagging what appeared to be a new profile of her online.\r\nThe profile had… [+7928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Just Dance 2025 – Launch Trailer – Nintendo Switch - Nintendo of America",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/",
+      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "publishedAt": "2024-10-15T17:00:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "More Activision Games, Including Black Ops 6 , Are Coming To Xbox Game Pass This Month - Kotaku",
+      "description": "StarCraft, Call of Duty: Black Ops 6, South Park, and Dead Island 2 arrive in the next few weeks",
+      "url": "https://kotaku.com/xbox-game-pass-october-2024-wave-2-cod-black-ops-6-pc-1851672803",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4bd6b08bf148abd7d9fa6e6229a61bff.jpg",
+      "publishedAt": "2024-10-15T16:20:00Z",
+      "content": "The eclectic mix of stuff coming to Xbox Game Pass over the next few weeks includes some Call of Duty games, some nasty zombies, StarCraft, a South Park RPG, and a wonderful indie game about a growin… [+1872 chars]"
     },
     {
       "source": {
@@ -77,190 +116,151 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-14T16:30:54Z",
+      "publishedAt": "2024-10-15T16:00:42Z",
       "content": "[Removed]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Andrew Webster",
-      "title": "The stunning indie game Gris now has a beautiful follow-up about love and loss - The Verge",
-      "description": "Neva, the follow-up to indie game hit Gris, launches on October 15th for the Nintendo Switch, PS5, Xbox, and PC.",
-      "url": "https://www.theverge.com/24267805/neva-nomada-studio-interview-gris-devolver",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/m26MewqNeqmUzk1lZym1r35K1L0=/0x0:3840x2160/1200x628/filters:focal(1903x1320:1904x1321)/cdn.vox-cdn.com/uploads/chorus_asset/file/25671089/Neva_13.png",
-      "publishedAt": "2024-10-14T16:00:00Z",
-      "content": "The stunning indie game Gris now has a beautiful follow-up about love and loss\r\nThe stunning indie game Gris now has a beautiful follow-up about love and loss\r\n / Neva launches on October 15th and in… [+4478 chars]"
+      "author": "Eric Slivka",
+      "title": "New Beats Collaboration With Kim Kardashian Features Special-Edition Beats Pill Colors - MacRumors",
+      "description": "Apple's Beats brand and Kim Kardashian have teamed up for a third time on special-edition colors of a Beats product, this time featuring the...",
+      "url": "https://www.macrumors.com/2024/10/15/kim-kardashian-beats-pill/",
+      "urlToImage": "https://images.macrumors.com/t/rnmYgnka41PsIOyHDpki3U3FWRs=/1600x/article-new/2024/10/kim-kardashian-beats-pill.jpg",
+      "publishedAt": "2024-10-15T16:00:00Z",
+      "content": "Apple's Beats brand and Kim Kardashian have teamed up for a third time on special-edition colors of a Beats product, this time featuring the recently relaunched Beats Pill speaker in new Light Gray a… [+2314 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Wccftech"
       },
-      "author": "Abid Ahsan Shanto",
-      "title": "Vivo X200 Pro Mini brings flagship specs, Zeiss triple camera, and large battery in compact form factor - Notebookcheck.net",
-      "description": "The Vivo X200 Pro Mini is now official in China. It's one of the smallest flagship phones with next-gen flagship specs. This 6.31-inch smartphone also brings a Zeiss triple camera setup on the rear and a relatively large 5,700 mAh battery.",
-      "url": "https://www.notebookcheck.net/Vivo-X200-Pro-Mini-brings-flagship-specs-Zeiss-triple-camera-and-large-battery-in-compact-form-factor.901543.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Vivo-X200-Pro-Mini.jpg",
-      "publishedAt": "2024-10-14T15:50:00Z",
-      "content": "Vivo has officially launched the X200 series in China. The lineup consists of three phones, and they are the first to feature the next-gen Dimensity 9400 chipset. Among the three phones, the X200 Pro… [+1880 chars]"
+      "author": "Alessio Palumbo",
+      "title": "Dragon Age: The Veilguard Gets Heavy PC Specs (and No Denuvo Confirmation), PS5 Pro Info - Wccftech",
+      "description": "BioWare has shared detailed PC specs for Dragon Age: The Veilguard, and they are quite heavy, at least for ray tracing. Plus, Denuvo is out.",
+      "url": "https://wccftech.com/dragon-age-the-veilguard-gets-heavy-pc-specs-and-no-denuvo-confirmation-ps5-pro-info/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/08/dragon-age-the-veilguard-PC-scaled.jpg",
+      "publishedAt": "2024-10-15T16:00:00Z",
+      "content": "Today, BioWare has shared the detailed PC specifications for Dragon Age: The Veilguard. As a reminder, the game runs on the Frostbite engine just like its predecessor. Here's what you'll need to play… [+4102 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Droid Life"
+        "name": "KTLA Los Angeles"
       },
-      "author": "Tim",
-      "title": "Open Enrollment: Protect Your Galaxy Device at Discounted Rate - Droid Life",
-      "description": "Samsung announced this morning that open enrollment has arrived for select Galaxy devices, but with a bit of a twist. Typically only available at time of purchase, select Galaxy owners can enroll in Samsung Care+ with Theft and Loss at a discounted rate of 20…",
-      "url": "https://www.droid-life.com/2024/10/14/discounted-open-enrollment-here-for-select-samsung-devices/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/01/Galaxy-S24-Ultra-Battery-3-1200x628-cropped.jpg",
-      "publishedAt": "2024-10-14T15:47:12Z",
-      "content": "Samsung announced this morning that open enrollment has arrived for select Galaxy devices, but with a bit of a twist.\r\nTypically only available at time of purchase, select Galaxy owners can enroll in… [+632 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Rare boss Craig Duncan promoted to Xbox Game Studios chief - The Verge",
-      "description": "Craig Duncan is being promoted to Xbox Game Studios chief as Alan Hartman retires after 30 years at Microsoft.",
-      "url": "https://www.theverge.com/2024/10/14/24269896/microsoft-xbox-game-studios-craig-duncan-promotion",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ph65BkF_wyQizjTN-FloF9ysaKI=/0x0:3000x2327/1200x628/filters:focal(782x391:783x392)/cdn.vox-cdn.com/uploads/chorus_asset/file/25676561/539996718.jpg",
-      "publishedAt": "2024-10-14T14:44:49Z",
-      "content": "Rare boss Craig Duncan promoted to Xbox Game Studios chief\r\nRare boss Craig Duncan promoted to Xbox Game Studios chief\r\n / Alan Hartman is retiring after more than 30 years at Microsoft.\r\nByTom Warre… [+3830 chars]"
+      "author": "David Lazarus",
+      "title": "The Apple Watch 10 proves itself as a medical device - KTLA Los Angeles",
+      "description": "The Apple Watch has long been the Bad Bad Leroy Brown of smartwatches (baddest man in the whole damned town). The new Series 10 – bigger, brighter, slimmer – maintains that status. But it’s also increasingly clear that the future of the Apple Watch isn’t just…",
+      "url": "https://ktla.com/news/consumer-business/the-apple-watch-10-proves-itself-as-a-medical-device/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/10/GettyImages-2172407386-e1729007291316.jpg?w=1280",
+      "publishedAt": "2024-10-15T15:58:31Z",
+      "content": "The Apple Watch has long been the Bad Bad Leroy Brown of smartwatches (baddest man in the whole damned town). The new Series 10 bigger, brighter, slimmer maintains that status.\r\nBut its also increasi… [+3657 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "author": "Vikki Blake",
-      "title": "GTA Online's new zombie mode is so popular, Rockstar has to keep increasing the community challenges - Eurogamer",
-      "description": "GTA Online's time-limited zombie mode is here and players cannot get enough of it.",
-      "url": "https://www.eurogamer.net/gta-onlines-new-zombie-mode-is-so-popular-rockstar-has-to-keep-increasing-the-community-challenges",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-10-14-at-15.15.41.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-14T14:25:08Z",
-      "content": "GTA Online's time-limited zombie mode is here and players cannot get enough of it.\r\nOn 10th October, Rockstar launched a new survival mode and a community challenge that took us back to North Yankton… [+1494 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple just dropped a new hint for when iOS 18.1 with Apple Intelligence will be available - 9to5Mac",
+      "description": "We know iOS 18.1 with Apple Intelligence will release in October, but Apple just dropped a new hint about the timing of that launch.",
+      "url": "https://9to5mac.com/2024/10/15/apple-just-dropped-a-new-hint-for-when-ios-181-with-apple-intelligence-will-be-available/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/ios181-apple-intelligence-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-15T15:44:00Z",
+      "content": "Apple has said that iOS 18.1, iPadOS 18.1, and macOS 15.1 will arrive some time in October, and with them the first set of Apple Intelligence features. But today the company dropped a new hint around… [+1833 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Chris Welch",
-      "title": "Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera - The Verge",
-      "description": "Fujifilm has announced the compact and lightweight X-M5, an affordable gateway into its lineup of mirrorless cameras. Like the X-T50, the new camera has a film simulation dial.",
-      "url": "https://www.theverge.com/2024/10/14/24269223/fujifilm-xm5-camera-16-55-ii-500mm-lens-announced",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mBHoVJWqtE3KA9vKL9aa0qzERwk=/0x0:2040x1369/1200x628/filters:focal(1020x685:1021x686)/cdn.vox-cdn.com/uploads/chorus_asset/file/25675277/xm51.jpeg",
-      "publishedAt": "2024-10-14T14:00:00Z",
-      "content": "Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera\r\nFujifilm goes after aspiring vloggers with its new $800 X-M5 camera\r\n / The company is also introducing a smaller, lighter version… [+4137 chars]"
+      "author": "Emma Roth",
+      "title": "Spotify’s music videos are coming to more subscribers — but not yet in the US - The Verge",
+      "description": "Spotify is expanding music videos to 85 new markets. The feature lets Premium subscribers watch videos from artists like Charlie XCX, Doja Cat, and Ed Sheeran.",
+      "url": "https://www.theverge.com/2024/10/15/24270738/spotify-music-videos-expansion-beta",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GDNqdsboGIl9ibEy5C_Nvx3AOg8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25378907/STK088_SPOTIFY_CVIRGINIA_C.jpg",
+      "publishedAt": "2024-10-15T15:42:43Z",
+      "content": "Spotifys music videos are coming to more subscribers but not yet in the US\r\nSpotifys music videos are coming to more subscribers but not yet in the US\r\n / Now more Premium subscribers can watch video… [+2963 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Wccftech"
       },
-      "author": "SamMobile, Asif Iqbal Shaik",
-      "title": "Look at Galaxy Z Fold Special Edition’s rear camera - SamMobile - Samsung news",
-      "description": "Samsung is expected to unveil a slimmer and better-equipped version of the Galaxy Z Fold 6 later this year. Ahead ...",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-special-edition-camera-setup-leak/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/10/Samsung-Galaxy-Z-Fold-6-Special-Edition-Camera-720x405.jpeg",
-      "publishedAt": "2024-10-14T13:38:00Z",
-      "content": "Samsung is expected to unveil a slimmer and better-equipped version of the Galaxy Z Fold 6 later this year. Ahead of the announcement, the image of the Galaxy Z Fold Special Edition was leaked a few … [+1195 chars]"
+      "author": "Francesco De Meo",
+      "title": "The Xbox Series X All-Digital / 2TB Models Feature 6nm SoC And Other Hidden Upgrades, New Teardown Video Confirms - Wccftech",
+      "description": "The new Xbox Series X All-Digital and Galaxy Black 2TB models feature a 6nm SoC as well as other hidden upgrades",
+      "url": "https://wccftech.com/xbox-series-x-all-digital-2tb-models-6nm-soc-teardown/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/06/Xbox-Series-X-All-Digital-scaled.jpg",
+      "publishedAt": "2024-10-15T15:14:00Z",
+      "content": "The new Xbox Series X All-Digital and Special Edition 2 TB models feature a shrunk-down version of the console's chip and some hidden upgrades that make them better than the launch model.\r\nIn a new v… [+1331 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "9to5Mac"
       },
-      "author": "Ellie Conley",
-      "title": "Today's best sales: 20% off AirPods Pro, Drew Barrymore's slow cooker and more - Yahoo Life",
-      "description": "Also on our deals radar: Save on a cozy Ugg blanket, a 50-inch TV, Yahoo editors' favorite frying pan and storage solutions for your home.",
-      "url": "https://www.yahoo.com/lifestyle/todays-best-sales-20-off-airpods-pro-drew-barrymores-slow-cooker-and-more-000053485.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qTvEUP0XXAK6xGishVv26Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/6b658500-87f4-11ef-ab6e-fa15f23ad0e9",
-      "publishedAt": "2024-10-14T13:05:40Z",
-      "content": "These suede boots look a lot like another name brand, but they're on sale for about half the price. Inside and out, they're made with genuine shearling, so they're warm, cozy and should last you a lo… [+477 chars]"
+      "author": "Ryan Christoffel",
+      "title": "An October Apple event suddenly looks unlikely - 9to5Mac",
+      "description": "Apple often hosts an October event focused on Mac and iPad product launches. But the newly released iPad mini has changed expectations.",
+      "url": "https://9to5mac.com/2024/10/15/an-october-apple-event-suddenly-looks-unlikely/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-october-event-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-15T14:40:00Z",
+      "content": "Today Apple announced a new iPad mini with Apple Intelligence support. The new model doesnt just have ramifications for iPad fans, though. Heres what todays news could mean for Apples October event p… [+1841 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite - The Verge",
+      "description": "An eBay listing with packaging photos revealed the 12th-gen Amazon Kindle Paperwhite will have a larger seven-inch screen and weeks of battery life.",
+      "url": "https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DakF4eCPnUtnsF61R8NySxK5-Lk=/0x0:1850x1233/1200x628/filters:focal(925x617:926x618)/cdn.vox-cdn.com/uploads/chorus_asset/file/25678402/kindle12_1.jpg",
+      "publishedAt": "2024-10-15T13:47:44Z",
+      "content": "A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite\r\nA new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite\r\n / The companys 12th-gen e-reader will debu… [+1698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Pokémon’s Typhlosion Goes Viral After Game Freak Leak For The Weirdest Possible Reason - Forbes",
+      "description": "Fans have discovered some sort of lost lore story about Pokemon's Typhlosion which…well, here’s a brief excerpt:",
+      "url": "https://www.forbes.com/sites/paultassi/2024/10/15/pokmons-typhlosion-goes-viral-after-game-freak-leak-for-the-weirdest-possible-reason/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670d17df6774363e585d4719/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-15T13:18:00Z",
+      "content": "Typhloision\r\nGame Freak\r\nThis article was published on 10/14 and republished on 10/15.\r\nI uh, dont even know where to start here. Game Freak has been hacked and countless files have been released, wh… [+4566 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Ryan Dinsdale",
-      "title": "Tron: Catalyst Announced for PlayStation 5, Xbox Series, Nintendo Switch, and PC as Sequel to Tron: Identity - IGN",
-      "description": "Tron: Catalyst has been announced as a sequel to Tron: Identity coming in 2025 to PlayStation 5, Xbox Series X and S, Nintendo Switch, and PC.",
-      "url": "https://www.ign.com/articles/tron-catalyst-announced-for-playstation-5-xbox-series-nintendo-switch-and-pc-as-sequel-to-tron-identity",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/14/tron-1728909475380.png?width=1280",
-      "publishedAt": "2024-10-14T13:04:19Z",
-      "content": "Tron: Catalyst has been announced as a sequel to Tron: Identity coming in 2025 to PlayStation 5, Xbox Series X and S, Nintendo Switch, and PC.\r\nDevolver Digital subsidiary Big Fan Games announced Tro… [+1245 chars]"
+      "author": "Logan Plant",
+      "title": "Super Mario Party Jamboree Review - IGN",
+      "description": "The biggest Mario Party ever is also one of the best.",
+      "url": "https://www.ign.com/articles/super-mario-party-jamboree-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/11/smp-jam-blogroll-1728690742214.jpg?width=1280",
+      "publishedAt": "2024-10-15T13:01:55Z",
+      "content": "Super Mario Party Jamboree kicks off with Kamek welcoming you to a bigger, bolder Mario Party, and it didnt take long to realize that confident opening statement wasnt just hype. The latest entry in … [+13213 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Business Wire"
       },
-      "author": null,
-      "title": "Meta Quest 3S Reviewed: $300 Mixed Reality Really Works - CNET",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-10-14T13:00:36Z",
+      "author": "Business Wire",
+      "title": "Sonos Reveals Arc Ultra, its New Soundbar Featuring Sound Motion™ - Business Wire",
+      "description": null,
+      "url": "https://www.businesswire.com/news/home/20241015718674/en/Sonos-Reveals-Arc-Ultra-its-New-Soundbar-Featuring-Sound-Motion%E2%84%A2",
+      "urlToImage": null,
+      "publishedAt": "2024-10-15T13:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Brody Ford",
-      "title": "Adobe Launches AI Video Generator in Race With OpenAI, Meta - Bloomberg",
-      "description": "Adobe Inc. unveiled artificial intelligence tools that can create and modify videos, joining Big Tech companies and startups in trying to capitalize on demand for the emerging technology.",
-      "url": "https://www.bloomberg.com/news/articles/2024-10-14/adobe-launches-ai-video-generator-in-race-with-openai-meta",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6oVrXVtdyJ8/v1/1200x799.jpg",
-      "publishedAt": "2024-10-14T13:00:00Z",
-      "content": "Adobe Inc. unveiled artificial intelligence tools that can create and modify videos, joining Big Tech companies and startups in trying to capitalize on demand for the emerging technology.\r\nOne featur… [+284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "Baldur's Gate 3 Publisher Condemns Scalpers As Collector's Edition Hits $3,000 - Kotaku",
-      "description": "The $270 box of RPG treats is being resold for over ten times its original price",
-      "url": "https://kotaku.com/baldurs-gate-3-collectors-edition-scalpers-larian-1851671852",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/578c90335bec97233c281a9f37320426.jpg",
-      "publishedAt": "2024-10-14T13:00:00Z",
-      "content": "Scalpers are just capitalism working efficiently. As such, theyre absolute scumbags who ruin fun things, proven yet again with the release of Larians physical Collectors Edition of Baldurs Gate 3. Th… [+2809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "Apple Watch Series 10 vs. Apple Watch Ultra 2 Buyer's Guide: Which Should You Choose? - MacRumors",
-      "description": "The Apple Watch Series 10 arrived a year after the Apple Watch Ultra 2, introducing a revamped design and a more advanced display. Apple did not...",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-10-vs-ultra-2/",
-      "urlToImage": "https://images.macrumors.com/t/F9utggMXcB3vqmjbQxfUar44iGo=/2500x/article-new/2024/10/Apple-Watch-Ultra-2-vs-Series-10-Buyers-Guide.jpg",
-      "publishedAt": "2024-10-14T12:42:22Z",
-      "content": "The Apple Watch Series 10 arrived a year after the Apple Watch Ultra 2, introducing a revamped design and a more advanced display. Apple did not launch an Apple Watch Ultra 3 this year, leaving last … [+9197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Gurman: Apple Could Release $2,000 'Apple Vision' Headset Next Year - MacRumors",
-      "description": "Apple is working on a more affordable version of its spatial computing headset in the form of a $2,000 \"Apple Vision\" device that could...",
-      "url": "https://www.macrumors.com/2024/10/14/cheaper-apple-vision-headset-2026/",
-      "urlToImage": "https://images.macrumors.com/t/CBM1_o_bgzfLUONfFjL3hpdn8es=/1960x/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Teal-Feature.jpg",
-      "publishedAt": "2024-10-14T12:30:17Z",
-      "content": "Apple is working on a more affordable version of its spatial computing headset in the form of a $2,000 \"Apple Vision\" device that could debut as early as next year, according to Bloomberg's Mark Gurm… [+1475 chars]"
     }
   ]
 }
