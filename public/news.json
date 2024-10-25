@@ -1,201 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 45,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Alana Hagues",
-      "title": "Prince Of Persia: The Lost Crown Dev Team Reportedly Disbanded By Ubisoft - Nintendo Life",
-      "description": "The game apparently failed to reach sales expectations",
-      "url": "https://www.nintendolife.com/news/2024/10/prince-of-persia-the-lost-crown-dev-team-reportedly-disbanded-by-ubisoft",
-      "urlToImage": "https://images.nintendolife.com/a867dc27333f1/1280x720.jpg",
-      "publishedAt": "2024-10-22T23:00:59Z",
-      "content": "Image: Ubisoft\r\nPrince of Persia: The Lost Crown is one of the best games of 2024, and with the recently released DLC, we thought it would just keep getting even better. Sadly, a new report suggests … [+1817 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "Anthropic publicly releases AI tool that can take over the user’s mouse cursor - Ars Technica",
-      "description": "Anthropic is one of the first to go beyond just screen vision.",
-      "url": "https://arstechnica.com/ai/2024/10/anthropic-publicly-releases-ai-tool-that-can-take-over-the-users-mouse-cursor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-3.44.28 PM.png",
-      "publishedAt": "2024-10-22T21:06:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Nick Todorov",
-      "title": "6 new Android 15 features that I've fallen in love with - Android Police",
-      "description": "Android 15 may be more of an incremental update than past years, but there are still several features that I'm obsessed with.",
-      "url": "https://www.androidpolice.com/my-favorite-android-15-features/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/edit-first-needs-art_-my-x-favorite-new-android-15-features.jpg",
-      "publishedAt": "2024-10-22T20:49:00Z",
-      "content": "Android 15 has landed, but it isn't a spectacular update to Google's operating system. Still, the more you look, the more additions you find that make you think, \"Why hasn't anyone added this sooner?… [+6347 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google & Qualcomm partner to bring gen AI to cars, and what that might look like - 9to5Google",
-      "description": "In addition to bringing Oryon to Android devices, Qualcomm is using its custom CPU to car chips, and partnering with Google on gen AI...",
-      "url": "http://9to5google.com/2024/10/22/google-qualcomm-gen-ai-cars/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/Google-gen-AI-cars.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-22T20:33:00Z",
-      "content": "In addition to bringing Oryon to Android devices, Qualcomm is using its custom CPU in car chips, and partnering with Google on adding generative AI to that form factor.\r\nWith this “Multi-Year Strateg… [+1992 chars]"
+      "title": "Here’s everything new in Android 15 QPR1 Beta 3 [Gallery] - 9to5Google",
+      "description": "Google today is rolling out Android 15 QPR1 Beta 3 for Pixel devices.",
+      "url": "http://9to5google.com/2024/10/23/android-15-qpr1-beta-3-everything-new-2/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Android-15-logo-Settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-23T21:24:00Z",
+      "content": "Google today is rolling out Android 15 QPR1 Beta 3 for Pixel devices.\r\nOver the coming hours, we’ll dive into all of Android 15 QPR1 Beta 3’s new features and every single change. (The newest updates… [+2700 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Google Messages is trying to tackle today’s most annoying messaging spam - The Verge",
-      "description": "Google Messages has improved its spam detection system, allowing it to better identify and sort out fake package delivery and job-seeking texts.",
-      "url": "https://www.theverge.com/2024/10/22/24276895/google-messages-job-package-delivery-spam",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
-      "publishedAt": "2024-10-22T19:06:34Z",
-      "content": "Google Messages is trying to tackle todays most annoying messaging spam\r\nGoogle Messages is trying to tackle todays most annoying messaging spam\r\n / The apps spam filter is getting better at detectin… [+2607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Apple rolling out new firmware update for select AirPods models - 9to5Mac",
-      "description": "Update: Apple’s release notes confirm this new firmware simply includes “bug fixes and other improvements.” Apple is rolling out a...",
-      "url": "https://9to5mac.com/2024/10/22/apple-rolling-out-new-firmware-update-for-select-airpods-models/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-airpods-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-22T18:39:00Z",
-      "content": "Update: Apple’s release notes confirm this new firmware simply includes “bug fixes and other improvements.” \r\nApple is rolling out a new firmware version for three of its AirPods models today: AirPod… [+1208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Rachel Kaser",
-      "title": "Netflix shutters its only triple-A studio, loses major industry hires - VentureBeat",
-      "description": "Netflix has closed Team Blue, the LA-based internal studio, before it could release its alleged triple-A game.",
-      "url": "https://venturebeat.com/games/netflix-shutters-its-only-triple-a-studio-loses-major-industry-hires/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/12/Netflix-Games-Logo.jpg?w=1024?w=1200&strip=all",
-      "publishedAt": "2024-10-22T18:22:44Z",
-      "content": "Netflix today closed one of its internal game studios, one which was poised to release a triple-A title, before it was able to produce anything. The studio was called Team Blue, founded in 2022 and b… [+1847 chars]"
+      "author": "Jay Peters",
+      "title": "Apple is preparing an M4 MacBook Air update for early next year - The Verge",
+      "description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
+      "url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
+      "publishedAt": "2024-10-23T19:17:52Z",
+      "content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th… [+1535 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Tristan Ogilvie",
-      "title": "Kong: Survivor Instinct Review - IGN",
-      "description": "Unlike its towering cast of kaiju cameos, Kong: Survivor Instinct is an unremarkable Metroidvania-style adventure that simply doesn’t measure up.",
-      "url": "https://www.ign.com/articles/kong-survivor-instinct-review",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/22/kongsurvivorinstinct-review-yt-1729620215968.jpg?width=1280",
-      "publishedAt": "2024-10-22T17:54:26Z",
-      "content": "If youve ever wondered what the arcade classic Rampage would be like if you had to play as a puny human rather than one of the skyscraper-smashing goliaths, then Kong: Survivor Instinct might be your… [+7783 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Super Smash Bros. creator says he’s been working on a new game since 2022 - Polygon",
-      "description": "What’s next for Masahiro Sakurai after 260 YouTube videos? The Kirby and Super Smash Bros. creator says he’s working on a new game.",
-      "url": "https://www.polygon.com/news/468527/super-smash-bros-creator-new-game-masahiro-sakurai",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22888211/smashbrosfinal.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
-      "publishedAt": "2024-10-22T17:40:39Z",
-      "content": "Game designer Masahiro Sakurais two-and-a-half-year YouTube journey is now complete. The Super Smash Bros. and Kirby creator uploaded his final video and his 260th to his channel Masahiro Sakurai on … [+3162 chars]"
+      "author": null,
+      "title": "How to Play Black Ops 6 Early (New Zealand Trick Method) - Call of Duty: Black Ops 6 Guide - IGN",
+      "description": "Call of Duty: Black Ops 6 is set to release on October 25, 2024, on PC and console. Depending on your timezone, you may be playing BO6 &quot;earlier&quot; than",
+      "url": "https://www.ign.com/wikis/call-of-duty-black-ops-6/How_to_Play_Black_Ops_6_Early_(New_Zealand_Trick_Method)",
+      "urlToImage": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-black-ops-6/a/ac/Call_of_duty_black_ops_6_bo6_new_zealand_trick_1.jpg",
+      "publishedAt": "2024-10-23T19:07:40Z",
+      "content": "The New Zealand trick for Call of Duty: Black Ops 6 should work on PlayStation and Xbox. If you're on PC, you'll only be able to try it if you're playing via the Microsoft StoreSteam or Battle.net ve… [+2504 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Joe Rossignol",
-      "title": "Gurman: 'M4 Mac Launch' is 'Next Week' - MacRumors",
-      "description": "Just a few hours after claiming that the first Macs with M4 chips are launching \"very soon,\" Bloomberg's Mark Gurman has followed up with...",
-      "url": "https://www.macrumors.com/2024/10/22/m4-mac-launch-timing-rumors/",
-      "urlToImage": "https://images.macrumors.com/t/T_ptUsS7dGohh1bJyP251xFH_-w=/2500x/article-new/2024/10/M4-Mac-mini-Ortho-Black-Cooler.jpg",
-      "publishedAt": "2024-10-22T17:29:46Z",
-      "content": "Just a few hours after claiming that the first Macs with M4 chips are launching \"very soon,\"Bloomberg's Mark Gurman has followed up with a slightly more specific timeframe. In his latest social media… [+1764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple Watch Series 10 after one month: It’s the anti-Ultra model - 9to5Mac",
-      "description": "The Apple Watch Series 10 is a strong upgrade, but some of its biggest features show how in many respects it’s the anti-Ultra model.",
-      "url": "https://9to5mac.com/2024/10/22/apple-watch-series-10-after-one-month-its-the-anti-ultra-model/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-watch-series-10-jet-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-22T16:57:00Z",
-      "content": "Ive been wearing the Apple Watch Series 10 for just over one month. And in that time, several key features have stood out that make this, in many respects, the anti-Ultra model. Heres what I mean.\r\nN… [+2921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Edwin Evans-Thirlwell",
-      "title": "Former Skyrim developer's heavy metal open world hunting sim releases on Steam - Rock Paper Shotgun",
-      "description": "Did you have a fine old time in Blackreach, the mazy, Dwemer-built underside of Skyrim's sprawling mountain map? Do you…",
-      "url": "https://www.rockpapershotgun.com/former-skyrim-developers-heavy-metal-open-world-hunting-sim-releases-on-steam",
-      "urlToImage": "https://assetsio.gnwcdn.com/6_wlmUPU4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-22T16:36:32Z",
-      "content": "Did you have a fine old time in Blackreach, the mazy, Dwemer-built underside of Skyrim's sprawling mountain map? Do you like murdering Ents in slow motion? Do you want to see smells? You might be int… [+1966 chars]"
+      "author": "Juli Clover",
+      "title": "Hands-On With the New iPad Mini 7 - MacRumors",
+      "description": "Today is the official launch date of the iPad mini 7, which is the first new iPad mini that we've had since 2021. It has a much faster chip and a...",
+      "url": "https://www.macrumors.com/2024/10/23/ipad-mini-7-hands-on/",
+      "urlToImage": "https://images.macrumors.com/t/f777kPjTRWw_4Q3hipYufg6gU4Q=/2500x/article-new/2024/10/iPad-mini-7-Hands-On-Thumb-2.jpg",
+      "publishedAt": "2024-10-23T18:26:19Z",
+      "content": "Today is the official launch date of the iPad mini 7, which is the first new iPad mini that we've had since 2021. It has a much faster chip and a few other tweaks, so we thought we'd check it out and… [+1832 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Kenneth Shepard",
-      "title": "7 Things To Know Before Starting Sonic X Shadow Generations - Kotaku",
-      "description": "The new Shadow-centric adventure gives you a lot to do in a relatively short game",
-      "url": "https://kotaku.com/sonic-x-shadow-generations-which-to-play-first-bolts-1851678363",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fc49ff6f6b09308af17226d74719ff44.jpg",
-      "publishedAt": "2024-10-22T16:13:35Z",
-      "content": "Sonic X Shadow Generationsis out now for those who bought the games digital deluxe edition, and will be out for everyone else on Friday, October 25. The package includes a remaster of 2011s Sonic Gen… [+5422 chars]"
+      "author": "Ethan Gach",
+      "title": "Ubisoft Confirms It's Exploring New Rayman Ideas Amid Report Of A Remake - Kotaku",
+      "description": "Creator Michel Ancel is consulting on the platformer's next phase",
+      "url": "https://kotaku.com/rayman-legends-remake-ubisoft-prince-persia-lost-crown-1851679621",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b3c5e1dd19566390d7d868fed0ebf582.jpg",
+      "publishedAt": "2024-10-23T18:25:00Z",
+      "content": "The original Rayman is the game that put Ubisoft on the map. Its been over a decade since the last installment in the colorful platformer franchise, but the French publisher is currently in the early… [+2726 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Andrew Liszewski",
-      "title": "Plugable’s new 10-port USB-C hub is exactly the overkill my nightstand needs - The Verge",
-      "description": "Plugable’s new PS-10CC hub can deliver up to 100W of power to all 10 of its USB-C ports, and will intelligently prioritize and charge devices that need it most.",
-      "url": "https://www.theverge.com/2024/10/22/24276661/plugable-usb-c-hub-power-charger",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PxewOMideuJnTSx72HlcsuwqlyM=/0x0:1035x690/1200x628/filters:focal(518x345:519x346)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693062/plugable2.jpg",
-      "publishedAt": "2024-10-22T16:09:59Z",
-      "content": "Plugables new 10-port USB-C hub is exactly the overkill my nightstand needs\r\nPlugables new 10-port USB-C hub is exactly the overkill my nightstand needs\r\n / The hub can deliver a total of 100W to 10 … [+2218 chars]"
+      "author": "Kyle Wiggers",
+      "title": "This Week in AI: The AI agents cometh - TechCrunch",
+      "description": "In this edition of This Week in AI, TechCrunch's AI newsletter, we discuss Anthropic's first 'AI agent,' new video models, and more.",
+      "url": "https://techcrunch.com/2024/10/23/this-week-in-ai-the-ai-agents-cometh/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
+      "publishedAt": "2024-10-23T17:15:00Z",
+      "content": "Hiya, folks, welcome to TechCrunchs regular AI newsletter. If you want this in your inbox every Wednesday, sign up here.\r\nThe agents are coming the AI agents, that is.\r\nThis week, Anthropic released … [+6196 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5google.com"
       },
-      "author": "Joe Rossignol",
-      "title": "iPad Mini 7 Launches Tomorrow: Here Are 12 Changes to Know About - MacRumors",
-      "description": "Earlier this month, Apple announced a new iPad mini for the first time in three years. Ahead of the device launching this Wednesday, we have outlined...",
-      "url": "https://www.macrumors.com/2024/10/22/ipad-mini-7-all-new-features-and-changes/",
-      "urlToImage": "https://images.macrumors.com/t/IlgBmfmIg7wCM2d3PIBIR2uNw10=/1920x/article-new/2024/10/ipad-mini-7-apple-intelligence-a17-pro-feature.jpg",
-      "publishedAt": "2024-10-22T15:45:00Z",
-      "content": "Earlier this month, Apple announced a new iPad mini for the first time in three years. Ahead of the device launching this Wednesday, we have outlined 12 new features and changes with the seventh-gene… [+2262 chars]"
+      "author": "Andrew Romero",
+      "title": "Honor announces MagicOS 9.0, its AI-filled Android 15 update - 9to5Google",
+      "description": "Honor is packing a ton of focus on AI in MagicOS 9.0, which is based on Android 15. The new...",
+      "url": "http://9to5google.com/2024/10/23/honor-announces-magicos-9/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Honor-Magic-V3-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-23T17:15:00Z",
+      "content": "Honor is packing a ton of focus on AI in MagicOS 9.0, which is based on Android 15. The new OS brings an upgrade to the company’s voice assistant that positions it as an LAM.\r\nLike other companies su… [+2494 chars]"
     },
     {
       "source": {
@@ -207,47 +103,34 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-22T15:14:55Z",
+      "publishedAt": "2024-10-23T17:09:20Z",
       "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Blizzard.com"
       },
-      "author": "Kate O'Flaherty",
-      "title": "iOS 18.1—New iPhone Features And Security Updates Arriving Next Week - Forbes",
-      "description": "Apple’s iOS 18.1 is arriving next week, along with a bunch of game-changing new features, security updates and bug fixes. Here's what you need to know.",
-      "url": "https://www.forbes.com/sites/kateoflahertyuk/2024/10/22/ios-181-new-iphone-features-and-security-updates-arriving-next-week/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66e92e00f612880978984290/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-22T15:04:56Z",
-      "content": "Apples iOS 18.1 is arriving next week, along with a bunch of game-changing new features, security ... [+] updates and bug fixes.\r\nGetty Images\r\nApples iOS 18.1 is arriving next week, along with a bun… [+2971 chars]"
+      "author": null,
+      "title": "Save the Date for Warcraft 30th Anniversary Direct on November 13 - Blizzard News",
+      "description": "Join us November 13 at 10:00 am PST for a special presentation celebrating 30 years of Warcraft and a look ahead at what’s next.",
+      "url": "https://news.blizzard.com/en-us/world-of-warcraft/24149105/save-the-date-for-warcraft-30th-anniversary-direct-on-november-13",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/7p/7PHON3OYU8LD1729557602224.png",
+      "publishedAt": "2024-10-23T17:00:00Z",
+      "content": "Join us November 13 at 10:00 am PST for a special presentation celebrating 30 years of Warcraft and a look ahead at whats next.\r\nWatch the Warcraft 30th Anniversary Direct on our official channels:\r\n… [+1040 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Tom Huddleston Jr.",
-      "title": "Tim Cook shares the No. 1 trait that set Steve Jobs apart from most people: 'Very few people have that skill' - CNBC",
-      "description": "Apple CEO Tim Cook particularly valued one \"brilliant\" lesson from Steve Jobs: A great leader excels at being able to change their own mind.",
-      "url": "https://www.cnbc.com/2024/10/22/tim-cook-steve-jobs-willingness-to-change-mind-was-brilliant-skill.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105115575-CookJobsApple.jpg?v=1729535094&w=1920&h=1080",
-      "publishedAt": "2024-10-22T14:32:53Z",
-      "content": "Tim Cook learned a lot from Steve Jobs in the 13 years he worked with the late Apple co-founder.\r\n\"For those of us that were fortunate enough to work with him, he was the teacher of a lifetime,\" Cook… [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stability.ai"
-      },
-      "author": "IT Admin",
-      "title": "Introducing Stable Diffusion 3.5 - Stability AI",
-      "description": "Today we are introducing Stable Diffusion 3.5. This open release includes multiple model variants, including Stable Diffusion 3.5 Large and Stable Diffusion 3.5 Large Turbo.",
-      "url": "https://stability.ai/news/introducing-stable-diffusion-3-5",
-      "urlToImage": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/6710eceb080d581811ab4935/1729623367837/blog_cover_sd3.5.jpg?format=1500w",
-      "publishedAt": "2024-10-22T14:06:55Z",
-      "content": "Today we are releasing Stable Diffusion 3.5, our most powerful models yet. This open release includes multiple variants that are customizable, run on consumer hardware, and are available for use unde… [+3570 chars]"
+      "author": "Sheena Vasani",
+      "title": "Samsung’s rugged Galaxy Watch Ultra has fallen to its best price to date - The Verge",
+      "description": "For a limited time, Amazon is offering Samsung’s Galaxy Watch Ultra for $499.99 ($150 off). Apple’s sixth-gen iPad Mini and 8BitDo’s wired Pro 2 controller are also on sale.",
+      "url": "https://www.theverge.com/2024/10/23/24276728/samsung-galaxy-watch-ultra-apple-ipad-mini-6-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/B_VJBkrs3PSNHu-myW_NxYB05iQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25554230/gwultra_9.jpg",
+      "publishedAt": "2024-10-23T16:30:00Z",
+      "content": "Samsungs rugged Galaxy Watch Ultra has fallen to its best price to date\r\nSamsungs rugged Galaxy Watch Ultra has fallen to its best price to date\r\n / We also found deals on Apples last-gen iPad Mini, … [+3368 chars]"
     },
     {
       "source": {
@@ -255,12 +138,129 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Snapdragon 8 Elite may bring UWB to a lot more Android phones - 9to5Google",
-      "description": "Android phones haven't fully adopted UWB over the years, but with Snapdragon 8 Elite directly supporting the connectivity, that could change.",
-      "url": "http://9to5google.com/2024/10/22/snapdragon-8-elite-may-bring-uwb-to-a-lot-more-android-phones/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/Snapdragon-8-Elite-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-22T13:55:00Z",
-      "content": "Qualcomm’s Snapdragon 8 Elite looks like a stunning chipset for future Android phones, and it’s coming up pretty soon. And, from the looks of it, Snapdragon 8 Elite will usher in a new wave of UWB-su… [+1521 chars]"
+      "title": "Google pushing for 7 years of updates on more Android phones, starting with Snapdragon 8 Elite - 9to5Google",
+      "description": "The longevity of Android updates has always been a problem, but one that’s been getting better with time. Google has,...",
+      "url": "http://9to5google.com/2024/10/23/google-android-7-years-updates-longeivity-program/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-23T16:25:00Z",
+      "content": "The longevity of Android updates has always been a problem, but one that’s been getting better with time. Google has, behind the scenes, introduced some big changes for Android manufacturers that wil… [+2388 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "The smartphone-like Boox Palma ebook reader hits a record low price - The Verge",
+      "description": "The original Boox Palma ebook reader is down to a new all-time low price of $246. The smartphone-like Android device doesn’t lock you into any one ecosystem, either.",
+      "url": "https://www.theverge.com/2024/10/23/24277569/boox-palma-ebook-reader-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Rw6J1m0GLDnfUwdulaaSiw-GbXA=/0x0:1372x915/1200x628/filters:focal(686x458:687x459)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691163/booxpalma3.jpg",
+      "publishedAt": "2024-10-23T15:40:49Z",
+      "content": "The smartphone-like Boox Palma ebook reader hits a record low price\r\nThe smartphone-like Boox Palma ebook reader hits a record low price\r\n / Theres a new version on the way, but you can save $34 on t… [+2731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "The Day Before studio simultaneously scraps failed Kickstarter and announces yet another game instead - Eurogamer",
+      "description": "The Day Before developer Fntastic has called it a day on the Kickstarter which it started up to secure funding for a physics-based multiplayer co-op escape game",
+      "url": "https://www.eurogamer.net/the-day-before-studio-simultaneously-scraps-failed-kickstarter-and-announces-yet-another-game-instead",
+      "urlToImage": "https://assetsio.gnwcdn.com/The-Day-Before-artwork-showing-a-male-character-walking-through-a-ruined-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-23T15:40:37Z",
+      "content": "The Day Before developer Fntastic has called it a day on the Kickstarter it hoped would secure funding for Escape Factory, a physics-based multiplayer co-op escape game.\r\nIn a post shared on social m… [+2276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "Horizon Zero Dawn team crunched 30 PS5 dev kits each night to check remaster's lighting effects - Eurogamer",
+      "description": "Guerrilla Games studio director Jan-Bart van Beek has shed more light on how the developer got Horizon Zero Dawn Remastered ready for release.",
+      "url": "https://www.eurogamer.net/horizon-zero-dawn-team-crunched-30-ps5-dev-kits-each-night-to-check-remasters-lighting-effects",
+      "urlToImage": "https://assetsio.gnwcdn.com/Aloy-in-Horizon-Zero-Dawn-Remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-23T14:57:03Z",
+      "content": "Guerrilla Games studio director Jan-Bart van Beek has shed more light on how the team got Horizon Zero Dawn Remastered ready for release.\r\nNotably, this included hooking up more than 30 PlayStation 5… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan Dinsdale",
+      "title": "Monster Hunter Wilds Showcase Reveals Trailer and Open Beta Coming to PS5, Xbox Series X and S, and PC Next Week - IGN",
+      "description": "Capcom confirms Monster Hunter Wilds open beta release times and platforms.",
+      "url": "https://www.ign.com/articles/monster-hunter-wilds-showcase-reveals-trailer-and-open-beta-coming-to-ps5-xbox-series-x-and-s-and-pc-next-week",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/23/mh-direct-trailer-blog-4-copy-1729693304197.jpg?width=1280",
+      "publishedAt": "2024-10-23T14:54:36Z",
+      "content": "PlayStation 5, Xbox Series X and S, and PC players can access an open beta for Monster Hunter Wilds next week, Capcom announced at the Monster Hunter Wilds Showcase.\r\nA trailer for the game, below, r… [+1389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Exclusive: Huge Pixel 10 and 11 leak reveals Google Tensor is following in the iPhone's footsteps - Android Authority",
+      "description": "The Pixel 11's Tensor G6 will use the same TSMC N3P process node as Apple's A19, while Tensor G5 gets N3E.",
+      "url": "https://www.androidauthority.com/exclusive-google-tensor-g6-g5-tsmc-3493014/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-Tensor-chip-logo-phone-in-hand.jpg",
+      "publishedAt": "2024-10-23T14:36:31Z",
+      "content": "Ever since Google switched to its custom Tensor chips in its Pixel series, some have complained about the mediocre battery life and poor thermals they provided. This was in big part because of Google… [+3205 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Apple’s reportedly slowing down Vision Pro production, for now - The Verge",
+      "description": "The Information reports Apple’s production plans for the Vision Pro have been scaled back over the summer as it focuses on making a cheaper version.",
+      "url": "https://www.theverge.com/2024/10/23/24277584/apple-vision-pro-manufacturing-cutback",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gL2kV3iQ4pB9UvttJzAHWzNSLd8=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25255185/246965_vision_pro_VPavic_0001.jpg",
+      "publishedAt": "2024-10-23T14:05:33Z",
+      "content": "Apples reportedly slowing down Vision Pro production, for now\r\nApples reportedly slowing down Vision Pro production, for now\r\n / A new report from The Information says Apple has scaled back productio… [+1753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T14:00:10Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Netflix Closes Its All-Star AAA Video Game Studio, Which Made Zero Games - Forbes",
+      "description": "Netflix formed an internal studio (codename Blue) that was meant to make a AAA multiplatform game based on an original IP. It is now dead.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/10/23/netflix-closes-its-all-star-aaa-video-game-studio-which-made-zero-games/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62b1d23398f60e8a82425728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-23T13:36:03Z",
+      "content": "Stranger Things\r\nNetflix\r\nNetflix seems to want to continue to make inroads into gaming, offering dozens of decently good mobile-focused titles on its service. But it wanted more, which is why it for… [+2687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Pras Subramanian",
+      "title": "Qualcomm, Google team up on AI for cars — here's what it could mean - Yahoo Finance",
+      "description": "Qualcomm says its Snapdragon Digital Chassis, its chipset and associated technologies, will be the basis of a \"digital cockpit\" using Google's generative AI.",
+      "url": "https://finance.yahoo.com/news/qualcomm-google-team-up-on-ai-for-cars--heres-what-it-could-mean-132351523.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-10/7d655180-90bf-11ef-a7ff-cbbb62ac7683",
+      "publishedAt": "2024-10-23T13:31:32Z",
+      "content": "Qualcomm (QCOM) and Google (GOOG, GOOGL) are betting you want artificial intelligence in your car. But what does that mean exactly?\r\nBuilding on an existing relationship, Qualcomm says its Snapdragon… [+2567 chars]"
     }
   ]
 }
