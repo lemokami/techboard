@@ -1,71 +1,214 @@
 {
   "status": "ok",
-  "totalResults": 53,
+  "totalResults": 69,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Jason Fanelli",
+      "title": "Magic: The Gathering's 2025 Lineup Features Final Fantasy, Spider-Man, And SpongeBob - GameSpot",
+      "description": "Wizards Of The Coast has announced multiple sets and a special Secret Lair drop at MagicCon",
+      "url": "https://www.gamespot.com/gallery/magic-the-gatherings-2025-lineup-features-final-fantasy-spider-man-and-spongebob/2900-5889/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4390180-final-fantasy-spider-man-spongebob.jpg",
+      "publishedAt": "2024-10-25T21:49:18Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Quentyn Kennemer, Brandon Widder",
-      "title": "The 13-inch MacBook Air M2 is a great value at its current sale price of $699 - The Verge",
-      "description": "Apple’s M2 MacBook Air has dropped to a new low at Amazon. You can also find steep discounts on Google’s Pixel Tablet and Anker’s foldable Qi2 MagSafe charger.",
-      "url": "https://www.theverge.com/2024/10/24/24277746/apple-macbook-air-m2-m3-google-pixel-tablet-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tqMQ0bh87oHsNkc_QNJ0lOnw0E8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23759761/bfarsace_190101_5333_0008.jpg",
-      "publishedAt": "2024-10-24T18:48:14Z",
-      "content": "The 13-inch MacBook Air M2 is a great value at its current sale price of $699\r\nThe 13-inch MacBook Air M2 is a great value at its current sale price of $699\r\n / The M3 MacBook Air is also on sale, an… [+3611 chars]"
+      "author": "Sean Hollister",
+      "title": "Video game preservationists have lost a legal fight to study games remotely - The Verge",
+      "description": "The US Copyright Office has just shut down requests from video game preservationists to let libraries, archives and museums temporarily lend individuals some virtual, remotely accessible copies of those works.",
+      "url": "https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JNjyhW9mXCKTSY1Fpa-DU_fSZwA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25295989/236948_PHYSICAL_MEDIA_VGHF_2_CVIRGINIA.jpg",
+      "publishedAt": "2024-10-25T20:58:10Z",
+      "content": "Video game preservationists have lost a legal fight to study games remotely\r\nVideo game preservationists have lost a legal fight to study games remotely\r\n / The US Copyright Office wont let libraries… [+6073 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "The Daily Dot"
       },
-      "author": "Ryan Christoffel",
-      "title": "New AirPods Pro 2 firmware now available for iOS 18.1’s hearing health features - 9to5Mac",
-      "description": "Apple is rolling out new AirPods Pro 2 firmware that adds support for the powerful iOS 18.1 additions: Hearing Test, Hearing Aid, and more.",
-      "url": "https://9to5mac.com/2024/10/24/new-airpods-pro-2-firmware-now-available-for-ios-181s-hearing-health-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/AirPods-Pro-2-sales.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-24T18:29:00Z",
-      "content": "Apple has just released new firmware for AirPods Pro 2 ahead of iOS 18.1s launch next week. This firmware update brings support for the powerful new health features: Hearing Test, Hearing Aid, and He… [+1545 chars]"
+      "author": "Brooke Sjoberg",
+      "title": "‘You’re at a Chili’s’: Chili’s server issues PSA for customers who ask for lemon in their water - The Daily Dot",
+      "description": "In a video, a Chili's server warns asking for lemon in your water might not be the best decision at Chili's.",
+      "url": "https://www.dailydot.com/news/chilis-lemon-water/",
+      "urlToImage": "https://uploads.dailydot.com/2024/10/lemon-water.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-10-25T20:00:00Z",
+      "content": "Working in customer-facing positions can be especially frustrating when met with constant special requests. \r\nMost people are ready and willing to do their jobs with no issue. However, when constantl… [+3963 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Google plans to announce its next Gemini model soon - The Verge",
+      "description": "December is shaping up to be a month of dueling AI announcements from OpenAI and Google, who sources say is planning to debut its next Gemini model by the end of the year.",
+      "url": "https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+      "publishedAt": "2024-10-25T19:49:06Z",
+      "content": "Google plans to announce its next Gemini model soon\r\nGoogle plans to announce its next Gemini model soon\r\n / December is shaping up to be a month of dueling announcements from OpenAI and Google. Also… [+1573 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Apple reportedly tests an app to manage blood sugar - The Verge",
+      "description": "Bloomberg reports that Apple ran secret tests of an app made to help prediabetic people manage their blood sugar through lifestyle changes.",
+      "url": "https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ClkCB_h7ezkPo-bmQ9twzhBOHc4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697390/STK071_APPLE_H.jpg",
+      "publishedAt": "2024-10-25T19:14:46Z",
+      "content": "Apple reportedly tests an app to manage blood sugar\r\nApple reportedly tests an app to manage blood sugar\r\n / The app isnt likely to be released but aimed to help prediabetic people make lifestyle cha… [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Annoyed Redditors tanking Google Search results illustrates perils of AI scrapers - Ars Technica",
+      "description": "“Spreading misinformation suddenly becomes a noble goal,” Redditor says.",
+      "url": "https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-1663544113-1024x648.jpg",
+      "publishedAt": "2024-10-25T18:29:10Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Blizzard.com"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Director's Take - Continuing the 6v6 discussion - Blizzard News",
-      "description": "Aaron Keller is back to continue the 6v6 discussion and to give a starting look to the plans for testing new formats in Overwatch 2.",
-      "url": "https://news.blizzard.com/en-us/overwatch/24151413/director-s-take-continuing-the-6v6-discussion",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/zp/ZPBNAONCHEPI1729634769224.png",
-      "publishedAt": "2024-10-24T18:00:00Z",
-      "content": "Welcome back to another Directors Take. Back in July, we opened the conversation around 6v6 and 5v5, and now wed like to continue that conversation as well as share a few updates coming in Season 13 … [+5924 chars]"
+      "author": "Kenneth Shepard",
+      "title": "Someone Cosplayed An Entire Sonic Level And It Looks Incredible - Kotaku",
+      "description": "The ‘Sexy City Escape’ costume is in the running for this year’s best Halloween get-up",
+      "url": "https://kotaku.com/sonic-hedgehog-adventure-2-city-escape-costume-cosplay-1851681812",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c7d7b366c506ecbf5e53438f3f7cc7ad.jpg",
+      "publishedAt": "2024-10-25T18:20:00Z",
+      "content": "One thing to know about me is that I love a costume with a concept. Halloween, when youre an adult, is no longer about candy, its about serving and wowing people with your commitment to the bit. The … [+1757 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Blog.google"
+        "name": "Dexerto"
       },
-      "author": "John Fisher",
-      "title": "New in Google Photos: More transparency for AI edits - The Keyword",
-      "description": "New information will indicate if Google AI was used to edit a photo right in the Google Photos app.",
-      "url": "https://blog.google/products/photos/ai-editing-transparency/",
-      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-Photos-editing-provenance_1_tWwTRy3.width-1300.jpg",
-      "publishedAt": "2024-10-24T17:17:05Z",
-      "content": "We often make edits to our photos to make them pop. Sometimes, that means making a simple change to a photo, like cropping it. Other times, it might involve more complex changes like removing unwante… [+987 chars]"
+      "author": "Cande Maldonado",
+      "title": "All Campaign safe locations and solutions in Black Ops 6 - Dexerto",
+      "description": "There’s hardly time to search for safes when you’re in the heat of a gunfight – but you’ll need the extra money when you’re back at the safehouse in Black Ops 6.",
+      "url": "https://www.dexerto.com/call-of-duty/all-campaign-safe-locations-and-solutions-in-black-ops-6-2961243/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/10/25/COD-6-safes-no-logo-2.jpg",
+      "publishedAt": "2024-10-25T17:28:19Z",
+      "content": "Its all fun and games until you get back to the Safehouse and find you only have 130 cash to spend on upgrades. But dont worry: You can repeat missions and collect all 9 safes from the Call of Duty: … [+6346 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "GameSpot"
       },
-      "author": "Ryan Christoffel",
-      "title": "Three advantages Apple Intelligence has over its AI competitors - 9to5Mac",
-      "description": "Apple Intelligence is launching soon with three key advantages over its AI competitors. Here‘s how Apple is setting itself up for success.",
-      "url": "https://9to5mac.com/2024/10/24/three-advantages-apple-intelligence-has-over-its-ai-competitors/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone16-pro-ai-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-24T17:11:00Z",
-      "content": "The first Apple Intelligence features are launching next week with iOS 18.1, and beta testers have even now gained access to wave two in iOS 18.2. Ive been using many of these AI features on my iPhon… [+3021 chars]"
+      "author": "S.E. Doster",
+      "title": "Call Of Duty: Black Ops 6 Best Weapon Loadouts - GameSpot",
+      "description": "Here are the best weapon builds to try for BO6 multiplayer.",
+      "url": "https://www.gamespot.com/gallery/call-of-duty-black-ops-6-best-weapon-loadouts/2900-5892/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4390604-cod-bo6-needtoknowbeta-017.jpg",
+      "publishedAt": "2024-10-25T17:27:42Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI says it won’t release a model called Orion this year - TechCrunch",
+      "description": "OpenAI says that it doesn't intend to release an AI model code-named Orion this year, countering recent reporting from The Verge.",
+      "url": "https://techcrunch.com/2024/10/25/openai-says-it-wont-release-a-model-called-orion-this-year/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161029148.jpg?w=1024",
+      "publishedAt": "2024-10-25T17:24:18Z",
+      "content": "OpenAI says that it doesn’t intend to release an AI model code-named Orion this year, countering recent reporting on the company’s product roadmap.\r\nWe don’t have plans to release a model code-named … [+1160 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "8BitDo’s first smartphone controller has Hall effect joysticks and triggers - The Verge",
+      "description": "8BitDo’s new Ultimate Mobile Gaming Controller attaches with an adjustable clamp and wirelessly connects over Bluetooth, but only for Android mobile devices.",
+      "url": "https://www.theverge.com/2024/10/25/24279435/8bitdo-ultimate-mobile-gaming-controller-android-hall-effect",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4eck3o-Y1gTUj_kS7UV78l_3-Hg=/0x0:1332x888/1200x628/filters:focal(666x444:667x445)/cdn.vox-cdn.com/uploads/chorus_asset/file/25698442/8bitdo_1.jpg",
+      "publishedAt": "2024-10-25T17:11:27Z",
+      "content": "8BitDos first smartphone controller has Hall effect joysticks and triggers\r\n8BitDos first smartphone controller has Hall effect joysticks and triggers\r\n / The Ultimate Mobile Gaming Controller connec… [+2181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Brandon Morgan",
+      "title": "The 6 Thirstiest Mods For Stardew Valley - Kotaku",
+      "description": "If the underlying sexual tensions of farming sims aren't enough, bring it out into the open",
+      "url": "https://kotaku.com/stardew-valley-sexy-lust-nude-mods-1851681400",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/50eaf209079e091fb9361fa3b75c1209.jpg",
+      "publishedAt": "2024-10-25T16:30:00Z",
+      "content": "Thanks to mod author TrashRacc1124, Lustdew Valley works as an extension of Valley Girl by increasing the sexual occurrences across the Valley with new locations, objects, furniture, clothing, and cu… [+911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Call of Duty: Black Ops 6's arachnophobia mode is arguably more terrifying than actual giant spiders - Eurogamer",
+      "description": "We've seen some unique approaches to arachnophobia modes in video games as they've started to become more common in rec…",
+      "url": "https://www.eurogamer.net/call-of-duty-black-ops-6s-arachnophobia-mode-is-arguably-more-terrifying-than-actual-giant-spiders",
+      "urlToImage": "https://assetsio.gnwcdn.com/cod-black-ops-6-zombies_4sAutJf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-10-25T16:16:14Z",
+      "content": "We've seen some unique approaches to arachnophobia modes in video games as they've started to become more common in recent years, but nothing quite like Call of Duty: Black Ops 6's new approach. Acti… [+3206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "The AirPods Pro 2 Finally Receive Its Hearing Health Features - Gizmodo",
+      "description": "You just need to wait for Monday (iOS 18.1's release) to use them.",
+      "url": "https://gizmodo.com/the-airpods-pro-2-finally-receive-its-hearing-health-features-2000516497",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2-2.jpg",
+      "publishedAt": "2024-10-25T15:43:57Z",
+      "content": "Apple’s much-talked-about hearing health features for the AirPods Pro 2 have finally been released in a firmware update today. Though you can update your AirPods Pro to the latest version to receive … [+2222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Sonic X Shadow Generations sales top one million - Gematsu",
+      "description": "Total sales for Sonic X Shadow Generations have surpassed one million units worldwide, SEGA announced.",
+      "url": "https://www.gematsu.com/2024/10/sonic-x-shadow-generations-sales-top-one-million",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/10/Sonic-X-Shadow-Generations-Sales_10-25-24.jpg",
+      "publishedAt": "2024-10-25T15:33:41Z",
+      "content": "Total sales for Sonic X Shadow Generations have surpassed one million units worldwide, SEGA announced. \r\nSonic X Shadow Generations launched today for PlayStation 5, Xbox Series, PlayStation 4, Xbox … [+1313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Darryn Bonthuys",
+      "title": "Best Buy's 3-Day Gaming Sale Has Excellent Gaming Laptop, Monitor, And Desktop Deals - GameSpot",
+      "description": "Save big on gaming hardware by Asus, Samsung, HP, Dell, and more leading manufacturers through Sunday, October 27.",
+      "url": "https://www.gamespot.com/gallery/best-buys-3-day-gaming-sale-has-excellent-gaming-laptop-monitor-and-desktop-deals/2900-5890/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4390388-best-buy-sale.jpg",
+      "publishedAt": "2024-10-25T15:31:28Z",
+      "content": null
     },
     {
       "source": {
@@ -77,190 +220,47 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-24T16:51:21Z",
+      "publishedAt": "2024-10-25T15:05:54Z",
       "content": "[Removed]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "Brian Heater",
-      "title": "Apple Vision Pro production reportedly scaled back due to disappointing demand - TechCrunch",
-      "description": "Apple has dramatically scaled back Vision Pro production, according to a new report from The Information. The news comes days after CEO Tim Cook admitted",
-      "url": "https://techcrunch.com/2024/10/24/apple-vision-pro-production-reportedly-scaled-back-due-to-disappointing-demand/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/DSC00078.jpeg?resize=1200,802",
-      "publishedAt": "2024-10-24T16:07:48Z",
-      "content": "Apple has dramatically scaled back Vision Pro production, according to a new report from The Information. The news comes days after CEO Tim Cook admitted in an interview that the $3,500 mixed-reality… [+533 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Call of Duty: Black Ops 6 Preseason Patch Notes Released Amid Global Release Date Rollout - IGN",
-      "description": "Call of Duty: Black Ops 6 is rolling out now, and Activision has published its preseason patch notes detailing changes made to Multiplayer. Check out the details.",
-      "url": "https://www.ign.com/articles/call-of-duty-black-ops-6-preseason-patch-notes-released-amid-global-release-date-rollout",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/29/cod-main-1724941609473.jpg?width=1280",
-      "publishedAt": "2024-10-24T15:57:44Z",
-      "content": "Call of Duty: Black Ops 6 is rolling out now (some have been playing it for hours at this point), and Activision has published its preseason patch notes that detail changes made to Multiplayer in tim… [+9386 chars]"
+      "author": "Kyle Barr",
+      "title": "Apple Dares Anyone to Find a Problem With Its Darling AI, Offers $1 Million Bounty - Gizmodo",
+      "description": "If you find anything wrong with Apple Intelligence’s Private Cloud Compute you can net between $50,000 up to $1 million.",
+      "url": "https://gizmodo.com/apple-dares-anyone-to-find-a-problem-with-its-darling-ai-offers-1-million-bounty-2000516513",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Apple-WWDC24-event-photos-developers-watch-keynote-240610_big.jpg.large_2x-e1729865673990.jpg",
+      "publishedAt": "2024-10-25T14:35:11Z",
+      "content": "Apple is very proud of the privacy apparatus surrounding Apple Intelligence, so proud that its offering princely sums to anyone who finds any privacy issue or attack vector in its code. Apple’s first… [+3125 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "Space.com"
       },
-      "author": "Hassan Mujtaba",
-      "title": "AMD Ryzen 7 9800X3D CPU Benchmarks Leak Out: Up To 22% Faster In Geekbench Versus 7800X3D - Wccftech",
-      "description": "AMD's Ryzen 7 9800X3D CPU has leaked out in the latest benchmarks, showcasing strong single and multi-core performance uplifts over 7800X3D.",
-      "url": "https://wccftech.com/amd-ryzen-7-9800x3d-cpu-benchmarks-leak-20-percent-faster-versus-7800x3d/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/10/AMD-Ryzen-9000X3D-3D-V-Cache-CPUs-Ryzen-9-9950X3D-Ryzen-7-9800X3D-Gaming-Performance-Leak-_Main-1.jpg",
-      "publishedAt": "2024-10-24T15:49:00Z",
-      "content": "AMD's Ryzen 7 9800X3D CPU has leaked out in the latest Geekbench benchmarks, showcasing strong single and multi-core performance uplifts over 7800X3D.\r\nAMD Ryzen 7 9800X3D Leaked Benchmarks Show Stro… [+3999 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Anthropic’s AI can now run and write code - TechCrunch",
-      "description": "Anthropic has released a new feature for its Claude chatbot that allows it to run and write code for more precise answers.",
-      "url": "https://techcrunch.com/2024/10/24/anthropics-ai-can-now-run-and-write-code/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
-      "publishedAt": "2024-10-24T15:28:52Z",
-      "content": "Anthropic’s Claude chatbot can now write and run JavaScript code. \r\nToday, Anthropic launched a new analysis tool that helps Claude respond with what the company describes as “mathematically precise … [+1502 chars]"
+      "author": "Mike Wall",
+      "title": "NASA's solar-sailing spacecraft has a bent boom in Earth orbit (photo) - Space.com",
+      "description": "But it shouldn't unduly affect mission operations, according to the agency.",
+      "url": "https://www.space.com/nasa-acs3-solar-sail-bent-boom",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mM7LfEtcX3KEvKAhQ9YgGY-1200-80.jpg",
+      "publishedAt": "2024-10-25T14:26:22Z",
+      "content": "NASA's technology-demonstrating Advanced Composite Solar Sail System (ACS3) has a bent boom in Earth orbit, a newly released photo shows.\r\nThe ACS3 spacecraft launched April 23 to test key aspects of… [+3122 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "9to5Mac"
       },
-      "author": "Sal Romano",
-      "title": "Dragon Age: The Veilguard launch trailer - Gematsu",
-      "description": "Publisher Electronic Arts and developer BioWare have released the launch trailer for Dragon Age: The Veilguard.",
-      "url": "https://www.gematsu.com/2024/10/dragon-age-the-veilguard-launch-trailer",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/10/Dragon-Age-PV_10-24-24.jpg",
-      "publishedAt": "2024-10-24T15:15:20Z",
-      "content": "About\r\nFrom the storytellers at BioWare comes Dragon Age: The Veilguard, an all new single-player fantasy RPG experience. This bold, heroic adventure is built to deliver on what the series is best kn… [+3946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google rolling out ‘Hold close to cast’ for UWB Pixel phones and Tablet - 9to5Google",
-      "description": "As announced with the October Pixel Drop, Google is rolling out “Hold close to cast,” or tap to cast, between Pro phones and the Tablet.",
-      "url": "http://9to5google.com/2024/10/24/pixel-hold-close-to-cast/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/Pixel-Tablet-Tap-to-Cast-final-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-24T15:11:00Z",
-      "content": "As announced with the October Pixel (Feature) Drop last week, Google is rolling out Hold close to cast, or tap to cast, between Pixel Pro phones and the Pixel Tablet.\r\nTap to cast was announced back … [+1014 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Vaidyanathan Subramaniam",
-      "title": "Intel Core Ultra 9 285K Arrow Lake-S Review: $589 CPU sacrifices gaming crown to match AMD Zen 5 Ryzen 9000 in power efficiency - Notebookcheck.net",
-      "description": "We test the new Intel Core Ultra 9 285K Arrow Lake-S desktop processor in combination with the Nvidia GeForce RTX 4090 and evaluate how Intel's latest flagship CPU fares against the company's own previous generations and AMD's Zen 5 Ryzen 9000 lineup.",
-      "url": "https://www.notebookcheck.net/Intel-Core-Ultra-9-285K-Arrow-Lake-S-Review-589-CPU-sacrifices-gaming-crown-to-match-AMD-Zen-5-Ryzen-9000-in-power-efficiency.901799.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Intel/Core_Ultra_9_285K/core_ultra_285k_arrow_lake-s_header.jpg",
-      "publishedAt": "2024-10-24T15:00:00Z",
-      "content": "Cumulative CPU tests see the Core Ultra 9 285K being on par with the Core i9-14900K and only slightly lagging behind the AMD Ryzen 9 9950X. This is largely due to the Core Ultra 9 285K falling behind… [+738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Damien Wilde",
-      "title": "OxygenOS 15 update fully detailed, Beta available October 30 for OnePlus 12 - 9to5Google",
-      "description": "OxygenOS 15 has been fully detailed as the Android 15 update for supported OnePlus phones – with AI playing a bigger role in the OS.",
-      "url": "http://9to5google.com/2024/10/24/oxygenos-15-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/oneplus-12-oxygenos-15-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-24T15:00:00Z",
-      "content": "OxygenOS 15 has been fully detailed as the Android 15 update for supported OnePlus phones this year with a greater focus on AI functionality and improved performance. \r\nUpdate: OnePlus has confirmed … [+5360 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Satechi’s 3-in-1 wireless charging pad is now faster - The Verge",
-      "description": "Satechi’s Trio Wireless Charging Pad boosts smartphone charging speeds with a Qi2 upgrade and allows the Apple Watch to take advantage of fast charging.",
-      "url": "https://www.theverge.com/2024/10/24/24273636/satechi-qi2-trio-wireless-charging-pad-apple-watch-iphone-airpods",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/e5vO1M8atuN0yHqPaVP8RRTPmUo=/0x0:2500x1666/1200x628/filters:focal(1250x833:1251x834)/cdn.vox-cdn.com/uploads/chorus_asset/file/25686919/satechi1.jpg",
-      "publishedAt": "2024-10-24T15:00:00Z",
-      "content": "Satechis 3-in-1 wireless charging pad is now faster\r\nSatechis 3-in-1 wireless charging pad is now faster\r\n / The Trio Wireless Charging Pad boosts smartphone and Apple Watch charging speeds with a Qi… [+1948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "OnePlus confirms upgraded cameras for OnePlus 13, shares first samples [Gallery] - 9to5Google",
-      "description": "The OnePlus 13 is set to launch on October 31 with a completely new camera array. That includes an upgraded sensor and a new prism design.",
-      "url": "http://9to5google.com/2024/10/24/oneplus-confirms-upgraded-cameras-for-oneplus-13/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/oneplus-13-blue-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-24T14:35:00Z",
-      "content": "The OnePlus 13 is set to come with a slightly upgraded camera array packed in a very familiar body. OnePlus noted this change along with several camera samples to show off the new sensors.\r\nIn a larg… [+1424 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez, Ivan Mehta",
-      "title": "Notion’s email product is nearing launch - TechCrunch",
-      "description": "Notion seems to be close to launching its email product called Notion Mail according to multiple sources. Earlier this year, Notion acquired Skiff, a",
-      "url": "https://techcrunch.com/2024/10/24/notions-email-product-is-nearing-launch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/apple-touch-startup-image-1136x640-1.png?w=1136",
-      "publishedAt": "2024-10-24T14:11:34Z",
-      "content": "Notion seems to be close to launching its email product called Notion Mail according to multiple sources.\r\nEarlier this year, Notion acquired Skiff, a privacy-focused email service and app. At the ti… [+1359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Victoria Kennedy",
-      "title": "Yooka-Laylee remaster headed to PS5, Xbox and \"Nintendo platforms\" - so Switch 2? - Eurogamer",
-      "description": "Developer Playtonic Games has announced the consoles its Yooka-Laylee remaster is heading to.",
-      "url": "https://www.eurogamer.net/yooka-laylee-remaster-headed-to-ps5-xbox-and-nintendo-platforms-so-switch-2",
-      "urlToImage": "https://assetsio.gnwcdn.com/Yooka-Replaylee-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-10-24T13:58:44Z",
-      "content": "Developer Playtonic Games has announced the consoles its Yooka-Laylee remaster is heading to, and curiously rather than simply adding 'Switch' to the list, it has said the upcoming release will make … [+1480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rockstargames.com"
-      },
-      "author": "Rockstar Games",
-      "title": "Haunted Vehicles and Supernatural Creatures Plague the Streets of Los Santos - Rockstar Games",
-      "description": "The Halloween-inspired commotion in Los Santos is spreading. More mayhem is appearing around every corner, with haunted vehicles and supernatural creatures now roaming the streets. Confront chaos in Halloween Deathmatches, don more spooky masks, and...",
-      "url": "https://www.rockstargames.com/newswire/article/899983a3o744ak/haunted-vehicles-and-supernatural-creatures-plague-the-streets-of-los",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/899983a3o744ak/c7697f7b1ff0359aa87df75462799db82636ca71.jpg",
-      "publishedAt": "2024-10-24T13:58:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Google Calendar gets a redesign and dark mode - The Verge",
-      "description": "Google Calendar on the web’s user interface is getting a Material Design 3 visual refresh and finally a native dark mode.",
-      "url": "https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dbW-EseUWXs0pGSF7muuViumGXQ=/0x0:1174x734/1200x628/filters:focal(481x340:482x341)/cdn.vox-cdn.com/uploads/chorus_asset/file/25696426/google_calendar1.jpg",
-      "publishedAt": "2024-10-24T13:51:52Z",
-      "content": "Google Calendar gets a redesign and dark mode\r\nGoogle Calendar gets a redesign and dark mode\r\n / Google Calendar on the web is also getting a refreshed user interface with new typefaces and more mode… [+1562 chars]"
+      "author": "Ben Lovejoy",
+      "title": "Smartphone buyers meh on AI, care much more about battery life - 9to5Mac",
+      "description": "Apple may be pitching Apple Intelligence as a key reason to upgrade to the iPhone 16, but it seems that...",
+      "url": "https://9to5mac.com/2024/10/25/smartphone-buyers-meh-on-ai-care-much-more-about-battery-life/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Smartphone-buyers-meh-on-AI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-25T13:48:00Z",
+      "content": "Apple may be pitching Apple Intelligence as a key reason to upgrade to the iPhone 16, but it seems that most smartphone buyers are far more interested in the basics like battery life.\r\nA survey found… [+2299 chars]"
     }
   ]
 }
