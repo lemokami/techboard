@@ -1,97 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 65,
+  "totalResults": 42,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "iPhone 17 Pro Max Design Upgrade: New Look Predicted In Latest Leak - Forbes",
-      "description": "The next iPhone will have a new look on the Pro Max version, according to a new report.",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/10/27/iphone-17-pro-max-design-upgrade-new-look-predicted-in-latest-leak/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671aac8f66867a9d98b75d26/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-27T19:57:37Z",
-      "content": "Updated Oct. 27 with further reports of how the iPhone 17 Pro, iPhone 17 and iPhone 17 Air will be different.\r\nNext September, the iPhone will look noticeably different, if a new report is right. The… [+4676 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "The next Mac mini might be nearly as small as an Apple TV - TechCrunch",
-      "description": "The Mac mini will be getting an upgrade this week, according to Bloomberg’s Mark Gurman. The mini is Apple’s desktop computer (really just a small gray",
-      "url": "https://techcrunch.com/2024/10/27/the-next-mac-mini-might-be-nearly-as-small-as-an-apple-tv/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/DSC02723.jpg?resize=1200,798",
-      "publishedAt": "2024-10-27T18:58:38Z",
-      "content": "The Mac mini will be getting an upgrade this week, according to Bloombergs Mark Gurman.\r\nThe mini is Apples desktop computer (really just a small gray box) positioned between the consumer iMac and th… [+851 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "iFixit Shares iPad Mini 7 Teardown, Adds Mystery to 'Jelly Scrolling' Fix - MacRumors",
-      "description": "Electronics repair website iFixit this weekend shared an iPad mini 7 teardown video, and it adds some mystery to the device's \"jelly...",
-      "url": "https://www.macrumors.com/2024/10/27/ifixit-ipad-mini-7-teardown/",
-      "urlToImage": "https://images.macrumors.com/t/g5R7p3pdAL36ElJ0nuUMMiId1lI=/1600x/article-new/2024/10/iFixit-iPad-Mini-7-Teardown.jpg",
-      "publishedAt": "2024-10-27T17:48:04Z",
-      "content": "Is there a technical reason why the iPad mini 5 either has no jelly scroll, or it wasn't a big enough issue like the mini 6? And if the mini 5 didn't have this, what caused the regression moving forw… [+2865 chars]"
+      "title": "Lower-End Apple Silicon Macs With 10-Core M4 Chip to Fully Support Two External Displays - MacRumors",
+      "description": "In addition to the new iMac with the 10-core M4 chip being the first-ever Mac with support for up to an 8K external display at 120Hz, the computer...",
+      "url": "https://www.macrumors.com/2024/10/28/m4-chip-two-external-displays/",
+      "urlToImage": "https://images.macrumors.com/t/GVza3oZqLTyKr3DR6x4gEFu8o1o=/1723x/article-new/2024/01/hero-banner-displays.jpg",
+      "publishedAt": "2024-10-28T21:18:48Z",
+      "content": "In addition to the new iMac with the 10-core M4 chip being the first-ever Mac with support for up to an 8K external display at 120Hz, the computer also supports up to two 6K external displays at 60Hz… [+1572 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "GamesRadar+"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Kaan Serin",
-      "title": "As pre-order culture swells, Monster Hunter Wilds reminds players the upcoming beta really is free: \"No pre-order is needed to play!\" - Gamesradar",
-      "description": "The only pre-order bonuses here are some exclusive cosmetics",
-      "url": "https://www.gamesradar.com/games/monster-hunter/as-pre-order-culture-swells-monster-hunter-wilds-reminds-players-the-upcoming-beta-really-is-free-no-pre-order-is-needed-to-play/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PizSfbUHbbfWNZoQaeANgD-1200-80.jpg",
-      "publishedAt": "2024-10-27T17:43:50Z",
-      "content": "Pre-order bonuses nowadays aren't quite as aggressive as they used to be - anyone remember the silly Deus Ex: Mankind Divided tiers? - but everything from exclusive cosmetics to early access entry ar… [+1750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Gina Carey",
-      "title": "Toy Companies Eye a Growing Market: 'Kidults' - Newser",
-      "description": "Adults who love toys are driving $7 billion in sales",
-      "url": "https://www.newser.com/story/357974/toy-companies-now-catering-to-kidults.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1566810-12-20241027124002.jpeg",
-      "publishedAt": "2024-10-27T17:10:00Z",
-      "content": "<ul><li> Adults spent $7 billion on toys for themselves during the 12-month period ending in June 2024.</li><li> From January to April, toys bought for adults in the US—beat all other age groups, inc… [+977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oneesports.gg"
-      },
-      "author": null,
-      "title": "Best XMG loadout in Black Ops 6, and why it works - ONE Esports",
-      "description": "This best XMG loadout in Black Ops 6 focuses on boosting its fire rate and improving mobility.",
-      "url": "https://www.oneesports.gg/call-of-duty/best-xmg-loadout-in-black-ops-6-2/",
-      "urlToImage": "https://cdn.oneesports.gg/cdn-data/2024/10/XMG_BO6_loadout-1.jpg",
-      "publishedAt": "2024-10-27T17:06:27Z",
-      "content": "XMG is a light machine gun with the highest firepower and magazine size in its category, making it a popular pick among off-duty riflers. Here’s the best XMG loadout in Black Ops 6.\r\nXMG is a weapon … [+2385 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oneesports.gg"
-      },
-      "author": null,
-      "title": "How to solve Black Ops 6 Piano Puzzle in the safehouse - ONE Esports",
-      "description": "The Black Ops 6 piano puzzle is one of the first puzzles you can find in the latest Call of Duty title and necessary for solving the safe code.",
-      "url": "https://www.oneesports.gg/call-of-duty/how-solve-black-ops-6-piano-puzzle/",
-      "urlToImage": "https://cdn.oneesports.gg/cdn-data/2024/10/Call_of_Duty_Black_Ops_6_Piano_Puzzle_Cover.jpg",
-      "publishedAt": "2024-10-27T16:34:11Z",
-      "content": "You dont need to know music theory for this one.Call of Duty has been dropping puzzles in the shooter franchise for some time now, and players love it. The same has been done with Black Ops 6 at the … [+1753 chars]"
+      "author": "Michael McWhertor",
+      "title": "Marathon gets proof-of-life update from Bungie, playtesting coming in 2025 - Polygon",
+      "description": "Bungie’s sci-fi extraction shooter isn’t ready to show gameplay just yet, but here’s a new look at Marathon nonetheless.",
+      "url": "https://www.polygon.com/news/471234/bungie-marathon-update-2025-playtests",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/ss_3c94fe6ccd2b4eba5badcfbdb33f7130dcbbdc14.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2024-10-28T20:26:14Z",
+      "content": "More than a year after announcing sci-fi extraction shooter Marathon, developer Bungie revealed a smattering of new details about its next game on Monday, including a peek at two character classes an… [+3273 chars]"
     },
     {
       "source": {
@@ -103,47 +38,60 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-10-27T16:34:04Z",
+      "publishedAt": "2024-10-28T20:10:29Z",
       "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Softonic"
+        "name": "Kotaku"
       },
-      "author": "David Bernal Raspall",
-      "title": "Everything you need to know about Claude, Anthropic’s AI - Softonic EN",
-      "description": "Claude, the set of artificial intelligence models from Anthropic, has quickly gained ground in the competitive AI space, rivaling giants like OpenAI. This family of models is designed to perform a variety of tasks ranging from drafting emails and captioning i…",
-      "url": "https://en.softonic.com/articles/everything-you-need-to-know-about-claude-anthropics-ai",
-      "urlToImage": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2024/10/Claude-1.jpg",
-      "publishedAt": "2024-10-27T16:30:00Z",
-      "content": "Claude, the set of artificial intelligence models from Anthropic, has quickly gained ground in the competitive AI space, rivaling giants like OpenAI. This family of models is designed to perform a va… [+4941 chars]"
+      "author": "Ethan Gach",
+      "title": "Call Of Duty: Black Ops 6 Jacks Up XP Rewards In First Update - Kotaku",
+      "description": "The first post-launch patch boosts how much XP players are earning",
+      "url": "https://kotaku.com/call-duty-black-ops-6-xp-farm-glitch-decoy-patch-notes-1851683189",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1da81dc55a317545d4e5aeb2c91ccec1.jpg",
+      "publishedAt": "2024-10-28T19:40:00Z",
+      "content": "Call of Duty: Black Ops 6is a game about shadowy organizations causing geopolitical turmoil and well-timed headshots. Its also an RPG about making the progress meters fill up. When it comes to the la… [+1710 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Ben Schoon",
-      "title": "I’m glad Android is getting better animations, but I’m tired of this nonsensical ‘test’ - 9to5Google",
-      "description": "OnePlus released its Android 15 update this week with some big improvements to animations, but does anyone actually care?",
-      "url": "http://9to5google.com/2024/10/27/android-better-animations-oneplus/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/oneplus-animations-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-27T16:14:56Z",
-      "content": "Animations are a part of basically any modern software, but there are only certain times when you actually notice them. On Android, one of the times it’s unfortunately common to notice animations is … [+3644 chars]"
+      "author": "Ryan Dinsdale",
+      "title": "PlayStation Gamer Spends $2,000 on 24 Years of PS Plus to Avoid Increasingly Common Price Hikes - IGN",
+      "description": "One forward thinking PlayStation fan has spent upwards of $4,000 on 24 years worth of PS Plus to avoid increasingly common price hikes.",
+      "url": "https://www.ign.com/articles/playstation-gamer-spends-2000-on-24-years-of-ps-plus-to-avoid-increasingly-common-price-hikes",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/24/vlcsnap-2023-05-24-13h09m15s052-1684958962834.png?width=1280",
+      "publishedAt": "2024-10-28T18:13:36Z",
+      "content": "One forward thinking PlayStation fan has spent upwards of $2,000 on 24 years worth of PS Plus to avoid increasingly common price hikes.\r\nReddit user On_Reddit_In_Class said they \"decided to stack PS … [+1481 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Sportskeeda"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Pranoy Dey",
-      "title": "Black Ops 6 Zombies Terminus Island main quest Easter egg guide and more - Sportskeeda",
-      "description": "The Black Ops 6 Zombies Terminus Island main quest is live right now. The Terminus Island map is filled with neumerous Easter Eggs and hidden rewards that players can obtain.",
-      "url": "https://www.sportskeeda.com/call-of-duty-game/black-ops-6-zombies-terminus-island-main-quest-easter-egg-guide",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/10/176ec-17299398459774-1920.jpg",
-      "publishedAt": "2024-10-27T16:02:00Z",
-      "content": "The Black Ops 6 Zombies Terminus Island main quest is live right now. The Terminus Island map is filled with neumerous Easter Eggs and hidden rewards that players can obtain. You'll also unlock the T… [+6091 chars]"
+      "author": "Kyle Wiggers",
+      "title": "A mysterious new image generation model has appeared - TechCrunch",
+      "description": "A mysterious new image generation model is beating models from Midjourney, Black Forest Labs, and OpenAI on the crowdsourced Artificial Analysis benchmark.",
+      "url": "https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/ai-gen-unfiltered.webp?resize=1200,675",
+      "publishedAt": "2024-10-28T17:48:27Z",
+      "content": "A mysterious new image generation model is beating models from Midjourney, Black Forest Labs, and OpenAI on the crowdsourced Artificial Analysis benchmark.\r\nThe model, which goes by the name “red_pan… [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "EA’s BioWare Looks For Redemption With New ‘Dragon Age’ Game - Bloomberg",
+      "description": "The once prestigious studio needs a hit after two big flops.",
+      "url": "https://www.bloomberg.com/news/articles/2024-10-28/ea-s-bioware-needs-a-hit-with-new-dragon-age-video-game",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idIohJD0Gcvg/v1/1200x675.jpg",
+      "publishedAt": "2024-10-28T17:31:50Z",
+      "content": "BioWare, the Electronic Arts Inc. studio best known for making complex roleplaying games, has struggled to find a hit in recent years. It will look to reverse that trend with Dragon Age: The Veilguar… [+440 chars]"
     },
     {
       "source": {
@@ -151,116 +99,168 @@
         "name": "The Verge"
       },
       "author": "Wes Davis",
-      "title": "Apple’s first smart home display could pay homage to a classic iMac - The Verge",
-      "description": "Apple plans to release a low-end, non-robotic smart home display that looks like the “lampshade” iMac, according to Bloomberg’s Mark Gurman.",
-      "url": "https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vRJsVXr8GjQHMr0JXYuBkQSt7-M=/0x0:2000x1362/1200x628/filters:focal(465x919:466x920)/cdn.vox-cdn.com/uploads/chorus_asset/file/25688481/iMac_G4_with_DockLite.png",
-      "publishedAt": "2024-10-27T15:08:19Z",
-      "content": "Apples first smart home display could pay homage to a classic iMac\r\nApples first smart home display could pay homage to a classic iMac\r\n / Apple plans to release a low-end, non-robotic smart home dis… [+1816 chars]"
+      "title": "Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones - The Verge",
+      "description": "The Google Store now sells refurbished Pixel 6 and 6 Pro, Pixel 7 and 7 Pro, and Pixel 6a phones for up to 40 percent off their original price.",
+      "url": "https://www.theverge.com/2024/10/28/24281735/google-pixel-6-7-refurbished-phones",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KoaQ4E0KHbEH9Is--wDI3InDArU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24100075/226337_Pixel_7_and_7_Pro_AKrales_0407.jpg",
+      "publishedAt": "2024-10-28T17:31:39Z",
+      "content": "Google now sells like-new refurbished Pixel 6 and 7 phones\r\nGoogle now sells like-new refurbished Pixel 6 and 7 phones\r\n / Refurbished Pixel phones are now available at up to 40 percent off in the Go… [+1686 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Tim De Chant",
-      "title": "Exclusive: Merlin Solar bets twisty panels will help it land on rooftops everywhere - TechCrunch",
-      "description": "The startup uses standard silicon solar cells but connects them using bendy materials, giving them better durability and more flexibility.",
-      "url": "https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/3872ea_6bcc7fda94034f2daa1fd57db7ead20emv2.jpg?resize=1200,786",
-      "publishedAt": "2024-10-27T15:00:00Z",
-      "content": "Solar panels are just about everywhere. Theres a good chance one of your neighbors has them on their roof, as does the big box store down the street. As you drive there, you might see a field of them… [+3490 chars]"
+      "author": "Ethan Gach",
+      "title": "PS5 30th Anniversary Bundles That Sold Out In Minutes Will Be Briefly Back In Stock - Kotaku",
+      "description": "A new alert on the PlayStation Direct store says more will be sold",
+      "url": "https://kotaku.com/ps5-30th-anniversary-bungle-preorder-stock-date-1851682916",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e9e5d782f68420d4a1c3c78d0948c52b.png",
+      "publishedAt": "2024-10-28T17:20:00Z",
+      "content": "The PlayStation 30th Anniversary bundles look awesomely retro, so it was a shame when pre-orders for them all sold out within the blink of an eye following a confusing online queuing process. Fortuna… [+1762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Jim Norman",
+      "title": "'Animal Crossing: Pocket Camp Complete' Arrives On Mobile This December - Nintendo Life",
+      "description": "But you'll have to cough up some Bells to play",
+      "url": "https://www.nintendolife.com/news/2024/10/animal-crossing-pocket-camp-complete-arrives-on-mobile-this-december",
+      "urlToImage": "https://images.nintendolife.com/64bed21afc8c8/1280x720.jpg",
+      "publishedAt": "2024-10-28T16:30:00Z",
+      "content": "Subscribe to Nintendo Life on YouTube782k\r\nAfter the announcement that Animal Crossing: Pocket Camp's online service would end on 28th November, we knew it was only a matter of time before the confir… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "The Meme Lives On: Magic Mouse's USB-C Charging Port Still on Bottom - MacRumors",
+      "description": "Apple today updated its Magic Mouse, Magic Keyboard, and Magic Trackpad accessories for the Mac with USB-C charging ports, but the accessories have...",
+      "url": "https://www.macrumors.com/2024/10/28/magic-mouse-usb-c-port-on-bottom/",
+      "urlToImage": "https://images.macrumors.com/t/Lxlio2rj0zk7L3m-fa0_Zzw5RWI=/1600x/article-new/2024/10/Magic-Mouse-USB-C.jpg",
+      "publishedAt": "2024-10-28T16:21:52Z",
+      "content": "Apple today updated its Magic Mouse, Magic Keyboard, and Magic Trackpad accessories for the Mac with USB-C charging ports, but the accessories have no other external design changes. Yes, that means t… [+730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Apple Plans to Go Retro With Its New Smart Home Display - Gizmodo",
+      "description": "Picture a HomePod with a display as big as two iPhones placed side by side.",
+      "url": "https://gizmodo.com/apple-plans-to-go-retro-with-its-new-smart-home-display-2000517260",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iMac-g4.jpg",
+      "publishedAt": "2024-10-28T16:16:30Z",
+      "content": "Apple has reportedly been working on a new smart home device following its not-so-successful range of current offerings, trailing Google’s and Amazon’s alternatives. It’s toying with the idea of givi… [+2178 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "David Nield",
-      "title": "How to use the new Private Space feature in Android 15 - The Verge",
-      "description": "Android 15’s new Private Space feature is like having a separate app vault where you lock away specified apps on your device so that nobody else can access them.",
-      "url": "https://www.theverge.com/24279464/private-space-android-15-pixel-how-to",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xJc94SPoOUPPT1cvbVEiGUmK82s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016604/VRG_Illo_HT007_K_Radtke_Pixel_03__1_.jpg",
-      "publishedAt": "2024-10-27T14:30:00Z",
-      "content": "How to use the new Private Space feature in Android 15\r\nHow to use the new Private Space feature in Android 15\r\n / Keep any app locked away from prying eyes. \r\nWhile there arent a lot of new features… [+4090 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Arcade, a new AI product creation platform, designed this necklace - TechCrunch",
-      "description": "Mariam Naficy, the founder of cosmetics retailer Eve and design marketplace Minted, has a long history of supporting independent artists and helping them Arcade AI is a new generative AI platform that puts creative control directly into the hands of users, al…",
-      "url": "https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/ArcadeAI-design.png?w=1046",
-      "publishedAt": "2024-10-27T14:00:00Z",
-      "content": "Mariam Naficy, the founder of cosmetics retailer Eve and design marketplace Minted, has a long history of supporting independent artists and helping them sell their products. Her latest venture, Arca… [+6748 chars]"
+      "author": "Emma Roth",
+      "title": "Google Pixel 10 and 11 leak reveals new AI tools and a big camera update - The Verge",
+      "description": "The Google Pixel 10 could come with a Tensor G5 chip that powers new AI features, such as an AI video editing tool, according to a report from Android Authority.",
+      "url": "https://www.theverge.com/2024/10/28/24281679/google-pixel-10-11-leak-ai-features-rumors",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-S2pHfRPguLTSHhb3cm39MijU-o=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25596783/DSC08161.jpg",
+      "publishedAt": "2024-10-28T16:11:31Z",
+      "content": "Google Pixel 10 and 11 leak reveals new AI tools and a big camera update\r\nGoogle Pixel 10 and 11 leak reveals new AI tools and a big camera update\r\n / A rumored feature coming to the Pixel 11 could m… [+2434 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Jayski.com"
+        "name": "Apple Newsroom"
       },
-      "author": "Amanda Brooks",
-      "title": "Front Row Motorsports, Layne Riggs may face further penalties after steering wheel confiscated at Homestead - Jayski.com",
-      "description": "NASCAR confiscated the steering wheel from the No. 38 Front Row Motorsports Ford of Layne Riggs ahead of Saturday’s Baptist Health 200 NASCAR Craftsman Truck Series race at Homestead-Miami Speedway.",
-      "url": "https://www.jayski.com/2024/10/27/front-row-motorsports-layne-riggs-may-face-further-penalties-after-steering-wheel-confiscated-at-homestead/",
-      "urlToImage": "",
-      "publishedAt": "2024-10-27T13:58:47Z",
-      "content": "NASCAR confiscated the steering wheel from the No. 38 Front Row Motorsports Ford of Layne Riggs ahead of Saturdays Baptist Health 200 NASCAR Craftsman Truck Series race at Homestead-Miami Speedway.\r\n… [+563 chars]"
+      "author": null,
+      "title": "Inside the Audio Lab: How Apple developed the world’s first end‑to‑end hearing health experience - Apple",
+      "description": "Here’s a look inside the Audio Lab, the hub for Apple’s groundbreaking new hearing health features on AirPods Pro 2, available today.",
+      "url": "https://www.apple.com/newsroom/2024/10/how-apple-developed-the-worlds-first-end-to-end-hearing-health-experience/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2024/10/how-apple-developed-the-worlds-first-end-to-end-hearing-health-experience/tile/Apple-Audio-Lab-Fantasia-Lab-01-lp.jpg.og.jpg?202410281601",
+      "publishedAt": "2024-10-28T16:03:03Z",
+      "content": "October 28, 2024\r\nUPDATE\r\nInside the Audio Lab: How Apple developed the worlds first endtoend hearing health experience\r\nApples state-of-the-art Audio Lab in Cupertino, California, supports the innov… [+7453 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Tom Howarth",
+      "title": "Fact Check: Did NASA Confirm the 'End of the World' Date? - Newsweek",
+      "description": "The late theoretical physicist Stephen Hawking predicted our planet's demise by 2600. Does NASA agree with him?",
+      "url": "https://www.newsweek.com/fact-check-did-nasa-confirm-end-world-date-1975941",
+      "urlToImage": "https://d.newsweek.com/en/full/2505706/burning-world.jpg",
+      "publishedAt": "2024-10-28T15:59:24Z",
+      "content": "The late renowned theoretical physicist Stephen Hawking made numerous predictions about the future of our planet, with one of his most famous foreseeing a grim scenario by the year 2600.\r\nHawking, wh… [+3977 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Are we on the verge of a self-improving AI explosion? - Ars Technica",
+      "description": "An AI that makes better AI could be “the last invention that man need ever make.”…",
+      "url": "https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-1467485842-1152x648.jpg",
+      "publishedAt": "2024-10-28T15:58:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Rebekah Valentine",
+      "title": "Kamala Harris Is Courting Gamers Using Fortnite in the Last Week of the U.S. Presidential Campaign - IGN",
+      "description": "It's the final week before the U.S. 2024 presidential election, and in the waning hours of her campaign, Vice President Kamala Harris is making a bid to a group that's not often targeted in such races: gamers.",
+      "url": "https://www.ign.com/articles/kamala-harris-is-courting-gamers-using-fortnite-in-the-last-week-of-the-us-presidential-campaign",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/28/fortnite-trailer-30s-harris-walz-2024-0-4-screenshot-2-1730123273634.png?width=1280",
+      "publishedAt": "2024-10-28T15:56:15Z",
+      "content": "It's the final week before the U.S. 2024 presidential election, and in the waning hours of her campaign, Vice President Kamala Harris is making a bid to a group that's not often targeted in such race… [+2436 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Electrek"
       },
-      "author": "Gili Malinsky",
-      "title": "33-year-old voiceover artist bringing in over $200,000 a year: I started with ‘really low prices and really long hours’ - CNBC",
-      "description": "Victoria Carroll brings in six figures per year doing voiceovers. Her advice: Start with \"really low prices and really long hours.\"",
-      "url": "https://www.cnbc.com/2024/10/27/advice-from-woman-who-brings-in-an-average-of-20k/mo-doing-voiceovers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046092-1728577468485-victoriaCarroll3.png?v=1728577596&w=1920&h=1080",
-      "publishedAt": "2024-10-27T13:20:01Z",
-      "content": "Victoria Carroll began doing voiceover work by chance.\r\nThe 33-year-old started her career as an actor and, after performing in a play in the Czech Republic in 2015, an audience member asked if she'd… [+3474 chars]"
+      "author": "Peter Johnson",
+      "title": "Ford F-150 Lightning and Mustang Mach-E drivers just gained Google Maps EV routing - Electrek",
+      "description": "Ford just made it easier for F-150 Lightning and Mustang Mach-E drivers to charge with new EV routing features. Drivers...",
+      "url": "http://electrek.co/2024/10/28/ford-launches-new-ev-routing-features-f-150-lightning-mach-e/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-28T15:10:00Z",
+      "content": "Ford just made it easier for F-150 Lightning and Mustang Mach-E drivers to charge with new EV routing features. Drivers can now see new routing info, including available Tesla Superchargers along the… [+2234 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "MacRumors"
       },
-      "author": "Amanda Caswell",
-      "title": "How to use ChatGPT in iOS 18.2 — here’s everything it can do - Tom's Guide",
-      "description": "The new Siri just won me over.",
-      "url": "https://www.tomsguide.com/ai/how-to-use-chatgpt-in-ios-18-2-heres-everything-it-can-do",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MFa9habauz7EeibXuc6KrX-1200-80.jpg",
-      "publishedAt": "2024-10-27T13:14:32Z",
-      "content": "Apple’s developer beta for iOS 18.2 is live and giving users a first look at the new ChatGPT feature. As a fan of ChatGPT, I couldn’t help but wonder what to expect with the AI model integrated direc… [+5581 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Releases macOS Sequoia 15.1 With Apple Intelligence - MacRumors",
+      "description": "Apple today released macOS Sequoia 15.1, the first update to the macOS Sequoia operating system that was released in September. macOS Sequoia comes...",
+      "url": "https://www.macrumors.com/2024/10/28/apple-releases-macos-sequoia-15-1/",
+      "urlToImage": "https://images.macrumors.com/t/ne62qbjm_V5f4GG9UND3WyOAxE8=/2500x/article-new/2024/08/macOS-Sequoia-Night-Feature.jpg",
+      "publishedAt": "2024-10-28T15:09:46Z",
+      "content": "Apple today released macOS Sequoia 15.1, the first update to the ‌macOS Sequoia‌ operating system that was released in September. ‌macOS Sequoia‌ comes six weeks after the launch of ‌macOS Sequoia‌ 1… [+4794 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendoeverything.com"
+        "name": "UploadVR"
       },
-      "author": "Brian",
-      "title": "Ryu Ga Gotoku Studio director extremely pleased with Yakuza Kiwami Switch sales - Nintendo Everything",
-      "description": "Ryu Ga Gotoku Studio director Masayoshi Yokoyama comments on Yakuza Kiwami Nintendo Switch sales and is very pleased.",
-      "url": "https://nintendoeverything.com/yakuza-kiwami-switch-sales-ryu-ga-gotoku-studio/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Yakuza-Kiwami-Switch-sales.jpg",
-      "publishedAt": "2024-10-27T12:49:15Z",
-      "content": "Yakuza Kiwami has only been on Switch for a few days, but SEGA subsidiary Ryu Ga Gotoku Studio seems to be ecstatic with how the port is performing in terms of sales.\r\nRyu Ga Gotoku Studio director M… [+2126 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Android 16's revamped Quick Settings panel may have another trick up its sleeve - Android Police",
-      "description": "Easily resize any tile",
-      "url": "https://www.androidpolice.com/android-16-quick-settings-tiles-custom-size/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/apps-2024-notifications-30.JPG",
-      "publishedAt": "2024-10-27T12:47:00Z",
-      "content": "Key Takeaways\r\n<ul><li> Google's Android 16 update next year could feature resizable Quick Settings tiles, as per hints discovered in Android 15 QPR1 Beta 3. </li><li> The feature will let users cust… [+2967 chars]"
+      "author": "Ian Hamilton",
+      "title": "Alien: Rogue Incursion Hands-On: Survios Aims For Aliens - UploadVR",
+      "description": "Alien: Rogue Incursion aims for the vibe of Aliens with inspiration from Dead Space.",
+      "url": "https://www.uploadvr.com/alien-rogue-incursion-hands-on/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2024/10/Xeno-Screenshot-3-V2-.png",
+      "publishedAt": "2024-10-28T15:03:30Z",
+      "content": "TQ Jefferson helped me through a slice of an early chapter in Alien: Rogue Incursion on PC VR.\r\nI trusted the creative director at Survios leading the charge for Rogue Incursion, but at the start of … [+4533 chars]"
     }
   ]
 }
