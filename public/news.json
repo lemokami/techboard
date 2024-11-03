@@ -1,58 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 49,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Ryan Lemay",
+      "title": "Black Ops 6 secretly fixes Diamond camo glitch used for challenge exploit - Dexerto",
+      "description": "Black Ops 6 removed an exploit that allowed players to complete the Diamond camo challenge easier, but didn’t announce it.",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-6-secretly-fixes-diamond-camo-glitch-used-for-challenge-exploit-2970066/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/11/01/black-ops-6-diamond-camo-1024x576-1.jpg",
+      "publishedAt": "2024-11-01T20:56:21Z",
+      "content": "Treyarch fixed an exploit that allowed players to complete the three kills without dying 10 times Diamond mastery camo challenge without actually meeting the requirement. \r\nEvery year, Call of Duty c… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "Call of Duty Black Ops 6 November 1 Patch Fixes Troublesome Black Screen Glitch and Other Issues - IGN",
+      "description": "Treyarch and Raven Software have published a small update for Call of Duty: Black Ops 6 that fixes a number of issues across its Multiplayer and Zombies modes.",
+      "url": "https://www.ign.com/articles/call-of-duty-black-ops-6-november-1-patch-fixes-troublesome-black-screen-glitch-and-other-issues",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/09/09/codblops6-1725926226920.jpg?width=1280",
+      "publishedAt": "2024-11-01T19:09:26Z",
+      "content": "Treyarch and Raven Software have published a small update for Call of Duty: Black Ops 6 that fixes a number of issues across its Multiplayer and Zombies modes.\r\nActivision posted the patch notes on i… [+4548 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Julianna Bragg",
+      "title": "Record-breaking prime number containing more than 41 million digits found by former Nvidia programmer - CNN",
+      "description": "Former Nvidia programmer Luke Durant’s search led to the groundbreaking discovery of the world’s largest known prime number in nearly six years.",
+      "url": "https://www.cnn.com/science/world-largest-prime-number-found/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179633683-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-01T18:35:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFor many people, prime numbers have faded into the bac… [+6345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "CarPlay in iOS 18.1 gets three small Apple Intelligence enhancements - 9to5Mac",
+      "description": "Apple Intelligence in iOS 18.1 provides a few nice enhancements to the CarPlay experience. Here are three small feature updates to CarPlay.",
+      "url": "https://9to5mac.com/2024/11/01/carplay-in-ios-18-1-gets-three-small-apple-intelligence-enhancements/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/carplay-ai-ios181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-01T18:08:08Z",
+      "content": "iOS 18.1 released this week with the first Apple Intelligence features for iPhone, plus iPad and Mac. But if youre a CarPlay user, you might have noticed that Apple Intelligence provides a few nice c… [+1931 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Halowaypoint.com"
       },
-      "author": "Unyshek",
-      "title": "Sandbox Overview | Great Journey - Halo Waypoint",
-      "description": "<p>Originally seen on the cover of Halo: Ghosts of Onyx back in 2006, wielded by Spartan-III super-soldiers, the MA5K will be joining the arsenal of weapons in Halo Infinite as the MA5K Avenger. </p>",
-      "url": "https://www.halowaypoint.com/news/sandbox-overview-great-journey",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/10/MA5K_Sizzler_Wallpaper_R01_1920x1080_NoWatermark.jpg",
-      "publishedAt": "2024-10-31T21:14:01Z",
-      "content": "Didnt you know? Spartans never die.\r\nOperation: Great Journey is landing next Tuesday, November 5, and its bringing a lot of great additions to Halo Infinite. Arriving just in time for the twentieth … [+5044 chars]"
+      "author": "Alex Wakeford",
+      "title": "Forge Overview | Winter Update 2024 - Halo Waypoint",
+      "description": "<p>The 2024 Winter Update for Halo Infinite is fast approaching and we wanted to give you a look at the updates and improvements coming to Forge, including third-person camera options, enhanced Forger attribution for player-created maps and modes, and much mo…",
+      "url": "https://www.halowaypoint.com/news/forge-overview-winter-update-2024",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/11/h2_map_003-1.jpg",
+      "publishedAt": "2024-11-01T17:45:07Z",
+      "content": "The 2024 Winter Update for Halo Infinite is fast approaching and we wanted to give you a look at the updates and improvements coming to Forge, including third-person camera options, enhanced Forger a… [+7570 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Hayden Field",
-      "title": "OpenAI CEO Sam Altman says new AI model taking a while because 'we can't ship' as quickly as hoped - CNBC",
-      "description": "OpenAI CEO Sam Altman said that GPT-5, the company's next probable large AI model, likely won't come this year.",
-      "url": "https://www.cnbc.com/2024/10/31/openais-sam-altman-says-new-ai-model-taking-a-while-hard-to-ship.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108049421-1729202440097-108049421-1729202195512-gettyimages-2178231083-20090101241017-99-741667.jpeg?v=1729202460&w=1920&h=1080",
-      "publishedAt": "2024-10-31T19:39:06Z",
-      "content": "OpenAI CEO Sam Altman said Thursday that his company's next big AI model release likely won't come this year as the company is \"prioritizing shipping\" of existing models that are focused on reasoning… [+3897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": "AppleInsider",
-      "title": "Hands-On! Apple's NEW USB-C Accessories! What You Need to Know! - AppleInsider",
-      "description": null,
-      "url": "https://www.youtube.com/watch?v\\\\u003dPDbLRB7HNyk",
-      "urlToImage": null,
-      "publishedAt": "2024-10-31T19:38:16Z",
+      "author": "Kevin Purdy",
+      "title": "Apple is snapping up one of the best non-Adobe image editors, Pixelmator - Ars Technica",
+      "description": "Apple has acquired one of the most popular non-Adobe photo editors for its platforms. What will become of Pixelmator when the deal goes through?",
+      "url": "https://arstechnica.com/gadgets/2024/11/apple-is-acquiring-image-editing-firm-pixelmator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/pixelmator2-1152x648.jpeg",
+      "publishedAt": "2024-11-01T17:39:45Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Tom Warren",
-      "title": "Microsoft just delayed Recall again - The Verge",
-      "description": "Microsoft is once again delaying its plans to roll out its Recall feature for Copilot Plus PCs. Windows Insiders will now get access to the feature in December.",
-      "url": "https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NtCPDkW32g6MCvouBL5TwoOwuMo=/0x0:1842x1036/1200x628/filters:focal(921x518:922x519)/cdn.vox-cdn.com/uploads/chorus_asset/file/25456809/Gen_AI_feature3_VP5_1842x1036.jpg",
-      "publishedAt": "2024-10-31T18:19:40Z",
-      "content": "Microsoft just delayed Recall again\r\nMicrosoft just delayed Recall again\r\n / Microsoft says it needs more time to make sure the AI feature is a secure and trusted experience.\r\nByTom Warren, a senior … [+2550 chars]"
+      "author": "Zack Whittaker",
+      "title": "The biggest underestimated security threat of today? Advanced persistent teenagers - TechCrunch",
+      "description": "These attacks are highly effective, have caused huge data breaches and resulted in huge ransoms paid to make the hackers go away.",
+      "url": "https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1466761303.jpg?resize=1200,800",
+      "publishedAt": "2024-11-01T17:35:00Z",
+      "content": "If you ask some of the top cybersecurity leaders in the field what’s on their worry list, you might not expect bored teenagers to be top of mind. But in recent years, this entirely new generation of … [+3972 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "‘Dragon Age: The Veilguard’ Faced Turbulent Development, High Stakes at BioWare - Bloomberg",
+      "description": "The studio head of EA’s BioWare says ‘Dragon Age: The Veilguard’ received nothing but support from EA throughout its lengthy production cycle",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-11-01/-dragon-age-the-veilguard-faced-turbulent-development-high-stakes-at-bioware",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBV2ODxHr44E/v1/1200x675.jpg",
+      "publishedAt": "2024-11-01T17:00:25Z",
+      "content": "Hi everyone. Today were getting in-depth on the new Dragon Age game, but first...\r\nThis weeks top gaming news:"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamingbible.com"
+      },
+      "author": "Angharad Redden",
+      "title": "GTA 6 can wait, Rockstar announces early 2025 surprise release - GAMINGbible",
+      "description": "Rockstar is set to launch an exciting update early next year",
+      "url": "https://www.gamingbible.com/news/rockstar-2025-announcement-776121-20241101",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/bltbc208f2ab3d7efc2/6725076ec29b082c802c315b/previewtemp_(1).png",
+      "publishedAt": "2024-11-01T16:53:53Z",
+      "content": "With fans eagerly anticipating the arrival of Grand Theft Auto VIs next trailer, Rockstar has an update. \r\nHowever, it is not Grand Theft Auto VI related at all. \r\nCheck out the first official traile… [+1619 chars]"
     },
     {
       "source": {
@@ -62,205 +127,140 @@
       "author": "Zak Doffman",
       "title": "Microsoft Update Warning—400 Million Windows PCs Now At Risk - Forbes",
       "description": "Are you one of the millions of Windows users at risk—here’s what you need to know.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/10/31/warning-for-14-billion-microsoft-windows-10-windows-11-users-get-free-upgrade/",
+      "url": "https://www.forbes.com/sites/zakdoffman/2024/11/01/warning-for-14-billion-microsoft-windows-10-windows-11-users-get-free-upgrade/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672224df900c785920e864cb/0x0.jpg?format=jpg&crop=2235,1315,x633,y304,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-31T18:15:13Z",
-      "content": "New warning issued for 400 million Windows users\r\nNurPhoto via Getty Images\r\nUpdated on October 31 with the news that Microsoft has suddenly announced a new extended support option for Windows 10 use… [+7134 chars]"
+      "publishedAt": "2024-11-01T16:39:43Z",
+      "content": "New warning issued for 400 million Windows users\r\nNurPhoto via Getty Images\r\nUpdated on November 1 with reaction to Microsofts surprise move to extend support for the hundreds of millions of PCs that… [+11361 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Fortnite Remix live event detailed, as fans warned to log in \"a few hours early\" - Eurogamer",
+      "description": "Fortnite kickstarts a huge month for the game tonight, with its impending Fortnite Remix: The Prelude live event.",
+      "url": "https://www.eurogamer.net/fortnite-remix-live-event-detailed-as-fans-warned-to-log-in-a-few-hours-early",
+      "urlToImage": "https://assetsio.gnwcdn.com/GbTeMSbWkAAdx-d.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-01T16:33:06Z",
+      "content": "Fortnite kickstarts a huge month for the game tonight, with its impending Fortnite Remix: The Prelude live event. \r\nEpic Games has warned fans to join the game \"a few hours early\" in advance of the e… [+1525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "Monster Hunter Wilds beta has graphical problems, but Capcom promises final game in a better state - Eurogamer",
+      "description": "Monster Hunter Wilds may have welcomed an impressive number of players giving the open beta a whirl, but many of these players are not especially impressed.",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-beta-has-graphical-problems-but-capcom-promises-final-game-in-a-better-state",
+      "urlToImage": "https://assetsio.gnwcdn.com/Monster-Hunter-Wilds-screenshot-showing-off-poor-graphics.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-01T16:09:41Z",
+      "content": "Monster Hunter Wilds may have welcomed an impressive number of Steam players giving the open beta a whirl, but many of these players are not especially impressed.\r\nA quick look over on the Monster Hu… [+3360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple researchers ran an AI test that exposed a fundamental ‘intelligence’ flaw - 9to5Mac",
+      "description": "Apple’s AI research recently produced a paper outlining a fundamental flaw in AI’s ‘intelligence,’ even as the company goes all-in on AI.",
+      "url": "https://9to5mac.com/2024/11/01/apple-researchers-ran-an-ai-test-that-exposed-a-fundamental-intelligence-flaw/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-01T15:42:00Z",
+      "content": "Apple just shipped its first Apple Intelligence features and launched new AI-optimized Macs. But for all the AI hype, there are clearly limitations with the technologys intelligence. And one of those… [+2062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Horizon Zero Dawn Remastered PC players reports issues with bugs, glitches, and yes, the PSN link requirement - Eurogamer",
+      "description": "Horizon Zero Dawn Remastered is sitting on a mixed Steam user score as players take issue with a number of things, incl…",
+      "url": "https://www.eurogamer.net/horizon-zero-dawn-remastered-pc-players-reports-issues-with-bugs-glitches-and-yes-the-psn-link-requirement",
+      "urlToImage": "https://assetsio.gnwcdn.com/Aloy-in-Horizon-Zero-Dawn-Remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-01T15:29:10Z",
+      "content": "Horizon Zero Dawn Remastered is sitting on a mixed Steam user score as players take issue with a number of things, including performance, stuttering, audio glitches, and the fact you need a PSN accou… [+2610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-10-31T17:50:13Z",
-      "content": "[Removed]"
+      "title": "Quick Share for iOS and macOS might be in the works - Android Authority",
+      "description": "Google may be working on bringing Quick Share to iOS and macOS, enabling file sharing between Android phones, iPhones, and MacBooks.",
+      "url": "https://www.androidauthority.com/quick-share-for-ios-macos-rumor-3496057/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/01/Quick-Share.jpg",
+      "publishedAt": "2024-11-01T14:54:42Z",
+      "content": "<ul><li>Google might be working on a Quick Share app for Apple devices running iOS and macOS.</li><li>While theres no direct evidence of Google working on a Quick Share app, a code comment left by a … [+4328 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Rockstarintel.com"
       },
-      "author": "Ty Roush",
-      "title": "OpenAI Launches AI-Powered Search Engine That Could Challenge Google—Here’s What To Know - Forbes",
-      "description": "The company tested a search engine “prototype” earlier this year among a small group of ChatGPT users.",
-      "url": "https://www.forbes.com/sites/tylerroush/2024/10/31/openai-launches-ai-powered-search-engine-that-could-challenge-google-heres-what-to-know/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bab6746fe40c0dc5f5a233/0x0.jpg?format=jpg&crop=3988,2243,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-31T17:46:28Z",
-      "content": "OpenAI has integrated an artificial intelligence-powered search engine into ChatGPT, the company announced Thursday, a move that could enter OpenAI into an internet search market dominated by Google.… [+3232 chars]"
+      "author": "Aaron Trueman",
+      "title": "New GTA Online Update Coming Next Month, PC Gets Next Gen Features In 2025 - RockstarINTEL",
+      "description": "In an unexpected announcement on Friday, Rockstar Games have announced a new GTA Online update for December along with a string of details and screenshots. Plus, the company has revealed that they are finally bringing the “Expanded and Enhanced” next gen feat…",
+      "url": "https://rockstarintel.com/new-gta-online-summer-update-details-revealed-by-rockstar-games-2/",
+      "urlToImage": "https://rockstarintel.com/wp-content/uploads/2024/11/gtao-dec-header-24.webp",
+      "publishedAt": "2024-11-01T14:37:14Z",
+      "content": "In an unexpected announcement on Friday, Rockstar Games have announced a new GTA Online update for December along with a string of details and screenshots. Plus, the company has revealed that they ar… [+3690 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kevin Purdy",
-      "title": "Pixel phones are getting an actual weather app in 2024, with a bit of AI - Ars Technica",
-      "description": "Maybe you didn’t know that Android never really had a true weather app, but now it does. Not everybody loves the choices.",
-      "url": "https://arstechnica.com/gadgets/2024/10/pixel-phones-are-getting-an-actual-weather-app-in-2024-with-a-bit-of-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Screenshot_20241031-125154-1152x648-1730394071.jpg",
-      "publishedAt": "2024-10-31T17:27:42Z",
+      "author": "Andrew Cunningham",
+      "title": "Microsoft delays rollout of the Windows 11 Recall feature yet again - Ars Technica",
+      "description": "Microsoft works to make Recall “secure and trusted” after security complaints.",
+      "url": "https://arstechnica.com/gadgets/2024/11/microsoft-delays-rollout-of-the-windows-11-recall-feature-yet-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Recall-hero-1152x648.jpeg",
+      "publishedAt": "2024-11-01T14:31:18Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Boing Boing"
       },
-      "author": "Aisha Malik",
-      "title": "Google Maps is getting new AI features powered by Gemini - TechCrunch",
-      "description": "Google Maps is going to start helping you find new places to visit and answer questions about different locations thanks to Gemini.",
-      "url": "https://techcrunch.com/2024/10/31/google-maps-is-getting-new-ai-features-powered-by-gemini/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/google-maps.jpg?w=1200",
-      "publishedAt": "2024-10-31T17:08:25Z",
-      "content": "Google Maps is getting new features powered by Gemini, Google’s generative AI model. On Thursday the company announced incoming updates that will allow Google Maps users in the U.S. to tap into AI to… [+2917 chars]"
+      "author": "Rob Beschizza",
+      "title": "Nintendo games run better on other hardware. It doesn't want you to see - Boing Boing",
+      "description": "Russ Crandall's retrogaming YouTube channel stands on the precipice of doom because of the platform's three-strikes rule.",
+      "url": "https://boingboing.net/2024/11/01/nintendo-games-run-best-on-other-gear-it-doesnt-want-you-to-see.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2024/11/image-3.png",
+      "publishedAt": "2024-11-01T13:59:55Z",
+      "content": "Russ Crandall's retrogaming YouTube channel stands on the precipice of doom because of the platform's three-strikes rule. Nintendo has issued two DMCA takedowns, against videos showing Nintendo games… [+2791 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "OnePlus 13 debuts with flat display and a higher price ahead of global launch - 9to5Google",
-      "description": "After a lot of teasers, the OnePlus 13 is finally official in China, which tells us everything we need to...",
-      "url": "http://9to5google.com/2024/10/31/oneplus-13-flat-display-price-specs-china/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/oneplus-13-china-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-10-31T16:48:00Z",
-      "content": "After a lot of teasers, the OnePlus 13 is finally official in China, which tells us everything we need to know about the device ahead of its global debut.\r\nThe OnePlus 13 is the company’s latest flag… [+2893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Points Guy"
-      },
-      "author": "Caroline Tanner",
-      "title": "Apple iPad currently on sale for less than $200 - The Points Guy",
-      "description": "Apple iPads are currently on sale for less than $200 each on Amazon.",
-      "url": "https://thepointsguy.com/deals/apple-ipad/",
-      "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/10/GettyImages-2039918088.jpg",
-      "publishedAt": "2024-10-31T16:33:19Z",
-      "content": "Although Black Friday doesn't start until next month, we're already seeing some discounted products, including the Apple iPad, which is currently on sale for less than $200.\r\nIf you've been in the ma… [+2224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RoadandTrack.com"
-      },
-      "author": "Lucas Bell",
-      "title": "Buy the Official Tumbler Batmobile and Live Out Your Batman Fantasy - Road & Track",
-      "description": "You're gonna need a Bruce Wayne sized bank account to make it happen, but Warner Bros has just announced a limited run of Tumbler Batmobile recreations on sale for $3 million.",
-      "url": "https://www.roadandtrack.com/news/a62774913/warner-brothers-official-batman-tumbler-batmobile-for-sale/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/dk-02991-67239bfa44d08.jpg?crop=0.998xw:0.749xh;0,0.198xh&resize=1200:*",
-      "publishedAt": "2024-10-31T15:19:00Z",
-      "content": "There are few pop culture characters whose vehicles carry the same cultural recognition as their owners but Batman and his Batmobile are undeniably at the top of the list. From the George Barris orig… [+2520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Jordan Middler",
-      "title": "Sony closed Concord studio Firewalk to ‘further its monopoly’ in games, labour body says - Video Games Chronicle",
-      "description": "Sony announced this week that Firewalk would close, along with mobile studio Neon Koi…",
-      "url": "https://www.videogameschronicle.com/news/sony-closed-concord-studio-firewalk-to-further-its-monopoly-in-games-labour-body-says/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/06/concord-character-art.webp",
-      "publishedAt": "2024-10-31T15:15:03Z",
-      "content": "The Communication Workers of America (CWA) has claimed that Sony’s decision to close Firewalk and Neon Koi was a move to “further its monopoly position in the video game industry”.\r\nAs reported by Ga… [+1577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
+        "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-10-31T15:10:54Z",
-      "content": "[Removed]"
+      "title": "Destiny Rising Closed Alpha: Start Date, End Date, Activities, Weapons, Heroes, Specs, Leaks - TheGamePost",
+      "description": "Find all the latest news on the Destiny: Rising Closed Alpha test, including its start and end date, new activities, heroes, recommended specifications, leaks, and more.",
+      "url": "https://thegamepost.com/destiny-rising-closed-alpha-test/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/11/destiny-rising-closed-alpha-test-details-4.webp",
+      "publishedAt": "2024-11-01T12:56:11Z",
+      "content": "Find all the latest news on the Destiny: Rising Closed Alpha test, including its start and end date, new activities, heroes, recommended specifications, leaks, and more.\r\nDestiny: Rising, the first m… [+6740 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Kyle Wiggers",
-      "title": "Claude gets desktop apps and dictation support - TechCrunch",
-      "description": "Anthropic's Claude chatbot now has desktop apps for Mac and Windows. Meanwhile, the mobile Claude apps are getting dictation support.",
-      "url": "https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
-      "publishedAt": "2024-10-31T15:00:00Z",
-      "content": "Anthropic’s AI-powered chatbot, Claude, now has desktop apps.\r\nAnthropic is launching Claude apps for Mac and Windows today in public beta, which as Anthropic writes in a blog post “brings Claude’s c… [+1028 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Catherine Lewis",
-      "title": "After 9 months and over 800 hours of attempts, Borderlands 2 player manages to complete the entire game without getting hit once - Gamesradar",
-      "description": "\"Another game thought to be impossible damageless/hitless has been taken down\"",
-      "url": "https://www.gamesradar.com/games/borderlands/after-9-months-and-over-800-hours-of-attempts-borderlands-2-player-manages-to-complete-the-entire-game-without-getting-hit-once/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FCFnx66GCkU35rtQvm9txZ-1200-80.jpg",
-      "publishedAt": "2024-10-31T14:41:29Z",
-      "content": "One seriously dedicated Borderlands 2\r\n player has pulled off what I'm sure many would have considered impossible – a completely hitless run of the game.\r\nThis feat has been accomplished by no-hit pr… [+1916 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Waze will soon let you report incidents with your voice - The Verge",
-      "description": "Waze is testing a feature that will let you report incidents with your voice. This feature is rolling out to trusted testers first before arriving for all users globally in the coming months.",
-      "url": "https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fI8c9rTOXFMq88rKVxhN-jB2Hhc=/0x0:2844x1592/1200x628/filters:focal(1422x796:1423x797)/cdn.vox-cdn.com/uploads/chorus_asset/file/25708121/waze_conversational_report.png",
-      "publishedAt": "2024-10-31T14:00:00Z",
-      "content": "Waze will soon let you report incidents with your voice\r\nWaze will soon let you report incidents with your voice\r\n / Just tap the reporting button and say what you see.\r\nByEmma Roth, a news writer wh… [+1252 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Former Arkane Studios President Says Microsoft Closing the Studio Was 'Stupid' and 'Not a Good Decision' - IGN",
-      "description": "Microsoft shut down Redfall and Prey developer Arkane Austin in a sudden, devastating move earlier this year, and the studio founder has now called the move \"stupid\" and \"not a good decision.\"",
-      "url": "https://www.ign.com/articles/former-arkane-studios-president-says-microsoft-closing-the-studio-was-stupid-and-not-a-good-decision",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/20/redfall-characters-interview-1657326444999-1674242202551.jpg?width=1280",
-      "publishedAt": "2024-10-31T13:45:31Z",
-      "content": "Microsoft shut down Redfall and Prey developer Arkane Austin in a sudden, devastating move earlier this year, and the studio founder has now called the move \"stupid\" and \"not a good decision.\"\r\nIn an… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Ryan Dinsdale",
-      "title": "Call of Duty Franchise Reaches Half a Billion Sales... Not Even Counting Black Ops 6 - IGN",
-      "description": "Xbox subsidiary Activision Blizzard has revealed the Call of Duty franchise has now crossed an eye-watering half a billion units sold ahead of the release of Black Ops 6.",
-      "url": "https://www.ign.com/articles/call-of-duty-franchise-reaches-half-a-billion-sales-not-counting-black-ops-6",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/10/29/callofdutyblackops6nuketownlaunchtrailer-ign-blogroll-1730222436876.jpg?width=1280",
-      "publishedAt": "2024-10-31T13:41:15Z",
-      "content": "Xbox subsidiary Activision Blizzard has revealed the Call of Duty franchise has now crossed an eye-watering half a billion units sold ahead of the release of Black Ops 6.\r\nActivision Blizzard told Th… [+2803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Study Finds"
-      },
-      "author": "StudyFinds Staff",
-      "title": "The great indoors: Americans spending hour less outside since pandemic - Study Finds",
-      "description": "A new report finds the COVID-19 pandemic has left a lasting impact on our desire to ever go outside again.",
-      "url": "https://studyfinds.org/dont-want-to-go-outside/",
-      "urlToImage": "https://studyfinds.org/wp-content/uploads/2024/01/boring-couple-scaled.jpeg",
-      "publishedAt": "2024-10-31T13:06:50Z",
-      "content": "The researchers analyzed the American Time Use Survey (ATUS) data, covering 34,000 responses from 2019, 2021, 2022, and 2023. They applied Ordinary Least Squares (OLS) regression to measure the impac… [+2477 chars]"
+      "author": "Tim De Chant",
+      "title": "How to build a company that can save the world and generate a profit - TechCrunch",
+      "description": "For startups that hope to save the world, or at least make it a better place, balancing impact with profit can be tricky.",
+      "url": "https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-175175784.jpeg?resize=1200,777",
+      "publishedAt": "2024-11-01T12:53:00Z",
+      "content": "For startups that hope to save the world, or at least make it a better place, balancing impact with profit can be tricky.\r\nInvestor and shareholder expectations are often not aligned with how hard an… [+2367 chars]"
     }
   ]
 }
