@@ -1,58 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 66,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Michael Burkhardt",
-      "title": "Apple’s new M4 Max is the fastest CPU on the market, and we haven’t even seen M4 Ultra - 9to5Mac",
-      "description": "Apple unveiled its new MacBook Pro models this week, with M4, M4 Pro, and M4 Max chipsets. The new M4...",
-      "url": "https://9to5mac.com/2024/11/02/apple-m4-max-geekbench-macbook-pro/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/Apple-M4-Max-chip-CPU-performance_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-02T22:00:00Z",
-      "content": "Apple unveiled its new MacBook Pro models this week, with M4, M4 Pro, and M4 Max chipsets. The new M4 Pro chip in the Mac mini already showed some very promising results, making it the fastest Mac ev… [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Dragon Age: The Veilguard DLC plans unknown as BioWare shifts \"full attention\" to next Mass Effect game - Eurogamer",
-      "description": "There are currently no plans for Dragon Age: The Veilguard DLC.",
-      "url": "https://www.eurogamer.net/dragon-age-the-veilguard-dlc-plans-unknown-as-bioware-shifts-full-attention-to-next-mass-effect-game",
-      "urlToImage": "https://assetsio.gnwcdn.com/Best-class-in-Dragon-Age-The-Veilguard-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-02T21:00:20Z",
-      "content": "There are currently no plans for Dragon Age: The Veilguard DLC.\r\nThat's according to Rolling Stone, which reported in an interview with creative director John Epler that \"full attention [of BioWare] … [+1349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Of course someone has Doom running on Alarmo now - Eurogamer",
-      "description": "Earlier this week, Tom told us Nintendo Alarmo couldn't yet run Doom, but did confirm it could display a picture of a c…",
-      "url": "https://www.eurogamer.net/of-course-someone-has-doom-running-on-alarmo-now",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-11-02-at-20.07.27.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-02T20:12:54Z",
-      "content": "Earlier this week, Tom told us Nintendo Alarmo couldn't yet run Doom, but did confirm it could display a picture of a cat.\r\nJust three days later, however, Wii U reverse engineer GaryOderNichts has r… [+1780 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen - The Verge",
-      "description": "People who’ve ordered Amazon’s color e-reader, the Kindle Colorsoft Signature Edition, say there’s a discolored yellow bar at the bottom of the display.",
-      "url": "https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wCCliBMPo3CmpYkv96-XcXdreUc=/0x0:5712x4284/1200x628/filters:focal(2856x2142:2857x2143)/cdn.vox-cdn.com/uploads/chorus_asset/file/25680683/Kindle_Colorsoft.jpg",
-      "publishedAt": "2024-11-02T20:08:50Z",
-      "content": "Kindle Colorsoft owners complain of a yellow bar on the e-readers screen\r\nKindle Colorsoft owners complain of a yellow bar on the e-readers screen\r\n / Amazons new color Kindle e-reader has a discolor… [+2063 chars]"
+      "author": "Kyle Wiggers",
+      "title": "OpenAI has hired the co-founder of Twitter challenger Pebble - TechCrunch",
+      "description": "Gabor Cselle, the former CEO and co-founder of X challenger Pebble, has joined OpenAI to work on a secretive project.",
+      "url": "https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
+      "publishedAt": "2024-11-03T20:37:11Z",
+      "content": "Gabor Cselle, the former CEO and co-founder of X (formerly Twitter) challenger Pebble, has joined OpenAI to work on a secretive project.\r\nCselle, who according to LinkedIn has been employed at OpenAI… [+1649 chars]"
     },
     {
       "source": {
@@ -60,38 +21,103 @@
         "name": "PCMag.com"
       },
       "author": "Will McCurdy",
-      "title": "OpenAI CEO Says No GPT-5 in 2025, Blames GPT-o1 - PCMag",
-      "description": "OpenAI’s top execs hinted that future versions of ChatGPT could act much more independently, without as much human intervention.",
-      "url": "https://www.pcmag.com/news/openai-ceo-says-no-gpt-5-in-2025-blames-gpt-o1",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/01zrN5OorBppFEoJCR86Suf-1.fit_lim.size_1200x630.v1730557195.jpg",
-      "publishedAt": "2024-11-02T15:38:08Z",
-      "content": "OpenAI CEO Sam Altman has poured cold water on hopes for the next major version of ChatGPT coming out this year.\r\n\"We have some very good releases coming later this year! Nothing that we are going to… [+3063 chars]"
+      "title": "Discolored Yellow Strip Spotted by Early Kindle Colorsoft Buyers - PCMag",
+      "description": "Amazon tells some customers it may be able to fix the issue with a software update.",
+      "url": "https://www.pcmag.com/news/discoloured-yellow-strip-spotted-by-early-kindle-colorsoft-buyers",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/01w0beyjxy3qKN474cPOtlM-1.fit_lim.size_1200x630.v1730637028.webp",
+      "publishedAt": "2024-11-03T20:26:15Z",
+      "content": "Users of Amazon’s latest e-reader, the Kindle Colorsoft Signature Edition, are complaining about a yellow strip appearing near the bottom of their device. \r\nAccording to Reddit posts first spotted\r\n … [+2542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Cassidy Wixom, KSL.com",
+      "title": "BYU, Toyota develop new welding technique for minivan sliding doors - KSL.com",
+      "description": "The future of minivans is being developed by an unlikely partnership: BYU engineers and Toyota.",
+      "url": "https://www.ksl.com/article/51166088/byu-toyota-develop-new-welding-technique-for-minivan-sliding-doors",
+      "urlToImage": "https://img.ksl.com/slc/3021/302101/30210126.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2024-11-03T19:14:54Z",
+      "content": "PROVO An unlikely partnership is developing the future of minivans: engineers at Brigham Young University and the Japanese vehicle-manufacturing giant Toyota.\r\nBYU partnered with Toyota to develop a … [+2478 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Mitchel Broussard",
-      "title": "The Best Early Black Friday Apple Deals - MacRumors",
-      "description": "We're officially in the month of Black Friday, which will take place on Friday, November 29 in 2024. As always, this will be the best time of the...",
-      "url": "https://www.macrumors.com/2024/11/01/best-early-black-friday-apple-deals-2024/",
-      "urlToImage": "https://images.macrumors.com/t/Tz45ojROaiC73OwwWAawcO9xjv4=/2500x/article-new/2023/11/best-early-black-friday-deals.jpg",
-      "publishedAt": "2024-11-02T15:05:00Z",
-      "content": "We're officially in the month of Black Friday, which will take place on Friday, November 29 in 2024. As always, this will be the best time of the year to shop for great deals, including popular Apple… [+5316 chars]"
+      "author": "Joe Rossignol",
+      "title": "What to Expect From Apple's M4 Ultra Chip Next Year - MacRumors",
+      "description": "Apple last week debuted its latest M4 Pro and M4 Max chips in the Mac mini and MacBook Pro, and the highest-end M4 Ultra chip should follow next...",
+      "url": "https://www.macrumors.com/2024/11/03/what-to-expect-from-m4-ultra-chip/",
+      "urlToImage": "https://images.macrumors.com/t/vG9h6_Fqxn4iG0LRbXlrpex849Q=/2672x/article-new/2024/04/M4-Mac-Pro-Feature-Cool-2.jpg",
+      "publishedAt": "2024-11-03T18:54:48Z",
+      "content": "Apple last week debuted its latest M4 Pro and M4 Max chips in the Mac mini and MacBook Pro, and the highest-end M4 Ultra chip should follow next year.\r\nIn his Power On newsletter today, Bloomberg's M… [+1445 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Slashdot.org"
+        "name": "9to5Mac"
       },
-      "author": null,
-      "title": "Rivian's Chief Software Officer Says In-Car Buttons Are 'An Anomaly' - Slashdot",
-      "description": "An anonymous reader quotes a report from TechCrunch: The trend of big touchscreens in cars has left many yearning for the not-so-distant days when most user interactions happened with physical buttons. But Rivian's chief software officer Wassym Bensaid believ…",
-      "url": "https://tech.slashdot.org/story/24/11/01/2050258/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly",
-      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
-      "publishedAt": "2024-11-02T14:34:20Z",
-      "content": "In the time it takes to say, \"Dim the lights...\" and the computer responds, the approaching car will have already passed you.\r\n\"Turn up the radio\"\r\n... \"Turn it up more\"\r\n... \"No, not that much\"\r\n...… [+835 chars]"
+      "author": "Michael Burkhardt",
+      "title": "Apple buying Pixelmator could finally fix one of my biggest iPad complaints - 9to5Mac",
+      "description": "On Friday, Pixelmator, the company behind many popular photo-editing apps for Apple platforms, announced that Apple will be acquiring them....",
+      "url": "https://9to5mac.com/2024/11/03/apple-acquisition-pixelmator-pro-ipad/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/pixelmator-pro-hdr.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-03T18:39:00Z",
+      "content": "On Friday, Pixelmator, the company behind many popular photo-editing apps for Apple platforms, announced that Apple will be acquiring them. While some people are rightfully skeptical of the deal, I’m… [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Can Nintendo’s Alarmo run Doom? You bet it can - The Verge",
+      "description": "A hacker sorted out how to run Doom on the Nintendo Alarmo using its USB-C port, and published the code and instructions to GitHub for all to use.",
+      "url": "https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LBUrUGkbFK2mEPNXr5Z0L5Wl-7E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666901/DSC_0955_2.jpg",
+      "publishedAt": "2024-11-03T18:22:57Z",
+      "content": "Can Nintendos Alarmo run Doom? You bet it can\r\nCan Nintendos Alarmo run Doom? You bet it can\r\n / With a new USB exploit, Doom is probably just the beginning for the Nintendo Alarmo.\r\nByWes Davis, a w… [+1783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theautopian.com"
+      },
+      "author": "David Tracy",
+      "title": "I Found Out My Car Is Made Out Of Bondo And Now I’m Bummed - The Autopian",
+      "description": "Today I decided to do a bit of tinkering on my 1954 Willys CJ-3B, a vehicle I got for what I thought was a smokin’ hot price ($5,900), and that I had planned to use as part of my upcoming wedding (in less than two months). But today I noticed  a few bubbles i…",
+      "url": "https://www.theautopian.com/i-found-out-my-car-is-made-out-of-bondo-and-now-im-bummed/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Screen-Shot-2024-11-03-at-9.38.27-AM-1024x593.png",
+      "publishedAt": "2024-11-03T17:41:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "New GTA 6 Tease Gets Fans Ready for New Trailer - ComicBook.com",
+      "description": "Ahead of the second GTA 6 trailer, a new tease from a former Rockstar Games developer has likened the game to RDR2 and GTA 5.",
+      "url": "http://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-tease-2/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/g-t-a-6.png?resize=2000,1125",
+      "publishedAt": "2024-11-03T16:24:59Z",
+      "content": "A new GTA 6 tease from a former Rockstar Games developer who worked on the game has Grand Theft Auto fans ready and excited for the game’s next trailer, which may be releasing later this month. When … [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Geoffrey A. Fowler",
+      "title": "Column | You’re overexposed online. This service fixes 223 privacy settings for you. - The Washington Post",
+      "description": "There’s a simple and effective new way to deep clean your privacy and security on Facebook, Google, X and more, from a startup called Block Party.",
+      "url": "https://www.washingtonpost.com/technology/2024/11/03/online-privacy-settings-block-party/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OLWFJ76LHJBF5CBGTRJLRQG77U.png&w=1440",
+      "publishedAt": "2024-11-03T15:41:29Z",
+      "content": "I thought I had my Facebook, Google, Instagram, X, Venmo and LinkedIn on privacy lockdown. Then I got terrified by a new service called Block Party.\r\nIt scans nine critical apps for 223 privacy, secu… [+6840 chars]"
     },
     {
       "source": {
@@ -99,51 +125,38 @@
         "name": "Gizmodo.com"
       },
       "author": "Gizmodo Deals",
-      "title": "Amazon Offers AirPods Pro 2 Cheaper Than Prime Day, Looking To Clear Entire Stock By Sunday - Gizmodo",
-      "description": "It's $10 less than the price offered during Prime Day.",
-      "url": "https://gizmodo.com/amazon-offers-airpods-pro-2-cheaper-than-prime-day-looking-to-clear-entire-stock-by-sunday-2000519464",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2.jpg",
-      "publishedAt": "2024-11-02T14:10:14Z",
-      "content": "Apple executives might be raising their eyebrows at Amazon’s latest move: the retail giant has unleashed an unprecedented deal on the AirPods Pro 2, slashing the price to a mere $179 from its origina… [+2422 chars]"
+      "title": "In an Early Black Friday Deal, Amazon is Offering $1,200 Off on This Stunning LG 65″ C4 TV - Gizmodo",
+      "description": "That's a massive 45% discount on this LG OLED TV.",
+      "url": "https://gizmodo.com/in-an-early-black-friday-deal-amazon-is-offering-1200-off-on-this-stunning-lg-65-c4-tv-2000519988",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
+      "publishedAt": "2024-11-03T15:17:32Z",
+      "content": "Amazon is currently offering an incredible early Black Friday deal on LG’s OLED evo C4 Series 4K TVs which makes it an excellent opportunity for those looking to upgrade their home entertainment syst… [+2289 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Forbes"
       },
-      "author": "Tom Phillips",
-      "title": "Assassin's Creed Shadows delay necessary to change \"narrative\" of Ubisoft's \"inconsistency in quality\" - Eurogamer",
-      "description": "Assassin's Creed boss Marc-Alexis Coté has discussed the recent shock decision to delay the launch of Assassin's Creed …",
-      "url": "https://www.eurogamer.net/assassins-creed-shadows-delay-necessary-to-change-narrative-of-ubisofts-inconsistency-in-quality",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-11-02-132044.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-02T13:21:42Z",
-      "content": "Assassin's Creed boss Marc-Alexis Coté has discussed the recent shock decision to delay the launch of Assassin's Creed Shadows until February 2025, just a month before its originally intended release… [+4721 chars]"
+      "author": "David Phelan",
+      "title": "iOS 18.2: Release Date For Major iPhone AI Update Revealed In New Report - Forbes",
+      "description": "The first Apple Intelligence features have landed on the iPhone but much more is coming, and now we know when it’s likely to be.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/11/03/ios-182-release-date-for-major-iphone-ai-update-revealed-in-new-report/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672791a293c6355fa122ccbc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-03T15:10:53Z",
+      "content": "Apple Intelligence is the marquee feature for this years iPhones (and iPads and Macs) and the first features have just arrived in the iOS 18.1 releasefull details of that here. But much more is comin… [+2269 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Thegamepost.com"
+        "name": "The Daily Dot"
       },
-      "author": null,
-      "title": "NetEase Issues Statement On AI-Generated Voicelines In Destiny: Rising Alpha - TheGamePost",
-      "description": "NetEase Games has recently addressed concerns over the use of AI-generated voicelines in the Destiny: Rising Alpha.",
-      "url": "https://thegamepost.com/netease-ai-voicelines-destiny-rising-alpha/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/11/netease-ai-voicelines-destiny-rising-alpha-3.webp",
-      "publishedAt": "2024-11-02T13:03:13Z",
-      "content": "NetEase Games has recently addressed concerns over the use of AI-generated voicelines in the Destiny: Rising Closed Alpha test.\r\nDestiny fans got their first hands-on look at Destiny: Rising yesterda… [+2405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kotaku Staff",
-      "title": "The Concord Studio Gets Shut Down And More Top Gaming Stories - Kotaku",
-      "description": "Also, Ubisoft releases an NFT game, and YouTube denies Dr Disrespect's request to monetize his channel",
-      "url": "https://kotaku.com/concord-ps5-ubisoft-nft-crypto-xenoblade-switch-1851687587",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d295e87ce737f112c6154dd9e08e6089.jpg",
-      "publishedAt": "2024-11-02T13:00:00Z",
-      "content": "In August 2024, Nintendos free-to-play mobile incarnation of Animal Crossingwas announced to be coming to an end this November. Its now been revealed that its replacement, Animal Crossing: Pocket Cam… [+254 chars]"
+      "author": "Phil West",
+      "title": "‘This is how it should come out’: Mechanic shows what the transmission fluid for a Toyota Tacoma looks like after 97K miles - The Daily Dot",
+      "description": "A mechanic marveled at a friend's car after examining the transmission fluid, nearly 100,000 miles into the car's life.",
+      "url": "https://www.dailydot.com/news/toyota-transmission-fluid-97k-miles/",
+      "urlToImage": "https://uploads.dailydot.com/2024/11/2022-tacoma-transmission.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-11-03T15:00:00Z",
+      "content": "A mechanic marveled at a friends car after examining the transmission fluid, nearly 100,000 miles into the cars life. He was surprised by what he saw.\r\nThe video reveal comes from San Jose, Californi… [+3000 chars]"
     },
     {
       "source": {
@@ -151,116 +164,103 @@
         "name": "Forbes"
       },
       "author": "Paul Tassi",
-      "title": "‘Dragon Age: The Veilguard’ User Scores Split As Predictably As Possible - Forbes",
-      "description": "Dragon Age: The Veilguard reviews are split predictably between people who have played the game, and people who haven't.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/11/02/dragon-age-the-veilguard-user-scores-split-as-predictably-as-possible/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67261eaf447a429920869b65/0x0.jpg?format=jpg&crop=612,344,x85,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-02T12:52:05Z",
-      "content": "Dragon Age: The Veilguard\r\nSteam/Metacritic\r\nDragon Age: The Veilguard arrived with pretty solid critic scores, racking up an 84 on Metacritic, translating into what appear to be pretty solid sales, … [+2464 chars]"
+      "title": "A Few Things ‘Destiny 2’ Could Surprisingly Learn From ‘Destiny Rising’ - Forbes",
+      "description": "The more I play the more I notice a few extra things that I think even Destiny 2 could learn from Destiny Rising.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/11/03/a-few-things-destiny-2-could-surprisingly-learn-from-destiny-rising/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670e6773cb43d6aa111737b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-03T14:31:07Z",
+      "content": "Destiny Rising\r\nBungie\r\nI am still immensely skeptical about the long-term appeal of Destiny Rising, where the main thing I can praise it for is decent enough gunplay for mobile. But, the more I play… [+3204 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "ZDNet"
       },
-      "author": null,
-      "title": "Pixel 9 Pro, 2 Months Later: Android 15 and Forgettable AI - CNET",
-      "description": "Is Google's best phone still worth buying? Two months and an Android 15 update later, I have some thoughts.",
-      "url": "https://www.cnet.com/tech/mobile/pixel-9-pro-2-months-later-android-15-and-forgettable-ai/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/6ab3bf05bc06f64b04563112aca9ae1055c0968f/hub/2024/08/20/3853bf81-1ccd-4bf9-af12-e5881e677b77/pixel-9-pro-xl-review-lanxon-48.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-11-02T12:39:44Z",
-      "content": "I really liked the Pixel 9 Pro XL when I reviewed it back in August. Its combination of slick design, solid cameras and the flurry of new AI skills made it a compelling alternative to Apple or Samsun… [+5450 chars]"
+      "author": "Ed Bott",
+      "title": "Your Windows 10 PC can't be upgraded? You have 5 options before support ends in 2025 - ZDNet",
+      "description": "Microsoft will officially end support for its most popular operating system next year. Before that day arrives, here's what you should do with your Windows 10 PCs that fail Microsoft's Windows 11 compatibility tests.",
+      "url": "https://www.zdnet.com/article/your-windows-10-pc-cant-be-upgraded-you-have-5-options-before-support-ends-in-2025/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5f72a54a9ddab8cfc9309cb3e5032e346ae3cb30/2024/11/03/ae325ec2-8844-44b0-b5c7-f3dc240b444d/gettyimages-157374715-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-03T14:10:00Z",
+      "content": "WillSelarep/Getty Images\r\nHave you decided what to do with your Windows 10 PCs when they reach their official end-of-support date less than a year from now?\r\nAlso: Why Windows 11 requires a TPM - and… [+9588 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "BGR"
       },
-      "author": null,
-      "title": "3 Apple Intelligence Features You'll Embrace in iOS 18.1 - CNET",
-      "description": "The latest system update delivers Apple Intelligence for select iPhones, but here are the newest AI features you'll realistically use every day.",
-      "url": "https://www.cnet.com/tech/services-and-software/3-apple-intelligence-features-youll-embrace-in-ios-18-1/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/ced5b9a0b0a4f5c73ca893268fc9164272e8272a/hub/2024/09/17/d5f874ee-5feb-41cf-bfb0-cf913721ea4d/apple-iphone-16-pro-max-apple-intelligence-siri-halo-glow-4675.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-11-02T12:00:00Z",
-      "content": "Apple has teased and promised many features of Apple Intelligence since the AI technology was first introduced earlier this year, but now that iOS 18.1 is available we finally get a taste of Apple's … [+4726 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "For sale, a good night’s sleep, just $4,700 - The Verge",
-      "description": "The $4,700 Eight Sleep Pod 4 Ultra adds a base that lets you change your bed’s elevation. It also has a redesigned quieter cover that adds touch controls.",
-      "url": "https://www.theverge.com/24279552/eight-sleep-pod-4-ultra-review-tracking",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VW43qSNFEOWtvPMZu4j26dv5-B8=/0x0:1800x2700/1200x628/filters:focal(925x1206:926x1207)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666305/247315_Eight_Sleep_Pod_4_Ultra_AKrales_0113.jpg",
-      "publishedAt": "2024-11-02T12:00:00Z",
-      "content": "Using the Eight Sleep Pod 4 Ultra has given me the best sleep of my life. I just cant get over the price and subscription.\r\nByVictoria Song, a senior reporter focusing on wearables, health tech, and … [+10364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Amazon Offers 30% Off The MacBook Air M2 For Early Black Friday, But There’s a Little Trick - Gizmodo",
-      "description": "You must add the immediate discount to a $200 coupon to reach a record low price.",
-      "url": "https://gizmodo.com/amazon-offers-30-off-the-macbook-air-m2-for-early-black-friday-but-theres-a-little-trick-2000519795",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/macbook-air-apple-2.jpg",
-      "publishedAt": "2024-11-02T11:32:21Z",
-      "content": "This early Black Friday season, Amazon is rolling out a deal that feels almost too good to be true: the MacBook Air M2 256GB is now available for just $699down from its original price of $999. Imagin… [+1730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-02T11:00:51Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon GO Hub"
-      },
-      "author": "phrixu",
-      "title": "TCG Pocket’s First Event Features Chansey and Meowth! - Pokémon GO Hub",
-      "description": "The first event for the Pokémon Trading Card Game Pocket, titled “Wonder Pick Event 1,” is now underway. As the name suggests, this event focuses on Wonder Picks, particularly featuring Meowth and Chansey. Date and Time Starts 1st November, 2024 6:00am Ends 1…",
-      "url": "https://pokemongohub.net/post/event/tcg-pockets-first-event-features-chansey-and-meowth/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2024/08/dynamax.jpg",
-      "publishedAt": "2024-11-02T10:51:31Z",
-      "content": "The first event for the Pokémon Trading Card Game Pocket, titled “Wonder Pick Event 1,” is now underway. As the name suggests, this event focuses on Wonder Picks, particularly featuring Meowth and Ch… [+2974 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games - Ars Technica",
-      "description": "Dozens of previously hard-to-access games can now be synced via Virtual Machine.",
-      "url": "https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/ipod-clickwheel-games-1152x648.jpg",
-      "publishedAt": "2024-11-02T10:00:34Z",
+      "author": "Joshua Hawkins, Joshua Hawkins",
+      "title": "Scientists found a new way to make cancer cells self-destruct - BGR",
+      "description": "A group of researchers say they have found a way to self-destruct cancer cells by binding two proteins together.",
+      "url": "https://bgr.com/science/scientists-found-a-new-way-to-make-cancer-cells-self-destruct/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/10/AdobeStock_489231370.jpeg?quality=82&strip=all",
+      "publishedAt": "2024-11-03T14:02:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Gamingbible.com"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Emma Flint",
-      "title": "Red Dead Redemption fans furious over new release, and we can see why - GAMINGbible",
-      "description": "A new Red Dead Redemption release is upsetting fans, and it's not difficult to see why.",
-      "url": "https://www.gamingbible.com/news/platform/pc/red-dead-redemption-new-release-fury-989545-20241029",
-      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/blt60ab8719f9cd80f2/6720d81956b5af26d58759f0/dead.jpg",
-      "publishedAt": "2024-11-02T08:00:11Z",
-      "content": "Neutrality is difficult to maintain when you see this kind of thing from Red Dead Redemption. \r\nDon't misunderstand, we adore this Rockstar Games franchise. That said, this new release is taking the … [+1698 chars]"
+      "author": "Joshua Khan",
+      "title": "Life Is Strange: Double Exposure is a brilliant thriller about accepting your flaws - Polygon",
+      "description": "Developed by Deck Nine, Double Exposure is a direct sequel to 2015’s Life Is Strange, and it’s a brilliant thriller",
+      "url": "https://www.polygon.com/review/472549/life-is-strange-double-exposure-review-ps5-pc-xbox-switch",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Life-is-Strange_-Double-Exposure_20241024134755.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2024-11-03T14:00:00Z",
+      "content": "Life Is Strange: Double Exposure isnt your typical murder mystery game. Instead of being a half-baked Choose Your Own Adventure, Double Exposure is an intuitive and mostly player-driven psychological… [+7378 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Finally Finds Its Gaming Console With the New Mac Mini - Bloomberg",
+      "description": "The new Mac mini could become Apple’s long-awaited answer to the PlayStation and Xbox. Also: The company’s next AI features are planned for early December; it delivers disappointing earnings guidance and agrees to acquire Pixelmator; and Peloton’s new CEO is …",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-11-03/apple-finally-finds-its-game-console-rival-with-the-new-m4-and-m4-pro-mac-minis-m31na57p",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXzW.ISyG0Rc/v1/1200x795.jpg",
+      "publishedAt": "2024-11-03T13:45:25Z",
+      "content": "The new Mac mini could become Apples long-awaited answer to the PlayStation and Xbox. Also: The companys next AI features are planned for early December; it delivers disappointing earnings guidance a… [+181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Apple reportedly releasing ‘total redesign’ for MacBook Pro in 2026 - 9to5Mac",
+      "description": "According to Bloomberg’s Mark Gurman, Apple will be releasing a ‘total redesign’ for MacBook Pro in 2026. Apple has traditionally...",
+      "url": "https://9to5mac.com/2024/11/03/apple-macbook-pro-redesign-2026/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/macbook-pro-space-black0006.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-03T13:32:00Z",
+      "content": "According to Bloomberg’s Mark Gurman, Apple will be releasing a ‘total redesign’ for MacBook Pro in 2026. Apple has traditionally taken a four year design cycle with MacBook Pro, but it’s looking lik… [+1242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheGamer"
+      },
+      "author": "Rhiannon Bevan",
+      "title": "Dragon Age: The Veilguard Hit With \"Anti-Woke\" Review Bombing - TheGamer",
+      "description": "Dragon Age: The Veilguard is getting review bombed, as BioWare's latest RPG finds itself at the centre of toxic 'anti-woke' discourse.",
+      "url": "https://www.thegamer.com/dragon-age-the-veilguard-review-bomb-woke-metacritic/",
+      "urlToImage": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/11/dragon-age-the-veilguard-lucanis-rook-davrin.jpg",
+      "publishedAt": "2024-11-03T13:11:00Z",
+      "content": "Key Takeaways\r\n<ul><li>\r\n Dragon Age: The Veilguard discourse continues, as it's now being spammed with zero-star reviews on Metacritic.\r\n </li><li>\r\n Many of these reviews complain about LGBTQ+ char… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Kuo: Cheaper ‘Apple Vision’ headset delayed beyond 2027 - 9to5Mac",
+      "description": "According to supply chain analyst Ming-Chi Kuo, Apple has delayed its plans to release a more affordable Apple Vision headset...",
+      "url": "https://9to5mac.com/2024/11/03/cheaper-apple-vision-delayed/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/vision-pro-color-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-03T13:07:00Z",
+      "content": "According to supply chain analyst Ming-Chi Kuo, Apple has delayed its plans to release a more affordable Apple Vision headset in 2025. It’ll take a couple extra years now.\r\nPrevious rumors indicated … [+862 chars]"
     }
   ]
 }
