@@ -1,71 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 46,
+  "totalResults": 52,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "GamesIndustry.biz"
       },
-      "author": "Benj Edwards",
-      "title": "Anthropic’s Haiku 3.5 surprises experts with an “intelligence” price increase - Ars Technica",
-      "description": "Anthropic’s smallest AI model now beats its older largest LLM, Opus, at some tasks.",
-      "url": "https://arstechnica.com/ai/2024/11/anthropic-raises-eyebrows-with-haiku-price-hike-citing-increased-intelligence/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/claude_haiku_logo-1152x648.jpg",
-      "publishedAt": "2024-11-05T22:50:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "iOS 18.2 could finally estimate your iPhone’s charging time - The Verge",
-      "description": "iOS 18.2 could include a new “BatteryIntelligence” feature that shows how long it’ll take to charge your iPhone, according to code spotted by 9to5Mac.",
-      "url": "https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QHlxVJniAoluU1xpnHD_AX5XYZc=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg",
-      "publishedAt": "2024-11-05T21:23:40Z",
-      "content": "iOS 18.2 could finally estimate your iPhones charging time\r\niOS 18.2 could finally estimate your iPhones charging time\r\n / Along with new AI features and a ChatGPT integration, iOS 18.2 could add a n… [+194 chars]"
+      "author": "James Batchelor",
+      "title": "Zelnick on Private Division sale: \"Those projects were smaller, we're in the business of big hits\" - GamesIndustry.biz",
+      "description": "Take-Two Interactive has confirmed the sale of Private Division for an undisclosed sum, as it drops the indie-focused p…",
+      "url": "https://www.gamesindustry.biz/zelnick-on-private-division-sale-those-projects-were-smaller-were-in-the-business-of-big-hits",
+      "urlToImage": "https://assetsio.gnwcdn.com/private-division_uyvIgfd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-06T21:15:30Z",
+      "content": "Take-Two Interactive has confirmed the sale of Private Division for an undisclosed sum, as it drops the indie-focused publishing label to focus on larger projects.\r\nIn statements alongside the publis… [+2358 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Pinkbike.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 18.2’s Notes app gets three powerful Apple Intelligence upgrades - 9to5Mac",
-      "description": "Apple Notes gets three big upgrades in iOS 18.2 thanks to a new wave of Apple Intelligence features. Here’s what’s coming.",
-      "url": "https://9to5mac.com/2024/11/05/apple-notes-in-ios-182-gets-three-powerful-ai-upgrades/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/notes-ios182-apple-intelligence_ff4ba4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-05T20:17:00Z",
-      "content": "The second wave of Apple Intelligence features is coming soon, and its a huge upgradeincluding for Apple Notes users. iOS 18 already packed a strong Notes update, but next month iOS 18.2 will bring t… [+2878 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Zack Whittaker",
-      "title": "Mozilla Foundation lays off 30% staff, drops advocacy division - TechCrunch",
-      "description": "This is the second layoff at Mozilla this year, the first affecting dozens of staff on the side of the organization that builds the popular Firefox browser.",
-      "url": "https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/04/Firefox_San_Francisco_01.jpg?resize=1200,800",
-      "publishedAt": "2024-11-05T20:05:02Z",
-      "content": "The Mozilla Foundation, the nonprofit arm of the Firefox browser maker Mozilla, has laid off 30% of its employees as the organization says it faces a “relentless onslaught of change.”\r\nWhen reached b… [+2809 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Jordan Hart",
-      "title": "How to add Apple's election results tracker to your iPhone lockscreen - Business Insider",
-      "description": "For the very online looking to stay dialed into election results, Apple makes it easy to track developments from your iPhone lockscreen.",
-      "url": "https://www.businessinsider.com/iphone-election-results-tracker-lock-screen-apple-news-app-2024-11",
-      "urlToImage": "https://i.insider.com/672a78af88cea3ba1c1e75fe?width=1200&format=jpeg",
-      "publishedAt": "2024-11-05T20:01:00Z",
-      "content": "Apple News is in full-blown Election Day mode and that includes a nifty feature that lets you track the results right from your iPhone lockscreen.\r\nThe winning candidate will need at least 270 electo… [+1560 chars]"
+      "author": "Mike Kazimer",
+      "title": "Trek Teases Steel Top Fuel - Pinkbike.com",
+      "description": "A steel front triangle, external cable routing, and a snazzy paint job. What's not to love?",
+      "url": "https://www.pinkbike.com/news/trek-teases-steel-top-fuel.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb27460733/p4pb27460733.jpg",
+      "publishedAt": "2024-11-06T20:54:38Z",
+      "content": "A steel Trek Top Fuel? That's what Kyle Neuser, an industrial designer at Trek has created with help from the company's prototype lab. The bike uses 4130 chromoly steel tubes for the front triangle, … [+1032 chars]"
     },
     {
       "source": {
@@ -77,125 +38,60 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-11-05T19:01:45Z",
+      "publishedAt": "2024-11-06T20:31:25Z",
       "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Stardew Valley now has multiplayer on Android and iOS – how to access the hidden mode - 9to5Google",
-      "description": "After a few months waiting, Stardew Valley’s latest major update has debuted on Android and iOS with a ton of...",
-      "url": "http://9to5google.com/2024/11/05/stardew-valley-multiplayer-android-ios-mobile-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/02/stardew_valley_1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-05T18:40:00Z",
-      "content": "After a few months waiting, Stardew Valley’s latest major update has debuted on Android and iOS with a ton of new additions, and now it turns out that it also has a hidden multiplayer mode.\r\nThrough … [+1859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Joe Tilleli",
-      "title": "A Grade-A Refurbished MacBook Air Costs the Same as Apple AirPods Pro - Gizmodo",
-      "description": "The Apple MacBook Air (Grade-A refurbished) is going for just $250 (74% off) at StackSocial.",
-      "url": "https://gizmodo.com/a-grade-a-refurbished-macbook-air-costs-the-same-as-apple-airpods-pro-2000520736",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/MacGradeA.jpg",
-      "publishedAt": "2024-11-05T18:34:49Z",
-      "content": "Black Friday is only a few short weeks away. It’s a great weekend to get your gift shopping for the upcoming holidays finished or to just treat yourself to some new tech you’ve had your eye on for aw… [+2113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Dustin Bailey",
-      "title": "After 5 years, Apex Legends is going back to the beginning with a Fortnite-style mode letting you experience the launch version of the battle royale FPS - Gamesradar",
-      "description": "Launch Royale is here to let you drop like it's 2019",
-      "url": "https://www.gamesradar.com/games/apex-legends/after-5-years-apex-legends-is-going-back-to-the-beginning-with-a-fortnite-style-mode-letting-you-experience-the-launch-version-of-the-battle-royale-fps/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DYa2CX8vaVT5MHsdD7subP-1200-80.jpg",
-      "publishedAt": "2024-11-05T18:27:00Z",
-      "content": "If you're finding yourself nostalgic for the heady days of 2019 battle royale games, EA and Respawn have just the thing with Apex Legends: From the Rift. The new season, which goes live today, featur… [+1588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Halowaypoint.com"
-      },
-      "author": "Alex Wakeford",
-      "title": "Great Journey Operation Launch - Halo Waypoint",
-      "description": "<p>New weapon and sandbox updates, new Halo 2-inspired playlist with a selection of fan-favorite maps (and Halo 2-style gameplay adjustments), new Operation Pass, Forge updates, and so much more. Let’s get you briefed on everything the Winter Update is bringi…",
-      "url": "https://www.halowaypoint.com/news/great-journey-operation-launch",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/11/OperationGreatJourney.jpg",
-      "publishedAt": "2024-11-05T18:15:29Z",
-      "content": "The Great Journey is nigh! As Halo 2 marks its twentieth birthday this month, Operation: Great Journey has arrived to bring the celebrations to Halo Infinite, kicking off the 2024 Winter Update.\r\nNew… [+13830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Alessio Palumbo",
-      "title": "PS5 Pro Runs Naraka: Bladepoint Twice as Fast, Says Developer; PSSR Has Similar Quality to DLSS - Wccftech",
-      "description": "We interviewed the developers of Naraka: Bladepoint about the PS5 Pro console and how they're using the new hardware in their game.",
-      "url": "https://wccftech.com/ps5-pro-runs-naraka-bladepoint-twice-as-fast-says-developer/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/PlayStation-5-Pro-HD-scaled.jpg",
-      "publishedAt": "2024-11-05T18:01:00Z",
-      "content": "This is the week of the PS5 Pro, and you can expect lots more coverage on Sony's mid-generation console refresh. Earlier today, we published our unboxing of the hardware; now, here's another episode … [+4891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Pixel 9 Pro reportedly costs Google around $400 in materials to make - 9to5Google",
-      "description": "According to a new report, Google’s cost for producing a PIxel 9 Pro is just over $400, which might be...",
-      "url": "http://9to5google.com/2024/11/05/google-pixel-9-pro-material-cost-report/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-Pro-Hero-Backpack-Pocket.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-05T17:15:00Z",
-      "content": "According to a new report, Google’s cost for producing a PIxel 9 Pro is just over $400, which might be lower than the previous generation.\r\nThere are a ton of costs associated with building and putti… [+1690 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Hori’s officially licensed Steam controller is coming to the US - The Verge",
-      "description": "Hori’s officially licensed Steam controller will be released in the US on December 16th. It’s available for preorder for $59.99.",
-      "url": "https://www.theverge.com/2024/11/5/24288729/hori-official-steam-controller-us-release-date-pricing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/L_dQg1mcwmovsIyNEbSK5uQU9sA=/0x0:1000x700/1200x628/filters:focal(500x350:501x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/25716573/horipad_steam_us_release.jpg",
-      "publishedAt": "2024-11-05T16:55:23Z",
-      "content": "Horis officially licensed Steam controller is coming to the US\r\nHoris officially licensed Steam controller is coming to the US\r\n / The $60 gamepad comes with buttons for opening Steam menus and touch… [+1637 chars]"
+      "author": "Kylie Robison",
+      "title": "Did OpenAI just spend more than $10 million on a URL? - The Verge",
+      "description": "OpenAI just announced a new URL for ChatGPT, chat.com. The domain was previously owned by HubSpot’s Dharmesh Shah, who said he spent over $10 million and resold it for more.",
+      "url": "https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+      "publishedAt": "2024-11-06T20:22:17Z",
+      "content": "Did OpenAI just spend more than $10 million on a URL?\r\nDid OpenAI just spend more than $10 million on a URL?\r\n / Chat.com now redirects to ChatGPT.\r\nByKylie Robison, a senior AI reporter working with… [+2375 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesRadar+"
+        "name": "9to5google.com"
       },
-      "author": "Catherine Lewis",
-      "title": "Former GTA 6 dev says Rockstar will currently be trying to \"really tighten\" the game \"in every corner\" right now, because \"90% of your work\" is accounting for players who don't do as they're told - Gamesradar",
-      "description": "The former designer thinks \"good games are games that don't block the player\" from doing things differently",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-gta-6-dev-says-rockstar-will-currently-be-trying-to-really-tighten-the-game-in-every-corner-right-now-because-90-percent-of-your-work-is-accounting-for-players-who-dont-do-as-theyre-told/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y5mKvmeFWDs9KnE4hWJhak-1200-80.jpg",
-      "publishedAt": "2024-11-05T16:46:34Z",
-      "content": "It might not have an exact release date yet, but GTA 6\r\n is getting closer and closer, and one former designer on the game has suggested that Rockstar's focus right now will likely be on making sure … [+2530 chars]"
+      "author": "Abner Li",
+      "title": "Android 15 November security patch rolling out: What’s fixed for Pixel - 9to5Google",
+      "description": "The first update to Android 15 is rolling out with the November security patch for the Pixel 8, 8 Pro, 9, 9 Pro, 9 Pro XL, and 9 Pro Fold.",
+      "url": "http://9to5google.com/2024/11/06/android-15-november-security-patch-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-9-Pro-Fold-design-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-06T19:39:00Z",
+      "content": "Following the stable release last month, the first update to Android 15 is rolling out with the November security patch for the Pixel 6, 6 Pro, 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro,… [+2592 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "[Removed]"
       },
-      "author": "Justin Kahn",
-      "title": "Deals: First cash deals on M4 Mac mini and iMac, $600 off 16GB MacBook Pro, 16GB MacBook Air $799, more - 9to5Mac",
-      "description": "Today’s lineup of price drops is headlined by the very first cash discounts at Amazon on the all-new M4 Mac...",
-      "url": "https://9to5mac.com/2024/11/05/deals-m4-mac-mini-imac-16gb-macbook-pro/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/M4-Mac-mini-deals-iMac-MacBook-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-05T16:45:00Z",
-      "content": "Todays lineup of price drops is headlined by the very first cash discounts at Amazon on the all-new M4 Mac mini as well as the new M4 iMac configurations ahead of delivery day later this week. From t… [+3916 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T19:18:40Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Seeds First Public Betas of iOS 18.2, iPadOS 18.2 and macOS Sequoia 15.2 With New Apple Intelligence Features - MacRumors",
+      "description": "Apple today seeded the first public betas of upcoming iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 updates, allowing the public to try out the new...",
+      "url": "https://www.macrumors.com/2024/11/06/ios-18-2-first-public-beta/",
+      "urlToImage": "https://images.macrumors.com/t/u419F9T-2zXWL5Hkvaw4AqK7ZBg=/2500x/article-new/2024/10/Generic-iOS-18.2-Feature-Real-Mock.jpg",
+      "publishedAt": "2024-11-06T18:12:11Z",
+      "content": "Apple today seeded the first public betas of upcoming iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 updates, allowing the public to try out the new features ahead of when the software launches. The p… [+4140 chars]"
     },
     {
       "source": {
@@ -203,64 +99,168 @@
         "name": "Futurism"
       },
       "author": "Victor Tangermann",
-      "title": "China's New Spaceship Is a Blatant Ripoff of SpaceX's Starship - Futurism",
-      "description": "China has showed off a concept for its upcoming Long March 9, a ultra heavy-lift reusable rocket that looks a lot like SpaceX's Starship.",
-      "url": "https://futurism.com/the-byte/china-spaceship-starship",
-      "urlToImage": "https://wordpress-assets.futurism.com/2024/11/china-spaceship-starship.jpg",
-      "publishedAt": "2024-11-05T16:38:56Z",
-      "content": "It's uncanny.\r\nAliExpress Starship\r\nChina has showed off a concept for its upcoming Long March 9, a ultra heavy-lift reusable rocket designed to deliver the first Chinese astronauts to the surface of… [+2533 chars]"
+      "title": "Boeing's Military Space Plane Just Slammed on the Brakes in Orbit - Futurism",
+      "description": "The US military's top secret X-37B space plane, which has been orbiting the Earth since December 2023, has slammed on the brakes.",
+      "url": "https://futurism.com/the-byte/boeing-military-space-plane-aerobreaking-orbit",
+      "urlToImage": "https://wordpress-assets.futurism.com/2024/11/boeing-military-space-plane-aerobreaking-orbit.jpg",
+      "publishedAt": "2024-11-06T17:17:40Z",
+      "content": "Tokyo drift in space.\r\nAerobrake Things\r\nThe US military's top secret X-37B space plane, which has been orbiting the Earth since December 2023 on its current mission, has slammed on the brakes.\r\nAs d… [+2767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Taylor Knight",
+      "title": "Here’s how to tell if your air fryer is spying on you: ‘This is often done’ - New York Post ",
+      "description": "Frying and spying.",
+      "url": "https://nypost.com/2024/11/06/tech/heres-how-to-tell-if-your-air-fryer-is-spying-on-you-this-is-often-done/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-cmhalowct-1730909982201.jpg?quality=75&strip=all&1730892007&w=1024",
+      "publishedAt": "2024-11-06T17:11:00Z",
+      "content": "Frying and spying.\r\nA new study, conducted by researchers at Which?, revealed how your air fryer is not only cooking for you but spying, too.\r\nAir fryers, sold in the United Kingdom, asked users perm… [+2953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Huntshowdown.com"
+      },
+      "author": null,
+      "title": "Developer Insight- Current and Upcoming Bug Fixes - Hunt: Showdown",
+      "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
+      "url": "https://www.huntshowdown.com/news/developer-insight-current-and-upcoming-bug-fixes",
+      "urlToImage": "https://www.huntshowdown.com/files/news/BugBlogPic.jpg",
+      "publishedAt": "2024-11-06T17:02:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T16:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "PS5 Pro Review: The Best Console Graphics Yet - CNET",
+      "description": "In my week of testing, the PlayStation 5 Pro delivered better visuals than the standard PS5, but it doesn't come cheap.",
+      "url": "https://www.cnet.com/tech/gaming/ps5-pro-review-the-best-console-graphics-yet-playstation-5/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7c268869f513e78cf117d8a7bb41e30695328ab8/hub/2024/11/05/75bc8592-5b67-4ebc-990c-1097dd27f7e7/intro-00-00-01-47-still001.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-06T15:47:00Z",
+      "content": "The PlayStation 5 Pro delivered better graphics and smoother frame rates than the standard PS5 in my testing.\r\nSean Booker/CNET\r\nThe original PlayStation 5 launched in November 2020, kicking off the … [+11664 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Here’s the first 240W USB-PD charger you can actually buy - The Verge",
+      "description": "Delta Electronics’ ADP-240KB charger for $126.37 is the first USB-C PD 3.1 charger you can buy that supports up to 240W.",
+      "url": "https://www.theverge.com/2024/11/6/24289498/delta-electronics-240w-usb-c-pd-charger-first-adapter",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wRVKrPHrY9FlIcXMgW2OwqCwx-M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/7849543/vlad-savov-computex-usb-c-2.0.jpg",
+      "publishedAt": "2024-11-06T15:32:24Z",
+      "content": "Heres the first 240W USB-PD charger you can actually buy\r\nHeres the first 240W USB-PD charger you can actually buy\r\n / The USB-C Power Delivery standard supports up to 240W charging for a single devi… [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Metacritic Responds To ‘Dragon Age: The Veilguard’ Review Bombing - Forbes",
+      "description": "A wide divide opened up after Dragon Age: The Veilguard’s launch between Metacritic user scores, and those other platforms.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/11/06/metacritic-responds-to-dragon-age-the-veilguard-review-bombing/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67238a4b9014ae6857f965c3/0x0.jpg?format=jpg&crop=3370,1787,x307,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-06T14:47:42Z",
+      "content": "Dragon Age: The Veilguard\r\nBioWare\r\nMetacritic user scores are frequently used a protest metric for certain games, for one reason or another, as an outlet that does not require you to own a copy of a… [+2457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "New Virtua Fighter game in development - Gematsu",
+      "description": "A new entry in SEGA’s fighting game series Virtua Fighte is currently in development, executive vice president and head of SEGA’s Global Transmedia Group Justin Scarpone told Video Game…",
+      "url": "https://www.gematsu.com/2024/11/new-virtua-fighter-game-in-development",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/11/Virtua-Fighter_11-06-24.jpg",
+      "publishedAt": "2024-11-06T14:47:22Z",
+      "content": "A new entry in SEGA‘s fighting game series Virtua Fighte is currently in development, executive vice president and head of SEGA’s Global Transmedia Group Justin Scarpone told Video Games Chronicle in… [+649 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
-      "author": "GameSpot",
-      "title": "Metal Slug Tactics - Official Launch Trailer - GameSpot",
-      "description": null,
-      "url": "https://www.youtube.com/watch?v\\\\u003dIAiJLObzB1U",
-      "urlToImage": null,
-      "publishedAt": "2024-11-05T16:36:36Z",
+      "author": null,
+      "title": "Metal Gear Solid Delta: Snake Eater - Official Game Overview (ft. David Hayter) - IGN",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/",
+      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "publishedAt": "2024-11-06T14:28:34Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Ryan Dinsdale",
-      "title": "Pokémon TCG Pocket Battles Are Already Dominated by Two Decks in Particular - IGN",
-      "description": "Pokémon Trading Card Game Pocket battles are already being dominated by two decks in particular: the usual suspects of Charizard and Mewtwo.",
-      "url": "https://www.ign.com/articles/pokmon-tcg-pocket-battles-are-already-dominated-by-two-decks-in-particular",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/05/char-1730816458463.jpg?width=1280",
-      "publishedAt": "2024-11-05T16:09:41Z",
-      "content": "Pokémon Trading Card Game Pocket battles are already being dominated by two decks in particular: the usual suspects of Charizard and Mewtwo.\r\nThe streamlined mobile version of the beloved TCG arrived… [+3163 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Wccftech"
       },
-      "author": "Sarfraz Khan",
-      "title": "6 Best Gaming PCs To Build Using AMD’s Ryzen X3D “3D V-Cache” CPUs ft. 9000X3D, 7000X3D, 5000X3D - Wccftech",
-      "description": "Looking to build a gaming PC with AMD Ryzen X3D 3D V-Cache CPUs? Here are our top 5 PC builds that will make your PC blazing fast in gaming.",
-      "url": "https://wccftech.com/best-gaming-pcs-amd-x3d-3d-v-cache-cpus/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/AMD-3D-V-Cache-X3D-CPUs.jpg",
-      "publishedAt": "2024-11-05T16:00:00Z",
-      "content": "AMD's 3D V-Cache technology completely changed the CPU market, letting AMD take the lead with its X3D CPUs in gaming. The powerful and leading gaming performance of Ryzen X3D CPUs isn't the only fact… [+22029 chars]"
+      "author": "Ali Salman",
+      "title": "M4 Ultra GPU Is Estimated To Beat The RTX 4090 Across OpenGL And Vulkan APIs, But Its Advantage Could Only Be Witnessed In One Benchmark - Wccftech",
+      "description": "Apple's M4 Ultra chip is expected to surpass the performance levels of the RTX 4090 in both OpenCL and Vulkan APIs.",
+      "url": "https://wccftech.com/m4-ultra-performance-against-rtx-4090/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/M2-Ultra-e1730902936995.jpg",
+      "publishedAt": "2024-11-06T14:18:00Z",
+      "content": "Apple launched its latest M4-powered MacBook Pro models recently, and we have reported that the devices boast superior performance to the company's previous flagship chips, including the M2 Ultra. Wh… [+2532 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Forbes"
       },
-      "author": "Mitchel Broussard",
-      "title": "The Best Early Black Friday iPad Deals - MacRumors",
-      "description": "Black Friday is still a few weeks away, but you can already find great prices on numerous iPads, including the 9th generation iPad, 10th generation...",
-      "url": "https://www.macrumors.com/2024/11/05/best-early-black-friday-ipad-deals-2024/",
-      "urlToImage": "https://images.macrumors.com/t/heeQJ5b-0LZFqUs5IVxdHcPmcgQ=/2500x/article-new/2024/11/ipads-early-bf-deals.jpg",
-      "publishedAt": "2024-11-05T15:02:25Z",
-      "content": "Black Friday is still a few weeks away, but you can already find great prices on numerous iPads, including the 9th generation iPad, 10th generation iPad, iPad Air, and iPad mini.\r\nNote: MacRumors is … [+2298 chars]"
+      "author": "Paul Tassi",
+      "title": "Elon Musk Says He’s A Global Top 20 ‘Diablo 4’ Player, And It’s Actually True - Forbes",
+      "description": "Elon Musk has revealed that he’s one of the top 20 Diablo 4 players in the world, a list which contains only two Americans.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/11/06/elon-musk-says-hes-a-global-top-20-diablo-4-player-and-its-actually-true/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672a2c746eec21888d2f68a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-06T14:16:00Z",
+      "content": "NEW YORK, NEW YORK - OCTOBER 31: Elon Musk attends Heidi Klum's 2022 Hallowe'en Party at Sake No ... [+] Hana at Moxy LES on October 31, 2022 in New York City. (Photo by Taylor Hill/Getty Images)\r\nGe… [+4168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Sebastian Bade",
+      "title": "AMD Ryzen 7 9800X3D desktop CPU review: No chance for Intel's Arrow Lake against AMD's new gaming CPU with 3D V-Cache and Zen 5 architecture - Notebookcheck.net",
+      "description": "Notebookcheck has tested the new AMD Ryzen 7 9800X3D based on Zen 5 architecture. It shows more significant improvements compared to Zen 4 and mainly impresses with its higher IPC performance.",
+      "url": "https://www.notebookcheck.net/AMD-Ryzen-7-9800X3D-desktop-CPU-review-No-chance-for-Intel-s-Arrow-Lake-against-AMD-s-new-gaming-CPU-with-3D-V-Cache-and-Zen-5-architecture.913732.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/AMD/Ryzen_7_9800X3D/9800X3D_1165.jpg",
+      "publishedAt": "2024-11-06T14:00:00Z",
+      "content": "But let's first take a chronological approach and look at the processor's new features before we view its results in detail. Externally, nothing has changed, as the AMD Ryzen 7 9800X3D also uses the … [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "I flew DJI’s $199 drone with its new $229 Goggles N3 - The Verge",
+      "description": "DJI is announcing the DJI Goggles N3. Add a $199 DJI Neo and $99 RC Motion 3 controller for airplane-like flight, with first-person video that puts you in the virtual cockpit.",
+      "url": "https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aJ9gg6iWl2_4b1l0HAGr-aP1ChI=/0x0:3200x2133/1200x628/filters:focal(2219x820:2220x821)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710481/goggles_n3.jpg",
+      "publishedAt": "2024-11-06T13:00:00Z",
+      "content": "I flew DJIs $199 drone with its new $229 Goggles N3\r\nI flew DJIs $199 drone with its new $229 Goggles N3\r\n / Im waiting for a new unit, but here are my impressions so far.\r\nBySean Hollister, a senior… [+4467 chars]"
     }
   ]
 }
