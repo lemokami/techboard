@@ -1,110 +1,149 @@
 {
   "status": "ok",
-  "totalResults": 46,
+  "totalResults": 63,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Half Life 2 celebrates 20th anniversary, RTX edition now listed on Steam - VideoCardz.com",
+      "description": "Half Life 2 turns 20, new RTX version coming  NVIDIA is promoting its new reimagined version modded with its technologies.  It’s hard to believe Half-Life 2 is now 20 years old. I still remember diving into the leaked E3 demo, then later experiencing the full…",
+      "url": "https://videocardz.com/newz/half-life-2-celebrates-20th-anniversary-rtx-edition-now-listed-on-steam",
+      "urlToImage": "https://cdn.videocardz.com/1/2024/11/HALF-LIFE-2-RTX-DEMO.jpg",
+      "publishedAt": "2024-11-14T20:14:00Z",
+      "content": "NVIDIA is promoting its new reimagined version modded with its technologies. \r\nIts hard to believe Half-Life 2 is now 20 years old. I still remember diving into the leaked E3 demo, then later experie… [+1413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Adrian Padeanu",
+      "title": "The Mercedes-AMG GT43 Coupe Is a Pricey Four-Cylinder Sports Car - Motor1 ",
+      "description": "At $107,050, the 2025 Mercedes-AMG GT43 Coupe is one of the most expensive four-cylinder cars ever made. Lots of optional items make the price even higher.",
+      "url": "https://www.motor1.com/news/740852/2025-mercedes-amg-gt43-sports-car-price/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/9mQNw1/s1/mercedes-amg-gt-43-coupe-2024.jpg",
+      "publishedAt": "2024-11-14T18:45:17Z",
+      "content": "Mercedes rolled out an entry-level AMG GT Coupe back in March, but we had to wait until today to find out how much it costs. The GT43 starts at $107,050 after factoring in the $1,150 destination and … [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Timothy Monbleau",
+      "title": "Ranking Dragon Quest 3 HD-2D's Classes From Best To Worst - Kotaku",
+      "description": "Use our starting class tier list to help decide who should join your party",
+      "url": "https://kotaku.com/dragon-quest-3-hd-2d-remake-class-guide-1851698849",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e3d083fcca667827977fe8d489896243.jpg",
+      "publishedAt": "2024-11-14T18:30:00Z",
+      "content": "S-Tier is reserved for classes that everyone should pick, regardless of who else is in your party.\r\nMonster Wrangler\r\nMonster Wrangler is the new class in Dragon Quest III HD-2D, and boy howdy is it … [+2681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
+      },
+      "author": null,
+      "title": "Destiny 2 Is Getting Massive Super Buffs And Exotic Armor Changes In Revenant Act 2 - TheGamePost",
+      "description": "Destiny 2 Episode Revenant Act 2 is dropping next week, bringing massive Super buffs, new exotic armor tweaks, and weapon changes.",
+      "url": "https://thegamepost.com/destiny-2-massive-super-buffs-revenant-act-2/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/11/destiny-2-revenant-act-2-sandbox-preview-5324.webp",
+      "publishedAt": "2024-11-14T18:10:10Z",
+      "content": "Destiny 2 Episode Revenant Act 2 is dropping next week, bringing massive Super buffs, new exotic armor tweaks, and weapon changes.\r\nBungie has just revealed a preview of the upcoming mid-season updat… [+4882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rockstargames.com"
+      },
+      "author": "Rockstar Games",
+      "title": "Prevent Doomsday for Double Rewards During Week 2 of The Heist Challenge - Rockstar Games",
+      "description": "Thwart tech mogul Avon Hertz and his AI accomplice Cliffford’s plans for world domination in The Doomsday Scenario — the finale of The Doomsday Heist — for 2X GTA$ and RP during the second week of The Heist Challenge.",
+      "url": "https://www.rockstargames.com/newswire/article/akk392oka34o82/prevent-doomsday-for-double-rewards-during-week-2-of-the-heist-challen",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/akk392oka34o82/fb5a0920c1056511c7f1fe2fe8c2a5fec27b7ac5.jpg",
+      "publishedAt": "2024-11-14T17:50:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "title": "New Apple security feature reboots iPhones after 3 days, researchers confirm - TechCrunch",
+      "description": "“Inactivity reboot\" effectively puts iPhones in a more secure state by locking the user's encryption keys in the iPhone's secure enclave chip.",
+      "url": "https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/iphone-lock.jpg?resize=1200,800",
+      "publishedAt": "2024-11-14T17:13:31Z",
+      "content": "Apples new iPhone software comes with a novel security feature that reboots the phone if its not unlocked for 72 hours, according to security researchers.\r\nLast week, 404 Media reported that law enfo… [+3580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": null,
+      "title": "Sorry We're Closed review: old school survival horror with plenty of heart - Rock Paper Shotgun",
+      "description": "Sorry We're Closed is nostalgic survival horror that's well written and often clever, just bear with its awkward shooting.",
+      "url": "https://www.rockpapershotgun.com/sorry-were-closed-review",
+      "urlToImage": "https://assetsio.gnwcdn.com/Sorry-Were-Closed-main.PNG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-14T17:00:00Z",
+      "content": "Sorry We're Closed reviewA nostalgic survival horror that's well written and often clever, just bear with its awkward shooting.\r\n<ul><li>Developer: à la mode games</li><li>Publisher: Akupara Games</l… [+8864 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Allison Johnson",
-      "title": "Pixel phones will be able to detect and report malicious apps in real time - The Verge",
-      "description": "Google is rolling out a new live threat detection feature for Play Protect that’s designed to suss out ever-sneakier malicious apps.",
-      "url": "https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_e9SlmFemGIPXSn7u4T13rG25EM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg",
-      "publishedAt": "2024-11-13T21:13:01Z",
-      "content": "Pixel phones will be able to detect and report malicious apps in real time\r\nPixel phones will be able to detect and report malicious apps in real time\r\n / The new Play Protect feature is available to… [+1990 chars]"
+      "author": "Jay Peters",
+      "title": "Threads grew by a Bluesky this month - The Verge",
+      "description": "Adam Mosseri said Thursday that Threads has gotten “more than 15 million signups in November alone,” seemingly trying to throw some cold water over Bluesky crossing 15 million users total.",
+      "url": "https://www.theverge.com/2024/11/14/24296490/meta-threads-15-million-adam-mosseri-bluesky",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
+      "publishedAt": "2024-11-14T16:55:54Z",
+      "content": "Threads grew by a Bluesky this month\r\nThreads grew by a Bluesky this month\r\n / Threads has already gotten more than 15 million signups this month, according to Adam Mosseri Bluesky just hit that numb… [+1811 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "ComingSoon.net"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Likely to Announce Final Cut Pro 11 for Mac Today - MacRumors",
-      "description": "In its Mac mini announcement video last month, Apple briefly mentioned an \"upcoming\" version of Final Cut Pro for the Mac. We believe that...",
-      "url": "https://www.macrumors.com/2024/11/13/final-cut-pro-11-likely-today/",
-      "urlToImage": "https://images.macrumors.com/t/xdFMDszknVI_Zf23nQQhxrC-f9U=/2250x/article-new/2023/05/General-Final-Cut-Pro-Feature.jpg",
-      "publishedAt": "2024-11-13T20:26:52Z",
-      "content": "In its Mac mini announcement video last month, Apple briefly mentioned an \"upcoming\" version of Final Cut Pro for the Mac. We believe that Apple will likely announce the update later today, as the an… [+1557 chars]"
+      "author": "Michael Ruiz",
+      "title": "Ghostface Gets Hilarious Meta Fatality in Mortal Kombat 1 - ComingSoon.net",
+      "description": "Ghostface will make their murderous appearance in Mortal Kombat 1 beginning on November 19, 2024 for Khaos Reigns owners.",
+      "url": "https://www.comingsoon.net/games/news/1878026-ghostface-meta-fatality-mortal-kombat-1",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/scream.png?resize=1200,630",
+      "publishedAt": "2024-11-14T16:21:43Z",
+      "content": "NetherRealm Studios revealed the Mortal Kombat 1 gameplay trailer for its iconic guest character Ghostface. The killer from the popular Scream franchise seems to be making a bloody brilliant debut in… [+1564 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "AI pioneer François Chollet leaves Google - TechCrunch",
+      "description": "Francois Chollet, a leading figure in the AI world, is leaving Google after close to a decade at the company.",
+      "url": "https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1337403704.jpg?resize=1200,800",
+      "publishedAt": "2024-11-14T16:08:06Z",
+      "content": "François Chollet, a leading figure in the AI world, is leaving Google after close to a decade.\r\nIn a post on X, the 34-year-old French developer said he’s starting a new company with “a friend,” but … [+1964 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "[Removed]"
       },
-      "author": "James Whitbrook",
-      "title": "After 20 Years, World of Warcraft Is Finally Adding Player Housing… Eventually - Gizmodo",
-      "description": "Get ready to make this warhouse a warhome.",
-      "url": "https://gizmodo.com/world-of-warcraft-player-housing-confirmed-midnight-2026-2000524095",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/world-of-warcraft-player-housing-teaser.jpg",
-      "publishedAt": "2024-11-13T19:56:41Z",
-      "content": "For two decades, World of Warcraft players have lived their digital lives in the lands of Azeroth and beyond. But have they truly lived them? After many years of requesting and being shot down by Bli… [+2956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Americans Are Using the Dumbest Possible Passwords (2024 Edition) - Gizmodo",
-      "description": "There are quite a few bad ones, as well as some head-scratchers.",
-      "url": "https://gizmodo.com/americans-are-using-the-dumbest-possible-passwords-2024-edition-2000524147",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/password-art-getty.jpg",
-      "publishedAt": "2024-11-13T19:50:04Z",
-      "content": "Just about everyone knows at this point that it’s important to use a strong password. But that hasn’t stopped a lot of people from using the dumbest passwords imaginable. NordPass just published its … [+3438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Dani Di Placido",
-      "title": "‘Piglet’s Big Game’ Sells Out After Creepy Gameplay Footage Goes Viral - Forbes",
-      "description": "‘Piglet’s Big Game,’ a PS2 title from 2003, is an unlikely hit after gameplay footage went viral, reminding gamers of adult survival horror titles.",
-      "url": "https://www.forbes.com/sites/danidiplacido/2024/11/13/piglets-big-game-sells-out-after-creepy-gameplay-footage-goes-viral/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6734f8fde6f90107f9f50e4a/0x0.jpg?format=jpg&crop=512,384,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-13T19:20:34Z",
-      "content": "'Piglet's Big Game' has gone unexpectedly viral\r\nDoki Denki Studio\r\nPiglets Big Game, an obscure title for the PlayStation 2, has suddenly gone viral after internet users posted gameplay footage that… [+3361 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess, Lily Hay Newman",
-      "title": "These Guys Hacked AirPods to Give Their Grandmas Hearing Aids - WIRED",
-      "description": "Three technologists in India used a homemade Faraday cage and a microwave oven to get around Apple’s location blocks.",
-      "url": "https://www.wired.com/story/apple-airpods-hearing-aid-hack/",
-      "urlToImage": "https://media.wired.com/photos/6734befbaa3b60c51ba80929/191:100/w_1280,c_limit/airpod-hearindaid-sec-2170417864.jpg",
-      "publishedAt": "2024-11-13T19:07:15Z",
-      "content": "The group members, who have a mix of hardware and software skills and first detailed their hack as part of a technology collective called Lagrange Point, say a couple of dozen people have contacted t… [+2131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Customers Sue Over Unfixed AirPods Pro Crackling Issue - MacRumors",
-      "description": "A trio of Apple customers this month filed a class action lawsuit against Apple, accusing the Cupertino company of violating California consumer...",
-      "url": "https://www.macrumors.com/2024/11/13/apple-airpods-pro-crackling-lawsuit/",
-      "urlToImage": "https://images.macrumors.com/t/4y2cpJBUzRkOIwK_ZuviOUQln7Y=/1600x/article-new/2022/04/airpods-pro-spring-blue.jpg",
-      "publishedAt": "2024-11-13T19:01:45Z",
-      "content": "A trio of Apple customers this month filed a class action lawsuit against Apple, accusing the Cupertino company of violating California consumer protection laws and false advertising for continuing t… [+1322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Blizzard's Warcraft 1 & 2 remasters are official and out now on PC - Eurogamer",
-      "description": "Almost exactly eight years since Blizzard said it wasn't planning to remaster Warcraft 1 & 2 because they're \"just not …",
-      "url": "https://www.eurogamer.net/blizzards-warcraft-1-2-remasters-are-official-and-out-now-on-pc",
-      "urlToImage": "https://assetsio.gnwcdn.com/WC_Remastered_BattleChest_BnetShop_FeatureImage-WC1_1920x1080.png.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-13T18:35:31Z",
-      "content": "Almost exactly eight years since Blizzard said it wasn't planning to remaster Warcraft 1 &amp; 2 because they're \"just not that fun any more\", the studio has announced it's doing just that - and both… [+1834 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-14T16:00:25Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -112,12 +151,51 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Some YouTube Premium users are seeing ads, but YouTube says they shouldn’t be - 9to5Google",
-      "description": "Over the past few weeks, a handful of reports have surfaced regarding ads being shown for YouTube Premium subscribers, with...",
-      "url": "http://9to5google.com/2024/11/13/youtube-premium-ads-statement/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/YouTube-Premium-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-13T17:15:00Z",
-      "content": "Over the past few weeks, a handful of reports have surfaced regarding ads being shown for YouTube Premium subscribers, with one users sharing a support email that supposedly confirmed it was on purpo… [+2158 chars]"
+      "title": "Samsung Galaxy S25 launch reportedly happening on January 22 - 9to5Google",
+      "description": "Samsung is reportedly planning a slightly later launch date for the Galaxy S25 series, with the event still being held in January.",
+      "url": "http://9to5google.com/2024/11/14/samsung-galaxy-s25-launch-date-report/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/galaxy-s25-plus-leak-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-14T15:29:00Z",
+      "content": "According to new reports, Samsung is gearing up to launch the Galaxy S25 series on January 22, a bit later than the Galaxy S24’s launch date.\r\nSamsung has been moving up the launch of its flagship Ga… [+1318 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Not even Spotify is safe from AI slop - The Verge",
+      "description": "Artists such as Standards, Health, Annie, and Swans have had AI-generated albums that aren’t theirs showing up on their Spotify pages. Why?",
+      "url": "https://www.theverge.com/2024/11/14/24294995/spotify-ai-fake-albums-scam-distributors-metadata",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8rWN5asL_rRcGoPWt2M6siZn3Qk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25721434/247377_AI_scam_albums_CVirginiaA.jpg",
+      "publishedAt": "2024-11-14T15:15:00Z",
+      "content": "How fake music targets real artists.\r\nByElizabeth Lopatto, a reporter who writes about tech, money, and human behavior. She joined The Verge in 2014 as science editor. Previously, she was a reporter … [+14086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Xbox Game Pass adds another big day one title in March - TrueAchievements",
+      "description": "Rebellion has announced the Atomfall release date. The upcoming action-survival game will launch for Xbox consoles and join Game Pass in March 2025.",
+      "url": "https://www.trueachievements.com/news/atomfall-xbox-game-pass-release-date",
+      "urlToImage": "https://www.trueachievements.com/imgs/154572/atomfall-gets-a-march-xbox-game-pass-release-date.jpg",
+      "publishedAt": "2024-11-14T15:00:53Z",
+      "content": "We now have a date for when we'll be able to start popping the Atomfall achievements! Developer Rebellion has announced an Atomfall release date, confirming the upcoming action-survival Xbox game wil… [+1306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VG247"
+      },
+      "author": "Robert Anderson",
+      "title": "Xbox Game Pass Ultimate just got a blistering one-day-only discount in an early Black Friday deal - VG247",
+      "description": "There's a one-day-only Game Pass deal you do not want to miss out on.  Check it out ASAP!",
+      "url": "https://www.vg247.com/xbox-game-pass-ultimate-woot-early-black-friday-deal",
+      "urlToImage": "https://assetsio.gnwcdn.com/game-pass-deal-woot-one-day-only-vg247-black-friday.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-14T14:48:44Z",
+      "content": "Woot's dishing out a scorching early Black Friday deal on Xbox Game Pass Ultimate, but blink and you’ll miss it - as it's only valid today, November 14, or while supplies last. Use code 'TWENTY' at c… [+2070 chars]"
     },
     {
       "source": {
@@ -125,142 +203,64 @@
         "name": "Kotaku"
       },
       "author": "Ethan Gach",
-      "title": "PlayStation Plus Brings Back Grand Theft Auto V And A Bunch Of Other Big Games - Kotaku",
-      "description": "PS3 alien shooters Resistance 1 and 2 also join the growing menu of classics",
-      "url": "https://kotaku.com/ps-plus-new-games-november-2024-gta-5-dying-light-2-1851697560",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d7e4a6c3abc0dcc14d087443cf19c8e5.jpg",
-      "publishedAt": "2024-11-13T17:15:00Z",
-      "content": "The last few months of PlayStation Plus subscription catalog have been a rollercoaster ride of great new additions and some big departures. November continues the whiplash with a bunch of big names j… [+2193 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Ash Parrish",
-      "title": "Workers at Bethesda parent company strike over remote work policies - The Verge",
-      "description": "Members of ZeniMax Workers United, one of the largest video game unions in the US, are going on strike in what is first strike of unionized video game developers in the country.",
-      "url": "https://www.theverge.com/2024/11/13/24295556/video-game-developer-strike-zenimax-microsoft",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cq-4BDPJYf7ZTiCXIfOljMLsNHU=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25482220/FO76_Skyline07.jpg",
-      "publishedAt": "2024-11-13T17:13:33Z",
-      "content": "Workers at Bethesda parent company strike over remote work policies\r\nWorkers at Bethesda parent company strike over remote work policies\r\n / Members of ZeniMax Workers United are going on strike for … [+3318 chars]"
+      "title": "Pokémon TCG Pocket Teases New Booster Pack Release Date With Trading Coming Next Year - Kotaku",
+      "description": "The devs say only certain cards can be traded at the feature's launch",
+      "url": "https://kotaku.com/pokemon-tcg-pocket-booster-packs-set-trading-when-date-1851698343",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/18b47fda07fea1e3d4351b86a8e98f50.png",
+      "publishedAt": "2024-11-14T14:45:00Z",
+      "content": "Were just a couple weeks into Pokémon TCG Pockets life out in the wild and the devs behind the hit mobile card game adaptation have already teased some big upcoming plans. Those include new booster p… [+1882 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Halowaypoint.com"
+        "name": "9to5Mac"
       },
-      "author": "Alex Wakeford",
-      "title": "Canon Fodder: Coming of Age - Halo Waypoint",
-      "description": "<p>Welcome back to Canon Fodder—our penultimate issue of the year! Halloween came and saw the rerelease of the motion comic adaptation of “The Mona Lisa” from Halo: Evolutions; this weekend just gone, Halo 2 turned twenty and we had a bunch of cool things go …",
-      "url": "https://www.halowaypoint.com/news/canon-fodder-coming-of-age",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/11/CF159.jpg",
-      "publishedAt": "2024-11-13T17:00:17Z",
-      "content": "Welcome back to Canon Fodderour penultimate issue of the year!\r\nHalloween came and saw the rerelease of the motion comic adaptation of The Mona Lisa from Halo: Evolutions; this weekend just gone, Hal… [+9486 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ian Walker",
-      "title": "Phil Spencer says Xbox handheld a few years out - Polygon",
-      "description": "Microsoft Gaming head Phil Spencer isn’t ready to commit to an official Xbox handheld, but further acquisitions aren’t off the table",
-      "url": "https://www.polygon.com/xbox/478483/phil-spencer-xbox-handheld",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16332078/1154858325.jpg.jpg?quality=90&strip=all&crop=0%2C7.4385749385749%2C100%2C78.512591601597&w=1200",
-      "publishedAt": "2024-11-13T17:00:01Z",
-      "content": "Microsoft Gaming CEO Phil Spencer both acknowledged and poured cold water on persistent rumors about an imminent Xbox handheld announcement during a recent interview with Bloomberg.\r\n[E]xpectation is… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Samuel Tolbert",
-      "title": "Xbox lead Phil Spencer says there are no \"red lines\" for what games could come to PlayStation and Nintendo - Windows Central",
-      "description": "The head of Microsoft Gaming doesn't see any particular games as a line that can't be crossed.",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-lead-phil-spencer-no-red-lines-games-other-platforms",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hoSnVve9NRiJDzMdmkcPXg-1200-80.jpg",
-      "publishedAt": "2024-11-13T15:41:10Z",
-      "content": "What you need to know\r\n<ul><li>In an interview with Bloomberg reporter Dina Bass, Microsoft Gaming CEO Phil Spencer touched on a number of topics regarding the Xbox business.</li><li>Per Spencer, the… [+3169 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "The tiny tweak that could change YouTube forever - The Verge",
-      "description": "YouTube, like Instagram and others, has been emulating TikTok more in recent years. Now it’s testing an endless feed of videos in the app — and that would be a mistake.",
-      "url": "https://www.theverge.com/2024/11/13/24295509/youtube-endless-scroll-tiktok-algorithm",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VpAJ_ydTJeWoaI9ip-zUAap4L3Y=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/10158489/acastro_180202_1777_0001.jpg",
-      "publishedAt": "2024-11-13T15:30:00Z",
-      "content": "The tiny tweak that could change YouTube forever\r\nThe tiny tweak that could change YouTube forever\r\n / YouTube is running a user test that shows you a new video when you scroll. If it ever ships (and… [+7243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Victoria Kennedy",
-      "title": "GOG announces Preservation Program, aims to maintain game compatibility with modern and future systems - Eurogamer",
-      "description": "GOG has announced a new Preservation Program, which aims to maintain games' compatibility with modern and future systems.",
-      "url": "https://www.eurogamer.net/gog-announces-preservation-program-aims-to-maintain-game-compatibility-with-modern-and-future-systems",
-      "urlToImage": "https://assetsio.gnwcdn.com/Heroes-of-Might-and-Magic-3_qMjMXEQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-13T15:09:25Z",
-      "content": "GOG has announced a new Preservation Program.\r\nThis initiative from the PC platform aims to maintain games' compatibility with modern and future systems.\r\n\"Time is erasing the games that shaped you. … [+1715 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Hannah Hoolihan",
-      "title": "Apple Watch Series 10 Drops to a New Low Price at Amazon Ahead of Black Friday - IGN",
-      "description": "The Apple Watch Series 10 has gotten a $50 discount at Amazon, dropping its price from $429 to $379.",
-      "url": "https://www.ign.com/articles/apple-watch-series-10-drops-to-a-new-low-price-at-amazon-ahead-of-black-friday",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/13/apple-watch-series-10-deal-1731507711315.jpg?width=1280",
-      "publishedAt": "2024-11-13T15:09:13Z",
-      "content": "No matter if you're looking to pick up some gifts for friends or family or treat yourself to something nice, the Black Friday shopping event has a plethora of items on sale to check out. Even the lea… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple Arcade unwraps new games for the holiday season - Apple Newsroom",
-      "description": "Apple Arcade adds 15 new games to the service, including Skate City: New York, Talking Tom Blast Park, Gears & Goo, and FINAL FANTASY IV (3D REMAKE)+.",
-      "url": "https://www.apple.com/newsroom/2024/11/apple-arcade-unwraps-new-games-for-the-holiday-season/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2024/11/apple-arcade-unwraps-new-games-for-the-holiday-season/tile/Apple-Arcade-hero-lp.jpg.og.jpg?202411131500",
-      "publishedAt": "2024-11-13T15:02:00Z",
-      "content": "November 13, 2024\r\nUPDATE\r\nApple Arcade unwraps new games for the holiday season\r\nFifteen new games join the service, including Skate City: New York, Talking Tom Blast Park, Gears &amp; Goo, and FINA… [+3124 chars]"
+      "author": "Ben Lovejoy",
+      "title": "AirPods Pro lawsuit says Apple didn’t fix the crackles and ANC faults - 9to5Mac",
+      "description": "Back in 2020, Apple admitted that some AirPods Pro units suffered from both crackling sounds, and faults in the Active...",
+      "url": "https://9to5mac.com/2024/11/14/airpods-pro-lawsuit-says-apple-didnt-fix-the-crackles-and-anc-faults/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/AirPods-Pro-lawsuit-says-Apple-didnt-fix-the-crackles-and-ANC-faults.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-14T14:43:00Z",
+      "content": "Back in 2020, Apple admitted that some AirPods Pro units suffered from both crackling sounds, and faults in the Active Noise Cancellation feature. The company launched a recall program which allowed … [+2823 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Mitchel Broussard",
-      "title": "Get Up to $160 Off the New M4 14-Inch MacBook Pro With Amazon's Early Black Friday Deals - MacRumors",
-      "description": "Amazon has a collection of the new M4 14-inch MacBook Pro on sale this week, with as much as $160 off select models. These deals aren't the...",
-      "url": "https://www.macrumors.com/2024/11/13/new-m4-macbook-pro-deals/",
-      "urlToImage": "https://images.macrumors.com/t/EvijD0Aj_IYd-n9n9KGAO3PAUO8=/2000x/article-new/2024/11/macbook-pro-holiday.jpeg",
-      "publishedAt": "2024-11-13T15:01:52Z",
-      "content": "Amazon has a collection of the new M4 14-inch MacBook Pro on sale this week, with as much as $160 off select models. These deals aren't the only Mac-related Black Friday sales you can get right now, … [+1305 chars]"
+      "author": "Tim Hardwick",
+      "title": "Genmoji in iOS 18.2: Create Custom Emoji in Messages - MacRumors",
+      "description": "Apple's new Genmoji feature lets you create personalized emoji that aim to perfectly match what you want to express, going far beyond the...",
+      "url": "https://www.macrumors.com/how-to/genmoji-create-custom-emoji-ios/",
+      "urlToImage": "https://images.macrumors.com/t/z3D3mZI2w3H3pIrH0Z3CnXivaqs=/2500x/article-new/2024/11/Genmoji-Feature-1.jpg",
+      "publishedAt": "2024-11-14T14:40:26Z",
+      "content": "Apple's new Genmoji feature lets you create personalized emoji that aim to perfectly match what you want to express, going far beyond the limitations of standard Unicode emoji. Want an emoji of a bre… [+2949 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "RPGFan"
+        "name": "[Removed]"
       },
-      "author": "Zach Wilkerson",
-      "title": "Dragon Quest III HD-2D Remake Review - RPGFan",
-      "description": "You can imagine, then, that when I got my hands on Dragon Quest III HD-2D Remake at Summer Game Fest earlier this year, I was flooded with emotions. I wanted",
-      "url": "https://www.rpgfan.com/review/dragon-quest-iii-hd-2d-remake/",
-      "urlToImage": "https://www.rpgfan.com/wp-content/uploads/2021/05/Dragon-Quest-III-HD-2D-Remake-Artwork-004.webp",
-      "publishedAt": "2024-11-13T15:00:00Z",
-      "content": "“Grandma, I can’t beat these monsters. Can you help?” I stare up, wide-eyed, as I clumsily hand her the controller.\r\nAs she pushes the controller back into my hand, she whispers, “Oh, you don’t have … [+10664 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-14T14:30:17Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "GTA Trilogy removes developer credit following major graphical update - Video Games Chronicle",
+      "description": "GTA Trilogy’s dev is now nowhere to be found…",
+      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-trilogy-removes-grove-street-games-credit-following-major-graphical-update/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2024/11/social-basic.jpg",
+      "publishedAt": "2024-11-14T14:27:41Z",
+      "content": "Rockstar has removed Grove Street Games credits from the start of Grand Theft Auto: The Trilogy – Definitive Edition, following a major graphical upgrade.\r\nThe surprise patch was released on Tuesday,… [+1598 chars]"
     }
   ]
 }
