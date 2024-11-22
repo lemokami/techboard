@@ -1,45 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Jay Peters",
-      "title": "Sony’s new PlayStation Portal update lets you stream PS5 games from the cloud - The Verge",
-      "description": "Now, the PlayStation Portal handheld can stream more than 120 PS5 games from the cloud — if you pay for PlayStation Plus Premium.",
-      "url": "https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/D8sYPNK0pFvpFKJCM8d1Rnxl7Ik=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25080261/111323_PlayStation_Portal_ADiBenedetto_0001.jpg",
-      "publishedAt": "2024-11-19T22:22:33Z",
-      "content": "Sonys new PlayStation Portal update lets you stream PS5 games from the cloud\r\nSonys new PlayStation Portal update lets you stream PS5 games from the cloud\r\n / PlayStation Plus Premium subscribers can… [+1854 chars]"
+      "author": "Ethan Gach",
+      "title": "Billionaire Waits Outside Supermarket To Fight Call Of Duty Fan - Kotaku",
+      "description": "The COD player blamed the businessman for his poor internet connection",
+      "url": "https://kotaku.com/call-duty-lag-french-billionaire-fight-black-ops-6-1851704380",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7fdb0153a02750de1a5dcbea3a8ddde7.jpg",
+      "publishedAt": "2024-11-20T21:25:00Z",
+      "content": "Its happened to all of us. Youre playing your favorite game. Youre losing pretty badly. You blame the developers, or cheaters, or the internet. But not all of us have blamed the billionaire who owns … [+1771 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Ashley Belanger",
-      "title": "Fans mourn loss of music-streaming app accused of ripping off YouTube - Ars Technica",
-      "description": "Musi doesn’t risk “extinction” over App Store removal, Apple says.",
-      "url": "https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1346260581-1152x648.jpg",
-      "publishedAt": "2024-11-19T21:24:36Z",
+      "author": "John Timmer",
+      "title": "Qubit that makes most errors obvious now available to customers - Ars Technica",
+      "description": "Can a small machine that makes error correction easier upend the market?",
+      "url": "https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/image-3-1152x648.jpeg",
+      "publishedAt": "2024-11-20T20:58:52Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Securityweek.com"
+        "name": "Videocardz.com"
       },
-      "author": "Ryan Naraine",
-      "title": "Apple Confirms Zero-Day Attacks Hitting macOS Systems - SecurityWeek",
-      "description": "Apple rushes out out major macOS and iOS security updates to cover a pair of vulnerabilities already being exploited in the wild.",
-      "url": "https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/",
-      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/01/Apple-iOS-macOS-Patches.jpg",
-      "publishedAt": "2024-11-19T20:45:35Z",
-      "content": "Apple has rushed out major macOS and iOS security updates to cover a pair of vulnerabilities already being exploited in the wild.\r\nThe vulnerabilities, credited to Googles TAG (Threat Analysis Group)… [+1261 chars]"
+      "author": null,
+      "title": "Qualcomm teases Snapdragon X Processors for $600 laptops, possibly a 6-core variant - VideoCardz.com",
+      "description": "Even cheaper Snapdragon laptops incoming Qualcomm has revealed its plans to go even lower in pricing by introducing less power Snapdragon X processors. Qualcomm’s CEO revealed this today at Investor Day, which was among a few announcements, but contrary to ex…",
+      "url": "https://videocardz.com/newz/qualcomm-teases-snapdragon-x-processors-for-600-laptops-possibly-a-6-core-variant",
+      "urlToImage": "https://cdn.videocardz.com/1/2024/11/SNAPDRAGON-X-NEW-HERO.jpg",
+      "publishedAt": "2024-11-20T20:11:29Z",
+      "content": "Qualcomm has revealed its plans to go even lower in pricing by introducing less power Snapdragon X processors.\r\nQualcomm’s CEO revealed this today at Investor Day, which was among a few announcements… [+2257 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "The New York Times is trying to shut down a popular Connections puzzle creator - The Verge",
+      "description": "The New York Times has sent a letter to the owner of a Connections puzzle creator demanding that he take it down.",
+      "url": "https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g-1klbs6hlzOBpJ2KadwJkfw6l0=/0x0:2032x1322/1200x628/filters:focal(1016x661:1017x662)/cdn.vox-cdn.com/uploads/chorus_asset/file/25744930/Screenshot_2024_11_20_at_10.41.57_AM.png",
+      "publishedAt": "2024-11-20T18:45:45Z",
+      "content": "The New York Times is trying to shut down a popular Connections puzzle creator\r\nThe New York Times is trying to shut down a popular Connections puzzle creator\r\n / The publication alleges that the puz… [+2504 chars]"
     },
     {
       "source": {
@@ -51,125 +64,60 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-11-19T20:38:05Z",
+      "publishedAt": "2024-11-20T18:11:54Z",
       "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Cyclingnews.com"
       },
-      "author": "Joe Rossignol",
-      "title": "iPhone SE 4 With Apple's Own 5G Modem 'Confirmed' to Launch in March - MacRumors",
-      "description": "Barclays analyst Tom O'Malley and his colleagues recently traveled to Asia to meet with various electronics manufacturers and suppliers. In a...",
-      "url": "https://www.macrumors.com/2024/11/19/iphone-se-4-expected-to-launch-in-march/",
-      "urlToImage": "https://images.macrumors.com/t/KkEtcGzO12V5eKcf75Yo34LZCMY=/2500x/article-new/2024/05/iPhone-SE-4-Thumb-1.jpg",
-      "publishedAt": "2024-11-19T20:12:06Z",
-      "content": "Barclays analyst Tom O'Malley and his colleagues recently traveled to Asia to meet with various electronics manufacturers and suppliers. In a research note this week, outlining key takeaways from the… [+2086 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Microsoft pitches AI ‘agents’ that can perform tasks on their own at Ignite 2024 - The Associated Press",
-      "description": "Microsoft CEO Satya Nadella told customers at a conference in Chicago on Tuesday that the company is teaching a new set of artificial intelligence tools how to “act on our behalf across our work and life.” AI developers are increasingly pitching the next wave…",
-      "url": "https://apnews.com/article/microsoft-artificial-intelligence-ai-agents-copilot-agentic-ignite-2024-782119423e28a7d88e4a27c12ce4e11f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0dad762/2147483647/strip/true/crop/6441x3623+0+335/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2F9b%2F06fcd8c0792526328828b3caf181%2F2c9b092260f84c2f9c629ca4fc96ce89",
-      "publishedAt": "2024-11-19T19:04:00Z",
-      "content": "CHICAGO (AP) Microsoft CEO Satya Nadella told customers at a conference in Chicago on Tuesday that the company is teaching a new set of artificial intelligence tools how to act on our behalf across o… [+1693 chars]"
+      "author": "Laura Weislo",
+      "title": "Strava plan to restrict third-party apps has users in an uproar - Cyclingnews",
+      "description": "Fitness application makers say move will only affect a 'small fraction' of users",
+      "url": "https://www.cyclingnews.com/news/strava-plan-to-restrict-third-party-apps-has-users-in-an-uproar/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N5cqXLFYm42JbyqPhqPxXQ-1200-80.png",
+      "publishedAt": "2024-11-20T17:54:17Z",
+      "content": "Strava sent a message to its users this week announcing that third-party applications will no longer be allowed to display customers' data to other users. The note sparked an uproar on social media, … [+3699 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Abner Li",
-      "title": "Google launches Android 16 Developer Preview for Pixel - 9to5Google",
-      "description": "With Android 16 set to launch in the second quarter of 2025, Google is starting the Developer Preview for Pixel devices today...",
-      "url": "http://9to5google.com/2024/11/19/android-16-developer-preview-pixel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Android-16-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-19T19:00:00Z",
-      "content": "With Android 16 set to launch in the second quarter of 2025, Google is starting the Developer Preview for Pixel devices today.\r\nFor the past five releases, Developer Previews have started in February… [+2807 chars]"
+      "author": "Kenneth Shepard",
+      "title": "The Game Awards Should Happen After The Year Is Over Like Every Other Award Show - Kotaku",
+      "description": "The eligibility timing of Geoff Keighley's awards show cuts games like Dragon Age: The Veilguard off at the knees",
+      "url": "https://kotaku.com/game-awards-snub-dragon-age-veilguard-eligibility-dates-1851704052",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/770ee9c5ed3714d95a12002c74353478.jpg",
+      "publishedAt": "2024-11-20T17:42:41Z",
+      "content": "In case you missed it, the nominees for the 10th annual Game Awards, set to air on December 12, have been announced. Some frontrunners were predictably nominated in multiple categories, such as Astro… [+5877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "Stalker 2: Heart of Chornobyl dev acknowledges \"rough edges\", says its monitoring feedback - Eurogamer",
+      "description": "Stalker 2: Heart of Chornobyl developer GSC Game World has released a statement, as its sequel goes live.",
+      "url": "https://www.eurogamer.net/stalker-2-heart-of-chornobyl-dev-acknowledges-rough-edges-says-its-monitoring-feedback",
+      "urlToImage": "https://assetsio.gnwcdn.com/Stalker-2-header-image-showing-a-mutated-creature-advancing-on-a-player-loading-some-kind-of-missile-launcher.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-20T17:15:40Z",
+      "content": "Stalker 2: Heart of Chornobyl developer GSC Game World has released a statement on the state of its game, as its sequel finally becomes available to play.\r\nStalker 2 made its debut today across Xbox … [+2081 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sean Hollister",
-      "title": "Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard - The Verge",
-      "description": "Valve watcher Brad Lynch claims a Steam Controller 2 — codename “Ibex” — will genuinely go on sale, two years after Valve agreed it’d like to make one.",
-      "url": "https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/m_aION3LK2AfMJm2HNEiT-y0E8Y=/0x0:2040x1530/1200x628/filters:focal(1020x765:1021x766)/cdn.vox-cdn.com/uploads/chorus_asset/file/19411304/shollister_191126_steam_controller_103959__2_.jpg",
-      "publishedAt": "2024-11-19T18:23:11Z",
-      "content": "Leak: Valve is making a Steam Controller 2 and a Roy for its Deckard\r\nLeak: Valve is making a Steam Controller 2 and a Roy for its Deckard\r\n / Tears in rain Roy, not Fire Emblem Roy just in case you … [+1872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "This app brings the Pixel Screenshots experience to any Android device - Android Authority",
-      "description": "PixelShot is a new app that copies Google’s Pixel Screenshots app. It collects and analyzes your screenshots so you can search them later.",
-      "url": "https://www.androidauthority.com/pixelshot-app-3501179/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/PixelShot_hero_image.jpg",
-      "publishedAt": "2024-11-19T18:20:44Z",
-      "content": "<ul><li>PixelShot is a new app that copies Googles Pixel Screenshots app.</li><li>Like Pixel Screenshots, PixelShot collects and analyzes your screenshots so you can search through them later.</li><l… [+4208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Mickey Carroll, science and technology reporter",
-      "title": "Google's AI chatbot Gemini tells user to 'please die' and 'you are a waste of time and resources' - Sky News",
-      "description": "",
-      "url": "https://news.sky.com/story/googles-ai-chatbot-gemini-tells-user-to-please-die-and-you-are-a-waste-of-time-and-resources-13256734",
-      "urlToImage": "https://e3.365dm.com/24/11/1600x900/skynews-google-gemini_6752131.jpg?20241119162414",
-      "publishedAt": "2024-11-19T18:20:37Z",
-      "content": "Google's AI chatbot Gemini has told a user to \"please die\".\r\nThe user asked the bot a \"true or false\" question about the number of households in the US led by grandparents, but instead of getting a r… [+2397 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jennifer Ouellette",
-      "title": "Scientist behind superconductivity claims ousted - Ars Technica",
-      "description": "After claims of high-temp superconductivity were retracted, Ranga Dias lost his university job.",
-      "url": "https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/dias1-1152x648.jpg",
-      "publishedAt": "2024-11-19T17:46:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "“Windows 365 Link” is Microsoft’s $349 thin client for Windows in the cloud - Ars Technica",
-      "description": "Small, plastic thin client is Microsoft’s first “Cloud PC,” launches in April.",
-      "url": "https://arstechnica.com/gadgets/2024/11/microsoft-builds-a-349-mini-desktop-but-only-for-accessing-windows-in-the-cloud/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/Windows-365-Link-front-side.jpeg",
-      "publishedAt": "2024-11-19T17:29:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Ryan Lemay",
-      "title": "Warzone & Black Ops 6 Nov 19 update patch notes: Double XP tokens return & hitmarker imprvements - Dexerto",
-      "description": "Based on community feedback, Treyarch added Double XP tokens from MW2 and MW2 back into Black Ops 6 multiplayer.",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-black-ops-6-nov-19-update-patch-notes-double-xp-tokens-return-hitmarker-imprvements-2983820/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/10/24/black-ops-6-best-mouse-and-keyboard-settings.jpg",
-      "publishedAt": "2024-11-19T17:23:20Z",
-      "content": "After facing a backlash, Treyarch added previously earned double XP tokens from MW2 and MW3 back to Black Ops 6 multiplayer and also addressed hit marker concerns. \r\nAhead of launch, double XP tokens… [+2912 chars]"
+      "author": "Tom Warren",
+      "title": "Xbox cloud streaming expands beyond Game Pass to games you own - The Verge",
+      "description": "Microsoft is opening up Xbox Cloud Gaming to existing Xbox game libraries. You can now stream 50 games, with plans for more to come.",
+      "url": "https://www.theverge.com/2024/11/20/24300547/xbox-cloud-gaming-game-library-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zQ3cEkcHpLA_ao_tME-E1Hm4tGI=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25744778/01_Stream_your_own_game_541703eb415794d44f28.jpg",
+      "publishedAt": "2024-11-20T17:12:06Z",
+      "content": "Xbox cloud streaming expands beyond Game Pass to games you own\r\nXbox cloud streaming expands beyond Game Pass to games you own\r\n / You can now stream 50 new games from xCloud servers if you own the t… [+2481 chars]"
     },
     {
       "source": {
@@ -177,25 +125,51 @@
         "name": "TechCrunch"
       },
       "author": "Kyle Wiggers",
-      "title": "Google’s Gemini chatbot now has memory - TechCrunch",
-      "description": "Google's Gemini chatbot can now remember things like info about your life, work, and personal preferences.",
-      "url": "https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
-      "publishedAt": "2024-11-19T17:10:47Z",
-      "content": "Google’s Gemini chatbot can now remember things like info about your life, work, and personal preferences. \r\nAs flagged by posters on X (and Google’s official account), a “memory” feature has begun r… [+1381 chars]"
+      "title": "A Chinese lab has released a ‘reasoning’ AI model to rival OpenAI’s o1 - TechCrunch",
+      "description": "DeepSeek, a Chinese AI lab backed by a quant hedge fund, has released a 'reasoning' model that it claims rivals OpenAI's o1.",
+      "url": "https://techcrunch.com/2024/11/20/a-chinese-lab-has-released-a-model-to-rival-openais-o1/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
+      "publishedAt": "2024-11-20T16:33:33Z",
+      "content": "A Chinese lab has unveiled what appears to be one of the first “reasoning” AI models to rival OpenAI’s o1.\r\nOn Wednesday, DeepSeek, an AI research company funded by quantitative traders, released a p… [+3613 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "9to5google.com"
       },
-      "author": "Ryan Craddock",
-      "title": "Deals: Get Discounted eShop Credit And Switch Games In Nintendo Life's Black Friday Sale - Nintendo Life",
-      "description": "Save big on new games!",
-      "url": "https://www.nintendolife.com/news/2024/11/deals-get-discounted-eshop-credit-and-switch-games-in-nintendo-lifes-black-friday-sale",
-      "urlToImage": "https://images.nintendolife.com/b53ef14a78e55/1280x720.jpg",
-      "publishedAt": "2024-11-19T17:00:00Z",
-      "content": "Image: Nintendo Life\r\nBlack Friday is almost here, which means we've officially entered the season of super-tempting discounts on Switch consoles, games, and accessories, and we're joining in on the … [+2142 chars]"
+      "author": "Abner Li",
+      "title": "Google Fi ends free Pixel Watch 3 LTE deal weeks early - 9to5Google",
+      "description": "Over the weekend, Google Fi subscribers could get the Pixel Watch 3 LTE for free, but the deal has now ended early...",
+      "url": "http://9to5google.com/2024/11/20/pixel-watch-3-google-fi/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-Watch-3-Quick-Settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-20T16:21:00Z",
+      "content": "Over the weekend, Google Fi subscribers could get the Pixel Watch 3 LTE for free, but the deal has now ended early. \r\nOriginally, Google said the Pixel Watch 3 offer ends January 7, 2025 at 9:59 AM P… [+1298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Tabitha Baker",
+      "title": "Black Friday PS Plus deals will save you up to 30% on subscriptions this weekend - Gamesradar",
+      "description": "Sony's official sale starts on November 22",
+      "url": "https://www.gamesradar.com/platforms/ps5/black-friday-ps-plus-deals-will-save-you-up-to-30-percent-on-subscriptions-this-weekend/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZxMYwTC9o2smxVzu3s8KV8-1200-80.jpg",
+      "publishedAt": "2024-11-20T16:01:23Z",
+      "content": "Sony has announced its official roster of Black Friday deals this week, but I'm most excited about those PS Plus discounts. While savings will hit controllers with up to 25% off, up to 40% off the PS… [+3704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Sony Finally Turns the PlayStation Portal Into the Handheld Streamer We Always Wanted - Gizmodo",
+      "description": "But the PlayStation Portal won’t stream any PS4 or PS3 games, nor any PS5 game you bought from the PlayStation Store.",
+      "url": "https://gizmodo.com/playstation-portal-handheld-streamer-2000526956",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/PlayStation-Portal-Last-of-US-1.jpg",
+      "publishedAt": "2024-11-20T15:50:30Z",
+      "content": "On release, the PlayStation Portal was nothing more than a remote-play tablet attached to the two ends of a PS5 DualSense controller. Now, Sonys finally done the obvious and made it a cloud-streaming… [+3363 chars]"
     },
     {
       "source": {
@@ -207,60 +181,86 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-11-19T16:51:43Z",
+      "publishedAt": "2024-11-20T15:44:30Z",
       "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Carpenter",
+      "title": "Amid abysmal launch, Microsoft Flight Simulator 2024 reaches ‘overwhelmingly negative’ Steam rating - Polygon",
+      "description": "Microsoft Flight Simulator 2024 launched Tuesday and was immediately overwhelmed by players, creating widespread problems.",
+      "url": "https://www.polygon.com/gaming/481864/microsoft-flight-simulator-2024-bugs-loading-times-negative-steam",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/Microsoft-Flight-Simulator-2024_Limitless_Screenshot_12.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2024-11-20T15:19:31Z",
+      "content": "Microsoft Flight Simulator2024 launched Tuesday on Windows PC and Xbox Series X, but it hasnt been a smooth ride. Actually, its been anything but: Long loading times and missing content have earned d… [+2721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aboutamazon.com"
+      },
+      "author": "Amazon Staff",
+      "title": "Amazon introduces Echo Show 21, its largest smart display ever—and all-new Echo Show 15 - About Amazon",
+      "description": "These new Alexa-enabled devices are designed to fit beautifully in your home, and make it easier to keep your day organized, your smart home connected, and your family entertained.",
+      "url": "https://www.aboutamazon.com/news/devices/echo-show-21-amazon-smart-tv",
+      "urlToImage": "https://assets.aboutamazon.com/dims4/default/2fcfb46/2147483647/strip/true/crop/1999x1000+0+39/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F6f%2F47%2F924d21ed40a8a6f7df94bfd0f2ee%2Fecho-show-21-kitchen-16-9.png",
+      "publishedAt": "2024-11-20T15:14:54Z",
+      "content": "Unlimited subscribers in the U.S., UK, and Canada can enjoy one book a month, including a selection of over a million audiobooks in the U.S., plus 100 million HD songs and top podcasts.\r\nRead more"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Joe Rossignol",
-      "title": "Pro Display XDR 2 Expected to Feature Quantum-Dot Technology - MacRumors",
-      "description": "In a blog post this week, Display Supply Chain Consultants CEO Ross Young said that he expects Apple's next-generation Pro Display XDR to feature...",
-      "url": "https://www.macrumors.com/2024/11/19/pro-display-xdr-2-quantom-dot-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/qGHprTsNkfr5tu_zj5b7PRx8rt4=/2500x/article-new/2024/11/Pro-Display-XDR-2-Feature.jpg",
-      "publishedAt": "2024-11-19T16:11:57Z",
-      "content": "In a blog post this week, Display Supply Chain Consultants CEO Ross Young said that he expects Apple's next-generation Pro Display XDR to feature the same quantum-dot display technology adopted by th… [+1712 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Amazon Takes Up to $300 Off M3 MacBook Air With New All-Time Low Prices - MacRumors",
+      "description": "Amazon today has knocked the price off of multiple M3 MacBook Air models, with as much as $300 off select computers. Prices start at $849.00...",
+      "url": "https://www.macrumors.com/2024/11/20/300-off-m3-macbook-air/",
+      "urlToImage": "https://images.macrumors.com/t/yHsFwcEw9WJBTsOfGEQuM3g24_o=/1607x/article-new/2024/04/15-inch-m3-macbook-air.jpg",
+      "publishedAt": "2024-11-20T15:05:46Z",
+      "content": "Amazon today has knocked the price off of multiple M3 MacBook Air models, with as much as $300 off select computers. Prices start at $849.00 for the 13-inch M3 MacBook Air (16GB RAM/256GB), and also … [+1043 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "Kotaku"
       },
-      "author": "Jason Perlow",
-      "title": "The end of ChromeOS is a new dawn for cheap Android laptops - ZDNet",
-      "description": "It's the beginning of the end for ChromeOS as Google faces a pivotal challenge: compete with Apple's Arm dominance while leveraging AI and custom silicon to redefine affordable computing.",
-      "url": "https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2f15f5a6998e570fb82c157a0e17d58ea3a61c5c/2024/11/19/78132db2-c34e-492c-a4f2-5195cf2177a3/gettyimages-1263105352.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-11-19T15:53:00Z",
-      "content": "xijian/Getty Images\r\nWhen I first explored ChromeOS Flex, it felt like a minor miracle. Here was a platform that breathed new life into aging x86 hardware, transforming dusty laptops into lightweight… [+8071 chars]"
+      "author": "Ethan Gach",
+      "title": "A Surprise Mobile Version Of Final Fantasy XIV Raises A Ton Of Questions - Kotaku",
+      "description": "Square Enix's popular MMO is coming to smartphones",
+      "url": "https://kotaku.com/final-fantasy-14-mobile-smartphone-release-date-1851703793",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4005e130804d499b1b1984745a8cf5e1.jpg",
+      "publishedAt": "2024-11-20T15:05:00Z",
+      "content": "After more than a decade on PC and console, Final Fantasy XIV is coming to smartphones. Square Enixs hit MMO revealed a mobile version this week that has the potential to bring millions of new player… [+2631 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Nintendo Life"
       },
-      "author": "Evan Campbell",
-      "title": "Game Pass Adds Five More Games For November, Including Stalker 2 - GameSpot",
-      "description": "The subscription service is also getting games with Xenomorphs, cats, and more.",
-      "url": "https://www.gamespot.com/gallery/game-pass-adds-five-more-games-for-november-including-stalker-2/2900-5961/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4402037-stalker2.jpg",
-      "publishedAt": "2024-11-19T15:47:36Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+      "author": "Jim Norman",
+      "title": "133 Games You Should Pick Up In Nintendo's 'Cyber Deals' Switch eShop Sale (North America) - Nintendo Life",
+      "description": "Every game we scored 9/10 or higher",
+      "url": "https://www.nintendolife.com/guides/133-games-you-should-pick-up-in-nintendos-cyber-deals-switch-eshop-sale-north-america",
+      "urlToImage": "https://images.nintendolife.com/3169eae31fd5a/1280x720.jpg",
+      "publishedAt": "2024-11-20T15:01:16Z",
+      "content": "The Black Friday sales are well and truly upon us. The European eShop got treated to a wave of tasty discounts earlier this week and now it's North America's turn. The 'Cyber Deals' eShop sale is now… [+10071 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": null,
+        "name": "Nintendo Life"
       },
-      "author": "Sara Fischer",
-      "title": "Scoop: Apple is selling Apple News ads directly for the first time - Axios",
-      "description": "The shift toward direct sales represents a significant milestone in Apple's advertising ambitions.",
-      "url": "https://www.axios.com/2024/11/19/apple-news-ads-direct-sales-publishers",
-      "urlToImage": "https://images.axios.com/bmtagAfc0AyT07vLBSgpURk6ZzU=/0x0:1600x900/1366x768/2024/11/19/1732030652051.png",
-      "publishedAt": "2024-11-19T15:37:08Z",
-      "content": "Apple has started selling its own advertising inventory for Apple News, two sources familiar with the effort told Axios. It's pitching new ad units that it hopes will maximize revenue for itself and … [+3671 chars]"
+      "author": "Gavin Lane",
+      "title": "Latest 'Switch 2' Rumour Suggests Nintendo Is Preparing For An Enormous Launch - Nintendo Life",
+      "description": "Initial shipments could dwarf previous systems",
+      "url": "https://www.nintendolife.com/news/2024/11/latest-switch-2-rumour-suggests-nintendo-is-preparing-for-an-enormous-launch",
+      "urlToImage": "https://images.nintendolife.com/53b51afc0b46e/1280x720.jpg",
+      "publishedAt": "2024-11-20T14:45:00Z",
+      "content": "Image: Damien McFerran / Nintendo Life\r\nA new rumour suggests Nintendo is aiming to produce around 7 million units for the launch of 'Switch 2'.\r\nComing fresh from Famiboards (via the GamingLeaksAndR… [+1824 chars]"
     }
   ]
 }
