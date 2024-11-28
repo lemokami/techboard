@@ -1,84 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 66,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Elizabeth Lopatto",
-      "title": "I have some notes on Sam Altman’s note-taking advice - The Verge",
-      "description": "Sam Altman recommended some pens. He’s right that you should take notes by hand. But I’m not so sure about the tools he’s using.",
-      "url": "https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IbnknNi3svU7vhROeTQrAymljxk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25286459/247024_Pilot_Pen_CVirginia.jpg",
-      "publishedAt": "2024-11-25T22:05:16Z",
-      "content": "I have some notes on Sam Altmans note-taking advice\r\nI have some notes on Sam Altmans note-taking advice\r\n / Writing is technology and pens are gadgets.\r\nByElizabeth Lopatto, a reporter who writes ab… [+5091 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Nvidia’s new AI audio model can synthesize sounds that have never existed - Ars Technica",
-      "description": "What does a screaming saxophone sound like? The Fugatto model has an answer…",
-      "url": "https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1469448038-1152x648.jpg",
-      "publishedAt": "2024-11-25T21:40:00Z",
-      "content": null
+      "author": "Alex Stedman",
+      "title": "Sony Confirms the PlayStation 2 Has Sold Over 160 Million Consoles Worldwide - IGN",
+      "description": "Sony has finally confirmed the lifetime sales of the PlayStation 2, coming in at a whopping 160 million consoles sold worldwide.",
+      "url": "https://www.ign.com/articles/sony-confirms-the-playstation-2-has-sold-over-160-million-consoles-worldwide",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/26/playstation-1732653331633.png?width=1280",
+      "publishedAt": "2024-11-26T20:48:03Z",
+      "content": "In honor of the PlayStation's 30th anniversary, Sony has launched a webpage revealing some interesting facts in its history including the long-speculated lifetime sales of the PlayStation 2.\r\nThe web… [+1685 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Gizmodo.com"
       },
-      "author": "Matt Wales",
-      "title": "Mass Effect director Casey Hudson's \"AAA\" sci-fi game cancelled, studio closing - Eurogamer",
-      "description": "Humanoid Origin, the studio founded by former Mass Effect director Casey Hudson in 2021, is ending development of its u…",
-      "url": "https://www.eurogamer.net/mass-effect-director-casey-hudsons-aaa-sci-fi-game-cancelled-studio-closing",
-      "urlToImage": "https://assetsio.gnwcdn.com/humanoid-origin.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-25T21:37:33Z",
-      "content": "Humanoid Origin, the studio founded by former Mass Effect director Casey Hudson in 2021, is ending development of its untitled sci-fi game and shutting its doors, after an \"an unexpected shortfall of… [+1849 chars]"
+      "author": "Todd Feathers",
+      "title": "Artists Stick It to ‘AI Overlords’ and Leak OpenAI’s Sora Video Generator - Gizmodo",
+      "description": "A group of artists who say they were given early access to OpenAI's Sora video generation model released a version of the tool to the public.",
+      "url": "https://gizmodo.com/artists-stick-it-to-ai-overlords-and-leak-openais-sora-video-generator-2000530448",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/sora-artist-leak.jpg",
+      "publishedAt": "2024-11-26T20:30:33Z",
+      "content": "For a short time on Tuesday, a group of pissed-off artists shared a tool that allowed anyone to use OpenAI’s officially unreleased Sora AI model, which takes text prompts and turns them into videos.\r… [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "The Best Buy Black Friday Sale Is Now Live, Here Are the Best Deals of 2024 - IGN",
+      "description": "New deals on Apple AirPods Pro, ROG Ally X, Gaming PCs, and PS5 TVs.",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-sale-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/26/bestbuylogo3-1732651384959.jpg?width=1280",
+      "publishedAt": "2024-11-26T20:20:13Z",
+      "content": "Best Buy has officially kicked off its Black Friday Sale. Black Friday itself lands on November 29, but Best Buy and other retailers have released a good portion of their best deals earlier. You don'… [+6325 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Carly Page",
+      "title": "Russia-linked hackers exploited Firefox and Windows zero-day bugs in 'widespread' hacking campaign - TechCrunch",
+      "description": "The Russia-aligned RomCom gang exploited the vulnerabilities to target hundreds of Firefox users across Europe and North America.",
+      "url": "https://techcrunch.com/2024/11/26/russia-linked-hackers-exploited-firefox-and-windows-zero-day-bugs-in-widespread-hacking-campaign/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/10/kremlin-hacking.jpg?resize=1200,675",
+      "publishedAt": "2024-11-26T19:33:26Z",
+      "content": "Security researchers have uncovered two previously unknown zero-day vulnerabilities that are being actively exploited by RomCom, a Russian-linked hacking group, to target Firefox browser users and Wi… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-26T18:49:50Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Road to VR"
+      },
+      "author": "Ben Lang",
+      "title": "We Didn’t Expect This Good of a Quest 3S Black Friday Deal - Road to VR",
+      "description": "Meta usually launches its newest headsets toward the end of the year, and that usually means the headset itself doesn’t go on sale until the next holiday. But this year is an exception, at least for Amazon which is offering up an impressive Black Friday sale …",
+      "url": "https://www.roadtovr.com/we-didnt-expect-this-good-of-a-quest-3s-black-friday-deal/",
+      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/11/quest-3s-black-friday.jpg",
+      "publishedAt": "2024-11-26T18:38:55Z",
+      "content": "Meta usually launches its newest headsets toward the end of the year, and that usually means the headset itself doesn’t go on sale until the next holiday. But this year is an exception, at least for … [+1499 chars]"
     },
     {
       "source": {
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Alice Jovanée",
-      "title": "You should play every game in this $19 shooter bundle - Polygon",
-      "description": "Humble’s Sci-Fi shooter bundle features seven, Steam Deck-playable shooters including System Shock, the remastered Crysis trilogy, Doom (2016), and more.",
-      "url": "https://www.polygon.com/good-deals/485039/sci-fi-shooter-bundle-humble-sale",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/system-shock-remake-release-date-fps-game-steam-bioshock.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2024-11-25T21:24:29Z",
-      "content": "Some of the best first-person shooters from the past decade are included in a new sci-fi shooter bundle from Humble. For just $19, youll get access to Nightdive Studios excellent System Shock and Sta… [+1200 chars]"
+      "author": "Ian Walker",
+      "title": "Nintendo adds Echoes of Wisdom to the official Zelda timeline - Polygon",
+      "description": "The Legend of Zelda: Echoes of Wisdom has been added to the official timeline for the franchise, putting a host of fan theories to rest.",
+      "url": "https://www.polygon.com/news/485500/legend-zelda-echoes-of-wisdom-timeline-lore",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/vlcsnap-2024-10-01-14h49m20s757.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2024-11-26T18:19:21Z",
+      "content": "Take a deep breath: Nintendo has revealed The Legend of Zelda: Echoes of Wisdoms position on the official franchise timeline just two months after the Zelda-led adventure arrived on Switch.\r\nAccordin… [+1818 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Rowan Zeoli",
-      "title": "Magic The Gathering’s Commander format is getting a video game - Polygon",
-      "description": "After Baldur’s Gate 3, Magic Arena, and Monopoly Go, Hasbro wants a more digital, and collectable, Magic the Gathering Commander game",
-      "url": "https://www.polygon.com/mtg-magic-the-gathering/485083/magic-gathering-commander-video-game",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25482179/2cLPLj3S56zP.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-      "publishedAt": "2024-11-25T20:48:55Z",
-      "content": "Wizards of the Coast is testing a video game version of its Magic: The GatheringCommander format, according to a Bloomberg interview with Hasbro CEO Chris Cocks earlier this week. This announcement i… [+1985 chars]"
+      "author": "Marina Temkin",
+      "title": "Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments - TechCrunch",
+      "description": "Vikram Bhaskaran was leading creator partnerships at Pinterest when his father started showing early symptoms of ALS, a rare, terminal neurodegenerative",
+      "url": "https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1347476924-e1678822302434.jpg?resize=1200,674",
+      "publishedAt": "2024-11-26T18:00:00Z",
+      "content": "Vikram Bhaskaran was leading creator partnerships at Pinterest when his father started showing early symptoms of ALS, a rare, terminal neurodegenerative disease.\r\n“It turned my world upside down,” Bh… [+4165 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Zack Zwiezen",
-      "title": "Fortnite's Next Chapter Seemingly Leaked, Confirms Godzilla Is Coming - Kotaku",
-      "description": "It also looks like Disney's Baymax will be featured in the battle royale's next big season",
-      "url": "https://kotaku.com/fortnite-godzilla-baymax-chapter-6-leaks-art-skins-epic-1851707770",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b5371ec45fc6f902783095a41af12a85.jpg",
-      "publishedAt": "2024-11-25T20:35:00Z",
-      "content": "Fortnites Chapter 6 Season 1 has seemingly started to leak online via promo artwork and images. And if the leaks are accurate, which they seem to be, then Godzilla, as well as Baymax from Big Hero 6,… [+1595 chars]"
+      "author": "Edwin Evans-Thirlwell",
+      "title": "The Witcher 4 has entered \"the most intensive phase of development\", say CD Projekt - Rock Paper Shotgun",
+      "description": "Just when you thought you'd played all the RPGs - maxed every last stat, drained the XP of every last creature, tap-dan…",
+      "url": "https://www.rockpapershotgun.com/the-witcher-4-has-entered-the-most-intensive-phase-of-development-say-cd-projekt",
+      "urlToImage": "https://assetsio.gnwcdn.com/1_uVCC3Im.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-26T17:33:04Z",
+      "content": "Just when you thought you'd played all the RPGs - maxed every last stat, drained the XP of every last creature, tap-danced your way along every branching questline - CD Projekt have announced that Th… [+2357 chars]"
     },
     {
       "source": {
@@ -86,168 +125,12 @@
         "name": "The Verge"
       },
       "author": "Quentyn Kennemer",
-      "title": "The best Black Friday gaming deals you can shop right now - The Verge",
-      "description": "Black Friday is a few days away, but we’re already seeing the lowest prices to date on several games and accessories for the Nintendo Switch, PS5, and Xbox Series X / S.",
-      "url": "https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FPRKjCpEI3Lo5aKL3yil39SZyrA=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/22701494/switcholedmodel.jpg",
-      "publishedAt": "2024-11-25T20:18:08Z",
-      "content": "The best Black Friday gaming deals you can shop right now\r\nThe best Black Friday gaming deals you can shop right now\r\n / Were seeing the lowest prices of the year on recent games, consoles, controlle… [+11579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "StarCraft II 5.0.14 Patch Notes - Blizzard News",
-      "description": "We are pleased to release the final set of balance changes after several weeks of PTR testing.",
-      "url": "https://news.blizzard.com/en-us/starcraft2/24162754/starcraft-ii-5-0-14-patch-notes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-      "publishedAt": "2024-11-25T19:38:05Z",
-      "content": "Greetings from the StarCraft II Community Balance Council!After several weeks of balance testing on the PTR server, we are pleased to release the final set of balance changes, including only a couple… [+7798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Xbox Removing Avatars Because You All Forgot About Them - Kotaku",
-      "description": "Don't worry, your Xbox 360-era avatars will remain",
-      "url": "https://kotaku.com/xbox-avatars-editor-app-delist-series-x-s-removed-360-1851707586",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/efc2a7024bc78f4082d656d41ee87ae9.jpg",
-      "publishedAt": "2024-11-25T18:45:00Z",
-      "content": "Microsoft has quietly confirmed that it is ditching avatars on Xbox One and Xbox Series X/S consoles next year after a decade of support. You might have assumed avatars had already been killed off in… [+1501 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "TechCrunch",
-      "title": "Apple again snubs AI in its ‘iPhone App of the Year’ finalists - TechCrunch",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnZwNHZPNGptZUJoT2o4NmJqZFpQMnEzRF9ZRXY1YmpQWjZteU5PdUF6SXdBYlJUaXhyMjY5eDUxdWFjT19UTFlMLXB4TXlfTjdWcWg2ZVBRWExIeU56NVlRNkVyS1VScmRlNl8wNmw4RXF2VndCaDl2RWJrU3ZzaHBqMEVjNkVDMDFHUEEwZEQtQ09CRVZoX2RBbw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-11-25T18:05:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "PSA: iOS 18.2’s Apple Mail redesign isn’t coming to the iPad or Mac just yet - 9to5Mac",
-      "description": "Apple Mail’s big redesign is coming to iPhone in iOS 18.2, but if you’re excited to use the new features on iPad or Mac, you’ll have to wait.",
-      "url": "https://9to5mac.com/2024/11/25/psa-ios-182s-apple-mail-redesign-isnt-coming-to-the-ipad-or-mac-just-yet/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/mail-redesign-macos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-25T18:05:00Z",
-      "content": "iOS 18.2 will be here very soon, and in addition to a bunch of powerful new Apple Intelligence features, the update also brings a big redesign to the Mail app. But theres an important detail you shou… [+1534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "AirPods Pro 2 Get Massive $95 Discount for Black Friday, Available For Just $154 - MacRumors",
-      "description": "Black Friday deals keep rolling in, and today we're tracking a new record low price on the AirPods Pro 2 (USB-C) on Amazon. You can get these...",
-      "url": "https://www.macrumors.com/2024/11/25/airpods-pro-2-95-discount/",
-      "urlToImage": "https://images.macrumors.com/t/CyJOArb1uVj_3V0PLOVJGEqjG3E=/1607x/article-new/2023/11/airpods-pro-bulbs.jpg",
-      "publishedAt": "2024-11-25T18:00:57Z",
-      "content": "Black Friday deals keep rolling in, and today we're tracking a new record low price on the AirPods Pro 2 (USB-C) on Amazon. You can get these headphones for $154.00, down from $249.00.\r\nNote: MacRumo… [+950 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Chris Welch",
-      "title": "Threads will finally let you set the following feed as your default - The Verge",
-      "description": "As rival Bluesky continues to add users, Mark Zuckerberg announced that Threads will test letting users set the Following feed as their default.",
-      "url": "https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
-      "publishedAt": "2024-11-25T17:55:07Z",
-      "content": "Threads is testing the option to choose your own default feed\r\nThreads is testing the option to choose your own default feed\r\n / Threads users have asked to see primarily posts from the people they f… [+1488 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Umar Shakir",
-      "title": "Instagram DMs add live location sharing and nicknames - The Verge",
-      "description": "Instagram now has Snapchat-like location sharing features, as well as fresh sticker packs and the ability to give friends nicknames in private messages and group chats.",
-      "url": "https://www.theverge.com/2024/11/25/24305587/instagram-dms-live-location-sharing-nicknames",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vVZ2I2S7ZtYA4KC5QCmb8YypH0o=/0x0:3240x2160/1200x628/filters:focal(1620x1080:1621x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25756006/466867435_549977007733211_6850081898774606507_n.jpeg",
-      "publishedAt": "2024-11-25T17:24:54Z",
-      "content": "Instagram DMs add live location sharing and nicknames\r\nInstagram DMs add live location sharing and nicknames\r\n / Its like Snapchats location sharing feature.\r\nByUmar Shakir, a news writer fond of the… [+1757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "author": "Fernando Silva",
-      "title": "Here’s how to get an Airtag for just $2 - 9to5Toys",
-      "description": "I recently found this method of being able to get a brand new Airtag and Belkin holder for just $2 brand new from Apple!",
-      "url": "http://9to5toys.com/2024/11/25/heres-how-to-get-an-airtag-for-just-2/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/07/AirTag.jpg?resize=1200%2C628&ssl=1",
-      "publishedAt": "2024-11-25T17:21:00Z",
-      "content": "Airtags have been among my favorite and most purchased Apple products over the last few years. They are one of those rare items that solve a problem that people have, are easy to use, and just work. … [+2491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Jorge Jimenez",
-      "title": "TCL’s First Projector Seems to Be Priced Just Right for Outdoor Hijinx - Gizmodo",
-      "description": "The TCL Projector A1 has everything you want in a 1080p projector for only $500.",
-      "url": "https://gizmodo.com/tcls-first-projector-seems-to-be-priced-just-right-for-outdoor-hijinx-2000529571",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/A1-Projector_Lifestlye-2-e1732553128623.jpg",
-      "publishedAt": "2024-11-25T16:58:01Z",
-      "content": "This year, weve seen a rise in portable projectors, from LGs cute CineBeam Qube to the Nebula Mars 3; being able to whip out a 100-inch plus screen for an impromptu movie at a moment’s notice is unde… [+2003 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "'iPhone 17 Air' Features Revealed in New Report: As Thin as 5mm, Single Speaker, and More - MacRumors",
-      "description": "The Information's Wayne Ma today published an in-depth report about the \"iPhone 17 Air\" rumored to launch next year, revealing several...",
-      "url": "https://www.macrumors.com/2024/11/25/iphone-17-air-features-reported/",
-      "urlToImage": "https://images.macrumors.com/t/W8-uppP6_efi3r-b6JDpbScnp38=/2250x/article-new/2024/07/Generic-iPhone-17-Feature-With-Full-Width-Dynamic-Island-single-camera.jpg",
-      "publishedAt": "2024-11-25T16:40:13Z",
-      "content": "The Information's Wayne Ma today published an in-depth report about the \"iPhone 17 Air\" rumored to launch next year, revealing several new details.\r\nThe report said prototypes of the device have a th… [+2147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Abhijeet Mishra",
-      "title": "Galaxy Z Flip 5 and Flip 6 get sizable new update in more countries - SamMobile - Samsung news",
-      "description": "The latest Galaxy Z Flip 5 and Galaxy Z Flip 6 software updates are rolling out in more countries today. ...",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-5-6-november-2024-update-europe-usa/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Flip-6-review-Galaxy-AI-Wallpapers-720x405.jpg",
-      "publishedAt": "2024-11-25T16:18:00Z",
-      "content": "The latest Galaxy Z Flip 5 and Galaxy Z Flip 6 software updates are rolling out in more countries today. These updates, which come bundled with the latest security fixes, came out in Korea last week … [+1034 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Christian Wait",
-      "title": "These Are the Best Pokémon TCG Deals in Best Buy's Black Friday Sale - IGN",
-      "description": "Pokémon TCG collections and trainer boxes are on sale for Black Friday, including Charizard ex Super-Premium, Paradox Wisdom, and Shrouded Fable ETB.",
-      "url": "https://www.ign.com/articles/best-pokemon-tcg-deals-best-buy-black-friday-sale-2024",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/07/30/pokemon-tcg-shrouded-fable-preview-ign-blogroll-art-3-1722335695218.png?width=1280",
-      "publishedAt": "2024-11-25T15:46:09Z",
-      "content": "Prep your Pokémon TCG deck for epic battles and chase shiny cards for your collection. Black Friday is here to make your Pokémon dreams come true. These deals on premium Pokémon TCG boxes and ETBs ar… [+3585 chars]"
+      "title": "Apple’s latest AirPods Pro are cheaper than the AirPods 4 right now - The Verge",
+      "description": "Apple’s latest AirPods Pro are on sale for a record low of $154 for Black Friday. That’s even cheaper than the AirPods 4 with ANC, and they offer several advantages.",
+      "url": "https://www.theverge.com/2024/11/26/24306522/apple-airpods-pro-2-usb-c-earbuds-black-friday-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dxhcoyZyGpcANtMU9zmf_A2sAoY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440351/airpodsmirror.jpg",
+      "publishedAt": "2024-11-26T17:16:36Z",
+      "content": "Apples latest AirPods Pro are cheaper than the AirPods 4 right now\r\nApples latest AirPods Pro are cheaper than the AirPods 4 right now\r\n / Unless you find the AirPods 4 more comfortable, it makes mor… [+2197 chars]"
     },
     {
       "source": {
@@ -255,12 +138,129 @@
         "name": "The Verge"
       },
       "author": "Wes Davis",
-      "title": "Raspberry Pi announces a $7 Pico 2 with built-in Wi-Fi - The Verge",
-      "description": "The Raspberry Pi Pico 2 W microcontroller brings built-in Wi-Fi and Bluetooth connectivity to the Pico 2 and is available now for $7.",
-      "url": "https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/D-BuTaEeawYlieu7WwjJFzEb-8A=/69x63:921x637/1200x628/filters:focal(512x344:513x345)/cdn.vox-cdn.com/uploads/chorus_asset/file/25754840/Pico_2_W_lifestyle_1024x688.jpg",
-      "publishedAt": "2024-11-25T15:41:40Z",
-      "content": "Raspberry Pi announces a $7 Pico 2 with built-in Wi-Fi\r\nRaspberry Pi announces a $7 Pico 2 with built-in Wi-Fi\r\n / The Pico 2 gets wireless networking for two bucks more.\r\nByWes Davis, a weekend edit… [+1872 chars]"
+      "title": "Wear OS 5.1 could let you play music on your built-in Android watch speakers - The Verge",
+      "description": "Google is testing adding media playback through smartwatch speakers in a future version of Wear OS 5, but the update isn’t expected until March.",
+      "url": "https://www.theverge.com/2024/11/26/24306483/wear-os-5-1-could-let-you-play-music-on-your-built-in-android-watch-speakers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-PHTKsCCeE_qXowRZf9nXTIEZCk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24100807/226336_Pixel_Watch_AKrales_0226.jpg",
+      "publishedAt": "2024-11-26T17:07:06Z",
+      "content": "Wear OS 5.1 could let you play music on your built-in Android watch speakers\r\nWear OS 5.1 could let you play music on your built-in Android watch speakers\r\n / Google is testing the feature for device… [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insider-gaming.com"
+      },
+      "author": "Mike Straw",
+      "title": "Future Mortal Kombat 1 DLC Cancelled After Poor Expansion Sales, It’s Claimed - Insider Gaming",
+      "description": "According to a known leaker, future plans for Mortal Kombat 1 DLC, including Kombat Pack 3, have been cancelled at NetherRealm.",
+      "url": "https://insider-gaming.com/future-mortal-kombat-1-dlc-cancelled-after-poor-expansion-sales/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/08/mortal-kombat-1.jpg",
+      "publishedAt": "2024-11-26T16:58:23Z",
+      "content": "It appears as though future content for Mortal Kombat 1 is ending after Kombat Pack 2 wraps up. According to new claims, developer NetherRealm Studios has cancelled DLC plans for a Kombat Pack 3 and … [+1448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rocketleague.com"
+      },
+      "author": "Psyonix Team",
+      "title": "Season 17 Brings Online Free Play as Rocket League Heads to the Arcades - Rocket League",
+      "description": "Neon street signs and arcade cabinets await as Online Free Play debuts in Rocket League Season 17!",
+      "url": "https://www.rocketleague.com/en/news/season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades",
+      "urlToImage": "https://media.graphassets.com/resize=fit:clip,height:1080,width:1920/output=format:webp/HvfW5onQVmz3WDLFMCBT",
+      "publishedAt": "2024-11-26T16:56:07Z",
+      "content": "High-score chasing and racing await as we press play on Rocket League Season 17. Prepare to level up your Soccar skills as this neo-arcade-inspired season kicks off on December 4!  In Season 17, try … [+4158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Tom Ivan",
+      "title": "New Cyberpunk Netflix animation confirmed as 2077 tops 30 million sales - Video Games Chronicle",
+      "description": "CD Projekt is working on another Cyberpunk animation with Netflix…",
+      "url": "https://www.videogameschronicle.com/news/new-cyberpunk-netflix-animation-announced-as-2077-tops-30-million-sales/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2022/06/cyberpunk-edgerunners-scaled.jpg",
+      "publishedAt": "2024-11-26T16:51:29Z",
+      "content": "CD Projekt has confirmed that its partnered with Netflix for a new Cyberpunk animation project.\r\nChief financial officer Piotr Nielubowicz announced the news, along with new sales milestones for its … [+1523 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Alice Jovanée, Cameron Faulkner",
+      "title": "Deck your walls with dissected gaming gadgets, now cheaper than ever at Grid Studio - Polygon",
+      "description": "For a limited time, you can save an additional 20% on framed tributes to iPhones, Game Boys, and more classic gaming hardware.",
+      "url": "https://www.polygon.com/black-friday/476624/grid-game-boy-deal-nintendo",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334246/m0ach8p5.png?quality=90&strip=all&crop=0%2C9.2786503781268%2C100%2C81.442699243746&w=1200",
+      "publishedAt": "2024-11-26T16:00:00Z",
+      "content": "Grid Studio is in the business of immortalizing popular gadgets while letting us appreciate their inner workings. Its whole deal is disassembling everything from the PlayStation Vita and Sega Dreamca… [+934 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Ted Danson’s First Acting Audition Happened by Total Accident - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/real-estate/ted-danson-a-man-on-the-inside-netflix-24b3286a",
+      "urlToImage": null,
+      "publishedAt": "2024-11-26T16:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Takashi Mochizuki",
+      "title": "Sony’s Pursuit of Anime Publisher Holds More Opportunity Than Risk - Bloomberg",
+      "description": "Sony Group Corp. is flirting with one of the biggest takeovers in the history of Japan’s storied entertainment sector. But first...",
+      "url": "https://www.bloomberg.com/news/newsletters/2024-11-26/sony-s-pursuit-of-kadokawa-anime-looks-like-a-great-takeover-idea",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDGdEzwDW4iQ/v1/1200x801.jpg",
+      "publishedAt": "2024-11-26T15:49:00Z",
+      "content": "Sony Group Corp. is flirting with one of the biggest takeovers in the history of Japans storied entertainment sector. But first...\r\nThree things you need to know today:"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Paolo Confino",
+      "title": "NFL legend Rob Gronkowski’s best-ever investment: $69,000 worth of Apple stock he bought on advice from his contractor - Yahoo Finance",
+      "description": "Gronk made the investment when he was just 25 years old and “didn’t know how stocks work.” It has more than tripled in value.",
+      "url": "https://finance.yahoo.com/news/nfl-legend-rob-gronkowski-best-090200147.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.fcrRMDQPH2h5w9rMp6QmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b8ddf0b5cc0d5327ca21ea35b5b299ad",
+      "publishedAt": "2024-11-26T15:35:45Z",
+      "content": "NFL legend Rob Gronkowski bought $69,000 worth of Apple stock on advice from his contractor. Then he forgot about it for more than two years.\r\nIn 2014, when Gronkowski was playing for the New England… [+3421 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "kittypokemonsalot",
+      "title": "Pokémon GO Dual Destiny Season - Pokémon GO Hub",
+      "description": "Welcome to the new Pokémon GO Season, the Dual Destiny season! The Dual Destiny Season runs from December 3, 2024, at 10:00 a.m. until March 4, 2025, at 10:00 a.m. local time. Dual Destiny is thematically tied Pokémon Black ⚫ and Pokémon White ⚪, both of whic…",
+      "url": "https://pokemongohub.net/post/event/dual-destiny-season/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2024/11/season-of-dual-destiny.jpg",
+      "publishedAt": "2024-11-26T15:14:40Z",
+      "content": "Welcome to the new Pokémon GO Season, the Dual Destiny season! The Dual Destiny Season runs from December 3, 2024, at 10:00 a.m. until March 4, 2025, at 10:00 a.m. local time. Dual Destiny is themati… [+5127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Galaxy S25 Ultra ditches the Galaxy Note design in first hands-on leak [Video] - 9to5Google",
+      "description": "A leaked video shows off the Galaxy S25 Ultra for the first time, with the look of the Galaxy Note being removed.",
+      "url": "http://9to5google.com/2024/11/26/samsung-galaxy-s25-ultra-design-leak-video/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Galaxy-S23-Ultra-and-S24-Ultra-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-26T15:13:00Z",
+      "content": "Samsung’s Galaxy S25 Ultra is on its way, but surfacing early in a new video leak that shows off how drastically the design is changing.\r\nWhen it killed off the Galaxy Note a few years ago, Samsung r… [+961 chars]"
     }
   ]
 }
