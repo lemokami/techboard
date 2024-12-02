@@ -1,214 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Cageside Seats"
       },
-      "author": "Dan Goodin",
-      "title": "Code found online exploits LogoFAIL to install Bootkitty Linux backdoor - Ars Technica",
-      "description": "Unearthed sample likely works against Linux devices from Acer, HP, Fujitsu, and Lenovo.",
-      "url": "https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/backdoor-1100x648.jpg",
-      "publishedAt": "2024-11-29T21:37:00Z",
-      "content": null
+      "author": "Cain A. Knight",
+      "title": "Harleygram’s true identity is revealed! - Cageside Seats",
+      "description": "Everyone was completely shocked when Harleygram unmasked to reveal her true identity on AEW Rampage in her debut match against Thunder Rosa.",
+      "url": "https://www.cagesideseats.com/aew/2024/11/30/24309819/harleygram-true-identity-revealed-unmask-harley-cameron-hologram-mask-debut-match-thunder-rosa-aew",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JqnNgSnfQ3NDffHzNqC6uXV1GRc=/0x0:732x383/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25766812/harleygram1.jpg",
+      "publishedAt": "2024-11-30T23:35:27Z",
+      "content": "Tonights (Nov. 30) all-lucha episode of AEW Rampage featured the in-ring debut of a brand new and very mysterious luchadora named Harleygram. Id argue it was the most highly anticipated Rampage match… [+943 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Mitchel Broussard",
-      "title": "The Best 50+ Black Friday Apple Deals Still Available on AirPods, iPads, MacBooks, and More - MacRumors",
-      "description": "Black Friday 2024 is nearing its end, but you can still find great deals on numerous Apple devices. Right now, this includes big savings on AirPods,...",
-      "url": "https://www.macrumors.com/2024/11/28/best-apple-black-friday-deals-2024/",
-      "urlToImage": "https://images.macrumors.com/t/TBAx5R8KQFtW9IU90pmni1KwqgI=/2500x/article-new/2024/11/General-Black-Friday-Deals-24-Blue-Snowmen.jpg",
-      "publishedAt": "2024-11-29T21:22:21Z",
-      "content": "Black Friday 2024 is nearing its end, but you can still find great deals on numerous Apple devices. Right now, this includes big savings on AirPods, Apple Watch, MacBook Air, iPad, and more.\r\nNote: M… [+6010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Nicholas Sutrich",
-      "title": "It pays to wait! Best Buy just launched a surprise Meta Quest 3 Black Friday sale - Android Central",
-      "description": "This one's a doorbuster so you'd better act FAST!",
-      "url": "https://www.androidcentral.com/gaming/virtual-reality/best-buy-meta-quest-3-black-friday-sale",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oibbhomycqqGjHSCkLgeLb-1200-80.jpg",
-      "publishedAt": "2024-11-29T20:04:44Z",
-      "content": "We've seen a lot of fantastic Black Friday sales so far but, sadly, none have been for the Meta Quest 3 until this very moment. Best Buy just launched a surprise Meta Quest 3 Black Friday doorbuster … [+2132 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Mike Fazioli",
-      "title": "The Anker 737 Power Bank Hasn't Been This Cheap Since Prime Day, and Even Cheaper Now for Black Friday - Gizmodo",
-      "description": "Anker has been the world's No. 1 mobile charging brand based on retail sales ever year.",
-      "url": "https://gizmodo.com/the-anker-737-power-bank-hasnt-been-this-cheap-since-prime-day-and-its-even-cheaper-now-for-black-friday-2000531889",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Anker-737-Power-Bank-1.jpg",
-      "publishedAt": "2024-11-29T20:00:37Z",
-      "content": "Small portable chargers are almost always limited to cellphones, earbuds, and other smaller devices. The Anker 737 Power Bank, however, is a 24,000mAh powerhouse that can charge your MacBook at the s… [+2406 chars]"
+      "author": "Katie Reul",
+      "title": "20 PS5 Games You Can Get for Under $30 This Black Friday, From Elden Ring to The Last of Us Part I - IGN",
+      "description": "We've compiled a list of the 10 best deals on PS5 games under $30 and another 10 options of PS5 games under $20.",
+      "url": "https://www.ign.com/articles/least-expensive-ps5-games-black-friday-2024",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/30/blackfriday2024-ps5gamesunder30-1732999672363.jpg?width=1280",
+      "publishedAt": "2024-11-30T22:00:31Z",
+      "content": "As Black Friday deals rage on, incredible discounts on PlayStation 5 games continue to emerge at retailers like Best Buy, GameStop, Target, and Walmart. It's the best time of year to find some top-se… [+3855 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Abigail Bassett",
-      "title": "Hyundai Ioniq 5 N review: fake shifting, real fun - The Verge",
-      "description": "The Hyundai Ioniq 5 N is the latest electric vehicle to employ artifice — from fake shifting to simulated sounds — to dial up the performance experience.",
-      "url": "https://www.theverge.com/2024/11/29/24308950/hyundai-ioniq-5-n-review-price-specs-photos",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qvh8ImN_yzoMbYpw3MHX-_m0n8o=/0x0:1024x684/1200x628/filters:focal(495x469:496x470)/cdn.vox-cdn.com/uploads/chorus_asset/file/25764968/hyundai_uk_ioniq_5_n_performance_blue_01_wid_1024_bfc_off.jpg",
-      "publishedAt": "2024-11-29T19:31:40Z",
-      "content": "Even die-hard car enthusiasts have to smile at what Hyundais N Performance Division has done with the Ioniq 5. \r\nByAbigail Bassett\r\nNov 29, 2024, 7:31 PM UTC\r\nSpend any time around dyed-in-the-wool a… [+6246 chars]"
+      "author": "Jennifer Pattison Tuohy",
+      "title": "This high-powered portable power bank is down to just $74 right now - The Verge",
+      "description": "With a 24,000mAh battery and 140W output, the Anker 737 Power Bank can charge a 16-inch laptop, a smartphone, and headphones on the go. It’s also on sale for Black Friday.",
+      "url": "https://www.theverge.com/2024/11/30/24309602/black-friday-2024-anker-737-power-bank-charger-cyber-monday",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UdrZJOpYbNY5DyDe6uzRM0phibo=/0x0:1024x768/1200x628/filters:focal(512x384:513x385)/cdn.vox-cdn.com/uploads/chorus_asset/file/23938513/anker737.001.jpeg",
+      "publishedAt": "2024-11-30T21:00:00Z",
+      "content": "This high-powered portable power bank is down to just $74 right now\r\nThis high-powered portable power bank is down to just $74 right now\r\n / With a 24,000mAh battery and 140W output, the Anker 737 Po… [+2028 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ross Miller",
-      "title": "This is the gaming laptop I just bought on sale for Black Friday - Polygon",
-      "description": "The Asus Zephyrus G14 has everything I need — small chassis, OLED screen, portable RTX 4060 — and is $1,200 for Black Friday.",
-      "url": "https://www.polygon.com/black-friday/486592/asus-zephyrus-g14-gaming-laptop-deal",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/Zephyrus-G14.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2024-11-29T19:25:45Z",
-      "content": "The first time I left Vox Media, back in 2020, I decided to treat myself to a gaming laptop something compact I could bring on travels but with enough power to play games as demanding as Cyberpunk 20… [+3080 chars]"
+      "author": "Andrew Webster",
+      "title": "Fortnite’s latest concert turned pop stars into kaiju - The Verge",
+      "description": "Fortnite ended its Chapter 2: Remix event with a virtual concert featuring Snoop Dogg, Ice Spice, Eminem, and Juice WRLD, which kicked off the next season of the battle royale that starts on December 1st.",
+      "url": "https://www.theverge.com/2024/11/30/24305460/fortnite-chapter-2-remix-concert-eminem-snoop-juice-wrld-ice-spice",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NtUNCyUwggPyg_sPPIXtFqP0Y4k=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25766494/img_8149.jpg",
+      "publishedAt": "2024-11-30T19:46:09Z",
+      "content": "Fortnites latest concert turned pop stars into kaiju\r\nFortnites latest concert turned pop stars into kaiju\r\n / The virtual event ended with the debut of a new Juice WRLD music video, while also teasi… [+2888 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "20 Astonishing Indie Games To Play Or Wishlist Immediately - Kotaku",
-      "description": "Thanksgaming 24 concludes with a second large helping of wonderful unknown games",
-      "url": "https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a0dc2823fabf3b652ad8eb5808fd9007.jpg",
-      "publishedAt": "2024-11-29T19:00:00Z",
-      "content": "Thanksgaming 24 continues into Bleak Friday, to bring joy and light into the darkness. Here are another 20 games youve almost definitely never heard of before, but each offering something unique, spe… [+830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Michael Desjardin",
-      "title": "I'm a Black Friday TV deals expert and I’m here to bring you the best discounts - Tom's Guide",
-      "description": "Epic deals on this year's top-rated 4K TVs",
-      "url": "https://www.tomsguide.com/live/news/best-black-friday-tv-deals-novemeber",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UrMA4xt6hUK6ogPTBWDtYj-1200-80.jpg",
-      "publishedAt": "2024-11-29T18:51:18Z",
-      "content": "Black Friday is here, and with it come heaps of deals on TVs from popular brands like LG, Samsung and Sony. If you're shopping for a new 4K TV, you might be feeling a bit overwhelmed right now. Fortu… [+4560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jennifer Young",
-      "title": "This gaming handheld is nearly half price but it's still not worth it on Black Friday - Windows Central",
-      "description": "Skip the MSI Claw, even at nearly half price. ASUS' ROG Ally is cheaper and simply better.",
-      "url": "https://www.windowscentral.com/hardware/asus/even-at-41-percent-off-i-cant-recommend-the-msi-claw",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LBDgrJWABscjB7SfCemiqZ-1200-80.jpg",
-      "publishedAt": "2024-11-29T18:45:52Z",
-      "content": "As we scramble to unearth the best Black Friday deals for you this week, I think it's just as important to point out the items that look mighty tempting but are actually not worth the price. When it … [+9541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kyivindependent.com"
-      },
-      "author": "Andrea Januta",
-      "title": "‘For some it’s a game, for me it’s a manifesto’ — Ukrainian soldiers join S.T.A.L.K.E.R. 2 frenzy - Kyiv Independent",
-      "description": "Editor’s note: In accordance with the security protocols of the Ukrainian military, most soldiers featured in this story are identified by first names or callsigns only. One soldier is mentioned by first and last name as he is permitted to use his full name w…",
-      "url": "https://kyivindependent.com/for-some-its-a-game-for-me-its-a-manifesto-ukrainian-soldiers-join-s-t-a-l-k-e-r-2-frenzy/",
-      "urlToImage": "https://assets.kyivindependent.com/content/images/2024/11/S2HoC_GSCGameWorld_Mill_raw.jpg",
-      "publishedAt": "2024-11-29T18:40:42Z",
-      "content": "Skip to content\r\n\"S.T.A.L.K.E.R. 2, released on Nov. 20, is set in a fictionalized exclusion zone of the Chornobyl nuclear power plant. (GSC Game World)\r\nThis audio is created with AI assistance\r\nEdi… [+8720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "The ‘Fortnite’ Juice WRLD Concert Event Start Time, And When To Log In - Forbes",
-      "description": "Here's what time the Fortnite Juice WRLD remix finale concert event starts, and when you should log in to get a spot.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/11/29/the-fortnite-juice-wrld-concert-event-start-time-and-when-to-log-in/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6749e8f1007e588460dad3f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-29T17:58:33Z",
-      "content": "Fortnite\r\nEpic\r\nFortnite is about to give us one of its biggest concert events in history, a Juice WRLD show that will end Chapter 5 and lead into Chapter 6 the next. Day. Its technically Fortnite Re… [+2129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Nintendo Highlights Every 'Donkey Kong Country' On Switch With A New Trailer - Nintendo Life",
-      "description": "Prepare to return... again",
-      "url": "https://www.nintendolife.com/news/2024/11/nintendo-highlights-every-donkey-kong-country-on-switch-with-a-new-trailer",
-      "urlToImage": "https://images.nintendolife.com/b132b335a193d/1280x720.jpg",
-      "publishedAt": "2024-11-29T16:45:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube786k\r\nNintendo has released a new trailer taking a look at every Donkey Kong Country game on Switch in preparation for the release of Donkey Kong Country Returns … [+1423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Goodbye DeX, Samsung reveals the fate of the Windows app - Android Authority",
-      "description": "Samsung quietly announced on its UK website that the DeX Windows app will be discontinued once One UI 7 rolls out.",
-      "url": "https://www.androidauthority.com/samsung-dex-support-ends-3504306/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/06/Samsung-Dex-and-Galaxy-S23-Ultra-scaled.jpg",
-      "publishedAt": "2024-11-29T16:40:39Z",
-      "content": "<ul><li>The One UI 7 rollout will mark the end of a fan-favorite feature.</li><li>Samsung warns that it will be discontinuing DeX for PC on Windows OS.</li><li>Users will still be able to connect the… [+2005 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-30T18:28:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Ed Nightingale",
-      "title": "Final Fantasy 14 world first Ultimate Raid challengers busted for cheating thanks to single pixel - Eurogamer",
-      "description": "Yet another Final Fantasy 14 Ultimate Raid world first challenge has been scuppered by cheaters, who were busted due to…",
-      "url": "https://www.eurogamer.net/final-fantasy-14-world-first-ultimate-raid-challengers-busted-for-cheating-thanks-to-single-pixel",
-      "urlToImage": "https://assetsio.gnwcdn.com/FINAL-FANTASY-XIV-Patch-7.1---Crossroads-1-34-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-11-29T16:32:38Z",
-      "content": "Yet another Final Fantasy 14 Ultimate Raid world first challenge has been scuppered by cheaters, who were busted due to a single pixel.\r\nUltimate Raids are the toughest missions in the MMORPG, with m… [+3331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Samsung accidentally shows off One UI 7 as leaked apps reveal deeper updates [Gallery] - 9to5Google",
-      "description": "Samsung’s One UI 7 update, based on Android 15, is not set to fully launch until early next year, but...",
-      "url": "http://9to5google.com/2024/11/29/samsung-one-ui-7-website-apps-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/one-ui-7-icons-sg-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-11-29T16:30:00Z",
-      "content": "Samsung’s One UI 7 update, based on Android 15, is not set to fully launch until early next year, but it’s clear Samsung is eager to release it as the company briefly posted an entire page breaking d… [+1864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "LIVE Xbox Black Friday deals on Series X|S consoles with discounts on Turtle Beach, Seagate, and more top-rated accessories - Windows Central",
-      "description": "Hand-picked savings on Microsoft's consoles and the best Xbox accessories on sale for Black Friday.",
-      "url": "https://www.windowscentral.com/live/news/black-friday-xbox-deals-live",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NrBfPf9uFr7dnezMTrwHug-1200-80.jpg",
-      "publishedAt": "2024-11-29T16:05:45Z",
-      "content": "2024-11-29T16:05:45.553Z\r\n(Image credit: Jennifer Young - Windows Central)\r\nOf all the Xbox accessories I review throughout the year, the one I've tested the most in 2024 is mobile controllers. You m… [+10218 chars]"
+      "author": "Chris McGraw",
+      "title": "All-time-low alert: These Bose headphones are over 50% off for Cyber Monday - Yahoo Life",
+      "description": "Advanced noise cancellation meets high-fidelity audio in these $170 lightweight wonders.",
+      "url": "https://www.yahoo.com/lifestyle/all-time-low-alert-these-bose-headphones-are-over-50-off-for-cyber-monday-181810948.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y0ZsORulHz1EmC509FITwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/1e05e370-9bab-11ef-abf7-2e4790d2e44e",
+      "publishedAt": "2024-11-30T18:18:11Z",
+      "content": "If you're in the market for a new pair of quality headphones with active noise cancellation, then look no further because we found the best deal we've yet to see on one set. The price of these Bose Q… [+6111 chars]"
     },
     {
       "source": {
@@ -216,51 +86,181 @@
         "name": "Gizmodo.com"
       },
       "author": "Gizmodo Deals",
-      "title": "No Mercy for Google, Amazon Crushes the Price of the Newest Pixel 9 for Black Friday - Gizmodo",
-      "description": "Forget the iPhones and Galaxies; these new Pixel 9 and 9 Pro models are excellent.",
-      "url": "https://gizmodo.com/no-mercy-for-google-amazon-crushes-the-price-of-the-newest-pixel-9-for-black-friday-2000531863",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/google-pixel-9.jpg",
-      "publishedAt": "2024-11-29T15:45:13Z",
-      "content": "As Black Friday is now here, tech enthusiasts are buzzing about the incredible deals available on premium devices. Among the standout offers this year is the newest Google Pixel 9 which has quickly b… [+2392 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Chris Welch",
-      "title": "The best Black Friday headphone and earbud deals - The Verge",
-      "description": "You can nab many of 2024’s best noise-canceling headphones and earbuds at their best prices yet during Black Friday and Cyber Monday.",
-      "url": "https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qKVhFb8tENvqX_dQYWOmvopiY9s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25640463/DSC_0139.jpg",
-      "publishedAt": "2024-11-29T15:40:34Z",
-      "content": "The best Black Friday headphone and earbud deals\r\nThe best Black Friday headphone and earbud deals\r\n / Whether youre looking to splurge or spend as little as possible, these are some of the best pric… [+3688 chars]"
+      "title": "Bose Is Going Nuts, Its Flagship TV Soundbar Is Now at a Record Low Price After Black Friday - Gizmodo",
+      "description": "If you're looking for a good TV speaker, you won't find any better Black Friday deals than that one.",
+      "url": "https://gizmodo.com/bose-is-going-nuts-its-flagship-tv-soundbar-is-now-at-a-record-low-price-after-black-friday-2000532342",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/bose-soundbar.jpg",
+      "publishedAt": "2024-11-30T17:47:00Z",
+      "content": "If youve ever found yourself frustrated by the lackluster sound quality of your TV, youre not alone. Many of us crave a more immersive audio experience, especially when watching movies or playing vid… [+1999 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Dexerto"
       },
-      "author": "Peter",
-      "title": "Deals: the best Samsung, Google and Amazon tablet deals from Black Friday - GSMArena.com news - GSMArena.com",
-      "description": "Plus a couple of Windows tablets for extra spice. In a separate post we covered smartphone deals, here we will focus on tablets. These will be mostly...",
-      "url": "https://www.gsmarena.com/deals_the_best_samsung_google_and_amazon_tablet_deals_from_black_friday-news-65546.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/weekly-deals-29/-952x498w6/gsmarena_0000.jpg",
-      "publishedAt": "2024-11-29T15:26:02Z",
-      "content": "In a separate post we covered smartphone deals, here we will focus on tablets. These will be mostly Android as Apple isnt really taking part in the Black Friday sales, but there are a couple of Windo… [+4052 chars]"
+      "author": "Carver Fisher",
+      "title": "Fortnite Chapter 6 gets game-changing parkour movement abilities - Dexerto",
+      "description": "Fortnite Chapter 6 is coming along with some game-changing updates to movement that’ll give players Ninja-like parkour abilities.",
+      "url": "https://www.dexerto.com/fortnite/fortnite-chapter-6-gets-game-changing-parkour-movement-abilities-2994982/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/11/30/Fortnite-Chapter-6-movement.jpg",
+      "publishedAt": "2024-11-30T17:39:11Z",
+      "content": "Fortnite Chapter 6 is coming with a whole suite of parkour abilities from wall-running and bouncing to being able to scale huge walls.\r\nIts tradition at this point for Fortnite to make some huge game… [+1713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Carter",
+      "title": "Marvel Rivals’ Trailer Is an Ultimate Alliance of Heroes - Gizmodo",
+      "description": "Squirrel Girl, Wolverine, and Black Widow are the newest heavy hitters revealed for NetEase and Marvel's upcoming hero shooter.",
+      "url": "https://gizmodo.com/marvel-rivals-launch-trailer-2000532319",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/marvelrivals.jpg",
+      "publishedAt": "2024-11-30T17:25:31Z",
+      "content": "The last few years, Marvel’s been killing it when it comes to single-player games. With all those heroes on hand, it only makes sense to use them for multiplayer, and Marvel Rivals marks the brand’s … [+2009 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Paul Tassi",
-      "title": "Here Are Fortnite’s First Chapter 6 Season 1 ‘Hunters’ Trailers - Forbes",
-      "description": "Two new trailers for Fortnite Chapter 6, season 1 have now launched, watch them here.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/11/29/here-are-fortnites-first-chapter-6-season-1-hunters-trailers/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6749d8381de4029385ad2679/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-29T15:07:22Z",
-      "content": "Fortnite\r\nEpic\r\nFortnite is on the verge of launching its much-anticipated Chapter 6 after a Juice WRLD concert tomorrow. Now, its fully rolling out promotion for the chapter with a new cinematic tra… [+1982 chars]"
+      "author": "David Phelan",
+      "title": "Apple’s Own Black Friday Event iPhone 15 And iPad Offers Still Live: Latest Details - Forbes",
+      "description": "The Black Friday and Cyber Monday shopping event it rolling out worldwide. Read on for details of the gift cards you could snag.",
+      "url": "https://www.forbes.com/sites/davidphelan/2024/11/30/apples-own-black-friday-event-iphone-15-and-ipad-offers-go-live-full-details/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67487480423f373d168ac4cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-30T17:00:25Z",
+      "content": "Updated Nov. 30 with confirmed details for U.S. and U.K. pricing and further addition of other Apple products.\r\nBlack Friday is here. Which means the Apple Black Friday and Cyber Monday shopping even… [+2126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Stalker 2 drops a second patch less than a day after the first - Eurogamer",
+      "description": "Stalker 2: Heart of Chornobyl developer GSC Game World has dropped a second patch.",
+      "url": "https://www.eurogamer.net/stalker-2-drops-a-second-patch-less-than-a-day-after-the-first",
+      "urlToImage": "https://assetsio.gnwcdn.com/Stalker-2-promo-image-showing-a-lone-figure-walking-through-a-field-of-flowers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-30T16:51:08Z",
+      "content": "Stalker 2: Heart of Chornobyl developer GSC Game World has dropped a second patch.\r\nGSC Game World moved quickly to acknowledged concerns after release on 20th November, and its initial patch dropped… [+2271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Terraria's next update is delayed because dev will \"not force anyone to crunch for an arbitrary deadline\" - Eurogamer",
+      "description": "Re-Logic has confirmed there's \"no way\" we'll see Terraria 1.4.5 released this year.",
+      "url": "https://www.eurogamer.net/terrarias-next-update-is-delayed-because-dev-will-not-force-anyone-to-crunch-for-an-arbitrary-deadline",
+      "urlToImage": "https://assetsio.gnwcdn.com/terrarias-ultimate-version-arrived-on-ps4-next-week-1415296178466.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-11-30T16:05:22Z",
+      "content": "Re-Logic has confirmed there's \"no way\" we'll see Terraria 1.4.5 released this year.\r\nIn a lengthy update on the official forums, Ted \"Loki\" Murphy said that whilst the team was approaching the end o… [+1883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-30T16:00:52Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Droid Life"
+      },
+      "author": "Kellen",
+      "title": "Samsung Spikes $1,500+ Off Galaxy Z Fold 6 - Droid Life",
+      "description": "As pretty as they may be, Samsung clearly has a ton of Galaxy Z Fold 6 stock sitting around in exclusive Crafted Black and White colorways. I say that because their special Black Friday weekend deals just won’t quit and they are only on those two colors. Sams…",
+      "url": "https://www.droid-life.com/2024/11/30/galaxy-z-fold-6-at-80-off-for-black-friday-is-peak/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/11/Galaxy-Z-Fold-6-Picture-5-1200x628-cropped.jpg",
+      "publishedAt": "2024-11-30T15:34:53Z",
+      "content": "As pretty as they may be, Samsung clearly has a ton of Galaxy Z Fold 6 stock sitting around in exclusive Crafted Black and White colorways. I say that because their special Black Friday weekend deals… [+2269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "SpyLoan Android malware on Google play installed 8 million times - BleepingComputer",
+      "description": "A new set of 15 SpyLoan apps with over 8 million installs was discovered on Google Play, targeting primarily users from South America, Southeast Asia, and Africa.",
+      "url": "https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/03/Android-3.jpg",
+      "publishedAt": "2024-11-30T15:11:21Z",
+      "content": "A new set of 15 SpyLoan apps with over 8 million installs was discovered on Google Play, targeting primarily users from South America, Southeast Asia, and Africa.\r\nThe apps were discovered by McAfee,… [+2809 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "The iPhone’s ‘Lockdown Mode’: What It Is and Who Should Consider Using It - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/cybersecurity/iphone-lockdown-mode-e1901a85",
+      "urlToImage": null,
+      "publishedAt": "2024-11-30T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Samsung T7 SSDs Are 50% Off Post Black Friday, Amazon Has Lost Its Mind Again - Gizmodo",
+      "description": "Whether it's the standard T9 SSD or the T7 Shield version, both are at nearly half price.",
+      "url": "https://gizmodo.com/samsung-t7-ssds-are-50-off-post-black-friday-amazon-has-lost-its-mind-again-2000532157",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/t7-shield-samsung-ssd.jpg",
+      "publishedAt": "2024-11-30T14:35:02Z",
+      "content": "Youve come to the right place for Black Friday weekend deals because Amazon continues to showcase record-low prices from Friday, and theres less stress involved. One thing is certain: stocks can disa… [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Muhammad Zuhair",
+      "title": "Intel’s Arc ‘Battlemage’ B580/B570 GPUs & AMD’s Navi 44 Rumored To Deliver Superior Performance Than NVIDIA’s GeForce RTX 4060 Ti - Wccftech",
+      "description": "Intel's next-gen Arc Battlemage B580/B570 GPU is said to be superior to NVIDIA's current-gen GeForce RTX 4060 Ti.",
+      "url": "https://wccftech.com/intels-arc-battlemage-b580-b570-gpus-amds-navi-44-rumored-to-deliver-superior-performance-than-nvidias-geforce-rtx-4060-ti/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/Intel-Arc-A770-vs-AMD-Radeon-RX-7600-GPU-Gaming-Benchmarks-g-low_res-scale-2_00x.jpg",
+      "publishedAt": "2024-11-30T14:14:00Z",
+      "content": "Intel's next-gen Arc Battlemage B580/B570 GPU is said to be superior to NVIDIA's current-gen GeForce RTX 4060 Ti, showing us the first glimpse of the SKU's performance.\r\nIntel &amp; AMD Are Apparentl… [+2331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Post Black Friday, The Galaxy Tab S10 Ultra Is Still 85% Off with Instant Savings and Trade-ins - Gizmodo",
+      "description": "This Samsung tablet competes with the highest-end iPad Pro models.",
+      "url": "https://gizmodo.com/post-black-friday-the-galaxy-tab-s10-ultra-is-still-85-off-with-instant-savings-and-trade-ins-2000532176",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/galaxy-tab-s10-ultra-1.jpg",
+      "publishedAt": "2024-11-30T14:10:37Z",
+      "content": "Samsung has showcased a new side this year for Black Friday and it is offering record-low prices all across its entire catalog (smartphones, tablets, earbuds, TVs, home appliances, and more). For tho… [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "One Day After Black Friday, Amazon Crashes MacBook Air M2 and M3 Prices to New Lows - Gizmodo",
+      "description": "Whether it's the MacBook Air M2 or the M3, both models are available at very attractive prices on Amazon.",
+      "url": "https://gizmodo.com/one-day-after-black-friday-amazon-crashes-macbook-air-m2-and-m3-prices-to-new-lows-2000532139",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/macbook-air-m2-midnight.jpg",
+      "publishedAt": "2024-11-30T13:10:10Z",
+      "content": "Did you miss out on Black Friday and find yourself feeling a bit of FOMO today? Well, there’s great news for you: Amazon is still rolling out record-low prices on nearly the entire Apple lineup (with… [+2567 chars]"
     }
   ]
 }
