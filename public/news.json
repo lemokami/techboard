@@ -1,161 +1,44 @@
 {
   "status": "ok",
-  "totalResults": 61,
+  "totalResults": 62,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Abner Li",
-      "title": "Here’s everything new in Android 15 QPR2 Beta 2 [Gallery] - 9to5Google",
-      "description": "Google today is rolling out Android 15 QPR2 Beta 2 for Pixel devices. Over the coming hours, we’ll dive into...",
-      "url": "http://9to5google.com/2024/12/16/android-15-qpr2-beta-2-everything-new/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Android-15-on-Pixel-9-v1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-16T21:38:00Z",
-      "content": "Google today is rolling out Android 15 QPR2 Beta 2 for Pixel devices.\r\nOver the coming hours, we’ll dive into all of Android 15 QPR2 Beta 2’s new features and every single change. (The newest updates… [+2285 chars]"
+      "author": "Cass Marshall",
+      "title": "Fellow Helldrivers 2 players, I think Super Earth might be fibbing about the Illuminate - Polygon",
+      "description": "It seems very likely we’re going to see more Illuminate units in Helldivers 2, but Super Earth propaganda assures us that the situation is under control.",
+      "url": "https://www.polygon.com/playstation/498647/helldivers-2-illuminate-arrival-super-earth-propaganda",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/cdbc7e87e62a4aeff2339363b5e581a718a2b7ea.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2024-12-17T21:50:12Z",
+      "content": "Its a tumultuous time to be a Helldiver. Not only are the cowardly Illuminate back after a century-long disappearance, but theyre kidnapping Super Earth citizens and turning them into horrifying mons… [+2818 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Insider Gaming",
-      "title": "EXCLUSIVE – Ubisoft Wants to Change the ‘Far Cry Formula’ with Far Cry 7 and Maverick - Insider Gaming",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ENWFuM1B2OFZLRER4SGg1WjY0U2QtT2IxdTE3SDMtSHowdHlnZVozTG5qOUFIQ0p2a2dhbWdlUzRIZXJPdGNsOHRPSnF3dDVHZ0xVVF9kbE9WTTF0THFwS1JnMjJpcUs0b1E?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T20:53:40Z",
-      "content": null
+      "author": "John Towfighi",
+      "title": "Google’s new AI tool uses image prompts instead of text - CNN",
+      "description": "Google is trying new ways for people to play with artificial intelligence.",
+      "url": "https://www.cnn.com/2024/12/17/business/google-ai-whisk-image-prompts/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2169510488.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-17T21:48:00Z",
+      "content": "Googles newest artificial intelligence tool, Whisk, lets people upload photos to get back a combined, AI-generated image even without users inputting any text to explain what they want.\r\nUsers can in… [+2927 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Samuel Axon",
-      "title": "PS Placeable: The adorable mod that turns a PlayStation Portable into a console - Ars Technica",
-      "description": "The labor-of-love mod project sold out quickly, but more will be made.",
-      "url": "https://arstechnica.com/gaming/2024/12/ps-placeable-the-adorable-mod-that-turns-a-playstation-portable-into-a-console/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/PS-Placeable-1-1152x648-1734378056.webp",
-      "publishedAt": "2024-12-16T19:52:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Sergiu Gatlan",
-      "title": "Windows kernel bug now exploited in attacks to gain SYSTEM privileges - BleepingComputer",
-      "description": "CISA has warned U.S. federal agencies to secure their systems against ongoing attacks targeting a high-severity Windows kernel vulnerability.",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/12/16/Windows.jpg",
-      "publishedAt": "2024-12-16T19:50:29Z",
-      "content": "CISA has warned U.S. federal agencies to secure their systems against ongoing attacks targeting a high-severity Windows kernel vulnerability.\r\nTracked as CVE-2024-35250, this security flaw is due to … [+2724 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "OpenAI brings its AI-powered web search tool to more ChatGPT users - TechCrunch",
-      "description": "ChatGPT Search, OpenAI's AI-powered web search experience, is now live for all ChatGPT users — with several new features in tow.",
-      "url": "https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-      "publishedAt": "2024-12-16T19:38:00Z",
-      "content": "ChatGPT Search, OpenAI’s AI-powered web search experience, is now live for all ChatGPT users with several new features in tow.\r\nBy default, ChatGPT will automatically determine which questions to rou… [+2135 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "9to5Mac",
-      "title": "iOS 18.3 beta adding Home app support for robot vacuums - 9to5Mac",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWhkVTdKcGRxVG9XSi1oaVRRMjhrOGpVNl9uZkRjUndWMC1JWlhCcDk0emxlT3o0aU1UTjhEUXdjOGo1MXc4cHBFMnpVMTBQQ0hZa2tNOWFxMWVEV0YtSDRfQUtDZEdYZUNJdUZYNUllbGdBRXFaZ2JWOEMyX29HamhBNnl3SW5sX01laU9PdUM?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T19:38:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "HDMI 2.2 Could Mean You’ll Need New Cables for the Next Generation of GPUs - Gizmodo",
-      "description": "Rumors hint HDMI will move from 2.1 to 2.2, which means more bandwidth and better support for higher resolutions and refresh rates.",
-      "url": "https://gizmodo.com/hdmi-2-2-could-mean-youll-need-new-cables-for-the-next-generation-of-gpus-2000539323",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/HDMI-Ports-Alex-Cranz-Gizmodo.jpg",
-      "publishedAt": "2024-12-16T19:23:02Z",
-      "content": "Your favorite (or perhaps least favorite) connection cable may receive a major upgrade early next year. The HDMI Forum, which maintains the HDMI standard, said its hosting a big announcement during C… [+3278 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Google’s Whisk AI generator will ‘remix’ the pictures you plug in - The Verge",
-      "description": "Google’s new Whisk AI tool lets you generate images using other images as prompts instead of requiring a long text prompt.",
-      "url": "https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/27GikmT3l83HxnHHUzkV3iDr1ME=/0x0:1752x1167/1200x628/filters:focal(876x584:877x585)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792808/ai_label_3.png",
-      "publishedAt": "2024-12-16T18:12:48Z",
-      "content": "Googles Whisk AI generator will remix the pictures you plug in\r\nGoogles Whisk AI generator will remix the pictures you plug in\r\n / Whisk is Googles fun AI experiment that uses images for prompts and … [+2256 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GameSpot",
-      "title": "The Best Xbox Games Of 2024 - GameSpot",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTdjlEd2YtX3gzTm5FSldYVkFXOUZ3NmVKUElublJiSno2bkZaQ0FKWlhTeHpOLVV5aWIwTjJjTEw0azNFVHJpVlRqRDl3RU4xSW1kTEp1Q0d5VDJ3djhKZnNjQ1VSRmZHbnZiR24tX2lGUU40N25sU2hFOA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T18:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Meta updates its smart glasses with real-time AI video - TechCrunch",
-      "description": "Meta has announced an update for Ray-Ban Meta that brings real-time AI video to the glasses, a feature the company first demoed in the fall.",
-      "url": "https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/Ray-Ban-Meta-Lifestyle11.png?resize=1200,1200",
-      "publishedAt": "2024-12-16T17:49:09Z",
-      "content": "Meta’s Ray-Ban Meta smart glasses are getting several new AI-powered upgrades, including the ability to have an ongoing conversation and translate between languages. \r\nRay-Ban Meta owners in Meta’s e… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Sony’s noise-canceling WF-1000XM5 are cheaper than they were on Black Friday - The Verge",
-      "description": "Sony’s WF-1000XM5 are available at Amazon for $198 ($102 off). Amazon’s Smart Plug, the latest Beats Pill speaker, and Google’s Pixel Tablet are also on sale right now.",
-      "url": "https://www.theverge.com/2024/12/16/24322475/sony-wf-1000xm5-earbuds-amazon-smart-plug-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-TUa0k9SzTsyQKKZy9W3bJt9r0E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24805959/DSCF2249_Enhanced_NR.jpg",
-      "publishedAt": "2024-12-16T17:29:57Z",
-      "content": "Sonys noise-canceling WF-1000XM5 are cheaper than they were on Black Friday\r\nSonys noise-canceling WF-1000XM5 are cheaper than they were on Black Friday\r\n / We also found deals on Amazons smart plug … [+3206 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo Life",
-      "title": "The only Amazon deals worth shopping this week: Get an Apple iPad for a record low - Yahoo Life",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3hmdk1tNHI0UmNsaUZGRzBFS2FVY2tkcm82bmpMV3VEamF4emRDNDBYVHZ0ZjFZM0Nhakx6VWVwR0N3eEFuV0JITkhJcWJWdm4ycDE1UVFBTlFLT2p0MjMyUWs3WHVVUUtfdDNzMi1oa280dDRCRF8zRTdZNmNoank5WnFMN2cySzVkVUc0ZTRYUFNhd1FobHgtaUFSQ2tKU1kyZnNaaFNueWktRnk4MHE5OUxfZGZ3QVItTTd4X014VEhJLXJF?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T16:41:15Z",
+      "author": "Kyle Orland",
+      "title": "The new Nvidia App is probably hurting your PC gaming performance - Ars Technica",
+      "description": "Fully disabling optional, AI-powered filters seems to fix the problem.",
+      "url": "https://arstechnica.com/gaming/2024/12/the-new-nvidia-app-is-probably-hurting-your-pc-gaming-performance/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/nvidiaapp.jpeg",
+      "publishedAt": "2024-12-17T21:43:35Z",
       "content": null
     },
     {
@@ -164,38 +47,155 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Samsung rolling out second One UI 7 beta on Galaxy S24 – here’s what’s new - 9to5Google",
-      "description": "After a heavy delay ahead of its One UI 7 beta program, Samsung has just released a second update, bringing...",
-      "url": "http://9to5google.com/2024/12/16/samsung-rolling-out-second-one-ui-7-beta-on-galaxy-s24-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/One-UI-7.0-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-16T16:15:00Z",
-      "content": "After a heavy delay ahead of its One UI 7 beta program, Samsung has just released a second update, bringing with it a handful of bug fixes and tweaks.\r\nThe second One UI 7 beta update brings apt of b… [+1486 chars]"
+      "title": "Latest Galaxy S25 leaks show off Ultra’s curved corners and slim bezels [Gallery] - 9to5Google",
+      "description": "Samsung is set to unveil its next flagship devices in about a month, and ahead of that, the leaks are...",
+      "url": "http://9to5google.com/2024/12/17/samsung-galaxy-s25-ultra-bezels-corners-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Galaxy-S25-Ultra-renders.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-17T21:05:00Z",
+      "content": "Samsung is set to unveil its next flagship devices in about a month, and ahead of that, the leaks are starting to pour in. In the latest leaks, we get a peek at the new curved covers and display beze… [+1474 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Cord Cutters News",
-      "title": "Watching Local ABC, CBS, FOX, & NBC Local News & Weather For Free Just Got Easier on Roku With NewsON - Cord Cutters News",
+      "author": "Zack Zwiezen",
+      "title": "Here's One Thing Marvel Rivals Won't Copy From Overwatch 2 - Kotaku",
+      "description": "The creative director behind the hit hero shooter says there are no plans to add role queue",
+      "url": "https://kotaku.com/marvel-rivals-role-queue-matchmaking-update-netease-ps5-1851723290",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4537f4257f6eee296b48458daff369e8.jpg",
+      "publishedAt": "2024-12-17T20:50:00Z",
+      "content": "Guangyun Guangguang Chen, creative director behind Marvel Rivals, says that while many players have requested a role queue system, a matchmaking option to help create balanced teams, there are curren… [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Delta emulator triples Apple’s prices to encourage external clicks - The Verge",
+      "description": "The Delta gaming emulator is now providing a link to sign up for Patreon-exclusive membership perks directly within the iOS app in Apple’s US App Store.",
+      "url": "https://www.theverge.com/2024/12/17/24323220/delta-emulator-ios-apple-triple-price-patreon-membership",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PQ-bPMFUkLVfcXyNTV9YAiYiVEI=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25404717/delta_app_store.png",
+      "publishedAt": "2024-12-17T19:06:52Z",
+      "content": "Delta emulator triples Apples prices to encourage external clicks\r\nDelta emulator triples Apples prices to encourage external clicks\r\n / Pricing starts at $3 per month through Patreon, or $10 for App… [+1657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "GameSpot",
+      "title": "PlayStation Portal 30th Anniversary Edition Back In Stock At PS Direct (December 17) - GameSpot",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1ZIVFJWZVZ2UWJBRm84SkgtZzNZN0FOSjlRSUJkdWZTNjlsWG9URHNKODZ2eDA2U1NNS21JTElCSDRYaDNHQnhIcWFtX3pycmxNOTlBRDdOM28xQmdvU0ljVEVORUdLaTRJV20wVWFsMUpYRmZGRFhOd21fZnc0bjBUN0czbE9BZGRmdFQ1ZUsyb2UxMmJzd2dCT05ENmRNcXlNQXp1LVIzbU5WLWlIQVp4RldIN0c3NkhDeFdFMW3SAcgBQVVfeXFMUGJrdnhOOEt0eXJuOTZ3VXg2ZkVBbWRUOTNucmpYRDQwb3ZSYUx3ZGVqS0NyVkVzUHpNdDVsTGZDWXNSZEZ5ZDJNbnczdkd3RExXcWVFTVdFZk4zN2JQS1dHcm5jbnEtd29aSlNpRmFaRXlaSU9WQl9GNUoyZ0tyQW1IRWRzOGdDWV9RcEFOMS1OLVpiVHBsNDl0ejNFUjJqeXFlSmJPUVk0a0hfcXFWRGZDOUx4NzZrZnlvYkRrbzJEMWFUaktjM0g?oc=5",
+      "url": "https://www.gamespot.com/articles/playstation-portal-30th-anniversary-edition-back-in-stock-at-ps-direct-december-17/1100-6528185/",
       "urlToImage": null,
-      "publishedAt": "2024-12-16T16:06:59Z",
+      "publishedAt": "2024-12-17T18:45:41Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "404 Media",
-      "title": "To Log Into WordPress, You Now Have To Agree Pineapple on Pizza Is Good - 404 Media",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRUh1YWI3aDdMLTBlaXNoYTEtMXAzYXYweFEtbThQYWFTbk56Mk1aeHNHVEIxdVlTbjdtZ01sRVJ3UmlfbkplQlZaQUN3VjBSQzl3Z0FoYTlWcS1Bd1VIeWhQNUY4SDlkckRn?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T16:06:09Z",
+      "author": "Wes Davis",
+      "title": "Nvidia’s $249 dev kit promises cheap, small AI power - The Verge",
+      "description": "Nvidia has debuted the Jetson Orin Nano Super, a small AI hobby computer with boosted performance enabled by a software update coming to existing Orin Nano kits.",
+      "url": "https://www.theverge.com/2024/12/17/24323450/nvidia-jetson-orin-nano-super-developer-kit-software-update-ai-artificial-intelligence-maker-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_b4LzP0yUt6CyUDuZiUOP3pCyM8=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25794577/Jetson_Orin_Nano_Super.jpg",
+      "publishedAt": "2024-12-17T18:27:09Z",
+      "content": "Nvidias $249 dev kit promises cheap, small AI power\r\nNvidias $249 dev kit promises cheap, small AI power\r\n / The Jetson Orin Nano Super gets big performance boosts from a software update thats also c… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Nvidia partners leak next-gen RTX 50-series GPUs, including a 32GB 5090 - Ars Technica",
+      "description": "The 5080, 5070 Ti, 5070, and a 5090D variant for China were also listed.",
+      "url": "https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/nvidia-logo-1152x648.jpg",
+      "publishedAt": "2024-12-17T18:16:04Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI brings its o1 reasoning model to its API — for certain developers - TechCrunch",
+      "description": "OpenAI is bringing its o1 model to its API — and introducing other, related developer-focused improvements across its product portfolio.",
+      "url": "https://techcrunch.com/2024/12/17/openai-brings-its-o1-reasoning-model-to-its-api-for-certain-developers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704898.jpg?resize=1200,675",
+      "publishedAt": "2024-12-17T18:00:00Z",
+      "content": "OpenAI is bringing o1, its “reasoning” AI model, to its API but only for certain developers, to start.\r\nStarting Tuesday, o1 will begin rolling out to devs in OpenAI’s “tier 5” usage category, the co… [+3394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Stephen Tailby",
+      "title": "Intergalactic PS5's Toxic Detractors Peddling Patently Fake 'Leaked' Story Details - Push Square",
+      "description": "Don't believe everything you read",
+      "url": "https://www.pushsquare.com/news/2024/12/intergalactic-ps5s-toxic-detractors-peddling-patently-fake-leaked-story-details",
+      "urlToImage": "https://images.pushsquare.com/0cca895615488/1280x720.jpg",
+      "publishedAt": "2024-12-17T18:00:00Z",
+      "content": "Whatever your opinion on Naughty Dog's recently announced sci-fi adventure, Intergalactic: The Heretic Prophet, it's received an overwhelmingly negative reaction from certain online circles.\r\nSo stro… [+1498 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan Dinsdale",
+      "title": "Final Fantasy 7 Rebirth Director Asks Fans Not to Make Inappropriate Mods Upon Its PC Release - IGN",
+      "description": "Final Fantasy 7 Rebirth director Naoki Hamaguchi has asked fans to please not make inappropriate mods when the role-playing game comes to PC on January 23.",
+      "url": "https://www.ign.com/articles/final-fantasy-7-rebirth-director-asks-fans-not-to-make-inappropriate-mods-upon-its-pc-release",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/09/23/ff7thumb-1695498076825.jpg?width=1280",
+      "publishedAt": "2024-12-17T17:59:45Z",
+      "content": "Final Fantasy 7 Rebirth director Naoki Hamaguchi has asked fans to please not make inappropriate mods when the role-playing game comes to PC on January 23.\r\nHamaguchi told the Epic Games Store that, … [+1484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Earn Cosmetics for Diablo IV and World of Warcraft - Blizzard News",
+      "description": "Receive coveted cosmetic rewards when you purchase both Diablo IV: Vessel of Hatred and World of Warcraft: The War Within—up to 30% off until January 7.",
+      "url": "https://news.blizzard.com/en-us/article/24161248/earn-cosmetics-for-diablo-iv-and-world-of-warcraft",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/fo/FOVJKDQWKU1H1734401100851.png",
+      "publishedAt": "2024-12-17T17:55:00Z",
+      "content": "For a limited time, the lush Jungles of Nahantu and stony structures of Khaz Algar collide in the Vessel of Hatred and The War Within Expansion Collaboration! From December 17, 10 a.m. PSTJanuary 7, … [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Kim",
+      "title": "Skibidi Toilet Is Seemingly Coming to Fortnite - IGN",
+      "description": "The viral online animated series Skibidi Toilet is coming to Fortnite according to leaks and now an official teaser from Epic Games.",
+      "url": "https://www.ign.com/articles/skibidi-toilet-is-seemingly-coming-to-fortnite",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/12/17/skibidi-1734457608025.png?width=1280",
+      "publishedAt": "2024-12-17T17:50:46Z",
+      "content": "The popular internet series, Skibidi Toilet, could be coming to Fortnite soon as a skin.\r\nEarlier today rumors began to appear that cosmetics for the Skibidi Toilet meme began to appear online. Leake… [+1327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "EXODUS ‘The Traveler’s Creed’ gameplay trailer - Gematsu",
+      "description": "Archetype Entertainment has released a new gameplay trailer for science-fiction action adventure RPG EXODUS dubbed “The Traveler’s Creed.”",
+      "url": "https://www.gematsu.com/2024/12/exodus-the-travelers-creed-gameplay-trailer",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/12/EXODUS-Trailer_12-17-24.jpg",
+      "publishedAt": "2024-12-17T17:27:42Z",
+      "content": "About\r\nEXODUS is an epic new science-fiction action adventure role-playing game (RPG) franchise. The IP is being developed by Archetype Entertainment, an Austin-based studio established as a division… [+3348 chars]"
     },
     {
       "source": {
@@ -203,64 +203,64 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Gemini app rolling out model switcher to access 2.0 Flash experimental on Android - 9to5Google",
-      "description": "As promised last week, Google is rolling out access to Gemini 2.0 Flash Experimental in the Android app. Initially...",
-      "url": "http://9to5google.com/2024/12/16/gemini-2-0-flash-app-android/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Gemini-2.0-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-16T16:00:00Z",
-      "content": "As promised last week, Google is rolling out access to Gemini 2.0 Flash Experimental in the Android app. \r\nInitially, 2.0 Flash Experimental was only available on gemini.google.com, which has long fe… [+1415 chars]"
+      "title": "Gemini subscribers can now use ‘2.0 Experimental Advanced’ with ‘significantly improved performance’ - 9to5Google",
+      "description": "Following 2.0 Flash Experimental, Google is now letting Gemini Advanced customers access a new 2.0 Experimental Advanced model.",
+      "url": "http://9to5google.com/2024/12/17/gemini-2-0-experimental-advanced/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Gemini-2.0-Experimental-Advanced.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-17T17:16:00Z",
+      "content": "Following Gemini 2.0 Flash Experimental in the past week, Google is now letting Gemini Advanced customers access a new 2.0 Experimental Advanced model.\r\nAppearing as 2.0 Experimental Advanced in the … [+1255 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Playhearthstone.com"
       },
-      "author": "Push Square",
-      "title": "Naughty Dog Turns Off Intergalactic PS5 Trailer's Comments As Discourse Turns Nasty - Push Square",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUJCX1pXblIwTWhxVWs0U2lQXzNHWDR5NWNLVi1XZzJTdEF1dVJXdF9NN1NHMzRTN1F2VXFLZVhpNV9rTVRsbG1LZHZ3aFdYS3BVUDh5OExRc3hoTThZSnBtTWR4NUdBRUw0eU9GVFFmN091bGtBWXYwOUV5YVJabXFFV083b1A4UVRQVGM5MXZpaVhtODNBd0hoSkE1N1o5YUR0OV90cmc4cmxpbjZEN2cxZnp4WFZILUN2WVd5VQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-16T16:00:00Z",
-      "content": null
+      "author": "Blizzard Entertainment",
+      "title": "31.2.2 Patch Notes - Hearthstone",
+      "description": "Patch 31.2.2 includes balance changes to Standard, Wild, Battlegrounds, Arena, and more!",
+      "url": "https://playhearthstone.com/en-gb/blog/24167660/",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/xo/XOJA9CBER0DF1734108223366.jpg",
+      "publishedAt": "2024-12-17T17:07:06Z",
+      "content": "Patch 31.2.2 is releasing today with the following updates:\r\nHearthstone Updates \r\nDev Comment: This is our last round of changes before the holiday break, so were aiming to keep this patch smaller a… [+16874 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "Walmart starts its own Game Informer-style gaming site - The Verge",
+      "description": "Restart is a new gaming editorial site operated by Moonrock, a marketing company, and sponsored by Walmart.",
+      "url": "https://www.theverge.com/2024/12/17/24323309/walmart-restart-run-game-informer-ziff-davis-buyouts",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/P7D4vf1gwVyezv0l9sQgo29-74o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25403272/STK465_VIDEO_GAMES_EMULATOR__CVirginia_C.jpg",
+      "publishedAt": "2024-12-17T17:04:37Z",
+      "content": "Walmart starts its own Game Informer-style gaming site\r\nWalmart starts its own Game Informer-style gaming site\r\n / Restart is a new gaming media initiative run by a marketing company and sponsored by… [+2731 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Hartley Charlton",
-      "title": "Most iPhone Users Uninterested in Apple Intelligence, Survey Suggests - MacRumors",
-      "description": "iPhone users have largely avoided the Apple Intelligence features released prior to iOS 18.2, a new survey suggests.   A survey conducted by...",
-      "url": "https://www.macrumors.com/2024/12/16/survey-users-uninterested-in-apple-intelligence/",
-      "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
-      "publishedAt": "2024-12-16T15:59:10Z",
-      "content": "iPhone users have largely avoided the Apple Intelligence features released prior to iOS 18.2, a new survey suggests.\r\nA survey conducted by SellCell, a tech trade-in platform, has revealed that while… [+2798 chars]"
+      "author": "Joe Rossignol",
+      "title": "New Apple TV Rumored to Launch Next Year With These Features - MacRumors",
+      "description": "The current Apple TV 4K was released more than two years ago, so the streaming device is becoming due for a hardware upgrade soon. Fortunately, it...",
+      "url": "https://www.macrumors.com/2024/12/17/2025-apple-tv-rumored-features/",
+      "urlToImage": "https://images.macrumors.com/t/yahagDRaUwJedSpmk_nrcNOR2aM=/2500x/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
+      "publishedAt": "2024-12-17T17:02:39Z",
+      "content": "The current Apple TV 4K was released more than two years ago, so the streaming device is becoming due for a hardware upgrade soon. Fortunately, it was recently rumored that a new Apple TV will launch… [+2008 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "[Removed]"
       },
-      "author": "Sammy Barker",
-      "title": "Eve Is a Festive Firecracker in Stellar Blade PS5's Surprise Xmas Update - Push Square",
-      "description": "New minigame and seasonal rewards",
-      "url": "https://www.pushsquare.com/news/2024/12/eve-is-a-festive-firecracker-in-stellar-blade-ps5s-surprise-xmas-update",
-      "urlToImage": "https://images.pushsquare.com/b5b396a3ebca4/1280x720.jpg",
-      "publishedAt": "2024-12-16T15:30:00Z",
-      "content": "The ever-industrious Shift Up is back with another unexpected Stellar Blade update, this time ahead of the holidays. Available from tomorrow, hub town Xion is getting a wintery glow-up, complete with… [+990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Brandon Morgan",
-      "title": "This Is The Best Class To Start Out With In Path Of Exile 2 - Kotaku",
-      "description": "The Mercenary offers a number of different playstyles. Here’s how to make the most of it",
-      "url": "https://kotaku.com/path-of-exile-2-mercenary-class-guide-beginners-best-1851721613",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d5d667d9ac6ece7e71337379bc250729.jpg",
-      "publishedAt": "2024-12-16T15:30:00Z",
-      "content": "When starting an RPG, before you even consider a character creator (which Path of Exile 2 does not offer), theres a choicethe ultimate choice for a beginner. What is the best starting class for a new… [+3099 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-17T16:56:17Z",
+      "content": "[Removed]"
     }
   ]
 }
