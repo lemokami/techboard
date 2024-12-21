@@ -1,97 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 62,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Android 16 DP2 adds support for 7 new emoji from Unicode 16.0 - Android Authority",
-      "description": "Android 16 DP2 adds support for the 8 new emoji from the Unicode 16.0 standard, including face with bags under the eyes.",
-      "url": "https://www.androidauthority.com/android-16-new-emoji-3510140/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/android-16-official-logo-4-scaled.jpg",
-      "publishedAt": "2024-12-18T20:36:39Z",
-      "content": "<ul><li>Google just released Android 16 DP2, and it includes support for 7 new emoji.</li><li>The new emoji include a face with bags under the eyes, a fingerprint, a harp, and more.</li><li>These 7 e… [+2130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tipranks.com"
-      },
-      "author": "Steve Anderson",
-      "title": "Intel’s (NASDAQ:INTC) New Battlemage GPU is a Winner - TipRanks",
-      "description": "This is not the kind of news we get every day for chip stock Intel ($INTC), so we should probably just be glad it is here. Not to put too\n<a class=\"permali...",
-      "url": "https://www.tipranks.com/news/intels-nasdaqintc-new-battlemage-gpu-is-a-winner",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/12/intel-shutterstock_2317466969-750x406.jpg",
-      "publishedAt": "2024-12-18T20:05:04Z",
-      "content": "Story HighlightsIntel’s Battlemage GPU is proving a winner, though there may not be so many others to follow."
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Dannica Ramirez",
-      "title": "Homeowners Are Sharing The \"1,000% Worth It\" Purchases And Splurges They Made In 2024 - BuzzFeed",
-      "description": "\"It cost us about $600, and it is a GAME-CHANGER.\"",
-      "url": "https://www.buzzfeed.com/dannicaramirez/best-home-purchases-of-2024",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/17/20/enhanced/9cce7374c62e/original-4193-1734466866-3.jpg?crop=1250:654;0,119%26downsize=1250:*",
-      "publishedAt": "2024-12-18T19:31:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Halts Effort to Build iPhone Hardware Subscription Service - Bloomberg",
-      "description": "Apple Inc. has halted work on a project to build an iPhone hardware subscription service, according to people familiar with the matter, retreating from an attempt to change the way consumers buy its flagship device.",
-      "url": "https://www.bloomberg.com/news/articles/2024-12-18/apple-halts-long-running-effort-to-build-iphone-hardware-subscription-service",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOVe9aIuFRE8/v0/1200x800.jpg",
-      "publishedAt": "2024-12-18T19:21:49Z",
-      "content": "Apple Inc. has halted work on a project to build an iPhone hardware subscription service, according to people familiar with the matter, retreating from an attempt to change the way consumers buy its … [+377 chars]"
-    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Chris Welch",
-      "title": "LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet - The Verge",
-      "description": "The Signature OLED T, LG’s transparent TV, has been priced at a staggering $59,999 and is now available from a small list of retailers including Best Buy.",
-      "url": "https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b044XteIXoy7paRya68JIscccRo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25211083/DSCF5928.jpg",
-      "publishedAt": "2024-12-18T18:15:12Z",
-      "content": "LGs transparent OLED TV will put a very visible $60,000 hole in your wallet\r\nLGs transparent OLED TV will put a very visible $60,000 hole in your wallet\r\n / The 77-inch Signature OLED T is now availa… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "OpenAI brings ChatGPT to your landline - TechCrunch",
-      "description": "OpenAI's AI-powered ChatGPT is coming to phones. No, not smartphones — landlines.",
-      "url": "https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/03/1436934834_e4ad1db095_o.jpg?w=1024",
-      "publishedAt": "2024-12-18T18:05:42Z",
-      "content": "ChatGPT is coming to phones. No, not smartphones landlines. Call 1-800-242-8478 (1-800-CHATGPT), and OpenAI’s AI-powered assistant will respond as of Wednesday afternoon.\r\n“[Our mission at] OpenAI is… [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iOS 18.3 public beta now available, here’s what to expect - 9to5Mac",
-      "description": "Apple has released the iOS 18.3 public beta, offering its next iPhone software update in advance preview. Here’s what to expect.",
-      "url": "https://9to5mac.com/2024/12/18/ios-183-public-beta-now-available-heres-what-to-expect/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/iOS-18.3-hero-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-18T18:05:00Z",
-      "content": "Apple has released iOS 18.3 public beta 1 today. The new beta offers a preview of the iPhones next software update to members of Apples beta software program. Heres what to expect from todays release… [+1489 chars]"
+      "author": "Sheena Vasani",
+      "title": "Google Keep might be joining the ranks of Android system apps - The Verge",
+      "description": "Google Keep is a system app on Android 16, rendering it uninstallable like other essentials apps for making calls, sending messaging, and other core functions.",
+      "url": "https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+      "publishedAt": "2024-12-19T21:06:18Z",
+      "content": "Google Keep might be joining the ranks of Android system apps\r\nGoogle Keep might be joining the ranks of Android system apps\r\n / The note-taking app is considered a system app in Android 16 Developer… [+1183 chars]"
     },
     {
       "source": {
@@ -99,11 +21,11 @@
         "name": "Ars Technica"
       },
       "author": "Kevin Purdy",
-      "title": "Z-Wave Long Range and its mile-long capabilities will arrive next year - Ars Technica",
-      "description": "Few homes will need it, but the (literal) edge cases are quite intriguing.",
-      "url": "https://arstechnica.com/gadgets/2024/12/z-wave-long-range-and-its-mile-long-capabilities-will-arrive-next-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/shelly_products-1.jpeg",
-      "publishedAt": "2024-12-18T18:01:23Z",
+      "title": "Home Assistant’s Voice Preview Edition is a little box with big privacy powers - Ars Technica",
+      "description": "Home Assistant’s voice device is a $60 box that’s both focused and evolving.",
+      "url": "https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/Voice-Preview-Edition-Color-Device-1.-Diagonal-front-with-cable-Large-1152x648.jpeg",
+      "publishedAt": "2024-12-19T21:00:59Z",
       "content": null
     },
     {
@@ -111,52 +33,13 @@
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Frederic Lardinois",
-      "title": "GitHub launches a free version of its Copilot - TechCrunch",
-      "description": "Microsoft-owned GitHub announced on Wednesday a free version of its popular Copilot code completion/AI pair programming tool, which will also now ship by",
-      "url": "https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/IMG_20190506_125609.jpg?resize=1200,812",
-      "publishedAt": "2024-12-18T18:00:00Z",
-      "content": "Microsoft-owned GitHub announced on Wednesday a free version of its popular Copilot code completion/AI pair programming tool, which will also now ship by default with Microsoft’s popular VS Code edit… [+4036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Jennifer Maas",
-      "title": "Game Awards 2024 Smashes Viewing Record With More Than 154 Million Livestreams, up 31% From Last Year - Variety",
-      "description": "The Game Awards 2024 show bested the 10-year old awards show's viewership records with 154 million livestreams.",
-      "url": "https://variety.com/2024/tv/news/game-awards-2024-viewership-record-1236253334/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/12/The-Game-Awards-1.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2024-12-18T18:00:00Z",
-      "content": "The Game Awards hit record viewership with its 2024 show on Dec. 12, which drew an estimated 154 million global livestreams. That’s up 31% over the 2023 show at 118 million livestreams. \r\nPer the Gam… [+1936 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "The $700 price tag isn’t hurting PS5 Pro’s early sales - Ars Technica",
-      "description": "A sizable early adopter niche will still pay for the most powerful console possible.",
-      "url": "https://arstechnica.com/gaming/2024/12/the-700-price-tag-isnt-hurting-ps5-pros-early-sales/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/ps5p9-1152x648.jpg",
-      "publishedAt": "2024-12-18T17:46:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Your 'Nintendo Switch Year In Review 2024' Stats Are Available Now - Nintendo Life",
-      "description": "What's your hour count?",
-      "url": "https://www.nintendolife.com/news/2024/12/your-nintendo-switch-year-in-review-2024-stats-are-available-now",
-      "urlToImage": "https://images.nintendolife.com/b8a178bcb595f/1280x720.jpg",
-      "publishedAt": "2024-12-18T17:39:38Z",
-      "content": "This year, I decided to do somewhat of a restart with my backlog. My life has kinda been hell in a handbasket, and I ended up dropping out of gaming for a bit because of it. Eventually, I decided I w… [+1675 chars]"
+      "author": "Kyle Wiggers",
+      "title": "Exclusive: Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z - TechCrunch",
+      "description": "Emmett Shear, the former CEO of Twitch and briefly an OpenAI interim CEO, is launching a new AI startup, TechCrunch has learned.",
+      "url": "https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/yx17E345-1.jpg?resize=1200,800",
+      "publishedAt": "2024-12-19T20:33:30Z",
+      "content": "Emmett Shear, the former CEO of Twitch, is launching a new AI startup, TechCrunch has learned. \r\nThe startup, called Stem AI, is currently in stealth. But public documents show it was incorporated in… [+3523 chars]"
     },
     {
       "source": {
@@ -164,103 +47,220 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Gemini app on iPhone update adds model picker for 2.0 Flash - 9to5Google",
-      "description": "Following Android, Google is rolling out an update to the Gemini app on iPhone that lets users select 2.0 Flash Experimental...",
-      "url": "http://9to5google.com/2024/12/18/gemini-2-0-flash-iphone/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/gemini-iphone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-18T16:38:00Z",
-      "content": "Following Android, Google is rolling out an update to the Gemini app on iPhone that lets users select 2.0 Flash Experimental.\r\nAfter last weeks announcement, the Gemini app now offers a model picker … [+1809 chars]"
+      "title": "Gemini app widely rolling out 2.0 Flash model switcher on Android - 9to5Google",
+      "description": "After hitting the Google app beta on Monday, access to 2.0 Flash in the Gemini app on Android is now rolling out to stable users...",
+      "url": "http://9to5google.com/2024/12/19/gemini-2-0-flash-android/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Gemini-on-phone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-19T19:45:00Z",
+      "content": "After hitting the Google app beta channel on Monday, access to 2.0 Flash Experimental in the Gemini app on Android is now rolling out to stable users.\r\nThe Gemini app is powered by the Google (Search… [+1382 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sarah Perez",
-      "title": "Flipboard launches Surf, a new app for browsing the open social web - TechCrunch",
-      "description": "Social magazine app maker Flipboard is reinventing itself for the new era of the open social web. While the company's original app allowed users to",
-      "url": "https://techcrunch.com/2024/12/18/flipboard-launches-surf-a-new-app-for-browsing-the-open-social-web/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Surf.png?resize=1200,830",
-      "publishedAt": "2024-12-18T16:30:00Z",
-      "content": "Social magazine app maker Flipboard is reinventing itself for the new era of the open social web. While the company’s original app allowed users to collect content from blogs, news websites, and trad… [+5034 chars]"
+      "author": "Marina Temkin",
+      "title": "In just 4 months AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say - TechCrunch",
+      "description": "Anysphere, the developer of AI-powered coding assistant Cursor, raised $100 million Series B at a post-money valuation of $2.6 billion, according to",
+      "url": "https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2080972792.jpg?resize=1200,800",
+      "publishedAt": "2024-12-19T19:15:03Z",
+      "content": "Anysphere, the developer of AI-powered coding assistant Cursor, raised $100 million Series B at a post-money valuation of $2.6 billion, according to sources with knowledge of the deal. The round is b… [+2505 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Ea.com"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Electronic Arts",
-      "title": "Apex Legends™: Matchmaking Update 2024 - Electronic Arts Home Page",
-      "description": "Our latest dev update on matchmaking with a look at new and improved features, and answers to your questions.",
-      "url": "https://www.ea.com/games/apex-legends/news/matchmaking-update-0924",
-      "urlToImage": "https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-price-change-key-art.jpg.adapt.crop191x100.628p.jpg",
-      "publishedAt": "2024-12-18T16:20:24Z",
-      "content": "There are 2 major changes since our last matchmaking update that we want to share:\r\n<ul><li>Introduction of Continuous Window Matchmaking (CWMM)</li><li>Bespoke changes to game modes, including Ranke… [+6229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Game Pass Ultimate users can claim a $70 bundle for a top free Xbox game - TrueAchievements",
-      "description": "Xbox Game Pass Ultimate members can now claim a new Idle Champion of the Forgotten Realms bundle worth $70 via Game Pass Ultimate Perks.",
-      "url": "https://www.trueachievements.com/news/xbox-game-pass-ultimate-perk-worth-70",
-      "urlToImage": "https://www.trueachievements.com/imgs/155145/xbox-game-pass-ultimate-perk-worth-70.jpg",
-      "publishedAt": "2024-12-18T16:01:31Z",
-      "content": "Christmas has come early, thanks to an Xbox Game Pass Ultimate Perk worth $70, which will enhance your hunt for the Idle Champions of the Forgotten Realms achievements. Titled Shadowheart's Champions… [+1745 chars]"
+      "author": "Charles Rollet",
+      "title": "Exclusive: Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs - TechCrunch",
+      "description": "Led by Markforged veterans and backed by a16z, Backlip has raised $30M to democratize product design thanks to AI.",
+      "url": "https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/founders-greg-mark-david-benhaim.jpg?resize=1200,800",
+      "publishedAt": "2024-12-19T19:06:55Z",
+      "content": "What if it were as easy to generate a usable 3D design as prompting ChatGPT? Thats the mission of Backflip, a startup founded by 3D printing veterans thats just scored $30 million from Andreessen Hor… [+3472 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Bo Moore",
-      "title": "Q&A: Mark Cerny on PS5 Pro, Flopflation, and PlayStation's Partnership with AMD - IGN",
-      "description": "We sit down with PS5 architect Mark Cerny to discuss PSSR, the future of game graphics, and what Sony's partnership with AMD could mean for Xbox.",
-      "url": "https://www.ign.com/articles/mark-cerny-on-ps5-pro-flopflation-and-playstations-partnership-with-amd",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/12/17/ps5-pro-markcerny-interview-blogroll-1734473176686.jpg?width=1280",
-      "publishedAt": "2024-12-18T16:01:29Z",
-      "content": "Today, Sony released a new technical presentation from PlayStation architect Mark Cerny, in which he took a deep dive into the PS5 Pro in particular, the systems new AI upscaling tech, PlayStation Sp… [+9434 chars]"
+      "author": "Rebekah Valentine",
+      "title": "The True Horror of Fortnite's Skibidi Toilet Crossover Is Finally Revealed - IGN",
+      "description": "The dreaded and feared Skibidi Toilet has reared its truly ugly head in Fortnite at last. The rumored update officially dropped in the game last night, and so far it's prompting reactions of skepticism, confusion, and delight from the Fortnite community.",
+      "url": "https://www.ign.com/articles/the-true-horror-of-fortnites-skibidi-toilet-crossover-is-finally-revealed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/12/19/fortniteskibiditoilettrailer-ign-blogroll-1734620687410.jpg?width=1280",
+      "publishedAt": "2024-12-19T18:58:17Z",
+      "content": "The dreaded and feared Skibidi Toilet has reared its truly ugly head in Fortnite at last. The rumored update officially dropped in the game last night, and so far it's prompting reactions of skeptici… [+3314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple Watch Ultra 3: Three new features are coming next year - 9to5Mac",
+      "description": "Next year the Apple Watch Ultra 3 will finally arrive, two years after its predecessor—here are three new features expected to come with it.",
+      "url": "https://9to5mac.com/2024/12/19/apple-watch-ultra-3-three-new-features-coming-next-year/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Apple-Watch-Ultra-Release.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-19T18:47:00Z",
+      "content": "Apple Watch Ultra, outside of a very nice new titanium black, hasnt been meaningfully upgraded since 2023. But next year thats going to change when the Apple Watch Ultra 3 arrives. Here are three new… [+2200 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Kenneth Shepard",
-      "title": "Marvel Rivals Streamer Finds The Most Hilarious Use For Doctor Strange’s Portal Yet - Kotaku",
-      "description": "Making a portal that leads to a chasm is old news, as fans are finding more creative ways to use the ability",
-      "url": "https://kotaku.com/marvel-rivals-doctor-strange-portal-combo-exploit-kills-1851723986",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/36e499cc37f0a405000f575bdf987f6c.png",
-      "publishedAt": "2024-12-18T15:40:00Z",
-      "content": "Doctor Stranges portala skill that lets the sorcerer create a pathway between any two points on the mapis one of the most useful abilities in Marvel Rivals. Players have used it to set up game-changi… [+1656 chars]"
+      "author": "Ethan Gach",
+      "title": "More Switch 2 'Leaks' All Point To The Same Thing: A Bigger, More Powerful Version Of The Console Everyone Already Loves - Kotaku",
+      "description": "A Reddit leaker is the latest source of believable info about Nintendo's upcoming console",
+      "url": "https://kotaku.com/nintendo-switch-2-leaks-reveal-release-date-reddit-1851725408",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/81357e1e3e8d3c25dd779ee48a83c411.png",
+      "publishedAt": "2024-12-19T18:15:00Z",
+      "content": "Alleged Switch 2 leaks have only intensified as Nintendo stays silent heading into 2025. Weve had rumors about the timing of the reveal and elaborate mockups of what the console purportedly looks lik… [+3413 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Valve will be Lenovo’s ‘special guest’ at just-announced gaming handheld event - The Verge",
+      "description": "Microsoft’s ‘VP of Next Generation’ Xbox exec will also attend.",
+      "url": "https://www.theverge.com/2024/12/19/24325072/lenovo-legion-go-ces-event-valve-microsoft",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1iq8OQsq05uVWXyAxgf9OE-1rIk=/0x0:1320x880/1200x628/filters:focal(660x440:661x441)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788501/lenovolegiongos.jpg",
+      "publishedAt": "2024-12-19T17:38:40Z",
+      "content": "Valve will be Lenovos special guest at just-announced gaming handheld event\r\nValve will be Lenovos special guest at just-announced gaming handheld event\r\n / Microsofts VP of Next Generation Xbox exec… [+2625 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "physicsworld.com"
       },
-      "author": "Kyle Barr",
-      "title": "Leaked Nvidia DLSS 4 Details Suggest RTX 50-Series GPUs Will Have ‘Neural Rendering’ - Gizmodo",
-      "description": "Nvidia may reveal a DLSS 4 update to its AI upscaling suite that will help you run AI tasks and get better frames in games.",
-      "url": "https://gizmodo.com/leaked-nvidia-dlss-4-details-suggest-rtx-50-series-gpus-will-have-neural-rendering-2000540255",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Acer-Nitro-V-15-Cyberpunk-DLSS-copy.jpg",
-      "publishedAt": "2024-12-18T15:25:23Z",
-      "content": "We already know a lot about the upcoming big, hefty, and supposedly super-powered GPUs from Nvidia. But theres another side to Team Greens success, and thats in its DLSS upscaling software. The propr… [+3096 chars]"
+      "author": "Hamish Johnston",
+      "title": "Two advances in quantum error correction share the Physics World 2024 Breakthrough of the Year - physicsworld.com",
+      "description": "Complementary research brings practical quantum computing closer",
+      "url": "https://physicsworld.com/a/two-advances-in-quantum-error-correction-share-the-physics-world-2024-breakthrough-of-the-year/",
+      "urlToImage": "https://physicsworld.com/wp-content/uploads/2024/12/Breakthrough-of-the-year.jpg",
+      "publishedAt": "2024-12-19T16:57:28Z",
+      "content": "The Physics World 2024 Breakthrough of the Year goes to Mikhail Lukin, Dolev Bluvstein and colleagues at Harvard University, the Massachusetts Institute of Technology and QuEra Computing, and indepen… [+14506 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "[Removed]"
       },
-      "author": "Paul Tassi",
-      "title": "‘Marvel Rivals’ And ‘Path Of Exile 2’ Have Mirrored, Massive Playercounts - Forbes",
-      "description": "Chief among those are Marvel Rivals, the superhero shooter, and Path of Exile 2, where an Early Access build offers a significant preview of the full game to come.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/12/18/marvel-rivals-and-path-of-exile-2-have-mirrored-massive-playercounts/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6762e72965a09f5c865ed731/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-18T15:18:24Z",
-      "content": "Marvel Rivals/Path of Exile\r\nNetEase/GGG\r\nEarly December featured a host of last minute additions that were not timed to make it into The Game Awards 2024 slate, but they are proving to be some of th… [+2563 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-19T16:23:31Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Erik Hayden, Alex Weprin, Seth Abramovitch, Winston Cho, James Hibberd, Caitlin Huston, Pamela McClintock, Rick Porter, Georg Szalai",
+      "title": "Predicting Hollywood in 2025: The Next James Bond, Peak Taylor Sheridan and More - Hollywood Reporter",
+      "description": "Educated guesses, back-of-the napkin math and a between-the-lines read on what we’ll be talking about in the next 12 months.",
+      "url": "http://www.hollywoodreporter.com/lists/predicting-hollywood-2025-james-bond-taylor-sheridan/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/35rep_predictions-MAIN.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2024-12-19T16:13:08Z",
+      "content": "Image Credit: iStock/Getty Images\r\nNBCUniversal’s separated company SpinCo (aka where E!, MSNBC, CNBC and Oxygen will be housed) will move quickly to try and roll up the cable business, and companies… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Chris Pereira",
+      "title": "The Best Co-Op Games Of 2024 According To Metacritic - GameSpot",
+      "description": "From basketball courts to alien worlds teeming with hostile bugs, 2024 was a great gaming year to have a friend by your side.",
+      "url": "https://www.gamespot.com/gallery/the-best-co-op-games-of-2024-according-to-metacritic/2900-6089/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4417758-metacriticbestco-opgames2024.jpg",
+      "publishedAt": "2024-12-19T16:00:00Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jonathan Hilburg",
+      "title": "Asus ROG Zephyrus G16 (2024) review: an AMD upgrade - The Verge",
+      "description": "This sleek gaming laptop has an amazing OLED display, a powerful CPU, better battery life, and excellent build quality — and a price to match.",
+      "url": "https://www.theverge.com/24324299/asus-rog-zephyrus-g16-2024-gaming-laptop-review-amd-strix-point",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tST6bN6W8AP83xa-W9soU7gCk8g=/0x0:2040x1360/1200x628/filters:focal(1239x649:1240x650)/cdn.vox-cdn.com/uploads/chorus_asset/file/25696652/DSC_1121_Enhanced_NR.jpg",
+      "publishedAt": "2024-12-19T16:00:00Z",
+      "content": "The AMD Strix Point CPU in the Zephyrus G16 gives this gaming laptop a battery life boost over the Intel version. Unfortunately, the price is also boosted.\r\nDec 19, 2024, 4:00 PM UTC\r\nIf you buy some… [+14431 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "A new, uncensored AI video model may spark a new AI hobbyist movement - Ars Technica",
+      "description": "Will Tencent’s “open source” HunyuanVideo launch an at-home “Stable Diffusion” moment for uncensored AI video?",
+      "url": "https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/hunyuan_video_header_1-1152x648.jpg",
+      "publishedAt": "2024-12-19T15:50:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Instagram teases AI editing tools that will completely reimagine your videos - The Verge",
+      "description": "Instagram is planning to introduce a generative AI editing feature next year that will allow users to “change nearly any aspect of your videos.”",
+      "url": "https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HrpaoYZDR6F5EKYTTxDoJBrNa7k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25797424/Instagram_AI_video_editor_teaser.jpg",
+      "publishedAt": "2024-12-19T15:39:20Z",
+      "content": "Instagram teases AI editing tools that will completely reimagine your videos\r\nInstagram teases AI editing tools that will completely reimagine your videos\r\n / The feature uses Metas Movie Gen AI mode… [+2093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Will Judd",
+      "title": "Intel explains what went wrong with its new Arrow Lake desktop CPUs - Eurogamer",
+      "description": "The new Arrow Lake Core i9 285K and Core i5 245K desktop processors didn't live up to even conservative expectations - but now Intel has explained why.",
+      "url": "https://www.eurogamer.net/digitalfoundry-2024-intel-explains-what-went-wrong-with-its-new-arrow-lake-desktop-cpus",
+      "urlToImage": "https://assetsio.gnwcdn.com/DSCF8572_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-12-19T15:15:32Z",
+      "content": "Intel's new Core Ultra 200-series desktop processors, codenamed Arrow Lake, launched to seriously underwhelming reviews back in October. Now the American firm has collated five issues that it says ar… [+3855 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Kelvin Chan, The Associated Press",
+      "title": "Apple says Meta is crossing the line with requests that would let Facebook, Instagram, and Whatsapp read all of your messages and see every phone call you make - Fortune",
+      "description": "The iPhone maker is pushing back against the EU's \"interoperability\" guidelines to open up competition on iOS.",
+      "url": "https://fortune.com/2024/12/19/apple-meta-facebook-instagram-whatsapp-privacy-digital-markets-act/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/12/GettyImages-2188905195-e1734620345808.jpg?resize=1200,600",
+      "publishedAt": "2024-12-19T15:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Likely to Make Vision Pro Lineup More Affordable in Two Ways - MacRumors",
+      "description": "Apple plans to launch its next-generation Vision headsets as early as 2026, and they will likely be more affordable, according to TrendForce.   In...",
+      "url": "https://www.macrumors.com/2024/12/19/vision-pro-affordability/",
+      "urlToImage": "https://images.macrumors.com/t/SBzHPBLGxpliBkkqGJnoqytBGi8=/2500x/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg",
+      "publishedAt": "2024-12-19T14:55:29Z",
+      "content": "Apple plans to launch its next-generation Vision headsets as early as 2026, and they will likely be more affordable, according to TrendForce.\r\nIn line with previous rumors, the Taiwanese research fir… [+2104 chars]"
     }
   ]
 }
