@@ -1,201 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 62,
+  "totalResults": 68,
   "articles": [
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Google Keep might be joining the ranks of Android system apps - The Verge",
-      "description": "Google Keep is a system app on Android 16, rendering it uninstallable like other essentials apps for making calls, sending messaging, and other core functions.",
-      "url": "https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
-      "publishedAt": "2024-12-19T21:06:18Z",
-      "content": "Google Keep might be joining the ranks of Android system apps\r\nGoogle Keep might be joining the ranks of Android system apps\r\n / The note-taking app is considered a system app in Android 16 Developer… [+1183 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "Home Assistant’s Voice Preview Edition is a little box with big privacy powers - Ars Technica",
-      "description": "Home Assistant’s voice device is a $60 box that’s both focused and evolving.",
-      "url": "https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/Voice-Preview-Edition-Color-Device-1.-Diagonal-front-with-cable-Large-1152x648.jpeg",
-      "publishedAt": "2024-12-19T21:00:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Exclusive: Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z - TechCrunch",
-      "description": "Emmett Shear, the former CEO of Twitch and briefly an OpenAI interim CEO, is launching a new AI startup, TechCrunch has learned.",
-      "url": "https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/yx17E345-1.jpg?resize=1200,800",
-      "publishedAt": "2024-12-19T20:33:30Z",
-      "content": "Emmett Shear, the former CEO of Twitch, is launching a new AI startup, TechCrunch has learned. \r\nThe startup, called Stem AI, is currently in stealth. But public documents show it was incorporated in… [+3523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Gemini app widely rolling out 2.0 Flash model switcher on Android - 9to5Google",
-      "description": "After hitting the Google app beta on Monday, access to 2.0 Flash in the Gemini app on Android is now rolling out to stable users...",
-      "url": "http://9to5google.com/2024/12/19/gemini-2-0-flash-android/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Gemini-on-phone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-19T19:45:00Z",
-      "content": "After hitting the Google app beta channel on Monday, access to 2.0 Flash Experimental in the Gemini app on Android is now rolling out to stable users.\r\nThe Gemini app is powered by the Google (Search… [+1382 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "In just 4 months AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say - TechCrunch",
-      "description": "Anysphere, the developer of AI-powered coding assistant Cursor, raised $100 million Series B at a post-money valuation of $2.6 billion, according to",
-      "url": "https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2080972792.jpg?resize=1200,800",
-      "publishedAt": "2024-12-19T19:15:03Z",
-      "content": "Anysphere, the developer of AI-powered coding assistant Cursor, raised $100 million Series B at a post-money valuation of $2.6 billion, according to sources with knowledge of the deal. The round is b… [+2505 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Charles Rollet",
-      "title": "Exclusive: Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs - TechCrunch",
-      "description": "Led by Markforged veterans and backed by a16z, Backlip has raised $30M to democratize product design thanks to AI.",
-      "url": "https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/founders-greg-mark-david-benhaim.jpg?resize=1200,800",
-      "publishedAt": "2024-12-19T19:06:55Z",
-      "content": "What if it were as easy to generate a usable 3D design as prompting ChatGPT? Thats the mission of Backflip, a startup founded by 3D printing veterans thats just scored $30 million from Andreessen Hor… [+3472 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "The True Horror of Fortnite's Skibidi Toilet Crossover Is Finally Revealed - IGN",
-      "description": "The dreaded and feared Skibidi Toilet has reared its truly ugly head in Fortnite at last. The rumored update officially dropped in the game last night, and so far it's prompting reactions of skepticism, confusion, and delight from the Fortnite community.",
-      "url": "https://www.ign.com/articles/the-true-horror-of-fortnites-skibidi-toilet-crossover-is-finally-revealed",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/12/19/fortniteskibiditoilettrailer-ign-blogroll-1734620687410.jpg?width=1280",
-      "publishedAt": "2024-12-19T18:58:17Z",
-      "content": "The dreaded and feared Skibidi Toilet has reared its truly ugly head in Fortnite at last. The rumored update officially dropped in the game last night, and so far it's prompting reactions of skeptici… [+3314 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Apple Watch Ultra 3: Three new features are coming next year - 9to5Mac",
-      "description": "Next year the Apple Watch Ultra 3 will finally arrive, two years after its predecessor—here are three new features expected to come with it.",
-      "url": "https://9to5mac.com/2024/12/19/apple-watch-ultra-3-three-new-features-coming-next-year/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Apple-Watch-Ultra-Release.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-19T18:47:00Z",
-      "content": "Apple Watch Ultra, outside of a very nice new titanium black, hasnt been meaningfully upgraded since 2023. But next year thats going to change when the Apple Watch Ultra 3 arrives. Here are three new… [+2200 chars]"
+      "title": "iPhone 17 Pro: Seven new features are coming next year - 9to5Mac",
+      "description": "Apple’s iPhone 17 Pro and 17 Pro Max will be packed with a variety of upgrades, here are seven new features coming next year.",
+      "url": "https://9to5mac.com/2024/12/20/iphone-17-pro-seven-new-features-are-coming-next-year/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-front-camera-top.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-20T20:20:00Z",
+      "content": "Next year is set to be big for the iPhone, with a compelling new iPhone SE 4 in the spring and the ultra-thin iPhone 17 Air in the fall. But what about Apples flagship Pro models? Here are seven new … [+3199 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Tom's Guide"
       },
-      "author": "Ethan Gach",
-      "title": "More Switch 2 'Leaks' All Point To The Same Thing: A Bigger, More Powerful Version Of The Console Everyone Already Loves - Kotaku",
-      "description": "A Reddit leaker is the latest source of believable info about Nintendo's upcoming console",
-      "url": "https://kotaku.com/nintendo-switch-2-leaks-reveal-release-date-reddit-1851725408",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/81357e1e3e8d3c25dd779ee48a83c411.png",
-      "publishedAt": "2024-12-19T18:15:00Z",
-      "content": "Alleged Switch 2 leaks have only intensified as Nintendo stays silent heading into 2025. Weve had rumors about the timing of the reveal and elaborate mockups of what the console purportedly looks lik… [+3413 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "Valve will be Lenovo’s ‘special guest’ at just-announced gaming handheld event - The Verge",
-      "description": "Microsoft’s ‘VP of Next Generation’ Xbox exec will also attend.",
-      "url": "https://www.theverge.com/2024/12/19/24325072/lenovo-legion-go-ces-event-valve-microsoft",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1iq8OQsq05uVWXyAxgf9OE-1rIk=/0x0:1320x880/1200x628/filters:focal(660x440:661x441)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788501/lenovolegiongos.jpg",
-      "publishedAt": "2024-12-19T17:38:40Z",
-      "content": "Valve will be Lenovos special guest at just-announced gaming handheld event\r\nValve will be Lenovos special guest at just-announced gaming handheld event\r\n / Microsofts VP of Next Generation Xbox exec… [+2625 chars]"
+      "author": "Rory Mellon",
+      "title": "Massive PlayStation sale live with PS5 games from $3 — here’s the 17 deals I’d buy - Tom's Guide",
+      "description": "PlayStation Store Holiday Sale arrives with epic PS5 deals",
+      "url": "https://www.tomsguide.com/gaming/playstation/playstation-launches-final-sale-of-the-year-with-ps5-games-from-usd3-heres-the-15-deals-id-buy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BBPBZps9qEWmSZiV3un6Nh-1200-80.jpg",
+      "publishedAt": "2024-12-20T19:51:20Z",
+      "content": "PlayStation Store just launched its massive Holiday Sale, and it was worth the wait. I track gaming sales every day and this is among the most impressive collection of PS5 game deals I’ve seen in 202… [+1186 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "physicsworld.com"
+        "name": "Thedirect.com"
       },
-      "author": "Hamish Johnston",
-      "title": "Two advances in quantum error correction share the Physics World 2024 Breakthrough of the Year - physicsworld.com",
-      "description": "Complementary research brings practical quantum computing closer",
-      "url": "https://physicsworld.com/a/two-advances-in-quantum-error-correction-share-the-physics-world-2024-breakthrough-of-the-year/",
-      "urlToImage": "https://physicsworld.com/wp-content/uploads/2024/12/Breakthrough-of-the-year.jpg",
-      "publishedAt": "2024-12-19T16:57:28Z",
-      "content": "The Physics World 2024 Breakthrough of the Year goes to Mikhail Lukin, Dolev Bluvstein and colleagues at Harvard University, the Massachusetts Institute of Technology and QuEra Computing, and indepen… [+14506 chars]"
+      "author": "Sam Hargrave",
+      "title": "Marvel Rivals Announces Free Skin Event: How to Be Eligible For Streamer Giveaway - The Direct",
+      "description": "Want to unlock one of Marvel Rivals' store skins for free? You've come to the right place.",
+      "url": "https://thedirect.com/article/marvel-rivals-free-skin-event-streamer-giveaway",
+      "urlToImage": "https://images.thedirect.com/media/article_full/rivalsfreeskins.jpg",
+      "publishedAt": "2024-12-20T18:05:21Z",
+      "content": "Marvel Rivalshas added a new way for players to unlock skins from the store for free, and here's how to become eligible.\r\nUnder a month after launching, Marvel Rivals is gearing up to begin its first… [+4155 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Windows Central"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-19T16:23:31Z",
-      "content": "[Removed]"
+      "author": "Samuel Tolbert",
+      "title": "Xbox has a new \"VP of next-gen\" and they'll be at CES alongside Lenovo ... but what could it mean for Xbox's future? - Windows Central",
+      "description": "Lenovo's gaming handheld presentation is being held at CES 2025 on January 7, and Xbox's Jason Ronald will be in attendance.",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-has-a-new-vp-of-next-gen-and-theyll-be-at-ces-alongside-lenovo-but-what-could-it-mean-for-xboxs-future",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oDNwk4qrPiBTKDa9us7J3B-1200-80.jpg",
+      "publishedAt": "2024-12-20T17:59:54Z",
+      "content": "2025 is looking to bring some interesting developments in the world of portable gaming devices.\r\nLenovo is holding an event at CES 2025 on the future of gaming handhelds and, as seen in an email by T… [+3536 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff, Kyle Wiggers",
+      "title": "OpenAI announces new o3 models - TechCrunch",
+      "description": "OpenAI saved its biggest announcement for the last day of its 12-day \"shipmas\" event. On Friday, the company unveiled o3, the successor to the o1",
+      "url": "https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
+      "publishedAt": "2024-12-20T17:56:57Z",
+      "content": "OpenAI saved its biggest announcement for the last day of its 12-day “shipmas” event.\r\nOn Friday, the company unveiled o3, the successor to the o1 “reasoning” model it released earlier in the year. o… [+7357 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "Theregister.com"
       },
-      "author": "Erik Hayden, Alex Weprin, Seth Abramovitch, Winston Cho, James Hibberd, Caitlin Huston, Pamela McClintock, Rick Porter, Georg Szalai",
-      "title": "Predicting Hollywood in 2025: The Next James Bond, Peak Taylor Sheridan and More - Hollywood Reporter",
-      "description": "Educated guesses, back-of-the napkin math and a between-the-lines read on what we’ll be talking about in the next 12 months.",
-      "url": "http://www.hollywoodreporter.com/lists/predicting-hollywood-2025-james-bond-taylor-sheridan/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/35rep_predictions-MAIN.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2024-12-19T16:13:08Z",
-      "content": "Image Credit: iStock/Getty Images\r\nNBCUniversal’s separated company SpinCo (aka where E!, MSNBC, CNBC and Oxygen will be housed) will move quickly to try and roll up the cable business, and companies… [+481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Chris Pereira",
-      "title": "The Best Co-Op Games Of 2024 According To Metacritic - GameSpot",
-      "description": "From basketball courts to alien worlds teeming with hostile bugs, 2024 was a great gaming year to have a friend by your side.",
-      "url": "https://www.gamespot.com/gallery/the-best-co-op-games-of-2024-according-to-metacritic/2900-6089/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4417758-metacriticbestco-opgames2024.jpg",
-      "publishedAt": "2024-12-19T16:00:00Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jonathan Hilburg",
-      "title": "Asus ROG Zephyrus G16 (2024) review: an AMD upgrade - The Verge",
-      "description": "This sleek gaming laptop has an amazing OLED display, a powerful CPU, better battery life, and excellent build quality — and a price to match.",
-      "url": "https://www.theverge.com/24324299/asus-rog-zephyrus-g16-2024-gaming-laptop-review-amd-strix-point",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tST6bN6W8AP83xa-W9soU7gCk8g=/0x0:2040x1360/1200x628/filters:focal(1239x649:1240x650)/cdn.vox-cdn.com/uploads/chorus_asset/file/25696652/DSC_1121_Enhanced_NR.jpg",
-      "publishedAt": "2024-12-19T16:00:00Z",
-      "content": "The AMD Strix Point CPU in the Zephyrus G16 gives this gaming laptop a battery life boost over the Intel version. Unfortunately, the price is also boosted.\r\nDec 19, 2024, 4:00 PM UTC\r\nIf you buy some… [+14431 chars]"
+      "author": "Brandon Vigliarolo",
+      "title": "Apple called on to ditch AI headline summaries after BBC debacle - The Register",
+      "description": "'Facts can't be decided by a roll of the dice'",
+      "url": "https://www.theregister.com/2024/12/20/apple_ai_headline_summaries/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/09/shutterstock_2477800659.jpg",
+      "publishedAt": "2024-12-20T17:36:00Z",
+      "content": "Press freedom advocates are urging Apple to ditch an \"immature\" generative AI system that incorrectly summarized a BBC news notification that incorrectly related that suspected UnitedHealthcare CEO s… [+2507 chars]"
     },
     {
       "source": {
@@ -203,64 +86,181 @@
         "name": "Ars Technica"
       },
       "author": "Benj Edwards",
-      "title": "A new, uncensored AI video model may spark a new AI hobbyist movement - Ars Technica",
-      "description": "Will Tencent’s “open source” HunyuanVideo launch an at-home “Stable Diffusion” moment for uncensored AI video?",
-      "url": "https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/hunyuan_video_header_1-1152x648.jpg",
-      "publishedAt": "2024-12-19T15:50:10Z",
+      "title": "New AA-powered AirTag case promises 10-year lifespan - Ars Technica",
+      "description": "Aluminum AirTag case replaces coin cell with 2 AA Lithium batteries for extended lifespan.",
+      "url": "https://arstechnica.com/gadgets/2024/12/10-year-airtag-battery-case-may-solve-annual-replacement-hassle/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/timecapsule_hero_1-1152x648.jpg",
+      "publishedAt": "2024-12-20T17:23:06Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "The EU wants Apple to open AirDrop and AirPlay to Android and other platforms - 9to5Google",
+      "description": "A new mandate from the EU may force Apple to open AirDrop and AirPlay, among other features, to Android and other platforms.",
+      "url": "http://9to5google.com/2024/12/20/eu-apple-airdrop-airplay-android-more/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/iPhone-16-Pro-Max-and-Pixel-9-Pro-XL-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-20T17:15:00Z",
+      "content": "EU regulation has led to Apple being forced to open up iOS in ways that many never expected, but it’s not done just yet. In an effort to ensure “effective interoperability” with other platforms, the … [+2521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Industry Analyst Argues Either Sony or Microsoft Will Need to Exit the Console Market - Push Square",
+      "description": "Three's a crowd",
+      "url": "https://www.pushsquare.com/news/2024/12/industry-analyst-argues-either-sony-or-microsoft-will-need-to-exit-the-console-market",
+      "urlToImage": "https://images.pushsquare.com/49b59c7b6efdf/1280x720.jpg",
+      "publishedAt": "2024-12-20T17:00:00Z",
+      "content": "Image: Push Square\r\nOne of either Sony or Microsoft must exit the console space, argues analyst group DFC Intelligence. Thats because it believes there isnt room for more than two major console syste… [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Files by Google will support Gemini’s ‘Ask about this PDF’ - 9to5Google",
+      "description": "Files by Google has detailed a trio of new features, including integration with Gemini’s upcoming \"Ask about this PDF.\"",
+      "url": "http://9to5google.com/2024/12/20/files-by-google-gemini/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/files-by-google-tablet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-20T16:54:00Z",
+      "content": "After rolling out a new PDF viewer, Files by Google has detailed a trio of new features, including integration with Geminis upcoming “Ask about this PDF” functionality.\r\n<ul><li>Ask Gemini about a PD… [+1528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Millie Davis-Williams",
+      "title": "Massive Best Buy weekend sale live — 27 last-minute deals on laptops, TVs, iPhones and more - Tom's Guide",
+      "description": "Shop the best sales in Best Buy's last-minute deals section",
+      "url": "https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-live-25-last-minute-deals-on-laptops-tvs-iphones-and-more",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDVXEE4BBpowqDLiF9KkoD-1200-80.jpg",
+      "publishedAt": "2024-12-20T16:51:20Z",
+      "content": "Black Friday is a distant memory now, so it’s all about holiday savings. Best Buy is stepping up with awesome last-minute deals, so act fast if you want to grab some bargains.\r\nApple fans, listen up!… [+778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Justin Clark",
+      "title": "10 Awesome Movie-To-Game Adaptations To Play After Indiana Jones And The Great Circle - Kotaku",
+      "description": "We went digging in the right places to find movie adaptations that don’t suck",
+      "url": "https://kotaku.com/best-movie-video-game-adaptations-indiana-jones-alien-1851726380",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/65d07507b63d7c70d0b58169b5319d45.jpg",
+      "publishedAt": "2024-12-20T16:47:41Z",
+      "content": "Its hard to say whats more of a bummer, folks. Was it the dark days where every single big blockbuster movie got a shitty tie-in video game crunched out by some poor dev team in six months to launch … [+1355 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jess Weatherbed",
-      "title": "Instagram teases AI editing tools that will completely reimagine your videos - The Verge",
-      "description": "Instagram is planning to introduce a generative AI editing feature next year that will allow users to “change nearly any aspect of your videos.”",
-      "url": "https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HrpaoYZDR6F5EKYTTxDoJBrNa7k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25797424/Instagram_AI_video_editor_teaser.jpg",
-      "publishedAt": "2024-12-19T15:39:20Z",
-      "content": "Instagram teases AI editing tools that will completely reimagine your videos\r\nInstagram teases AI editing tools that will completely reimagine your videos\r\n / The feature uses Metas Movie Gen AI mode… [+2093 chars]"
+      "author": "Victoria Song",
+      "title": "Apple begins pulling iPhone SE, 14, and 14 Plus from EU - The Verge",
+      "description": "Ahead of the December 28th deadline to switch to USB-C, Apple has removed the iPhone SE, 14, and 14 Plus from its Swiss online store.",
+      "url": "https://www.theverge.com/2024/12/20/24325893/apple-usb-c-eu-iphone-se-iphone-14-iphone-14-plus",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/D9kxfoStLQGQm9K7gfv8WpeKw68=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24083306/DSC03728_processed.jpg",
+      "publishedAt": "2024-12-20T16:43:54Z",
+      "content": "Apple begins pulling iPhone SE, 14, and 14 Plus from EU\r\nApple begins pulling iPhone SE, 14, and 14 Plus from EU\r\n / The move comes about a week ahead of an EU regulation requiring USB-C.\r\nByVictoria… [+1441 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Will Judd",
-      "title": "Intel explains what went wrong with its new Arrow Lake desktop CPUs - Eurogamer",
-      "description": "The new Arrow Lake Core i9 285K and Core i5 245K desktop processors didn't live up to even conservative expectations - but now Intel has explained why.",
-      "url": "https://www.eurogamer.net/digitalfoundry-2024-intel-explains-what-went-wrong-with-its-new-arrow-lake-desktop-cpus",
-      "urlToImage": "https://assetsio.gnwcdn.com/DSCF8572_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-12-19T15:15:32Z",
-      "content": "Intel's new Core Ultra 200-series desktop processors, codenamed Arrow Lake, launched to seriously underwhelming reviews back in October. Now the American firm has collated five issues that it says ar… [+3855 chars]"
+      "author": "Emma Roth",
+      "title": "Google Fiber’s internet plans are getting simpler - The Verge",
+      "description": "Google has simplified its internet plans in Nashville, Tennessee and Huntsville, Alabama, as it now offers Core 1 Gig, Home 3 Gig, and Edge 8 Gig options.",
+      "url": "https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1O6Nw43BwHhZbxMJnn_zMaPUItE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24957510/236811_WIFI_STOCK_CVirginia_3.jpg",
+      "publishedAt": "2024-12-20T16:02:43Z",
+      "content": "Google Fibers internet plans are getting simpler\r\nGoogle Fibers internet plans are getting simpler\r\n / The company has rolled out new Core 1 Gig, Home 3 Gig, and Edge 8 Gig plans in two cities.\r\nByEm… [+2138 chars]"
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kelvin Chan, The Associated Press",
-      "title": "Apple says Meta is crossing the line with requests that would let Facebook, Instagram, and Whatsapp read all of your messages and see every phone call you make - Fortune",
-      "description": "The iPhone maker is pushing back against the EU's \"interoperability\" guidelines to open up competition on iOS.",
-      "url": "https://fortune.com/2024/12/19/apple-meta-facebook-instagram-whatsapp-privacy-digital-markets-act/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/12/GettyImages-2188905195-e1734620345808.jpg?resize=1200,600",
-      "publishedAt": "2024-12-19T15:03:00Z",
+      "author": "Quentyn Kennemer",
+      "title": "The MacBook Pro with M4 is matching its record low with $200 off - The Verge",
+      "description": "The base M4 MacBook Pro is matching its all-time low price. You can also catch Apple AirTags and Beats Studio Buds Plus at their lowest prices yet.",
+      "url": "https://www.theverge.com/2024/12/20/24325777/apple-macbook-pro-m4-beats-studio-buds-plus-airtags-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yB2TwnEC4kNiSxhy73v67LQ9FeU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718399/247372_MacBook_Pro_M4_ADiBenedetto_0038.jpg",
+      "publishedAt": "2024-12-20T15:59:33Z",
+      "content": "The MacBook Pro with M4 is matching its record low with $200 off\r\nThe MacBook Pro with M4 is matching its record low with $200 off\r\n / You can also catch Apple AirTags and Beats Studio Buds Plus at t… [+3978 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Google and OpenAI blitz December with so many AI releases, it’s hard to keep up - Ars Technica",
+      "description": "Potentially groundbreaking AI releases have been coming in fast, sending experts’ heads spinning.",
+      "url": "https://arstechnica.com/information-technology/2024/12/google-and-openai-blitz-december-with-so-many-ai-releases-its-hard-to-keep-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/speedy_wind_dog-1-1152x648.jpg",
+      "publishedAt": "2024-12-20T15:44:05Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "BBC News"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Likely to Make Vision Pro Lineup More Affordable in Two Ways - MacRumors",
-      "description": "Apple plans to launch its next-generation Vision headsets as early as 2026, and they will likely be more affordable, according to TrendForce.   In...",
-      "url": "https://www.macrumors.com/2024/12/19/vision-pro-affordability/",
-      "urlToImage": "https://images.macrumors.com/t/SBzHPBLGxpliBkkqGJnoqytBGi8=/2500x/article-new/2023/06/Apple-Vision-Pro-with-battery-Feature-Blue-Magenta.jpg",
-      "publishedAt": "2024-12-19T14:55:29Z",
-      "content": "Apple plans to launch its next-generation Vision headsets as early as 2026, and they will likely be more affordable, according to TrendForce.\r\nIn line with previous rumors, the Taiwanese research fir… [+2104 chars]"
+      "author": "Alex Miller",
+      "title": "50 years of The Oregon Trail: The hidden controversies of a video game that defined the US - BBC.com",
+      "description": "The Oregon Trail was once the most widely distributed software in US schools. It gripped a generation and changed gaming forever, but debates rage on about the history it depicts.",
+      "url": "https://www.bbc.com/future/article/20241219-the-oregon-trail-how-a-50-year-old-video-game-defined-america",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0kd3lk9.jpg",
+      "publishedAt": "2024-12-20T14:52:50Z",
+      "content": "The Oregon Trail was once the most widely distributed software in US schools. It gripped a generation and changed gaming forever, but debates rage on about the history it depicts.\r\nIn the autumn of 1… [+15153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Drive"
+      },
+      "author": "Ronan Glon",
+      "title": "Chevy Corvette ZR1 Hits 60 MPH Faster Than Any Lamborghini or McLaren - The Drive",
+      "description": "The ZR1's 0-to-60-mph time of 2.3 seconds equals the Bugatti Chiron, at less than a tenth of the price.",
+      "url": "https://www.thedrive.com/news/chevy-corvette-zr1-hits-60-mph-faster-than-any-lamborghini-or-mclaren",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2024/12/cropped-chevrolet-corvette-zr1-coupe-001.jpg",
+      "publishedAt": "2024-12-20T14:02:58Z",
+      "content": "The numbers are in, and they’re damned impressive. Designed to take on Europe’s most elite crop of supercars, the 2025 Chevrolet Corvette ZR1 stands proud as the fastest car General Motors has ever p… [+2266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "author": "Alyssa Shelasky",
+      "title": "The 9 Best Sex Diaries of 2024 - The Cut",
+      "description": "Every week, the Cut’s Sex Diaries column features a new sex and dating story from an anonymous city dweller. Here are 9 that resonated the most with readers this year.",
+      "url": "http://www.thecut.com/article/best-sex-diaries-story-2024.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/17e/ecb/ea3561c1f59fef15626ade03ec955dd943-Diaries-Round6-12.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-12-20T14:00:09Z",
+      "content": "Every week, the Cut posts a new sex diary anonymous accounts from city dwellers about a week in their sex lives. Below, the nine that resonated with readers most, from a 43-year-old divorced dad whos… [+3518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "More 'Free' Games Have Launched On Xbox This Month, Along With New Demos & Trials - Pure Xbox",
+      "description": "There's a lot to check out this Christmas!",
+      "url": "https://www.purexbox.com/news/2024/12/more-free-games-have-launched-on-xbox-this-month-along-with-new-demos-and-trials",
+      "urlToImage": "https://images.purexbox.com/baeb7bfb5f322/1280x720.jpg",
+      "publishedAt": "2024-12-20T14:00:00Z",
+      "content": "Image: Slitterhead\r\nThings might have quietened down when it comes to Xbox Game Pass additions and even just new Xbox releases over the past couple of weeks, but there are a whole bunch of free goodi… [+1875 chars]"
     }
   ]
 }
