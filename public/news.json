@@ -1,84 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 69,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
+      },
+      "author": null,
+      "title": "Bungie’s C-Suite Restructuring Continues As Chief Strategy and Creative Officers Depart - TheGamePost",
+      "description": "Bungie's leadership reshuffle continues as Chief Strategy and Creative Officers depart amidst ongoing structural changes.",
+      "url": "https://thegamepost.com/bungies-c-suite-restructuring-chief-strategy-creative-officers-depart/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/12/bungies-c-suite-restructuring-chief-strategy-creative-officers-depart-3.webp",
+      "publishedAt": "2024-12-23T20:02:54Z",
+      "content": "Bungie’s leadership reshuffle continues as Chief Strategy and Creative Officers depart amidst ongoing structural changes.\r\nBungie, the studio behind the hit franchise Destiny 2 and the upcoming Marat… [+3425 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Michael Burkhardt",
-      "title": "iPhone 17 Air suddenly makes a lot more sense after this new rumor - 9to5Mac",
-      "description": "Last week, The Wall Street Journal reported that the iPhone 17 Air will cost less than the iPhone Pro models,...",
-      "url": "https://9to5mac.com/2024/12/22/iphone-17-air-pricing-rumor/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/iPhone-Air-mockup-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-22T22:02:00Z",
-      "content": "Last week, The Wall Street Journalreported that the iPhone 17 Air will cost less than the iPhone Pro models, contradicting the long-standing expectation that the new ultra-thin iPhone would be even m… [+2925 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Four advantages iPhone 17 Air will have over the iPhone 17 Pro - 9to5Mac",
+      "description": "Apple is releasing a brand new, ultra-thin iPhone next year. Here are four advantages the iPhone 17 Air will have over the iPhone 17 Pro.",
+      "url": "https://9to5mac.com/2024/12/23/four-advantages-iphone-17-air-will-have-over-iphone-17-pro/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/iphone-17-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T19:58:00Z",
+      "content": "Next years iPhone purchase decision will be especially tough for a lot of users. The iPhone 17 Pro and Pro Max both have a lot going for them, but so too will the new iPhone 17 Air. Here are four adv… [+3459 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "The quest to save the world’s largest CRT TV from destruction - Ars Technica",
+      "description": "440-pound 1980s behemoth rescued from an Osaka restaurant days before demolition.",
+      "url": "https://arstechnica.com/gaming/2024/12/retro-gamers-save-one-of-the-last-45-inch-crt-tvs-in-existence/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/pvm4300-1152x648-1734981707.png",
+      "publishedAt": "2024-12-23T19:48:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Asus teases a new RGB-outlined Rog Strix laptop coming next year - The Verge",
+      "description": "Asus is getting ready to take the wraps off a new lineup of RGB-lined Rog Strix laptops at CES on January 6th, 2025.",
+      "url": "https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/veKk5zFFOD5TEp_qKI7VUSh7o7U=/0x0:2562x1460/1200x628/filters:focal(1265x726:1266x727)/cdn.vox-cdn.com/uploads/chorus_asset/file/25803482/asus_rog_strix_teaser.png",
+      "publishedAt": "2024-12-23T19:47:31Z",
+      "content": "Asus teases a new RGB-outlined Rog Strix laptop coming next year\r\nAsus teases a new RGB-outlined Rog Strix laptop coming next year\r\n / Rumors hint at new Rog Strix laptops with RTX 50-series GPUs com… [+202 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComicBook.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Logan Moore",
-      "title": "New Terminator Game Leaks Ahead of Reveal - ComicBook.com",
-      "description": "Another Terminator video game seems to be on the way and it could be a sequel to one of the most popular games ever tied to the franchise.",
-      "url": "http://comicbook.com/gaming/news/terminator-games-resistance-sequel-leak/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/Terminator-Resistance.jpg?resize=2000,1125",
-      "publishedAt": "2024-12-22T20:07:19Z",
-      "content": "A new video game tied to the Terminator film franchise has leaked ahead of an official announcement. Since the early 1990s, Terminator games have been coming about on a routine basis. Many of these g… [+1770 chars]"
+      "author": "ShantiPutri",
+      "title": "AMD's Stock Soars Amid Buzz Over New CPUs and GPUs - Yahoo Finance",
+      "description": "Tech Enthusiasts Anticipate the Release of Ryzen 9 9950X3D and RDNA 4 GPUs",
+      "url": "https://finance.yahoo.com/news/amds-stock-soars-amid-buzz-194611576.html",
+      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/24eb8d76c9f14db974e4d79199c3aab8",
+      "publishedAt": "2024-12-23T19:46:11Z",
+      "content": "AMD (NASDAQ:AMD) soars 4.76% today as investors see that tech enthusiasts are buzzing around AMD's rumored launching of its new CPUs and GPUs early next year, which is only several days away.\r\nAMD is… [+1541 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "$2,100 mechanical keyboard has 800 holes, NYC skyscraper looks - Ars Technica",
+      "description": "No, four figures does not get you a numpad.",
+      "url": "https://arstechnica.com/gadgets/2024/12/2100-mechanical-keyboard-has-800-holes-nyc-skyscraper-looks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/head-e1734971696954-1152x648.jpg",
+      "publishedAt": "2024-12-23T18:09:39Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Overkill.wtf"
+        "name": "[Removed]"
       },
-      "author": "Kevin Wammer",
-      "title": "The State of Steam Deck survey 2024: The results are in - Overkill.wtf",
-      "description": "We surveyed over 3,800 Steam Deck owners to see what they think about Valve's portable PC. Here's what they think!",
-      "url": "https://overkill.wtf/steam-deck-survey-2024/",
-      "urlToImage": "https://overkill.wtf/content/images/2024/12/steam-deck-survey-2024-1.png",
-      "publishedAt": "2024-12-22T20:00:06Z",
-      "content": "We surveyed over 3,800 Steam Deck owners to see what they think about Valve's portable PC. Here's what they think!\r\nOver the last few weeks, Chris and I have been digging into 2024's Steam Deck Surve… [+13489 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-23T17:46:12Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Nintendo.com"
       },
-      "author": "Anil Ganti",
-      "title": "Gargantuan AMD RDNA 4 leak reveals names and tentative specifications of desktop and laptop GPUs due to launch at CES 2025 - Notebookcheck.net",
-      "description": "A leaker has dropped the mother lode of all AMD RDNA 4 leaks. It tells us what each desktop and laptop GPU will be called, and another one sheds light on their tentative specifications. As speculated earlier, AMD will adopt a new naming scheme yet again.",
-      "url": "https://www.notebookcheck.net/Gargantuan-AMD-RDNA-4-leak-reveals-names-and-tentative-specifications-of-desktop-and-laptop-GPUs-due-to-launch-at-CES-2025.935868.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/a-new-leak-has-revealed-the-complete-list-of-AMD-RDNA-4-desktop-and-laptop-graphics-cards.jpg",
-      "publishedAt": "2024-12-22T19:57:00Z",
-      "content": "A previous leak told us, AMD planned to change how it calls its GPUs starting with RDNA 4. The first digit would start with '9', followed by a '0' and the third would denote a SKU's place in the hier… [+2596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Jay Bonggolto",
-      "title": "Google TV sneaks in dozens of new free channels for you to skip over - Android Central",
-      "description": "Google TV beefs up its free channel lineup to more than 170.",
-      "url": "https://www.androidcentral.com/apps-software/google-tv-sneaks-in-dozens-of-new-free-channels-for-you-to-skip-over",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oXcrZwfzk2M2rzeMv2kqtQ-1200-80.jpg",
-      "publishedAt": "2024-12-22T18:20:57Z",
-      "content": "What you need to know\r\n<ul><li>Google TV now offers over 170 free channels, giving US viewers even more content to explore.</li><li>The update is available for anyone with the latest Google TV softwa… [+2517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "Gabriel Machado Pureza",
-      "title": "Epic Games Store Fifth Free Mystery Game Revealed - GameRant",
-      "description": "The Epic Games Store reveals the fifth free Mystery Game that users can add to their digital libraries, but they only have 24 hours to claim it.",
-      "url": "https://gamerant.com/epic-games-store-free-mystery-games-list-december-2024-wizard-of-legend/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/epic-games-free-mystery-game.jpg",
-      "publishedAt": "2024-12-22T17:10:00Z",
-      "content": "Summary\r\n<ul><li>\r\n The Epic Games Store is offering daily free Mystery Games during the end of December, with Wizard of Legend as the latest one.\r\n </li><li>\r\n Wizard of Legend focuses on dynamic ma… [+3501 chars]"
+      "author": null,
+      "title": "Hits for the Holidays Sale: Save up to 50% on select games - Nintendo",
+      "description": "Save on popular games during the Hits for the Holidays Sale! Here's a great opportunity to stock up on popular games for the Nintendo Switch™ system! For a limited time, find great deals on select games when you shop on Nintendo.com or Nintendo eSho…",
+      "url": "https://www.nintendo.com/us/whatsnew/hits-for-the-holidays-sale-save-up-to-50-on-select-games/",
+      "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "publishedAt": "2024-12-23T17:01:04Z",
+      "content": "Save on popular games during the Hits for the Holidays Sale!\r\nHere's a great opportunity to stock up on popular games for the Nintendo Switch system! For a limited time, find great deals on select ga… [+440 chars]"
     },
     {
       "source": {
@@ -86,12 +112,38 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Why I don’t think the Galaxy S24 Ultra was 2024’s best smartphone - 9to5Google",
-      "description": "There were some really good devices released in 2024, but I don't think the Galaxy S24 Ultra deserves to be the year's best smartphone.",
-      "url": "http://9to5google.com/2024/12/22/was-galaxy-s24-ultra-2024-best-smartphone/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/samsung-galaxy-s24-ultra-1-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-22T17:00:00Z",
-      "content": "There were a lot of good smartphones released in 2024, and it’s actually not easy to settle on “the best.” But, for me at least, I struggle to put the Galaxy S24 Ultra at the top of that list.\r\nIn re… [+5126 chars]"
+      "title": "Report: Samsung slashes 2025 foldable plans after Galaxy Z Fold 6 and Flip 6 failed - 9to5Google",
+      "description": "According to a new report, Samsung is slashing production plans for its 2025 foldable devices amid Galaxy Z Fold 6 and Flip 6 failures.",
+      "url": "http://9to5google.com/2024/12/23/samsung-2025-foldable-production-report/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-z-fold-6-37.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T16:45:00Z",
+      "content": "According to a report out of Korea, Samsung is cutting down significantly on its plans for 2025 Galaxy foldables as it reflects on the Galaxy Z Fold 6 and Flip 6, which ultimately failed to meet expe… [+1861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Anubhav Sharma",
+      "title": "Epic Games Store: New free game giveaway worth $30 now available to claim, but only for 24 hours - Notebookcheck.net",
+      "description": "Epic Games Store’s latest free game giveaway is a thrilling multiplayer dungeon crawler, available for only 24 hours. Featuring intense PvPvE gameplay and treasure hunting, it's priced at $30 on Steam.",
+      "url": "https://www.notebookcheck.net/Epic-Games-Store-New-free-game-giveaway-worth-30-now-available-to-claim-but-only-for-24-hours.936130.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Epic-Games-Store-Free-Game-giveaway-December-23.jpg",
+      "publishedAt": "2024-12-23T16:20:00Z",
+      "content": "After some speculation and a reliable leak pointing towards it, Dark and Darker (bundled with the Legendary Status DLC) has officially been revealed as Epic Games Stores free game for December 23. Th… [+1518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "This one new feature might finally bring me back to the Mac in 2025 - 9to5Mac",
+      "description": "After nearly a decade of full-time iPad Pro use, there’s one new Vision Pro feature that might bring me back to the Mac in 2025 and beyond.",
+      "url": "https://9to5mac.com/2024/12/23/new-feature-back-to-the-mac-in-2025/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/m4-macbook-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T16:12:00Z",
+      "content": "Ive used an iPad Pro as my primary computer for years, despite occasionally testing the waters with the Mac. For various reasons, Ive always stuck with the iPad, but one new feature Apple just shippe… [+3494 chars]"
     },
     {
       "source": {
@@ -99,168 +151,116 @@
         "name": "Eurogamer.net"
       },
       "author": "Vikki Blake",
-      "title": "The year's Steam Replay reveals 85% of Steam users in 2024 spent time playing games released in 2023 or earlier - Eurogamer",
-      "description": "Just 15 percent of Steam players spent time with new releases - defined as games released in 2024 - this year.",
-      "url": "https://www.eurogamer.net/the-years-steam-replay-reveals-85-of-steam-users-in-2024-spent-time-playing-games-released-in-2023-or-earlier",
-      "urlToImage": "https://assetsio.gnwcdn.com/steam_ROoZJs3_d5erV0U.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-12-22T16:37:41Z",
-      "content": "Just 15 percent of Steam players spent time with new releases - defined as games released in 2024 - this year.\r\nThat's according to Steam itself, which gave us a little insight into the broader playi… [+1417 chars]"
+      "title": "MultiVersus pulls tweet after Charlie the Unicorn creator says it used his work \"without permission\" - Eurogamer",
+      "description": "Charlie the Unicorn creator Jason Steele has hit out at Warner Bros. for allegedly using audio from his viral internet …",
+      "url": "https://www.eurogamer.net/multiversus-pulls-tweet-after-charlie-the-unicorn-creator-says-it-used-his-work-without-permission",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-12-23-at-15.49.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-12-23T16:03:46Z",
+      "content": "Charlie the Unicorn creator Jason Steele has hit out at Warner Bros. for allegedly using audio from his viral internet short in a MultiVersus advertisement \"without permission\".\r\nThe teaser - initial… [+2557 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "ZDNet"
       },
-      "author": "Joe Rossignol",
-      "title": "iOS 19 Rumored to Be Compatible With These iPhones - MacRumors",
-      "description": "iOS 19 will not drop support for any iPhone models, according to French website iPhoneSoft.fr. The report cites a source within Apple.   The report...",
-      "url": "https://www.macrumors.com/2024/12/22/ios-19-compatible-iphones-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/f7jUmAYkPZ7z0hJHsc0Bjsrm8hU=/2500x/article-new/2024/11/Generic-iOS-19-Feature-Mock-Light.jpg",
-      "publishedAt": "2024-12-22T16:09:40Z",
-      "content": "iOS 19 will not drop support for any iPhone models, according to French website iPhoneSoft.fr. The report cites a source within Apple.\r\nThe report said that iOS 19 will be compatible with any iPhone … [+1758 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own - TechCrunch",
-      "description": "LLM models are already capable of diagnosing scientific outputs, but, until now, had “no physical agency to actually perform\" experiments.",
-      "url": "https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Tetsuwan-Scientific-founders.jpg?resize=1200,800",
-      "publishedAt": "2024-12-22T16:00:00Z",
-      "content": "Cristian Ponce was wearing an Indiana Jones costume when he met his co-founder Théo Schäfer. It was at a Halloween party in 2023 thrown by Entrepreneur First, a startup program that introduces founde… [+4214 chars]"
+      "author": "Lester Mapp",
+      "title": "3 lucrative side hustles you can start right now with OpenAI's Sora video generator - ZDNet",
+      "description": "AI is cool but can you make money with it? I've got three ways you can turn OpenAI's Sora into cash flow, along with a free cheat sheet to help you get going.",
+      "url": "https://www.zdnet.com/article/3-lucrative-side-hustles-you-can-start-right-now-with-openais-sora-video-generator/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bf71f4ca025f35d242a169bdd98e0b094e6a768e/2024/12/23/cfb08b37-8abc-4301-a017-166a85e64781/image-2.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-23T16:01:00Z",
+      "content": "OpenAI\r\nWhenever a company announces a fancy new AI feature, I think to myself...\r\n\"Wow, I can take a pic of a plate of sushi, turn it into a cartoon character, and make it dance with a single prompt… [+8035 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Central"
+        "name": "TrueAchievements"
       },
-      "author": "Michael L Hicks",
-      "title": "Here's everything we expect and want from wearables and smartwatches in 2025 - Android Central",
-      "description": "From RISC-V and Gemini on watches to blood pressure detection and the breakout of smart glasses, here are our 2025 wearable predictions and hopes.",
-      "url": "https://www.androidcentral.com/wearables/heres-everything-we-expect-and-want-from-smartwatches-and-smart-rings-in-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yHerFynjGJ6kDrNcvmE6Yo-1200-80.jpg",
-      "publishedAt": "2024-12-22T15:00:00Z",
-      "content": "(Image credit: Android Central)\r\nIn this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his… [+10870 chars]"
+      "author": null,
+      "title": "Unlock these 15 date-specific Xbox achievements over the holidays - TrueAchievements",
+      "description": "The festive period has finally arrived, which means there are now several date-specific Xbox achievements you can unlock over the holidays.",
+      "url": "https://www.trueachievements.com/news/date-specific-xbox-achievements-holidays",
+      "urlToImage": "https://www.trueachievements.com/imgs/155177/unlock-these-15-datespecific-xbox-achievements-over-the-holidays.jpg",
+      "publishedAt": "2024-12-23T16:00:48Z",
+      "content": "Although it's that time of year to drink and be merry, there is no slacking on your achievement-popping duties. That's right; there are multiple date-specific Xbox achievements to unlock over the hol… [+5937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notateslaapp.com"
+      },
+      "author": "Karan Singh",
+      "title": "Tesla Addresses Cybertruck Tonneau Cover Leaks with New Rubber Seals - Not a Tesla App",
+      "description": "Tesla is adding rubber seals to the Cybertruck's tonneau cover to reduce the likelihood of leaks, coming as a potential service fix at customer request.",
+      "url": "https://www.notateslaapp.com/news/2446/tesla-addresses-cybertruck-tonneau-cover-leaks-with-new-rubber-seals",
+      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/2024/aero_flap.webp/d5af8d8cddaaa98d5e40731f71e5dcab/aero_flap.jpg",
+      "publishedAt": "2024-12-23T15:36:00Z",
+      "content": "December 23, 2024 \r\nThe Cybertruck features an automatic tonneau that lets you lock in valuables. It rolls back and forth along a track and is somewhat water-resistant. Tesla never said that the tonn… [+5489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Apple expands RCS support on iPhone to more carriers, Google Fi still waiting - 9to5Google",
+      "description": "Apple finally brought RCS support to the iPhone this year, but the company has to manually approve each carrier that...",
+      "url": "http://9to5google.com/2024/12/23/apple-rcs-iphone-expansion-google-fi-waiting/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/RCS-on-Android-and-iPhone-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T15:30:00Z",
+      "content": "Apple finally brought RCS support to the iPhone this year, but the company has to manually approve each carrier that supports it. In the latest iOS update, Apple is expanding RCS support to more carr… [+1827 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Allison Johnson",
-      "title": "An iPhone owner’s guide to living off the app grid - The Verge",
-      "description": "New options in iOS 18 make it easier than ever to customize your homescreen and clear out the clutter.",
-      "url": "https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QHlxVJniAoluU1xpnHD_AX5XYZc=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg",
-      "publishedAt": "2024-12-22T14:00:00Z",
-      "content": "An iPhone owners guide to living off the app grid\r\nAn iPhone owners guide to living off the app grid\r\n / How I hit reset on my homescreen in pursuit of a more peaceful existence.\r\nByAllison Johnson, … [+6291 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Amazon Kindle Paperwhite (2024) review: slightly larger, slightly faster, slightly better - The Verge",
+      "description": "The new Amazon Kindle Paperwhite Signature Edition feels faster and more responsive while a larger screen also delivers improved contrast.",
+      "url": "https://www.theverge.com/24326185/amazon-kindle-paperwhite-signature-edition-2024-e-reader-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FmIUd5fny2BFHZ5ciQd0f8jWNWo=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25799335/247464_Kindle_Paperwhite_ALiszewski_0001.jpg",
+      "publishedAt": "2024-12-23T15:30:00Z",
+      "content": "Performance upgrades and screen improvements make the new Paperwhites minor updates feel more substantial.\r\nByAndrew Liszewski, a senior reporter who's been covering and reviewing the latest gadgets … [+7908 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "9to5google.com"
       },
-      "author": "Kotaku Staff",
-      "title": "The Best Marvel Rivals Tips, Steam Winter Sale Deals, And More Of The Week's Most Helpful Gaming Info - Kotaku",
-      "description": "We'll also give you the lowdown on Naughty Dog's next game, Intergalactic",
-      "url": "https://kotaku.com/marvel-rivals-tips-steam-winter-sale-deals-1851726474",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a1d76914c87c3b1f03925231ef514136.jpg",
-      "publishedAt": "2024-12-22T14:00:00Z",
-      "content": "Naughty Dog, the developer behind The Last of Us, Uncharted, Jak &amp; Daxter, and the original Crash Bandicoot games, finally revealed what its been working on since The Last of Us Part II launched … [+380 chars]"
+      "author": "Ben Schoon",
+      "title": "Galaxy S25 release date is reportedly February 7, ‘Slim’ still coming later - 9to5Google",
+      "description": "According to the latest report out of Korea, Samsung’s Galaxy S25 series will see a release date of February 7....",
+      "url": "http://9to5google.com/2024/12/23/samsung-galaxy-s25-release-date-report/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/galaxy-s25-plus-leak-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T15:15:00Z",
+      "content": "According to the latest report out of Korea, Samsung’s Galaxy S25 series will see a release date of February 7.\r\nSamsung is expected to launch the Galaxy S25, S25+, and S25 Ultra on January 22 as sev… [+1539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "EA Did Not Want To Make ‘Dead Space 4,’ Say Creators - Forbes",
+      "description": "The creators of Dead Space had pitched a fourth game to EA but…they just didn’t want it.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/12/23/ea-did-not-want-to-make-dead-space-4-say-creators/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67697c044ecd2bd89be0753a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-23T15:07:28Z",
+      "content": "Dead Space\r\nEA\r\nThe internet is pretty mad about a new development in the gaming world today, a report that the creators of Dead Space had pitched a fourth game to EA butthey just didnt want it.\r\nIn … [+2280 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Michael Burkhardt",
-      "title": "Apple’s AirPort router likely won’t be coming back, but don’t lose hope quite yet - 9to5Mac",
-      "description": "According to Mark Gurman’s Power On newsletter, Apple is not working on a new version of its AirPort wireless router....",
-      "url": "https://9to5mac.com/2024/12/22/apple-airport-router-potential-return/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-airport-home.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-22T13:47:00Z",
-      "content": "According to Mark Gurmans Power On newsletter, Apple is not working on a new version of its AirPort wireless router. However, they are working on something else that could potentially serve as a wire… [+1495 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Cierra Cowan, Abby Kass",
-      "title": "34 Products People Who Work From Home Actually Use - BuzzFeed",
-      "description": "Ring lights, clip-on monitors, daily planners, and other gadgets to improve the WFH lifestyle.",
-      "url": "https://www.buzzfeed.com/cierracowan/reviewer-loved-wfh-products-an",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/22/22/campaign_images/e292e1163b28/34-products-people-who-work-from-home-actually-use-2-719-1732315525-0_dblbig.jpg",
-      "publishedAt": "2024-12-22T13:31:02Z",
-      "content": "You can set the timer for 5-, 10-, 15-, 20-, and 30-minute blocks by rotating it to the time you want. Then it will start the countdown. There are also four volume options in case you don't want to d… [+804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jennifer Young",
-      "title": "Xbox Game Pass Ultimate drops to lowest price just in time for the holidays - Windows Central",
-      "description": "Xbox Game Pass Ultimate is the best way to play the latest Call of Duty and you can get 3 months for only $25",
-      "url": "https://www.windowscentral.com/gaming/xbox-game-pass-ultimate-drops-to-lowest-price-just-in-time-for-the-holidays",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uDwXJxjyGZEhNN24yiSgbb-1200-80.jpg",
-      "publishedAt": "2024-12-22T13:09:58Z",
-      "content": "The holiday season is here, and with it comes the perfect time to bag a deal on Xbox Game Pass Ultimate. Even after this year’s price hike, it remains one of the best-value subscriptions in gaming. W… [+3992 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Explores a Face ID Doorbell and Lock Device in Smart Home Push - Bloomberg",
-      "description": "Also: Company ramps up work on turning AirPods into a health device.",
-      "url": "https://www.bloomberg.com/news/newsletters/2024-12-22/apple-explores-amazon-ring-doorbell-competitor-with-face-id-airpods-heart-rate",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTS3EnDdBpHk/v2/1200x800.jpg",
-      "publishedAt": "2024-12-22T13:00:05Z",
-      "content": "Apple is considering challenging Amazons Ring with a new home device that connects to smart locks. Also: The company makes headway on a health upgrade for AirPods; a long-anticipated iPhone hardware … [+193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Michael L Hicks",
-      "title": "I'm kind of shocked at how good smartwatches have gotten - Android Central",
-      "description": "Apple, Samsung, and Google started taking fitness coaching seriously, while Garmin and its rivals delivered one killer watch after another.",
-      "url": "https://www.androidcentral.com/wearables/smartwatches-2024-retrospective-theyre-getting-shockingly-good",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hogQeSaTXWrEBR5EMBFXKH-1200-80.jpg",
-      "publishedAt": "2024-12-22T13:00:00Z",
-      "content": "(Image credit: Android Central)\r\nIn this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his… [+6731 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "A new and better way to control your smart home - The Verge",
-      "description": "Plus: Sonic the Hedgehog 3, Flipboard Surf, the new Superman trailer, 1-800-CHATGPT, and more in this week’s Installer newsletter.",
-      "url": "https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NNvs3i82n-R9lUFgQhBexMc6Qc4=/0x0:2028x1353/1200x628/filters:focal(1014x677:1015x678)/cdn.vox-cdn.com/uploads/chorus_asset/file/25799214/installer_65.png",
-      "publishedAt": "2024-12-22T13:00:00Z",
-      "content": "A new and better way to control your smart home\r\nA new and better way to control your smart home\r\n / Plus, in this weeks Installer: A new app for exploring the fediverse, the next Sonic movie, and Ch… [+10802 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ana Diaz",
-      "title": "Gartic Phone is the perfect game for (free) holiday family fun - Polygon",
-      "description": "The free browser game Gartic Phone has become my family’s go-to game during the holidays.",
-      "url": "https://www.polygon.com/gaming/500386/gartic-phone-free-family-game",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/12/polygon-mosaic-28.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2024-12-22T13:00:00Z",
-      "content": "The trendsetters online might have moved on from playing Gartic Phone, but my family has not. Developed by Onrizon, Gartic Phone combines the childrens game Telephone with the board game Pictionary. … [+1925 chars]"
+      "author": "Ben Lovejoy",
+      "title": "M5 Pro chip could separate CPU and GPU in ‘server grade’ chips - 9to5Mac",
+      "description": "One of the key elements of Apple’s A-series and M-series chips is the System-on-a-Chip (SoC) design which tightly integrates all...",
+      "url": "https://9to5mac.com/2024/12/23/m5-pro-chip-could-separate-cpu-and-gpu-in-server-grade-chips/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/M5-Pro-chip-could-separate-CPU-and-GPU-in-server-grade-chips.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-23T15:03:00Z",
+      "content": "One of the key elements of Apple’s A-series and M-series chips is the System-on-a-Chip (SoC) design which tightly integrates all the components within a single package. This includes both CPU and GPU… [+2541 chars]"
     }
   ]
 }
