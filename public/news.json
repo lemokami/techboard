@@ -4,237 +4,68 @@
   "articles": [
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Tessa Flores",
-      "title": "These $10 Motion Sickness Glasses Actually Work. An Expert Explains Why. - BuzzFeed",
-      "description": "An ear, nose, and throat doctor explains why these anti-motion sickness glasses can help you feel less nauseous on land, air, and sea.",
-      "url": "https://www.buzzfeed.com/tessaflores/these-motion-sickness-glasses-actually-work-an-expert",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/15/4/tmp/430c99378924/tmp-name-2-1367-1734235696-0_dblbig.jpg",
-      "publishedAt": "2024-12-25T20:01:02Z",
-      "content": null
+      "author": "Umar Shakir",
+      "title": "A weird Windows 11 bug won’t let some people install any security updates - The Verge",
+      "description": "PCs set up with Windows 11 USB and Disc installer media made with October or November 2024 patches could be affected by a bug that disallows further security updates.",
+      "url": "https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2LpcEUR9vxFA_n_aNZ-N_tTvOps=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg",
+      "publishedAt": "2024-12-26T20:55:52Z",
+      "content": "A weird Windows 11 bug wont let some people install any security updates\r\nA weird Windows 11 bug wont let some people install any security updates\r\n / Microsoft says not to use Windows 11 USB and CD … [+1909 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "KSL.com"
+        "name": "Thegamepost.com"
       },
-      "author": "Sebin Choi and Daewoung Kim, Reuters",
-      "title": "South Korean team develops 'Iron Man' robot that helps paraplegics walk - KSL.com",
-      "description": "South Korean researchers have developed a wearable robot that can walk up to paraplegic users and lock itself onto them, enabling them to walk, maneuver obstacles and climb staircases.",
-      "url": "https://www.ksl.com/article/51216487/south-korean-team-develops-iron-man-robot-that-helps-paraplegics-walk",
-      "urlToImage": "https://img.ksl.com/slc/3032/303271/30327127.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2024-12-25T19:53:28Z",
-      "content": "DAEJEON, South Korea South Korean researchers have developed a lightweight wearable robot that can walk up to paraplegic users and lock itself onto them, enabling them to walk, maneuver obstacles and… [+1806 chars]"
+      "author": null,
+      "title": "Massive 90GB Halo Leak Reveals Dev Builds, Internal Docs, Tools, And Unreleased Content For Bungie's Original Trilogy And More - TheGamePost",
+      "description": "A massive 90GB leak has surfaced containing development builds, tools, and internal documents spanning from Bungie's 1998 work.",
+      "url": "https://thegamepost.com/massive-90gb-halo-leak-dev-builds-internal-docs-tools-bungie/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2024/12/massive-90gb-halo-leak-dev-builds-internal-docs-tools-bungie-9.webp",
+      "publishedAt": "2024-12-26T20:12:43Z",
+      "content": "A massive 90GB leak has surfaced containing development builds, tools, and internal documents spanning from Bungie’s 1998 work.\r\nThe Halo franchise has gone through significant changes recently. Afte… [+4310 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "My Nintendo News"
+        "name": "Push Square"
       },
-      "author": "Sickr",
-      "title": "Rumour: The Reddit leaker delivers photo of supposed Switch 2 console - My Nintendo News",
-      "description": "The Reddit leaker, which the mods on the Switch 2 subreddit verified, has taken his promised Christmas Day photo of the Nintendo Switch 2 console, minus the left and right Joy-Cons. Whether or not it…",
-      "url": "https://mynintendonews.com/2024/12/25/rumour-the-reddit-leaker-delivers-photo-of-supposed-switch-2-console/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2021/08/Switch_oled_dock_joy-con.jpeg?fit=2048%2C1152&ssl=1",
-      "publishedAt": "2024-12-25T17:51:42Z",
-      "content": "I checked here and Zengrip is the name of the grip made by the company Satisfye.\r\nI was referring to the rumors pointing to cases and screen protectors by chinese manufactures, they are nameless. The… [+466 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "GV, the VC team backed by Google, has a broad remit, but it can’t do one thing - TechCrunch",
-      "description": "David Krane is in an enviable position. As the CEO of GV, the venture firm that is funded entirely by Google to the tune of $1 billion a year, his team of",
-      "url": "https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Screenshot-2024-12-24-at-3.13.47PM.png?resize=1200,895",
-      "publishedAt": "2024-12-25T17:22:27Z",
-      "content": "David Krane is in an enviable position. As the CEO of GV, the venture firm that is funded entirely by Google to the tune of $1 billion a year, his team of roughly 100 gets to make a lot of bets with … [+3053 chars]"
+      "author": "Liam Croft",
+      "title": "Game of the Year: Best PSVR2 Game of 2024 - Push Square",
+      "description": "Headset highlights",
+      "url": "https://www.pushsquare.com/features/game-of-the-year-best-psvr2-game-of-2024",
+      "urlToImage": "https://images.pushsquare.com/f11198e40ff1b/1280x720.jpg",
+      "publishedAt": "2024-12-26T20:00:00Z",
+      "content": "Alongside our Game of the Year top 10 list and personal picks from the Push Square editorial team, we are recognising the best PS5 games of 2024 in select categories. Today is the turn of the best PS… [+2541 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "The Daily Dot"
       },
-      "author": "Ben Schoon",
-      "title": "You should have these apps on your new Android smartphone - 9to5Google",
-      "description": "Just got a new smartphone for Christmas or another holiday? Here are 5 Android apps we think you should install on a new Android smartphone.",
-      "url": "http://9to5google.com/2024/12/25/android-apps-new-smartphone/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Pixel-8-Pro-App-drawer-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-25T16:59:00Z",
-      "content": "Just got a new Android smartphone for the holidays? If it’s your first one, it could be a little intimidating, so to get you started, here are a few apps you should immediately install or set up on a… [+15253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "Dalton Cooper",
-      "title": "Epic Games Store Eighth Free Mystery Game Revealed - GameRant",
-      "description": "The Epic Games Store reveals its eighth free mystery game, which users can claim and download right now.",
-      "url": "https://gamerant.com/epic-games-store-free-mystery-games-list-december-2024-control/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/epic-games-store-purple-wrapping-paper.jpg",
-      "publishedAt": "2024-12-25T16:41:00Z",
-      "content": "Summary\r\n<ul><li>\r\n The Epic Games Store's latest free mystery game is 2019's Control, available until December 26.\r\n </li><li>\r\n The free game lineup this year has included highly-rated games, conti… [+3675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Google’s Gmail Upgrade—Why You Need A New Email Address In 2025 - Forbes",
-      "description": "A huge update for 2 billion Gmail users is coming—and this one is critical. Here's what you do.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/12/25/googles-gmail-upgrade-why-you-need-a-new-email-address-in-2025/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=858,541,x300,y522,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-25T16:18:41Z",
-      "content": "Why you need a new email address in 2025\r\nNurPhoto via Getty Images\r\nRepublished on December 25 with the implications of responses to a new U.S. government warning and advice on staying safe on Gmail… [+17503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Mike Stubbs",
-      "title": "‘Escape From Tarkov’ Wipe And Patch Date Confirmed, And It’s Very Soon - Forbes",
-      "description": "The date and time for the next Escape From Tarkov wipe and patch has been confirmed, and it is coming very soon to keep your festive celebrations going.",
-      "url": "https://www.forbes.com/sites/mikestubbs/2024/12/25/escape-from-tarkov-wipe-and-patch-date-confirmed-and-its-very-soon/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66b73ee24d460a2fa2d58d39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-25T15:18:07Z",
-      "content": "The next Tarkov wipe is coming very soon. \r\nCredit: Battlestate Games / Mike Stubbs\r\nBattlestate Games has announced the release date for the next Escape From Tarkov wipe and patch, and as expected i… [+2235 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Andy Kalmowitz",
-      "title": "2024 McLaren 750S Broke My Brain - Jalopnik",
-      "description": "McLaren’s supercar is so fast and easy to live with it’ll have you questioning reality itself.",
-      "url": "https://jalopnik.com/2024-mclaren-750s-broke-my-brain-1851726749",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7c933b6c65b204952467a8c512717218.png",
-      "publishedAt": "2024-12-25T15:00:00Z",
-      "content": "Ive driven a lot of stupidly fast cars at Jalopnik this year. Stuff like the Lucid Air Sapphire, Chevrolet Corvette, Maserati GranCabrio Folgore and Bentley Continental GT Speed come to mind, but non… [+8748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Glassalmanac.com"
-      },
-      "author": "Michael Reed",
-      "title": "Mandatory USB-C Chargers for Mobiles Starting Dec 28: What It Means for You - Glass Almanac",
-      "description": "Mandatory USB-C Chargers for Smartphones and Small to Medium Devices in France Starting December 28 Beginning this Saturday, December 28, USB-C will become the required standard ... Continue Reading →",
-      "url": "https://glassalmanac.com/mandatory-usb-c-chargers-for-mobiles-starting-dec-28-what-it-means-for-you/",
-      "urlToImage": "https://glassalmanac.com/wp-content/uploads/2024/12/Mandatory-USB-C-Chargers-for-Mobiles-Starting-Dec-28-What-It.jpeg;%20charset=utf-8",
-      "publishedAt": "2024-12-25T14:53:44Z",
-      "content": "Mandatory USB-C Chargers for Smartphones and Small to Medium Devices in France Starting December 28Beginning this Saturday, December 28, USB-C will become the required standard for mobile device char… [+1597 chars]"
+      "author": "Brooke Sjoberg",
+      "title": "'NOT AN AIRFRYER’: Man reads Stanley cup instructions. Then he realizes we’ve been using them wrong - The Daily Dot",
+      "description": "'A $80 cup and u have to do all that??'",
+      "url": "https://www.dailydot.com/news/stanley-cup-instructions/",
+      "urlToImage": "https://uploads.dailydot.com/2024/12/stanley-cup-instructions.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-12-26T20:00:00Z",
+      "content": "In the last few years, the Stanleya simple vessel for consuming whatever beverage your heart desireshas taken American culture by storm. The travel tumbler has worked its way into as many kitchen cab… [+3447 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "The best features to try on your new Apple Watch - 9to5Mac",
-      "description": "If you just unwrapped a new Apple Watch this morning, read on for some guidance on our favorite Apple Watch features for fitness and more.",
-      "url": "https://9to5mac.com/2024/12/25/best-apple-watch-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/46mm-Apple-Watch-Series-10-GPS-Cell-with-the-Slate-Titanium-Case.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-25T14:52:00Z",
-      "content": "If you just unwrapped a new Apple Watch this holiday season, there are a variety of tips and tricks that can help you get the most out of your new wearable. Read on for some guidance on our favorite … [+7936 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Sayendra Basu",
-      "title": "How to get the Santa Snoop skin in Fortnite for free - Sportskeeda",
-      "description": "The Santa Snoop skin in Fortnite is one of the highlights of Winterfest 2024, featuring the iconic music star decked up in festive clothing.",
-      "url": "https://www.sportskeeda.com/fortnite/how-get-santa-snoop-skin-fortnite-free",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/12/39cde-17351348037592-1920.jpg",
-      "publishedAt": "2024-12-25T14:28:00Z",
-      "content": "The Santa Snoop skin in Fortnite is one of the highlights of Winterfest 2024, featuring the iconic music star decked up in festive clothing. Snoop was an overarching character of Chapter 2 Remix and … [+2037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "The State Of The PlayStation 5 In 2024 - Kotaku",
-      "description": "Sony's console was a powerhouse, even in an 'off year'",
-      "url": "https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ef2b88027069e3fa0ec4381c3a412d2b.jpg",
-      "publishedAt": "2024-12-25T14:00:00Z",
-      "content": "The PlayStation 5 has entered the latter stage of its lifecycle, Sony announced back in February. The fourth anniversary of the console has been marked by impressive victories and surprising setbacks… [+11927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Giovanni Colantonio",
-      "title": "Use your Christmas money to buy these games in the Steam Winter Sale - Digital Trends",
-      "description": "If you've got some gift cards to burn today, consider grabbing these great PC games during the Steam Winter Sale.",
-      "url": "https://www.digitaltrends.com/gaming/steam-winter-sale-2024-best-holiday-deals/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/Helldivers-2.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2024-12-25T13:20:51Z",
-      "content": "Table of Contents\r\nTable of Contents\r\nPrince of Persia: The Lost Crown — $20\r\nHelldivers 2 — $32\r\nLike a Dragon: Infinite Wealth — $35\r\nTekken 8 — $35\r\nDragon Age: The Veilguard — $39\r\nKunitsu-Gami: … [+6883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": null,
-      "title": "'2024 Was the Year Gamers Really Started Pushing Back On the Erosion of Game Ownership' - Slashdot",
-      "description": "Mass game shutdowns and service terminations marked 2024 as a pivotal year for digital ownership concerns in the gaming industry. PC Gamer adds: The arguments have been around forever, but they've been made concrete by the simple fact that, over the last deca…",
-      "url": "https://games.slashdot.org/story/24/12/24/1820223/2024-was-the-year-gamers-really-started-pushing-back-on-the-erosion-of-game-ownership",
-      "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
-      "publishedAt": "2024-12-25T13:08:01Z",
-      "content": "If there is demand for non subscription there will be a market.\r\nThe retro games are getting a revival because they work fine with zero internet. You can buy a portable retro game console that can pl… [+654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Nicholas Sutrich",
-      "title": "The North American smartphone market could be headed for a depressing 2025 - Android Central",
-      "description": "With fewer players than ever, the looming threat of tariffs, and design coalescence, North American smartphones are becoming just another commodity.",
-      "url": "https://www.androidcentral.com/phones/north-american-smartphone-market-2025-predictions-expectations",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hohzHQ8sCC8FLYiwpjzyjE-1200-80.jpg",
-      "publishedAt": "2024-12-25T13:00:00Z",
-      "content": "In many ways, 2024 was one of the best years for smartphones in a long time. While you could pick out several other innovations made in years prior, 2024 marked an important year where phones debuted… [+9576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Traxion.gg"
-      },
-      "author": "Thomas Harrison-Lord",
-      "title": "Every new car spotted in Assetto Corsa EVO’s video explainer video - Traxion",
-      "description": "Released on 25th December 2024, a video titled “Everything you need to know about Assetto Corsa EVO” was released - and here are the fresh car roster additions we spotted.",
-      "url": "https://traxion.gg/every-new-car-spotted-in-assetto-corsa-evos-video-explainer-video/",
-      "urlToImage": "http://traxion.gg/wp-content/uploads/2024/12/Every-new-car-spotted-in-Assetto-Corsa-EVOs-video-explainer-video.jpg",
-      "publishedAt": "2024-12-25T12:55:44Z",
-      "content": "As the dulcet tones of developer Kunos Simulazionis Marco Massarutto were digested like a smooth Christmas Day Negroni during the latest Assetto Corsa EVO video release, several new motors were spott… [+3049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "The first things you should set up with your new Google Pixel - 9to5Google",
-      "description": "Getting a new phone can be overwhelming. We have a few tips on how to set up and get the most out of your new Google Pixel...",
-      "url": "http://9to5google.com/2024/12/25/google-pixel-set-up/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Pixel-9-Pro-Camera-Closeup-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-25T12:30:00Z",
-      "content": "Getting a new phone be it your first or the routine upgrade can be overwhelming given the variety of features there are to explore. We have a few tips on how to set up and get the most out of your ne… [+5807 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Five new Apple products are coming soon in early 2025, here’s what to expect - 9to5Mac",
+      "description": "Apple has five new products in the works that are expected to arrive in early 2025, here’s what’s coming soon.",
+      "url": "https://9to5mac.com/2024/12/26/five-new-apple-products-coming-soon-early-2025/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/tim-cook-apple-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-26T19:52:00Z",
+      "content": "2025 is about to begin, and Apple looks set to kick off the year with several strong product launches. Heres a look at five new products expected to arrive soon in early 2025.\r\nApples most popular Ma… [+4784 chars]"
     },
     {
       "source": {
@@ -242,25 +73,194 @@
         "name": "Videocardz.com"
       },
       "author": null,
-      "title": "ASRock to launch fourteen AMD B850 motherboards - VideoCardz.com",
-      "description": "ASRock B850 launching soon ASRock has a massive lineup of AMD B850 motherboards.  A white, black, or combination of both is what ASRock has been preparing for the upcoming launch of the AMD mid-range motherboard series. We have new photos of the AMD B850 moth…",
-      "url": "https://videocardz.com/pixel/asrock-to-launch-fourteen-amd-b850-motherboards",
-      "urlToImage": "https://cdn.videocardz.com/1/2024/12/ASROCK-B850-HERO-1.jpg",
-      "publishedAt": "2024-12-25T12:17:04Z",
-      "content": "ASRock has a massive lineup of AMD B850 motherboards. \r\nA white, black, or combination of both is what ASRock has been preparing for the upcoming launch of the AMD mid-range motherboard series. We ha… [+817 chars]"
+      "title": "Ghostrunner 2 is now free to grab on Epic Games Store - VideoCardz.com",
+      "description": "You can now become Cyber Ninja for free Ghostrunner 2 is now available for free on the Epic Games Store. Released on October 26, 2023, this fast-paced cyberpunk parkour action game throws you back into the world of Dharma Tower. If you are not familiar with t…",
+      "url": "https://videocardz.com/pixel/ghostrunner-2-is-now-free-to-grab-on-epic-games-store",
+      "urlToImage": "https://cdn.videocardz.com/1/2024/12/GHOSTRUNNER-2-FREE.jpg",
+      "publishedAt": "2024-12-26T19:50:00Z",
+      "content": "Ghostrunner 2 is now available for free on the Epic Games Store.\r\nReleased on October 26, 2023, this fast-paced cyberpunk parkour action game throws you back into the world of Dharma Tower.\r\nIf you a… [+708 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "[Removed]"
       },
-      "author": "Davey Winder",
-      "title": "Google User Data Purge Underway—What You Need To Know - Forbes",
-      "description": "Google is on a data-deleting mission. Users of Gmail, Google Photos and now Google Maps need to pay attention if they want to save their stuff.",
-      "url": "https://www.forbes.com/sites/daveywinder/2024/12/25/google-user-data-purge-warning-confirmed-what-you-need-to-know/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676aa7c624c4eee4b691a3bc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-25T12:01:17Z",
-      "content": "Don't lose your dataact now as Google confirms deletions\r\nAnadolu Agency via Getty Images\r\nUpdate, Dec. 25, 2024: This story, originally published Dec. 24 now includes additional information regardin… [+4895 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T19:03:17Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": null,
+      "title": "AMD Ryzen 9 9950X3D Spotted In CPU-Z; Features 5.6+GHz Boost Clock And 128 MB Total L3 Cache - Wccftech",
+      "description": "AMD Ryzen 9 9950X3D was spotted in CPU-Z, revealing the specifications including cores, L3 cache size and the boost clock of 5.65 GHz.",
+      "url": "https://wccftech.com/amd-ryzen-9-9950x3d-spotted-in-cpu-z-features-5-6ghz-boost-clock-and-128-mb-total-l3-cache/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/11/AMD-Ryzen-9000X3D-3D-V-Cache-CPUs-Ryzen-9-9950X3D-Ryzen-7-9800X3D-Gaming-Performance-Leak-_Main.jpg",
+      "publishedAt": "2024-12-26T18:49:00Z",
+      "content": "The leak confirms that the Ryzen 9 9950X3D won't have any reduction in its clock speeds and will feature the same boost clock as the non-X3D edition.\r\nAs previously reported, AMD has indeed retained … [+1976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acme Packing Company"
+      },
+      "author": "Justis Mosqueda",
+      "title": "Do not blitz Sam Darnold - Acme Packing Company",
+      "description": "Darnold is performing at an All-Pro level against the blitz this year",
+      "url": "https://www.acmepackingcompany.com/2024/12/26/24329727/green-bay-packers-minnesota-vikings-preview-week-17-2024-nfl-sam-darnold-blitz-statistics",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AAk4JSOXyZSBIRYK7KvoFDt7cWc=/0x0:4388x2297/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25806055/2191129851.jpg",
+      "publishedAt": "2024-12-26T18:42:31Z",
+      "content": "Jeff Hafley, if you are listening, do not blitz Minnesota Vikings quarterback Sam Darnold. Just dont do it.\r\nIt might sound like a good idea to throw chaos at a quarterback who was only pushed into t… [+1583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Teases Apple TV+ Surprise on January 4 and 5 - MacRumors",
+      "description": "Apple this week began teasing some kind of upcoming Apple TV+ surprise that's set to happen on January 4 and January 5, telling customers to...",
+      "url": "https://www.macrumors.com/2024/12/26/apple-tv-plus-january-teaser/",
+      "urlToImage": "https://images.macrumors.com/t/pBbMfynWyOlWIwp0qlnNzBACpv0=/1920x/article-new/2024/12/apple-tv-plus-teaser.jpg",
+      "publishedAt": "2024-12-26T18:35:59Z",
+      "content": "Is the \"surprise\" that they're actually going to have good shows besides Ted Lasso (and maybe Severance)? Because that would be a huge shock for sure. :p\r\nYou may not like anything else, and thats sa… [+1087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Samuel Moreno",
+      "title": "Beat Marvel Rivals ’ Toxicity With The Power Of Silence - Kotaku",
+      "description": "Tired of hearing insults, screaming, singing, or the endless sound of a fan blowing into a microphone?",
+      "url": "https://kotaku.com/marvel-rivals-mute-players-text-chat-mic-toxic-1851728933",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9177b0136030ce8baf9e305e4fdcfc27.jpg",
+      "publishedAt": "2024-12-26T18:20:00Z",
+      "content": "Teamwork in Marvel Rivals is essential. Coordinating with your teammates to devise a strategy for the perfect Ace kill is a great way to play, and both voice and text chat make that easier. Of course… [+4130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T18:00:15Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "New Game Is Basically LittleBigPlanet 4 - Kotaku",
+      "description": "Restitched is a new, fuzzy platformer coming to Steam that will support user-generated levels",
+      "url": "https://kotaku.com/lbp3-little-big-planet-restitched-fan-game-trailer-pc-1851728892",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f1ca5dd1e0fdba43541ddd5674abcd20.jpg",
+      "publishedAt": "2024-12-26T18:00:00Z",
+      "content": "The LittleBigPlanet franchise effectively died earlier this year when Sony took down the servers for and later delisted LBP3. But a group of self-described hobbyists are working on Restitched, a game… [+2794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Jacob Siegal, Jacob Siegal",
+      "title": "Nintendo Switch 2 leaked images show off new dock, logo, and more - BGR",
+      "description": "New leaked pictures appear to show off the Nintendo Switch 2 along with its dock, but some people are still skeptical.",
+      "url": "https://bgr.com/entertainment/nintendo-switch-2-leaked-images-show-off-new-dock-logo-and-more/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2024/12/Nintendo-Switch-2-Logo-Mockup.png",
+      "publishedAt": "2024-12-26T17:54:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Galaxy S25 Ultra’s alleged ‘blue’ color makes Pixel’s past pastels look vibrant - 9to5Google",
+      "description": "Vibrant smartphone colors aren’t nearly as common as many wish, with most devices often coming in blacks and whites, and...",
+      "url": "http://9to5google.com/2024/12/26/galaxy-s25-ultra-blue-color-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/samsung-galaxy-s25-ultra-gray-blue-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-26T17:45:00Z",
+      "content": "Vibrant smartphone colors aren’t nearly as common as many wish, with most devices often coming in blacks and whites, and plenty of bland offerings beyond that. With its upcoming “blue” for the Galaxy… [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Samsung will let you disable annoyingly-bright HDR content across all apps - The Verge",
+      "description": "Samsung’s One UI 7 update includes a new toggle that can stop HDR photos and videos from cranking your screen brightness when you don’t want them to.",
+      "url": "https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HcPJoeji_VSI0MC33RlmjMQNfCY=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253483/DSC06441.jpg",
+      "publishedAt": "2024-12-26T17:27:05Z",
+      "content": "Samsung will let you disable annoyingly-bright HDR content across all apps\r\nSamsung will let you disable annoyingly-bright HDR content across all apps\r\n / The companys next big Android update, One UI… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Damien Wilde",
+      "title": "Essential apps for hardcore Android users [Video] - 9to5Google",
+      "description": "The idea that some apps are “must-haves” or “essentials” for your Android phone is bound to be subjective, especially with...",
+      "url": "http://9to5google.com/2024/12/26/essential-apps-for-hardcore-android-users/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Tooly-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-26T17:00:00Z",
+      "content": "The idea that some apps are must-haves or essentials for your Android phone is bound to be subjective, especially with millions to consider and choose from.\r\nYou might have picked up a brand-new Andr… [+7343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Sascha Pare",
+      "title": "Just a fraction of the hydrogen hidden beneath Earth's surface could power Earth for 200 years, scientists find - Space.com",
+      "description": "Trillions of tons of hydrogen gas are likely buried in rocks and reservoirs beneath Earth's surface, but researchers aren't sure where it is yet.",
+      "url": "https://www.livescience.com/planet-earth/energy/just-a-fraction-of-the-hydrogen-hidden-beneath-earths-surface-could-power-earth-for-200-years-scientists-find",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JbGHwujDL66Qnq9dF2oTMC-1200-80.jpg",
+      "publishedAt": "2024-12-26T17:00:00Z",
+      "content": "A mountain of hydrogen is lurking beneath Earth's surface — and scientists say that just a fraction of it could break our dependence on fossil fuels for 200 years.\r\nNew research suggests the planet h… [+4833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Here are three Apple Watch features that fix common iPhone problems - 9to5Mac",
+      "description": "Apple Watch is the perfect sidekick to the iPhone, including with these three key features that fix some common iPhone problems.",
+      "url": "https://9to5mac.com/2024/12/26/three-apple-watch-features-fix-iphone-problems/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Apple-Watch-Series-10-reviews.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-26T16:42:00Z",
+      "content": "The iPhone is the most important device in many users lives, and its made even better with a paired Apple Watch. Here are three Apple Watch features that fix some common iPhone problems.\r\nIf youre th… [+2893 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "The 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190 - The Verge",
+      "description": "The 2TB WD_Black C50 expansion card for Xbox Series X / S is down to a record low $190. You can also get Umbra’s Nanoleaf-powered Cono smart lamp for 20 percent off.",
+      "url": "https://www.theverge.com/2024/12/26/24329530/western-digital-2tb-wd-black-c50-expansion-card-umbra-cono-smart-lamp-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/P528n9CKPdOfR_QKYjjPPcyq830=/0x0:1500x1000/1200x628/filters:focal(750x500:751x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25739519/wd_black_c50.jpg",
+      "publishedAt": "2024-12-26T16:14:57Z",
+      "content": "The 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190\r\nThe 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190\r\n / You can also get Umbras Nanoleaf-powered… [+4038 chars]"
     }
   ]
 }
