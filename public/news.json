@@ -4,146 +4,55 @@
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "ScienceAlert"
       },
-      "author": "Slate",
-      "title": "I Have a High-Risk Pregnancy, and I’m Being Attacked in My Own Home. - Slate",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjc3WEhGR1JYbnNFTVB3OHV1SDh5cDgzbXBsNXQ1U09NdXJHcFR3UlBHMWttVHFQMjBXMFFOMVU4elEzbXRJMWFHYnBRNUVtWXJFcmRIYVkxN3pPWXdBN0RGVkxqbFJGVUxiYkFUYnA5U05GOHR3MURuLUJCcF9zQk1acjRHeHgw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-12-27T21:22:00Z",
+      "author": "David Nield",
+      "title": "Newly Identified Molecule Can Heal Gut Damage And Suppress Cancer - ScienceAlert",
+      "description": "Intestines suffer a lot of wear and tear in their daily service to digestion, requiring constant renewal of their lining.",
+      "url": "https://www.sciencealert.com/newly-identified-molecule-can-heal-gut-damage-and-suppress-cancer",
+      "urlToImage": "https://www.sciencealert.com/images/2024/11/GutHealth.jpg",
+      "publishedAt": "2024-12-28T20:01:14Z",
+      "content": "Intestines suffer a lot of wear and tear in their daily service to digestion, requiring constant renewal of their lining. This growth of the gut's wall hints at underlying pathways distinguishing ben… [+2985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Angela Barbuti",
+      "title": "Babies born in 2025 will be part of new generation — Gen Beta: Here are the challenges they’ll face - New York Post ",
+      "description": "Babies who are born in the new year will be part of a new generation — Generation Beta, which will end around 2039.",
+      "url": "https://nypost.com/2024/12/28/lifestyle/babies-born-in-2025-will-be-part-of-generation-beta/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/95929720.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-12-28T19:31:00Z",
+      "content": "New year, new generation.\r\nBabies born in 2025 will be the first of a new peer group — Generation Beta.\r\nGen Beta, which will last until around 2039, follows Gen Alpha, which spanned from 2010 to 202… [+2344 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "Hackers take over Google Chrome extensions in cyberattack - Mashable",
+      "description": "Malicious code was inserted into Chrome extensions in a phishing campaign.",
+      "url": "https://mashable.com/article/hackers-google-chrome-extensions-hijacked",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04xm3ykb5FTpNyeBGnyYFdr/hero-image.fill.size_1200x675.v1735407001.jpg",
+      "publishedAt": "2024-12-28T17:41:24Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Ygorganization.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Sanokal",
-      "title": "Chinese OCG January 2025 Forbidden & Limited List - YGOrganization",
-      "description": "The Chinese OCG bans some known troublemakers and squashes a cockroach, while letting cuteness off the hook. The following changes will be implemented on the 1st of January, 2025: Forbidden: Abyss…",
-      "url": "https://ygorganization.com/maxxcslowlycreepingupthelists/",
-      "urlToImage": "https://cdn.ygorganization.com/2024/02/MaxxC-MADU-EN-VG-artwork.png",
-      "publishedAt": "2024-12-27T20:34:34Z",
-      "content": "The Chinese OCG bans some known troublemakers and squashes a cockroach, while letting cuteness off the hook.\r\nThe following changes will be implemented on the 1st of January, 2025:\r\nForbidden: \r\nAbys… [+195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Here are four Apple TV 4K features you might be missing out on - 9to5Mac",
-      "description": "Apple TV 4K is a solid product in its own right, but it also includes a variety of key features you get when paired with other Apple devices.",
-      "url": "https://9to5mac.com/2024/12/27/four-apple-tv-4k-features-missing-out-on/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-27T18:50:00Z",
-      "content": "Apple TV 4K gets better every year through regular software updates and even the occasional hardware bump. But it truly shines when paired with other Apple devices. Here are four Apple TV 4K features… [+2991 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Noah Hunter",
-      "title": "Daily Deals: Dragon Quest XI, Gran Turismo 7, The Legend of Zelda: Skyward Sword HD, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/daily-deals-dragon-quest-xi-gran-turismo-7-the-legend-of-zelda-skyward-sword-hd-and-more",
-      "urlToImage": "https://assets1.ignimgs.com/2019/06/11/e32019-square-enix-dragon-quest-xi-screenshot-1-1560217487949.jpg?width=1280",
-      "publishedAt": "2024-12-27T18:40:17Z",
-      "content": "Even with Christmas over, there are still many great deals available that you can score before they're gone. Here are the best deals for Friday, December 27. \r\nDragon Quest XI S: Echoes of an Elusive… [+3567 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "T-Mobile Starlink Beta Invites Rolling Out to Android and iOS Devices - Droid Life",
-      "description": "When T-Mobile and Starlink teamed up to announce T-Mobile Starlink, a satellite internet service that would one day bring a data connection to your T-Mobile phone when in remote locations, they told us that a beta program was open for sign-up. The plan, at le…",
-      "url": "https://www.droid-life.com/2024/12/27/t-mobile-starlink-beta-invites-rolling-out-to-android-and-ios-devices/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/12/T-Mobile-Starlink-Beta-2-1200x628-cropped.jpg",
-      "publishedAt": "2024-12-27T18:24:55Z",
-      "content": "When T-Mobile and Starlink teamed up to announce T-Mobile Starlink, a satellite internet service that would one day bring a data connection to your T-Mobile phone when in remote locations, they told … [+1914 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Raphael Satter, A.J. Vicens",
-      "title": "Hackers hijack a wide range of companies' Chrome extensions, experts say - Reuters",
-      "description": "Hackers have compromised several different companies' Chrome browser extensions in a series of intrusions dating back to mid-December, according to one of the victims and experts who have examined the campaign.",
-      "url": "https://www.reuters.com/technology/cybersecurity/data-loss-prevention-company-cyberhaven-hit-by-breach-statement-says-2024-12-27/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-12-27T18:11:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Samsung’s Android 15 Leak—Bad News For Nearly All Galaxy Owners - Forbes",
-      "description": "Millions of Galaxy users could be very unhappy going into 2025—here's what you need to know.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2024/12/27/samsungs-android-15-leak-bad-news-for-nearly-all-galaxy-owners/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676d7172b2afb32d811f017d/0x0.jpg?format=jpg&crop=1203,860,x399,y92,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-27T17:36:05Z",
-      "content": "New leak is bad news for Galaxy owners\r\nAFP via Getty Images\r\nRepublished on December 27 with new reports into the likely Android 15 release schedule for eligible Galaxy phones.\r\nIf this latest leak … [+5265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Wire"
-      },
-      "author": null,
-      "title": "N64 microphone support hiding in Zelda: Majora’s Mask for nearly 25 years - Nintendo Wire",
-      "description": "Leave it to hackers and modders to discover the darndest things about our favorite games. In a new video posted by Skawo on YouTube, it’s been discovered that",
-      "url": "https://nintendowire.com/news/2024/12/27/n64-microphone-support-hiding-in-zelda-majoras-mask-for-nearly-25-years/",
-      "urlToImage": "https://nintendowire.com/wp-content/uploads/2024/12/majoras-mask-microphone-n64.jpg",
-      "publishedAt": "2024-12-27T17:32:29Z",
-      "content": "Leave it to hackers and modders to discover the darndest things about our favorite games. In a new video posted by Skawo on YouTube, its been discovered that The Legend of Zelda: Majoras Mask has sup… [+1428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-27T17:30:24Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft adds another problem to the Windows 11 24H2 naughty list - The Register",
-      "description": "Santa Satya pops one more issue into his sack just in time for Christmas",
-      "url": "https://www.theregister.com/2024/12/27/microsoft_windows_11_security_update/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/15/leonardo_ai_evil_santa.jpg",
-      "publishedAt": "2024-12-27T17:30:00Z",
-      "content": "The trickle of known issues with Windows 11 24H2 has continued with a new one just in time for festive season: installed the operating system using removable media? There's a chance it might stop rec… [+2361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "Xbox's new 'Sebile' controller breaks cover in this new patent, and we now know what that the weird grippy \"trousers\" are for - Windows Central",
-      "description": "Sebile is the codename for a new Xbox controller, and this new patent details how the haptics will work, among other things.",
-      "url": "https://www.windowscentral.com/gaming/xbox/xboxs-new-sebile-controller-breaks-cover-in-this-new-patent-and-we-now-know-what-that-the-weird-grippy-trousers-are-for",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ketrEjKnoQwDuqTJJ3CLrJ-1200-80.png",
-      "publishedAt": "2024-12-27T17:26:05Z",
-      "content": "<ul><li>Microsoft documents leaked last year revealed a new Xbox controller codenamed Sebile.</li><li>It seems that the controller hasn't been cancelled, and should arrive with next-gen Xbox hardware… [+4654 chars]"
+      "author": "Thomas Maxwell",
+      "title": "Doctors Say AI Is Introducing Slop Into Patient Care - Gizmodo",
+      "description": "Early testing demonstrates results that could be disastrous for patients.",
+      "url": "https://gizmodo.com/doctors-say-ai-is-introducing-slop-into-patient-care-2000543805",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2183732565.jpg",
+      "publishedAt": "2024-12-28T16:00:05Z",
+      "content": "Every so often these days, a study comes out proclaiming that AI is better at diagnosing health problems than a human doctor. These studies are enticing because the healthcare system in America is wo… [+4925 chars]"
     },
     {
       "source": {
@@ -151,116 +60,207 @@
         "name": "TechCrunch"
       },
       "author": "Aisha Malik",
-      "title": "Best iPad apps to boost productivity and make your life easier - TechCrunch",
-      "description": "There are many apps to help you create a single place to organize your life or help you stay focused on your day-to-day tasks.",
-      "url": "https://techcrunch.com/2024/12/27/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1428470293.jpg?resize=1200,776",
-      "publishedAt": "2024-12-27T17:25:19Z",
-      "content": "Apple’s iPads come with built-in productivity tools like Notes, Calendar, and Reminders, but if you’d like to explore new ways to maximize productivity and organize your life, there are many apps out… [+8467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Android Auto rolling out redesigned music player - 9to5Google",
-      "description": "In the latest Android Auto update, Google is widely rolling out a new music players for all apps including the...",
-      "url": "http://9to5google.com/2024/12/27/android-auto-music-player-redesign-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/android-auto-dashboard-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-27T17:15:00Z",
-      "content": "In the latest Android Auto update, Google is widely rolling out a new music players for all apps including the likes of Spotify, Apple Music, and more.\r\nAndroid Auto 13.4 has been rolling out over th… [+1890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "80.lv"
-      },
-      "author": "Theodore McKenzie",
-      "title": "The Gaming Industry 2024 Review: Highlights & Lowlights - 80.lv",
-      "description": "To celebrate the passing year one last time, let's take a closer look at the highs, lows, and in-betweens that made 2024 memorable for the gaming industry.",
-      "url": "https://80.lv/articles/the-gaming-industry-2024-review-highlights-lowlights/",
-      "urlToImage": "https://cdn.80.lv/api/upload/meta/38847/images/676ecdb1c3e4c/contain_1200x630.jpg",
-      "publishedAt": "2024-12-27T17:11:35Z",
-      "content": "Meanwhile, as AAA studios continued churning out flop after flop, indie and AA developers have found their stride, consistently delighting the community with acclaimed titles like Palworld, Helldiver… [+1457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Bradley Brownell",
-      "title": "New Zealand's 1,500-HP Hypercar Brings F1 Speed To Anybody With The Money - Jalopnik",
-      "description": "Rodin hopes to build 30 examples of the FZero, which simulations show is faster than Formula 1",
-      "url": "https://jalopnik.com/new-zealands-1-500-hp-hypercar-brings-f1-speed-to-anybo-1851729275",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5464c18294043bef5c1ec0a3bb5d0ab0.png",
-      "publishedAt": "2024-12-27T17:00:00Z",
-      "content": "Low, light, minimalist and sinister as all hell, the Rodin FZero is an upcoming turbocharged V10 track-focused (though allegedly street-legal) hypercar that beats F1 around just about any track. Rodi… [+2278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Here are the first leaked renders of the OnePlus Open 2 along with its improved specs - GSMArena.com news - GSMArena.com",
-      "description": "We're only missing the price now. The OnePlus Open 2 is the heavily anticipated sequel to the original Open from 2023, which was one of the best foldables...",
-      "url": "https://www.gsmarena.com/here_are_the_first_leaked_renders_of_the_oneplus_open_2_along_with_its_improved_specs-news-65880.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/12/oneplus-open-2-leaked-renders-specs/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-12-27T16:59:01Z",
-      "content": "The OnePlus Open 2 is the heavily anticipated sequel to the original Open from 2023, which was one of the best foldables of that year. So, clearly, the Open 2 has a lot to live up to.\r\nToday a new le… [+1671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Janhoi McGregor",
-      "title": "Samsung Slashes Galaxy Z Fold 6 Price In Early January Sale - Forbes",
-      "description": "Samsung is running a major new promotion for the Galaxy Z Fold 6 worth hundreds of dollars.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2024/12/27/samsung-galaxy-z-fold-6-holiday-sale-trade-in-samsung-care-plus/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676ed3174963495d4c3b8bba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-27T16:36:00Z",
-      "content": "A Samsung Electronics Co. Galaxy Z Fold 6 [+][-]\r\n smartphone displayed at a Samsung store in Seoul, South Korea, on Friday, Oct. 4, 2024. Samsung is expected to report record-high revenue in the Sep… [+4912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "AMD 16-core Ryzen 9000HX \"Fire Range\" and Ryzen 9 9950X3D CPUs spotted in Geekbench AI test - VideoCardz.com",
-      "description": "ASUS ROG Strix G16 with Ryzen 9 9955HX? An upcoming flagship mobile platform from AMD has been spotted on Geekbench. Sadly, this isn’t a CPU or GPU benchmark but an AI performance test. The 16-core “Fire Range” processor, listed as 100-000001028-42_Y, is the …",
-      "url": "https://videocardz.com/newz/amd-16-core-ryzen-9000hx-fire-range-and-ryzen-9-9950x3d-cpus-spotted-in-geekbench-ai-test",
-      "urlToImage": "https://cdn.videocardz.com/1/2024/12/AMD-RYZEN-9950X3D-9955HX.jpg",
-      "publishedAt": "2024-12-27T16:21:00Z",
-      "content": "An upcoming flagship mobile platform from AMD has been spotted on Geekbench.\r\nSadly, this isn’t a CPU or GPU benchmark but an AI performance test. The 16-core “Fire Range” processor, listed as 100-00… [+1845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Monochrome-watches.com"
-      },
-      "author": "Robin Nooy",
-      "title": "Recap: The Best Accessible Watches Of 2024 - Monochrome Watches",
-      "description": "Shopping on a relative budget was no bad thing, with a lot of very good watches coming! Here's what we selected as the best ones!",
-      "url": "https://monochrome-watches.com/recap-best-accessible-watches-2024-alpina-heritage-automatic-certina-ds-ph1000m-sea-turtle-conservancy-seiko-prospex-1965-divers-300m-spb455-tissot-pr516-powermatic-80-prx-forged-carbon-specs-price-li/",
-      "urlToImage": "https://monochrome-watches.com/wp-content/uploads/2024/11/Tissot-PR516-Powermatic-80-review-accessible-automatic-sports-watch-vintage-1970s-2.jpg",
-      "publishedAt": "2024-12-27T16:00:37Z",
-      "content": "While we tend to be amazed by highly complicated, luxurious watches, the fact of the matter is that the vast majority of enthusiasts are generally shopping for watches with a much more down-to-earth … [+4897 chars]"
+      "title": "Best iPad apps for unleashing and exploring your creativity - TechCrunch",
+      "description": "If you have an iPad and want to start using it to unleash and express your creativity, there are a number of apps that can help you do so.",
+      "url": "https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1454243032.jpg?resize=1200,800",
+      "publishedAt": "2024-12-28T16:00:00Z",
+      "content": "There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be used to stream content or browse the web on the g… [+4737 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GameSpot"
       },
-      "author": "Diego Nicolás Argüello",
-      "title": "VR Had A Great Year, But It Feels Like A Swansong - GameSpot",
-      "description": "2024 was the year has been striving for. What about the future?",
-      "url": "https://www.gamespot.com/articles/vr-had-a-great-year-but-it-feels-like-a-swansong/1100-6528477/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4417386-vr.jpg",
-      "publishedAt": "2024-12-27T16:00:00Z",
-      "content": "It's been hard to keep up with VR games in 2024, and that's a good thing. The Batman Arkham series got a great new entry, Batman: Arkham Shadow, exclusively on Meta Quest 3. Metro Awakening introduce… [+8048 chars]"
+      "author": "Eric Frederiksen",
+      "title": "Kunitsu-Gami: Path of the Goddess Is The Kind Of Game Big Publishers Don't Make Anymore - GameSpot",
+      "description": "It's a loving tribute to ancient Japanese culture and old-school game design.",
+      "url": "https://www.gamespot.com/articles/kunitsu-gami-path-of-the-goddess-is-the-kind-of-game-big-publishers-dont-make-anymore/1100-6528398/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4417383-kunitsu.jpg",
+      "publishedAt": "2024-12-28T16:00:00Z",
+      "content": "Capcom released an absolute gem of a game this year. No, I'm not talking about Dragon's Dogma 2, Dead Rising Deluxe Remaster, or Marvel vs. Capcom Fighting Collection--all of which hit shelves in 202… [+5831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "James Abbott",
+      "title": "DJI Neo drone review - Space.com",
+      "description": "The DJI Neo is a multi-functional drone that can be flown in several ways, including autonomous subject tracking. It can also capture 4K video.",
+      "url": "https://www.space.com/dji-neo-drone-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LYmjifCiASQDaTgXUxuyRm-1200-80.jpg",
+      "publishedAt": "2024-12-28T16:00:00Z",
+      "content": "It's not often that DJI is behind the curve, but even the world's leading drone manufacturer isn't going to be leading the pack all of the time. The DJI Neo is a sub-250 g beginner drone that can be … [+12029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Nicolas Vega",
+      "title": "50 years later, Dungeons & Dragons still brings in millions of dollars—including nearly $110,000 in 2024 for one small Brooklyn business - CNBC",
+      "description": "After decades spent as the pinnacle of nerd culture, the popular tabletop game has broken into the mainstream.",
+      "url": "https://www.cnbc.com/2024/12/28/50-years-in-dungeons-dragons-is-still-popular-and-profitable.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108079974-1735231568892-241224-mi-06-oo-dungeons-dragons-clean00_08_31_08Still033.jpg?v=1735231790&w=1920&h=1080",
+      "publishedAt": "2024-12-28T15:00:01Z",
+      "content": "Dungeons and Dragons has come a long way since making its debut 50 years ago.\r\nAfter decades spent as the pinnacle of nerd culture, the popular tabletop game has broken into the mainstream thanks in … [+2343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Palworld: Feybreak’ Draws 200,000 Concurrent Players, Now In Steam’s Top 10 - Forbes",
+      "description": "Palworld's playercount has spiked by almost 800% from its lows the last few months, and this is in fact the most players it has had since its launch window, since March 2024.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/12/28/palworld-feybreak-draws-200000-concurrent-players-now-in-steams-top-10/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677009c64932ba25fcaec157/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-28T14:31:50Z",
+      "content": "Palworld Feybreak\r\nPocketpair\r\nPalworlds back? Palworlds back. The viral phenomenon still has the honor of being the third most-concurrently played game in Steam history with 2.1 million players at l… [+2671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "PlayStation’s boss says it’s open to reviving classic franchises - Video Games Chronicle",
+      "description": "PlayStation co-CEO Hermen Hulst discusses bringing back old IPs…",
+      "url": "https://www.videogameschronicle.com/news/playstations-boss-says-its-open-to-reviving-classic-franchises/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2022/05/ape-escape-1.jpg",
+      "publishedAt": "2024-12-28T14:25:23Z",
+      "content": "PlayStation co-CEO Hermen Hulst has said Sony is open to reviving its back catalog of classic game franchises. \r\nSpeaking to Famitsu, the exec said that going forward, the platform holder intends to … [+1254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kotaku Staff",
+      "title": "A Look Back At The Gaming Highs And Lows Of 2024 - Kotaku",
+      "description": "As the year draws to a close, let's discuss how PlayStation, Xbox, and the Nintendo Switch have fared",
+      "url": "https://kotaku.com/2024-video-games-playstation-xbox-nintendo-best-worst-1851729377",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7c9bda773176eb91a7882bbfb83a4a35.jpg",
+      "publishedAt": "2024-12-28T14:00:00Z",
+      "content": "Were in the final days of 2024, a chance to look back and assess the year that was. What were the highs and lows, the disappointments that left us bereft and the surprises that reignited our love for… [+644 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "10 terrific Nintendo Switch games from 2024 to check out - The Verge",
+      "description": "The Nintendo Switch’s final year before its successor’s launch has surprisingly been a great one. Here’s The Verge’s pick of 10 Switch games from 2024 you shouldn’t miss.",
+      "url": "https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/f9emkz2VkoJEQTEOxgbqFeh51ZM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25784216/247333_EOY_Package_Check_In_CVirginia_NINTENDO.jpg",
+      "publishedAt": "2024-12-28T14:00:00Z",
+      "content": "This holiday season is the swan song for the Nintendo Switch. Nintendo told us as much when it said a long-awaited Switch successor would be announced by April 2025. But Nintendo thankfully didnt get… [+4883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "NEWS WIRES",
+      "title": "EU law mandating universal chargers for devices comes into force - FRANCE 24 English",
+      "description": "Electronics manufactures must from Saturday fit all devices sold in the EU with USB-C charger ports in a bid by the 27-nation bloc to reduce waste and cut costs for consumers, who will no longer have to purchase separate chargers for each device they own.",
+      "url": "https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force",
+      "urlToImage": "https://s.france24.com/media/display/edadd034-c521-11ef-86a1-005056bfb2b6/w:1280/p:16x9/000_33W86M6.jpg",
+      "publishedAt": "2024-12-28T13:56:39Z",
+      "content": "EU rules requiring all new smartphones, tablets and cameras to use the same charger came into force on Saturday, in a change Brussels said will cut costs and waste.\r\nManufacturers are now obliged to … [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Rob Beschizza",
+      "title": "The weirdest gaming PC of the year - Boing Boing",
+      "description": "Gaming PCs tend to be large, to house and cool full-size desktop GPUs. Few Mini PCs have discrete GPUs—an Intel NUC here, a Zotac Magnus there—but this year offered the…",
+      "url": "https://boingboing.net/2024/12/28/the-weirdest-gaming-pc-of-the-year.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2024/12/image-95-930x1144.png",
+      "publishedAt": "2024-12-28T13:49:38Z",
+      "content": "Gaming PCs tend to be large, to house and cool full-size desktop GPUs. Few Mini PCs have discrete GPUsan Intel NUC here, a Zotac Magnus therebut this year offered the peculiar AtomMan G7 Ti, thin and… [+1112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "The Remaining Issues With Path Of Exile 2’s Early Access Endgame - Forbes",
+      "description": "I’ve thrown in the towel on my level 88 Ranger and am working on my now level 45 Monk as I continue to dive deep into Path of Exile 2 Early Access.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/12/28/the-remaining-issues-with-path-of-exile-2s-early-access-endgame/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6764348bd2ef935cde3c2193/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-28T13:43:33Z",
+      "content": "Path of Exile 2\r\nNeverSink\r\nIve thrown in the towel on my level 88 Ranger and am working on my now level 45 Monk as I continue to dive deep into Path of Exile 2 Early Access. After spending a lot of … [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Anthony Spadafora",
+      "title": "This $32 charger is one of my favorite gadgets of 2024 — and it just got a big upgrade - Tom's Guide",
+      "description": "From 65 to 100 watts and now with even more faces",
+      "url": "https://www.tomsguide.com/computing/peripherals/this-robot-gan-charger-is-one-of-my-favorite-gadgets-of-2024-and-it-just-got-a-big-upgrade",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uDX9RN7TiimhXmUc8q2woh-1200-80.jpg",
+      "publishedAt": "2024-12-28T13:37:56Z",
+      "content": "The days of carrying around a bulky laptop charger and a separate charger for your phone are over and if you haven’t tried one yet, there’s never been a better time to pick up a GaN charger.\r\nUnlike … [+8216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Skye Jacobs",
+      "title": "AAA games struggle to keep up with skyrocketing graphics costs - TechSpot",
+      "description": "For decades, giants in the gaming industry like Sony and Microsoft banked on realistic visuals to captivate audiences. Other publishers like Naughty Dog (The Last of Us,...",
+      "url": "https://www.techspot.com/news/106125-aaa-games-struggle-keep-up-skyrocketing-graphics-costs.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/12/2024-12-28-image-4.jpg",
+      "publishedAt": "2024-12-28T13:29:00Z",
+      "content": "Recap: Gaming studios face increasingly difficult decisions as they grapple with the escalating costs of creating cutting-edge visuals and the diminishing returns these visuals often provide. The cha… [+3939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ollie Barder",
+      "title": "My Top 10 Japanese Games Of 2024 - Forbes",
+      "description": "This year had a distinctly retro gaming vibe when it came to Japanese game releases, and here are some of my favorites.",
+      "url": "https://www.forbes.com/sites/olliebarder/2024/12/28/my-top-10-japanese-games-of-2024/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d03f4eb9defacd15d9d5a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-28T13:15:45Z",
+      "content": "'Shadow of the Ninja Reborn' is one of the best platformers in recent years.\r\nININ Games\r\nThis year had a distinctly retro gaming vibe when it came to Japanese game releases, and here are some of my … [+5133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Sambit Saha",
+      "title": "Blackwell goes mainstream: What to expect from the upcoming Nvidia RTX 50-series gaming GPUs - Notebookcheck.net",
+      "description": "It's a tacitly known fact that Nvidia's widely anticipated RTX 50-series gaming GPUs are poised to be unveiled at CES 2025. From the power-hungry RTX 5090 with 33% more CUDA cores than its predecessor, to the memory-starved RTX 5060, here is a run-down of wha…",
+      "url": "https://www.notebookcheck.net/Blackwell-goes-mainstream-What-to-expect-from-the-upcoming-Nvidia-RTX-50-series-gaming-GPUs.936649.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/rtx_5090_rtx_5080_leaks_rtx_50_series_blackwell_summary.jpg",
+      "publishedAt": "2024-12-28T13:04:00Z",
+      "content": "The RTX 5080, on the other hand, is no slouch but sits a step down the ladder, with around 10,752 CUDA cores 'only', which is roughly a 10.5% increase compared to its predecessor. The RTX 5080 will a… [+1867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Davey Winder",
+      "title": "Critical Gmail Warning As Google Prompts Used In Ongoing Attacks - Forbes",
+      "description": "As hackers strike using genuine Google prompts in attacks, here’s what all Gmail users need to know.",
+      "url": "https://www.forbes.com/sites/daveywinder/2024/12/28/critical-gmail-warning-as-google-prompt-used-in-500000-hack-attack/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676ea4cf949a687f3e9e9b29/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-28T12:36:43Z",
+      "content": "Beware of this costly Gmail recovery prompt hack attack.\r\nNurPhoto via Getty Images\r\nUpdate, Dec. 28, 2024: This story, originally published Dec. 27 now includes more information regarding Gmail and … [+6746 chars]"
     }
   ]
 }
