@@ -1,71 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 28,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Maria Diaz",
-      "title": "Roborock's new 'mechanical arm' robot vacuum is unlike anything I've ever seen - ZDNet",
-      "description": "The new Roborock Saros Z70 robot vacuum features an arm that grabs toys, socks, and other small obstacles to clean your floors more thoroughly.",
-      "url": "https://www.zdnet.com/home-and-office/kitchen-household/roborocks-new-mechanical-arm-robot-vacuum-is-unlike-anything-ive-ever-seen/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e0a8044ea5b6adab662ffab3e4d14fa89c58008f/2025/01/06/655f491d-5244-41d4-b522-d23a07a8260b/rob2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-06T23:12:00Z",
-      "content": "Maria Diaz/ZDNET\r\nRoborock just dropped the mic in the robot vacuum market at CES 2025 with the Saros Z70 robot vacuum launch, which features a mechanical arm to remove obstacles in its path. The com… [+3957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "author": null,
-      "title": "[Invitation] Galaxy Unpacked January 2025: The Next Big Leap in Mobile AI Experiences - samsung.com",
-      "description": "Get ready for AI that is more natural and intuitive. The next evolution of Galaxy AI is coming and it’s going to change the way you interact with the world",
-      "url": "https://news.samsung.com/global/invitation-galaxy-unpacked-january-2025-the-next-big-leap-in-mobile-ai-experiences",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/01/Samsung-Mobile-Galaxy-Unpacked-January-2025-Invitation_Thumbnail728.jpg",
-      "publishedAt": "2025-01-06T23:03:40Z",
-      "content": "Get ready for AI that is more natural and intuitive. The next evolution of Galaxy AI is coming and its going to change the way you interact with the world every day. The new Galaxy S series is about … [+571 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Samsung says its home robot, Ballie, will roll out the first half of 2025 - TechCrunch",
-      "description": "Tech companies love rolling a robot out onstage. These systems serve as shorthand for consumer electronics brands branching out into a more bleeding-edge",
-      "url": "https://techcrunch.com/2025/01/06/samsung-says-its-home-robot-ballie-will-roll-out-this-year/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/Screenshot-2024-01-08-at-5.17.32 PM-e1736189148920.png?w=1186",
-      "publishedAt": "2025-01-06T22:31:00Z",
-      "content": "Tech companies love rolling a robot out onstage. These systems serve as shorthand for consumer electronics brands branching out into a more bleeding-edge category. On occasion we get an Amazon Astro … [+1269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Apple promises software update to address Apple Intelligence notification summary complaints - 9to5Mac",
-      "description": "Apple has officially responded to growing concerns around incorrect Apple Intelligence notification summaries. In a statement today, the company said...",
-      "url": "https://9to5mac.com/2025/01/06/apple-intelligence-software-update-complaints/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/notification-summaries-beta-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-06T20:49:00Z",
-      "content": "Apple has officially responded to growing concerns around incorrect Apple Intelligence notification summaries. In a statement today, the company said it will release a software update “in the coming … [+1917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "ACER announces $1099 NITRO Blaze 11 and $899 Blaze 8 handhelds with Ryzen 7 8840HS - VideoCardz.com",
-      "description": "Acer Expands Handheld Gaming Portfolio with New Nitro Blaze 8 and Nitro Blaze 11 Also announced is the Nitro Mobile Gaming Controller with a foldable design and simultaneous fast-charging for seamless on-the-go gaming The Acer Nitro Blaze 8 and Nitro Blaze 11…",
-      "url": "https://videocardz.com/press-release/acer-announces-1099-nitro-blaze-11-and-899-blaze-8-handhelds-with-ryzen-7-8840hs",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/01/ACER-BLAZE-NITRO.jpg",
-      "publishedAt": "2025-01-06T20:27:00Z",
-      "content": "« press release »\r\nAlso announced is the Nitro Mobile Gaming Controller with a foldable design and simultaneous fast-charging for seamless on-the-go gaming\r\n<ul><li>The Acer Nitro Blaze 8 and Nitro B… [+7376 chars]"
+      "author": "Kyle Orland",
+      "title": "Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck. - Ars Technica",
+      "description": "Legion Go S is cheaper without Windows; upcoming OS beta will allow for personal installs.",
+      "url": "https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/legiongos.png",
+      "publishedAt": "2025-01-07T20:51:59Z",
+      "content": null
     },
     {
       "source": {
@@ -77,7 +25,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-06T19:45:51Z",
+      "publishedAt": "2025-01-07T20:33:58Z",
       "content": "[Removed]"
     },
     {
@@ -85,143 +33,39 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "Dell will no longer make XPS computers - Ars Technica",
-      "description": "Dell is officially killing the XPS branding that’s become a mainstay for people seeking a sleek, respectable, well-priced PC.",
-      "url": "https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/white-cover-1152x648.jpg",
-      "publishedAt": "2025-01-06T19:45:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
       "author": "Andrew Cunningham",
-      "title": "New Radeon RX 9000 GPUs promise to fix two of AMD’s biggest weaknesses - Ars Technica",
-      "description": "Better ray tracing and ML-backed FSR upscaling could close the gap with Nvidia.",
-      "url": "https://arstechnica.com/gadgets/2025/01/new-radeon-rx-9000-gpus-promise-to-fix-two-of-amds-biggest-weaknesses/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/RDNA4-1-2-1152x648-1736183871.jpeg",
-      "publishedAt": "2025-01-06T19:45:03Z",
+      "title": "New GeForce 50-series GPUs: There’s the $1,999 5090, and there’s everything else - Ars Technica",
+      "description": "Nvidia leans heavily on DLSS 4 and AI-generated frames for speed comparisons.",
+      "url": "https://arstechnica.com/gadgets/2025/01/geforce-rtx-50-gpus-run-from-1999-to-549-lean-heavily-on-ai-generated-frames/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/geforce-rtx-5070-1152x648.jpg",
+      "publishedAt": "2025-01-07T20:06:13Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "CNET"
       },
-      "author": "Kyle Wiggers",
-      "title": "AMD unveils new chips for laptops, desktops, and gaming handhelds at CES 2025 - TechCrunch",
-      "description": "At CES 2025 in Las Vegas, AMD unveiled a slew of new chips destined for devices ranging from desktops to gaming handhelds.",
-      "url": "https://techcrunch.com/2025/01/06/amd-unveils-new-chips-for-laptops-desktops-and-gaming-handhelds/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
-      "publishedAt": "2025-01-06T19:45:00Z",
-      "content": "At CES 2025 in Las Vegas, AMD unveiled a slew of new chips destined for devices ranging from desktops to gaming handhelds.\r\nAMD is riding high coming into this year’s CES. The company commanded a 28.… [+4370 chars]"
+      "author": null,
+      "title": "Best TVs of CES 2025: Huge Screens and OLEDs That Literally Suck - CNET",
+      "description": "The Super Bowl of TVs kicks off the year with bigger, brighter and more innovative televisions than ever.",
+      "url": "https://www.cnet.com/pictures/best-tvs-of-ces-2025-huge-screens-and-oleds-that-literally-suck/",
+      "urlToImage": "https://www.cnet.com/a/img/hub/2025/01/07/ee3aad6b-9155-4f4e-a46c-ae467315ce9b/lg-tvs-ces-2025-4646.jpg",
+      "publishedAt": "2025-01-07T20:03:00Z",
+      "content": "Moving from concepts and high art to an actual TV you can buy now, the QM6K is an early favorite for best image quality for the money this year. In person it looked as bright as I'd expect from a new… [+336 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "[Removed]"
       },
-      "author": "Will Judd",
-      "title": "AMD announces next-gen Ryzen Z2 APUs for gaming handhelds - Eurogamer",
-      "description": "AMD's Z2 processors are now official - and include three architectures in one family: Z2 Extreme with Strix Point, Z2 on Hawk Point and Z2 Go on Rembrandt.",
-      "url": "https://www.eurogamer.net/digitalfoundry-2024-amd-announces-next-gen-ryzen-z2-apus-for-gaming-handhelds",
-      "urlToImage": "https://assetsio.gnwcdn.com/z2_KOWF2oV.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-01-06T19:45:00Z",
-      "content": "AMD has announced a trio of next-gen Ryzen Z-series APUs intended for use in gaming handhelds at their CES 2025 keynote. As we reported in December, the family includes three different architectures … [+2866 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Benjamin Herzig",
-      "title": "CES 2025 | Small powerhouse with Strix Halo: HP ZBook Ultra 14 G1a launches with Ryzen AI Max Pro - Notebookcheck.net",
-      "description": "Strix Halo goes ZBook: HP is one of the launch partners of AMD for its new Ryzen AI Max Platform. The new HP ZBook Ultra 14 G1a is a compact workstation that may compete well against the Apple MacBook Pro 14.",
-      "url": "https://www.notebookcheck.net/Small-powerhouse-with-Strix-Halo-HP-ZBook-Ultra-14-G1a-launches-with-Ryzen-AI-Max-Pro.942121.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/HP_ZBook_Ultra_G1a_14inch_Mobile_Workstation_PC_MeteorSilver_Hero_LeftSemiOpen.jpg",
-      "publishedAt": "2025-01-06T19:45:00Z",
-      "content": "HP puts all of this performance into a rather compact chassis, which starts at just 1.5 kg and 18.5 mm in thickness. There are no compromises when it comes to battery capacity, either, as the interna… [+965 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Google unveils an AI-powered TV that summarizes the news for you at CES 2025 - TechCrunch",
-      "description": "Long gone are the days of simply watching the news. Google unveiled the latest version of its TV operating system at CES 2025 on Monday. It uses the",
-      "url": "https://techcrunch.com/2025/01/06/google-unveils-an-ai-powered-tv-that-summarizes-the-news-for-you-at-ces-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Google-TV.jpg?resize=1200,900",
-      "publishedAt": "2025-01-06T19:39:00Z",
-      "content": "Long gone are the days of simply watching the news. \r\nGoogle unveiled the latest version of its TV operating system at CES 2025 on Monday. It uses the company’s Gemini AI assistant to summarize the b… [+2599 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Song",
-      "title": "Score a Massive 20TB Seagate External Hard Drive for Only $229.99 at Best Buy - IGN",
-      "description": "Pay only $11.50 per TB of storage.",
-      "url": "https://www.ign.com/articles/best-desktop-hard-drive-deal-2025-seagate-expansion-20tb",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/06/seagateexpansion20tbdesktop-1736191171965.jpg?width=1280",
-      "publishedAt": "2025-01-06T19:30:54Z",
-      "content": "If you're shopping for a huge amount of local storage, here's a deal that beats pretty much anything I saw during Black Friday. For a limited time, Best Buy is offering this massive Seagate Expansion… [+1881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "New Xbox Controller Is Basically A Fancy PS5 Gamepad - Kotaku",
-      "description": "Hyperkin's The Competitor is for all you Xbox owners out there who prefer playing on a DualSense",
-      "url": "https://kotaku.com/xbox-controller-ps5-hyperkin-competitor-dualsense-price-1851733419",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e202594a13ddf8176cdaf31e8c0d3745.jpg",
-      "publishedAt": "2025-01-06T19:30:00Z",
-      "content": "At CES 2025, accessory and controller maker Hyperkin revealed its upcoming Xbox gamepad that is inspired by Sonys PS5 DualSense controller. However, this new wired controller is much more than just a… [+1627 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "‘Max Ink Mode’ makes TCL’s screens even inkier - The Verge",
-      "description": "The TCL 60 XE is a low-cost phone with a dedicated switch to put the display in a monochrome, E Ink-like mode for comfortable reading.",
-      "url": "https://www.theverge.com/2025/1/6/24335983/tcl-60-xe-nxtpaper-e-ink-specs-ces",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0eUSY0aNt4-pSy0pSS6YNv9VpO8=/0x0:6000x4000/1200x628/filters:focal(2424x1943:2425x1944)/cdn.vox-cdn.com/uploads/chorus_asset/file/25817387/CanadaSunrise_Lifestyle1.jpg",
-      "publishedAt": "2025-01-06T19:00:00Z",
-      "content": "Max Ink Mode makes TCLs screens even inkier\r\nMax Ink Mode makes TCLs screens even inkier\r\n / The TCL 60 XE includes a dedicated switch to put it into monochrome overdrive.\r\nByAllison Johnson, a revie… [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Chris Welch",
-      "title": "TCL’s first new TV of 2025 is the “affordable premium” QM6K Mini LED - The Verge",
-      "description": "TCL has announced the new QM6K Mini LED TV with up to 500 dimming zones, less blooming, and a native 144Hz refresh rate, starting at $750 for a 50-inch model.",
-      "url": "https://www.theverge.com/2025/1/6/24337426/tcl-qm6k-mini-led-features-specs-pricing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4cn601Ifh8kacJ5y1utjPDvF4cY=/0x0:2040x1147/1200x628/filters:focal(1020x574:1021x575)/cdn.vox-cdn.com/uploads/chorus_asset/file/25819834/QM6K_98.jpg",
-      "publishedAt": "2025-01-06T19:00:00Z",
-      "content": "TCLs first Mini LED TV of 2025 offers impressive specs at a tempting price\r\nTCLs first Mini LED TV of 2025 offers impressive specs at a tempting price\r\n / The company claims it has made Mini LED impr… [+2492 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "More Android phones with Qi2 wireless charging will finally show up in 2025 - The Verge",
-      "description": "In addition to a new Qi2 Ready certification for magnetless phones with Qi2, the WPC announced during CES 2025 that more Android phones will soon support the wireless standard.",
-      "url": "https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q9IWjg4fm-mgGW6NVOugvxAnB4o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24297741/226451_MagSafe_Buying_Guide_ADiBenedetto_0014.jpg",
-      "publishedAt": "2025-01-06T18:11:44Z",
-      "content": "More Android phones with Qi2 wireless charging will finally show up in 2025\r\nMore Android phones with Qi2 wireless charging will finally show up in 2025\r\n / A new certification is coming for Qi2 devi… [+198 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-07T18:09:30Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -229,25 +73,64 @@
         "name": "MacRumors"
       },
       "author": "Juli Clover",
-      "title": "Apple Releases iOS 18.2.1 With Bug Fixes - MacRumors",
-      "description": "Apple today released iOS 18.2.1 and iPadOS 18.2.1, minor updates to the iOS 18 and iPadOS 18 operating systems. iOS 18.2.1 and iPadOS 18.2.1 come...",
-      "url": "https://www.macrumors.com/2025/01/06/apple-releases-ios-18-2-1/",
-      "urlToImage": "https://images.macrumors.com/t/Qc_LubyLWZPHe3I_tabMDXjr49w=/2500x/article-new/2024/12/iOS-18.2.1-Feature.jpg",
-      "publishedAt": "2025-01-06T18:07:43Z",
-      "content": "('https://www.macrumors.com/2025/01/06/apple-releases-ios-18-2-1/')Apple today released iOS 18.2.1 and iPadOS 18.2.1, minor updates to the iOS 18 and iPadOS 18 operating systems. iOS 18.2.1 and iPadO… [+629 chars]"
+      "title": "Apple Releases Second Betas of iOS 18.3 and iPadOS 18.3 - MacRumors",
+      "description": "Apple today seeded the second betas of upcoming iOS 18.3 and iPadOS 18.3 updates to developers for testing purposes, with the software coming three...",
+      "url": "https://www.macrumors.com/2025/01/07/apple-releases-ios-18-3-beta-2/",
+      "urlToImage": "https://images.macrumors.com/t/DwgmWttnkGicVC0L29A5eSC0nCs=/2500x/article-new/2024/12/Generic-iOS-18.3-Feature-Real-Mock.jpg",
+      "publishedAt": "2025-01-07T18:03:31Z",
+      "content": "Apple today seeded the second betas of upcoming iOS 18.3 and iPadOS 18.3 updates to developers for testing purposes, with the software coming three weeks after Apple released the first betas.\r\niOS 18… [+733 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Jay Peters",
-      "title": "LG TVs are getting Xbox Cloud Gaming - The Verge",
-      "description": "Xbox Cloud Gaming is coming to some LG TVs “later this year,” Microsoft and LG announced at CES 2025. You can already use Xbox Cloud Gaming on some Samsung TVs.",
-      "url": "https://www.theverge.com/2025/1/6/24337366/xbox-cloud-gaming-lg-tvs-ces-2025",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HNl9RX7tpYiqZJ7TFam2twYQSUI=/0x0:1920x1080/1200x628/filters:focal(847x506:848x507)/cdn.vox-cdn.com/uploads/chorus_asset/file/25819678/LG_Cloud_373df5233bf255f3fe71.jpg",
-      "publishedAt": "2025-01-06T17:30:14Z",
-      "content": "LG TVs are getting Xbox Cloud Gaming\r\nLG TVs are getting Xbox Cloud Gaming\r\n / Some LG TVs will be Xboxes, too.\r\nByJay Peters, a news editor who writes about technology, video games, and virtual worl… [+76 chars]"
+      "author": "Sarah Perez",
+      "title": "Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created - TechCrunch",
+      "description": "3D design app Rooms just landed more funding. Launched into beta in 2023, the app from ex-Google employees allows users to build and code interactive 3D",
+      "url": "https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Rooms-app-2.png?w=1200",
+      "publishedAt": "2025-01-07T17:45:38Z",
+      "content": "3D design app Rooms just landed more funding. Launched into beta in 2023, the app from ex-Google employees allows users to build and code interactive 3D rooms and mini-games using a library of more t… [+2799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "author": "Tucker Bowe",
+      "title": "A Classic Hi-Fi Brand Just Solved My Biggest Beef with AirPods - Gear Patrol",
+      "description": "The revered Japanese audio maker's newest wireless earbuds have a convenient feature that all other earbuds should have. Including AirPods.",
+      "url": "https://www.gearpatrol.com/audio/audio-technica-ath-cks50tw2-wireless-earbuds/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/01/Audio-Technica-ATH-CKS50TW-2-jpg.webp",
+      "publishedAt": "2025-01-07T17:41:09Z",
+      "content": "Audio-Technica is well known for its direct-drive turntables, high-end phono cartridges, and hi-fi headphones, but the Japanese audio maker has been making wireless earbuds for several years now, too… [+1174 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Google Pixel 4a gets an unexpected update: Lower battery life - Ars Technica",
+      "description": "It’s intentional, and eligible users can get cash or free battery replacements.",
+      "url": "https://arstechnica.com/gadgets/2025/01/good-news-bad-news-pixel-4a-is-getting-an-update-but-it-reduces-battery-life/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/pixel_4a-1152x648.jpg",
+      "publishedAt": "2025-01-07T16:41:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Jeremy Gray",
+      "title": "OnePlus 13 Targets Passionate Photographers With Impressive Hasselblad Camera System - PetaPixel",
+      "description": "A compelling choice for mobile photographers.",
+      "url": "https://petapixel.com/2025/01/07/oneplus-13-targets-passionate-photographers-with-impressive-hasselblad-camera-system/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/01/13_Blue_water.jpg",
+      "publishedAt": "2025-01-07T16:30:51Z",
+      "content": "After a series of teasers, OnePlus has officially unveiled not only the flagship OnePlus 13 smartphone but the OnePlus 13R, a budget-friendly alternative. Both models emphasize photography features a… [+5504 chars]"
     },
     {
       "source": {
@@ -255,12 +138,129 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Samsung rolling out third One UI 7 beta with UI tweaks – here’s the full changelog [Gallery] - 9to5Google",
-      "description": "Samsung is rolling out a new One UI 7 beta update, beta 3, which brings a bunch of UI tweaks and bug fixes ahead of a stable release.",
-      "url": "http://9to5google.com/2025/01/06/samsung-one-ui-7-beta-3-changelog-gallery/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/one-ui-7-notifications-quick-settings-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-06T16:40:00Z",
-      "content": "The third One UI 7 beta update is now rolling out to Samsung’s Galaxy S24 series with some UI tweaks and various bug fixes.\r\nAfter One UI 7 launched in beta on the Galaxy S24 series back in early Dec… [+2129 chars]"
+      "title": "Lenovo debuts enticing new Android tablets, SteamOS gaming handheld, more laptops - 9to5Google",
+      "description": "Lenovo is kicking off 2025 with the reveal of two surprisingly enticing new Android tablets which include a lot of...",
+      "url": "http://9to5google.com/2025/01/07/lenovo-ces-2025-steamos-handheld-android-tablets-laptops/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/lenovo-ces-2025-tablets-legion-go-s.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-01-07T16:00:00Z",
+      "content": "Lenovo is kicking off 2025 with the reveal of two surprisingly enticing new Android tablets which include a lot of AI and the company’s first products with Circle to Search. Beyond that, there’s also… [+4055 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Lenovo brings Windows on Arm to mini desktop PCs - The Verge",
+      "description": "Lenovo is squeezing Qualcomm’s latest Windows on Arm chips into mini PCs. There are two options available for consumers and commercial customers.",
+      "url": "https://www.theverge.com/2025/1/7/24334888/lenovo-qualcomm-snapdragon-x-mini-desktop-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9qhBIZONIMpRc6jumuqIEHalFws=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25815023/lenovominipcs.jpg",
+      "publishedAt": "2025-01-07T16:00:00Z",
+      "content": "Lenovo brings Windows on Arm to mini desktop PCs\r\nLenovo brings Windows on Arm to mini desktop PCs\r\n / Qualcomms Snapdragon X chips are coming to desktop PC form factors after a 2024 full of Windows … [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Lenovo’s dual-screen Yoga Book 9i gets bigger displays - The Verge",
+      "description": "Lenovo puts 14-inch OLED displays and Intel Core Ultra processors in the 10th-generation Yoga Book 9i, Yoga Slim 9i, and the Yoga 9i 2-in-1 Aura Edition.",
+      "url": "https://www.theverge.com/2025/1/7/24336705/lenovo-yoga-10th-gen-slim-book-2-in-1-9i-intel-core-ultra-7",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yPJILqbblsg58dLuxcDalYD6e38=/0x0:3862x2575/1200x628/filters:focal(1931x1288:1932x1289)/cdn.vox-cdn.com/uploads/chorus_asset/file/25818946/Screenshot_2025_01_06_at_12.59.02_AM.jpeg",
+      "publishedAt": "2025-01-07T16:00:00Z",
+      "content": "Lenovos dual-screen Yoga Book 9i gets bigger displays\r\nLenovos dual-screen Yoga Book 9i gets bigger displays\r\n / Lenovo packs 14-inch OLED screens and Intel Core Ultra 7 chips in its Yoga device line… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telecoms.com"
+      },
+      "author": null,
+      "title": "Nokia’s cellular network is now ready for the Moon - Telecoms.com",
+      "description": "A mission lander loaded with Nokia’s Lunar Surface Communication System (LSCS) will voyage to the lunar south pole region, where the intention is to deploy the first cellular network on the Moon.",
+      "url": "https://www.telecoms.com/wireless-networking/nokia-s-cellular-network-is-now-ready-for-the-moon",
+      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blt071d5b618b43c8b8/65bb6cb3a5d93b040a192656/Nokia_space_telecoms_169.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2025-01-07T15:38:39Z",
+      "content": "Nokia Bell Labs and Intuitive Machines have announced the successful integration of Nokias LSCS into the latters IM-2 mission lander, called Athena.\r\nAfter months of testing, engineers installed the … [+5798 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Razer Project Ava: would you pay an AI to help you get good at games? - The Verge",
+      "description": "Razer is introducing what might be its most controversial “project” ever — an “AI gaming copilot” designed to help you get better at video games.",
+      "url": "https://www.theverge.com/24338016/razer-project-ava-ai-gaming-copilot-coach",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/v3-NWQrpIxZwrAXBcsIMXTK7eCM=/0x0:2040x1360/1200x628/filters:focal(1093x532:1094x533)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820425/257474_CES_2025_Razer_Project_Ava_ADiBenedetto_0004.jpg",
+      "publishedAt": "2025-01-07T14:00:00Z",
+      "content": "Razer Project Ava: would you pay an AI to help you get good at games?\r\nRazer Project Ava: would you pay an AI to help you get good at games?\r\n / Bit of a strange fit for the Razer brand particularly … [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The Shokz OpenFit 2 is an almost perfect update to the originals - The Verge",
+      "description": "Shokz announces its OpenFit 2 at CES 2025. But while the OpenFit 2 offer improved comfort, touch controls, and volume, the sound quality is still a bit hollow.",
+      "url": "https://www.theverge.com/2025/1/7/24336505/shokz-openfit-2-hands-on-ces-2025-open-ear-headphones-price",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uK601RLw_UWlPbX0cOm8mTwOAbM=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25819247/257471_Shokz_Open_ADiBenedetto_0001.jpg",
+      "publishedAt": "2025-01-07T13:00:00Z",
+      "content": "The Shokz OpenFit 2 is an almost perfect update to the originals\r\nThe Shokz OpenFit 2 is an almost perfect update to the originals\r\n / Shokz has made improvements to comfort, volume, battery, and tou… [+3985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "PUBG unveils chatty co-op buddy powered by generative AI that's designed to play and talk like a human teammate - Eurogamer",
+      "description": "PUBG maker Krafton has unveiled what it's calling Co-Playable Characters (CPCs) - essentially, AI companions that are d…",
+      "url": "https://www.eurogamer.net/pubg-unveils-chatty-co-op-buddy-powered-by-generative-ai-thats-designed-to-play-and-talk-like-a-human-teammate",
+      "urlToImage": "https://assetsio.gnwcdn.com/NVIDIA-ACE-_-Introducing-PUBG-Ally---First-Co-Playable-Character-0-59-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-07T12:45:27Z",
+      "content": "PUBG maker Krafton has unveiled what it's calling Co-Playable Characters (CPCs) - essentially, AI companions that are designed to move, shoot and talk like a human teammate.\r\nThe technology is powere… [+1442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": null,
+      "title": "Nintendo Switch 2 New Dock Leaked Photo Shows New Information; System Will Ship With a 60W Charger - Wccftech",
+      "description": "A new picture of the Nintendo Switch 2 dock leaked online today, providing new information on the yet-to-be-announced system.",
+      "url": "https://wccftech.com/nintendo-switch-2-leaked-dock-60w-charger/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/08/nintendo-switch-sales-HD-scaled.jpg",
+      "publishedAt": "2025-01-07T11:45:00Z",
+      "content": "Another day, another Nintendo Switch 2 leak. Today, a new partial picture of the system's dock started making the rounds online, providing new information on the yet-to-be-revealed consoles.\r\nThe new… [+1641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-07T09:16:54Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "author": null,
+      "title": "NVIDIA Reflex 2 With New Frame Warp Technology Reduces Latency In Games By Up To 75% - NVIDIA Daily News Report",
+      "description": "Innovative new technology improves responsiveness by updating rendered frames based on latest mouse input.",
+      "url": "https://www.nvidia.com/en-us/geforce/news/reflex-2-even-lower-latency-gameplay-with-frame-warp/",
+      "urlToImage": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/reflex-2-even-lower-latency-gameplay-with-frame-warp/nvidia-reflex-2-frame-warp-ogimage.jpg",
+      "publishedAt": "2025-01-07T03:33:45Z",
+      "content": "With Reflex 2, weve introduced a different approach to reducing latency. Four years ago, NVIDIAs esports research team published a study illustrating how players could complete aiming tasks faster wh… [+1643 chars]"
     }
   ]
 }
