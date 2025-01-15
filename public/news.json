@@ -1,162 +1,110 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 70,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Dot Esports"
+        "name": "Gizmodo.com"
       },
-      "author": "Luci Kelemen",
-      "title": "A long-awaited Counter-Strike mod may have been quietly killed by Valve, and nobody knows what’s next - Dot Esports",
-      "description": "Classic Offensive seems to be stuck in limbo after Valve deleted the app from Steam with no explanation.",
-      "url": "https://dotesports.com/counter-strike/news/a-long-awaited-counter-strike-mod-may-have-been-quietly-killed-by-valve-and-nobody-knows-whats-next",
-      "urlToImage": "https://dotesports.com/wp-content/uploads/2025/01/classic-offensive.jpg",
-      "publishedAt": "2025-01-11T21:26:00Z",
-      "content": "Classic Offensive, a long-running Counter-Strike community project with an ambitious goal of mixing the best of 1.6 with the innovations of Global Offensive, was finally about to see the light of day… [+3061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Google Confirms Samsung S24, S23 Attack Warning—Check Your Galaxy Phone Now - Forbes",
-      "description": "Check your phone today as details of critical new threat are revealed—here's what you need to know.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/01/11/google-confirms-samsung-s24-s23-attack-warning-check-your-galaxy-phone-now/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67155e6d2508edcb3450b4d7/0x0.jpg?format=jpg&crop=872,633,x641,y242,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-11T19:52:05Z",
-      "content": "New Samsung attack threat revealed\r\nAFP via Getty Images\r\nExciting times for Galaxy flagship owners, with the excellent Android 15 upgrade due to be released in just a few weeks, alongside the launch… [+3125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Virtual Console was originally planned for Nintendo Switch - Nintendo Everything",
-      "description": "It's been revealed that Nintendo was once planning a Virtual Console for Nintendo Switch - here are all of the details.",
-      "url": "https://nintendoeverything.com/virtual-console-nintendo-switch-cancelled-details/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Virtual-Console-Nintendo-Switch.jpg",
-      "publishedAt": "2025-01-11T19:46:44Z",
-      "content": "Up until the release of Switch, Virtual Console was a big thing for Nintendo starting with Wii. Players could purchase and download a variety of classic titles from past hardware. However, with Ninte… [+2971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Alyse Stanley",
-      "title": "Nintendo Switch 2 tipster claims to know release date, pricing and launch games - Tom's Guide",
-      "description": "Mario Kart 9 and Red Dead Redemption 2 rumored to be launch titles",
-      "url": "https://www.tomsguide.com/gaming/nintendo-switch-2-tipster-claims-to-know-release-date-pricing-and-launch-games",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NChXpY2bk2hLC7KmPYRkaS-1200-80.jpg",
-      "publishedAt": "2025-01-11T19:07:24Z",
-      "content": "All signs point to Nintendo announcing the Nintendo Switch 2 before the end of January, but that doesn't mean the rumor mill is stopping anytime soon. Another Switch 2 leak has surfaced from a tipste… [+2279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Brooke Kato",
-      "title": "Apple users warned of hi-tech Mac malware that steals personal data, goes undetected for months— here's how to stay safe - New York Post ",
-      "description": "An estimated 100 million Apple users are at risk of falling victim of a new Mac malware.",
-      "url": "https://nypost.com/2025/01/11/tech/apple-users-warned-of-hi-tech-mac-malware-that-steals-personal-data-goes-undetected-for-months-heres-how-to-stay-safe/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/woman-using-typing-apple-macbook-96549880.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-11T18:05:00Z",
-      "content": "An estimated 100 million Apple users are at risk of falling victim to malware.\r\nCybersecurity software company Check Point issued an urgent warning to the millions of Mac users around the world who m… [+2393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Hands-on: Swippitt is a clever ‘instant’ phone charger, but it’s probably not for you - 9to5Google",
-      "description": "We’ve all had that moment where our phones are dying, but we need to leave. Charging is usually too slow,...",
-      "url": "http://9to5google.com/2025/01/11/swippitt-instant-phone-charger-ces-2025/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/swippitt-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-11T18:00:00Z",
-      "content": "We’ve all had that moment where our phones are dying, but we need to leave. Charging is usually too slow, and carrying around a battery bank can be annoying. That’s the problem Swippitt wants to solv… [+2552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "AMD’s Radeon RX 9070 GPUs Gets Listed At Spanish Retailer; Revealing Details About Gigabyte AIB Models - Wccftech",
-      "description": "AMD's Radeon RX 9070 GPUs have now surfaced online at a Spanish retailer, revealing GPU specifications along with details of the AIB models.",
-      "url": "https://wccftech.com/amds-radeon-rx-9070-gpus-gets-listed-at-spanish-retailer/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/01/AMD-Radeon-RX-9070-XT-GPU.jpg",
-      "publishedAt": "2025-01-11T17:37:00Z",
-      "content": "AMD's Radeon RX 9070 GPUs have now surfaced online at a Spanish retailer, revealing GPU specifications along with details of the respective AIB model.\r\nWell, now that AMD's RDNA 4 GPUs are not far aw… [+1718 chars]"
+      "author": "Florence Ion",
+      "title": "Apple Users in 2025 Are Headed for the Best Year of Their Lives, Probably - Gizmodo",
+      "description": "Apple's outlook for the year includes a new member of the iPhone lineup, another push for the smart home, and beefy MacBook Pros.",
+      "url": "https://gizmodo.com/apple-users-in-2025-are-headed-for-the-best-year-of-their-lives-probably-2000549596",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/iPhone-16-Glow-Time-event-Hero.jpg",
+      "publishedAt": "2025-01-13T21:12:03Z",
+      "content": "2025 has started on the wrong foot, depending on where you are. But if you’re in a part of the U.S. that’s not on fire, at least there’s some leverage on the way in the form of rumors of Apple’s next… [+2831 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Brandon Widder",
-      "title": "Anker’s display-equipped USB charger from CES is already on sale - The Verge",
-      "description": "For a limited time, the Anker Charger (140W) is available for $79.99. You can also currently save on Amazon’s Smart Air Quality Monitor and the Samsung Galaxy Buds FE.",
-      "url": "https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cxcF15FC4rpFdj7EqeWqRz7GxxQ=/0x0:1512x1009/1200x628/filters:focal(756x505:757x506)/cdn.vox-cdn.com/uploads/chorus_asset/file/25825891/Anker_Charger__140W__4_Port__PD_3.1__Lifestyle_2.jpg",
-      "publishedAt": "2025-01-11T17:32:25Z",
-      "content": "Ankers display-equipped wall charger from CES is already on sale\r\nAnkers display-equipped wall charger from CES is already on sale\r\n / Amazons inexpensive air quality is also discounted today, along … [+2456 chars]"
+      "author": "Andrew Webster",
+      "title": "Nintendo’s Alarmo will be available for everyone starting in March - The Verge",
+      "description": "After previously only being available for Switch Online subscribers, Nintendo’s Alarmo alarm clock will be purchasable by anyone starting in March.",
+      "url": "https://www.theverge.com/2025/1/13/24342984/nintendo-alarmo-wide-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/92RtmbpenENOAKLirbScXGnt544=/0x0:2040x1360/1200x628/filters:focal(848x684:849x685)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666830/DSC_0992.jpg",
+      "publishedAt": "2025-01-13T20:33:38Z",
+      "content": "Nintendos Alarmo will be available for everyone starting in March\r\nNintendos Alarmo will be available for everyone starting in March\r\n / No Switch Online subscription necessary.\r\nByAndrew Webster, an… [+1273 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComicBook.com"
+        "name": "Android Authority"
       },
-      "author": "Tyler Fischer",
-      "title": "Ubisoft Creates More Assassin’s Creed Shadows Controversy With New Change - ComicBook.com",
-      "description": "Ubisoft and Assassin's Creed Shadows are both back in the middle of controversy following the new release date for the game.",
-      "url": "http://comicbook.com/gaming/news/assassins-creed-shadows-ubisoft-release-date-controversy/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/a-s-s-a-s-s-i-n-s-c-r-e-e-d_f28426.png?resize=2000,1125",
-      "publishedAt": "2025-01-11T17:14:43Z",
-      "content": "Assassin’s Creed Shadows has been surrounded by controversy since its reveal, and the controversy just keeps on coming for Ubisoft. And this is particularly bad news for Ubisoft who needs Assassin’s … [+2270 chars]"
+      "author": null,
+      "title": "Google may redesign the volume UI in Android 16, and here's a first look - Android Authority",
+      "description": "Android 16 could bring an updated volume slider and volume panel UI. Here's an early first look at the new designs!",
+      "url": "https://www.androidauthority.com/android-16-volume-redesign-3516082/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Android-16-logo-on-smartphone-11.jpg",
+      "publishedAt": "2025-01-13T20:07:16Z",
+      "content": "<ul><li>Google is working on a new design for Androids volume slider and volume panel.</li><li>The new design ditches the thick, pill-shaped sliders in favor of thinner, continuous sliders with handl… [+2697 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "2002’s Neverwinter Nights gets a patch in 2025 from “unpaid software engineers” - Ars Technica",
+      "description": "Bioware’s beloved Dungeons & Dragons CRPG remains a rich space for storytelling.",
+      "url": "https://arstechnica.com/gaming/2025/01/2002s-neverwinter-nights-gets-a-patch-in-2025-from-unpaid-software-engineers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/nwnenhanced2-1152x648.jpg",
+      "publishedAt": "2025-01-13T19:55:07Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "GameSpot"
       },
-      "author": "Vikki Blake",
-      "title": "Lords of the Fallen publisher CI Games publicly shuns \"DEI\", says it won't \"embed social or political agendas\" - Eurogamer",
-      "description": "Lords of the Fallen publisher CI Games confirmed it would not \"embed social or political agendas\" in its games due to t…",
-      "url": "https://www.eurogamer.net/lords-of-the-fallen-publisher-ci-games-publicly-shuns-dei-says-it-wont-embed-social-or-political-agendas",
-      "urlToImage": "https://assetsio.gnwcdn.com/Lords-of-the-fallen-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-01-11T16:29:00Z",
-      "content": "Lords of the Fallen publisher CI Games confirmed it would not \"embed social or political agendas\" in its games due to the \"high risk it can present\".\r\nAccording to Strefa Inwestorów (thanks, PC Gamer… [+1793 chars]"
+      "author": "George Yang",
+      "title": "Microsoft To Reveal New Entry In \"Legendary\" Japanese Franchise Next Week - Report - GameSpot",
+      "description": "The Xbox Developer Direct airs on January 23.",
+      "url": "https://www.gamespot.com/articles/microsoft-to-reveal-new-entry-in-legendary-japanese-franchise-next-week-report/1100-6528781/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/4426525-image_2025-01-13_125536844.jpg",
+      "publishedAt": "2025-01-13T19:21:39Z",
+      "content": "Microsoft is reportedly announcing a new entry in a \"legendary Japanese IP\" during its Xbox Developer Direct on January 23. Along with this new game, Microsoft will also show off Doom: The Dark Ages,… [+1121 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "TheGamer"
       },
-      "author": "Ben Schoon",
-      "title": "Yes, the Lenovo Legion Tab supports a stylus on its 8.8-inch display - 9to5Google",
-      "description": "Lenovo’s small yet powerful Legion Tab looks to be an Android tablet many have been waiting for, as it sold...",
-      "url": "http://9to5google.com/2025/01/11/lenovo-legion-tab-stylus-pen-support/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/lenovo-legion-tab-stylus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-11T16:15:00Z",
-      "content": "Lenovo’s small yet powerful Legion Tab looks to be an Android tablet many have been waiting for, as it sold out in barely two days. One question about the device has been whether or not it supports s… [+1626 chars]"
+      "author": "Jade King",
+      "title": "Halo Coming To PS5 Is The Beginning Of The End For Xbox - TheGamer",
+      "description": "What happens to the console when Master Chief jumps ship?",
+      "url": "https://www.thegamer.com/halo-ps5-port-xbox-console-future/",
+      "urlToImage": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/01/mixcollage-13-jan-2025-04-24-pm-6165.jpg",
+      "publishedAt": "2025-01-13T19:00:00Z",
+      "content": "Once upon a time, the idea of an Xbox exclusive like Halo or Gears of War gracing a rivals platform was unthinkable. Its like when you boot up The Master Chief Collection on PC then decide to play wi… [+5248 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Jeannine Mancini",
-      "title": "Elon Musk's Ex-Wife And Mother To His 5 Kids Says His Secret To Extreme Success Is Working Harder Than 'Average Bear' And Saying 'No' A Lot - Yahoo Finance",
-      "description": "Justine Musk, a writer and the ex-wife of tech mogul Elon Musk – the richest person in the world – offered a rare glimpse into the personal philosophy that...",
-      "url": "https://finance.yahoo.com/news/elon-musks-ex-wife-mother-160020804.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/d50b8bbcae76ffdbfc816347bea1372c",
-      "publishedAt": "2025-01-11T16:00:20Z",
-      "content": "Elon Musk's Ex-Wife And Mother To His 5 Kids Says His Secret To Extreme Success Is Working Harder Than 'Average Bear' And Saying 'No' A Lot\r\nJustine Musk, a writer and the ex-wife of tech mogul Elon … [+3681 chars]"
+      "author": "Eric Song",
+      "title": "The New 2024 Apple iPad Mini Drops to an All-Time Low (The Best iPad for Reading & Portability) - IGN",
+      "description": "Matches the best deal during Black Friday or Cyber Monday.",
+      "url": "https://www.ign.com/articles/best-apple-ipad-mini-deal-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/13/appleipadmini-1736788835447.jpg?width=1280",
+      "publishedAt": "2025-01-13T18:36:33Z",
+      "content": "Right now, Amazon and Best Buy are offering the current generation Apple iPad Mini (A17 Pro) for only $399.99 shipped after a $100 (20% off) discount. That matches the best deal I saw during Black Fr… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Report: After many leaks, Switch 2 announcement could come “this week” - Ars Technica",
+      "description": "Reveal will reportedly focus on hardware, with game announcements to come later.",
+      "url": "https://arstechnica.com/gaming/2025/01/report-after-many-leaks-switch-2-announcement-could-come-this-week/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/110478-nintendo-switch-neon-blue-neon-red-console-joy-con-dock-lifestyle-1200x675-1-1152x648-1736791230.jpeg",
+      "publishedAt": "2025-01-13T18:34:24Z",
+      "content": null
     },
     {
       "source": {
@@ -164,103 +112,155 @@
         "name": "The Verge"
       },
       "author": "Wes Davis",
-      "title": "New renders show the Samsung Galaxy S25 lineup ahead of Unpacked - The Verge",
-      "description": "A set of leaked renders show a redesigned Samsung Galaxy S25 Ultra with rounder corners, as well as the colors coming to Samsung’s flagship smartphone line this year.",
-      "url": "https://www.theverge.com/2025/1/11/24341376/samsung-galaxy-s25-plus-ultra-renders-leaked",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2gTcaYAVuFkl6F5FTmV8IgehAiY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24000091/acastro_STK075_03.jpg",
-      "publishedAt": "2025-01-11T15:42:53Z",
-      "content": "New renders show the Samsung Galaxy S25 lineup ahead of Unpacked\r\nNew renders show the Samsung Galaxy S25 lineup ahead of Unpacked\r\n / A set of official-looking Samsung renders leave little to the im… [+1657 chars]"
+      "title": "Samsung is adding two new Galaxy Ring sizes - The Verge",
+      "description": "Samsung’s smart ring will be available in sizes 14 and 15 starting on January 22nd, making its total size range five to 15.",
+      "url": "https://www.theverge.com/2025/1/13/24342776/samsung-galaxy-ring-new-sizes-14-15-available-now",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wOb-EEuYjHz_eCr_kKTQcTCwJpc=/143x337:1806x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25543972/galaxyring_5.jpg",
+      "publishedAt": "2025-01-13T18:15:18Z",
+      "content": "Samsung is adding two new Galaxy Ring sizes\r\nSamsung is adding two new Galaxy Ring sizes\r\n / Samsungs smart ring sizes will range from five to 15 starting January 22nd.\r\nByWes Davis, a weekend editor… [+1387 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Windows Central"
+      },
+      "author": "Jez Corden",
+      "title": "Xbox 2025 predictions and overview: Microsoft's most promising games line up in history meets a platform under duress - Windows Central",
+      "description": "OPINION: Microsoft has turned its gaming operation into a duality of boom and bust. Which one will win out?",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-2025-predictions-and-overview-microsofts-most-promising-games-line-up-in-history-meets-a-platform-under-duress",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9D9KgEik3zGjy5Wk7TtDaU-1200-80.jpg",
+      "publishedAt": "2025-01-13T18:00:35Z",
+      "content": "2025 is finally here, and for Xbox fans, that marks another year of dualities.\r\nMicrosoft is likely to have its most potent year in first-party content in history. After almost a decade of requests f… [+11342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-11T15:30:01Z",
-      "content": "[Removed]"
+      "title": "Complete Community Challenges to Earn Rewards! - Blizzard News",
+      "description": "Work together as a community to complete three weeks of challenges and unlock rewards everyone can enjoy!",
+      "url": "https://news.blizzard.com/en-us/article/24166078/complete-community-challenges-to-earn-rewards",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/9z/9ZOTBM1HWM5S1736472685641.png",
+      "publishedAt": "2025-01-13T18:00:00Z",
+      "content": "Work together as a community to complete three weeks of challenges. If the community completes the challenge, everyone gets the prize!* Cheer on your friends and get ready to Rumble, it all starts th… [+1191 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Motor1 "
       },
-      "author": "Tariq Malik",
-      "title": "What time is SpaceX's Starship Flight 7 launch test on Jan. 13? - Space.com",
-      "description": "SpaceX's seventh Starship test flight will launch on Monday, Jan. 13, at 5 p.m. EST (2200 GMT).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-7-launch-what-time",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bdb7PQEuDVL6fL48oArGuk-1200-80.jpg",
-      "publishedAt": "2025-01-11T15:16:44Z",
-      "content": "SpaceX is ready to launch its first Starship flight of 2025, a mission that will test a new version of the world's largest rocket. But if you're hoping to watch the planned Jan. 13 launch live online… [+11034 chars]"
+      "author": "Christopher Smith",
+      "title": "Ford Says Mustang Is Priced Right Despite Record-Low Sales - Motor1 ",
+      "description": "The Ford Mustang isn't selling well, but company executives don't believe it's a price issue. Here's what they had to say about it at the Detroit Auto Show.",
+      "url": "https://www.motor1.com/news/747170/ford-mustang-priced-right-despite-low-sales/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/xqnLpz/s1/2024-ford-mustang-dark-horse-review.jpg",
+      "publishedAt": "2025-01-13T17:58:00Z",
+      "content": "Ford was the only automaker to reveal new product at the 2025 Detroit Auto Show: the Mustang GTD Spirit of America, an appearance package for a car that isn't out yet, and the Mustang RTR, a new EcoB… [+2189 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Theregister.com"
       },
-      "author": "Paul Tassi",
-      "title": "‘Halo,’ ‘Gears Of War’ May Be Coming To PlayStation, Say Reports - Forbes",
-      "description": "What once was unthinkable is now possible, Microsoft may bring Master Chief and other iconic characters and games to PlayStation, say new reports.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/01/11/halo-gears-of-war-may-be-coming-to-playstation-say-reports/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6212507c5495f0ea94a869a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-11T14:37:48Z",
-      "content": "HALO: Pablo Schreiber as Master Chief in HALO set to stream on Paramount+ in 2022. Photo: Paramount+ ... [+] ©2021 Paramount+. All Rights Reserved. *SCREEN GRAB*\r\nParamount+\r\nWhen Microsoft said that… [+2754 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Chris Plante",
-      "title": "The Retroid Pocket 5 is the handheld I’ve been waiting for - Polygon",
-      "description": "Retroid, Anbernic, and Ayaneo release new handhelds multiple times a year. We help you pick the best handheld available today.",
-      "url": "https://www.polygon.com/hardware/506452/retroid-pocket-5-review-best-handheld-emulator",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/996c0314d3c9f4f6a92e228ed4c8e264_50a87e80-e84a-4f0c-b86c-ce09ca24047e_1024x1024%402x.webp?quality=90&strip=all&crop=0%2C29.15532693114%2C92.533325195312%2C48.446767117965&w=1200",
-      "publishedAt": "2025-01-11T14:00:00Z",
-      "content": "How does anyone choose which handheld to buy when better, cheaper hardware appears nearly every week? The answer (at long last) is the Retroid Pocket 5. However, like solving a good math problem, its… [+3655 chars]"
+      "author": "Iain Thomson",
+      "title": "Azure, Microsoft 365 MFA outage locks out users across regions - The Register",
+      "description": "It's fixed, mostly, after Europeans had a manic Monday",
+      "url": "https://www.theregister.com/2025/01/13/azure_m365_outage/",
+      "urlToImage": "https://regmedia.co.uk/2020/11/30/shutterstock_broken_cloud_outage.jpg",
+      "publishedAt": "2025-01-13T17:55:00Z",
+      "content": "Microsoft's multi-factor authentication (MFA) for Azure and Microsoft 365 (M365) was offline for four hours during Monday's busy start for European subscribers.\r\n\"Multi-Factor Authentication (MFA) ma… [+1336 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "My Nintendo News"
       },
-      "author": "Vikki Blake",
-      "title": "Marvel Rivals update kills mods, removing cheats, skins, and 19-inches of Venom - Eurogamer",
-      "description": "Yesterday's Marvel Rivals update has seemingly wiped the ability to use mods on PC.",
-      "url": "https://www.eurogamer.net/marvel-rivals-update-kills-mods-removing-cheats-skins-and-19-inches-of-venom",
-      "urlToImage": "https://assetsio.gnwcdn.com/Season-1_-Eternal-Night-Falls-Official-Trailer-_-Marvel-Rivals-0-10-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-01-11T13:57:43Z",
-      "content": "Yesterday's Marvel Rivals update has seemingly wiped the ability to use mods on PC.\r\nMarvel Rivals has been in Season 0 since its release last month, and yesterday the online hero shooter's first sea… [+1813 chars]"
+      "author": "Sickr",
+      "title": "Hatsune Miku now confirmed for Fortnite - My Nintendo News",
+      "description": "Update: Officially confirmed. Hatsune Miku has been rumoured to be making an appearance in the popular Fortnite video game for what seems like forever and it seems like her debut appearance in the…",
+      "url": "https://mynintendonews.com/2025/01/13/hatsune-miku-fortnite-skins-seemingly-leak/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/12/hatsune_miku.jpg?fit=1920%2C1080&ssl=1",
+      "publishedAt": "2025-01-13T17:32:24Z",
+      "content": "Update: Officially confirmed.\r\nHatsune Miku\r\nTHE virtual singer is bringing her Vocal synthesizing skills to Fortnite Festival Season 7! https://t.co/Fu6GQtRwvrpic.twitter.com/jVbBPUIc4D\r\n— Fortnite … [+480 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "8BitDo’s drift-free mobile controller is on sale for the first time - The Verge",
+      "description": "8BitDo’s Ultimate Mobile Gaming Controller is $10 off right now. You can also save on the Samsung M8 smart monitor and Logitech’s G Pro X Superlight gaming mouse.",
+      "url": "https://www.theverge.com/2025/1/13/24342650/8bitdo-ultimate-mobile-gaming-controller-samsung-m80d-smart-monitor-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4eck3o-Y1gTUj_kS7UV78l_3-Hg=/0x0:1332x888/1200x628/filters:focal(666x444:667x445)/cdn.vox-cdn.com/uploads/chorus_asset/file/25698442/8bitdo_1.jpg",
+      "publishedAt": "2025-01-13T17:26:52Z",
+      "content": "8BitDos drift-free mobile controller is on sale for the first time\r\n8BitDos drift-free mobile controller is on sale for the first time\r\n / Plus, we found great deals on the newest Samsung M8 smart mo… [+3684 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "Windows Central"
       },
-      "author": null,
-      "title": "GeForce RTX 5090 FE vs. reference design shows major difference in complexity - VideoCardz.com",
-      "description": "Der8auer takes a closer look at RTX 5090 FE design They even made their own 3D model.  GeForce RTX 5090 FE 3D mockup, Source: Der8auer As mentioned earlier, NVIDIA’s RTX 5090 Founders Edition is the only RTX 5090 that maintains an SFF-Ready form factor. In fa…",
-      "url": "https://videocardz.com/newz/geforce-rtx-5090-fe-vs-reference-design-shows-major-difference-in-complexity",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/01/NVIDIA-RTX-5090-DESIGN.jpg",
-      "publishedAt": "2025-01-11T13:53:00Z",
-      "content": "They even made their own 3D model. \r\nGeForce RTX 5090 FE 3D mockup, Source: Der8auer\r\nAs mentioned earlier, NVIDIA’s RTX 5090 Founders Edition is the only RTX 5090 that maintains an SFF-Ready form fa… [+1795 chars]"
+      "author": "Samuel Tolbert",
+      "title": "Rumored remake of The Elder Scrolls 4: Oblivion reportedly features improved combat and more - Windows Central",
+      "description": "A long-rumored remake of the fourth mainline Elder Scrolls game reportedly features improvements to different gameplay systems.",
+      "url": "https://www.windowscentral.com/gaming/rumored-remake-of-the-elder-scrolls-4-oblivion-reportedly-features-improved-combat-and-more",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ir39FeyzyZj6JV7R8HCmPh-1200-80.jpg",
+      "publishedAt": "2025-01-13T17:25:24Z",
+      "content": "Rumors are heating up surrounding a highly-anticipated but still unannounced remake.\r\nA rumored remake of The Elder Scrolls 4: Oblivion will feature improved gameplay and combat, according to a repor… [+3149 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesRadar+"
+        "name": "Gematsu"
       },
-      "author": "Kaan Serin",
-      "title": "This \"ultimate car-owning\" and \"permadeath life survival simulator\" leaves early access with 77,000 Steam reviews at 94% positive - Gamesradar",
-      "description": "My Summer Car has a 'Very Positive' rating",
-      "url": "https://www.gamesradar.com/games/simulation/this-ultimate-car-owning-and-permadeath-life-survival-simulator-leaves-early-access-with-77-000-steam-reviews-at-94-percent-positive/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/c2W949qGN76dRbn3WUmzWA-1200-80.jpg",
-      "publishedAt": "2025-01-11T13:36:21Z",
-      "content": "My Summer Car is one of those games that I'd never personally heard of but was still wildly popular thanks to the niche it caters to anyway. What niche? Well, it's as the name says. It's all about yo… [+1631 chars]"
+      "author": "Sal Romano",
+      "title": "Hyper Light Breaker Early Access launch trailer, screenshots - Gematsu",
+      "description": "Publisher Arc Games and developer Heart Machine have released the launch trailer for open-world cooperative roguelite game Hyper Light Breaker ahead of its Early Access launch for PC via Steam on J…",
+      "url": "https://www.gematsu.com/2025/01/hyper-light-breaker-early-access-launch-trailer-screenshots",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/01/Hyper-Light-Breaker_2025_01-13-25_014.jpg",
+      "publishedAt": "2025-01-13T17:00:05Z",
+      "content": "Publisher Arc Games and developer Heart Machine have released the launch trailer for open-worldcooperativeroguelite gameHyper Light Breaker ahead of its Early Access launch for PC via Steam on Januar… [+3762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Random: Geez, PS5 Game 'Anime Life Sim' Sure Looks Familiar - Nintendo Life",
+      "description": "It's a wild word out there",
+      "url": "https://www.nintendolife.com/news/2025/01/random-geez-ps5-game-anime-life-sim-sure-looks-familiar",
+      "urlToImage": "https://images.nintendolife.com/ea1de82568969/1280x720.jpg",
+      "publishedAt": "2025-01-13T17:00:00Z",
+      "content": "Image: Maksym Vysochanskyy trading as IndieGames3000\r\nThis year marks five years since the last mainline Animal Crossing game launched. Animal Crossing: New Horizons came out at the perfect time and … [+3627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rsl.com"
+      },
+      "author": "rsl",
+      "title": "Utah Royals FC Announces Three Player Departures - rsl.com",
+      "description": "HERRIMAN, Utah (Monday January 13, 2025) - Utah Royals FC announces the release of midfielder Agnes Nyberg and forward Michele Vasconcelos after the club bought out the remainder of Nyberg and Vasconcelos’ contracts, leaving the duo as free agents. Additional…",
+      "url": "https://www.rsl.com/utahroyals/news/utah-royals-fc-announces-three-player-departures",
+      "urlToImage": "https://images.mlssoccer.com/image/private/t_q-best/mls-rsl/ebywi8pfypx70rrcvhcl.png",
+      "publishedAt": "2025-01-13T16:55:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Timeextension.com"
+      },
+      "author": "Damien McFerran",
+      "title": "Oops, This Open Source N64 Expansion Pak Is Frying Consoles - Time Extension",
+      "description": "\"I may have killed two N64s with this…\"",
+      "url": "https://www.timeextension.com/news/2025/01/oops-this-open-source-n64-expansion-pak-is-frying-consoles",
+      "urlToImage": "https://images.timeextension.com/8a0c5f021b3f9/1280x720.jpg",
+      "publishedAt": "2025-01-13T16:30:00Z",
+      "content": "Image: @dubesinhower\r\nAs gaming hardware gets older, finding replacement parts gets harder and, therefore, more expensive.\r\nIt's for this reason that we've seen a bunch of community-made replacements… [+2035 chars]"
     }
   ]
 }
