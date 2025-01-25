@@ -1,266 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 10,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Samsung Galaxy S25 series has support for seamless updates - GSMArena.com news - GSMArena.com",
+      "description": "Now you can use your phone even while it's installing an update. The rumors were true - Samsung's flagship smartphone line finally supports seamless...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s25_series_has_support_for_seamless_updates-news-66232.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/01/samsung-galaxy-s25-seamless-updates/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-01-23T21:02:01Z",
+      "content": "The rumors were true - Samsung's flagship smartphone line finally supports seamless updates, with the release of the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra. The Korean company has been a holdo… [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Doom: The Dark Ages wants to be more like the original Doom - Ars Technica",
+      "description": "Preview: A more grounded game than Doom Eternal in more ways than one.",
+      "url": "https://arstechnica.com/gaming/2025/01/how-doom-the-dark-ages-draws-from-the-90s-doom-games/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/DOOM-The-Dark-Ages_06_Slayer-2560x1440.png",
+      "publishedAt": "2025-01-23T19:00:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Ninja Gaiden 4 announced, from Team Ninja and PlatinumGames - Eurogamer",
+      "description": "Tonight's Xbox Developer Direct has kicked off with the reveal of Ninja Gaiden 4, a fresh mainline entry in the legenda…",
+      "url": "https://www.eurogamer.net/ninja-gaiden-4-announced-from-team-ninja-and-platinumgames",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2025-01-23-183407.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-23T18:35:00Z",
+      "content": "Tonight's Xbox Developer Direct has kicked off with the reveal of Ninja Gaiden 4, a fresh mainline entry in the legendary action game series in development by Team Ninja and PlatinumGames. \r\nIt's the… [+1670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamingonlinux.com"
+      },
+      "author": "Liam Dawe",
+      "title": "GDC 2025 survey shows PC game development growing with lots interested in Valve's Steam Deck - GamingOnLinux",
+      "description": "The latest Game Developers Conference (GDC) survey has been released, and it gives a rather glowing overview of how great things are for PC gamers with lots of developers working on games.",
+      "url": "https://www.gamingonlinux.com/2025/01/gdc-2025-survey-shows-pc-game-development-growing-with-lots-interested-in-valves-steam-deck/.",
+      "urlToImage": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1791006598id26031gol.jpg",
+      "publishedAt": "2025-01-23T18:21:13Z",
+      "content": "The latest Game Developers Conference (GDC) survey has been released, and it gives a rather glowing overview of how great things are for PC gamers with lots of developers working on games.\r\nWith the … [+1915 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "David Pierce",
-      "title": "Google’s Gemini is already winning the next-gen assistant wars - The Verge",
-      "description": "ChatGPT and Claude need the products and integrations. Siri and Alexa need the tech. Google’s Gemini has the AI assistant future right where it wants it.",
-      "url": "https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uUS07WIDLZvmLJ9Zm5i95ldrSgQ=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
-      "publishedAt": "2025-01-22T22:04:21Z",
-      "content": "Googles Gemini is already winning the next-gen assistant wars\r\nGoogles Gemini is already winning the next-gen assistant wars\r\n / AI has made virtual assistants a big deal again. So far, it looks like… [+7208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "S.E. Doster",
-      "title": "CoD: Black Ops 6 And Warzone Season 2 Roadmap Details Terminator Event, New MP Maps, And Warzone Improvements - GameSpot",
-      "description": "A new battle pass, more DLC weapons, and maps arrive with Season 2.",
-      "url": "https://www.gamespot.com/gallery/cod-black-ops-6-and-warzone-season-2-roadmap-details-terminator-event-new-mp-maps-and-warzone-improvements/2900-6155/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4432057-bo6-season-02-announcement-058.jpg",
-      "publishedAt": "2025-01-22T20:10:23Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Asif Iqbal Shaik",
-      "title": "Samsung made a 3-in-1 wireless charger with Qi2 for Galaxy S25 - SamMobile - Samsung news",
-      "description": "Today, Samsung unveiled its new phones—Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra—that have the Qi2 Ready certification. This means ...",
-      "url": "https://www.sammobile.com/news/samsung-3-in-1-qi2-wireless-charger-galaxy-s25-watch-buds-ring/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Ultra-Qi2-3-In-1-Wireless-Charger-Galaxy-Ring-Galaxy-Watch-Ultra-720x480.jpg",
-      "publishedAt": "2025-01-22T19:33:00Z",
-      "content": "Today, Samsung unveiled its new phonesGalaxy S25, Galaxy S25+, and Galaxy S25 Ultrathat have the Qi2 Ready certification. This means that the phones will charge via Qi2 chargers, but only through cas… [+1041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Steam's First Big Sale Of 2025 Is Live, Here Are The Best Deals - Kotaku",
-      "description": "A lot of great PC strategy and war games are on sale, like Company of Heroes and Civilization",
-      "url": "https://kotaku.com/steam-rts-fest-2025-best-games-deals-strategy-pc-civ-1851745051",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/72b7f1b7a1c56c8b1d2a50cfcde213d9.jpg",
-      "publishedAt": "2025-01-22T18:05:00Z",
-      "content": "RTS Fest, Valves first big Steam sale of 2025, is happening right now, and if youre a fan of PC city builders, tactical war games, or other strategy-focused genres, youll want to check out some of th… [+1490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon GO Hub"
-      },
-      "author": "kittypokemonsalot",
-      "title": "Road to Unova - Pokémon GO Hub",
-      "description": "The Unova Tour kicks off with the Road to Unova event! From Monday, February 24, at 10:00 a.m. to Saturday, March 1, 2025, at 10:00 a.m. local time., this massive event brings a wide variety of Raid Bosses, XL Candy, shiny Meloetta debut, and more! Get yourse…",
-      "url": "https://pokemongohub.net/post/event/road-to-unova/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/01/pokemon-go-tour-road-to-unova-event.png",
-      "publishedAt": "2025-01-22T18:00:43Z",
-      "content": "The Unova Tour kicks off with the Road to Unova event! From Monday, February 24, at 10:00 a.m. to Saturday, March 1, 2025, at 10:00 a.m. local time., this massive event brings a wide variety of Raid … [+9720 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Samsung Unpacked 2025: Samsung’s AI-focused Galaxy S25 Ultra ships February 7 for $1,300 - TechCrunch",
-      "description": "Samsung on Wednesday announced the latest additions to its Galaxy S flagship smartphone line at the company's annual Samsung Unpacked 2025. As suspected,",
-      "url": "https://techcrunch.com/2025/01/22/samsung-unpacked-2025-samsungs-ai-focused-galaxy-s25-ultra-ships-february-7-for-1300/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/갤럭시_언팩_2025_노태문_사업부장2.jpg?resize=1200,799",
-      "publishedAt": "2025-01-22T18:00:00Z",
-      "content": "Samsung on Wednesday announced the latest additions to its Galaxy S flagship smartphone line at the company’s annual Samsung Unpacked 2025. As suspected, the defining characteristic of the Galaxy S25… [+2214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Sanuj Bhatia",
-      "title": "It's official: The Galaxy S25 Ultra's S Pen has fewer features than last year - Android Police",
-      "description": "Not the upgrade we were hoping for",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s25-ultra-s-pen-stripped-down-features/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/01/samsung-galaxy-s25-ultra-hands-on-20.jpg",
-      "publishedAt": "2025-01-22T18:00:00Z",
-      "content": "Summary\r\n<ul><li>\r\n The Samsung Galaxy S25 Ultra S Pen no longer supports Bluetooth connectivity, removing features like Air Actions.\r\n </li><li>\r\n Samsung says the change was made due to low user en… [+2821 chars]"
+      "author": "Lauren Feiner",
+      "title": "Epic will expand its mobile game store by helping cover developer iOS fees - The Verge",
+      "description": "Epic Games is adding third-party titles to its store that competes with the Apple and Google app stores and will cover fees for iOS developers in its free games program.",
+      "url": "https://www.theverge.com/2025/1/23/24349542/epic-games-third-party-developers-apple-google-europe",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t2uhgx1lyPioyUbpt5KRYQauvAw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932924/acastro_STK108__02.jpg",
+      "publishedAt": "2025-01-23T18:00:00Z",
+      "content": "Epic will expand its mobile game store by helping cover developer iOS fees\r\nEpic will expand its mobile game store by helping cover developer iOS fees\r\n / Epic will temporarily pay the Apple Core Tec… [+5915 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Ryan Dinsdale",
-      "title": "President of Spider-Man, Ratchet and Clank Dev Insomniac Announces Retirement from PlayStation - IGN",
-      "description": "Ted Price, the founder and president of Marvel's Spider-Man, Ratchet and Clank, and Resistance developer Insomniac Games, has announced his retirement from PlayStation after 30 years.",
-      "url": "https://www.ign.com/articles/president-of-spider-man-ratchet-and-clank-dev-insomniac-announces-retirement-from-playstation",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/22/price-1737564674674.jpg?width=1280",
-      "publishedAt": "2025-01-22T16:53:24Z",
-      "content": "Ted Price, the founder and president of Marvel's Spider-Man, Ratchet and Clank, and Resistance developer Insomniac Games, has announced his retirement from PlayStation after 30 years.\r\nPrice made the… [+3477 chars]"
+      "author": "Rebekah Valentine",
+      "title": "Assassin's Creed Shadows Director Says Recent Delay was to Polish Parkour, Especially on 'Super Complex Roofs' - IGN",
+      "description": "Assassin's Creed Shadows' release date is set for March 2025 after multiple delays. The most recent was only by a month, which doesn't seem like much time to change anything significant. So why did Ubisoft push the game? According to the game director: roofs.",
+      "url": "https://www.ign.com/articles/assassins-creed-shadows-director-says-recent-delay-was-to-polish-parkour-especially-on-super-complex-roofs",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/10/red-1662841350202.jpg?width=1280",
+      "publishedAt": "2025-01-23T17:01:50Z",
+      "content": "Assassin's Creed Shadows is expected to launch March 20, 2025, after multipledelays. The most recent was only by a month, which doesn't seem like much time to change anything significant. So why did … [+1515 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Kenneth Shepard",
-      "title": "Modders, Please Remove The Worst Part Of Final Fantasy VII Rebirth From The Game - Kotaku",
-      "description": "You can save fans from having to throw boxes around as Cait Sith on PC",
-      "url": "https://kotaku.com/final-fantasy-7-rebirth-cait-sith-box-throw-mod-remove-1851744876",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a1ed6b35abd4afbb4c26f79d8e5c8557.jpg",
-      "publishedAt": "2025-01-22T16:08:17Z",
-      "content": "Modders, we need to have a chat. Final Fantasy VII Rebirthis coming to PC tomorrow, January 23, and no doubt yall are gonna get cracking on modding some important and meaningful shit, like making Vin… [+2723 chars]"
+      "author": "Khac Phu Nguyen",
+      "title": "EA Stock Crashes 18% as Revenue Forecast Slashed - Yahoo Finance",
+      "description": "Electronic Arts faces its worst guidance cut since 2019--FC 25 underperforms, Dragon Age flops, and analysts slash targets.",
+      "url": "https://finance.yahoo.com/news/ea-stock-crashes-18-revenue-165759381.html",
+      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/a17c985a519e5548c8193fc98e0d05c3",
+      "publishedAt": "2025-01-23T16:57:59Z",
+      "content": "Electronic Arts (NASDAQ:EA) just took a brutal hit, with shares plunging 18% this morning, after the company slashed its revenue forecast. EA had initially expected mid-single-digit growth in live-se… [+1631 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Quentyn Kennemer",
-      "title": "The 65-inch LG C3 is matching its lowest price - The Verge",
-      "description": "The LG C3 4K OLED is down to a record low $1,197 right now. We’ve also found deals on an Insta360 X4 bundle Nothing’s solid CMF Buds, and the Google Pixel 8A.",
-      "url": "https://www.theverge.com/2025/1/22/24348648/lg-c3-4k-tv-insta360-x4-action-camera-bundle-dale-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ySRT0J_wKN4OQ3IwVvidYQgVzl0=/0x0:1570x1047/1200x628/filters:focal(785x524:786x525)/cdn.vox-cdn.com/uploads/chorus_asset/file/25769814/lg_c3_oled_lifestyle.png",
-      "publishedAt": "2025-01-22T16:03:20Z",
-      "content": "The 65-inch LG C3 is matching its lowest price\r\nThe 65-inch LG C3 is matching its lowest price\r\n / Plus, the Google Pixel 8A is matching its record low with $100 off, and Nothings solid CMF Buds are … [+3723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Samsung announces Galaxy Watch for Kids with Google Family Link - 9to5Google",
-      "description": "Google has partnered with Samsung on a “Galaxy Watch for Kids” experience that is rolling out in the “coming weeks.”",
-      "url": "http://9to5google.com/2025/01/22/samsung-galaxy-watch-kids/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Galaxy-Watch-for-Kids-Family-Link-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-22T16:00:00Z",
-      "content": "Google has partnered with Samsung on a Galaxy Watch for Kids experience that is rolling out starting today and will be available in the coming weeks.\r\nThis is a new way to set up Galaxy Watch that ca… [+3569 chars]"
+      "author": "Kyle Wiggers",
+      "title": "Hugging Face claims its new AI models are the smallest of their kind - TechCrunch",
+      "description": "A team at dev platform Hugging Face has released what they're claiming are the smallest AI models that can analyze images, videos, and text.",
+      "url": "https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
+      "publishedAt": "2025-01-23T14:57:40Z",
+      "content": "A team at AI dev platform Hugging Face has released what they’re claiming are the smallest AI models that can analyze images, short videos, and text.\r\nThe models, SmolVLM-256M and SmolVLM-500M, are d… [+1969 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "PCMag.com"
       },
-      "author": "Timi Cantisano",
-      "title": "YouTube Premium celebrates its new Google One bundle with a mini feature drop - Android Police",
-      "description": "New ways to enjoy YouTube",
-      "url": "https://www.androidpolice.com/youtube-premium-google-one-bundle-experimental-features/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/09/youtube-premium-alt-ap24-hero-jpg.jpg",
-      "publishedAt": "2025-01-22T16:00:00Z",
-      "content": "Summary\r\n<ul><li>\r\n YouTube Premium will now offer more perks, including high-quality audio &amp; accelerated playback mode.\r\n </li><li>\r\n The Jump Ahead feature will now be available to those watchi… [+2362 chars]"
+      "author": "John Burek",
+      "title": "First Tests: Nvidia's GeForce RTX 5090 vs. 4-Star Powerhouse RTX 4090 - PCMag",
+      "description": "The GeForce RTX 5090 just hit PC Labs for some early benchmarking. How does it stack up against the reigning king of graphics cards? So far, it's a beast.",
+      "url": "https://www.pcmag.com/news/first-tests-nvidias-geforce-rtx-5090-vs-4-star-powerhouse-rtx-4090",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/04M1DhLPXsA1URB6o2XOWx5-2.fit_lim.size_1200x630.v1737594458.jpg",
+      "publishedAt": "2025-01-23T14:16:20Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "author": "Ben Lovejoy",
-      "title": "A 2015 phone design shows that the iPhone 17 Air camera bump could look just fine - 9to5Mac",
-      "description": "We yesterday got a look at what is claimed to be the iPhone 17 Air camera bump, and the reaction...",
-      "url": "https://9to5mac.com/2025/01/22/a-2015-phone-design-shows-that-the-iphone-17-air-camera-bump-could-look-just-fine/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/A-2015-phone-design-shows-that-the-iPhone-17-Air-camera-bump-could-look-just-fine.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-22T15:27:00Z",
-      "content": "We yesterday got a look at what is claimed to be the iPhone 17 Air camera bump, and the reaction hasn’t been … overly favorable.\r\nWhile we don’t know for sure that the photo shows the real thing, our… [+2538 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Chris Welch",
-      "title": "Plex starts testing its big redesign on Apple TV - The Verge",
-      "description": "Plex’s “reimagined” software experience is now available to preview on tvOS and Apple TV streaming devices. The company is also making reviews more social.",
-      "url": "https://www.theverge.com/2025/1/22/24349408/plex-new-app-design-apple-tv-preview",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/I5BazEsfbac5EPK5sz-aMjngXzQ=/0x0:2009x1329/1200x628/filters:focal(1005x665:1006x666)/cdn.vox-cdn.com/uploads/chorus_asset/file/25842053/Hero_tvOS_Preview.jpg",
-      "publishedAt": "2025-01-22T15:07:08Z",
-      "content": "Plex starts testing its big redesign on Apple TV\r\nPlex starts testing its big redesign on Apple TV\r\n / The company is making user reviews more social. With user permission, they can now be seen by ev… [+1935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Darryn Bonthuys",
-      "title": "Switch 2 Video Reveals How Snappy Joy-Con Removal Works - GameSpot",
-      "description": "Magnets, how do they work?",
-      "url": "https://www.gamespot.com/articles/switch-2-video-reveals-how-snappy-joy-con-removal-works/1100-6528933/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4428638-switch2%2821%29.jpg",
-      "publishedAt": "2025-01-22T14:00:14Z",
-      "content": "Last week's official reveal of the Switch 2 confirmed several new features of the hybrid Nintendo console, including a new approach to Joy-Cons that'll attach to the device using a snappier method. B… [+1530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "Review: 'Final Fantasy VII Rebirth' returns on PC to help define another generation - Windows Central",
-      "description": "Certain \"open world\" issues aside, Final Fantasy VII Rebirth successfully threads the needle of delivering for nostalgic fans while charting a new course to the future.",
-      "url": "https://www.windowscentral.com/gaming/review-final-fantasy-vii-rebirth-pc",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/E9sMACveQdsq8uRmTtUX35-1200-80.jpg",
-      "publishedAt": "2025-01-22T14:00:00Z",
-      "content": "It's finally here. Final Fantasy 7 Rebirth has made the leap from PlayStation to Windows PC via Steam, ready to wrap you in a one-winged embrace of pure nostalgia. But in 2025, nostalgia alone is per… [+21992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videogamer.com"
-      },
-      "author": null,
-      "title": "New Baldur’s Gate 3 custom campaign footage takes players back to BG2 with mind-blowing detail - Video Gamer",
-      "description": "A new look at a Baldur's Gate 3 custom campaign mod that brings players back to BG2 looks sublime in new gameplay footage.",
-      "url": "https://www.videogamer.com/news/new-baldurs-gate-3-custom-campaign-footage-takes-players-back-to-bg2-with-mind-blowing-detail/",
-      "urlToImage": "https://www.videogamer.com/wp-content/uploads/baldurs-gate-3-custom-campaign-mod-bg2-amazing.jpg",
-      "publishedAt": "2025-01-22T13:50:54Z",
-      "content": "You can trust VideoGamer. Our team of gaming experts spend hours testing and reviewing the latest games, to ensure you're reading the most comprehensive guide possible. Rest assured, all imagery and … [+2747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ben Lovejoy",
-      "title": "Oakley smart glasses coming this year; Meta glasses with display to cost $1k - 9to5Mac",
-      "description": "If Ray-Ban Meta glasses are not your style, the company is expected to launch a pair of Oakley smart glasses...",
-      "url": "https://9to5mac.com/2025/01/22/oakley-smart-glasses-coming-this-year-meta-glasses-with-display-to-cost-1k/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/Oakley-smart-glasses-coming-this-year.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-22T13:08:00Z",
-      "content": "If Ray-Ban Meta glasses are not your style, the company is expected to launch a pair of Oakley smart glasses later this year. These will likely mirror the functionality of Meta’s existing AI glasses,… [+2593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ben Lovejoy",
-      "title": "iOS 18.2 enables real-time spam and scam blocking in Truecaller app - 9to5Mac",
-      "description": "The Truecaller app has long been able to flag some incoming spam and scam phone calls, enabling you to reject...",
-      "url": "https://9to5mac.com/2025/01/22/ios-18-2-enables-real-time-spam-and-scam-blocking-in-truecaller-app/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS-18.2-enables-real-time-spam-and-scam-blocking-in-Truecaller-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-22T12:33:00Z",
-      "content": "The Truecaller app has long been able to flag some incoming spam and scam phone calls, enabling you to reject them, but Apple privacy rules prevented the iOS version from working as effectively as th… [+3175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Google’s Gmail Upgrade—Why You Need A New Email Account - Forbes",
-      "description": "Your email is now at risk—here's what you need to know.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/01/22/googles-gmail-upgrade-do-you-need-a-new-email-account/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=870,542,x323,y510,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-22T12:32:00Z",
-      "content": "Gmail making the case for you to switch\r\nNurPhoto via Getty Images\r\nRepublished on January 22 with a new warning about the Generative AI tools now coming as standard from Google, Microsoft and others… [+9799 chars]"
+      "author": "Juli Clover",
+      "title": "Samsung's VR Headset Looks a Lot Like Apple Vision Pro - MacRumors",
+      "description": "At its Unpacked event, Samsung showed off its upcoming \"Project Moohan\" AR/VR headset, which is designed to compete with the Vision Pro. Some...",
+      "url": "https://www.macrumors.com/2025/01/22/samsung-vr-headset-vision-pro-design/",
+      "urlToImage": "https://images.macrumors.com/t/KNVFo2z3i0un6zwxOBLILNxOAmM=/2000x/article-new/2025/01/samsung-headset-2.jpg",
+      "publishedAt": "2025-01-22T19:52:45Z",
+      "content": "At its Unpacked event, Samsung showed off its upcoming \"Project Moohan\" AR/VR headset, which is designed to compete with the Vision Pro. Some users might even mistake the headset for a Vision Pro, gi… [+916 chars]"
     }
   ]
 }
