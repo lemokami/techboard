@@ -1,32 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 70,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Michael Burkhardt",
-      "title": "iOS 18.4 is reportedly releasing in April, here are some rumored features - 9to5Mac",
-      "description": "According to Bloomberg’s Mark Gurman, Apple is planning on releasing iOS 18.4 in April. Apple hasn’t started the beta cycle...",
-      "url": "https://9to5mac.com/2025/01/26/ios-18-4-is-reportedly-releasing-in-april-here-are-some-rumored-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS-18.4-hero-alt.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-26T20:23:00Z",
-      "content": "According to Bloomberg’s Mark Gurman, Apple is planning on releasing iOS 18.4 in April. Apple hasn’t started the beta cycle for iOS 18.4 quite yet, but there are a handful of things we can likely exp… [+1570 chars]"
+      "author": "Andrew Cunningham",
+      "title": "New FPGA-powered retro console re-creates the PlayStation One, CD-ROM drive optional - Ars Technica",
+      "description": "Works with original PS1 accessories, and supports other MiSTer FPGA cores.",
+      "url": "https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/SS1-BackProduct.28_855549e2-476c-4348-99cb-40ded8a8e78e-990x648.jpeg",
+      "publishedAt": "2025-01-27T23:00:17Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Eurogamer.net"
       },
-      "author": "Ben Schoon",
-      "title": "Samsung Galaxy S25 series officially supports Qi 2.1 and 15W charging speeds - 9to5Google",
-      "description": "Despite offering some magnetic accessories, Samsung hasn’t spent any time talking about the Galaxy S25 series being ready for Qi2....",
-      "url": "http://9to5google.com/2025/01/26/samsung-galaxy-s25-qi-2-1-wireless-charging-speeds/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/galaxy-s25-qi2-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-26T19:45:00Z",
-      "content": "Despite offering some magnetic accessories, Samsung hasn’t spent any time talking about the Galaxy S25 series being ready for Qi2. Yet, the Galaxy S25 series is the first set of smartphones with Qi 2… [+2386 chars]"
+      "author": "Matt Wales",
+      "title": "The Sims 1 & 2 reportedly getting PC re-releases this week - Eurogamer",
+      "description": "In just eight days time, The Sims turns 25 - and EA is reportedly poised to re-release The Sims 1 & 2 this week as part…",
+      "url": "https://www.eurogamer.net/the-sims-1-2-reportedly-getting-pc-re-releases-this-week",
+      "urlToImage": "https://assetsio.gnwcdn.com/sims-1-2-montage.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-27T22:31:01Z",
+      "content": "In just eight days time, The Sims turns 25 - and EA is reportedly poised to re-release The Sims 1 &amp; 2 this week as part of the series' quarter-century celebrations. \r\nThe Sims 1 &amp; 2 have, of … [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "P.J. West",
+      "title": "‘Why is everyone still sitting?’: Woman dines in at The Cheesecake Factory. Then she looks up - The Daily Dot",
+      "description": "'That bill would’ve been free for meeee.'",
+      "url": "https://www.dailydot.com/news/rat-in-cheesecake-factory/",
+      "urlToImage": "https://uploads.dailydot.com/2025/01/Woman-dines-in-at-The-Cheesecake-Factory.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-01-27T22:00:00Z",
+      "content": "A Cheesecake Factory gathering was momentarily interrupted by the sort of sight you dont want to experience at a restaurant.\r\nThe video capturing a rodent frolicking among the light fixtures above ta… [+3148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "New Orcs Must Die! Sequel Isn't Better Than The Last One, But Still Pretty Fun - Kotaku",
+      "description": "Orcs Must Die! Deathtrap's roguelike additions aren't all positive",
+      "url": "https://kotaku.com/orcs-must-die-deathtrap-4-game-pass-review-xbox-pc-ps5-1851748729",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/15525de096badf14fb10dfd3a66535c1.png",
+      "publishedAt": "2025-01-27T21:25:00Z",
+      "content": "Sometimes in our lives, we value consistency and affordability over anything else. This is why I continue to buy and eat Burger Kings cheap double cheeseburgers. I know what Im getting, its not expen… [+2940 chars]"
     },
     {
       "source": {
@@ -34,233 +60,194 @@
         "name": "Videocardz.com"
       },
       "author": null,
-      "title": "NVIDIA's tight GeForce RTX 50 margins put pressure on board partners: 'MSRP feels like charity' - VideoCardz.com",
-      "description": "NVIDIA makes it impossible to sell RTX 50 cards at MSRP Where are RTX 50 cards at MSRP? GeForce reviews are typically split between MSRP and non-MSRP models. This was NVIDIA’s way of encouraging board partners to launch at least one model at the suggested ret…",
-      "url": "https://videocardz.com/newz/nvidias-tight-geforce-rtx-50-margins-put-pressure-on-board-partners-msrp-feels-like-charity",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/01/RTX50-HERO.jpg",
-      "publishedAt": "2025-01-26T17:52:00Z",
-      "content": "Where are RTX 50 cards at MSRP?\r\nGeForce reviews are typically split between MSRP and non-MSRP models. This was NVIDIA’s way of encouraging board partners to launch at least one model at the suggeste… [+2379 chars]"
+      "title": "People already camping out for GeForce RTX 5090 ahead of launch - VideoCardz.com",
+      "description": "RTX 5090 in limited supply: campers set up tents at MicroCenter 4 days before launch Thinking About Buying the RTX 5090 on Launch Day? Prepare to Camp Out. Source: IGN/Reddit “Dedicated GeForce fans” are already camping outside Micro Center in Tustin, Califor…",
+      "url": "https://videocardz.com/newz/people-already-camping-out-for-geforce-rtx-5090-ahead-of-launch",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/01/RTX5090-TENT.jpg",
+      "publishedAt": "2025-01-27T21:00:00Z",
+      "content": "Thinking About Buying the RTX 5090 on Launch Day? Prepare to Camp Out.\r\nSource: IGN/Reddit\r\n“Dedicated GeForce fans” are already camping outside Micro Center in Tustin, California, days ahead of the … [+2584 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple finally reveals exactly how to update your AirPods to new firmware - 9to5Mac",
+      "description": "For the first time, Apple has published instructions for how to install AirPods firmware yourself, bypassing the automated system.",
+      "url": "https://9to5mac.com/2025/01/27/apple-reveals-how-to-install-new-airpods-firmware/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/airpods-pro-spatial-audio-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-01-27T20:53:00Z",
+      "content": "Apple updates its AirPods products periodically with new firmware, which installs automatically in the background. But for the first time, the company now offers step-by-step instructions for how to … [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Phoenix Labs lays off “majority of the studio” - Gematsu",
+      "description": "Dauntless and Fae Farm developer Phoenix Labs has laid off “the majority of the studio” as part of “unfortunate but necessary changes,” it announced.",
+      "url": "https://www.gematsu.com/2025/01/phoenix-labs-lays-off-majority-of-the-studio",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/01/Phoenix-Labs_01-27-25.jpg",
+      "publishedAt": "2025-01-27T20:36:16Z",
+      "content": "Dauntless and Fae Farm developer Phoenix Labs has laid off “the majority of the studio” as part of “unfortunate but necessary changes,” it announced. \r\nThe studio did not share the exact number of em… [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "Paralyzed Man Flies Virtual Drone Using Only His Mind - The Daily Galaxy --Great Discoveries Channel",
-      "description": "A quiet night in a small Canadian town turned into a scene straight out of science fiction when a fiery object streaked across the sky and landed with a dramatic crash. Captured on video and leaving behind clues that have scientists buzzing, this rare cosmic …",
-      "url": "https://dailygalaxy.com/2025/01/paralyzed-man-flies-drone-using-his-mind/",
-      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/01/Paralyzed-Man-Flies-Virtual-Drone-Using-Only-His-Mind.jpg",
-      "publishedAt": "2025-01-26T17:30:00Z",
-      "content": "A revolutionary brain-computer interface (BCI) has allowed a 69-year-old man with paralysis to control a virtual drone using his thoughts. This groundbreaking achievement marks a significant mileston… [+2828 chars]"
+      "title": "Sony Reportedly Developing New God of War Game Set in Egyptian Mythology - TheGamePost",
+      "description": "A new report suggests Sony is working on a new AAA God of War game set in Egyptian mythology.",
+      "url": "https://thegamepost.com/sony-new-god-of-war-game-egyptian-mythology/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/01/sony-new-god-of-war-game-egyptian-mythology-2.webp",
+      "publishedAt": "2025-01-27T20:06:40Z",
+      "content": "A new report suggests Sony PlayStation is working on a new AAA God of War game set in Egyptian mythology.\r\nThe God of War franchise is one of the most beloved in gaming, with a history spanning decad… [+2081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "S.E. Doster",
+      "title": "CoD: Black Ops 6 And Warzone Season 2 Battle Pass Includes Ninja Operators And Iconic DLC Weapons - GameSpot",
+      "description": "Season 2's battle pass includes a new selection of operator skins and more DLC weapons to unlock.",
+      "url": "https://www.gamespot.com/gallery/cod-black-ops-6-and-warzone-season-2-battle-pass-includes-ninja-operators-and-iconic-dlc-weapons/2900-6169/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4434101-bo6-season-02-announcement-001.jpg",
+      "publishedAt": "2025-01-27T20:04:53Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form - TechCrunch",
+      "description": "Four years after launching the (then) most lucrative crowdfunding campaign in Kickstarter’s history, smartwatch maker Pebble abruptly closed in 2016,",
+      "url": "https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/p1010025.jpg?resize=1200,900",
+      "publishedAt": "2025-01-27T20:04:07Z",
+      "content": "Four years after launching the (then) most lucrative crowdfunding campaign in Kickstarters history, smartwatch maker Pebble abruptly closed in 2016, filing for insolvency before being sold off to riv… [+4687 chars]"
     },
     {
       "source": {
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Simone de Rochefort",
-      "title": "Some games are better when they look worse - Polygon",
-      "description": "When the award-winning Her Story came out in 2015, FMV games were still a relic of the ’90s. High-quality video isn’t the secret to their success.",
-      "url": "https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3827016/her_story_screen.0.jpg?quality=90&strip=all&crop=0%2C5.6748602360458%2C100%2C88.650279527908&w=1200",
-      "publishedAt": "2025-01-26T17:00:00Z",
-      "content": "The full-motion video game format was all the rage for a brief period in the 1990s. The ability to play high-quality video video! on a home computer was revolutionary. \r\nBut FMV games quickly fell by… [+10795 chars]"
+      "author": "Michael McWhertor",
+      "title": "Switch 2 will get Xbox games, too - Polygon",
+      "description": "Nintendo’s next-gen Switch 2 will also be home to Xbox games, as Phil Spencer says Microsoft is supporting the Switch successor.",
+      "url": "https://www.polygon.com/news/514398/nintendo-switch-2-xbox-games",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/vlcsnap-2025-01-16-09h25m46s260.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-01-27T19:59:32Z",
+      "content": "Microsoft Gaming CEO Phil Spencer says hes really looking forward to supporting Nintendo with the companys Xbox games, a strong indication that more previously exclusive titles from Xbox Game Studios… [+2628 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "GamesIndustry.biz"
       },
-      "author": "Paul Tassi",
-      "title": "Destiny 2’s Latest Controversy Is A White Shader That Isn’t White Enough - Forbes",
-      "description": "Destiny 2 has brought back Chatterwhite from Destiny 1 but players are complaining that it's not white enough, even though it's the same shader.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/01/26/destiny-2s-latest-controversy-is-a-white-shader-that-isnt-white-enough/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679662de15d6bef1d6b3a85c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-26T16:34:21Z",
-      "content": "Destiny 2\r\nChatterwhite\r\nWhile there are large-scale problems with the direction of Destiny and questions about its overall survival, its nice to circle back to a traditionally pointless and minor co… [+2423 chars]"
+      "author": "Vikki Blake",
+      "title": "Japanese ratings board demands changes to Assassin's Creed Shadows - GamesIndustry.biz",
+      "description": "Assassin's Creed Shadows will be censored in Japan when it releases in March 2025.",
+      "url": "https://www.gamesindustry.biz/japanese-ratings-board-demands-changes-to-assassins-creed-shadows",
+      "urlToImage": "https://assetsio.gnwcdn.com/thumb-1920-1362834.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-27T19:36:36Z",
+      "content": "Assassin's Creed Shadows will be censored in Japan when it releases in March 2025.\r\nAs detailed by developer/publisher Ubisoft in a statement, there will be \"differences in content\" between the Japan… [+673 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Glassalmanac.com"
+        "name": "Phoronix"
       },
-      "author": "Brian Foster",
-      "title": "Tim Cook Reveals Apple’s Flagship Product Won’t Be Continued—Here’s Why - Glass Almanac",
-      "description": "Apple has built a reputation for redefining technology, and the Vision Pro, its much-anticipated VR headset, seemed like it would be the company’s next big leap. ... Continue Reading →",
-      "url": "https://glassalmanac.com/tim-cook-reveals-apples-flagship-product-wont-be-continued-heres-why/",
-      "urlToImage": "https://glassalmanac.com/wp-content/uploads/2025/01/Tim-Cook-Reveals-Apples-Flagship-Product-Wont-Be-Continued.jpg",
-      "publishedAt": "2025-01-26T16:30:01Z",
-      "content": "Apple has built a reputation for redefining technology, and the Vision Pro, its much-anticipated VR headset, seemed like it would be the companys next big leap. Combining immersive virtual reality wi… [+3995 chars]"
+      "author": null,
+      "title": "Llama.cpp AI Performance With The GeForce RTX 5090 Review - Phoronix",
+      "description": "In beginning the NVIDIA Blackwell Linux testing with the GeForce RTX 5090 compute performance, besides all the CUDA/OpenCL/OptiX benchmarks delivered last week a number of readers asked about AI performance and in particular the Llama.cpp performance with the…",
+      "url": "https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp",
+      "urlToImage": "https://www.phoronix.net/image.php?id=nvidia-rtx5090-llama-cpp&image=nvidia_rtx5090_llamacpp",
+      "publishedAt": "2025-01-27T19:33:00Z",
+      "content": "In beginning the NVIDIA Blackwell Linux testing with the GeForce RTX 5090 compute performance, besides all the CUDA/OpenCL/OptiX benchmarks delivered last week a number of readers asked about AI perf… [+943 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Wes Davis",
-      "title": "Retro Remake opens preorders for its PS One FPGA clone - The Verge",
-      "description": "Retro Remake is taking preorders for the SuperStation One, an FPGA-based PS One clone coming later this year.",
-      "url": "https://www.theverge.com/2025/1/26/24352254/superstation-one-preorder-retro-remake-ps1-fpga",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JisXDBo1NkB5n9Vu6MHEkKu2sN4=/0x0:2572x1547/1200x628/filters:focal(1286x774:1287x775)/cdn.vox-cdn.com/uploads/chorus_asset/file/25847349/Screenshot_2025_01_26_at_10.10.56_AM.png",
-      "publishedAt": "2025-01-26T16:23:58Z",
-      "content": "Retro Remake opens preorders for its PS One FPGA clone\r\nRetro Remake opens preorders for its PS One FPGA clone\r\n / The SuperStation One is coming later this year.\r\nByWes Davis, a weekend editor who c… [+1959 chars]"
+      "author": "The Wall Street Journal",
+      "title": "Exclusive | Gwyneth Paltrow Gets $22 Million for Her Los Angeles Home - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/real-estate/luxury-homes/gwyneth-paltrow-sells-los-angeles-home-cb5b9b81",
+      "urlToImage": null,
+      "publishedAt": "2025-01-27T19:20:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Apple fixes this year’s first actively exploited zero-day bug - BleepingComputer",
+      "description": "​Apple has released security updates to fix this year's first zero-day vulnerability, tagged as actively exploited in attacks targeting iPhone users.",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-this-years-first-actively-exploited-zero-day-bug/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/09/11/apple_triangle.jpg",
+      "publishedAt": "2025-01-27T19:17:00Z",
+      "content": "​Apple has released security updates to fix this year's first zero-day vulnerability, tagged as actively exploited in attacks targeting iPhone users.\r\nThe zero-day fixed today is tracked as CVE-2025-… [+1770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Tom Ivan",
+      "title": "Xbox boss Spencer says Series S compatibility requirement isn’t going away - Video Games Chronicle",
+      "description": "Xbox has no plans to allow the release of Series X exclusive games",
+      "url": "https://www.videogameschronicle.com/news/xbox-boss-spencer-says-series-s-compatibility-requirement-isnt-going-anywhere/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2023/08/xbox-series-consoles.jpg",
+      "publishedAt": "2025-01-27T18:55:50Z",
+      "content": "Xbox boss Phil Spencer has reiterated that the company doesnt have any plans to allow the release of Series X exclusive games.\r\nIts currently a mandatory requirement for developers to ensure that the… [+2753 chars]"
     },
     {
       "source": {
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Alice Jovanée",
-      "title": "Assassin’s Creed Shadows pre-order guide - Polygon",
-      "description": "Here’s what you get with the limited, digital deluxe and collector’s editions of Assassin’s Creed Shadows if you pre-order ahead of the Mar. 20 launch.",
-      "url": "https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/ac-shadows-stealth.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-01-26T16:00:00Z",
-      "content": "After a series of unfortunate delays, the next installment in the Assassins Creed franchise is coming to PC and consoles on Mar. 20. Assassins Creed Shadows follows protagonists Naoe and Yasuke throu… [+2964 chars]"
+      "author": "Ian Walker",
+      "title": "Baldur’s Gate 3’s last major patch went live early on PS5, and it might break new saves - Polygon",
+      "description": "The last major update for Baldur’s Gate 3 somehow went live on PlayStation 5 early, and developer Larian Studios warns of possible save breaking",
+      "url": "https://www.polygon.com/news/514529/baldurs-gate-3-patch-8-ps5-early-access-larian-studios",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/09/bg3.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-01-27T18:53:41Z",
+      "content": "If youre a Baldurs Gate 3 player on PlayStation 5, you can check out the games long-awaited Patch 8 ahead of schedule. And the developers have no idea why.\r\nNo, the Patch 8 stress test hasnt yet begu… [+883 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Still 'Exploring' New AirPods With Tiny Cameras - MacRumors",
-      "description": "Apple continues to explore the idea of releasing camera-equipped AirPods in the future, according to Bloomberg's Mark Gurman.   Gurman only...",
-      "url": "https://www.macrumors.com/2025/01/26/apple-exploring-airpods-with-tiny-cameras/",
-      "urlToImage": "https://images.macrumors.com/t/hZNqVW5CIFNjQp6JAllzNjs2kmk=/1600x/article-new/2019/10/airpods-pro-purple.jpg",
-      "publishedAt": "2025-01-26T15:52:18Z",
-      "content": "Apple continues to explore the idea of releasing camera-equipped AirPods in the future, according to Bloomberg's Mark Gurman.\r\nGurman only briefly mentioned the possibility of AirPods gaining tiny ca… [+1153 chars]"
+      "author": "Juli Clover",
+      "title": "Update Now: iOS 18.3 and macOS Sequoia 15.3 Include 20+ Security Updates - MacRumors",
+      "description": "Along with new features, the iOS 18.3, iPadOS 18.3, and macOS Sequoia 15.3 updates that Apple released today include multiple security fixes,...",
+      "url": "https://www.macrumors.com/2025/01/27/ios-18-3-macos-sequoia-15-3-security-updates/",
+      "urlToImage": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "publishedAt": "2025-01-27T18:52:39Z",
+      "content": "Along with new features, the iOS 18.3, iPadOS 18.3, and macOS Sequoia 15.3 updates that Apple released today include multiple security fixes, including a fix for vulnerability that may have been acti… [+1099 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BGR"
+        "name": "Gizmodo.com"
       },
-      "author": "Chris Smith, Chris Smith",
-      "title": "Hour-long unskippable ads are showing up on YouTube - BGR",
-      "description": "YouTube has served hourlong unskippable ads to some people, which is a perfect excuse to use an ad blocker.",
-      "url": "https://bgr.com/tech/hour-long-unskippable-ads-are-showing-up-on-youtube/",
-      "urlToImage": "https://bgr.com/wp-content/uploads/2024/04/rsz_gettyimages-1491117587.jpg?quality=82&strip=all",
-      "publishedAt": "2025-01-26T15:48:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "PC Gaming Brought In Significantly Higher Revenue Than Consoles in the Last Decade - Wccftech",
-      "description": "PC gaming has dominated the mainstream markets over the past decade, as a new report by Epyllion discussing the state of the gaming industry.",
-      "url": "https://wccftech.com/pc-gaming-brought-in-significantly-higher-revenue-than-consoles-in-the-last-decade/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/01/PS5-PC-XSX-HD-scaled-1.jpg",
-      "publishedAt": "2025-01-26T15:30:00Z",
-      "content": "PC gaming has dominated the mainstream markets over the past decade, as revealed in this new report by Epyllion. Traditionally, video game markets have always favored console platforms in terms of pr… [+1648 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Geoffrey A. Fowler",
-      "title": "You can finally press ‘reset’ on your Instagram feed. Here’s why you should. - Yahoo Life",
-      "description": "Does it ever feel like your social media feed just doesn’t get you? Or that it keeps leading your kids down unhealthy rabbit holes? You don’t have to put up ...",
-      "url": "https://washingtonpost.com/technology/2025/01/25/reset-instagram-algorithm-titktok-fyp-youtube/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WZs_awyTTdLocsrRlZoqIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/0029d000-dbf7-11ef-bdf3-aaff190e6796",
-      "publishedAt": "2025-01-26T15:06:29Z",
-      "content": "Does it ever feel like your social media feed just doesnt get you? Or that it keeps leading your kids down unhealthy rabbit holes?\r\nYou dont have to put up with it anymore.\r\nSubscribe to The Post Mos… [+6950 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Yahoo Life Shopping Editors",
-      "title": "Never stare at ugly cords again, thanks to this fan favorite — and it's just $24 - Yahoo Life",
-      "description": "'Love how minimal and clean this makes our home look': The Sleek Socket clears cable clutter and makes plugs easier to access.",
-      "url": "https://www.yahoo.com/lifestyle/never-stare-at-ugly-cords-again-thanks-to-this-fan-favorite--and-its-just-24-145219791.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zPOnpvYstbZ1seChdnWPiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/f08dccb0-dbf5-11ef-bbbb-c801a37fa241",
-      "publishedAt": "2025-01-26T14:52:19Z",
-      "content": "It's a pesky downside to the tech-driven world we live in: The more gadgets we own, the more unsightly power cords we have dangling, tangling and winding around our homes. If only there were an easy … [+3108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Louis Ramirez",
-      "title": "11 best Super Bowl TV deals this weekend — snag a 65-inch OLED for $500 off now - Tom's Guide",
-      "description": "Give your Super Bowl party the ultimate upgrade",
-      "url": "https://www.tomsguide.com/sales-events/11-best-super-bowl-tv-deals-this-weekend-snag-a-65-inch-oled-for-usd500-off-now",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dDigLbuFAF4FXyCDrfDS6F-1200-80.jpg",
-      "publishedAt": "2025-01-26T14:21:57Z",
-      "content": "Whether you're planning an Oscars watch party or a Super Bowl party, nothing beats having a big-screen TV in your living room. Once prohibitively expensive, big-screen TVs can be found for well under… [+1643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Peter Lyon",
-      "title": "Mazda’s Most Powerful MX-5 Miata Debuts But Will We Get It? - Forbes",
-      "description": "To celebrate the current generation MX-5's 10th anniversary, Mazda has created its most powerful roadster ever — the MX-5 12R.",
-      "url": "https://www.forbes.com/sites/peterlyon/2025/01/26/mazdas-most-powerful-mx-5-miata-debuts-but-will-we-get-it/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67963e47465e569d4c5fda2f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-26T14:05:20Z",
-      "content": "Only 200 units of this new MX-5 12R will be made.\r\nPhoto by Peter Lyon\r\nA rare, limited edition MX-5 was launched at the Tokyo Auto Salon in early January in Japan, and it seems as though we may not … [+2580 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Lily Burrill",
-      "title": "33 Things That’ll Help You Hit The Ground Running And Get Your Life Together For 2025 - BuzzFeed",
-      "description": "Whoever came up with these QR code organization stickers needs a raise because *whew* will these get you organized.",
-      "url": "https://www.buzzfeed.com/lily_burrill/things-help-you-hit-ground-running",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-01/22/18/enhanced/4c2c6218b4e3/original-496-1737569227-2.jpg?crop=2999:1575;0,0%26downsize=1250:*",
-      "publishedAt": "2025-01-26T14:01:02Z",
-      "content": "You set the countdown time, then flip the cube to start the timer! Two AAA batteries are needed.\r\nCheck it out in this TikTok office desk tour! \r\nPromising review: \"I have ADHD, and I have struggled … [+1117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Outside"
-      },
-      "author": "Zach Nehr",
-      "title": "Lifting the Lid on Visma-Lease a Bike’s Secret Winter Training - Outside Magazine",
-      "description": "Discover the winter training hacks of one of the most secretive teams in cycling. We uncover how the world’s best team prepares for success.",
-      "url": "https://velo.outsideonline.com/road/road-training/visma-lease-a-bikes-secret-winter-training/",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2025/01/GettyImages-2193316169.jpg?width=1200",
-      "publishedAt": "2025-01-26T13:31:13Z",
-      "content": "\"], \"filter\": { \"nextExceptions\": \"img, blockquote, div\", \"nextContainsExceptions\": \"img, blockquote, a.btn, a.o-button\"} }'&gt;\r\nTeam Visma-Lease a Bike is one of the most secretive teams in the pel… [+6363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "This classic 35-year-old point and click horror is back from the dead, remade by the same solo dev that created it - Eurogamer",
-      "description": "35 years after point and click horror game Last Half of Darkness first released it's coming back, remade from the groun…",
-      "url": "https://www.eurogamer.net/this-classic-35-year-old-point-and-click-horror-is-back-from-the-dead-remade-by-the-same-solo-dev-that-created-it",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2025-01-26-at-13.21.21.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-01-26T13:25:47Z",
-      "content": "35 years after point and click horror game Last Half of Darkness first released it's coming back, remade from the ground up by the same solo dev who created it.\r\nIn honour of the 35th anniversary (we… [+1709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "Samsung Reveals ‘Game-Changer’ Blood Glucose Monitoring To Outdo Apple Watch - Forbes",
-      "description": "Glucose monitoring without piercing the skin is a prize companies like Apple and Samsung have been aiming for. Now, Samsung has news.",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/01/26/samsung-reveals-game-changer-blood-glucose-monitoring-to-outdo-apple-watch/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6792b2849524ede1e1d9a0d5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-26T13:21:45Z",
-      "content": "Republished Jan. 26 with details of what the technology will mean and when it might launch.\r\nHealth monitoring is a key part of technology, from the brilliant Oura Ring to the many health and fitness… [+4671 chars]"
+      "author": "Gizmodo Deals",
+      "title": "Three Times Cheaper Than iPhone 16 Pro, Samsung Slashes Galaxy S25 Ultra Price By 70% For Launch - Gizmodo",
+      "description": "You can snag the newest Galaxy S25 Ultra for just $399, which is just a third of an iPhone 16 Pro's price.",
+      "url": "https://gizmodo.com/three-times-cheaper-than-iphone-16-pro-samsung-slashes-galaxy-s25-ultra-price-by-70-for-launch-2000555125",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg",
+      "publishedAt": "2025-01-27T18:50:24Z",
+      "content": "Samsung has just unveiled a few days ago its most ambitious pre-order offer ever for the new Galaxy S25 Series, which is an opportunity that’s simply too good to miss. These great deals on all Galaxy… [+2514 chars]"
     }
   ]
 }
