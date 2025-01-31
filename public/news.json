@@ -1,97 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 54,
+  "totalResults": 49,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Pixel Buds Pro 2 update gets Google changelog - 9to5Google",
+      "description": "Firmware version 3.144 started rolling out to the Pixel Buds Pro 2 on Monday, and Google is now out with an official update changelog...",
+      "url": "http://9to5google.com/2025/01/29/pixel-buds-pro-2-update-changelog/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Google-Pixel-Buds-Pro-2-review-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-01-29T20:35:00Z",
+      "content": "Firmware version 3.144 started rolling out to the Pixel Buds Pro 2 on Monday, and Google is now out with an official changelog for the update.\r\nOn Wednesday afternoon, Google said firmware update rel… [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Sony pulls controversial PSN account requirements for Marvel's Spider-Man 2 and other games on PC - Eurogamer",
+      "description": "Sony is dropping its formerly mandatory PlayStation Network account requirements across a select number of its predomin…",
+      "url": "https://www.eurogamer.net/sony-pulls-controversial-psn-account-requirements-for-marvels-spider-man-2-and-other-games-on-pc",
+      "urlToImage": "https://assetsio.gnwcdn.com/marvels-spider-man-2_E0un6oc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-29T19:59:02Z",
+      "content": "Sony is dropping its formerly mandatory PlayStation Network account requirements across a select number of its predominantly single-player titles on PC - but it's introducing in-game content \"benefit… [+2596 chars]"
+    },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Casey DeFreitas",
-      "title": "Monster Hunter Wilds Interview: Meet Nu Udra, Apex of the Oilwell Basin – IGN First - IGN",
-      "description": "What kind of concept did the Monster Hunter Wilds development team have in mind when constructing Oilwell Basin and its monsters? We ask Kaname Fujioka, a director starting with the first Monster Hunter as well as Executive Director and Art Director for Wilds.",
-      "url": "https://www.ign.com/articles/monster-hunter-wilds-interview-meet-nu-udra-apex-of-the-oilwell-basin-ign-first",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/27/ign-first-monhun-nu-udra-blogroll-1738020822258.jpg?width=1280",
-      "publishedAt": "2025-01-28T22:03:01Z",
-      "content": "From dry deserts, bustling forests, blazing volcanos to even frozen tundra, a variety of environments appear throughout the Monster Hunter series, each with its own unique ecosystem created by a dive… [+20543 chars]"
+      "author": "Will Borger",
+      "title": "Ninja Gaiden 2 Black Review - IGN",
+      "description": "This may not quite be the definitive version, but it's still a gorgeous improvement to an excellent action game.",
+      "url": "https://www.ign.com/articles/ninja-gaiden-2-black-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/29/ninja-gaiden-2-black-blogroll-1738176208763.jpg?width=1280",
+      "publishedAt": "2025-01-29T19:21:09Z",
+      "content": "There is a moment near the end of Ninja Gaiden 2 Black where you retrace the original Ninja Gaidens opening level in reverse. I know that level like the back of my hand, having played it over and ove… [+15075 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Videocardz.com"
       },
-      "author": "S.E. Doster",
-      "title": "Call Of Duty: Black Ops 6 - How To Unlock The Tomb Easter Egg Song - GameSpot",
-      "description": "Here's how you unlock the secret song on The Tomb in BO6 Zombies and find all Mr. Peeks headset locations.",
-      "url": "https://www.gamespot.com/gallery/call-of-duty-black-ops-6-how-to-unlock-the-tomb-easter-egg-song/2900-6174/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4434674-bo6-season-02-announcement-028.jpg",
-      "publishedAt": "2025-01-28T21:50:15Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ashley Belanger",
-      "title": "AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt - Ars Technica",
-      "description": "Attackers explain how an anti-spam defense became an AI weapon.",
-      "url": "https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-167643729-1024x648.jpg",
-      "publishedAt": "2025-01-28T21:16:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Apple chips can be hacked to leak secrets from Gmail, iCloud, and more - Ars Technica",
-      "description": "Side channel gives unauthenticated remote attackers access they should never have.",
-      "url": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-M3-chip-series_screen-1152x648.jpeg",
-      "publishedAt": "2025-01-28T20:56:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Destiny 2 Is Getting Star Wars Gear In Latest Crossover Collaboration - GameSpot",
-      "description": "Bungie previously partnered with franchises like The Witcher and Mass Effect.",
-      "url": "https://www.gamespot.com/articles/destiny-2-is-getting-star-wars-gear-in-latest-crossover-collaboration/1100-6529080/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4434672-screenshot2025-01-28at3.07.17pm.png",
-      "publishedAt": "2025-01-28T20:22:28Z",
-      "content": "Destiny is getting crossover content with one of the biggest sci-fi franchises on the planet, as Bungie has announced a partnership with Lucasfilm to bring Star Wars content to Destiny 2.\r\nLaunching … [+1700 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ian Walker",
-      "title": "Pokémon TCG Pocket’s next expansion is leaking all over the place - Polygon",
-      "description": "Pokémon TCG Pocket cards like Weavile ex, Porygon-Z, and Bidoof are leaking from the mobile game’s next expansion, Space-Time Smackdown",
-      "url": "https://www.polygon.com/news/515271/pokemon-tcg-pockets-space-time-smackdown-leak-datamine-weavile-bidoof",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/pokemon-tcg-pocket-cardbacks.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-01-28T19:25:51Z",
-      "content": "The next major Pokémon Trading Card Game Pocket update, dubbed Space-Time Smackdown, is scheduled for Jan. 29, but several cards are already starting to appear online, presumably through datamining. … [+2380 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Tyler Colp",
-      "title": "Baldur’s Gate 3’s last big update with cross-play is now available for stress testing - Polygon",
-      "description": "Larian Studios is inviting players to test out cross-play, photo mode, and 12 new subclasses in the final patch for the RPG.",
-      "url": "https://www.polygon.com/news/515127/baldurs-gate-3-patch-8-cross-play-stress-test-larian-studios",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/shadowheart-baldurs-gate-3-larian-studios.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-01-28T18:42:25Z",
-      "content": "After an unplanned early release on PlayStation 5 yesterday, the final major update for Baldurs Gate 3 is now available for stress testing on all platforms.\r\nTo get in on Patch 8 early, players must … [+1851 chars]"
+      "author": null,
+      "title": "Spider-Man 2 PC specs revealed: GeForce RTX 4070+ Radeon and RX 7900 XT required for ray tracing - VideoCardz.com",
+      "description": "Marvel Spider-Man 2 PC requirements announced Just a day ahead of its expected launch, Nixxes has revealed the full system requirements for the upcoming game. Many were left wondering if Nixxes had forgotten about the PC port of Spider-Man 2. With nearly no c…",
+      "url": "https://videocardz.com/newz/spider-man-2-pc-specs-revealed-geforce-rtx-4070-radeon-and-rx-7900-xt-required-for-ray-tracing",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/01/egs-marvelsspiderman2-insomniacgamesnixxessoftware-g1a-00-1920x1080-490389992071-1.jpg",
+      "publishedAt": "2025-01-29T19:01:00Z",
+      "content": "Just a day ahead of its expected launch, Nixxes has revealed the full system requirements for the upcoming game.\r\nMany were left wondering if Nixxes had forgotten about the PC port of Spider-Man 2. W… [+3583 chars]"
     },
     {
       "source": {
@@ -99,155 +60,194 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google Play Store adding ‘Verified’ badge for VPN apps - 9to5Google",
-      "description": "After introducing a “Government” badge last year, the Google Play Store is adding one called “Verified” for consumer-facing VPN apps.",
-      "url": "http://9to5google.com/2025/01/28/google-play-verified-vpn-badge/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Google-Play-Store-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-28T18:00:00Z",
-      "content": "After introducing a Government badge last year, the Google Play Store is adding one called Verified for consumer-facing VPN apps. \r\nGoogle Play already highlights VPNs that have an Independent securi… [+1032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Big Nintendo Switch Sale Includes Deals On Mario Kirby , And More - Kotaku",
-      "description": "The massive Supercharge Sale ends on February 9, so don't wait too long",
-      "url": "https://kotaku.com/eshop-switch-sale-game-nintendo-supercharge-mario-deals-1851749300",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1735407a45f9584dfc6004d6632983d0.jpg",
-      "publishedAt": "2025-01-28T17:05:00Z",
-      "content": "A new Nintendo Switch eShop sale is happening right now. Nearly 40 games are currently marked down, including some first-party hits from Nintendo and a selection of third-party titles, too. \r\nOn Janu… [+1734 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rocketleague.com"
-      },
-      "author": "Psyonix Team",
-      "title": "It’s Official, Not a Leek: Rocket League x Hatsune Miku! - Rocket League",
-      "description": "Rocket League’s never been so adorable. In Rocket League x Hatsune Miku, take in the sights and sounds of the world’s biggest virtual superstar!",
-      "url": "https://www.rocketleague.com/en/news/its-official-not-a-leek-rocket-league-x-hatsune-miku",
-      "urlToImage": "https://media.graphassets.com/resize=fit:clip,height:1080,width:1920/output=format:webp/I4W01QyiSOlrRvYTFxMI",
-      "publishedAt": "2025-01-28T16:54:08Z",
-      "content": "A new act is about to take center stage in Rocket League. The world is hers: get ready for the one and only Hatsune Miku!\r\nShow your for this revered virtual artist by completing Challenges to unlock… [+3707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Doom sees 101% Xbox player increase following Doom: The Dark Ages reveal - TrueAchievements",
-      "description": "Following last week's Doom: The Dark Ages Xbox release date reveal, both Doom and Doom Eternal have seen a huge increase in Xbox players.",
-      "url": "https://www.trueachievements.com/news/doom-and-doom-eternal-xbox-players-spiked",
-      "urlToImage": "https://www.trueachievements.com/imgs/156000/doom-and-doom-eternal-xbox-players-spiked.jpg",
-      "publishedAt": "2025-01-28T16:51:45Z",
-      "content": "The Doom and Doom Eternal Xbox player counts have spiked since id Software announced the Doom: The Dark Ages release date during the Xbox Developer Direct. It seems many players on Xbox want to prepa… [+2631 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Nvidia warns that the RTX 5090 and RTX 5080 might quickly run out of stock - The Verge",
-      "description": "Nvidia says the RTX 5090 and RTX 5080 may both go out of stock. Rumors have suggested there will be low stocks of these next-gen GPUs.",
-      "url": "https://www.theverge.com/news/598793/nvidia-rtx-5090-5080-low-stock-warning",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-01-28T16:32:09Z",
-      "content": "After rumors of low RTX 5090 stock, Nvidia says its working to get more GPUs to retailers.\r\nAfter rumors of low RTX 5090 stock, Nvidia says its working to get more GPUs to retailers.\r\nNvidia is launc… [+1204 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "Apple fixes zero-day flaw affecting all devices - TechCrunch",
-      "description": "The zero-day bug was fixed in iPhones, iPads, Macs, Apple TVs, Apple Watches and Vision Pro headsets.",
-      "url": "https://techcrunch.com/2025/01/28/apple-fixes-zero-day-flaw-affecting-all-devices/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?resize=1200,800",
-      "publishedAt": "2025-01-28T16:20:23Z",
-      "content": "Apple released the latest updates for its iPhone, iPad and Mac operating systems on Monday, which included switching on Apple Intelligence by default for newer devices. \r\nAs part of this batch of sof… [+1104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bethesda.net"
-      },
-      "author": null,
-      "title": "DOOM + DOOM II Update 2 Release Notes - Slayers Club",
-      "description": "Update 2 adds Multiplayer Mod support for DOOM + DOOM II and game improvements/fixes!",
-      "url": "https://slayersclub.bethesda.net/en-US/article/doom-doomii-update-2-release-notes",
-      "urlToImage": null,
-      "publishedAt": "2025-01-28T16:00:00Z",
-      "content": "DOOM: The Dark Ages\r\nNew Gameplay Details Revealed for DOOM: The Dark Ages, Launching May 15, 2025\r\nWage war against Hell itself as the DOOM Slayer. Deploy bullets, medieval weapons, chainsaw shields… [+109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Sniper Elite: Resistance explodes onto Xbox with a familiar achievement list - TrueAchievements",
-      "description": "Sniper Elite: Resistance joins Xbox Game Pass later this week, and we can now reveal the Sniper Elite: Resistance Xbox achievement list.",
-      "url": "https://www.trueachievements.com/news/sniper-elite-resistance-xbox-achievements",
-      "urlToImage": "https://www.trueachievements.com/imgs/155994/sniper-elite-resistance-explodes-onto-xbox-with-a-familiar-achievement-list.jpg",
-      "publishedAt": "2025-01-28T15:46:34Z",
-      "content": "The Sniper Elite: Resistance Xbox achievements are now live! Xbox Series X|S, Xbox One, and PC players who have pre-ordered the Deluxe Edition can now begin working their way through the Sniper Elite… [+9046 chars]"
+      "title": "Google Pixel 9a reportedly launching March 26 - 9to5Google",
+      "description": "With last year’s A-Series phone, Google moved up the launch by a week, and the Pixel 9a is rumored to be getting an even earlier March.",
+      "url": "http://9to5google.com/2025/01/29/pixel-9a-launching/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/05/Pixel-3a-Google-logo-rear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-01-29T18:57:00Z",
+      "content": "With last years A-Series phone, Google moved up the launch by a week, and the Pixel 9a is rumored to be getting an even earlier March unveil.\r\nThe Pixel 9a has already been rumored for mid-March, and… [+1146 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Ryan Dinsdale",
-      "title": "Nintendo Goes All In on Donkey Kong Redesign Seen in Nintendo Switch 2 and Mario Kart 9 First Look - IGN",
-      "description": "Nintendo is going all in on the Donkey Kong redesign spotted by fans in the Mario Kart 9 gameplay debuted during the Nintendo Switch 2 reveal event.",
-      "url": "https://www.ign.com/articles/nintendo-goes-all-in-on-donkey-kong-redesign-seen-in-nintendo-switch-2-and-mario-kart-9-first-look",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/15/donkeykongcountryreturnshdlaunchtrailer-ign-blogroll1-1736961860322.jpg?width=1280",
-      "publishedAt": "2025-01-28T15:33:29Z",
-      "content": "Nintendo is going all in on the Donkey Kong redesign spotted by fans in the Mario Kart 9 gameplay debuted during the Nintendo Switch 2 reveal event.\r\nDonkey Kong has had the same design for years now… [+1841 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "Amazon's New iPad Sale Has Up to $300 Off M4 iPad Pro, M2 iPad Air, and iPad Mini 7 - MacRumors",
-      "description": "Today we're tracking a few iPad discounts on Amazon, including the new iPad mini 7, M2 iPad Air, and M4 iPad Pro. These deals include multiple...",
-      "url": "https://www.macrumors.com/2025/01/28/amazons-new-ipad-sale-2025/",
-      "urlToImage": "https://images.macrumors.com/t/MPDSu5zl8VgIkX1kKMzwqwn4rHg=/2500x/article-new/2025/01/ipad-january-sale.jpeg",
-      "publishedAt": "2025-01-28T15:32:13Z",
-      "content": "Today we're tracking a few iPad discounts on Amazon, including the new iPad mini 7, M2 iPad Air, and M4 iPad Pro. These deals include multiple all-time low prices on Apple's tablets, matching the pri… [+1731 chars]"
+      "author": "Rebekah Valentine",
+      "title": "Mass Effect 5: BioWare Doesn't 'Require Support From the Full Studio', EA Moves Some Staff to Other Teams - IGN",
+      "description": "EA has announced it is restructuring Dragon Age and Mass Effect studio BioWare, moving a number of developers onto other projects within EA and focusing entirely on Mass Effect going forward.",
+      "url": "https://www.ign.com/articles/mass-effect-5-bioware-doesnt-require-support-from-the-full-studio-ea-moves-some-staff-to-other-teams",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/29/bioware-restructuring-blogroll-1738170461496.jpg?width=1280",
+      "publishedAt": "2025-01-29T18:08:42Z",
+      "content": "EA has announced it is restructuring Dragon Age and Mass Effect studio BioWare, moving a number of developers onto other projects within EA and focusing entirely on its upcoming Mass Effect game goin… [+2777 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Dominic Preston",
-      "title": "YouTube says it’s not serving hourslong unskippable ads to users with ad blockers - The Verge",
-      "description": "The company blames ad blockers themselves for any ‘suboptimal viewing experience.’",
-      "url": "https://www.theverge.com/news/597270/youtube-long-unskippable-ads-ad-blockers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK092_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-01-28T15:06:51Z",
-      "content": "Users with ad blockers are reporting seeing hourslong unskippable ads.\r\nUsers with ad blockers are reporting seeing hourslong unskippable ads.\r\nGoogle has denied reports that its serving unskippable … [+2366 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Garmin has new solutions for watches stuck on the ‘blue triangle of death’ - The Verge",
+      "description": "Garmin still hasn’t confirmed what caused the “blue triangle of death” issue on its smartwatches but now suggests several ways to fix affected models.",
+      "url": "https://www.theverge.com/news/601915/garmin-blue-triangle-fix-solution-reset",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/garminbluetriangle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-01-29T18:06:06Z",
+      "content": "Some of the fixes involve permanent steps like doing a factory reset and losing your data.\r\nSome of the fixes involve permanent steps like doing a factory reset and losing your data.\r\nGarmin has shar… [+3002 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCGamesN"
+        "name": "Blizzard.com"
       },
-      "author": "Lauren Bergin",
-      "title": "Cult classic 2010 MOBA is back from the dead after dev claims it was shut down \"too soon\" - PCGamesN",
-      "description": "After shuttering in 2022, classic MOBA Heroes of Newerth is back and even better, but competing with League of Legends isn't the plan.",
-      "url": "https://www.pcgamesn.com/heroes-of-newerth/reborn-remaster",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/01/heroes-of-newerth-reborn-2010-classic-moba-remaster-reveal-interview-1.jpg",
-      "publishedAt": "2025-01-28T15:00:04Z",
-      "content": "We may earn a commission when you buy through links in our articles. Learn more.\r\nAfter shuttering in 2022, classic MOBA Heroes of Newerth is back and even better, but competing with League of Legend… [+4791 chars]"
+      "author": null,
+      "title": "Pursue Celestial Fortune in Lunar Awakening — Diablo IV - Blizzard News",
+      "description": "Activate snake-themed Lunar Shrines for 100% bonus experience. Earn Ancestral Favor Reputation to receive festive rewards.",
+      "url": "https://news.blizzard.com/en-us/article/24174392/pursue-celestial-fortune-in-lunar-awakening",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/8o/8OXNBITTFXJC1737745034643.png",
+      "publishedAt": "2025-01-29T18:00:00Z",
+      "content": "The long-awaited celestial journey has returned! From February 4, 10 a.m.February 18, 10 a.m. PST players in both Seasonal and Eternal Realms can bask in the moonlight of the Lunar Awakening limited-… [+3612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Samsung is Going Nuts, The New Galaxy S25 Ultra is 70% Off if You Pre-Order It Now - Gizmodo",
+      "description": "The new Galaxy S25 Series comes with prices that seem almost too good to be true.",
+      "url": "https://gizmodo.com/samsung-is-going-nuts-the-new-galaxy-s25-ultra-is-70-off-if-you-pre-order-it-now-2000556519",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra.jpg",
+      "publishedAt": "2025-01-29T17:59:47Z",
+      "content": "Samsung has launched a pre-order campaign for its new Galaxy S25 Series and offers deals that are hard to ignore. With the pre-order period set to end this Friday (January 31, 2025), you have a limit… [+2879 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Sony will only ‘occasionally’ offer PS4 games on PlayStation Plus starting next year - The Verge",
+      "description": "Sony is shifting to “occasionally” include PS4 games as a PlayStation Plus benefit starting in January 2026.",
+      "url": "https://www.theverge.com/news/601940/sony-playstation-plus-ps4-games-occasionally",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/final-fantasy-vii-remake-may-2019-screen-06-ps4-en-28may19.webp?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+      "publishedAt": "2025-01-29T17:08:05Z",
+      "content": "Youll still have access to monthly PS4 games youve already redeemed, but Sony is shifting its focus more fully to PS5.\r\nYoull still have access to monthly PS4 games youve already redeemed, but Sony i… [+928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "Windows 11 Start menu phone integration now includes iPhone support - 9to5Mac",
+      "description": "In a blog post for Windows Insiders, Microsoft has announced that Start menu phone integration on Windows 11 now works...",
+      "url": "https://9to5mac.com/2025/01/29/windows-11-start-menu-phone-integration-now-includes-iphone-support/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS-Blog-Post-Image.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-01-29T17:08:00Z",
+      "content": "In a blog post for Windows Insiders, Microsoft has announced that Start menu phone integration on Windows 11 now works with iPhone. The feature was previously tested for Android last year with iPhone… [+1364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UploadVR"
+      },
+      "author": "Henry Stockdale",
+      "title": "Demeo X Dungeons & Dragons: Battlemarked Is Resolution's Official D&D VR Game - UploadVR",
+      "description": "Demeo x Dungeons & Dragons: Battlemarked is Resolution's official D&D VR game, using the tabletop RPG's mechanics for an officially licensed crossover.",
+      "url": "https://www.uploadvr.com/demeo-x-dungeons-dragons-battlemarked-d-d-vr-game/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/01/Battlemarked---Hero-Art.png",
+      "publishedAt": "2025-01-29T17:00:46Z",
+      "content": "Demeo x Dungeons &amp; Dragons: Battlemarked is Resolution's D&amp;D VR game, using the tabletop RPG's mechanics for a licensed crossover.\r\nFollowing its work on hit co-op RPG Demeo and its more rece… [+1535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "PS Plus Essential Games for February 2025 Announced - Push Square",
+      "description": "3 more PS5, PS4 titles incoming",
+      "url": "https://www.pushsquare.com/news/2025/01/ps-plus-essential-games-for-february-2025-announced",
+      "urlToImage": "https://images.pushsquare.com/37fee87ff1c19/1280x720.jpg",
+      "publishedAt": "2025-01-29T16:52:30Z",
+      "content": "Sony has today confirmed the next set of PS Plus Essential games members can look forward to for February 2025. Set to arrive on Tuesday, 4th February 2025, the PS5, PS4 titles on offer are:\r\nRelated… [+1418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Pokémon TCG Pocket players brand trading system \"a joke\" and \"downright greedy\" - Eurogamer",
+      "description": "A new update to Pokémon TCG Pocket has added the ability for players to trade cards, but the mechanics of the system ha…",
+      "url": "https://www.eurogamer.net/pokemon-tcg-pocket-players-brand-trading-system-a-joke-and-downright-greedy",
+      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-2_FrWD0Gt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-29T16:36:32Z",
+      "content": "A new update to Pokémon TCG Pocket has added the ability for players to trade cards, but the mechanics of the system have come under intense criticism from fans. \r\nTrading require players use up valu… [+3337 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "At 65% off, the time to buy Dragon Age: The Veilguard is now - Polygon",
+      "description": "GameStop has slashed prices on popular Nintendo Switch, PS5, and Xbox Series X titles, including Dragon Age: The Veilguard, costing just $24.99 instead of $70.",
+      "url": "https://www.polygon.com/good-deals/515799/gamestop-super-mario-rpg-dragon-age-veilguard-starfield-sale",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/da-rev-screenshot-01-dragon-3840x2160.jpg.adapt_.1456w.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-01-29T15:48:30Z",
+      "content": "GameStop is slashing prices on select video games for no apparent reason (not that a reason is necessary!), marking down the likes of Super Mario RPG for the Nintendo Switch, Dragon Age: The Veilguar… [+658 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Comcast is rolling out ‘ultra-low lag’ tech that could fix the internet - The Verge",
+      "description": "Comcast is officially starting to roll out the “pioneering new, ultra-low lag connectivity experience.” technology powering this upgrade is based on a standard called L4S.",
+      "url": "https://www.theverge.com/news/601100/comcast-l4s-low-latency-internet",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB303_COMCAST_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-01-29T15:00:00Z",
+      "content": "The new technology is based on a standard called L4S, which can significantly reduce latency to help things like video games feel smoother.\r\nThe new technology is based on a standard called L4S, whic… [+2956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Logan Carter",
+      "title": "Why Don’t Turbocharged Cars Need Hood Scoops Anymore? - Jalopnik",
+      "description": "Eye-catching hood scoops used to adorn the front of turbocharged cars, but now that more cars are turbocharged than ever, where are the hood scoops?",
+      "url": "https://jalopnik.com/why-don-t-turbocharged-cars-need-hood-scoops-anymore-1851749964",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7d48d88d18b094c577da1a4c6d78ed67.jpg",
+      "publishedAt": "2025-01-29T15:00:00Z",
+      "content": "You never know what you have until its gone, and the proliferation of hood scoops on turbocharged cars is a perfect example of that. Looking back in time a decade or two, it was more common for turbo… [+3216 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "AstroForge selects target for “high risk, seat of the pants” asteroid mission - Ars Technica",
+      "description": "The primary goal is to make sure Odin turns on.",
+      "url": "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/August-2024-Odin-4-1152x648.jpg",
+      "publishedAt": "2025-01-29T14:30:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "No Man's Sky gets storm-ravaged gas giants and \"trillions of new planets\" in another major overhaul - Eurogamer",
+      "description": "If you thought Hello Games might be slowing down as No Man's Sky approaches its ninth birthday this year, think again. …",
+      "url": "https://www.eurogamer.net/no-mans-sky-gets-storm-ravaged-gas-giants-and-trillions-of-new-planets-in-another-major-overhaul",
+      "urlToImage": "https://assetsio.gnwcdn.com/no-mans-sky-worlds-part-2-gas-giants.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-01-29T14:00:00Z",
+      "content": "If you thought Hello Games might be slowing down as No Man's Sky approaches its ninth birthday this year, think again. The studio is already back with another update for its ever-evolving exploratory… [+2661 chars]"
     }
   ]
 }
