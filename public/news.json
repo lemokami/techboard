@@ -1,136 +1,201 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 68,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "CNET"
       },
-      "author": "Kevin Purdy",
-      "title": "Google Pixel 4a’s ruinous “Battery Performance” update is a bewildering mess - Ars Technica",
-      "description": "It’s hard to say why Google is doing this instead of a recall.",
-      "url": "https://arstechnica.com/gadgets/2025/01/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/11-2048x1536-1-1152x648.jpg",
-      "publishedAt": "2025-01-31T21:28:40Z",
+      "author": null,
+      "title": "Apple Will Pay Out $20 Million to Apple Watch Owners. Who Can File a Claim? - CNET",
+      "description": "Apple Watch owners eligible for a payout have until April 10 file a cliam.",
+      "url": "https://www.cnet.com/tech/mobile/apple-will-pay-out-20-million-to-apple-watch-owners-who-can-file-a-claim/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7058a5e178ef91e5ca3e481139650b15824d75ba/hub/2016/10/18/37157ce4-5fc8-45f1-a444-d3cbe604e2cc/apple-watch-series-1-04.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-01T20:45:00Z",
+      "content": "What kind of Apple Watch do you own? Depending on which model you have, you may be eligible for compensation. Thanks to a class-action lawsuit related to battery swelling issues, Apple has agreed to … [+2331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Joshua Hawkins, Joshua Hawkins",
+      "title": "Researchers just discovered an entirely new class of life living inside humans - BGR",
+      "description": "Researchers say they have discovered an entirely new class of life inside the human body, and it is very similar to a virus.",
+      "url": "https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2020/08/Coronavirus.jpeg?quality=82&strip=all",
+      "publishedAt": "2025-02-01T20:09:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s AI Super Bowl ad is wrong about cheese - The Verge",
+      "description": "Google’s Super Bowl ad campaign features an AI-generated response from Gemini that isn’t quite right about the popularity of Gouda cheese.",
+      "url": "https://www.theverge.com/news/604679/google-ai-super-bowl-ad-gouda-cheese",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/google-cheese-ad.png?quality=90&strip=all&crop=0%2C1.8049899812553%2C100%2C96.390020037489&w=1200",
+      "publishedAt": "2025-02-01T19:10:21Z",
+      "content": "The commercial shows Gemini wrongly stating that Gouda makes up 50 to 60 percent of the worlds cheese consumption.\r\nThe commercial shows Gemini wrongly stating that Gouda makes up 50 to 60 percent of… [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Darren Calvert",
+      "title": "Upcoming PS5 Games for February and March 2025 - Push Square",
+      "description": "A mammoth month ahead",
+      "url": "https://www.pushsquare.com/guides/upcoming-ps5-games-for-february-and-march-2025",
+      "urlToImage": "https://images.pushsquare.com/4ac015c6017ab/1280x720.jpg",
+      "publishedAt": "2025-02-01T17:00:00Z",
+      "content": "Image: Push Square\r\nIts an absolutely mammoth month in the world of PS5, with several high-profile games all vying for your attention this month.\r\nAll eyes will be on Monster Hunter Wilds, the next m… [+3963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘PlayStation Is HBO, Microsoft Is Netflix, Nintendo Is Disney,’ Says Ex-Sony Exec - Forbes",
+      "description": "A former Sony exec says what Xbox is doing seems logical and that “there are no victims” in its new multiplatform distribution plan for former exclusives.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/01/playstation-is-hbo-microsoft-is-netflix-nintendo-is-disney-says-ex-sony-exec/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679e507556718844024210cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-01T16:49:11Z",
+      "content": "Avowed\r\nObsidian\r\nAdam Boyes, VP of third party relations at PlayStation from 2012-2016 was the co-star of the infamous this is how you share games on PlayStation video that targeted Microsofts new X… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "MultiVersus players who bought $100 Founder's Pack feel \"scammed\" by game's closure - Eurogamer",
+      "description": "MultiVersus players who bought the premium Founder's Pack have hit out at Warner Bros. Games for cancelling its free-to…",
+      "url": "https://www.eurogamer.net/multiversus-players-who-bought-100-founders-pack-feel-scammed-by-games-closure",
+      "urlToImage": "https://assetsio.gnwcdn.com/MultiVersus---Official-Launch-Trailer-_Stars-Collide.-Pies-Fly._-2-58-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-02-01T16:33:12Z",
+      "content": "MultiVersus players who bought the premium Founder's Pack have hit out at Warner Bros. Games for cancelling its free-to-play live-service fighting game before they had a chance to redeem all of their… [+2279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Samsung Slashes 70% Off the Newest Galaxy S25 Ultra + Galaxy Buds3 Pro for FREE - Gizmodo",
+      "description": "The Galaxy S25 Series is launching with incredibly competitive pricing.",
+      "url": "https://gizmodo.com/samsung-slashes-70-off-the-newest-galaxy-s25-ultra-free-galaxy-buds3-pro-as-a-bonus-2000558003",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/s25ultra.jpg",
+      "publishedAt": "2025-02-01T15:10:39Z",
+      "content": "Samsung has just launched its 2025 smartphone lineup, the Galaxy S25 Series, with the Galaxy S25 Ultra leading the pack. These new flagship devices are ready to challenge the iPhone 16 Pro models bot… [+3102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Rumour: Gears of War to Make PS5 Debut with Full Crossplay in Trilogy Collection - Push Square",
+      "description": "Order of the Fenix",
+      "url": "https://www.pushsquare.com/news/2025/02/rumour-gears-of-war-to-make-ps5-debut-with-full-crossplay-in-trilogy-collection",
+      "urlToImage": "https://images.pushsquare.com/2fb3c12e13624/1280x720.jpg",
+      "publishedAt": "2025-02-01T15:00:00Z",
+      "content": "Another day, another rumour of a tentpole Xbox exclusive coming to PS5.\r\nWe appreciate these stories arent particularly surprising at this point, but this speculation comes courtesy of Spanish tipste… [+930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Thomas Morgan",
+      "title": "Kingdom Come: Deliverance 2 is shaping up well on PlayStation and Xbox consoles - Eurogamer",
+      "description": "What performance and visuals options can console owners look forwards to in Kingdom Come: Deliverance 2? Digital Foundry goes hands-on with all consoles.",
+      "url": "https://www.eurogamer.net/digitalfoundry-2025-kingdom-come-deliverance-2-is-shaping-up-well-on-playstation-and-xbox-consoles",
+      "urlToImage": "https://assetsio.gnwcdn.com/image-(1)-copy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-02-01T15:00:00Z",
+      "content": "Developer Warhorse Studios returns imminently with Kingdom Come: Deliverance 2, the next chapter in its historical RPG built on CryEngine technology. This time around, we're looking at a purely curre… [+10953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "NVIDIA Smooth Motion technology, an alternative to AMD Fluid Motion Frames, is also coming to GeForce RTX 40 series - VideoCardz.com",
+      "description": "NVIDIA Smooth Motion will not be exclusive to GeForce RTX 50 series Finally, something NVIDIA is copying from AMD.  What is Smooth Motion? It is a driver-level frame generation technology similar to AMD Fluid Motion Frames. Instead of relying on game implemen…",
+      "url": "https://videocardz.com/newz/nvidia-smooth-motion-technology-an-alternative-to-amd-fluid-motion-frames-is-also-coming-to-geforce-rtx-40-series",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/02/NVIDIA-SMOOTH-MOTION-HERO.jpg",
+      "publishedAt": "2025-02-01T14:22:00Z",
+      "content": "Finally, something NVIDIA is copying from AMD. \r\nWhat is Smooth Motion? It is a driver-level frame generation technology similar to AMD Fluid Motion Frames. Instead of relying on game implementation,… [+1590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "José Adorno, José Adorno",
+      "title": "MIT names 10 breakthrough technologies to watch in 2025 - BGR",
+      "description": "These are the breakthrough technologies MIT believes will significantly change our lives not only in 2025 but for decades to come.",
+      "url": "https://bgr.com/tech/mit-names-10-breakthrough-technologies-to-watch-in-2025/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all",
+      "publishedAt": "2025-02-01T14:01:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Halowaypoint.com"
+        "name": "Nintendo Life"
       },
-      "author": "Alex Wakeford",
-      "title": "Spring Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
-      "description": "<p>The Spring Update for Halo Infinite is on its way! Come learn more about what’s coming this February. </p>",
-      "url": "https://www.halowaypoint.com/news/spring-update-2025-halo-infinite",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2025/01/AST_Switcher_Frontline_1920x1080_CLEAN.jpg",
-      "publishedAt": "2025-01-31T21:27:36Z",
-      "content": "The Spring Update for Halo Infinite is on its way!\r\nWhen Operation: Frontlines kicks off the Spring Update at the start of February, youll be getting your hands on a new weapon (a new take on an old … [+18275 chars]"
+      "author": "Darren Calvert",
+      "title": "Upcoming Nintendo Switch Games And Accessories For February And March 2025 - Nintendo Life",
+      "description": "They keep on coming",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-games-and-accessories-for-february-and-march-2025",
+      "urlToImage": "https://images.nintendolife.com/54a7fc3a229fc/1280x720.jpg",
+      "publishedAt": "2025-02-01T14:00:00Z",
+      "content": "We're well and truly into 2025 now, and we've finally got official word that Switch 2 exists and is coming this year. So that means Switch 1 is dead, right?\r\nWrong! Looking at the schedule, the origi… [+2893 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
-      "author": "Thomas Maxwell",
-      "title": "Add F*cking to Your Google Searches to Neutralize AI Summaries - Gizmodo",
-      "description": "Google will probably close this loophole soon enough.",
-      "url": "https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/AI-search-monopoly-antitrust-google-senators-ftc-1.jpg",
-      "publishedAt": "2025-01-31T21:00:56Z",
-      "content": "If you are tired of Google’s AI-powered search results leading you astray with poor information from bad sources, there is some good news. It turns out that if you include any expletives in your sear… [+3263 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "Sony just axed the 60fps Bloodborne mod with a DMCA takedown - The Verge",
-      "description": "Lance McDonald’s popular framerate hack for Bloodborne on PlayStation 4 has been taken down due to a DMCA from Sony Interactive Entertainment.",
-      "url": "https://www.theverge.com/news/604239/sony-bloodborne-60-fps-mod-removal-dmca-takedown-lance-mcdonald",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/ss-detail17.0.webp?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-      "publishedAt": "2025-01-31T20:34:52Z",
-      "content": "Twitch streamer and creator Lance McDonald first published the mod back in 2021.\r\nTwitch streamer and creator Lance McDonald first published the mod back in 2021.\r\nA popular Bloodborne framerate mod … [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Electronic Arts Slashes BioWare After ‘Dragon Age’ Sales Miss - Bloomberg",
-      "description": "The studio has shrunk to less than 100 people following the release of Dragon Age: The Veilguard",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-01-31/electronic-arts-slashes-bioware-after-dragon-age-sales-miss",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaSNd1joElWI/v1/1200x675.jpg",
-      "publishedAt": "2025-01-31T19:30:08Z",
-      "content": "Hi everyone. Today were diving into the cuts at Electronic Arts Inc.s BioWare, which were deeper than have been reported, but first...\r\nThis weeks top gaming news:"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Scraps Work on Mac-Connected Augmented Reality Glasses (AAPL) - Bloomberg",
-      "description": "Apple Inc. has canceled a project to build advanced augmented reality glasses that would pair with its devices, marking the latest setback in its effort to create a headset that appeals to typical consumers.",
-      "url": "https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij.95d4iC4f8/v2/1200x800.jpg",
-      "publishedAt": "2025-01-31T19:25:13Z",
-      "content": "Apple Inc. has canceled a project to build advanced augmented reality glasses that would pair with its devices, marking the latest setback in its effort to create a headset that appeals to typical co… [+353 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Paul Sawers",
-      "title": "Swiss tax authority forced to buy Bahamas domain name after URL typo - TechCrunch",
-      "description": "What do you do if a web address you printed on a physical flyer contains a typo, and you send that flyer to more than 100,000 households? Well, if you're",
-      "url": "https://techcrunch.com/2025/01/31/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-542706099.jpg?resize=1200,800",
-      "publishedAt": "2025-01-31T18:29:34Z",
-      "content": "What do you do if a web address you printed on a physical flyer contains a typo, and you send that flyer to more than 100,000 households? Well, if you’re the Swiss canton (“state”) of Basel-Stadt, yo… [+764 chars]"
+      "author": null,
+      "title": "Physicists May Have Just Unlocked the Secret of What’s Inside a Black Hole - The Daily Galaxy --Great Discoveries Channel",
+      "description": "For decades, black holes have been one of the biggest mysteries in physics—but what if we could finally understand what’s inside them? Using quantum computing and machine learning, physicists have created a mathematical simulation of a black hole’s core, reve…",
+      "url": "https://dailygalaxy.com/2025/02/physicists-unlocked-inside-black-hole/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/02/Physicists-May-Have-Just-Unlocked-the-Secret-of-Whats-Inside-a-Black-Hole.jpg",
+      "publishedAt": "2025-02-01T14:00:00Z",
+      "content": "Black holes have long been the ultimate cosmic enigma, defying conventional physics and pushing the boundaries of what we understand about space and time. Now, a groundbreaking study led by physicist… [+6766 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Videogamer.com"
       },
-      "author": "Zack Zwiezen",
-      "title": "Hardcore Xbox Fans Are Struggling To Process Forza On PS5 - Kotaku",
-      "description": "The future of Xbox is looking weird as one of the so called 'Big Three' jumps ship to PlayStation",
-      "url": "https://kotaku.com/forza-horizon-5-ps5-playstation-xbox-fans-react-angry-1851752763",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d339dc42db41aec6c654fd92b842e76d.jpg",
-      "publishedAt": "2025-01-31T18:15:00Z",
-      "content": "On January 30, Microsoft nonchalantly announced that later this year open-world racing sim Forza Horizon 5 would make the leap to PlayStation 5. That might not mean much to some, but for Xboxs bigges… [+2484 chars]"
+      "author": null,
+      "title": "Massive Baldur’s Gate 3 mod is adding “six-to-eight” new companions with their own wants, desires and more - Video Gamer",
+      "description": "Massive Baldur's Gate 3 mod Path to Menzobarranzan is adding \"six to eight\" new companions including new animal companions.",
+      "url": "https://www.videogamer.com/news/massive-baldurs-gate-3-mod-is-adding-six-to-eight-new-companions/",
+      "urlToImage": "https://www.videogamer.com/wp-content/uploads/baldurs-gate-3-six-to-eight-custom-companions.jpg",
+      "publishedAt": "2025-02-01T12:33:59Z",
+      "content": "You can trust VideoGamer. Our team of gaming experts spend hours testing and reviewing the latest games, to ensure you're reading the most comprehensive guide possible. Rest assured, all imagery and … [+2651 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Victoria Song",
-      "title": "Apple will pay $20 million to settle Apple Watch battery swelling lawsuit - The Verge",
-      "description": "Apple has agreed to pay $20 million to settle a class action lawsuit over battery swelling in early Apple Watch models.",
-      "url": "https://www.theverge.com/news/599437/apple-watch-battery-swelling-settlement",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7116401/vpavic_090916__1220_0015.0.jpg?quality=90&strip=all&crop=0%2C12.715968586387%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-01-31T18:11:07Z",
-      "content": "You have until April 10th to apply for a payout if you had a Series 0, 1, 2, or 3 that experienced battery swelling.\r\nYou have until April 10th to apply for a payout if you had a Series 0, 1, 2, or 3… [+1573 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "James Whitbrook",
-      "title": "Pokémon's Latest Giant Plush Is Basically Human-Sized - Gizmodo",
-      "description": "Pokémon's latest entry into its range of to-scale plushies is upping the scale to soft toys the sizes of fully grown adults.",
-      "url": "https://gizmodo.com/pokemon-life-sized-gardevoir-plush-price-release-date-2000557570",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/pokemon-life-sized-gardevoir.jpg",
-      "publishedAt": "2025-01-31T17:01:47Z",
-      "content": "For the past few years, the Pokémon Company has released a line of adorable plush collections that test your fandom of a particular critter to the extreme: sure, you like a Pokémon, but do you like t… [+2109 chars]"
+      "author": "Jacek Krywko",
+      "title": "To help AIs understand the world, researchers put them in a robot - Ars Technica",
+      "description": "There’s a difference between knowing a word and knowing a concept.",
+      "url": "https://arstechnica.com/science/2025/02/to-help-ais-understand-the-world-researchers-put-them-in-a-robot/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-184340269-1152x648.jpg",
+      "publishedAt": "2025-02-01T12:05:54Z",
+      "content": null
     },
     {
       "source": {
@@ -140,127 +205,62 @@
       "author": "Davey Winder",
       "title": "Gmail Security Warning For 2.5 Billion Users—AI Hack Confirmed - Forbes",
       "description": "Described by one victim as the most sophisticated attack ever seen, all Gmail users are warned to take this hacking threat very seriously indeed.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/01/31/gmail-security-warning-for-25-billion-users-ai-hack-confirmed/",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/02/01/gmail-security-warning-for-25-billion-users-ai-hack-confirmed/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6708d84f24ab7e6166bd9fa8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-31T16:42:33Z",
-      "content": "Another Gmail AI hack attack has been confirmed. \r\nSOPA Images/LightRocket via Getty Images\r\nUpdate, Jan. 31, 2025: This story, originally published Jan. 30, has been updated with a statement from Go… [+4675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Jennifer Maas",
-      "title": "‘The Sims’ and ‘The Sims 2’ Get Re-Release From EA to Celebrate Franchise’s 25th Anniversary - Variety",
-      "description": "\"The Sims\" and \"The Sims 2\" are being re-released by Electronic Arts in celebration of the popular life-simulation franchise's 25th anniversary.",
-      "url": "https://variety.com/2025/gaming/news/the-sims-2-rerelease-ea-25th-anniversary-bundle-1236292644/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/01/The-Sims-2.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2025-01-31T16:13:00Z",
-      "content": "“The Sims” and “The Sims 2” are being re-released by Electronic Arts in celebration of the popular life-simulation franchise’s 25th anniversary. \r\nThe games will be offered together in “The Sims 25th… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Emma Flint",
-      "title": "GTA 6 fans left disappointed by release date u-turn - GAMINGbible",
-      "description": "A sudden backtracking on the GTA VI launch date has left fans disappointed.",
-      "url": "https://www.gamingbible.com/news/gta-6-fans-disappointed-release-date-893398-20250131",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt68534e45e5f92ea7/679c984120bd9d92b59208f4/lucia.jpg",
-      "publishedAt": "2025-01-31T15:03:18Z",
-      "content": "Another day brings another crushing blow to the GTA VI community.\r\nEarlier this week, an online leak appeared to reveal the launch date of the upcoming Rockstar Games title.\r\nDespite no official anno… [+1702 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Stephen Tailby",
-      "title": "MultiVersus Season 5 Will Be Its Final Update, Game Will Go Offline Afterwards - Push Square",
-      "description": "That's all, folks",
-      "url": "https://www.pushsquare.com/news/2025/01/multiversus-season-5-will-be-its-final-update-game-will-go-offline-afterwards",
-      "urlToImage": "https://images.pushsquare.com/6e8e27b052c6c/1280x720.jpg",
-      "publishedAt": "2025-01-31T14:30:00Z",
-      "content": "Update [Fri 31st Jan 2025, 2:30pm]:\r\nFollowing the rumour, developer Player First Games has confirmed that Season 5 will be the last content update for MultiVersus.\r\nNot only that, but once Season 5 … [+3269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Brooke Steinberg",
-      "title": "Google’s new feature uses AI to call businesses on the phone for you - New York Post ",
-      "description": "Hate calling people on the phone? Google will do it for you.",
-      "url": "https://nypost.com/2025/01/31/tech/googles-new-ask-for-me-feature-uses-ai-to-call-businesses-for-you/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/woman-typing-google-search-engine-97664447.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-31T14:19:00Z",
-      "content": "Hate calling people on the phone? Google will do it for you.\r\nGoogle is testing out a new tool that allows artificial intelligence to make calls to businesses to ask questions for you.\r\n“Ask for Me” … [+1914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Phil Owen",
-      "title": "Fortnite OG Pass Chapter 1 Season 2 - All Skins And Other Rewards - GameSpot",
-      "description": "Three remixed skins and a new musical glider are the highlights in the Season 2 OG Pass.",
-      "url": "https://www.gamespot.com/gallery/fortnite-og-pass-chapter-1-season-2-all-skins-and-other-rewards/2900-6183/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4436582-fortniteogpassseason2keyart.jpg",
-      "publishedAt": "2025-01-31T14:03:57Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+      "publishedAt": "2025-02-01T11:06:05Z",
+      "content": "Another Gmail AI hack attack has been confirmed. \r\nSOPA Images/LightRocket via Getty Images\r\nUpdate, Feb. 1, 2025: This story, originally published Jan. 30, has been updated with further mitigation a… [+6974 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Davey Winder",
-      "title": "Millions Of Google Chrome Users Warned As Syncjacking Hack Gets Real - Forbes",
-      "description": "Hackers can now hijack any browser extension, millions of Chrome users have been warned. Here’s what you need to know about syncjacking attacks.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/01/31/millions-of-google-chrome-users-warned-as-syncjacking-hack-gets-real/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67331d58cf07fb16b260366c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-31T13:57:05Z",
-      "content": "Google Chrome users warned of Browser Syncjacking threat.\r\nAnadolu Agency via Getty Images\r\nGoogle has been working to assure users that the Chrome browser is secure and safe to use, with three secur… [+4178 chars]"
+      "author": "David Phelan",
+      "title": "Apple’s New ‘Game Changer’ iPhone Update Brings Starlink Satellite Access - Forbes",
+      "description": "Apple has been “secretly working” with SpaceX and the result is that the latest iOS software update means iPhones can access Starlink.",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/02/01/apples-new-game-changer-iphone-update-brings-starlink-satellite-access/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679a8282c8fdb9ab6cad1c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-01T10:10:42Z",
+      "content": "Updated Feb. 1 with more details of the new service and how it will work.\r\nApple has just released iOS 18.3, its latest iPhone update (full details here) and the software contained a surprise extra: … [+3534 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Club386.com"
       },
-      "author": "John Walker",
-      "title": "One Of 2025's Biggest RPGs Gets A Movie Deal Before It's Even Released - Kotaku",
-      "description": "Clair Obscur: Expedition 33 isn't out until April, but is already being developed for the big screen",
-      "url": "https://kotaku.com/clair-obscur-expedition-33-movie-deal-story-kitchen-rog-1851752327",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4fdd187a0f4bb74dbe5f58a92e5a91bb.jpg",
-      "publishedAt": "2025-01-31T13:30:00Z",
-      "content": "Where recently it was the case that every newly published comic was immediately optioned for a new Netflix or Amazon movie or TV show, Hollywood appears to have now shifted its obsessive focus onto v… [+2265 chars]"
+      "author": "Parm Mann",
+      "title": "Win an Nvidia GeForce RTX 5080 Founders Edition graphics card - Club386",
+      "description": "It's the Club386 giveaway you've been waiting for! Enter to be in with a chance of winning one of the year's hottest hardware releases.",
+      "url": "https://www.club386.com/win-an-nvidia-geforce-rtx-5080/",
+      "urlToImage": "https://www.club386.com/wp-content/uploads/2025/01/rtx-5080-giveaway.jpg",
+      "publishedAt": "2025-02-01T09:00:00Z",
+      "content": "Club386 is not only the home of definitive tech reviews and analysis, we also do our utmost to give back to the community with incredible monthly giveaways. And they don’t get much more incredible th… [+894 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Christopher Mims",
+      "title": "The Manhattan Project Was Secret. Should America’s AI Work Be Too? - The Wall Street Journal",
+      "description": "DeepSeek is supercharging the debate over how much companies should share their AI knowledge",
+      "url": "https://www.wsj.com/tech/ai/the-manhattan-project-was-secret-should-americas-ai-work-be-too-5638be21",
+      "urlToImage": "https://images.wsj.net/im-06695270/social",
+      "publishedAt": "2025-02-01T05:02:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "Nintendo Life"
       },
-      "author": "Sean Endicott",
-      "title": "The Surface Pro with Snapdragon is almost half the price of Microsoft's new Surface Pro 11 with Intel - Windows Central",
-      "description": "The Surface Pro 11 with Snapdragon is down to $799 thanks to a major discount.",
-      "url": "https://www.windowscentral.com/hardware/surface/the-surface-pro-with-snapdragon-is-almost-half-the-price-of-microsofts-new-surface-pro-11-with-intel",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AEHPJgJFXuqtQe8hYAc6FM-1200-80.jpg",
-      "publishedAt": "2025-01-31T13:10:49Z",
-      "content": "The Surface Pro 11 is one of the best Windows laptops, and shoppers now have more choices when picking a flagship 2-in-1 from Microsoft. Microsoft just unveiled new Surface hardware, responding to th… [+4967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Pebble Watch Returns: It Might Be Exactly What the Smartwatch Landscape Needs - CNET",
-      "description": "My favorite watch from years ago has never truly been revisited. In a landscape of boring smartwatches, it's time.",
-      "url": "https://www.cnet.com/tech/mobile/pebble-watch-returns-it-might-be-exactly-what-the-smartwatch-landscape-needs/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9bef02f310209424ed44375499cd3333a2d5fae5/hub/2016/09/29/80759557-2a5a-402e-a863-5d1afd148566/pebble-2-hr-13.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-31T13:00:00Z",
-      "content": "Go all the way back to 2014, and on my wrist, I'm almost always wearing a lovely black-and-white-screened digital watch that looks very Casio-like, or a tiny Game Boy. It's showing me the time and wr… [+5380 chars]"
+      "author": "Liam Doolan",
+      "title": "Pokémon TCG Pocket To Update Trading Feature In Response To Player Feedback - Nintendo Life",
+      "description": "\"We have received a large number of comments\"",
+      "url": "https://www.nintendolife.com/news/2025/02/pokemon-tcg-pocket-to-update-trading-feature-in-response-to-player-feedback",
+      "urlToImage": "https://images.nintendolife.com/225834dd101a3/1280x720.jpg",
+      "publishedAt": "2025-02-01T01:55:00Z",
+      "content": "Image: The Pokémon Company\r\nAs you might have seen earlier this week, the new trading feature went live in Pokémon Trading Card Game Pocket on mobile devices and a lot of trainers aren't particularly… [+1575 chars]"
     }
   ]
 }
