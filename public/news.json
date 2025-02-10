@@ -1,19 +1,227 @@
 {
   "status": "ok",
-  "totalResults": 62,
+  "totalResults": 39,
   "articles": [
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Tyler Colp",
-      "title": "For fans of holes, here’s a game about digging them - Polygon",
-      "description": "This voxel-based digging simulator on Steam has a simple, effective premise. You dig holes, buy upgrades, and find secrets the deeper you go.",
-      "url": "https://www.polygon.com/impressions/521049/a-game-about-digging-a-hole-review-sandbox-steam",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/a-game-about-digging-a-hole-steam-screenshot.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-07T20:00:12Z",
-      "content": "Ive been saying for a long time that video game titles are stupid. What does Horizon Zero Dawn even mean? Arent Dead Space and Killzone the same titles in a different font? Games need to be more hone… [+2735 chars]"
+      "author": "Conor Murray",
+      "title": "PlayStation Servers Down For 20 Hours—But Some Players Say They’re Back Online - Forbes",
+      "description": "PlayStation's server status updates webpage still says servers are experiencing issues as of Saturday afternoon, nearly a full day after they went down Friday night.",
+      "url": "https://www.forbes.com/sites/conormurray/2025/02/08/playstation-servers-down-for-20-hours-but-some-players-say-theyre-back-online/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a76ce53017a88073d7947b/0x0.jpg?format=jpg&crop=1719,967,x0,y161,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-08T20:16:46Z",
+      "content": "PlayStations server status webpage still says its servers are experiencing issues about 20 hours after they went offline Friday night, leading to frustration among players who have criticized the com… [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Civilization VII is getting a Quest VR port this spring - The Verge",
+      "description": "The VR port of Civilization VII is available to wishlist for Quest 3 and 3S headsets, with pricing and release info coming later.",
+      "url": "https://www.theverge.com/news/609029/sid-meiers-civilization-vii-is-coming-to-the-quest-soon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Meta-Civ-VII.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-02-08T20:03:28Z",
+      "content": "Sid Meiers Civilization VII - VR reimagines things with a board game-like construction.\r\nSid Meiers Civilization VII - VR reimagines things with a board game-like construction.\r\nThe Civilization fran… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Kingdom Come: Deliverance II’ Is Setting Playercount Records Every Day - Forbes",
+      "description": "The launch of Kingdom Come: Deliverance 2 has been enormously successful, the game racking up great critic scores and large playercounts.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/08/kingdom-come-deliverance-ii-is-setting-playercount-records-every-day/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a78b0226a53882b3cae73e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-08T16:52:07Z",
+      "content": "Kingdom Come: Deliverance 2\r\nWarhorse\r\nThe launch of Kingdom Come: Deliverance II has been enormously successful, the game racking up great critic reviews with an 88 metascore across PC, PS5 and Xbox… [+2224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "I Am Still Impressed With ‘Destiny 2’ - Forbes",
+      "description": "Destiny 2 is still doing a lot of things right, and building lots of cool things, even if it’s having trouble motivating players to stay engaged with it all",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/08/i-am-still-impressed-with-destiny-2/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a76a61d3da94bd103f9813/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-08T14:36:55Z",
+      "content": "Destiny 2\r\nBungie\r\nYesterday, Destiny 2 launched its latest dungeon, Sundered Doctrine, which now has a contest mode and a race for the first completion among the community. At over four hours, that … [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Google Gemini 2.0 AI Is Out Now. Here Are the Highlights - CNET",
+      "description": "In the wake of the launch of DeepSeek, Google has announced a flood of AI news.",
+      "url": "https://www.cnet.com/tech/services-and-software/google-gemini-2-0-ai-is-out-now-here-are-the-highlights/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2c84865fa3fc25832a589f6821025e69c53e4812/hub/2025/02/06/b5cf8c98-5ff6-47b7-9962-4010dba6394b/google-gemini-gettyimages-2100329074.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-08T13:30:00Z",
+      "content": "Google delivered big artificial intelligence news this week, launching the next generation of its chatbot, Gemini 2.0. Google is opening up new Gemini 2.0 models in a multipronged initiative.\r\nLet's … [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "\"The Sims\" celebrates 25 years - CBS News",
+      "description": "The video game series \"The Sims\" launched 25 years ago this week. Now, it's one of the most popular game series in the world, captivating hundreds of millions of players and allowing them to create and control virtual lives. Dana Jacobson visits the games' he…",
+      "url": "https://www.cbsnews.com/video/the-sims-celebrates-25-years/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/08/a3bb2c50-3048-47fe-8a4a-294920882824/thumbnail/1200x630/701130661e924b6123cdcacbd022db01/0208-satmo-jacobson-3524273-640x360.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
+      "publishedAt": "2025-02-08T13:10:35Z",
+      "content": "Watch CBS News\r\nCopyright ©2025 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Peter Ray Allison",
+      "title": "Watch bipedal robots running in a more human-like way than ever thanks to major vision upgrade - Livescience.com",
+      "description": "Bipedal robots have found navigating uneven terrain a steep challenge but a new hardware upgrade means they can detect their environment and respond quicker than ever before.",
+      "url": "https://www.livescience.com/technology/robotics/watch-bipedal-robots-running-in-a-more-human-like-way-than-ever-thanks-to-major-vision-upgrade",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MLc6Fwv63t5YkhaK98rv8Q-1200-80.jpg",
+      "publishedAt": "2025-02-08T13:00:00Z",
+      "content": "Researchers in China have developed; a new type of humanoid robot that can walk and run over a variety of terrains — reaching speeds of about 4.5 miles per hour (7.2 kilometers per hour).\r\nMoving and… [+2201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple unlikely to hold special event to announce iPhone SE 4 - 9to5Mac",
+      "description": "As reported on Thursday, Apple is gearing up to launch the next generation iPhone SE in the coming days. While...",
+      "url": "https://9to5mac.com/2025/02/08/apple-unlikely-event-iphone-se-4/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/tim-cook-apple-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-08T12:11:00Z",
+      "content": "As reported on Thursday, Apple is gearing up to launch the next generation iPhone SE in the coming days. While some expect the company to hold a big event to announce new products, there’s a chance t… [+1564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Davey Winder",
+      "title": "Most Sophisticated Gmail Attacks Ever—FBI Says: Do Not Click Anything - Forbes",
+      "description": "Heed this FBI advice as dangerous, and increasingly AI-based attacks against Gmail users continue at pace. Here’s what you need to know.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/02/08/most-sophisticated-gmail-attacks-ever-fbi-says-do-not-click-anything/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64e7031f115ba4a1a14af6bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-08T11:47:48Z",
+      "content": "Do not click anything, FBI advises as phishing attacks continue.\r\nSOPA Images/LightRocket via Getty Images\r\nThe danger from attackers looking to compromise your Gmail account has never been greater. … [+3597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Malicious ML Models Found on Hugging Face Exploit \"Broken\" Pickle Files to Evade Detection - The Hacker News",
+      "description": "Researchers discovered two malicious ML models on Hugging Face exploiting “broken” pickle files to evade detection, bypassing Picklescan safeguards.",
+      "url": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9HRla2vCXTJvnM3vT93AmKbjqs9stovOJ537UUG3Uq_M-ZPX2Yd45EZH9mCfek0Mi11XBLVV5yZjxpHBmvUnWkaYjlRlG9ASGHpXTwjd40LkrKauR0WuaaH62q7x9en4RowtY8zBugXEBETIiT_PLPlhK8Czmz_V79IcsE5QCEE521sWAu16DrtsMn8R/s728-rw-e365/hugging-face-malware.png",
+      "publishedAt": "2025-02-08T06:17:00Z",
+      "content": "Cybersecurity researchers have uncovered two malicious machine learning (ML) models on Hugging Face that leveraged an unusual technique of \"broken\" pickle files to evade detection.\r\n\"The pickle files… [+2568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "John Velasco",
+      "title": "I shot over 200 photos with the Galaxy S25 Ultra vs iPhone 16 Pro Max — here’s the winner - Tom's Guide",
+      "description": "These camera phones have their own set of strengths in each area",
+      "url": "https://www.tomsguide.com/phones/i-shot-over-200-photos-with-the-galaxy-s25-ultra-vs-iphone-16-pro-max-heres-the-winner",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jwCisXTqtjfUuvo8PGYQpd-1200-80.jpg",
+      "publishedAt": "2025-02-08T05:34:14Z",
+      "content": "When we ran a preliminary photo shootout between the Galaxy S25 Ultra vs. iPhone 16 Pro Max, Samsung got the win but only by the narrowest of margins. This time, however, I’m going to scrutinize thes… [+10578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Nintendo Talks About Future Switch Support Ahead Of Switch 2 Launch - Nintendo Life",
+      "description": "\"We would like to continue releasing new titles\"",
+      "url": "https://www.nintendolife.com/news/2025/02/nintendo-talks-about-future-switch-support-ahead-of-switch-2-launch",
+      "urlToImage": "https://images.nintendolife.com/e403ee685bcb1/1280x720.jpg",
+      "publishedAt": "2025-02-08T03:00:00Z",
+      "content": "Image: Nintendo\r\nNintendo has already confirmed it will be supporting the Switch in 2025 with new software, but what is the plan for the system beyond this year?\r\nDuring the Q&amp;A of Nintendo's lat… [+1867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Brady Snyder",
+      "title": "Google's incorrect Gemini response was actually faked entirely for Super Bowl ad - Android Central",
+      "description": "Gemini didn't lie about cheese. It seemingly plagiarized about cheese.",
+      "url": "https://www.androidcentral.com/apps-software/googles-incorrect-gemini-response-was-actually-faked-entirely-for-super-bowl-ad",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4sUeciYBZHaLoMa5KiYw7h-1200-80.jpg",
+      "publishedAt": "2025-02-08T00:38:02Z",
+      "content": "What you need to know\r\n<ul><li>Google is running ad spots that highlight how small businesses use Gemini in Workspace to grow their business.</li><li>However, one ad became shrouded in controversy du… [+2595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Josh Dinner",
+      "title": "Vast Space now aims for 2026 launch of Haven-1 space station after key milestone (photos) - Space.com",
+      "description": "Designing a space station is taking a little longer than Vast expected, but the company is still moving at a breakneck pace.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/vast-space-now-aims-for-2026-launch-of-haven-1-space-station-after-key-milestone-photos",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3yNxSCL8i4XytqNW7JGux3-1200-80.png",
+      "publishedAt": "2025-02-07T23:00:00Z",
+      "content": "Vast Space is taking big steps toward putting the first commercial space station in orbit.\r\nThe California-based startup recently completed a major testing milestone for the qualification vessel of i… [+5173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "To Beat Scalpers, Zotac Is Selling RTX 5000 GPUs Directly to Users Via Discord - PCMag",
+      "description": "Zotac plans to give select consumers a chance to buy Nvidia's coveted graphics cards by using a raffle system on Discord that'll also check the user's online engagement.",
+      "url": "https://www.pcmag.com/news/to-beat-scalpers-zotac-is-selling-rtx-5000-gpus-directly-to-users-via-discord",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05zOoOI2iwH0eymEbG5RfSb-1.fit_lim.size_1200x630.v1738964319.jpg",
+      "publishedAt": "2025-02-07T22:38:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": null,
+      "title": "Apple Is Reportedly Working On A Pixar-Style Tabletop Robot Lamp With Expressive, Lifelike Movements - Wccftech",
+      "description": "Apple is reportedly working on a tabletop robot that is reminiscent of Pixar's Luxo Jr. and is quite expressive adding a human element",
+      "url": "https://wccftech.com/apple-is-reportedly-working-on-a-pixar-style-tabletop-robot-lamp-with-expressive-lifelike-movements/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/homepod-robot.jpg",
+      "publishedAt": "2025-02-07T22:26:00Z",
+      "content": "Apple keeps on challenging itself and has an ambitious approach to expanding itself into different categories. It has been increasingly focused on adding more devices for the home, such as smart disp… [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Android Users Will Eventually Be Able to Edit and Unsend Text Messages - Gizmodo",
+      "description": "There's no way you can turn back time, but at least you can delete a bad word before someone sees it.",
+      "url": "https://gizmodo.com/android-users-will-eventually-be-able-to-edit-and-unsend-text-messages-2000561074",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble.jpg",
+      "publishedAt": "2025-02-07T20:10:08Z",
+      "content": "Sometimes, we regret things. Sometimes, we’re caught up in typing thoughts and feelings and forget to edit ourselves before pressing send. Sometimes, the consequences of our actions are too much to d… [+2414 chars]"
     },
     {
       "source": {
@@ -53,214 +261,6 @@
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWsZv82zVtMs/v0/1200x675.jpg",
       "publishedAt": "2025-02-07T19:11:09Z",
       "content": "Hi everyone. Today Ive got an interview with LocalThunk, the creator of the hit game Balatro, but first...\r\nThis weeks top gaming news:"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Umar Shakir",
-      "title": "A tiny satellite showed it can take high-res pics from space - The Verge",
-      "description": "ArkEdge Space and Taiwan’s space agency TASA successfully took high-res Earth images from the ONGLAISAT CubeSat.",
-      "url": "https://www.theverge.com/news/608297/arkedge-space-tasa-6u-onglaisat-earth-images-validation",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/%E6%97%BA%E4%BE%86%E8%A1%9B%E6%98%9F%E5%8F%96%E5%83%8F%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%B7%9E%E5%8D%A1%E9%A6%AC%E8%AB%BE%E5%B3%B6.jpg_ae60debd-fa65-445b-a775-5d53195d7fa2.webp?quality=90&strip=all&crop=0,10.782006784713,100,78.435986430574",
-      "publishedAt": "2025-02-07T18:42:31Z",
-      "content": "A satellite the size of a suitcase sent back these 2.5-meter resolution photos of the Earths surface.\r\nA satellite the size of a suitcase sent back these 2.5-meter resolution photos of the Earths sur… [+1484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Millie Davis-Williams",
-      "title": "Epic Best Buy weekend sale from $19 — 23 deals I'd buy on Super Bowl TV deals, Switch games, laptops and more - Tom's Guide",
-      "description": "I found the top deals from Best Buy this weekend",
-      "url": "https://www.tomsguide.com/sales-events/epic-best-buy-weekend-sale-from-usd19-21-deals-id-buy-on-super-bowl-tv-deals-switch-games-laptops-and-more",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LtCXfrnT7ZLnDW7JANfehN-1200-80.jpg",
-      "publishedAt": "2025-02-07T18:03:39Z",
-      "content": "We're a few days out from Presidents Day sales and, of course, the Super Bowl. Now's your last chance to pick up a big-screen TV to enjoy the game! Remember that you can opt for in-store pickup if yo… [+997 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'Kane",
-      "title": "Exclusive: Self Inspection raises $3M for its AI-powered vehicle inspections - TechCrunch",
-      "description": "A number of startups are racing to make vehicle inspections faster, easier, and cheaper. Self Inspection, a startup based in San Diego, thinks it has them",
-      "url": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/self-inspection.jpg?resize=1200,795",
-      "publishedAt": "2025-02-07T18:00:44Z",
-      "content": "A number of startups are racing to make vehicle inspections faster, easier, and cheaper. Self Inspection, a startup based in San Diego, thinks it has them all beat with its AI-powered service — and n… [+3204 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Civ 7 team responds to mixed player reviews, promises fixes to UI and more - Polygon",
-      "description": "Sid Meier’s Civilization VII is getting mixed reviews on Steam, so developer Firaxis is responding to negative feedback — starting with the game’s wonky UI.",
-      "url": "https://www.polygon.com/news/520793/civilization-7-firaxis-responds-mixed-reviews",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/Volcano_C7.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-07T17:46:00Z",
-      "content": "Sid Meiers Civilization 7 doesnt officially launch until Tuesday, but some strategy fans who purchased the more expensive deluxe edition of the game are already playing and already giving developer F… [+2104 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Justin Pot",
-      "title": "Photopea Is a Free Photoshop Alternative That Runs in the Browser - WIRED",
-      "description": "When you need to edit photos, you don’t have to download expensive or complicated software. Photopea is free to use, easy to grasp, and does most of what you need.",
-      "url": "https://www.wired.com/story/photopea-free-photoshop-alternative-that-runs-in-browser/",
-      "urlToImage": "https://media.wired.com/photos/67a4d8af28cef4784674a79d/191:100/w_1280,c_limit/photopea-gear-91815452.jpg",
-      "publishedAt": "2025-02-07T17:15:26Z",
-      "content": "Sometimes you need to quickly edit a photo but don't want to bother paying for Photoshop or installing an unfamiliar desktop image editor. Photopea is a free, ad-supported application that runs entir… [+3136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Get 2024's Funniest Game (And 26 Others) For Just $15 - Kotaku",
-      "description": "Little Kitty, Big City, Mini Metro, Thank Goodness You're Here, Content Warning, and more are included",
-      "url": "https://kotaku.com/mental-health-2024-big-games-bundle-27-for-15-pc-steam-1851758094",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5b01a24b453484b93e89a6496459047c.jpg",
-      "publishedAt": "2025-02-07T17:15:00Z",
-      "content": "The Safe In Our World PC game bundle is now available, which means that for just $15 you can get over two dozen games, including one of the funniest games ever, and you get to support a charity dedic… [+2152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegamepost.com"
-      },
-      "author": null,
-      "title": "Destiny 2 Sundered Doctrine Loot Table: Dungeon Weapons and Armor - TheGamePost",
-      "description": "Here's the full Destiny 2 Sundered Doctrine loot table, including all dungeon weapons, armor, cosmetics, and more.",
-      "url": "https://thegamepost.com/destiny-2-sundered-doctrine-loot-table/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/02/destiny-2-sundered-doctrine-loot-table-1.webp",
-      "publishedAt": "2025-02-07T17:00:50Z",
-      "content": "Heres the full Destiny 2 Sundered Doctrine loot table, including all dungeon weapons, armor, cosmetics, and more.\r\nDestiny 2s Sundered Doctrine dungeon, released during the Episode Heresy in the year… [+5191 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Now you can strap Crocs to your face with this Vision Pro faceplate - The Verge",
-      "description": "Dbrand’s Aperture Vision Pro Face Cover is designed to protect the AR headset without blocking its sensors and cameras or inhibiting any features.",
-      "url": "https://www.theverge.com/news/607607/dbrand-aperture-protective-face-cover-apple-vision-pro-kyle-goodrich",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/dbrand1.jpg?quality=90&strip=all&crop=0%2C10.723194461305%2C100%2C78.553611077391&w=1200",
-      "publishedAt": "2025-02-07T17:00:00Z",
-      "content": "Dbrands seemingly random web pattern is strategically designed to protect the Vision Pro without blocking its sensors.\r\nDbrands seemingly random web pattern is strategically designed to protect the V… [+2596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Blair Marnell",
-      "title": "Kingdom Come 2 Dev On Denying Instant Gratification, Elder Scrolls: Morrowind Influence - GameSpot",
-      "description": "Senior designer Ondřej Bittner explains how two of the Elder Scrolls titles shaped the philosophy behind Kingdom Come: Deliverance 2's freedom of choice.",
-      "url": "https://www.gamespot.com/articles/kingdom-come-2-dev-on-denying-instant-gratification-elder-scrolls-morrowind-influence/1100-6529328/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4440386-kingdomcomedeliverance2.jpg",
-      "publishedAt": "2025-02-07T16:50:45Z",
-      "content": "If you've started playing Kingdom Come: Deliverance 2 and you noticed how much freedom of choice you're given, you may also think it seems reminiscent of earlier Elder Scrolls games. According to Kin… [+1683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defector.com"
-      },
-      "author": null,
-      "title": "Salesforce Is Using A Hallucination To Sell AI - Defector",
-      "description": "A lot is happening in the world of artificial intelligence, and not a lot of it makes sense. We’re told that AI is the future of business, yet it is wildly unprofitable; investment in AI companies is ramping up even as AI-adjacent tech stocks tumble; the Amer…",
-      "url": "https://defector.com/salesforce-is-using-a-hallucination-to-sell-ai",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/02/Screenshot-2025-02-06-at-4.29.22 PM.png",
-      "publishedAt": "2025-02-07T16:41:00Z",
-      "content": "A lot is happening in the world of artificial intelligence, and not a lot of it makes sense. We're told that AI is the future of business, yet it is wildly unprofitable; investment in AI companies is… [+11289 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Van Allen",
-      "title": "World of Warcraft Takes a Jab at Final Fantasy 14 With Its Housing Plans - IGN",
-      "description": "Player housing is coming to World of Warcraft, and Blizzard has unveiled its first look at how the MMO will handle it. In a new preview, the WoW team walked through early details, and even threw a quick jab at Final Fantasy 14's housing in the process.",
-      "url": "https://www.ign.com/articles/world-of-warcraft-takes-a-jab-at-final-fantasy-14-with-its-housing-plans",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/07/worldofwarcrafthousingfirstlook-1738945288889.jpg?width=1280",
-      "publishedAt": "2025-02-07T16:37:33Z",
-      "content": "Player housing is coming to World of Warcraft\r\n, and Blizzard has unveiled its first look at how the MMO will handle it. In a new preview, the WoW team walked through early details, and even threw a … [+2548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Former iOS engineer sued by Apple issues apology as lawsuit is dismissed - 9to5Mac",
-      "description": "Apple’s lawsuit against former iOS Software Engineer and leaker Andrew Aude has been dismissed following a settlement agreement and apology.",
-      "url": "https://9to5mac.com/2025/02/07/former-leaker-sued-by-apple-has-now-apologized-as-the-lawsuit-is-dismissed/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-07T16:36:00Z",
-      "content": "Last March, Apple filed a lawsuit against one of its former employees, an iOS Software Engineer who had leaked confidential information to The Wall Street Journal and The Information. Almost a year l… [+1885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Bill Toulas",
-      "title": "Cloudflare outage caused by botched blocking of phishing URL - BleepingComputer",
-      "description": "An attempt to block a phishing URL in Cloudflare's R2 object storage platform backfired yesterday, triggering a widespread outage that brought down multiple services for nearly an hour.",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-outage-caused-by-botched-blocking-of-phishing-url/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/02/cloudflare.jpg",
-      "publishedAt": "2025-02-07T15:44:59Z",
-      "content": "An attempt to block a phishing URL in Cloudflare's R2 object storage platform backfired yesterday, triggering a widespread outage that brought down multiple services for nearly an hour.\r\nCloudflare R… [+2776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Ex-Dragon Age Dev: ‘I’d Quit’ If You Forced A Single Player RPG To Go Live Service - Forbes",
-      "description": "Ex-BioWare devs of Dragon Age fame are free to comment on how ridiculous the notion is that Veilguard failed because it wasn't a live service.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/02/07/ex-dragon-age-dev-id-quit-if-you-forced-a-single-player-rpg-to-go-live-service/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67238a4b9014ae6857f965c3/0x0.jpg?format=jpg&crop=3370,1787,x307,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-07T15:16:36Z",
-      "content": "Dragon Age: The Veilguard\r\nBioWare\r\nOne of the wildest executive takes in recent memory has been making the rounds after EA CEO Andrew Wilson stated that he believed the reason for Dragon Age: The Ve… [+2610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Samsung holds off on One UI 7 rollout with another beta coming - 9to5Google",
-      "description": "One UI 7 won't officially be available for the Galaxy S24 series anytime soon. Samsung indicates a fourth One UI 7 beta will come first.",
-      "url": "http://9to5google.com/2025/02/07/samsung-holds-off-one-ui-7-rollout-more-beta/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/One-UI-7.0-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-07T15:13:00Z",
-      "content": "It was expected that Samsung would release the full One UI 7 update to Galaxy S24 users immediately after the Gaalxy S25 officially hit shelves, but it doesn’t look like that’s going to be the case. … [+1735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "New Batman game from Rocksteady in development, report suggests - Eurogamer",
-      "description": "Rocksteady has a new Batman game in development.",
-      "url": "https://www.eurogamer.net/rocksteady-has-a-new-single-player-batman-game-in-development-teases-new-report",
-      "urlToImage": "https://assetsio.gnwcdn.com/batman-arkham-vr-series-order.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-02-07T15:08:17Z",
-      "content": "Rocksteady has a new Batman game in development.\r\nRight at the end of a lengthy report by Bloomberg detailing the Warner Bros. Games' position since president David Haddad stood down after 12 years i… [+1374 chars]"
     }
   ]
 }
