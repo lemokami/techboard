@@ -1,58 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 47,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Conor Murray",
-      "title": "PlayStation Servers Down For 20 Hours—But Some Players Say They’re Back Online - Forbes",
-      "description": "PlayStation's server status updates webpage still says servers are experiencing issues as of Saturday afternoon, nearly a full day after they went down Friday night.",
-      "url": "https://www.forbes.com/sites/conormurray/2025/02/08/playstation-servers-down-for-20-hours-but-some-players-say-theyre-back-online/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a76ce53017a88073d7947b/0x0.jpg?format=jpg&crop=1719,967,x0,y161,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-08T20:16:46Z",
-      "content": "PlayStations server status webpage still says its servers are experiencing issues about 20 hours after they went offline Friday night, leading to frustration among players who have criticized the com… [+2424 chars]"
-    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
       "author": "Wes Davis",
-      "title": "Civilization VII is getting a Quest VR port this spring - The Verge",
-      "description": "The VR port of Civilization VII is available to wishlist for Quest 3 and 3S headsets, with pricing and release info coming later.",
-      "url": "https://www.theverge.com/news/609029/sid-meiers-civilization-vii-is-coming-to-the-quest-soon",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Meta-Civ-VII.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-08T20:03:28Z",
-      "content": "Sid Meiers Civilization VII - VR reimagines things with a board game-like construction.\r\nSid Meiers Civilization VII - VR reimagines things with a board game-like construction.\r\nThe Civilization fran… [+1580 chars]"
+      "title": "Sony is giving PS Plus members extra days following PSN’s big outage - The Verge",
+      "description": "Sony is offering an extra five days of service to PlayStation Plus subscribers after a nearly daylong PSN outage.",
+      "url": "https://www.theverge.com/news/609132/sony-playstation-plus-psn-outage",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-09T18:14:13Z",
+      "content": "PlayStation Plus subscribers will get an extra five days of service added to their accounts.\r\nPlayStation Plus subscribers will get an extra five days of service added to their accounts.\r\nFollowing t… [+929 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Paul Tassi",
-      "title": "‘Kingdom Come: Deliverance II’ Is Setting Playercount Records Every Day - Forbes",
-      "description": "The launch of Kingdom Come: Deliverance 2 has been enormously successful, the game racking up great critic scores and large playercounts.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/02/08/kingdom-come-deliverance-ii-is-setting-playercount-records-every-day/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a78b0226a53882b3cae73e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-08T16:52:07Z",
-      "content": "Kingdom Come: Deliverance 2\r\nWarhorse\r\nThe launch of Kingdom Come: Deliverance II has been enormously successful, the game racking up great critic reviews with an 88 metascore across PC, PS5 and Xbox… [+2224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "I Am Still Impressed With ‘Destiny 2’ - Forbes",
-      "description": "Destiny 2 is still doing a lot of things right, and building lots of cool things, even if it’s having trouble motivating players to stay engaged with it all",
-      "url": "https://www.forbes.com/sites/paultassi/2025/02/08/i-am-still-impressed-with-destiny-2/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a76a61d3da94bd103f9813/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-08T14:36:55Z",
-      "content": "Destiny 2\r\nBungie\r\nYesterday, Destiny 2 launched its latest dungeon, Sundered Doctrine, which now has a contest mode and a race for the first completion among the community. At over four hours, that … [+3825 chars]"
+      "author": "Brian Heater",
+      "title": "Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11 - TechCrunch",
+      "description": "Apple could launch a new iPhone SE and PowerBeats Pro headphones as early as February 11, according to reporting from Bloomberg. The announcement is",
+      "url": "https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1243025472.jpg?resize=1200,675",
+      "publishedAt": "2025-02-09T17:00:00Z",
+      "content": "Apple could launch a new iPhone SE and PowerBeats Pro headphones as early as February 11, according to reporting from Bloomberg. The announcement is likely to be on the smaller side, given that the c… [+2672 chars]"
     },
     {
       "source": {
@@ -60,51 +34,194 @@
         "name": "CNET"
       },
       "author": null,
-      "title": "Google Gemini 2.0 AI Is Out Now. Here Are the Highlights - CNET",
-      "description": "In the wake of the launch of DeepSeek, Google has announced a flood of AI news.",
-      "url": "https://www.cnet.com/tech/services-and-software/google-gemini-2-0-ai-is-out-now-here-are-the-highlights/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2c84865fa3fc25832a589f6821025e69c53e4812/hub/2025/02/06/b5cf8c98-5ff6-47b7-9962-4010dba6394b/google-gemini-gettyimages-2100329074.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-08T13:30:00Z",
-      "content": "Google delivered big artificial intelligence news this week, launching the next generation of its chatbot, Gemini 2.0. Google is opening up new Gemini 2.0 models in a multipronged initiative.\r\nLet's … [+2966 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "\"The Sims\" celebrates 25 years - CBS News",
-      "description": "The video game series \"The Sims\" launched 25 years ago this week. Now, it's one of the most popular game series in the world, captivating hundreds of millions of players and allowing them to create and control virtual lives. Dana Jacobson visits the games' he…",
-      "url": "https://www.cbsnews.com/video/the-sims-celebrates-25-years/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/08/a3bb2c50-3048-47fe-8a4a-294920882824/thumbnail/1200x630/701130661e924b6123cdcacbd022db01/0208-satmo-jacobson-3524273-640x360.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
-      "publishedAt": "2025-02-08T13:10:35Z",
-      "content": "Watch CBS News\r\nCopyright ©2025 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      "title": "Alexa Is Set for Major AI Upgrade From Amazon. Here's What to Know - CNET",
+      "description": "After spending years listening and talking, Alexa is about to start thinking.",
+      "url": "https://www.cnet.com/home/smart-home/alexa-is-set-for-major-ai-upgrade-from-amazon-heres-what-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d17ba57d5ff60dd9e5e07c222bb9ae97cff3e1d5/hub/2024/10/28/19b7479b-db52-45bf-a7cc-ee479f0d7ecf/untitled-design-17.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-09T17:00:00Z",
+      "content": "Amazon's voice assistant Alexa is expected to tease a major AI-powered upgrade later this month, which could change how we interact with the tech at home. Amazon sent out media invites for a Feb. 26 … [+1866 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "Forbes"
       },
-      "author": "Peter Ray Allison",
-      "title": "Watch bipedal robots running in a more human-like way than ever thanks to major vision upgrade - Livescience.com",
-      "description": "Bipedal robots have found navigating uneven terrain a steep challenge but a new hardware upgrade means they can detect their environment and respond quicker than ever before.",
-      "url": "https://www.livescience.com/technology/robotics/watch-bipedal-robots-running-in-a-more-human-like-way-than-ever-thanks-to-major-vision-upgrade",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MLc6Fwv63t5YkhaK98rv8Q-1200-80.jpg",
-      "publishedAt": "2025-02-08T13:00:00Z",
-      "content": "Researchers in China have developed; a new type of humanoid robot that can walk and run over a variety of terrains — reaching speeds of about 4.5 miles per hour (7.2 kilometers per hour).\r\nMoving and… [+2201 chars]"
+      "author": "Paul Tassi",
+      "title": "PSN Outage Extends ‘Monster Hunter Wilds’ Beta, Among Other Things - Forbes",
+      "description": "One of the most prominent games taking steps to make up for the outage is Monster Hunter Wilds.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/09/psn-outage-extends-monster-hunter-wilds-beta-among-other-things/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a8dbfb861c4ef3849e57bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T16:50:29Z",
+      "content": "monster hunter wilds\r\nCapcom\r\nMany games were so severely disrupted by the 24 hour PSN outage, that they had to alter plans for a number of limited time events, given that the issue shaved an entire … [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Simone de Rochefort",
+      "title": "We need to change our definition of interactivity - Polygon",
+      "description": "Sam Barlow and Justin McElroy discuss the intimacy that can come from playing a full-motion video game, and what makes the medium special.",
+      "url": "https://www.polygon.com/gaming/517910/sam-barlow-justin-mcelroy-intimacy",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002391/ss_8fe33181d9a492e48e93cfc8466c239def8a0a94.jpg?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
+      "publishedAt": "2025-02-09T16:00:00Z",
+      "content": "Can watching video feel more intimate or more engaging than playing a game? In this interview excerpt, Sam Barlow and Justin McElroy explore what makes players and viewers feel like they are making t… [+11166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Joe Pring",
+      "title": "Punch-Out speedrunner beats Mike Tyson TKO world record after 75,000 attempts - Dexerto",
+      "description": "Punch-out speedrunner SummoningSalt achieved the world record after four and a half years and 75,000 attempts.",
+      "url": "https://www.dexerto.com/gaming/punch-out-speedrunner-beats-mike-tyson-tko-world-record-after-75000-attempts-3060279/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/02/09/punch-out-world-record.jpg",
+      "publishedAt": "2025-02-09T15:55:45Z",
+      "content": "SummoningSalt is best known for recording some of the greatest moments in speedrunning history, but hes proven his own salt in beating a Punch-Out speedrun record thought to be impossible.\r\nStreaming… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Here’s Destiny 2’s Sundered Doctrine Dungeon Loot Table For Awful Farming - Forbes",
+      "description": "Here is what you can farm in Destiny 2's Sundered Doctrine dungeon with the full loot table, but dungeon weapon farming remains terrible.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/09/heres-destiny-2s-sundered-doctrine-dungeon-loot-table-for-awful-farming/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a8ccb80e600641ab5259be/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T15:45:02Z",
+      "content": "Destiny 2\r\nBungie\r\nBungie is going to run an additional Contest Mode weekend for Sundered Doctrine, its just-launched Heresy dungeon, due to the 24 hour outage of PSN that cut the time to complete it… [+2446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "GeForce RTX 5070 Ti on February 20 confirmed by another large retailer - VideoCardz.com",
+      "description": "RTX 5070 Ti on February 20 confirmed by another retailer Large French retailer confirms GeForce RTX 5070 Ti launch on February 20. It looks like there is no confirmed release date for NVIDIA’s next-in-line RTX 50 series cards. However, as we have extensively …",
+      "url": "https://videocardz.com/newz/geforce-rtx-5070-ti-on-february-20-confirmed-by-another-large-retailer",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/02/RTX5070TI-FEB20-HERO.jpg",
+      "publishedAt": "2025-02-09T15:42:00Z",
+      "content": "Large French retailer confirms GeForce RTX 5070 Ti launch on February 20.\r\nIt looks like there is no confirmed release date for NVIDIA’s next-in-line RTX 50 series cards. However, as we have extensiv… [+3521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zak Doffman",
+      "title": "Google’s Gmail Upgrade—Why You Need A New App - Forbes",
+      "description": "Google has confirmed these dangerous new attacks — you need this change now.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/02/09/googles-gmail-upgrade-why-you-need-a-new-app/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=1064,636,x205,y442,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T14:29:40Z",
+      "content": "Time to change\r\nNurPhoto via Getty Images\r\nWith Google confirming that Gmail is under attack, warning users to change behaviors to stay safe, the stakes have rarely been higher. Fortunately, Google i… [+5471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Andrew Hayward",
+      "title": "You Can Earn Real Bitcoin for Playing This Gem Mining Game - Decrypt",
+      "description": "Idle Mine, from the makers of Bitcoin Miner and SpaceY, pays out real BTC rewards for playing a simple iOS and Android game.",
+      "url": "https://decrypt.co/305162/idle-mine-earn-bitcoin-playing-gem-mining-game",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/02/bitcoin-gems-gID_7.png",
+      "publishedAt": "2025-02-09T14:26:02Z",
+      "content": "I couldnt tell you exactly how many hours Ive spent mining fake gems in the mobile game Idle Mine, which pays out real Bitcoin as you playbut its probably more than Id like to admit.\r\nIts surely more… [+2173 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Alice Jovanée, Maddy Myers",
+      "title": "These video games kill fascists - Polygon",
+      "description": "It doesn’t stop at Wolfenstein — there are tons of video games where you can rise against corrupt governments, and even punch a Nazi or two.",
+      "url": "https://www.polygon.com/gaming/515849/best-cathartic-games-antifascist-video-games",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-07-142528.png?quality=90&strip=all&crop=0%2C1.8407413401786%2C100%2C96.318517319643&w=1200",
+      "publishedAt": "2025-02-09T14:00:00Z",
+      "content": "Listen, Im all about staying abreast of current events but watching the fascist, white, cis, hetero patriarchy put boots on the necks of anyone they want to gets old fast. Sometimes, engaging in civi… [+6626 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Amazfit Active 2 review: outsized bang for your buck - The Verge",
+      "description": "The Amazfit Active 2 starts at $99.99 and offers an incredibly stacked feature set and stylish design for the price, making this an incredible budget wearable.",
+      "url": "https://www.theverge.com/smartwatch-review/608342/amazfit-active-2-review-budget-smartwatch-wearables-fitness-tracker",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257523_Amazfit_Active_2_AKrales_0080.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-09T14:00:00Z",
+      "content": "Anytime I felt irked by the Active 2s quirks, Id remind myself that the watch on my wrist only cost $130.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics stat… [+7729 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Filipe Espósito",
-      "title": "Apple unlikely to hold special event to announce iPhone SE 4 - 9to5Mac",
-      "description": "As reported on Thursday, Apple is gearing up to launch the next generation iPhone SE in the coming days. While...",
-      "url": "https://9to5mac.com/2025/02/08/apple-unlikely-event-iphone-se-4/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/tim-cook-apple-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-08T12:11:00Z",
-      "content": "As reported on Thursday, Apple is gearing up to launch the next generation iPhone SE in the coming days. While some expect the company to hold a big event to announce new products, there’s a chance t… [+1564 chars]"
+      "author": "Michael Burkhardt",
+      "title": "Report: Apple’s plan for standalone AR glasses ‘remains intact’ - 9to5Mac",
+      "description": "After the reported cancellation of Apple’s Mac-tethered AR glasses, Apple is still working towards making a pair of standalone AR...",
+      "url": "https://9to5mac.com/2025/02/09/apple-standalone-ar-glasses-still-coming/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Viture-One-glasses-multiple-Mac-monitors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-09T13:50:00Z",
+      "content": "After the reported cancellation of Apple’s Mac-tethered AR glasses, Apple is still working towards making a pair of standalone AR glasses. It just might take a little bit longer to get right, reports… [+2126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zak Doffman",
+      "title": "Microsoft Tells Windows Users—Do Not Use Google Chrome - Forbes",
+      "description": "Here we go again—Microsoft's latest attack on Chrome. Here's what to know.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/02/09/microsoft-tells-windows-users-do-not-use-google-chrome/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665ba016d3d11342555e4aba/0x0.jpg?format=jpg&crop=2159,1306,x1587,y850,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T13:15:05Z",
+      "content": "Controversial new Microsoft warning\r\ndpa/picture alliance via Getty Images\r\nJust weeks after Google accused Microsoft of tricking its own users, asking how low can they go, we await Googles latest re… [+3392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "OnePlus ‘Mini’ reportedly launching as ’13T’ in April as roadmap leaks - 9to5Google",
+      "description": "A leaked roadmap offers insight into new OnePlus products, with the OnePlus \"Mini\" reportedly coming in April as \"13T.\"",
+      "url": "http://9to5google.com/2025/02/09/oneplus-13t-mini-april-launch-roadmap-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/oneplus-13-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-09T13:05:00Z",
+      "content": "A leaked roadmap offers insight into OnePlus’ upcoming releases, including the OnePlus “13T” which is reportedly the name of the brand’s “Mini” smartphone.\r\nAccording to a leaker on Weibo (via GSMAre… [+1090 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Two new games you can play basically forever - The Verge",
+      "description": "Plus: ChatGPT deep research, the Tapestry timeline app, outrage fatigue, and more in this week’s Installer newsletter.",
+      "url": "https://www.theverge.com/installer-newsletter/608335/civilization-vii-tapestry-kingdom-come-deliverance-installer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Installer-70.png?quality=90&strip=all&crop=0%2C10.76150064447%2C100%2C78.476998711061&w=1200",
+      "publishedAt": "2025-02-09T13:00:00Z",
+      "content": "Plus, in this weeks Installer: OpenAIs new research tool, a new timeline app, a Tubi original, and much more.\r\nPlus, in this weeks Installer: OpenAIs new research tool, a new timeline app, a Tubi ori… [+10159 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "How to use Apple’s new event planning ‘Invites’ app - TechCrunch",
+      "description": "Apple has released a new Invites app that is designed to make it easy for you to create custom invitations for your next event.",
+      "url": "https://techcrunch.com/2025/02/09/how-to-use-apples-new-event-planning-invites-app/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/apple-invites-app.png?resize=1200,826",
+      "publishedAt": "2025-02-09T13:00:00Z",
+      "content": "Apple has released a new app called Invites that is designed to make it easy to create custom invitations for events using an iPhone or on the web. Invites is Apples version of Partiful, a popular in… [+4316 chars]"
     },
     {
       "source": {
@@ -112,155 +229,38 @@
         "name": "Forbes"
       },
       "author": "Davey Winder",
-      "title": "Most Sophisticated Gmail Attacks Ever—FBI Says: Do Not Click Anything - Forbes",
-      "description": "Heed this FBI advice as dangerous, and increasingly AI-based attacks against Gmail users continue at pace. Here’s what you need to know.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/02/08/most-sophisticated-gmail-attacks-ever-fbi-says-do-not-click-anything/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64e7031f115ba4a1a14af6bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-08T11:47:48Z",
-      "content": "Do not click anything, FBI advises as phishing attacks continue.\r\nSOPA Images/LightRocket via Getty Images\r\nThe danger from attackers looking to compromise your Gmail account has never been greater. … [+3597 chars]"
+      "title": "Apple Data Theft Surge—Attacks Up 101%, What You Must Do Now - Forbes",
+      "description": "Your Mac is not immune to attack. Want proof? Infostealer hacks are surging. Here’s what you need to do right now to stay safe.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/02/09/apple-data-theft-surge-attacks-up-101-what-you-must-do-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6674031c5bb8e1fbe1d2c26e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T12:22:58Z",
+      "content": "macOS infostealers are surging.\r\nNurPhoto via Getty Images\r\nAlthough you might be sitting relatively comfortably, as an Apple device user, as you read headline after headline concerning hack attacks … [+2674 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Internet"
+        "name": "Forbes"
       },
-      "author": "The Hacker News",
-      "title": "Malicious ML Models Found on Hugging Face Exploit \"Broken\" Pickle Files to Evade Detection - The Hacker News",
-      "description": "Researchers discovered two malicious ML models on Hugging Face exploiting “broken” pickle files to evade detection, bypassing Picklescan safeguards.",
-      "url": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9HRla2vCXTJvnM3vT93AmKbjqs9stovOJ537UUG3Uq_M-ZPX2Yd45EZH9mCfek0Mi11XBLVV5yZjxpHBmvUnWkaYjlRlG9ASGHpXTwjd40LkrKauR0WuaaH62q7x9en4RowtY8zBugXEBETIiT_PLPlhK8Czmz_V79IcsE5QCEE521sWAu16DrtsMn8R/s728-rw-e365/hugging-face-malware.png",
-      "publishedAt": "2025-02-08T06:17:00Z",
-      "content": "Cybersecurity researchers have uncovered two malicious machine learning (ML) models on Hugging Face that leveraged an unusual technique of \"broken\" pickle files to evade detection.\r\n\"The pickle files… [+2568 chars]"
+      "author": "Janhoi McGregor",
+      "title": "Samsung Is Emailing Galaxy S25 Buyers A New Offer - Forbes",
+      "description": "Samsung has launched the Galaxy S25 with a new discount promo code.",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2025/02/09/samsung-galaxy-s25-ultra-discount-code-deal-price/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a62fc447795fc4688b0c2e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-09T12:21:06Z",
+      "content": "Samsung launches officially launches the Galaxy S25 with a new discount code. Photographer: ... [+] SeongJoon Cho/Bloomberg\r\n© 2025 Bloomberg Finance LP\r\nThis story was updated on February 9th with n… [+3824 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "John Velasco",
-      "title": "I shot over 200 photos with the Galaxy S25 Ultra vs iPhone 16 Pro Max — here’s the winner - Tom's Guide",
-      "description": "These camera phones have their own set of strengths in each area",
-      "url": "https://www.tomsguide.com/phones/i-shot-over-200-photos-with-the-galaxy-s25-ultra-vs-iphone-16-pro-max-heres-the-winner",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jwCisXTqtjfUuvo8PGYQpd-1200-80.jpg",
-      "publishedAt": "2025-02-08T05:34:14Z",
-      "content": "When we ran a preliminary photo shootout between the Galaxy S25 Ultra vs. iPhone 16 Pro Max, Samsung got the win but only by the narrowest of margins. This time, however, I’m going to scrutinize thes… [+10578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Liam Doolan",
-      "title": "Nintendo Talks About Future Switch Support Ahead Of Switch 2 Launch - Nintendo Life",
-      "description": "\"We would like to continue releasing new titles\"",
-      "url": "https://www.nintendolife.com/news/2025/02/nintendo-talks-about-future-switch-support-ahead-of-switch-2-launch",
-      "urlToImage": "https://images.nintendolife.com/e403ee685bcb1/1280x720.jpg",
-      "publishedAt": "2025-02-08T03:00:00Z",
-      "content": "Image: Nintendo\r\nNintendo has already confirmed it will be supporting the Switch in 2025 with new software, but what is the plan for the system beyond this year?\r\nDuring the Q&amp;A of Nintendo's lat… [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Brady Snyder",
-      "title": "Google's incorrect Gemini response was actually faked entirely for Super Bowl ad - Android Central",
-      "description": "Gemini didn't lie about cheese. It seemingly plagiarized about cheese.",
-      "url": "https://www.androidcentral.com/apps-software/googles-incorrect-gemini-response-was-actually-faked-entirely-for-super-bowl-ad",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4sUeciYBZHaLoMa5KiYw7h-1200-80.jpg",
-      "publishedAt": "2025-02-08T00:38:02Z",
-      "content": "What you need to know\r\n<ul><li>Google is running ad spots that highlight how small businesses use Gemini in Workspace to grow their business.</li><li>However, one ad became shrouded in controversy du… [+2595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Josh Dinner",
-      "title": "Vast Space now aims for 2026 launch of Haven-1 space station after key milestone (photos) - Space.com",
-      "description": "Designing a space station is taking a little longer than Vast expected, but the company is still moving at a breakneck pace.",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/vast-space-now-aims-for-2026-launch-of-haven-1-space-station-after-key-milestone-photos",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3yNxSCL8i4XytqNW7JGux3-1200-80.png",
-      "publishedAt": "2025-02-07T23:00:00Z",
-      "content": "Vast Space is taking big steps toward putting the first commercial space station in orbit.\r\nThe California-based startup recently completed a major testing milestone for the qualification vessel of i… [+5173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Michael Kan",
-      "title": "To Beat Scalpers, Zotac Is Selling RTX 5000 GPUs Directly to Users Via Discord - PCMag",
-      "description": "Zotac plans to give select consumers a chance to buy Nvidia's coveted graphics cards by using a raffle system on Discord that'll also check the user's online engagement.",
-      "url": "https://www.pcmag.com/news/to-beat-scalpers-zotac-is-selling-rtx-5000-gpus-directly-to-users-via-discord",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/05zOoOI2iwH0eymEbG5RfSb-1.fit_lim.size_1200x630.v1738964319.jpg",
-      "publishedAt": "2025-02-07T22:38:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
+        "name": "Videocardz.com"
       },
       "author": null,
-      "title": "Apple Is Reportedly Working On A Pixar-Style Tabletop Robot Lamp With Expressive, Lifelike Movements - Wccftech",
-      "description": "Apple is reportedly working on a tabletop robot that is reminiscent of Pixar's Luxo Jr. and is quite expressive adding a human element",
-      "url": "https://wccftech.com/apple-is-reportedly-working-on-a-pixar-style-tabletop-robot-lamp-with-expressive-lifelike-movements/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/homepod-robot.jpg",
-      "publishedAt": "2025-02-07T22:26:00Z",
-      "content": "Apple keeps on challenging itself and has an ambitious approach to expanding itself into different categories. It has been increasingly focused on adding more devices for the home, such as smart disp… [+2309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Florence Ion",
-      "title": "Android Users Will Eventually Be Able to Edit and Unsend Text Messages - Gizmodo",
-      "description": "There's no way you can turn back time, but at least you can delete a bad word before someone sees it.",
-      "url": "https://gizmodo.com/android-users-will-eventually-be-able-to-edit-and-unsend-text-messages-2000561074",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble.jpg",
-      "publishedAt": "2025-02-07T20:10:08Z",
-      "content": "Sometimes, we regret things. Sometimes, we’re caught up in typing thoughts and feelings and forget to edit ourselves before pressing send. Sometimes, the consequences of our actions are too much to d… [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "Football Manager 25 canceled in a refreshing show of concern for quality - Ars Technica",
-      "description": "Developer’s big overhaul of long-running franchise is a brave, long process.",
-      "url": "https://arstechnica.com/gaming/2025/02/football-manager-25-canceled-in-a-refreshing-show-of-concern-for-quality/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/key_art_2025-1152x648-1738955069.png",
-      "publishedAt": "2025-02-07T19:47:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "These Apple Invites features are only available for certain users - 9to5Mac",
-      "description": "Apple Invites has a handful of features that are only available for certain users. Here’s who can use the new app and its various features.",
-      "url": "https://9to5mac.com/2025/02/07/these-apple-invites-features-are-only-available-for-certain-users/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/invites-app-paid.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-07T19:31:00Z",
-      "content": "Apple released a brand new iPhone app this week called Invites (download here). Its a fun way to organize events with others. But it also has a handful of features that are only available for certain… [+2101 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Maker of Smash Indie Hit ‘Balatro’ Talks About What’s Next - Bloomberg",
-      "description": "The addictive card game will receive a new patch this year full of new Joker cards and features",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-02-07/maker-of-smash-indie-hit-balatro-talks-about-what-s-next",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWsZv82zVtMs/v0/1200x675.jpg",
-      "publishedAt": "2025-02-07T19:11:09Z",
-      "content": "Hi everyone. Today Ive got an interview with LocalThunk, the creator of the hit game Balatro, but first...\r\nThis weeks top gaming news:"
+      "title": "ASUS’ only “MSRP” GeForce RTX 5080 PRIME graphics card now costs $1,265 - VideoCardz.com",
+      "description": "ASUS ends promotion for its only MSRP RTX 5080 card NVIDIA MSRP cards make no sense anymore.  There’s no other way to put it, ASUS has manipulated NVIDIA’s MSRP system for launch reviews. Their cheapest RTX 5080, the PRIME model, was initially launched as an …",
+      "url": "https://videocardz.com/newz/asus-only-msrp-geforce-rtx-5080-prime-graphics-card-now-costs-1265",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/02/ASUS-PRIME-MSRP-GONE-HERO.jpg",
+      "publishedAt": "2025-02-09T12:04:00Z",
+      "content": "NVIDIA MSRP cards make no sense anymore. \r\nTheres no other way to put it, ASUS has manipulated NVIDIAs MSRP system for launch reviews. Their cheapest RTX 5080, the PRIME model, was initially launched… [+1311 chars]"
     }
   ]
 }
