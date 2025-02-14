@@ -4,107 +4,42 @@
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Scharon Harding",
-      "title": "When software updates actually improve—instead of ruin—our favorite devices - Ars Technica",
-      "description": "Opinion: These tech products have gotten better over time.",
-      "url": "https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/20240829_185906-1152x648.jpg",
-      "publishedAt": "2025-02-11T23:24:23Z",
-      "content": null
+      "author": "Andrew Webster",
+      "title": "PS5 State of Play February 2025: the best trailers and biggest reveals - The Verge",
+      "description": "Sony is holding a State of Play livestream on February 12th to show off upcoming PS5 games like Ghost of Yōtei.",
+      "url": "https://www.theverge.com/sony-playstation/610913/ps5-state-of-play-trailers-news-sony-february-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24302780/226463_DualSense_Edge_VPavic_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-12T23:24:01Z",
+      "content": "Sony started out 2025 by sharing exactly what it has in store for the PlayStation 5 this year or at least some of it. The companys 40-minute-long State of Play event was missing big, expected names l… [+3893 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "Video Games Chronicle"
       },
-      "author": "Liam Croft",
-      "title": "State of Play Confirmed for Wednesday, 40+ Minutes of PS5 News and Updates - Push Square",
-      "description": "Taking place at 10pm GMT / 2pm PT / 5pm ET",
-      "url": "https://www.pushsquare.com/news/2025/02/state-of-play-confirmed-for-wednesday-40plus-minutes-of-ps5-news-and-updates",
-      "urlToImage": "https://images.pushsquare.com/2de8baf1f03f5/1280x720.jpg",
-      "publishedAt": "2025-02-11T21:21:26Z",
-      "content": "Sony has revealed the first State of Play livestream will take place this Wednesday, 12th February 2025, featuring more than 40 minutes of PS5 game announcements, news, and updates. The showcase star… [+1059 chars]"
+      "author": "Jordan Middler",
+      "title": "Xbox’s Metal Gear Solid Delta replaces Ape Escape monkeys with another surprise cameo - Video Games Chronicle",
+      "description": "Xbox players won't get the Ape Escape crossover minigame",
+      "url": "https://www.videogameschronicle.com/news/xboxs-metal-gear-solid-delta-replaces-ape-escape-monkeys-with-another-surprise-cameo/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/02/bafkreihm53pkoq7fgbdwpesrferekfvd4pmofjfw4zyalr4ru5jzc3ffnm.jpg",
+      "publishedAt": "2025-02-12T23:22:10Z",
+      "content": "Metal Gear Solid Delta: Snake Eater won’t feature the original’s Ape Escape mini-game on Xbox, it’s been confirmed, likely due to licensing issues with PlayStation.\r\nKonami recently published a new t… [+1569 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Eurogamer.net"
       },
-      "author": "Claire Lewis",
-      "title": "Apex Legends Season 24 Patch Notes Feature Major Buffs For Ash & Ballistic, Serious Armor Changes, And New Class Perks - GameSpot",
-      "description": "Season 24: Takeover is mixing up the game's meta with some pretty wild changes, including the introduction of a Mythic-tier helmet.",
-      "url": "https://www.gamespot.com/gallery/apex-legends-season-24-patch-notes-feature-major-buffs-for-ash-ballistic-serious-armor-changes-and-new-class-perks/2900-6254/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1752/17528202/4442534-fuse.jpg",
-      "publishedAt": "2025-02-11T20:29:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "Microsoft February 2025 Patch Tuesday fixes 4 zero-days, 55 flaws - BleepingComputer",
-      "description": "Today is Microsoft's February 2025 Patch Tuesday, which includes security updates for 55 flaws, including four zero-day vulnerabilities, with two actively exploited in attacks.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2025-patch-tuesday-fixes-4-zero-days-55-flaws/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/microsoft-patch-tuesday-red.jpg",
-      "publishedAt": "2025-02-11T18:56:48Z",
-      "content": "Today is Microsoft's February 2025 Patch Tuesday, which includes security updates for 55 flaws, including four zero-day vulnerabilities, with two actively exploited in attacks.\r\nThis Patch Tuesday al… [+16172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "12VHPWR Connector Reaches A Whopping 150°C On The PSU Side When Connected To The GeForce RTX 5090 - Wccftech",
-      "description": "In a recent illustration, Der8auer found that the 12VHPWR connector can reach over 150°C when connected to an RTX 5090, leading to a melting.",
-      "url": "https://wccftech.com/12vhpwr-connector-reaches-150c-on-the-psu-side-when-connected-to-the-rtx-5090/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/RTX-5090-FE-investigation-728x410.png",
-      "publishedAt": "2025-02-11T18:25:00Z",
-      "content": "The demonstration by Der8auer shows that the melted RTX 5090 and 12VHPWR connector might not necessarily be due to user error.\r\nThis might come as a surprise for a lot of people, as what seemed to be… [+2415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "Apple officially owns Pixelmator and Photomator - 9to5Mac",
-      "description": "In November, Pixelmator’s team announced an acquisition agreement with Apple. Three months later, Pixelmator has officially confirmed that it is...",
-      "url": "https://9to5mac.com/2025/02/11/apple-officially-owns-pixelmator-and-photomator/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/pixelmator-apple.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-11T18:17:00Z",
-      "content": "In November, Pixelmators team announced an acquisition agreement with Apple. Three months later, Pixelmator has officially confirmed that it is now a part of Apple.\r\nThe confirmation is delivered thr… [+942 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Apple brings heart rate monitoring to Powerbeats Pro 2 - TechCrunch",
-      "description": "Apple Tuesday announced the long-awaited debut of Powerbeats Pro 2 earbuds. The new headphones arrive nearly six years after the original Powerbeats hit",
-      "url": "https://techcrunch.com/2025/02/11/apple-brings-heart-rate-monitoring-to-powerbeats-pro-2/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Powerbeats-Pro-2-Electric-Orange-2-1.jpeg?resize=1200,800",
-      "publishedAt": "2025-02-11T18:00:00Z",
-      "content": "Apple Tuesday announced the long-awaited debut of Powerbeats Pro 2 earbuds. The new headphones arrive nearly six years after the original Powerbeats hit the market. The new model maintains the famili… [+3152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Josh Broadwell",
-      "title": "Game Pass Subscribers Can Grab South Of Midnight’s Premium Upgrade, And Early Access, At A Steep Discount - GameSpot",
-      "description": "Xbox is offering South of Midnight’s premium edition upgrade at a discount for Game Pass members, but there's a small catch.",
-      "url": "https://www.gamespot.com/articles/game-pass-subscribers-can-grab-south-of-midnights-premium-upgrade-and-early-access-at-a-steep-discount/1100-6529400/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1727/17277836/4442417-south-of-midnight-game-pass-discount.jpg",
-      "publishedAt": "2025-02-11T17:59:28Z",
-      "content": "Xbox is offering South of Midnights premium edition upgrade, which includes early access and a range of other extras, at a discount for Game Pass subscribers, though theres a small catch. The discoun… [+1800 chars]"
+      "author": "Ed Nightingale",
+      "title": "New action game Tides of Annihilation fuses modern day London with Arthurian Legend - Eurogamer",
+      "description": "Tides of Annihilation is a new action game that fuses modern London with Arthurian Legend, announced at tonight's PlayS…",
+      "url": "https://www.eurogamer.net/new-action-game-tides-of-annihilation-fuses-modern-day-london-with-arthurian-legend",
+      "urlToImage": "https://assetsio.gnwcdn.com/Tides-of-Annihilation-_-Official-Announcement-Trailer-1-50-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-02-12T22:40:26Z",
+      "content": "Tides of Annihilation is a new action game that fuses modern London with Arthurian Legend, announced at tonight's PlayStation State of Play.\r\nWhile that sounds distinctly British, it comes from Chine… [+1664 chars]"
     },
     {
       "source": {
@@ -112,64 +47,207 @@
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "28-Year-Old MMO Is Finally Getting A New Class - Kotaku",
-      "description": "Free-to-play MMORPG Tibia launched back in the '90s with only four classes",
-      "url": "https://kotaku.com/decades-28-year-old-mmo-tibia-new-class-monk-announced-1851760446",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e84aaa593cb246fe471d02fe2f77c72.jpg",
-      "publishedAt": "2025-02-11T17:15:00Z",
-      "content": "Tibia, one of the oldest PC MMORPGs around, is getting a brand new character class nearly three decades after it first launched. Yes, this MMO is potentially older than you and is still being updated… [+1673 chars]"
+      "title": "Days Gone Remastered Coming To PS5 In April - Kotaku",
+      "description": "The upgraded port will include extra content, a new game mode, and more",
+      "url": "https://kotaku.com/days-gone-remastered-coming-to-ps5-in-april-1851762060",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e02d18e15ccb51172f0c8dda47f7760e.png",
+      "publishedAt": "2025-02-12T22:38:00Z",
+      "content": "Today during PlayStations latest State of Play event, Sony announced thatDays Gone is being remastered. This new, improved, and expanded version of the open-world zombie game will arrive on PS5 in Ap… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Kim",
+      "title": "Borderlands 4 Release Date Confirmed - IGN",
+      "description": "Gearbox has officially announced a release date for the upcoming Borderlands 4 and it's much sooner than you think.",
+      "url": "https://www.ign.com/articles/borderlands-4-release-date-confirmed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/20/borderlands4-blogroll-1724177297570.jpg?width=1280",
+      "publishedAt": "2025-02-12T22:21:35Z",
+      "content": "Gearbox has officially confirmed the release date for Borderlands 4.\r\nAt the new State of Play, Gearbox president Randy Pitchford announced that Borderlands 4 will be coming out on September 23, 2025… [+346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "PS Plus Extra, Premium Games for February 2025 Announced - Push Square",
+      "description": "Star Wars! Lost Records! Patapon!",
+      "url": "https://www.pushsquare.com/news/2025/02/9-ps-plus-extra-premium-games-for-february-2025-announced",
+      "urlToImage": "https://images.pushsquare.com/6d9e267496910/1280x720.jpg",
+      "publishedAt": "2025-02-12T22:20:00Z",
+      "content": "They keep finding new lows to reach. Has to be the poorest selection since the relaunch. The numbers are declining rapidly, gone are the days where we were looking at almost 20 titles with extra and … [+420 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Alex Weprin",
+      "title": "LeBron James, Lionel Messi and Shohei Ohtani Enlisted for Powerbeats Pro 2 Launch (Exclusive) - Hollywood Reporter",
+      "description": "The Apple-owned audio brand Beats is turning to a trio of GOATs to help it launch its latest product, in an ad voiced by RZA.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/beats-lebron-james-lionel-messi-shohei-ohtani-powerbeats-pro-2-launch-campaign-1236132272/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/02/Lionel-Messi-LeBron-James-Shohei-Ohtani-Split-Publicity-H-2025.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2025-02-12T21:38:20Z",
+      "content": "How do you stand out with an ad campaign that is launching right after the Super Bowl, the biggest advertising event of them all? It’s hard, but you could always turn to a few GOATs.\r\nBeats, the Appl… [+4113 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple to Bring TV+ to Android Phones in Bid to Boost Subscribers - Bloomberg",
+      "description": "Apple Inc. expanded the TV+ video service to Android phones for the first time, a move aimed at boosting its streaming subscribers.",
+      "url": "https://www.bloomberg.com/news/articles/2025-02-12/apple-to-bring-tv-to-android-phones-in-bid-to-boost-subscribers",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDBBTr985nkE/v0/1200x800.jpg",
+      "publishedAt": "2025-02-12T21:31:14Z",
+      "content": "Apple Inc. expanded the TV+ video service to Android phones for the first time, a move aimed at boosting its streaming subscribers.\r\nOn Wednesday, the TV+ app became available via the Google Play Sto… [+232 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacob Kienlen",
+      "title": "The Google Pixel 9 Pro Is Back Down to Its Lowest Price on Amazon Today - IGN",
+      "description": "One of the best camera phones you can buy.",
+      "url": "https://www.ign.com/articles/google-pixel-9-pro-deal-presidents-day-sale-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/21/pix9pro-3-1724268108762.JPG?width=1280",
+      "publishedAt": "2025-02-12T20:17:05Z",
+      "content": "The Google Pixel 9 series was released just last year, but we've been seeing some of the best phone deals on these devices over the past six months. Pixel phones are some of the top iPhone alternativ… [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Dungeons & Dragons ‘ New Rulebook Era Is Saying Goodbye to a Cute Tradition - Gizmodo",
+      "description": "If you've grown fond of looking for this one specific type of Easter egg over the years, you're about to be disappointed.",
+      "url": "https://gizmodo.com/dungeons-and-dragons-2024-rulebooks-disclaimer-easter-eggs-wizards-of-the-coast-2000563042",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/monster.jpg",
+      "publishedAt": "2025-02-12T19:35:53Z",
+      "content": "In the wake of Dungeons &amp; Dragons‘ 50th anniversary last year, Wizards of the Coast prepped new versions of its core trio of rulebooks: the Players’ Handbook, the Dungeon Masters’ Guide, and the … [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Apple is reportedly exploring humanoid robots - TechCrunch",
+      "description": "Apple is exploring both humanoid and non-humanoid robotic form factors, according to a new scoop from longtime Apple analyst Ming-Chi Kuo. The intel comes",
+      "url": "https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-949652688.jpg?resize=1200,675",
+      "publishedAt": "2025-02-12T19:04:47Z",
+      "content": "Apple is exploring both humanoid and non-humanoid robotic form factors, according to a new scoop from longtime Apple analyst Ming-Chi Kuo. The intel comes on the heels of a research paper from the iP… [+3713 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "Leaked Pixel 9A renders show almost no camera bump - The Verge",
-      "description": "The Pixel 9A has four color options and a nonexistent camera bump in newly leaked renders.",
-      "url": "https://www.theverge.com/news/610158/google-pixel-9a-leak-renders-camera-bump",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Pixel-9A-four-colors.webp?quality=90&strip=all&crop=0,3.4523511806323,100,93.095297638735",
-      "publishedAt": "2025-02-11T17:14:41Z",
-      "content": "A phone that will lay flat on its back is on the table again.\r\nA phone that will lay flat on its back is on the table again.\r\nA new set of leaked Pixel 9A renders appears to confirm months of rumors … [+1297 chars]"
+      "author": "Quentyn Kennemer",
+      "title": "Overwatch 2 is adding a CS:GO-style mode and bringing back loot boxes - The Verge",
+      "description": "Overwatch 2 Season 15 and Season 16 are bringing new heroes, gameplay changes, game modes, cosmetics, and more.",
+      "url": "https://www.theverge.com/news/610599/overwatch-2-season-15-16-update-stadium-new-character-freja-loot-boxes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/OVR_PK_S15_H43_Freja_002.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-02-12T18:30:00Z",
+      "content": "Were also getting 6v6 ranked queues and our first look at a new hero coming later this year.\r\nWere also getting 6v6 ranked queues and our first look at a new hero coming later this year.\r\nOverwatch 2… [+3273 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Nintendo Life"
       },
-      "author": "Abner Li",
-      "title": "Google teases I/O 2025 with ‘Prism Shift’ puzzle - 9to5Google",
-      "description": "The road to Google I/O 2025 is underway this morning with a puzzle to figure out the date for the developer conference.",
-      "url": "http://9to5google.com/2025/02/11/google-io-2025-puzzle/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/google-io-2025-puzzle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-11T17:12:00Z",
-      "content": "The road to Google I/O 2025 is underway this morning with a puzzle to figure out the date for the developer conference.\r\nYou have to “Guide, reflect, and split beams of light to illuminate beacons” t… [+1481 chars]"
+      "author": "Jim Norman",
+      "title": "Video: We've Played Civilization VII On Nintendo Switch - Here's 15 Minutes Of Gameplay - Nintendo Life",
+      "description": "Civ, laugh, love",
+      "url": "https://www.nintendolife.com/news/2025/02/video-weve-played-civilization-vii-on-nintendo-switch-heres-15-minutes-of-gameplay",
+      "urlToImage": "https://images.nintendolife.com/d40fb0c2548c1/1280x720.jpg",
+      "publishedAt": "2025-02-12T17:30:00Z",
+      "content": "Subscribe to Nintendo Life on YouTube796k\r\nWe certainly didn't expect to see Sid Meier's Civilization VII launch on the ageing Nintendo Switch, but here we are! The latest entry in the 4X series has … [+1162 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google will use machine learning to estimate a user’s age - The Verge",
+      "description": "Google is planning to use machine learning to estimate users’ ages, allowing it to provide “age-appropriate experiences.”",
+      "url": "https://www.theverge.com/news/610512/google-age-estimation-machine-learning",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-12T17:00:00Z",
+      "content": "Google says the technology will help it provide age-appropriate experiences.\r\nGoogle says the technology will help it provide age-appropriate experiences.\r\nGoogle will soon use machine learning to es… [+2360 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Queer-friendly data on car crash deaths removed from NHTSA website - Ars Technica",
+      "description": "Trump targeting car crash data sparks concerns over datasets collected since 1975.",
+      "url": "https://arstechnica.com/tech-policy/2025/02/queer-friendly-data-on-car-crash-deaths-removed-from-nhtsa-website/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/removing-car-crash-victims-1152x648.jpg",
+      "publishedAt": "2025-02-12T16:34:41Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "Kotaku"
       },
-      "author": "Bradley Brownell",
-      "title": "Corvette ZR1 Steals Five Track Records At Iconic American Road Courses - Jalopnik",
-      "description": "VIR, Watkins Glen, Road America, and Road Atlanta all now bow at the altar of Chevrolet's 1,064 HP missile",
-      "url": "https://jalopnik.com/corvette-zr1-steals-five-track-records-at-iconic-americ-1851760398",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b4751acf27b0b5a074fbc64b00c9d1ab.jpg",
-      "publishedAt": "2025-02-11T17:10:00Z",
-      "content": "Theres a new King in America today, baby, and its not the one youre thinking of. The new Chevrolet Corvette isnt pulling any more punches with the new ZR1, proving it can beat the worlds best sports … [+2668 chars]"
+      "author": "Ethan Gach",
+      "title": "Kingdom Come: Deliverance 2 Isn't Afraid To Execute You For You Crimes - Kotaku",
+      "description": "The medieval RPG sim won't put up with your bullshit forever",
+      "url": "https://kotaku.com/kingdom-come-deliverance-2-secret-ending-crime-1851761328",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/62ef21b6124683450d381d47ef4dd209.png",
+      "publishedAt": "2025-02-12T16:10:00Z",
+      "content": "Kingdom Come: Deliverance 2 does not mess around. Go on a murder spree or cause too much wanton chaos and the game will take notice, unlocking one of its most secret and surprising endings in the pro… [+1720 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pinkbike.com"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Pinkbike Originals",
-      "title": "Video: Which Front Tire Is the Copycat-King? Blind Testing With Matt Beer - Pinkbike.com",
-      "description": "Matt Beer looks for one tire to rule them all.",
-      "url": "https://www.pinkbike.com/news/video-which-front-tire-is-the-copycat-king-blind-testing-with-matt-beer.html",
-      "urlToImage": "https://ep1.pinkbike.org/p4pb27772573/p4pb27772573.jpg",
-      "publishedAt": "2025-02-11T17:00:00Z",
-      "content": "The Maxxis Assegai, by our surveys of riders in Whistler, is far-and-away the most popular front tire. Why is that and have other brands, in recent years, managed to not only replicate the performanc… [+1027 chars]"
+      "author": "Brian",
+      "title": "Nintendo patent indicates Switch 2 can be rotated to flip the display, change headphone and USB port positions - Nintendo Everything",
+      "description": "Another potential Nintendo Switch 2 patent is making the rounds, this time suggesting that the system can be turned upside down to change the positions of the headphone and USB ports. With the current Switch, there’s just one way to orient the system and atta…",
+      "url": "https://nintendoeverything.com/nintendo-patent-indicates-switch-2-can-be-rotated-to-flip-the-display-change-headphone-and-usb-port-positions/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-patent-display-flipped.jpg",
+      "publishedAt": "2025-02-12T15:58:04Z",
+      "content": "Another potential Nintendo Switch 2 patent is making the rounds, this time suggesting that the system can be turned upside down to change the positions of the headphone and USB ports.\r\nWith the curre… [+1662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Jeff Perez",
+      "title": "A Fully Loaded Corvette ZR1 Costs Nearly $240,000 - Motor1 ",
+      "description": "If you tick every option box on the ZR1 Convertible configurator, it will cost you nearly $240,000. But that's relatively affordable for a 1,064-horsepower super sports car.",
+      "url": "https://www.motor1.com/news/750492/chevrolet-corvette-zr1-configurator-fully-loaded-price/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/XB614v/s1/2025-chevrolet-corvette-zr1-configurator.jpg",
+      "publishedAt": "2025-02-12T15:42:00Z",
+      "content": "Nobody said the new Corvette ZR1 was going to be cheap. The ZR1 coupe starts at $174,995 with destination, while the hardtop convertible costs $184,995. But those prices are for a base ZR1 before the… [+4080 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Dave Stopera",
+      "title": "28 Things That Caused Unimaginable Pain To Every Single Millennial, The Likes Of Which Kids Today Will Never Experience - BuzzFeed",
+      "description": "I just got chills.",
+      "url": "https://www.buzzfeed.com/daves4/28-things-that-caused-unimaginable-pain-to-every-single",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-02/12/15/enhanced/d62dd0cb4877/original-410-1739374075-2.jpg?crop=1243.5:651;0,178%26downsize=1250:*",
+      "publishedAt": "2025-02-12T15:34:09Z",
+      "content": null
     },
     {
       "source": {
@@ -177,90 +255,12 @@
         "name": "CNET"
       },
       "author": null,
-      "title": "Amazon Just Slashed Google Pixel 9 Phones by Up to $300 in Time for Presidents Day - CNET",
-      "description": "Select Google Pixel 9 phones -- and the Pixel 8a -- can now be had at significant discounts, thanks to these Amazon deals.",
-      "url": "https://www.cnet.com/deals/amazon-slashed-google-pixel-9-phones-by-up-to-300-in-time-for-presidents-day/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b12259468074a9d7ceebbec75224ec85967b0dc8/hub/2025/01/02/73858eba-fb93-40fd-bfaa-d01a20994e93/google-pixel-9.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-11T16:53:00Z",
-      "content": "There's no question that Google makes some of the best Android phones. Its Pixel 9 series devices are on our list of the best phones for 2025. They include support for Google Gemini, a battery life o… [+1852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Noor Al-Sibai",
-      "title": "Study Finds That People Who Entrust Tasks to AI Are Losing Critical Thinking Skills - Futurism",
-      "description": "Trusting AI over the real thing seems, per a new study, to actually be atrophying folks' mental faculties.",
-      "url": "https://futurism.com/study-ai-critical-thinking",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/02/study-ai-critical-thinking.jpg",
-      "publishedAt": "2025-02-11T16:48:21Z",
-      "content": "Trusting artificial intelligence over the real thing seems, per a new study, to be atrophying folks' critical thinking skills.\r\nAs flagged by the folks at 404 Media, new research from Carnegie Mellon… [+2821 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Danielle Abril",
-      "title": "Your employer might be spying on you. Here’s how workers can check. - Yahoo Life",
-      "description": "While President Donald Trump and Elon Musk’s U.S. DOGE Service continues to shake up government, some federal workers are increasingly concerned their work...",
-      "url": "https://washingtonpost.com/technology/2025/02/10/work-surveillance-employee-monitoring-bossware/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lSUz23EVHUMKrJzyHYPIrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/c41dae80-e897-11ef-bfaf-8097b3bfe7ed",
-      "publishedAt": "2025-02-11T16:47:30Z",
-      "content": "While President Donald Trump and Elon Musks U.S. DOGE Service continues to shake up government, some federal workers are increasingly concerned their work communications could be monitored and used a… [+7730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "AI chatbots unable to accurately summarise news, BBC finds - BBC.com",
-      "description": "The BBC's head of news and current affairs says the developers of the tools are \"playing with fire.\"",
-      "url": "https://www.bbc.com/news/articles/c0m17d8827ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d8af/live/70dd9810-e86b-11ef-bd1b-d536627785f2.jpg",
-      "publishedAt": "2025-02-11T16:20:56Z",
-      "content": "Imran Rahman-Jones\r\nFour major artificial intelligence (AI) chatbots are inaccurately summarising news stories, according to research carried out by the BBC.\r\nThe BBC gave OpenAI's ChatGPT, Microsoft… [+3218 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "ULA’s Vulcan rocket still doesn’t have the Space Force’s seal of approval - Ars Technica",
-      "description": "With a Space Force review still ongoing, ULA is removing its next Vulcan rocket from the launch pad.",
-      "url": "https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/54086900800_5a4a678f65_k-1152x648.jpg",
-      "publishedAt": "2025-02-11T15:55:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Investing.com",
-      "title": "Intel stock rises on positive new CPU review - Investing.com",
-      "description": "Intel stock rises on positive new CPU review",
-      "url": "https://www.investing.com/news/stock-market-news/intel-stock-rises-on-positive-new-cpu-review-93CH-3862327",
-      "urlToImage": "https://i-invdn-com.investing.com/news/IntelCorpssmartbuildinginPetahTikvaIsrael_800x533_L_1644739867.jpg",
-      "publishedAt": "2025-02-11T15:46:24Z",
-      "content": "Investing.com -- Shares of Intel Corporation (NASDAQ:INTC) climbed 6% following the release of preliminary benchmarks for its new Arrow Lake-based Core Ultra 9 275HX processor, which showed promising… [+1760 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "Marvel Rivals Reverses Plans to Deliver Mid-Season Rank Reset Following Player Backlash - IGN",
-      "description": "NetEase Games is walking back plans to issue a mid-season rank reset for Marvel Rivals Competitive players less than 24 hours after the move was announced.",
-      "url": "https://www.ign.com/articles/marvel-rivals-reverses-plans-to-deliver-mid-season-rank-reset-following-player-backlash",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/12/05/mr-blogroll-1733427379171.jpg?width=1280",
-      "publishedAt": "2025-02-11T15:46:17Z",
-      "content": "NetEase Games is walking back plans to issue a mid-season rank reset for Marvel Rivals Competitive players less than 24 hours after the move was announced.\r\nThe studio revealed the reversal with a ne… [+3356 chars]"
+      "title": "Apple Reportedly Delays iPhone SE Launch by a Week - CNET",
+      "description": "Vision Pro and M4 MacBook Air announcements are also expected in the coming weeks.",
+      "url": "https://www.cnet.com/tech/mobile/apple-reportedly-delays-iphone-se-launch-by-one-week/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d0c14819518428f49cf7d4ccd48e357c85372557/hub/2024/05/26/7e4811fb-16a1-4c57-996a-4f7c4944b0e8/iphone-se-3rd-gen-commerce-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-12T15:29:00Z",
+      "content": "Apple is reportedly pushing back the launch of the new version of its lower-cost iPhone SE to next week. \r\nThe company originally planned to unveil the device this week via its website, rather than h… [+1597 chars]"
     }
   ]
 }
