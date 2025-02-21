@@ -1,136 +1,214 @@
 {
   "status": "ok",
-  "totalResults": 61,
+  "totalResults": 22,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Kevin Purdy",
-      "title": "Batman: Arkham games among those losing PhysX powers on newer Nvidia GPUs - Ars Technica",
-      "description": "The 32-bit tech on older games can’t bring snazzy effects forward.",
-      "url": "https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/batman1-1152x648.jpg",
-      "publishedAt": "2025-02-18T23:25:45Z",
-      "content": null
+      "author": "Sarah Perez",
+      "title": "Google pulls Gemini from main search app on iOS - TechCrunch",
+      "description": "Google is pulling its Gemini assistant from the main Google app on iOS, in a bid to encourage users to download the dedicated Gemini app.",
+      "url": "https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v1.jpg?resize=1200,675",
+      "publishedAt": "2025-02-19T18:30:18Z",
+      "content": "Google is pulling its AI assistant Gemini from the main Google app for iOS devices. The move is meant to encourage users to download the standalone Gemini app instead, which would allow Google to mor… [+1887 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Matt Wales",
-      "title": "Marvel Rivals team hit by layoffs despite major launch success - Eurogamer",
-      "description": "Free-to-play hero shooter Marvel Rivals has been a huge success for publisher NetEase, smashing through the 20m player …",
-      "url": "https://www.eurogamer.net/marvel-rivals-team-hit-by-layoffs-despite-major-launch-success",
-      "urlToImage": "https://assetsio.gnwcdn.com/Marvel-Rivals-line-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-02-18T21:57:19Z",
-      "content": "Free-to-play hero shooter Marvel Rivals has been a huge success for publisher NetEase, smashing through the 20m player barrier just weeks into its launch and still regularly attracting over 250K dail… [+2405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Huawei’s record-breaking Mate XT tri-fold is officially available worldwide - 9to5Google",
-      "description": "The tri-fold market is officially off to a hot start as Huawei has announced the now globally available Mate XT....",
-      "url": "http://9to5google.com/2025/02/18/huawei-mate-xt-launch-global/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/huawei-mate-xt-tri-fold-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-18T21:32:00Z",
-      "content": "The tri-fold market is officially off to a hot start as Huawei has announced the now globally available Mate XT. Huawei is happy to brag about a few broken records, considering the phone is the first… [+1682 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Microsoft warns that the powerful XCSSET macOS malware is back with new tricks - Ars Technica",
-      "description": "XCSSET has been targeting Mac users since 2020.",
-      "url": "https://arstechnica.com/security/2025/02/microsoft-warns-that-the-powerful-xcsset-macos-malware-is-back-with-new-tricks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-      "publishedAt": "2025-02-18T21:04:55Z",
-      "content": null
+      "author": "Andrew Liszewski",
+      "title": "Murena released a de-Googled version of the Pixel Tablet - The Verge",
+      "description": "The privacy-focused Murena Pixel Tablet is now available for $549 and runs a custom version of Android called /e/OS that minimizes tracking.",
+      "url": "https://www.theverge.com/news/615195/murena-pixel-tablet-android-google-privacy-security",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/murena_pixel_tablet.jpg?quality=90&strip=all&crop=0%2C10.748151159052%2C100%2C78.503697681896&w=1200",
+      "publishedAt": "2025-02-19T17:33:56Z",
+      "content": "The Murena Pixel Tablet doesnt include Googles speaker dock but comes with a steeper $549 price tag.\r\nThe Murena Pixel Tablet doesnt include Googles speaker dock but comes with a steeper $549 price t… [+1790 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Zack Zwiezen",
-      "title": "Xbox CEO Confirms What We Knew: The Console Wars Are Over - Kotaku",
-      "description": "Phil Spencer is no longer trying to get PlayStation or Nintendo fans to switch consoles",
-      "url": "https://kotaku.com/xbox-ceo-phil-spencer-console-wars-over-ps5-switch-era-1851765304",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c8a05b63b79fcacd84d4b1c3d57f7cf6.jpg",
-      "publishedAt": "2025-02-18T20:50:00Z",
-      "content": "In case you didnt notice, the console warsthe decades-long battle between mulitple companies and their plastic game boxesended a few years ago. And while Sony continues to fight on with its PlayStati… [+2508 chars]"
+      "author": "Ethan Gach",
+      "title": "Our First Look At 19 Stunning New Final Fantasy Cards From The Upcoming Magic: The Gathering Set - Kotaku",
+      "description": "Iconic heroes and enemies from Dark Knight Cecil to evil wizard Garland look incredible in trading card form",
+      "url": "https://kotaku.com/mtg-final-fantasy-cloud-sephiroth-cards-art-1851765451",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3a914af16bbf81eb2f0d1a10042efc50.jpg",
+      "publishedAt": "2025-02-19T17:10:00Z",
+      "content": "Wizards of the Coast continues to pull back the curtain on its summer 2025 expansion of Magic: The Gathering which sees the card game cross over with Final Fantasy, and the results continue to look s… [+1924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lithub.com"
+      },
+      "author": "",
+      "title": "Next week, Amazon is stripping away your ability to download your ebooks. - Literary Hub",
+      "description": "Starting next Wednesday, February 26th, Amazon isn’t going to let users download the ebooks they’ve purchased, forcing users to keep everything within the corporation’s proprietary ecosystem.…",
+      "url": "https://lithub.com/next-week-amazon-is-stripping-away-your-ability-to-download-your-ebooks/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2020/07/iStock-amazon-frown.jpg",
+      "publishedAt": "2025-02-19T17:08:53Z",
+      "content": "Starting next Wednesday, February 26th, Amazon isnt going to let users download the ebooks theyve purchased, forcing users to keep everything within the corporation’s proprietary ecosystem.\r\nAs cover… [+2818 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google Chrome is adding a Circle to Search-like feature for iPhones - The Verge",
+      "description": "Google is rolling out new search gestures in the Chrome and Google iOS apps that allow users to highlight anything on their screen to quickly search for it.",
+      "url": "https://www.theverge.com/news/615097/google-lens-gestures-ios-iphone-circle-to-search",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Google-Lens-iOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-02-19T17:00:00Z",
+      "content": "The new Lens feature allows iOS users to search for anything on their screen in Chrome or the Google app by circling it.\r\nThe new Lens feature allows iOS users to search for anything on their screen … [+1854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "404media.co"
+      },
+      "author": "Jason Koebler",
+      "title": "The Humane AI Pin: A $700 Brick of E-Waste - 404 Media",
+      "description": "In Loving Memory of Humane AI Pin (April 2024-Feb 2025).",
+      "url": "https://www.404media.co/the-humane-ai-pin-a-700-brick-of-e-waste/",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/02/CleanShot-2025-02-19-at-08.20.21@2x-2.png",
+      "publishedAt": "2025-02-19T16:36:19Z",
+      "content": "Roughly 10 months after it was released, the Humane AI Pin, a terribly executed and terrible product\r\n is now officially a $700 brick of e-waste after the company sold its software to HP and told its… [+2673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Michael L Hicks",
+      "title": "OnePlus's plan for Wear OS software on the Watch 3 needs discussing - Android Central",
+      "description": "We now know what's different about the OnePlus Watch 3's version of Wear OS, when the OnePlus Watch 2 gets Wear OS 5, and how many updates to expect.",
+      "url": "https://www.androidcentral.com/wearables/oneplus-has-set-interesting-standard-with-wear-os-5-and-oneplus-watch-3",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xrhfyJ4WfQ3V2nya8pUDj-1200-80.jpg",
+      "publishedAt": "2025-02-19T16:12:44Z",
+      "content": "Every Wear OS brand besides Samsung and Google has had such a fraught, confusing history with updates that we had no idea what to expect from OnePlus. Would the OnePlus Watch 3 launch with Wear OS 5,… [+5142 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Chris Reed",
-      "title": "Magic: The Gathering - Final Fantasy Cards Are Up for Preorder at Amazon - IGN",
-      "description": "Everything you need to know to buy Magic: The Gathering's huge Final Fantasy expansion, including what SKUs are available, where you can get them, how much they cost, and more.",
-      "url": "https://www.ign.com/articles/where-to-buy-magic-the-gathering-final-fantasy-cards",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/18/mtg-ff-1739907865589.jpg?width=1280",
-      "publishedAt": "2025-02-18T20:22:45Z",
-      "content": "Heres one for fans of either Final Fantasy or Wizards of the Coast. The latest Magic: The Gathering crossover finds characters from Final Fantasy making their way to the most famous collectible card … [+3780 chars]"
+      "author": "Wesley Yin-Poole",
+      "title": "Microsoft and Hellblade Developer Ninja Theory Built an AI Called Muse Designed to Generate Ideas for a Game's Design — and It’s Already Making 'Complex' Gameplay Sequences - IGN",
+      "description": "Microsoft has announced a new generative AI model called Muse it says can already be used to create complex video game gameplay.",
+      "url": "https://www.ign.com/articles/microsoft-and-hellblade-developer-ninja-theory-built-an-ai-called-muse-designed-to-generate-ideas-for-a-games-design-and-its-already-making-complex-gameplay-sequences",
+      "urlToImage": "https://assets1.ignimgs.com/2020/03/27/be2-1585332683206.png?width=1280",
+      "publishedAt": "2025-02-19T16:03:02Z",
+      "content": "Microsoft has announced a new generative AI model designed for gameplay ideation.\r\nThe company detailed what it calls the first World and Human Action Model (WHAM). The WHAM, Katja Hofmann, Senior Pr… [+4607 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Gematsu"
       },
-      "author": "S.E. Doster",
-      "title": "CoD: Black Ops 6 And Warzone Season 2 Reloaded Adds TMNT Event, Plus Splinter Included In Paid Pass - GameSpot",
-      "description": "The TMNT crossover includes shop bundles for the turtles, but the special event passes add Splinter and Foot Clan soldiers as rewards.",
-      "url": "https://www.gamespot.com/gallery/cod-black-ops-6-and-warzone-season-2-reloaded-adds-tmnt-event-plus-splinter-included-in-paid-pass/2900-6270/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4445864-bo6-s02-reloaded-announcement-0042.jpg",
-      "publishedAt": "2025-02-18T20:17:07Z",
-      "content": null
+      "author": "Sal Romano",
+      "title": "Monster Train 2 announced for PS5, Xbox Series, Switch, and PC - Gematsu",
+      "description": "Publisher Big Fan Games and developer Shiny Shoe have announced roguelike deckbuilder sequel Monster Train 2 for PlayStation 5, Xbox Series, Switch, and PC (Steam). A release date was not announced…",
+      "url": "https://www.gematsu.com/2025/02/monster-train-2-announced-for-ps5-xbox-series-switch-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/02/Monster-Train-2-Ann_02-19-25.jpg",
+      "publishedAt": "2025-02-19T15:02:11Z",
+      "content": "Publisher Big Fan Games and developer Shiny Shoe have announced roguelikedeckbuilder sequel Monster Train 2 for PlayStation 5, Xbox Series, Switch, and PC (Steam). A release date was not announced. A… [+3072 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Forbes"
       },
-      "author": "Alana Hagues",
-      "title": "Hollow Knight: Silksong Has Vanished From US Switch eShop - Nintendo Life",
-      "description": "Update: Restored after a few hours",
-      "url": "https://www.nintendolife.com/news/2025/02/hollow-knight-silksong-briefly-vanishes-from-us-switch-eshop-but-its-back-now",
-      "urlToImage": "https://images.nintendolife.com/e5099d0fa45ef/1280x720.jpg",
-      "publishedAt": "2025-02-18T19:30:00Z",
-      "content": "Image: Team Cherry\r\nUpdate [Tue 18th Feb 2025, 9:44pm]: You can breathe a sigh of relief, folks the Switch eShop page for Silksong is back up on Nintendo's storefront.\r\nWhile the game still doesn't a… [+1988 chars]"
+      "author": "Paul Tassi",
+      "title": "The First Playercount Numbers For The ‘Avowed’ Launch Are In - Forbes",
+      "description": "Here is how Avowed is performing after its first full day of release in the wild, especially compared to other Xbox launches.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/19/the-first-playercount-numbers-for-the-avowed-launch-are-in/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67af573d40e38817dfc4cea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-19T14:45:54Z",
+      "content": "Avowed\r\nObsidian\r\nI remain somewhat confused about the pushback to reporting on playercount numbers, as they often paint very clear pictures of enormous hits (Helldivers 2, Marvel Rivals) or disastro… [+3323 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pinkbike.com"
+        "name": "Wccftech"
       },
-      "author": "Matt Beer",
-      "title": "Spotted: A Specialized Downhill Bike with Two Chains - Pinkbike.com",
-      "description": "We wish a review of this Tauheed K. Epps-inspired DH bike were coming tomorrow.",
-      "url": "https://www.pinkbike.com/news/spotted-specialized-downhill-bike-with-two-chains.html",
-      "urlToImage": "https://ep1.pinkbike.org/p4pb27785200/p4pb27785200.jpg",
-      "publishedAt": "2025-02-18T19:00:00Z",
-      "content": "A reader sent over this photo of what appears to be a prototype Specialized downhill bike with a dual chain drive. The bike was parked up in plain sight by a Specialized Gravity Racing team member.It… [+1594 chars]"
+      "author": "Hassan Mujtaba",
+      "title": "Colorful GeForce RTX 5070 Ti Battle NX 16 GB GPU Review – Enthusiast Performance at $749 - Wccftech",
+      "description": "NVIDIA's GeForce RTX 5070 Ti brings more competitive performance in the enthusiast market with a price point of $749 US.",
+      "url": "https://wccftech.com/review/colorful-geforce-rtx-5070-ti-battle-nx-16-gb-gpu-review-enthusiast-performance-at-749/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/DSC_0485-Custom-1.jpg",
+      "publishedAt": "2025-02-19T14:10:00Z",
+      "content": "Product Info\r\nIt's been two years since NVIDIA introduced its Ada Lovelace GPUs, kicking things off with the RTX 4090 and finishing up the initial lineup with the SUPER family At CES, the company unv… [+4483 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Financial Times"
       },
-      "author": "Barron's",
-      "title": "Apple Could Announce a New iPhone Tomorrow. It May Not Boost the Stock. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/apple-event-iphone-se-32516dc0",
-      "urlToImage": null,
-      "publishedAt": "2025-02-18T18:33:00Z",
-      "content": null
+      "author": "Melissa Heikkilä",
+      "title": "Google builds AI ‘co-scientist’ tool to speed up research - Financial Times",
+      "description": "Lab assistant powered by artificial intelligence can help generate scientific hypotheses",
+      "url": "https://www.ft.com/content/6e53cc55-9031-4ba4-9e7c-e5e9c02b3203",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb1ddf6fa-374a-4516-b221-f08f40e7bdfe.jpg?source=next-barrier-page",
+      "publishedAt": "2025-02-19T14:00:50Z",
+      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Activision's Costly Call of Duty Teenage Mutant Ninja Turtles Crossover Has Some Players Saying Black Ops 6 Should Just Go Free-to-Play at This Point - IGN",
+      "description": "Call of Duty's Teenage Mutant Ninja Turtles crossover looks set to cost up to $90's worth of COD Points in order to obtain all the items — and the community is now saying Activision should just make Black Ops 6 free-to-play at this point.",
+      "url": "https://www.ign.com/articles/activisions-costly-call-of-duty-teenage-mutant-ninja-turtles-crossover-has-some-players-saying-black-ops-6-should-just-go-free-to-play-at-this-point",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/19/turtles-main-1739969524469.jpg?width=1280",
+      "publishedAt": "2025-02-19T12:54:44Z",
+      "content": "Call of Duty's Teenage Mutant Ninja Turtles crossover looks set to cost up to $90's worth of COD Points in order to obtain all the items and the community is now saying Activision should just make Bl… [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "iPhone 17 Pro: Apple Has 'Tested' Wireless Reverse Charging Feature - MacRumors",
+      "description": "Apple has reportedly tested a wireless reverse charging feature for its upcoming iPhone 17 Pro models that would make the iPhone capable of...",
+      "url": "https://www.macrumors.com/2025/02/19/iphone-17-pro-reverse-charging-feature/",
+      "urlToImage": "https://images.macrumors.com/t/pcFFdS4vr2FNj067Dc-tlrKKPl8=/3840x/article-new/2025/02/iphone-17-pro-asherdipps.jpg",
+      "publishedAt": "2025-02-19T11:26:39Z",
+      "content": "Apple has reportedly tested a wireless reverse charging feature for its upcoming iPhone 17 Pro models that would make the iPhone capable of delivering power to other Apple devices, according to the W… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "80.lv"
+      },
+      "author": "Theodore McKenzie",
+      "title": "Marvel Rivals' Recent Layoffs Affected 6 People in NetEase's US Office - 80.lv",
+      "description": "The initial reports about \"significant layoffs\" at NetEase turned out to be significantly exaggerated.",
+      "url": "https://80.lv/articles/marvel-rivals-recent-layoffs-affected-6-people-from-netease-s-us-office/",
+      "urlToImage": "https://cdn.80.lv/api/upload/meta/39842/images/67b5648aae201/contain_1200x630.jpg",
+      "publishedAt": "2025-02-19T08:17:55Z",
+      "content": "Regarding Sasser's role as Rivals' Game Director, in VideoGamer's podcast from November 2024, first spotted by Mark Kern, Sasser himself highlighted the distinction between the Game Director and the … [+1092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Tasks is now its own website - 9to5Google",
+      "description": "In 2023, Google Calendar gained a fullscreen Tasks interface. That experience is now available as a standalone Google Tasks website.",
+      "url": "http://9to5google.com/2025/02/18/google-tasks-website-2/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-tasks-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-18T22:53:00Z",
+      "content": "At the end of 2023, Google Calendar gained a fullscreen Tasks interface on the web. That experience is now available as a standalone Google Tasks website. \r\nPreviously, you could access Tasks on the … [+1041 chars]"
     },
     {
       "source": {
@@ -138,25 +216,12 @@
         "name": "Playhearthstone.com"
       },
       "author": "Blizzard Entertainment",
-      "title": "31.6 Patch Notes - Hearthstone",
-      "description": "Patch 31.6 opens the portal Into the Emerald Dream, Hearthstone’s next expansion!",
-      "url": "https://playhearthstone.com/en-gb/blog/24179332/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/dj/DJPDILIZ1ODV1739424540554.jpg",
+      "title": "Step Into the Emerald Dream, Hearthstone’s Next Expansion - Hearthstone",
+      "description": "Peer through the portal Into the Emerald Dream for your first looks at Hearthstone’s next expansion!",
+      "url": "https://playhearthstone.com/en-us/blog/24179067/",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/j3/J3P6OARR82AA1739316960534.jpg",
       "publishedAt": "2025-02-18T18:25:53Z",
-      "content": "Patch 31.6, launching today, opens the portal to Hearthstones next expansion, Into the Emerald Dream, brings a massive mid-season shakeup to Battlegrounds, and more!\r\nPre-Purchase Into the Emerald Dr… [+21869 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Will Sattelberg",
-      "title": "Google's Pixel 10 series seems right on track for a summer launch - Android Police",
-      "description": "We're seeing model numbers for the first time",
-      "url": "https://www.androidpolice.com/google-pixel-10-gsma-model-numbers/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/pixel-9-pro-water-droplets.jpeg",
-      "publishedAt": "2025-02-18T18:05:00Z",
-      "content": "Summary\r\n<ul><li>\r\n The upcoming Google Pixel 10 series is one step closer to reality, with six model numbers revealed in the GSMA's database.\r\n </li><li>\r\n According to SmartrPrix, the Pixel 10 and … [+3495 chars]"
+      "content": "Into the Emerald Dream\r\nHearthstones Next Expansion\r\nThe Emerald Dream is a realm of ethereal entities and the source of all Nature magic on Azeroth. But Yseras domain is under attack from a creeping… [+4725 chars]"
     },
     {
       "source": {
@@ -174,67 +239,15 @@
     {
       "source": {
         "id": null,
-        "name": "Huntshowdown.com"
+        "name": "Wccftech"
       },
       "author": null,
-      "title": "Developer Insight: Update 2.3 Changes & Priorities - Hunt: Showdown",
-      "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
-      "url": "https://www.huntshowdown.com/news/developer-insight-update-23-changes-priorities",
-      "urlToImage": "https://www.huntshowdown.com/files/news/Blog_1920x1080180225.jpg",
-      "publishedAt": "2025-02-18T17:14:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Victoria Kennedy",
-      "title": "Mystery Tony Hawk remaster now mentioned by pro skater involved in the game, even though Activision hasn't announced it yet - Eurogamer",
-      "description": "A pro skater has let slip that he will appear in a yet-to-be-announced (but heavily rumoured) remastered Tony Hawk video game.",
-      "url": "https://www.eurogamer.net/mystery-tony-hawk-remaster-now-mentioned-by-pro-skater-involved-in-the-game-even-though-activision-hasnt-announced-it-yet",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-from-Tony-Hawk-Pro-Skater-1-%2B-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-02-18T17:01:23Z",
-      "content": "A pro skater has claimed he will appear in a yet-to-be-announced remastered Tony Hawk video game.\r\nProfessional skateboarder Tyshawn Jones was chatting during an interview on the Breakfast Club podca… [+1863 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Tyler Colp",
-      "title": "This co-op RPG is coming for World of Warcraft’s best feature and it’s not even an MMO - Polygon",
-      "description": "Fellowship skips the MMO grind and blends World of Warcraft dungeons with MOBA heroes into an impressive co-op RPG",
-      "url": "https://www.polygon.com/impressions/524387/fellowship-co-op-rpg-mmo-dungeon-preview",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/FEL_Pre-SteamNextFestGameplay_Screenshot_Loot_02.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-18T17:00:00Z",
-      "content": "MMOs are one of the few genres of game where you have to do homework before you get to the good stuff. The best gear and the best dungeons are dangled in front of you for dozens of hours as you quest… [+5925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "AMD Radeon RX 9070 reviews coming March 5, the day RTX 5070 launches - VideoCardz.com",
-      "description": "Radeon RX 9070 reviews planned on March 5 AMD has just distributed NDA materials to members of the press. The documents confirm two important dates. On February 28, as already announced, AMD will disclose the first details of the RDNA4 architecture. AMD has i…",
-      "url": "https://videocardz.com/newz/amd-radeon-rx-9070-reviews-coming-march-5-the-day-rtx-5070-launches",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/02/RADEON-RX-9000-HERO.jpg",
-      "publishedAt": "2025-02-18T16:39:00Z",
-      "content": "AMD has just distributed NDA materials to members of the press. The documents confirm two important dates.\r\nOn February 28, as already announced, AMD will disclose the first details of the RDNA4 arch… [+1668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Dylan Berman",
-      "title": "What's Going On With Micron Shares Tuesday? - Benzinga",
-      "description": "Micron stock is trading higher on Tuesday after the company announced the Micron 4600 PCIe Gen5 NVMe SSD.",
-      "url": "https://www.benzinga.com/25/02/43788516/whats-going-on-with-micron-shares-thursday",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/02/18/Micron-Technology-Inc-.jpeg?width=1200&height=800&fit=crop",
-      "publishedAt": "2025-02-18T16:18:16Z",
-      "content": "Micron Technology, Inc.MU stock is trading higher on Tuesday after the company announced its 4600 PCIe Gen5 NVMe Solid State Drive (SSD), designed to deliver performance and user experience for gamer… [+1033 chars]"
+      "title": "The LG C3 65-Inch 4K OLED Smart TV Once Again Goes Down To Its ‘Holiday Sale’ Price With A Crazy $303 Off On Amazon, Experience An Immersion Like No Other At A 20 Percent Discount - Wccftech",
+      "description": "A 20 percent discount has once again been applied to the LG C3 65-inch 4K OLED smart TV, resulting in a $303 price cut on Amazon",
+      "url": "https://wccftech.com/lg-c3-65-inch-4k-oled-smart-tv-returns-to-its-attractive-303-off-on-amazon/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/LG-C3-65-inch-4K-OLED-smart-TV.jpg",
+      "publishedAt": "2025-02-18T17:18:00Z",
+      "content": "An OLED TV upgrade is leaps and bounds better than any other display technology, with the picture quality offering rich colors and deeper blacks to deliver that crisp accuracy. The ultra-fast respons… [+1731 chars]"
     }
   ]
 }
