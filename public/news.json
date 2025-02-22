@@ -1,175 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 22,
+  "totalResults": 17,
   "articles": [
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sarah Perez",
-      "title": "Google pulls Gemini from main search app on iOS - TechCrunch",
-      "description": "Google is pulling its Gemini assistant from the main Google app on iOS, in a bid to encourage users to download the dedicated Gemini app.",
-      "url": "https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v1.jpg?resize=1200,675",
-      "publishedAt": "2025-02-19T18:30:18Z",
-      "content": "Google is pulling its AI assistant Gemini from the main Google app for iOS devices. The move is meant to encourage users to download the standalone Gemini app instead, which would allow Google to mor… [+1887 chars]"
+      "author": "Zack Whittaker",
+      "title": "Exclusive: Stalkerware apps Cocospy and Spyic are exposing phone data of millions of people - TechCrunch",
+      "description": "A bug in the Android and iPhone monitoring operations allows anyone to access private data exfiltrated from a victim's device.",
+      "url": "https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/stalkerware-eyes-spyware-letmespy.jpg?resize=1200,800",
+      "publishedAt": "2025-02-20T20:05:00Z",
+      "content": "A security vulnerability in a pair of phone-monitoring apps is exposing the personal data of millions of people who have the apps unwittingly installed on their devices, according to a security resea… [+8245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Liam Archacki",
+      "title": "Elon Musk Hits Astronaut With Shocking Slur After Being Slammed Over ‘Lie’ - The Daily Beast",
+      "description": "European astronaut Andreas Mogensen took the high ground in his response.",
+      "url": "https://www.thedailybeast.com/elon-musk-calls-astronaut-andreas-morgensen-fully-retarded-after-being-slammed-over-lie/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/OQWTUYLTG5CZLG2MXFRFYMUKCM.png?smart=true&auth=a044cca04dc41b5a14eb1fd814091d9663b3525d350970092599071af856dd79&width=1200&height=630",
+      "publishedAt": "2025-02-20T19:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "Elon Musk recommends that the International Space Station be deorbited ASAP - Ars Technica",
+      "description": "“There is very little incremental utility. Let’s go to Mars.”…",
+      "url": "https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iss056e201248large-1152x648.jpg",
+      "publishedAt": "2025-02-20T19:10:29Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Andrew Liszewski",
-      "title": "Murena released a de-Googled version of the Pixel Tablet - The Verge",
-      "description": "The privacy-focused Murena Pixel Tablet is now available for $549 and runs a custom version of Android called /e/OS that minimizes tracking.",
-      "url": "https://www.theverge.com/news/615195/murena-pixel-tablet-android-google-privacy-security",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/murena_pixel_tablet.jpg?quality=90&strip=all&crop=0%2C10.748151159052%2C100%2C78.503697681896&w=1200",
-      "publishedAt": "2025-02-19T17:33:56Z",
-      "content": "The Murena Pixel Tablet doesnt include Googles speaker dock but comes with a steeper $549 price tag.\r\nThe Murena Pixel Tablet doesnt include Googles speaker dock but comes with a steeper $549 price t… [+1790 chars]"
+      "author": "Jay Peters",
+      "title": "Apple is bringing Visual Intelligence to the iPhone 15 Pro - The Verge",
+      "description": "The iPhone 15 Pro will get Visual Intelligence in a future software update, Apple representatives told John Gruber of Daring Fireball.",
+      "url": "https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/videoframe_3330946.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-02-20T18:22:29Z",
+      "content": "The feature will be available on the iPhone 16E via its Action Button, and thats how it will work with the iPhone 15 Pro, too.\r\nThe feature will be available on the iPhone 16E via its Action Button, … [+1263 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "In India, Apple’s iPhone 16e faces stiff competition from older models - TechCrunch",
+      "description": "Apple has brought the iPhone 16e to offer a more affordable option within the iPhone 16 lineup, targeting emerging markets including India.",
+      "url": "https://techcrunch.com/2025/02/20/in-india-apples-iphone-16e-faces-stiff-competition-from-older-models/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-16e.jpg?resize=1200,800",
+      "publishedAt": "2025-02-20T18:20:17Z",
+      "content": "On Wednesday, Apple unveiled the iPhone 16e. The model replaces both the iPhone SE and iPhone 14 in the company’s lineup. The new handset is the least expensive member of the iPhone 16 lineup, aiming… [+4433 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "author": "Ethan Gach",
-      "title": "Our First Look At 19 Stunning New Final Fantasy Cards From The Upcoming Magic: The Gathering Set - Kotaku",
-      "description": "Iconic heroes and enemies from Dark Knight Cecil to evil wizard Garland look incredible in trading card form",
-      "url": "https://kotaku.com/mtg-final-fantasy-cloud-sephiroth-cards-art-1851765451",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3a914af16bbf81eb2f0d1a10042efc50.jpg",
-      "publishedAt": "2025-02-19T17:10:00Z",
-      "content": "Wizards of the Coast continues to pull back the curtain on its summer 2025 expansion of Magic: The Gathering which sees the card game cross over with Final Fantasy, and the results continue to look s… [+1924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lithub.com"
-      },
-      "author": "",
-      "title": "Next week, Amazon is stripping away your ability to download your ebooks. - Literary Hub",
-      "description": "Starting next Wednesday, February 26th, Amazon isn’t going to let users download the ebooks they’ve purchased, forcing users to keep everything within the corporation’s proprietary ecosystem.…",
-      "url": "https://lithub.com/next-week-amazon-is-stripping-away-your-ability-to-download-your-ebooks/",
-      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2020/07/iStock-amazon-frown.jpg",
-      "publishedAt": "2025-02-19T17:08:53Z",
-      "content": "Starting next Wednesday, February 26th, Amazon isnt going to let users download the ebooks theyve purchased, forcing users to keep everything within the corporation’s proprietary ecosystem.\r\nAs cover… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Google Chrome is adding a Circle to Search-like feature for iPhones - The Verge",
-      "description": "Google is rolling out new search gestures in the Chrome and Google iOS apps that allow users to highlight anything on their screen to quickly search for it.",
-      "url": "https://www.theverge.com/news/615097/google-lens-gestures-ios-iphone-circle-to-search",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Google-Lens-iOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-02-19T17:00:00Z",
-      "content": "The new Lens feature allows iOS users to search for anything on their screen in Chrome or the Google app by circling it.\r\nThe new Lens feature allows iOS users to search for anything on their screen … [+1854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Jason Koebler",
-      "title": "The Humane AI Pin: A $700 Brick of E-Waste - 404 Media",
-      "description": "In Loving Memory of Humane AI Pin (April 2024-Feb 2025).",
-      "url": "https://www.404media.co/the-humane-ai-pin-a-700-brick-of-e-waste/",
-      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/02/CleanShot-2025-02-19-at-08.20.21@2x-2.png",
-      "publishedAt": "2025-02-19T16:36:19Z",
-      "content": "Roughly 10 months after it was released, the Humane AI Pin, a terribly executed and terrible product\r\n is now officially a $700 brick of e-waste after the company sold its software to HP and told its… [+2673 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Michael L Hicks",
-      "title": "OnePlus's plan for Wear OS software on the Watch 3 needs discussing - Android Central",
-      "description": "We now know what's different about the OnePlus Watch 3's version of Wear OS, when the OnePlus Watch 2 gets Wear OS 5, and how many updates to expect.",
-      "url": "https://www.androidcentral.com/wearables/oneplus-has-set-interesting-standard-with-wear-os-5-and-oneplus-watch-3",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xrhfyJ4WfQ3V2nya8pUDj-1200-80.jpg",
-      "publishedAt": "2025-02-19T16:12:44Z",
-      "content": "Every Wear OS brand besides Samsung and Google has had such a fraught, confusing history with updates that we had no idea what to expect from OnePlus. Would the OnePlus Watch 3 launch with Wear OS 5,… [+5142 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Microsoft and Hellblade Developer Ninja Theory Built an AI Called Muse Designed to Generate Ideas for a Game's Design — and It’s Already Making 'Complex' Gameplay Sequences - IGN",
-      "description": "Microsoft has announced a new generative AI model called Muse it says can already be used to create complex video game gameplay.",
-      "url": "https://www.ign.com/articles/microsoft-and-hellblade-developer-ninja-theory-built-an-ai-called-muse-designed-to-generate-ideas-for-a-games-design-and-its-already-making-complex-gameplay-sequences",
-      "urlToImage": "https://assets1.ignimgs.com/2020/03/27/be2-1585332683206.png?width=1280",
-      "publishedAt": "2025-02-19T16:03:02Z",
-      "content": "Microsoft has announced a new generative AI model designed for gameplay ideation.\r\nThe company detailed what it calls the first World and Human Action Model (WHAM). The WHAM, Katja Hofmann, Senior Pr… [+4607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Monster Train 2 announced for PS5, Xbox Series, Switch, and PC - Gematsu",
-      "description": "Publisher Big Fan Games and developer Shiny Shoe have announced roguelike deckbuilder sequel Monster Train 2 for PlayStation 5, Xbox Series, Switch, and PC (Steam). A release date was not announced…",
-      "url": "https://www.gematsu.com/2025/02/monster-train-2-announced-for-ps5-xbox-series-switch-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/02/Monster-Train-2-Ann_02-19-25.jpg",
-      "publishedAt": "2025-02-19T15:02:11Z",
-      "content": "Publisher Big Fan Games and developer Shiny Shoe have announced roguelikedeckbuilder sequel Monster Train 2 for PlayStation 5, Xbox Series, Switch, and PC (Steam). A release date was not announced. A… [+3072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "The First Playercount Numbers For The ‘Avowed’ Launch Are In - Forbes",
-      "description": "Here is how Avowed is performing after its first full day of release in the wild, especially compared to other Xbox launches.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/02/19/the-first-playercount-numbers-for-the-avowed-launch-are-in/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67af573d40e38817dfc4cea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-19T14:45:54Z",
-      "content": "Avowed\r\nObsidian\r\nI remain somewhat confused about the pushback to reporting on playercount numbers, as they often paint very clear pictures of enormous hits (Helldivers 2, Marvel Rivals) or disastro… [+3323 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Hassan Mujtaba",
-      "title": "Colorful GeForce RTX 5070 Ti Battle NX 16 GB GPU Review – Enthusiast Performance at $749 - Wccftech",
-      "description": "NVIDIA's GeForce RTX 5070 Ti brings more competitive performance in the enthusiast market with a price point of $749 US.",
-      "url": "https://wccftech.com/review/colorful-geforce-rtx-5070-ti-battle-nx-16-gb-gpu-review-enthusiast-performance-at-749/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/DSC_0485-Custom-1.jpg",
-      "publishedAt": "2025-02-19T14:10:00Z",
-      "content": "Product Info\r\nIt's been two years since NVIDIA introduced its Ada Lovelace GPUs, kicking things off with the RTX 4090 and finishing up the initial lineup with the SUPER family At CES, the company unv… [+4483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": "Melissa Heikkilä",
-      "title": "Google builds AI ‘co-scientist’ tool to speed up research - Financial Times",
-      "description": "Lab assistant powered by artificial intelligence can help generate scientific hypotheses",
-      "url": "https://www.ft.com/content/6e53cc55-9031-4ba4-9e7c-e5e9c02b3203",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb1ddf6fa-374a-4516-b221-f08f40e7bdfe.jpg?source=next-barrier-page",
-      "publishedAt": "2025-02-19T14:00:50Z",
-      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Activision's Costly Call of Duty Teenage Mutant Ninja Turtles Crossover Has Some Players Saying Black Ops 6 Should Just Go Free-to-Play at This Point - IGN",
-      "description": "Call of Duty's Teenage Mutant Ninja Turtles crossover looks set to cost up to $90's worth of COD Points in order to obtain all the items — and the community is now saying Activision should just make Black Ops 6 free-to-play at this point.",
-      "url": "https://www.ign.com/articles/activisions-costly-call-of-duty-teenage-mutant-ninja-turtles-crossover-has-some-players-saying-black-ops-6-should-just-go-free-to-play-at-this-point",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/19/turtles-main-1739969524469.jpg?width=1280",
-      "publishedAt": "2025-02-19T12:54:44Z",
-      "content": "Call of Duty's Teenage Mutant Ninja Turtles crossover looks set to cost up to $90's worth of COD Points in order to obtain all the items and the community is now saying Activision should just make Bl… [+4499 chars]"
+      "author": "Joe Rossignol",
+      "title": "iPhone 17 Air's Battery Life Looks Promising Based on iPhone 16e - MacRumors",
+      "description": "The new iPhone 16e has the longest battery life of any 6.1-inch iPhone. According to Apple's tech specs, the iPhone 16e offers up to 26 hours of...",
+      "url": "https://www.macrumors.com/2025/02/20/iphone-17-air-battery-life-promising/",
+      "urlToImage": "https://images.macrumors.com/t/PPwsr2FetZRo5Uz5NqxYJfxK28g=/2500x/article-new/2025/02/iPhone-17-Air-Fanned-Feature.jpg",
+      "publishedAt": "2025-02-20T17:00:00Z",
+      "content": "The new iPhone 16e has the longest battery life of any 6.1-inch iPhone. According to Apple's tech specs, the iPhone 16e offers up to 26 hours of battery life for video playback, compared to up to 22 … [+1167 chars]"
     },
     {
       "source": {
@@ -177,77 +86,116 @@
         "name": "MacRumors"
       },
       "author": "Tim Hardwick",
-      "title": "iPhone 17 Pro: Apple Has 'Tested' Wireless Reverse Charging Feature - MacRumors",
-      "description": "Apple has reportedly tested a wireless reverse charging feature for its upcoming iPhone 17 Pro models that would make the iPhone capable of...",
-      "url": "https://www.macrumors.com/2025/02/19/iphone-17-pro-reverse-charging-feature/",
-      "urlToImage": "https://images.macrumors.com/t/pcFFdS4vr2FNj067Dc-tlrKKPl8=/3840x/article-new/2025/02/iphone-17-pro-asherdipps.jpg",
-      "publishedAt": "2025-02-19T11:26:39Z",
-      "content": "Apple has reportedly tested a wireless reverse charging feature for its upcoming iPhone 17 Pro models that would make the iPhone capable of delivering power to other Apple devices, according to the W… [+1816 chars]"
+      "title": "Kuo: All iPhone 17 Models Will Feature Apple-Designed Wi-Fi Chip to 'Enhance Connectivity' - MacRumors",
+      "description": "Apple will use its own custom-designed Wi-Fi chip in all upcoming iPhone 17 models, according to industry analyst Ming-Chi Kuo.    Writing in a post...",
+      "url": "https://www.macrumors.com/2025/02/20/kuo-iphone-17-models-apple-designed-wi-fi-7-chip/",
+      "urlToImage": "https://images.macrumors.com/t/PHmrF71wNFO8_dXNGwVWu8fj5-Q=/2500x/article-new/2023/01/Apple-Wi-Fi-Chip-Feature-Triad.jpg",
+      "publishedAt": "2025-02-20T16:11:33Z",
+      "content": "Apple will use its own custom-designed Wi-Fi chip in all upcoming iPhone 17 models, according to industry analyst Ming-Chi Kuo.\r\nWriting in a post on X (Twitter), Kuo said the switch to in-house Wi-F… [+1782 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "80.lv"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Theodore McKenzie",
-      "title": "Marvel Rivals' Recent Layoffs Affected 6 People in NetEase's US Office - 80.lv",
-      "description": "The initial reports about \"significant layoffs\" at NetEase turned out to be significantly exaggerated.",
-      "url": "https://80.lv/articles/marvel-rivals-recent-layoffs-affected-6-people-from-netease-s-us-office/",
-      "urlToImage": "https://cdn.80.lv/api/upload/meta/39842/images/67b5648aae201/contain_1200x630.jpg",
-      "publishedAt": "2025-02-19T08:17:55Z",
-      "content": "Regarding Sasser's role as Rivals' Game Director, in VideoGamer's podcast from November 2024, first spotted by Mark Kern, Sasser himself highlighted the distinction between the Game Director and the … [+1092 chars]"
+      "author": "Rebecca Szkutak",
+      "title": "Arize AI hopes it has first-mover advantage in AI observability - TechCrunch",
+      "description": "Arize helps companies test and evaluate AI products as they are building them and observe them for errors once they are live.",
+      "url": "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Arize-founders.png?w=700",
+      "publishedAt": "2025-02-20T16:00:00Z",
+      "content": "There are numerous observability platforms that monitor and evaluate cloud software, like Dynatrace and ServiceNow, which flag potential code errors or failures so engineers can find and fix them. Ar… [+3970 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Abner Li",
-      "title": "Google Tasks is now its own website - 9to5Google",
-      "description": "In 2023, Google Calendar gained a fullscreen Tasks interface. That experience is now available as a standalone Google Tasks website.",
-      "url": "http://9to5google.com/2025/02/18/google-tasks-website-2/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-tasks-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-18T22:53:00Z",
-      "content": "At the end of 2023, Google Calendar gained a fullscreen Tasks interface on the web. That experience is now available as a standalone Google Tasks website. \r\nPreviously, you could access Tasks on the … [+1041 chars]"
+      "author": "Ben Schoon",
+      "title": "Amazon Appstore for Android is shutting down in August - 9to5Google",
+      "description": "Amazon has announced that it will shut down the Amazon Appstore for Android devices later this year. The Amazon Appstore...",
+      "url": "http://9to5google.com/2025/02/20/amazon-appstore-android-shutting-down-2025/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/Amazon-Appstore-for-Windows-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-20T15:38:00Z",
+      "content": "Amazon has announced that it will shut down the Amazon Appstore for Android devices later this year.\r\nThe Amazon Appstore has existed as an alternative to the Google Play Store on Android for years n… [+1738 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Playhearthstone.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Blizzard Entertainment",
-      "title": "Step Into the Emerald Dream, Hearthstone’s Next Expansion - Hearthstone",
-      "description": "Peer through the portal Into the Emerald Dream for your first looks at Hearthstone’s next expansion!",
-      "url": "https://playhearthstone.com/en-us/blog/24179067/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/j3/J3P6OARR82AA1739316960534.jpg",
-      "publishedAt": "2025-02-18T18:25:53Z",
-      "content": "Into the Emerald Dream\r\nHearthstones Next Expansion\r\nThe Emerald Dream is a realm of ethereal entities and the source of all Nature magic on Azeroth. But Yseras domain is under attack from a creeping… [+4725 chars]"
+      "author": "Kyle Barr",
+      "title": "Nvidia’s Big Plan to Beat Back RTX 5090 Scalpers Is the Same as Everybody Else’s - Gizmodo",
+      "description": "Nvidia’s ‘priority access’ raffle may help you get a Nvidia GeForce RTX 5090 or 5080 FE at the base price.",
+      "url": "https://gizmodo.com/nvidias-big-plan-to-beat-back-rtx-5090-scalpers-is-the-same-as-everybody-else-2000566114",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/nVidia-GeForce-5080-06-e1740060949144.jpg",
+      "publishedAt": "2025-02-20T14:43:13Z",
+      "content": "The markup on Nvidia’s $2,000 GeForce RTX 5090 and $1,000 RTX 5080 GPUs has reached new heights. Cards fly off store shelves as soon as they’re posted online, and then they end up on eBay and other r… [+3008 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Lance Whitney",
-      "title": "Windows 11 update breaks File Explorer - among other glitches - ZDNet",
-      "description": "Microsoft's latest Patch Tuesday fixed several bugs but triggered several problems. Some users are struggling just to install the security update.",
-      "url": "https://www.zdnet.com/article/windows-11-update-breaks-file-explorer-among-other-glitches/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8778070c1c5191ea3a3c9b8327decc0fcb39833f/2025/02/18/36b31e6c-b8f9-47a7-b192-59e1f08c97d4/windows-11-start-menu-and-file-explorer.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-18T17:48:00Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nMicrosoft keeps running into brick walls with the 2024 version of Windows 11. Each new update designed to fix the outstanding bugs ends up introducing other problem… [+3725 chars]"
+      "author": "Alice Jovanée",
+      "title": "Where to buy the Nvidia RTX 5070 Ti - Polygon",
+      "description": "Nvidia’s RTX 5070 Ti features 16 GB of GDDR7 memory and is compatible with DLSS 4. Here’s where you can try to buy the new Blackwell GPU.",
+      "url": "https://www.polygon.com/deals/526035/nvidia-rtx-5070-ti-graphics-card-gpu-where-to-buy",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/1400x1050nvidia-rtx-5070-ti-ozellikleri-ortaya-cikti-neler-bekleniyor.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-02-20T14:00:00Z",
+      "content": "The Nvidia RTX 5070 Ti is the most affordable (and available) entry point to Nvidias Blackwell series of graphics cards, at least until the standard RTX 5070 arrives on March 5. The 5070 Ti delivers … [+855 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Microsoft's generative AI model Muse isn't creating games - and it's certainly not going to solve game preservation, expert says - Eurogamer",
+      "description": "Last night, Microsoft trumpeted the announcement of Muse, a new \"generative AI breakthrough\" designed to aid \"gameplay …",
+      "url": "https://www.eurogamer.net/microsofts-generative-ai-model-muse-isnt-creating-games-and-its-certainly-not-going-to-solve-game-preservation-expert-says",
+      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-2_Zy1Ynf6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-02-20T12:50:04Z",
+      "content": "Last night, Microsoft trumpeted the announcement of Muse, a new \"generative AI breakthrough\" designed to aid \"gameplay ideation\".\r\nThe company also published some grainy-looking gifs of AI-generated … [+7018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Oppo Find N5 launches as the world's thinnest foldable, and it puts Samsung to shame [Gallery] - 9to5Google",
+      "description": "There’s a new leader in foldables, as Oppo is today launching the Find N5 with recording-breaking hardware that we’ve had...",
+      "url": "http://9to5google.com/2025/02/20/oppo-find-n5-launches-as-the-worlds-thinnest-foldable-and-it-puts-samsung-to-shame-gallery/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/oppo-find-n5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-02-20T12:00:00Z",
+      "content": "There’s a new leader in foldables, as Oppo is today launching the Find N5 with recording-breaking hardware that we’ve had some time to test out.\r\nCutting to the chase, the Oppo Find N5 is the world’s… [+3523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Oppo.com"
       },
       "author": null,
-      "title": "The LG C3 65-Inch 4K OLED Smart TV Once Again Goes Down To Its ‘Holiday Sale’ Price With A Crazy $303 Off On Amazon, Experience An Immersion Like No Other At A 20 Percent Discount - Wccftech",
-      "description": "A 20 percent discount has once again been applied to the LG C3 65-inch 4K OLED smart TV, resulting in a $303 price cut on Amazon",
-      "url": "https://wccftech.com/lg-c3-65-inch-4k-oled-smart-tv-returns-to-its-attractive-303-off-on-amazon/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/LG-C3-65-inch-4K-OLED-smart-TV.jpg",
-      "publishedAt": "2025-02-18T17:18:00Z",
-      "content": "An OLED TV upgrade is leaps and bounds better than any other display technology, with the picture quality offering rich colors and deeper blacks to deliver that crisp accuracy. The ultra-fast respons… [+1731 chars]"
+      "title": "OPPO Watch X2 - OPPO",
+      "description": "Powered by precision and OPPO Silicon-carbon Battery, OPPO Watch X2 smartwatch offers 360° health check in 60s and ultra drive sustain battery capacity.",
+      "url": "https://www.oppo.com/en/accessories/watch-x2/",
+      "urlToImage": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-watch-x2/list-page/blue-427-600.png",
+      "publishedAt": "2025-02-20T11:54:38Z",
+      "content": "Remarks1. In daily life, there are still substances such as sand and dust whose hardness are close to that of the screen. It is not completely scratch-proof. It is recommended to avoid severe impacts… [+8234 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "“Truly a middle finger”: Humane bricking $700 AI Pins with limited refunds - Ars Technica",
+      "description": "Humane’s showing how not to treat early adopters.",
+      "url": "https://arstechnica.com/gadgets/2025/02/truly-a-middle-finger-humane-bricking-700-ai-pins-with-limited-refunds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/14-1152x648.jpg",
+      "publishedAt": "2025-02-19T18:48:38Z",
+      "content": null
     }
   ]
 }
