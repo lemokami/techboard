@@ -1,227 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 30,
   "articles": [
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Ryan Whitwam",
-      "title": "Google’s free Gemini Code Assist arrives with sky-high usage limits - Ars Technica",
-      "description": "Gemini Code Assist lets you do 90 times more than competing tools.",
-      "url": "https://arstechnica.com/ai/2025/02/googles-free-gemini-code-assist-arrives-with-sky-high-usage-limits/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/Gemini-Code-Assist_v4_1.width-2200.format-webp-copy-1152x648-1740515334.jpg",
-      "publishedAt": "2025-02-25T21:23:10Z",
+      "author": "Kyle Orland",
+      "title": "Fresh leaks suggest Half-Life 3 development may be nearing completion - Ars Technica",
+      "description": "Datamined engine updates suggest long-awaited sequel is in “polish and optimization” phase.",
+      "url": "https://arstechnica.com/gaming/2025/02/fresh-leaks-suggest-half-life-3-development-may-be-nearing-completion/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
+      "publishedAt": "2025-02-26T23:06:27Z",
       "content": null
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Jackie Wattles",
-      "title": "This asteroid-hunting company could make history with its first deep-space mission. The CEO is ‘terrified’ - CNN",
-      "description": "No company has ever achieved what asteroid mining startup AstroForge is about to set out to do. Success is anything but guaranteed.",
-      "url": "https://www.cnn.com/2025/02/25/science/astroforge-asteroid-mining-spacex-launch/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/odin-solar-testing.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-02-25T19:22:00Z",
-      "content": "His venture may seem far out, but asteroid mining CEO Matt Gialich has no illusions. The engineer cofounded the bold California startup AstroForge in 2022 with the aim of hunting for precious metals … [+8941 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "The Framework Laptop 13 has just been upgraded to AMD’s Strix Point - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/news/618769/framework-laptop-13-2025-amd-ryzen-ai-300-strix-point",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/framework-13-laptop-amd-2025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-02-25T19:10:51Z",
-      "content": "Framework has done it again its built a new AMD-powered modular computer that fits into any previous version of its 13-inch laptop for $449, or that you can buy as a brand-new laptop starting at $899… [+2597 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Warner Bros. Shuts Three Video-Game Studios in Restructuring - Bloomberg",
-      "description": "Warner Bros. Discovery Inc. is closing three video-game studios and halting work on a highly anticipated Wonder Woman title in a bid to boost the profitability of its interactive entertainment business.",
-      "url": "https://www.bloomberg.com/news/articles/2025-02-25/warner-bros-shuts-three-video-game-studios-in-restructuring",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCFl99ELNEII/v0/1200x800.jpg",
-      "publishedAt": "2025-02-25T19:07:53Z",
-      "content": "Warner Bros. Discovery Inc. is closing three video-game studios and halting work on a highly anticipated Wonder Woman title in a bid to boost the profitability of its interactive entertainment busine… [+153 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ian Walker",
-      "title": "Tony Hawk’s Pro Skater 3 and 4 all but confirmed by Singaporean video game rating board - Polygon",
-      "description": "Activision is expected to unveil Tony Hawk’s Pro Skater 3 and 4 remakes on March 4, but a Singapore ratings association spoiled the surprise.",
-      "url": "https://www.polygon.com/news/529141/tony-hawks-pro-skater-3-4-remaster-activision-iron-galaxy-leak",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/thps-12-tyshawnjones.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-25T18:45:00Z",
-      "content": "Tony Hawks Pro Skater 3 and 4 is currently the worst-kept secret in video games at the moment. While the remakes havent been officially confirmed, a government entity beat Activision to the punch.\r\nI… [+1740 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft makes Copilot Voice and Think Deeper free with unlimited use - The Verge",
-      "description": "Microsoft is making OpenAI’s o1 reasoning model free with unlimited use in Copilot. It’s also providing unlimited voice use to all Copilot users.",
-      "url": "https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Slide-16x9-full-design.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-02-25T17:53:48Z",
-      "content": "You wont hit any limits using OpenAIs o1 reasoning model inside Copilot anymore.\r\nYou wont hit any limits using OpenAIs o1 reasoning model inside Copilot anymore.\r\nMicrosoft made OpenAIs o1 reasoning… [+1313 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "What to expect from Amazon’s Alexa event on Wednesday - TechCrunch",
-      "description": "Amazon is hosting an Alexa-focused press event in NYC on Wednesday. Considering the company hasn't held a major device presser in nearly two years — the",
-      "url": "https://techcrunch.com/2025/02/25/what-to-expect-from-amazons-alexa-event-on-wednesday/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/feature005-amazon-echo-spot-echo-spot-music-copy-2550x1434-1.jpeg?resize=1200,675",
-      "publishedAt": "2025-02-25T17:41:54Z",
-      "content": "Amazon is hosting an Alexa-focused press event in NYC on Wednesday. Considering the company hasn’t held a major device presser in nearly two years the last one was in September 2023 we’re expecting s… [+2885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Alex Alderson",
-      "title": "Asus releases new ROG Zephyrus G14 and ROG Zephyrus G16 gaming laptops globally - Notebookcheck.net",
-      "description": "Asus has now released new ROG Zephyrus G14 and ROG Zephyrus G16 gaming laptops after unveiling the pair last month at CES 2025. Launching globally, the pair combine Nvidia GeForce RTX 50 series GPUs with a choice of AMD or Intel processors.",
-      "url": "https://www.notebookcheck.net/Asus-releases-new-ROG-Zephyrus-G14-and-ROG-Zephyrus-G16-gaming-laptops-globally.967575.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/asus-rog-zephyrus-g14-and-g16-pre-orders-opened-header.jpg",
-      "publishedAt": "2025-02-25T17:19:00Z",
-      "content": "Asus has now started taking pre-orders for the latest versions of its ROG Zephyrus G14 and ROG Zephyrus G16 laptops, which replace GA403 and GU605 (curr. $1,848 on Amazon) variants, respectively. To … [+1056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Monster Hunter: Wilds Tech Analysis Has Us Concerned About A Switch 2 Port - Nintendo Life",
-      "description": "But we still want one",
-      "url": "https://www.nintendolife.com/news/2025/02/monster-hunter-wilds-tech-analysis-has-us-concerned-about-a-switch-2-port",
-      "urlToImage": "https://images.nintendolife.com/34bde98f63744/1280x720.jpg",
-      "publishedAt": "2025-02-25T17:15:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube797k\r\nWith Capcom's Monster Hunter: Wilds launching later this week, Digital Foundry has completed its usual tech wizardry and analysed the performance for the se… [+2198 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Ryan McCaffrey",
-      "title": "Edge of Memories, a New JRPG, Announced for PC, PS5, and Xbox - IGN",
-      "description": "Introducing Edge of Memories, a new JRPG for PC, PS5, and Xbox from Nacon and developer Midgar Studio that's being worked on by decorated team, including Chrono Trigger composer Yasunori Mitsda, NieR lyricist Emi Evans, Xenoblade Chronicles character designer…",
-      "url": "https://www.ign.com/articles/edge-of-memories-a-new-jrpg-announced-for-pc-ps5-and-xbox",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/24/edgeofmemories-blogroll-1740433490199.jpg?width=1280",
-      "publishedAt": "2025-02-25T17:02:23Z",
-      "content": "Introducing Edge of Memories, a new JRPG for PC, PS5, and Xbox from Nacon and developer Midgar Studio. It's the sequel to 2021's Edge of Eternity. It's being worked on by decorated team, including Ch… [+997 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Clicks’ BlackBerry-style keyboard case is coming to Android phones - The Verge",
-      "description": "The Android version of the Clicks keyboard case is compatible with several devices, including the folding Motorola Razr, Google Pixel 9, and Samsung Galaxy S25.",
-      "url": "https://www.theverge.com/news/617479/clicks-blackberry-keyboard-case-android-motorola-google-pixel-samsung-galaxy-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/clicks_android_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "publishedAt": "2025-02-25T17:00:00Z",
-      "content": "The keyboard cases will be available for several Motorola, Google Pixel, and Samsung Galaxy smartphones.\r\nThe keyboard cases will be available for several Motorola, Google Pixel, and Samsung Galaxy s… [+2687 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Toussaint Egan, Oli Welsh, Polygon Staff",
-      "title": "The 15 must-play demos of Steam Next Fest in February - Polygon",
-      "description": "Steam Next Fest is in full swing from Monday, Feb. 24 to Monday, March 3. Here are the best demos you should check out, including Wanderstop and Skin Deep.",
-      "url": "https://www.polygon.com/what-to-play/527984/steam-next-fest-must-play-game-demos-wanderstop-to-a-t-skin-deep",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/best-steam-next-fest-demos.jpg?quality=90&strip=all&crop=0%2C10.720012038253%2C100%2C78.559975923495&w=1200",
-      "publishedAt": "2025-02-25T17:00:00Z",
-      "content": "Steam Next Fest the triannual online event dedicated to spotlighting demos from new games is back this month for another weeklong celebration of recent and upcoming titles. With only a weeks worth of… [+7890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stratechery.com"
-      },
-      "author": null,
-      "title": "AI Promise and Chip Precariousness - Stratechery by Ben Thompson",
-      "description": "The AI industry is more exciting than ever, but the chip situation is very precarious and requires drastic action.",
-      "url": "https://stratechery.com/2025/ai-promise-and-chip-precariousness/",
-      "urlToImage": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1",
-      "publishedAt": "2025-02-25T16:53:54Z",
-      "content": "Yesterday Anthropic released Claude Sonnet 3.7; Dylan Patel had the joke of the day about Anthropic’s seeming aversion to the number “4”, which means “die” in Chinese:\r\nAnthropic is also a chinese ai… [+32131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Xbox's Fable reboot delayed into next year - Eurogamer",
-      "description": "Microsoft has announced it's delaying its long-awaited Fable reboot - originally scheduled to launch this year - into 2…",
-      "url": "https://www.eurogamer.net/xboxs-fable-reboot-delayed-into-next-year",
-      "urlToImage": "https://assetsio.gnwcdn.com/fabel-reboot-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-02-25T16:45:09Z",
-      "content": "Microsoft has announced it's delaying its long-awaited Fable reboot - originally scheduled to launch this year - into 2026, in order to give it \"more time\".\r\nXbox Game Studios head Craig Duncan made … [+1779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple’s new C1 brings two killer features, and it’s just the start - 9to5Mac",
-      "description": "Apple’s new C1 modem in the iPhone 16e brings two killer features that get me very excited about the future of C-class modems.",
-      "url": "https://9to5mac.com/2025/02/25/apples-new-c1-brings-two-killer-features-and-its-just-the-start/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/Apples-C1-chip-might-just-mean-mmWave-5G-is-dead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-25T16:05:00Z",
-      "content": "Apples newest iPhone comes with a key component many years in the making: the C1 modem. The idea of a new modem may not sound very exciting on the surface, but already with this first version its bec… [+2945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Alleged Pixel 9a prices leak for Europe and UK - 9to5Google",
-      "description": "According to a new report, the price for the upcoming Pixel 9a won't be changing throughout countries in Europe.",
-      "url": "http://9to5google.com/2025/02/25/google-pixel-9a-price-europe-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/pixel-9a-wf-leak-14_a46c8d.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-02-25T16:02:00Z",
-      "content": "Ahead of a fast-approaching launch, Google’s Pixel 9a keeps on leaking, with the latest report including prices for the mid-range device in Europe and the UK.\r\nWe’ve already heard basically all there… [+965 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Ron Wyden asks for rules about whether you own your digital purchases - The Verge",
-      "description": "Sen. Ron Wyden (D-OR) is urging FTC chair Andrew Ferguson to issue guidance about what ownership rights consumers have when they purchase digital goods.",
-      "url": "https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2197488166.jpg?quality=90&strip=all&crop=0%2C10.752793608722%2C100%2C78.494412782555&w=1200",
-      "publishedAt": "2025-02-25T16:00:00Z",
-      "content": "To put it simply, prior to agreeing to any transaction, consumers should understand what they are paying for and what is guaranteed after the sale.\r\nTo put it simply, prior to agreeing to any transac… [+2004 chars]"
+      "author": "Ryan Whitwam",
+      "title": "Pixel Watch 3 gets FDA approval to alert you if you’re dying - Ars Technica",
+      "description": "But you’ll have to wait a bit longer to turn the feature on.",
+      "url": "https://arstechnica.com/gadgets/2025/02/pixel-watch-3-gets-fda-approval-to-alert-you-if-youre-dying/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/google-pixel-watch-3-lifestyle-1152x648-1740602081.jpg",
+      "publishedAt": "2025-02-26T21:35:51Z",
+      "content": null
     },
     {
       "source": {
@@ -229,25 +34,207 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "Apple's Face ID Doorbell Rumored to Feature MagSafe - MacRumors",
-      "description": "A few months ago, Bloomberg's Mark Gurman reported that Apple was in the early stages of developing a smart home doorbell and lock system with...",
-      "url": "https://www.macrumors.com/2025/02/25/apple-face-id-doorbell-magsafe-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/anU96H6EeSdCtOFwQuXLBeKnuhk=/1600x/article-new/2024/09/face-id.jpg",
-      "publishedAt": "2025-02-25T15:36:35Z",
-      "content": "A few months ago, Bloomberg's Mark Gurman reported that Apple was in the early stages of developing a smart home doorbell and lock system with Face ID. He said the doorbell would wirelessly connect t… [+2206 chars]"
+      "title": "Apple Says Its 5G Modem Will Come to More Devices, Here's Which Ones - MacRumors",
+      "description": "The new iPhone 16e is equipped with Apple's custom-designed C1 modem for 5G and LTE connectivity, whereas all other current iPhone models rely on...",
+      "url": "https://www.macrumors.com/2025/02/26/future-devices-with-apple-5g-modem/",
+      "urlToImage": "https://images.macrumors.com/t/EkjTVJZYdYPl0hMzUeKzRfGotas=/1600x/article-new/2025/02/apple-c1.jpg",
+      "publishedAt": "2025-02-26T20:31:54Z",
+      "content": "The new iPhone 16e is equipped with Apple's custom-designed C1 modem for 5G and LTE connectivity, whereas all other current iPhone models rely on Qualcomm modems. While the average customer is unlike… [+3490 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Apple will fix iPhone glitch that suggests replacing the word ‘racist’ with ‘Trump’ - The Associated Press",
+      "description": "Apple says it’s fixing a bug with its dictation feature on some iPhones that briefly suggests the word “Trump” when a word with an R consonant is spoken, including “racist.” The company was responding to the controversy after some iPhone owners posted videos …",
+      "url": "https://apnews.com/article/apple-iphone-racist-trump-glitch-d80f88d69f6ceac585904f2faa2a9212",
+      "urlToImage": "https://dims.apnews.com/dims4/default/446d7d2/2147483647/strip/true/crop/5670x3189+0+295/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F60%2F6d516d01f049dd181cde6cc8bf08%2F6e542dafd56943eabdbeab58de044e68",
+      "publishedAt": "2025-02-26T19:02:00Z",
+      "content": "LONDON (AP) Apple is fixing a bug within the dictation feature on some iPhones that briefly suggests the word Trump when a word with an R consonant is spoken, including racist. \r\nThe company is respo… [+1240 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "It’s easier than ever to scrub your personal info from Google Search - Ars Technica",
+      "description": "You can request data removals right from search results.",
+      "url": "https://arstechnica.com/google/2025/02/google-makes-it-easier-to-remove-your-personal-data-from-search/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/ray2.max-2160x2160.format-webp-copy-1152x648-1740589158.jpg",
+      "publishedAt": "2025-02-26T18:02:42Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "PhoneArena"
       },
-      "author": "P.J. McCormick",
-      "title": "Apple AirTags just hit their lowest price ever on Amazon –– pick them up for lower than Prime Day prices - New York Post ",
-      "description": "How about these Apples?",
-      "url": "https://nypost.com/2025/02/25/shopping/apple-airtag-4-pack-deal-amazon-lowest-price-ever/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/airtafeat.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-25T15:34:00Z",
-      "content": "New York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nIf you’re anything like us, when the weather is … [+2175 chars]"
+      "author": "Cosmin Vasile",
+      "title": "Samsung Galaxy Z Flip 7 leaked renders reveal some hard truths - PhoneArena",
+      "description": "Unlike the Galaxy Z Fold 7, which is expected to have a slightly bigger display, but a thinner chassis, the Galaxy Z Flip 7 doesn’t seem to benefit from the same design improvements.",
+      "url": "https://www.phonearena.com/news/samsung-galaxy-z-flip-7-leaked-design_id168007",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/168007-wide-two_1200/Samsung-Galaxy-Z-Flip-7-leaked-renders-reveal-some-hard-truths.jpg",
+      "publishedAt": "2025-02-26T17:27:30Z",
+      "content": "Now that the Galaxy S25 launch is behind us, the Galaxy Z Fold 7 and Galaxy Z Flip 7 are Samsungs next big product releases. Weve already learned that the South Korean giant plans some important desi… [+2100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "With ‘Wonder Woman’ Axed, WB’s Nemesis System Is In Jail For A Decade - Forbes",
+      "description": "Wonder Woman was set to use WB's Nemesis System, but now that it's cancelled that goes back on ice for at least a decade.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/26/with-wonder-woman-axed-wbs-nemesis-system-is-in-jail-for-a-decade/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655a1670012597d9f6a097e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-26T17:08:43Z",
+      "content": "Wonder Woman \r\nInjustice 2\r\nWB Games just took a cleaver to a number of studios, shutting down Monolith, Player First Games and WB San Diego. The first of which means that Monoliths long-gestating Wo… [+2530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Hiroyuki Sawano composed new music for Xenoblade Chronicle X: Definitive Edition - Nintendo Everything",
+      "description": "Nintendo announces that Hiroyuki Sawano, famous for his anime work, is back for new Xenoblade Chronicle X: Definitive Edition music.",
+      "url": "https://nintendoeverything.com/hiroyuki-sawano-composed-new-music-for-xenoblade-chronicle-x-definitive-edition/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Hiroyuki-Sawano-Xenoblade-Chronicle-X-Definitive-Edition.jpg",
+      "publishedAt": "2025-02-26T15:18:32Z",
+      "content": "Hiroyuki Sawano is back on board to create new music for Xenoblade Chronicle X: Definitive Edition. That news was confirmed on social media, and more specifically, the series’ official X account.\r\nSa… [+990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "MicroCenter lists Radeon RX 9070 series: RX 9070 XT starting at $699, RX 9070 at $649 - VideoCardz.com",
+      "description": "AMD Radeon RX 9070 pricing on MicroCenter Are we getting closer to the final pricing for the AMD Radeon RX 9070 series? Perhaps, perhaps we are looking at placeholders that have not been confirmed by AMD or any board partner. There’s no doubt that some of the…",
+      "url": "https://videocardz.com/newz/microcenter-lists-radeon-rx-9070-series-rx-9070-xt-starting-at-699-rx-9070-at-649",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/02/RADEON-RX-9070-XT-PULSE-HERO.jpg",
+      "publishedAt": "2025-02-26T15:15:00Z",
+      "content": "Please note that this post is tagged as a rumor\r\n.\r\nAre we getting closer to the final pricing for the AMD Radeon RX 9070 series? Perhaps, perhaps we are looking at placeholders that have not been co… [+1613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Here Are The ‘Monster Hunter Wilds’ Release Times For Launch Day - Forbes",
+      "description": "Monster Hunter Wilds global release times for launch are here, so check out when you will be able to play in your specific region.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/02/26/here-are-the-monster-hunter-wilds-release-times-for-launch-day/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bb7b0acc8758316570a664/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-26T14:57:35Z",
+      "content": "Monster Hunter Wilds\r\nDCapcom\r\nWe are on the verge of the launch of one of the biggest games of 2025, Monster Hunter Wilds, and we have already seen another contender knocked out of the year with Fab… [+2498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Mayank Parmar",
+      "title": "OpenAI's GPT 4.5 spotted in Android beta, launch imminent - BleepingComputer",
+      "description": "OpenAI's newest model, GPT-4.5, is coming sooner than we expected. A new reference has been spotted on ChatGPT's Android app that points to a model called \"GPT-4.5 research preview,\" but it looks like it will initially be limited to those with a Pro subscript…",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-45-spotted-in-android-beta-launch-imminent/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg",
+      "publishedAt": "2025-02-26T12:39:18Z",
+      "content": "OpenAI's newest model, GPT-4.5, is coming sooner than we expected. A new reference has been spotted on ChatGPT's Android app that points to a model called \"GPT-4.5 research preview.\"\r\nAt the moment, … [+1663 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Rachel Doerrie",
+      "title": "NHL contender kryptonite: Biggest flaws (and solutions) for nine top teams ahead of the deadline - ESPN",
+      "description": "A 2C in Colorado? Scoring depth for Washington? With the March 7 date looming, here are the issues in need of fixing for the league's elite.",
+      "url": "https://www.espn.com/nhl/insider/story/_/id/44013262/nhl-2024-25-stanley-cup-playoffs-contenders-trade-deadline-flaws",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0225%2Fr1456534_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-02-26T12:00:00Z",
+      "content": "The NHL trade deadline is less than two weeks away on March 7, and there is plenty of adding to be done for the contenders. As is always the case, not every playoff team is a Stanley Cup \"contender.\"… [+874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "Gabe Ross",
+      "title": "‘Explosive Surge on the Horizon,’ Says Investor About Microsoft Stock - TipRanks",
+      "description": "Microsoft (NASDAQ:MSFT) shared some big news earlier this month when it announced the development of its Majorana 1 quantum chip. Majorana represents a significant ...",
+      "url": "https://www.tipranks.com/news/explosive-surge-on-the-horizon-says-investor-about-microsoft-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/02/shutterstock_2495145149-2-750x406.jpg",
+      "publishedAt": "2025-02-26T11:59:15Z",
+      "content": "Microsoft (NASDAQ:MSFT) shared some big news earlier this month when it announced the development of its Majorana 1 quantum chip. Majorana represents a significant improvement in the abilities of qua… [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Romain Dillet",
+      "title": "Framework’s first desktop PC is optimized for gaming and local AI inference - TechCrunch",
+      "description": "Framework, the company that is better known for its modular, repairable laptops, just released its first desktop computer. It’s a small desktop PC that",
+      "url": "https://techcrunch.com/2025/02/26/frameworks-first-desktop-pc-is-ready-for-gaming-and-local-ai-inference/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Framework-Desktop-1.jpg?resize=1200,875",
+      "publishedAt": "2025-02-26T11:33:12Z",
+      "content": "Framework, the company that is better known for its modular, repairable laptops, just released its first desktop computer. Its a small desktop PC that punches above its weight.\r\nThe most interesting … [+3265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Rory Mellon",
+      "title": "PlayStation launches new sale with essential PS5 game deals from $2 — here’s my 13 top picks - Tom's Guide",
+      "description": "PlayStation Store’s Extended Play sale is live with epic PS5 deals",
+      "url": "https://www.tomsguide.com/gaming/playstation/playstation-launches-new-sale-with-essential-ps5-game-deals-from-usd2-heres-my-13-top-picks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zRfgHAMJw6v2vYZsWcM62c-1200-80.jpg",
+      "publishedAt": "2025-02-26T10:57:01Z",
+      "content": "PlayStation Store has launched its latest sales event and this time it’s the return of the Extended Play sale. This recurring sale typically focuses on DLC discounts. Nevertheless, it also includes s… [+929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Britina Cheng",
+      "title": "Telematrix No. 1: February 26, 2025 - Vulture",
+      "description": "How well do you know television shows? Telematrix is a trivia game where you use the clues to pick a TV show for each spot on the grid. Come back every Monday and Thursday for a new game.",
+      "url": "http://www.vulture.com/article/daily-tv-grid-trivia-game-telematrix.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/1eb/a50/dd770bb21beca17a1087bb40aa0f6b478f-telematrix-2-26-2025.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-02-26T10:00:00Z",
+      "content": "Big day: Were pleased to introduce Telematrix, our new TV trivia grid game.\r\nTap a clue to see a headshot or get more details."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Windows 11 KB5052093 update released with 33 changes and fixes - BleepingComputer",
+      "description": "Microsoft has released the February 2025 preview cumulative update for Windows 11 24H2, with 33 improvements and fixes for multiple issues, including SSH and File Explorer bugs and the volume jumping to 100% when waking the PC from sleep.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5052093-update-released-with-33-changes-and-fixes/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows--11.jpg",
+      "publishedAt": "2025-02-26T06:43:34Z",
+      "content": "Microsoft has released the February 2025 preview cumulative update for Windows 11 24H2, with 33 improvements and fixes for multiple issues, including SSH and File Explorer bugs and the volume jumping… [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Jason Nelson",
+      "title": "AI Agents Ditch Human Talk, Switch to 'Gibberlink' in Viral Video - Decrypt",
+      "description": "A viral video shows two AI agents recognizing each other mid-call—then abandoning human speech for a secret machine-only language",
+      "url": "https://decrypt.co/307780/ai-agents-ditch-human-talk-switch-to-gibberlink-in-viral-video",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/clear-telco-fidelity-blockchain-telephone-communications-gID_7.jpg",
+      "publishedAt": "2025-02-26T04:40:12Z",
+      "content": "A video featuring two AI agents talking to one another has gained widespread attention online, but not for their ability to converse in typical human language. \r\nOnce they recognized that they were c… [+3281 chars]"
     }
   ]
 }
