@@ -1,19 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 49,
+  "totalResults": 50,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Thegamepost.com"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": null,
-      "title": "Nintendo Switch 2 to Cost $400+, Launch in June 2025 with Major First-Party and Third-Party Games on Day One - Report - TheGamePost",
-      "description": "Nintendo Switch 2 is expected to launch in June 2025, with a price of at least $400 and a strong lineup of first-party and third-party games, industry analysts predict.",
-      "url": "https://thegamepost.com/nintendo-switch-2-cost-400-launch-june-2025-games/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/01/nintendo-switch-2-leak-major-xbox-third-party-games-2.webp",
-      "publishedAt": "2025-03-13T23:37:44Z",
-      "content": "Nintendo Switch 2 is expected to launch in June 2025, with a price of at least $400 and a strong lineup of first-party and third-party games, industry analysts predict.\r\nNintendo fans have been waiti… [+4667 chars]"
+      "author": "Julie Bort",
+      "title": "AI coding assistant Cursor reportedly tells a ‘vibe coder’ to write his own damn code - TechCrunch",
+      "description": "AI coding assistant Cursor reportedly refused to help a user with their code, insisting that they do it themselves.",
+      "url": "https://techcrunch.com/2025/03/14/ai-coding-assistant-cursor-reportedly-tells-a-vibe-coder-to-write-his-own-damn-code/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1481095076.jpg?resize=1200,694",
+      "publishedAt": "2025-03-14T21:44:57Z",
+      "content": "As businesses race to replace humans with AI “agents,” coding assistant Cursor may have given us a peek at the attitude bots could bring to work, too. \r\nCursor reportedly told a user going by the nam… [+1241 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Everything you say to your Echo will be sent to Amazon starting on March 28 - Ars Technica",
+      "description": "Amazon is killing a privacy feature to bolster Alexa+, the new subscription assistant.",
+      "url": "https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2158976349-1024x648.jpg",
+      "publishedAt": "2025-03-14T20:59:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacob Kienlen",
+      "title": "The CRKD Nitro Deck for the Switch Just Dropped to Its Lowest-Ever Price - IGN",
+      "description": "A great Joy-Con alternative.",
+      "url": "https://www.ign.com/articles/the-crkd-nitro-deck-for-the-switch-just-dropped-to-its-lowest-ever-price",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/14/nitro-deck-sale-1741984729111.jpg?width=1280",
+      "publishedAt": "2025-03-14T20:51:26Z",
+      "content": "One of my main frustrations with playing the Nintendo Switch in handheld mode is how uncomfortable it gets. The Joy-Con controllers that come with the Switch are great in a pinch, but they just weren… [+2446 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google is replacing Google Assistant with Gemini - TechCrunch",
+      "description": "Google will replace Google Assistant on Android phones with Gemini later this year, the company announced on Friday.",
+      "url": "https://techcrunch.com/2025/03/14/google-is-replacing-google-assistant-with-gemini/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
+      "publishedAt": "2025-03-14T19:49:34Z",
+      "content": "Google will replace Google Assistant on Android phones with Gemini later this year, the company announced on Friday. \r\nGoogle said in a blog post that it’ll upgrade more users from Google Assistant t… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "[Update: Fix] Chromecast (2nd gen) and Audio can’t Cast in ‘Untrusted’ outage - 9to5Google",
+      "description": "Over the past few hours, owners of the Chromecast (2nd gen) and Chromecast Audio haven’t been able to Cast any audio or video content.",
+      "url": "http://9to5google.com/2025/03/14/chromecast-2nd-gen-audio/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/08/chromecast_audio_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-14T19:39:00Z",
+      "content": "Over the past few hours, owners of the Chromecast (2nd gen) and Chromecast Audio havent been able to Cast any audio or video content.\r\nUpdate 3/14: Following yesterdays announcement, firmware version… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Reddit Is Cracking Down on Luigi Mangione Content - Gizmodo",
+      "description": "Luigi content is on the run from the (moderation) law.",
+      "url": "https://gizmodo.com/reddit-is-cracking-down-on-luigi-mangione-content-2000576229",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2200303531.jpg",
+      "publishedAt": "2025-03-14T19:06:25Z",
+      "content": "It’s not exactly news that Luigi Mangione, the accused killer of UnitedHealthcare CEO Brian Thompson, is a viral sensation. He’s been debated, lusted after, and idolized. There are even calls for Dav… [+3778 chars]"
     },
     {
       "source": {
@@ -21,181 +86,51 @@
         "name": "Gematsu"
       },
       "author": "Sal Romano",
-      "title": "Silent Hill f confirmed for PS5, Xbox Series, and PC; reveal trailer - Gematsu",
-      "description": "Silent Hill f will be available for PlayStation 5, Xbox Series, and PC via Steam, Epic Games Store, and Microsoft Store when it launches, publisher Konami and developer NeoBards Entertainment annou…",
-      "url": "https://www.gematsu.com/2025/03/silent-hill-f-confirmed-for-ps5-xbox-series-and-pc-reveal-trailer",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/SHF_03-13-25.jpg",
-      "publishedAt": "2025-03-13T22:37:26Z",
-      "content": "About\r\nIn 1960s Japan, Shimizu Hinako’s secluded town of Ebisugaoka is consumed by a sudden fog, transforming her home into a haunting nightmare.\r\nAs the town falls silent and the fog thickens, Hinak… [+4644 chars]"
+      "title": "Sony Interactive Entertainment and People Can Fly enter agreement for new game prototype based on Sony IP - Gematsu",
+      "description": "People Can Fly has entered into an agreement with Sony Interactive Entertainment regarding the production of a prototype of a new game, codenamed “Project Delta,” based on an intellectu…",
+      "url": "https://www.gematsu.com/2025/03/sony-interactive-entertainment-and-people-can-fly-enter-agreement-for-new-game-prototype-based-on-sony-ip",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/Sony-PCF_03-14-25.jpg",
+      "publishedAt": "2025-03-14T18:20:21Z",
+      "content": "People Can Fly has entered into an agreement with Sony Interactive Entertainment regarding the production of a prototype of a new game, codenamed “Project Delta,” based on an intellectual property be… [+1072 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes - Bloomberg",
+      "description": "Apple Inc.’s top executive overseeing its Siri virtual assistant told staff that delays to key features have been ugly and embarrassing, and a decision to publicly promote the technology before it was ready made matters worse.",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irLomZHC_Xu8/v2/1200x800.jpg",
+      "publishedAt": "2025-03-14T18:07:54Z",
+      "content": "Apple Inc.s top executive overseeing its Siri virtual assistant told staff that delays to key features have been ugly and embarrassing, and a decision to publicly promote the technology before it was… [+402 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The new M4 MacBook Air is already on sale - The Verge",
+      "description": "And it was already $100 cheaper than last year. Ain’t bad.",
+      "url": "https://www.theverge.com/good-deals/629882/apple-m4-macbook-air-13-15-inch-laptop-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0166.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-14T18:06:47Z",
+      "content": "And it was already $100 cheaper than last year. Aint bad.\r\nAnd it was already $100 cheaper than last year. Aint bad.\r\nThe new M4-powered MacBook Air only hit stores on March 12, but its already on sa… [+1200 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "TrueAchievements"
       },
-      "author": "Ben Schoon",
-      "title": "Pixel 9a will reportedly come with a free Google TV Streamer in some markets - 9to5Google",
-      "description": "According to a reliable source, Pixel 9a pre-orders may come with a free Google TV Streamer in some markets.",
-      "url": "http://9to5google.com/2025/03/13/pixel-9a-google-tv-streamer-pre-order-perk/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/pixel-9a-wf-leak-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-13T22:10:00Z",
-      "content": "According to a reliable leaker, Google’s upcoming Pixel 9a will include a free Google TV Streamer, at least in some markets.\r\nPixel 9a is expected to launch this month and, according to Roland Quandt… [+812 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Benj Edwards",
-      "title": "AI search engines give incorrect answers at an alarming 60% rate, study says - Ars Technica",
-      "description": "CJR study shows AI search services misinform users and ignore publisher exclusion requests.",
-      "url": "https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
-      "publishedAt": "2025-03-13T21:16:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Your Android phone just got a major audio upgrade for free - Google and Samsung models included - ZDNet",
-      "description": "Ever been at a crowded restaurant or bar and wanted to hear that one muted TV? Now you can with Auracast.",
-      "url": "https://www.zdnet.com/article/your-android-phone-just-got-a-major-audio-upgrade-for-free-google-and-samsung-models-included/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1c6dd8714041506ad9b9614424bc3e7563c8c65a/2025/03/13/5d82b50b-f7b1-4a15-ac1d-cfb6d270f4c6/pixel9.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-03-13T20:16:00Z",
-      "content": "Jada Jones/ZDNET\r\nBluetooth Auracast is a Bluetooth feature that allows devices like smartphones, TVs, or public announcement systems to broadcast audio to unlimited audio receivers, such as hearing … [+2757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "Google says it's rolling out a fix for stricken Chromecasts - The Register",
-      "description": ": It'll take a few days, give or take your situation",
-      "url": "https://www.theregister.com/2025/03/13/google_chromecast_fix/",
-      "urlToImage": "https://regmedia.co.uk/2015/10/05/google_chromecast_2_4.jpg",
-      "publishedAt": "2025-03-13T19:23:00Z",
-      "content": "Google has told The Register it's beginning to roll out a fix for Chromecast devices that were bricked due to an expired security certificate authority. We're assured this deployment will take place … [+3177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Amanda Bartlett",
-      "title": "Major retailer set to open its second US store in SF's Union Square - SFGATE",
-      "description": "San Francisco is about to get a power-up: The second Nintendo store in the U.S. is finally about to launch in Union Square.",
-      "url": "https://www.sfgate.com/local/article/nintendo-store-opening-union-square-san-francisco-20219948.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/53/60/27180065/3/rawImage.jpg",
-      "publishedAt": "2025-03-13T19:21:39Z",
-      "content": "FILE - Union Square in San Francisco.\r\nGonzalo Azumendi/Getty Images\r\nSan Francisco is about to get a power-up: The second Nintendo store in the U.S. is finally about to launch in Union Square. \r\nOn … [+2457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Android 16 Beta 3 offers a brand new way to close apps, just in case you can’t swipe - 9to5Google",
-      "description": "Android 16 Beta 3 has officially launched, and the new OS brings a couple of small changes that might normally...",
-      "url": "http://9to5google.com/2025/03/13/android-16-beta-3-close-app-option/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Android-16-DP2-logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-13T19:18:30Z",
-      "content": "Android 16 Beta 3 has officially launched, and the new OS brings a couple of small changes that might normally go unnoticed. One minor but apparently important change is a new “close” app option that… [+1162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "One Of The Best Steam Sales In Years Is Happening Right Now - Kotaku",
-      "description": "You can get Doom (2016), Undertale, and Battlefield 1 for about five bucks",
-      "url": "https://kotaku.com/steam-sale-deep-discounts-doom-undertale-spring-sale-pc-1851769776",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2efb2ea6c3cf3316ecf589a3f5d67641.jpg",
-      "publishedAt": "2025-03-13T19:15:00Z",
-      "content": "Right now some of the best games available on Steam, including Undertale, Doom (2016), and Spiritfarer are all on sale for incredibly cheap prices. Combine that with Steams annual Spring Sale and you… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "James Carr",
-      "title": "Rainbow Six Siege X Aims To Breathe New Life Into The Shooter, But Don't Call It Siege 2 - GameSpot",
-      "description": "Ubisoft is marking 10 years of Rainbow Six Siege with a brand-new mode, as well as drastic improvements to classic 5v5 game modes.",
-      "url": "https://www.gamespot.com/articles/rainbow-six-siege-x-aims-to-breathe-new-life-into-the-shooter-but-dont-call-it-siege-2/1100-6530107/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/123/1239113/4458908-r6x_ka-16_9_largelarge.jpeg",
-      "publishedAt": "2025-03-13T19:06:10Z",
-      "content": "Ubisoft has unveiled Rainbow Six Siege X, the next evolution of the multiplayer shooter, coming at the start of Y10 S2 on June 10. Not to be confused with the Rainbow Six Siege 2 some may have been e… [+11776 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Ryan Waniata",
-      "title": "Sony’s Dazzling New Display Adds to the RGB LED TV Hype - WIRED",
-      "description": "Sony’s incoming RGB tech joins Hisense and Samsung in the race to define the future of LED TVs.",
-      "url": "https://www.wired.com/story/sony-rgb-led-tv/",
-      "urlToImage": "https://media.wired.com/photos/67d1dc29e3dd1d52d70b1013/191:100/w_1280,c_limit/Sony-RGB-LED-TV-(Color%20Volume%20benefit%20before%20and%20after)-SOURCE-Sony.jpg",
-      "publishedAt": "2025-03-13T16:45:47Z",
-      "content": "LED TVs are about to get a lot better. As demonstrated by Hisense and to some extent Samsung at CES 2025, a new backlight technology called RGB LED is poised to improve the quality and efficiency of … [+2714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Kuo: Apple Knows Apple Intelligence is 'Underwhelming' and Won't Drive iPhone Upgrades - MacRumors",
-      "description": "The Apple Intelligence features that Apple introduced with iOS 18 are not pushing people to upgrade their iPhones, Apple analyst Ming-Chi Kuo...",
-      "url": "https://www.macrumors.com/2025/03/13/kuo-apple-intelligence-underwhelming/",
-      "urlToImage": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
-      "publishedAt": "2025-03-13T16:32:51Z",
-      "content": "The Apple Intelligence features that Apple introduced with iOS 18 are not pushing people to upgrade their iPhones, Apple analyst Ming-Chi Kuoreiterated today. Apple's recent Siri failures are also go… [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Emanuel Maiberg",
-      "title": "Super Nintendo Hardware Is Running Faster as It Ages - 404 Media",
-      "description": "Why is this speedrunner putting his Super Nintendo in the freezer? Science.",
-      "url": "https://www.404media.co/super-nintendo-hardware-is-running-faster-as-it-ages/",
-      "urlToImage": "https://images.unsplash.com/photo-1591631368886-bb78ae96ee13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHN1cGVyJTIwbmludGVuZG98ZW58MHx8fHwxNzQxODgxNzU5fDA&ixlib=rb-4.0.3&q=80&w=2000",
-      "publishedAt": "2025-03-13T16:09:06Z",
-      "content": "Something very strange is happening inside Super Nintendo (SNES) consoles as they age: a component youve probably never heard of is running ever so slightly faster as we get further and further away … [+5821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Google launches Gemini with Personalization, beating Apple to personal AI - ZDNet",
-      "description": "Starting today, Gemini can connect to your Google Search history. Here's how to try it.",
-      "url": "https://www.zdnet.com/article/google-launches-gemini-with-personalization-beating-apple-to-personal-ai/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3e07d1c6f714a856a54d9c21366f203e0c2e4861/2025/03/13/118815b4-15fa-412c-a40f-b2e32c3d614d/gemini-personalization-banner.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-03-13T16:01:09Z",
-      "content": "Google\r\nGoogle Gemini has introduced a conversational AI assistant to understand users' needs conversationally. But what if, in addition to understanding what you say, it could also understand you fr… [+3565 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Official Disco Elysium Mobile Version Announced, ZA/UM Calls It a 'Fun, On-the-Go Alternative' Aimed at TikTok Users - IGN",
-      "description": "Hot on the heels of its announcement of new game Project C4, ZA/UM has announced an official mobile version of Disco Elysium exclusive to Android phones.",
-      "url": "https://www.ign.com/articles/official-disco-elysium-mobile-version-announced-zaum-calls-it-a-fun-on-the-go-alternative-aimed-at-tiktok-users",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/13/8k-no-logo-1741874189628.png?width=1280",
-      "publishedAt": "2025-03-13T15:47:13Z",
-      "content": "Hot on the heels of its announcement of new game Project C4, ZA/UM has announced an official mobile version of Disco Elysium.\r\nZA/UM said its goal for the mobile version, exclusive to Android devices… [+2213 chars]"
+      "author": null,
+      "title": "Avowed Xbox update 1.3.0 adds community requested features and more - TrueAchievements",
+      "description": "Avowed's latest update is here with patch 1.3.0, while Obsidian promises a roadmap outlining its plans for the fantasy RPG over the upcoming year.",
+      "url": "https://www.trueachievements.com/news/avowed-patch-1-3-0-notes",
+      "urlToImage": "https://www.trueachievements.com/imgs/157000/avowed-drops-new-xbox-patch-with-roadmap-to-come.jpg",
+      "publishedAt": "2025-03-14T17:25:34Z",
+      "content": "Use the button below to let us know if you are subscribed to Xbox Game Pass. \r\nWhile subscribed, new games which are added to the service will be automatically added to your collection if you don't a… [+330 chars]"
     },
     {
       "source": {
@@ -203,51 +138,116 @@
         "name": "The Verge"
       },
       "author": "Jay Peters",
-      "title": "Google is bringing a lot more Android games to PCs - The Verge",
-      "description": "Google is announcing that all mobile Android games will be available by default on Google Play Games on PC. It’s also planning to open up its native PC games program.",
-      "url": "https://www.theverge.com/news/628323/google-play-games-android-mobile",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-13T15:45:00Z",
-      "content": "Its looking to bring more PC games to Google Play Games, too.\r\nIts looking to bring more PC games to Google Play Games, too.\r\nAhead of the Game Developers Conference next week, Google is announcing t… [+1970 chars]"
+      "title": "Reddit will let you hide ads - The Verge",
+      "description": "Reddit is going rolling out a feature that lets you hide an ad from your feed for “at least a year.” When an ad becomes visible again, you’ll be able to hide it again, too.",
+      "url": "https://www.theverge.com/news/629868/reddit-hide-ads",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK115_Reddit_03.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-14T17:08:25Z",
+      "content": "Say goodbye to that ad you dont want to see well, for a little while.\r\nSay goodbye to that ad you dont want to see well, for a little while.\r\nReddit is going rolling out a feature that lets you hide … [+769 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Benj Edwards",
-      "title": "AI coding assistant refuses to write code, tells user to learn programming instead - Ars Technica",
-      "description": "Cursor AI tells user, “I cannot generate code for you, as that would be completing your work.”…",
-      "url": "https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-1152x648.jpg",
-      "publishedAt": "2025-03-13T15:43:38Z",
-      "content": null
+      "author": "Jennifer Pattison Tuohy",
+      "title": "These new Roombas aren’t the robots I know and love - The Verge",
+      "description": "The company’s newest robot vacuums feature a drastic redesign that leaves out much of what makes the brand unique.",
+      "url": "https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB341_IROBOT_CVIRGINIA_A_514bad.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-14T16:30:00Z",
+      "content": "In a push for profitability, iRobot is pushing out innovation.\r\nWhen I saw iRobots latest robot vacuums announced this week, my first thought was, These dont look like Roombas; they look like midrang… [+7747 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Hannah Hoolihan",
+      "title": "All of the Best Spring Sales for PC Games Are Live Now - IGN",
+      "description": "Steam, Fanatical, and Green Man Gaming have kicked off their Spring Sales, offering a variety of discounts on PC games.",
+      "url": "https://www.ign.com/articles/spring-sales-for-pc-games-are-live-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/24/metaphorign-1724474565097.jpg?width=1280",
+      "publishedAt": "2025-03-14T16:25:19Z",
+      "content": "Spring is right around the corner, and with the changing of the seasons comes more sale events to check out. For PC gamers, this means some big discounts can be found across Steam, Fanatical, and Gre… [+1708 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "Kotaku"
       },
-      "author": "Sal Romano",
-      "title": "Split Fiction sales top two million in one week - Gematsu",
-      "description": "Total sales for cooperative action adventure game Split Fiction have surpassed two million units just one week after its release, publisher Electronic Arts and developer Hazelight announced.",
-      "url": "https://www.gematsu.com/2025/03/split-fiction-sales-top-two-million-in-one-week",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/Split-Fiction-Sales_03-13-25.jpg",
-      "publishedAt": "2025-03-13T15:37:49Z",
-      "content": "Total sales for cooperative actionadventure gameSplit Fiction have surpassed two million units just one week after its release, publisher Electronic Arts and developer Hazelightannounced. \r\nThe miles… [+2199 chars]"
+      "author": "Ethan Gach",
+      "title": "The Super Nintendo Now Runs Infinitesimally Faster Than It Did 35 Years Ago And Players Are Trying To Find Out Why - Kotaku",
+      "description": "The retro mystery has fans investigating the potential impact on speedrunning",
+      "url": "https://kotaku.com/super-nintendo-snes-speedrun-audio-processor-tas-1851770029",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f18b1de9963b0fff4959f1677bf55777.png",
+      "publishedAt": "2025-03-14T16:20:00Z",
+      "content": "Most hardware breaks down and gets worse as it ages. Some old Super Nintendo systems, however, are actually running faster. The changes arent noticeable to your average player, but dedicated fans hav… [+2128 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Push Square"
       },
-      "author": "Lauren Forristal",
-      "title": "Xbox debuts a new AI-powered gaming companion for mobile users - TechCrunch",
-      "description": "Ahead of the Game Developers Conference (GDC), Xbox revealed on Thursday that it’s experimenting with an AI-powered gaming sidekick. \"Copilot for Gaming,\" Xbox's \"Copilot for Gaming\" is a voice-activated assistant that can answer game-related questions and ac…",
-      "url": "https://techcrunch.com/2025/03/13/xbox-debuts-a-new-ai-powered-gaming-companion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/CopilotForGaming_Xbox.jpg?w=1200",
-      "publishedAt": "2025-03-13T15:00:00Z",
-      "content": "Ahead of the Game Developers Conference (GDC), Xbox revealed on Thursday that its experimenting with an AI-powered gaming sidekick.\r\n“Copilot for Gaming,” powered by Microsofts AI technology, is a vo… [+2069 chars]"
+      "author": "Push Square",
+      "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land Review (PS5) - Push Square",
+      "description": "Atelier what I want what I really really want",
+      "url": "https://www.pushsquare.com/reviews/ps5/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land",
+      "urlToImage": "https://images.pushsquare.com/0fce5a78d3888/large.jpg",
+      "publishedAt": "2025-03-14T16:15:23Z",
+      "content": "While the Atelier series has been steadily evolving and tweaking its winning JRPG/craft-'em-up formula across 30 years and 20-plus games, Atelier Yumia: The Alchemist of Memories &amp; the Envisioned… [+6125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rocketleague.com"
+      },
+      "author": "Laudie Gonzalez",
+      "title": "Rocket League Patch Notes v2.49 (Season 18 Live) - Rocket League",
+      "description": "Season 18 is now live! Featuring two Rocket Pass vehicles, a brand new Arena, mutators aplenty, and more!",
+      "url": "https://www.rocketleague.com/en/news/rocket-league-patch-notes-season-18-live",
+      "urlToImage": "https://us-west-2-epicgames.graphassets.com/A0Gpf4ZpfQzaTePr3NRc1z/resize=fit:clip,height:1080,width:1920/output=format:webp/XdDOvaLVQSJMSeFmhSih",
+      "publishedAt": "2025-03-14T15:58:53Z",
+      "content": "Version: Rocket League v2.49\r\nPlatforms: Epic Games Store, PlayStation 4, PlayStation 5, Steam, Nintendo Switch, Xbox One, Xbox Series X|S\r\nScheduled Release: March 14, 2025, at 9 AM PT / 4 PM UTC \r\n… [+9327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple has been hinting at iOS 19’s new design, here’s what the clues say - 9to5Mac",
+      "description": "Apple is reportedly preparing a big new design for iOS 19, and by looking at its recent apps and updates, we get hints as to what’s coming.",
+      "url": "https://9to5mac.com/2025/03/14/apple-has-been-hinting-at-ios-19s-new-design-heres-what-clues-say/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/ios-19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-14T15:56:58Z",
+      "content": "Apple is reportedly planning a major new design for iOS 19, the biggest revamp since iOS 7. Specific details on changes are scarce. But looking at recent iPhone apps and designs, it seems that Apple … [+3531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pcguide.com"
+      },
+      "author": null,
+      "title": "Baldur's Gate 3 patch 8 adds single-button option that makes setting up all your mods easier than ever - PC Guide - For The Latest PC Hardware & Tech News",
+      "description": "Baldur's Gate 3 patch 8 is closer than ever. More and more people are getting into the stress test preview - here's what's new for mod users.",
+      "url": "https://www.pcguide.com/news/baldurs-gate-patch-8-adds-single-button-option-that-makes-setting-up-all-your-mods-easier-than-ever/",
+      "urlToImage": "https://www.pcguide.com/wp-content/uploads/2025/03/Baldurs-Gate-3-turn-on-mods-in-a-single-button-press.jpg",
+      "publishedAt": "2025-03-14T15:38:59Z",
+      "content": "We’re slowly but surely getting close to patch 8 for Baldur’s Gate 3. The previous major patch, as you may have guessed, was patch 7, and it brought official modding tools. This has allowed the BG3 m… [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "AMD calls demand for Radeon 9070 and 9070 XT \"unprecedented,\" says restocking at MSRP is priority number one - TechSpot",
+      "description": "The AMD RX 9070 XT and RX 9070 launched on March 6. We liked the former card, awarding it a score of 85 and praising its solid...",
+      "url": "https://www.techspot.com/news/107150-amd-calls-demand-rx-9070-rx-9070-xt.html",
+      "urlToImage": "https://www.techspot.com/articles-info/2961/images/2025-03-05-image-7.jpg",
+      "publishedAt": "2025-03-14T15:03:00Z",
+      "content": "In a nutshell: AMD has called the demand for its RX 9070 and RX 9070 XT graphics cards \"really unprecedented\" in a new interview. Finding one of the RDNA 4 cards in stock at a retailer right now, esp… [+2758 chars]"
     }
   ]
 }
