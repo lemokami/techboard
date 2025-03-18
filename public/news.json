@@ -1,71 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 68,
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "SwitchBot’s next smart hub comes with a control knob - The Verge",
+      "description": "A new Connectivity Standards Alliance listing describes the SwitchBot Hub 3, a new hub that features a display and physical controls, including a knob.",
+      "url": "https://www.theverge.com/news/630987/switchbot-hub-3-matter-csa-registration",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/SwitchBot-Hub-3.png?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-03-16T22:33:13Z",
+      "content": "The SwitchBot Hub 3 will bring physical smart device and media controls.\r\nThe SwitchBot Hub 3 will bring physical smart device and media controls.\r\nSmart home company SwitchBot is preparing a new Mat… [+1684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "My Nintendo News"
+      },
+      "author": "ssf1991",
+      "title": "Updated Switch 2 patent showing AI resolution upscaling - My Nintendo News",
+      "description": "It is now just 2 and a half weeks before Nintendo will be giving the Switch 2 a more detailed unveiling via the upcoming Switch 2 Direct. In the meantime, Switch 2 news has been primarily patents…",
+      "url": "https://mynintendonews.com/2025/03/16/updated-switch-2-patent-showing-ai-resolution-upscaling/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/01/nintendo_switch_2.jpg?fit=1920%2C1080&ssl=1",
+      "publishedAt": "2025-03-16T21:11:29Z",
+      "content": "It is now just 2 and a half weeks before Nintendo will be giving the Switch 2 a more detailed unveiling via the upcoming Switch 2 Direct. In the meantime, Switch 2 news has been primarily patents, FC… [+1172 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "People are using Google’s new AI model to remove watermarks from images - TechCrunch",
+      "description": "People appear to be using Google's new Gemini model to remove watermarks from images, according to reports on social media.",
+      "url": "https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "publishedAt": "2025-03-16T20:34:15Z",
+      "content": "Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known … [+2077 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google rolling out latest Gemini 2.0 models, free Deep Research to Android, iOS - 9to5Google",
-      "description": "Google has widely rolled out the latest Gemini models, like 2.0 Flash Thinking (experimental), to the web, Android, and iOS apps.",
-      "url": "http://9to5google.com/2025/03/15/latest-gemini-2-0-models-app/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/Gemini-on-Galaxy-S25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-15T20:29:11Z",
-      "content": "Following the Thursday announcement, Google is widely rolling out the latest Gemini models, including 2.0 Flash Thinking (experimental), to the web, Android, and iOS apps.\r\nAs always, Google first ro… [+2665 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Amazon’s Echo will send all voice recordings to the cloud, starting March 28 - TechCrunch",
-      "description": "Amazon Echo users will no longer have the option to process their Alexa requests locally, which means all of their voice recordings will be sent to the",
-      "url": "https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/maxresdefault_6d8ae7.jpg?resize=1200,675",
-      "publishedAt": "2025-03-15T19:47:46Z",
-      "content": "Amazon Echo users will no longer have the option to process their Alexa requests locally, which means all of their voice recordings will be sent to the companys cloud.\r\nArs Technica reports that on F… [+735 chars]"
+      "title": "Google Assistant losing 7 more features across Android, Nest Hub/speakers - 9to5Google",
+      "description": "We just learned that Gemini is replacing Google Assistant on Android. Google quietly announced that Assistant is losing 7 more features.",
+      "url": "http://9to5google.com/2025/03/16/google-assistant-losing-features-2025/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-assistant-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-16T19:31:10Z",
+      "content": "On Friday, we learned that Gemini is replacing Google Assistant on Android phones. At the same time, Google quietly announced that Assistant is losing 7 more features.\r\nThis follows Google at the sta… [+1750 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WKBN.com"
+        "name": "Thegamepost.com"
       },
-      "author": "Molly Burke",
-      "title": "2 taken to hospital after 3-car crash in Boardman - WKBN.com",
-      "description": "According to Boardman police, it happened around 2 p.m. in the Tiffany Square Plaza.",
-      "url": "https://www.wkbn.com/news/local-news/boardman-news/2-taken-to-hospital-after-3-car-crash-in-boardman/",
-      "urlToImage": "https://www.wkbn.com/wp-content/uploads/sites/48/2025/03/three-car-crash-tiffany-square-plaza.jpg?w=1280",
-      "publishedAt": "2025-03-15T19:02:07Z",
-      "content": "Editor’s note: This story has been corrected to clarify which car failed to yield. \r\nBOARDMAN, Ohio (WKBN) — Two people were taken to the hospital Saturday afternoon after a three-car crash in Boardm… [+723 chars]"
+      "author": null,
+      "title": "Destiny 2 Codename Frontiers Changes Explained: Roadmap, New Model, Raids, Dungeons, Next-Gen Armor, The Portal, Solo Ops, and More - TheGamePost",
+      "description": "Destiny 2 is changing in a big way with Codename Frontiers. From free seasonal content to a brand-new release model, revamped raids, next-gen armor, and The Portal, here’s everything you need to know.",
+      "url": "https://thegamepost.com/destiny-2-codename-frontiers-changes-explained/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/03/destiny-2-codename-frontiers-changes-explained-9.webp",
+      "publishedAt": "2025-03-16T18:48:41Z",
+      "content": "Destiny 2 is changing in a big way with Codename Frontiers. From free seasonal content to a brand-new release model, revamped raids, next-gen armor, and The Portal, heres everything you need to know.… [+10220 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joe Hindy",
+      "title": "Your Amazon Echo Will Start Reporting to Amazon on March 28 - Mashable",
+      "description": "Amazon is sending emails to let customers know that local requests will be turned off.",
+      "url": "https://mashable.com/article/alexa-echo-reporting-to-amazon-march-28",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06Qh19IPzyz5Fi83TGeYzd4/hero-image.fill.size_1200x675.v1742149656.jpg",
+      "publishedAt": "2025-03-16T18:28:26Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Electrek"
+        "name": "Videocardz.com"
       },
-      "author": "Fred Lambert",
-      "title": "Tesla’s top crash safety architect quits - Electrek.co",
-      "description": "Tesla’s top crash safety architect, who helped the automaker achieve top safety scores for its entire car line-up, announced that...",
-      "url": "http://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/03/Petter-Winberg-Tesla-crash-safety-architect.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-15T17:52:58Z",
-      "content": "Petter Winberg, Tesla crash safety architect, via LinkedIn\r\nTesla’s top crash safety architect, who helped the automaker achieve top safety scores for its entire car line-up, announced that he is lea… [+3228 chars]"
+      "author": null,
+      "title": "XFX admits Radeon RX 9070 XT spec mistake: no vapor chamber on Mercury non-OC, dual 8-Pin on all non-OC cards - VideoCardz.com",
+      "description": "XFX confirms: all RX 9070 XT non-OC models are using dual 8-pin power connectors Users accuse XFX of misleading them into buying the Radeon RX 9070 XT, as the specs are not as advertised. The company admitted that there was an error and advised customers to s…",
+      "url": "https://videocardz.com/newz/xfx-admits-radeon-rx-9070-xt-spec-mistake-no-vapor-chamber-on-mercury-non-oc-dual-8-pin-on-non-oc-cards",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/03/XFX-RADEON-RX-9070-XT-POWER-CONNECTOR-MISTAKE-HERO-1.jpg",
+      "publishedAt": "2025-03-16T18:00:00Z",
+      "content": "Users accuse XFX of misleading them into buying the Radeon RX 9070 XT, as the specs are not as advertised. The company admitted that there was an error and advised customers to seek help from retaile… [+2485 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "9to5Mac"
       },
-      "author": "Anthony Ha",
-      "title": "Bluesky users debate plans around user data and AI training - TechCrunch",
-      "description": "Social network Bluesky recently published a proposal on GitHub outlining new options it could give users to indicate whether they want their posts and",
-      "url": "https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
-      "publishedAt": "2025-03-15T17:50:18Z",
-      "content": "Social network Bluesky recently published a proposal on GitHub outlining new options it could give users to indicate whether they want their posts and data to be scraped for things like generative AI… [+2638 chars]"
+      "author": "Michael Burkhardt",
+      "title": "Apple executives believe users will ‘love’ upcoming iOS 19 overhaul, per report - 9to5Mac",
+      "description": "Last week, Bloomberg’s Mark Gurman reported that Apple was planning “one of the most dramatic software overhauls” in its history....",
+      "url": "https://9to5mac.com/2025/03/16/apple-executives-believe-users-will-love-upcoming-ios-19-overhaul-per-report/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-16T17:46:00Z",
+      "content": "Last week, Bloombergs Mark Gurman reported that Apple was planning one of the most dramatic software overhauls in its history. The company is currently planning a redesign for iOS 19, iPadOS 19, and … [+2126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Android 16 beta hints at return of custom icon shapes, new notification panel, more [Gallery] - 9to5Google",
+      "description": "Google released a new Android 16 beta earlier this week and, hiding beneath the scenes, there are more new features...",
+      "url": "http://9to5google.com/2025/03/16/android-16-beta-3-notification-panel-icon-shapes-work-in-progress/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Android-16-Logo-6-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-16T17:12:41Z",
+      "content": "Google released a new Android 16 beta earlier this week and, hiding beneath the scenes, there are more new features and changes in the works including custom icon shapes for the app launcher, a revam… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UploadVR"
+      },
+      "author": "David Heaney",
+      "title": "Quest's Spring Savings & Steam's Spring Sale Offer Discounts On Blockbuster VR Games - UploadVR",
+      "description": "Meta's Spring Savings and Steam's Spring Sale offer significant discounts on blockbuster VR titles, including Assassin's Creed Nexus, Skydance's Behemoth, and Half-Life: Alyx.",
+      "url": "https://www.uploadvr.com/quest-spring-savings-steam-spring-sale-2025-discounts-blockbuster-vr-games/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/03/Quest-Spring-Savings-and-Steam-Spring-Sale.png",
+      "publishedAt": "2025-03-16T16:59:16Z",
+      "content": "Meta's Spring Savings and Steam's Spring Sale offer significant discounts on blockbuster VR titles.\r\nOn Meta's Horizon Store you can currently get the Quest versions of major games like Skydances Beh… [+1291 chars]"
     },
     {
       "source": {
@@ -73,181 +138,129 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "Ultra-Thin 'iPhone 17 Air' Rumored to Include These 12 Features - MacRumors",
-      "description": "While the so-called \"iPhone 17 Air\" is not expected to launch until September, there are already plenty of rumors about the ultra-thin...",
-      "url": "https://www.macrumors.com/2025/03/15/ultra-thin-iphone-17-rumors/",
-      "urlToImage": "https://images.macrumors.com/t/VwE5TTfe7ba7GCaoqKtu0zh6qO4=/2500x/article-new/2025/03/iPhone-17-Air-Size-Feature.jpg",
-      "publishedAt": "2025-03-15T17:50:00Z",
-      "content": "While the so-called \"iPhone 17 Air\" is not expected to launch until September, there are already plenty of rumors about the ultra-thin device.\r\nOverall, the \"iPhone 17 Air\" sounds like a mixed bag. W… [+873 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Widder",
-      "title": "Steam’s Spring Sale is taking up to 75 percent off some of our favorite games - The Verge",
-      "description": "Steam’s latest sale slashes prices on Cyberpunk 2077 and slew of other great PC games. You can also save on a Headspace subscription and the Sonos Ray soundbar.",
-      "url": "https://www.theverge.com/good-deals/629616/steam-spring-sale-cyberpunk-2077-sonos-ray-soundbar-deal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Steam-Spring-Sale-2025-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-15T15:49:49Z",
-      "content": "You can also save on a Headspace subscription this weekend, along with Sonos entry-level soundbar.\r\nYou can also save on a Headspace subscription this weekend, along with Sonos entry-level soundbar.\r… [+3096 chars]"
+      "title": "iPhone With Under-Screen Face ID: Here's What the Latest Rumors Say - MacRumors",
+      "description": "When will the iPhone get under-screen Face ID? Rumors continue to surface.   In April 2023, display industry analyst Ross Young shared a roadmap...",
+      "url": "https://www.macrumors.com/2025/03/16/iphone-under-screen-face-id-rumors/",
+      "urlToImage": "https://images.macrumors.com/t/v-r2P4S9LIQkwm29DvTDzcGKC14=/2500x/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg",
+      "publishedAt": "2025-03-16T16:56:40Z",
+      "content": "When will the iPhone get under-screen Face ID? Rumors continue to surface.\r\nIn April 2023, display industry analyst Ross Young shared a roadmap showing that iPhone 17 Pro models would feature under-d… [+920 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Forbes"
       },
-      "author": "Alex Battaglia",
-      "title": "Grand Theft Auto 5's PC RT enhancements hint at GTA 6 features - Eurogamer",
-      "description": "Grand Theft Auto 5 on PC has finally received the RT upgrades to achieve feature parity with the current generation con…",
-      "url": "https://www.eurogamer.net/digitalfoundry-2025-grand-theft-auto-5s-pc-rt-enhancements-hint-at-gta-6-features",
-      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-2_8TR6RlF.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-03-15T15:42:34Z",
-      "content": "Grand Theft Auto 5 on PC has finally received the RT upgrades to achieve feature parity with the current generation console versions, almost three years since they arrived on Xbox and PlayStation con… [+8446 chars]"
+      "author": "Paul Tassi",
+      "title": "‘Monster Hunter Wilds’ Is Putting Up ‘Baldur’s Gate 3’ Post-Launch Numbers - Forbes",
+      "description": "It seems that so far, Monster Hunter Wilds is matching Baldur's Gate 3's pace two weeks after launch, or is at least close to it.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/03/16/monster-hunter-wilds-is-putting-up-baldurs-gate-3-post-launch-numbers/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c9baab84834c6d34d9f5ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-16T16:55:56Z",
+      "content": "Monster Hunter Wilds\r\nCapcom\r\nOne of the highest profile, most-beloved releases of the past few years, if not this entire generation, would be Baldurs Gate 3, the TTRPG that easily swept most GOTY aw… [+2381 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Gematsu"
       },
-      "author": "Nicolas Vega",
-      "title": "From Polaroid to vinyl, Gen Z is making retro tech one of 2025’s biggest trends: ‘These things just have more value’ - CNBC",
-      "description": "Young people are looking to unplug now more than ever before.",
-      "url": "https://www.cnbc.com/2025/03/15/from-polaroid-to-vinyl-gen-z-is-embracing-retro-tech.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108116161-1741960320131-gettyimages-1701406763-dcrf01842.jpeg?v=1741960329&w=1920&h=1080",
-      "publishedAt": "2025-03-15T15:00:01Z",
-      "content": "London Glorfield can hardly remember a world where smartphones and screens weren't a fixture of his everyday life. \r\nThe 23-year-old former recording artist was just five years old when the iPhone wa… [+4172 chars]"
+      "author": "Sal Romano",
+      "title": "Dreams of Another adds PC version - Gematsu",
+      "description": "third-person action adventure game Dreams of Another will be available for PC via Steam alongside its previously announced PlayStation 5 version (with PlayStation VR2 support) in 2025, developer Q-…",
+      "url": "https://www.gematsu.com/2025/03/dreams-of-another-adds-pc-version",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/Dreams-Another_03-16-25.jpg",
+      "publishedAt": "2025-03-16T16:50:40Z",
+      "content": "About\r\nFrom the makers of The Tomorrow Children, PixelJunk Monsters, PixelJunk Eden, PixelJunk Shooter, and Nom Nom Galaxy comes a beautiful new game utilizing point cloud rendering technology.\r\nDrea… [+1318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "This Week’s Japanese Game Releases: Assassin’s Creed Shadows, Atelier Yumia, Bleach: Rebirth of Souls, Xenoblade Chronicles X: Definitive Edition, more - Gematsu",
+      "description": "Assassin’s Creed Shadows for PlayStation 5, Xbox Series, and PC, Atelier Yumia: The Alchemist of Memories & the Envisioned Land for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Sw…",
+      "url": "https://www.gematsu.com/2025/03/this-weeks-japanese-game-releases-assassins-creed-shadows-atelier-yumia-bleach-rebirth-of-souls-xenoblade-chronicles-x-definitive-edition-more",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/Weekly-Japanese-Game-Releases_03-16-25.jpg",
+      "publishedAt": "2025-03-16T16:43:09Z",
+      "content": "Assassin’s Creed Shadows for PlayStation 5, Xbox Series, and PC, Atelier Yumia: The Alchemist of Memories &amp; the Envisioned Land for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, an… [+3594 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "AJ Dellinger",
-      "title": "Apple Overpromised on AI Siri and Its Staff Is Not Happy About it - Gizmodo",
-      "description": "Siri chief reportedly called the delay in features \"ugly.\"",
-      "url": "https://gizmodo.com/apple-overpromised-on-ai-siri-and-its-staff-is-not-happy-about-it-2000576368",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/apple-siri-lawsuit.jpg",
-      "publishedAt": "2025-03-15T14:40:47Z",
-      "content": "Last week, in a classic Friday news dump, Apple made the deeply embarrassing announcement that it would be delaying plans to infuse its voice assistant Siri with artificial intelligence-powered capab… [+2586 chars]"
+      "author": "Justin Carter",
+      "title": "Horizon Actor Ashly Burch Speaks on Sony’s AI Aloy Video - Gizmodo",
+      "description": "A genAI Aloy may not pop up in Horizon 3, but the possibility has still left a bad taste in viewers' mouths.",
+      "url": "https://gizmodo.com/horizon-actor-ashly-burch-speaks-on-sonys-ai-aloy-video-2000576589",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/ashly-burch-horizon.jpg",
+      "publishedAt": "2025-03-16T16:25:22Z",
+      "content": "You may have seen a video earlier this week of Aloy, protagonist of PlayStations Horizon franchise, recreated with generative AI in a leaked Sony test demo. The video spurred a whirlwind of emotions … [+2557 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Barron's"
       },
-      "author": null,
-      "title": "5 things I wish I would've known before purchasing an Oura Ring - Android Authority",
-      "description": "The Oura Ring offers powerful, passive health tracking, but there are other factors of the experience worth considering before buying.",
-      "url": "https://www.androidauthority.com/before-purchasing-oura-ring-3530600/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/02/Oura-Ring-4-Baselines-scaled.jpg",
-      "publishedAt": "2025-03-15T14:35:20Z",
-      "content": "No one got down on one knee to present the Oura Ring to me I fell in love with the device all on my own. A subtle, jewelry-inspired fitness tracker without a distracting display and with fantastic ba… [+5366 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Claire Ballentine, Francesca Maglione",
-      "title": "The ChatGPT Edge: Why Regular People Are Embracing $200 AI Bills - Bloomberg",
-      "description": "Americans are turning to artificial intelligence to supercharge their work and hobbies. They’re willing to pay for it too.",
-      "url": "https://www.bloomberg.com/news/articles/2025-03-15/chatgpt-moves-into-mainstream-americans-willing-pay-200-ai-subscriptions",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNw13dmHKn7U/v1/1200x814.jpg",
-      "publishedAt": "2025-03-15T14:00:11Z",
-      "content": "Creating an itinerary for a vacation. Planning a workout regime to optimize gains. Generating content ideas for an Instagram-famous dog named Meatball Ravioli. \r\nTheres no limit these days to the use… [+259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Victoria Kennedy",
-      "title": "Horizon Forbidden West actress Ashly Burch responds to Sony's controversial AI Aloy - Eurogamer",
-      "description": "Actress Ashly Burch has spoken out on the leaked AI Aloy footage which made the rounds earlier this week.",
-      "url": "https://www.eurogamer.net/horizon-forbidden-west-actress-ashly-burch-responds-to-sonys-controversial-ai-aloy",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-from-Horizon-Forbidden-West-showing-Aloy-on-the-beach-with-an-image-of-her-actress-Ashly-Burch-overlayed-on-top-and-to-one-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-03-15T13:39:02Z",
-      "content": "Actress Ashly Burch has responded to the leaked AI Aloy footage, which made the rounds earlier this week.\r\nThe footage in question showed a Sony employee engaging with an on-screen AI version of the … [+3588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Android 16 improves multitasking by letting you minimize desktop windows - Android Authority",
-      "description": "Android 16 is introducing a minimize button that lets you hide apps in desktop windowing mode. Here's how it works.",
-      "url": "https://www.androidauthority.com/android-16-minimize-desktop-windows-3535415/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/03/Desktop_windowing_minimize_button_in_Android_16.jpg",
-      "publishedAt": "2025-03-15T13:37:33Z",
-      "content": "<ul><li>The Android 16 Beta 3 release has introduced a minimize button to the header bar of apps opened in Androids desktop windowing mode.</li><li>Desktop windowing is a freeform windowing mode that… [+3249 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jacek Krywko",
-      "title": "A “biohybrid” robotic hand built using real human muscle cells - Ars Technica",
-      "description": "A real bit of cyborg hardware highlights the technology’s current limitations.",
-      "url": "https://arstechnica.com/science/2025/03/a-biohybrid-robotic-hand-built-using-real-human-muscle-cells/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-1963244559-1152x648.jpg",
-      "publishedAt": "2025-03-15T13:00:31Z",
+      "author": "Barron's",
+      "title": "Tesla and SpaceX Crossed Over on Saturday. Maybe That Can Help the Stock. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/tesla-spacex-musk-stock-9367dba7",
+      "urlToImage": null,
+      "publishedAt": "2025-03-16T16:18:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "9to5google.com"
       },
-      "author": "Kotaku Staff",
-      "title": "An Amazing Steam Sale, A Major Pokémon Go Development, And More Of The Week's Top News - Kotaku",
-      "description": "Also, Battlefield 6 leaks have us hyped, and we look back at Chrono Trigger 30 years later",
-      "url": "https://kotaku.com/gaming-news-steam-sale-pokemon-go-battlefield-6-1851770044",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f01d5c6d36b41fd6421d8257cd66d602.jpg",
-      "publishedAt": "2025-03-15T13:00:00Z",
-      "content": "This week saw Pokémon Go become the property of the Saudi government as Scopely, the mobile game maker owned by Savvy Games Group which itself was founded by Saudi Arabias Public Investment Fund, acq… [+371 chars]"
+      "author": "Ben Schoon",
+      "title": "Trying to make sense of a Google Pixel 10 with three cameras - 9to5Google",
+      "description": "We got our first look at the Pixel 10 series this week and it looks rather familiar, but Google is...",
+      "url": "http://9to5google.com/2025/03/16/google-pixel-10-camera-rumors/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/google-pixel-10-cad-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-16T16:06:57Z",
+      "content": "We got our first look at the Pixel 10 series this week and it looks rather familiar, but Google is apparently planning to add a third camera to the base model, and that raises a lot of questions.\r\nTh… [+4693 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WhatCulture"
+        "name": "TechSpot"
       },
-      "author": "Michael Fincher",
-      "title": "10 Video Game Hard Modes That Made Games EASIER - WhatCulture",
-      "description": "Just because they say it's hard it doesn't mean it is!",
-      "url": "https://whatculture.com/gaming/10-video-game-hard-modes-that-made-games-easier",
-      "urlToImage": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/02/de8252ce16fdaac6-1200x675.jpg",
-      "publishedAt": "2025-03-15T12:37:19Z",
-      "content": "Difficulty in video games is a tough balancing act. Developers need to come up with modes that cater to the skills and preferences of many different players, which can cause some to be too hard or to… [+1919 chars]"
+      "author": "Zo Ahmed",
+      "title": "AI coding assistant pulls a life lesson: \"I won't do your work for you\" - TechSpot",
+      "description": "I cannot generate code for you, as that would be completing your work... you should develop the logic yourself. This ensures you understand the system and can...",
+      "url": "https://www.techspot.com/news/107163-sassy-ai-assistant-refuses-vibe-code-lectures-developer.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/10/2024-10-16-image-17.jpg",
+      "publishedAt": "2025-03-16T15:34:00Z",
+      "content": "WTF?! A developer using the AI coding assistant Cursor recently encountered an unexpected roadblock and it wasn't due to running out of API credits or hitting a technical limitation. After successful… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Natalie Brown",
+      "title": "If You’re Tired Of The Eyesores In Your Home, Try These 46 Solutions - BuzzFeed",
+      "description": "Trying even just one of these tips will instantly give your home a little refresh.",
+      "url": "https://www.buzzfeed.com/nataliebrown/if-youre-tired-of-the-eyesores-in-your-home-try-these",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/12/21/campaign_images/5e2259fe84aa/if-youre-tired-of-the-eyesores-in-your-home-try-t-2-1072-1741815239-10_dblbig.jpg",
+      "publishedAt": "2025-03-16T15:01:02Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
+        "name": "GameSpot"
       },
-      "author": null,
-      "title": "Zuckerberg Declares the End of Mobile Phones and Confirms the Tech That’s Replacing Them - The Daily Galaxy --Great Discoveries Channel",
-      "description": "Mark Zuckerberg just made a bold prediction that could change everything. Smartphones, the device we rely on daily, may soon become obsolete. A new technology is emerging, promising to replace screens and revolutionize how we interact with the digital world.",
-      "url": "https://dailygalaxy.com/2025/03/zuckerberg-declares-the-end-of-mobile-phones-and-confirms-the-tech-thats-replacing-them/",
-      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/02/Mark-Zuckerberg-with-curly-hair-wearing-a-white-sweater-speaking-into-a-black-microphone.jpg",
-      "publishedAt": "2025-03-15T12:30:39Z",
-      "content": "For nearly three decades, smartphones have ruled our livesuntil now. If Mark Zuckerberg is right, their reign is coming to an end. In less than a decade, he predicts that smart glasses will take over… [+3765 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WhatCulture"
-      },
-      "author": "Jack Pooley",
-      "title": "10 Video Game Remakes That Are FINALLY Happening - WhatCulture",
-      "description": "These long-awaited remakes are FINALLY coming soon.",
-      "url": "https://whatculture.com/gaming/10-video-game-remakes-that-are-finally-happening",
-      "urlToImage": "https://d2thvodm3xyo6j.cloudfront.net/media/2022/09/742a0c2c6365ffba-1200x675.jpg",
-      "publishedAt": "2025-03-15T12:19:31Z",
-      "content": "It's a common complaint among gamers these days that there are far too many remakes and remasters being released, that publishers are wasting precious developer resources on rehashing past glories ra… [+2102 chars]"
+      "author": "Grace Benfell",
+      "title": "Metro 2033 Makes Killing Easy And Atrocity Quiet - GameSpot",
+      "description": "Even 15 years on, Metro 2033’s morality system is one of the most haunting in video game history.",
+      "url": "https://www.gamespot.com/articles/metro-2033-makes-killing-easy-and-atrocity-quiet/1100-6530131/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4459480-3807271-metro2033.jpg",
+      "publishedAt": "2025-03-16T15:00:00Z",
+      "content": "Metro 2033 is celebrating its 15-year anniversary today, March 16, 2025. Below, we examine how its subtle morality system helped to illustrate its broader points about humanity and violence.\r\nIn vide… [+7616 chars]"
     }
   ]
 }
