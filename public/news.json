@@ -1,253 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 65,
+  "totalResults": 67,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Rumor: Nintendo Direct happening this week, ahead of Switch 2 reveal - Nintendo Everything",
+      "description": "Nintendo Direct for March 2025 now rumored with multiple sources claiming it's happening before the Switch 2 reveal.",
+      "url": "https://nintendoeverything.com/rumor-nintendo-direct-happening-this-week-ahead-of-switch-2-reveal/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Direct-March-2025-rumor.jpg",
+      "publishedAt": "2025-03-24T21:28:50Z",
+      "content": "Multiple sources are pointing to the possibility of a Nintendo Direct taking place later this week.\r\nThis is not to be confused with the Nintendo Direct: Nintendo Switch 2 event planned for April 2, … [+1141 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Nate Anderson",
+      "title": "After borking my Pixel 4a battery, Google borks me, too - Ars Technica",
+      "description": "The devil is in the details.",
+      "url": "https://arstechnica.com/gadgets/2025/03/how-google-nerfed-my-pixel-4a-then-stuck-it-to-me-too/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/18-1152x648-1742845011.jpg",
+      "publishedAt": "2025-03-24T21:01:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Xplore"
+      },
+      "author": "Bob Yirka",
+      "title": "Perseus: A tool for tracking the coordination of pump-and-dump crypto coin schemes - Tech Xplore",
+      "description": "A team of computer scientists and financial specialists at University College London has developed a tool to track the coordination efforts of pump-and-dump crypto coin scheme manipulators. They have published a paper on the arXiv preprint server describing t…",
+      "url": "https://techxplore.com/news/2025-03-perseus-tool-tracking-dump-crypto.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/perseus-a-tool-for-tra.jpg",
+      "publishedAt": "2025-03-24T20:50:04Z",
+      "content": "A team of computer scientists and financial specialists at University College London has developed a tool to track the coordination efforts of pump-and-dump crypto coin scheme manipulators. They have… [+2733 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here - The Verge",
+      "description": "Apple just rolled out its iOS 18.4 release candidate, which comes with the AI-powered Priority Notifications feature that highlights important notifications.",
+      "url": "https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-24T19:58:41Z",
+      "content": "The feature, which uses Apple Intelligence to highlight your most important notifications, is included in the latest iOS release candidate.\r\nThe feature, which uses Apple Intelligence to highlight yo… [+1197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Michael Nuñez",
+      "title": "DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that's a nightmare for OpenAI - VentureBeat",
+      "description": "DeepSeek's free 685B-parameter AI model runs at 20 tokens/second on Apple's Mac Studio, outperforming Claude Sonnet while using just 200 watts, challenging OpenAI's cloud-dependent business model.",
+      "url": "https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_whale_made_of_computer_code_chinese_f_619bb717-8408-4140-90f1-dd66bfc1e499.webp?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-03-24T19:50:58Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nChinese AI startup DeepSeek has quietly released a new large language m… [+12330 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Barbara Krasnoff",
+      "title": "Sony’s noise-canceling WH-1000XM5 headphones are on sale for $150 off - The Verge",
+      "description": "Sony’s WH-1000XM5 wireless headphones, our pick for the best wireless headphones for most people, are now available for $150 less.",
+      "url": "https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454340/DSCF7916.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-24T19:08:04Z",
+      "content": "There are also great deals on an Oura smart ring, a Razer gaming mouse, and Keychron mechanical keyboards.\r\nThere are also great deals on an Oura smart ring, a Razer gaming mouse, and Keychron mechan… [+2987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication - The Hacker News",
+      "description": "Five critical flaws in Ingress NGINX Controller expose 6,500+ clusters; update now to prevent unauthorized remote code execution.",
+      "url": "https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjHlwsnUepUlWpwFiKweqPP3vCKOcnbee6MnlDwVTWs_TYiFbWPIfYBJ0fN0x3HCC7hHcHeo4sFNLoWMce5ZM9-F16BeQ05Ol7yBhOP5v8hyPCJbY6DwPgEh1o-Ky3nszcSPE0s1XKxnRnGIpdixE4T4VFOpYrc4CedZ2xtSwVUNW3HBbvmYG6lFqlcMZ/s728-rw-e365/cluster.png",
+      "publishedAt": "2025-03-24T18:55:00Z",
+      "content": "A set of five critical security shortcomings have been disclosed in the Ingress NGINX Controller for Kubernetes that could result in unauthenticated remote code execution, putting over 6,500 clusters… [+3439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Jim Norman",
+      "title": "Forget The Lawsuit, Pocketpair Says Palworld On Switch 2 Is \"100% Worth Considering\" - Nintendo Life",
+      "description": "\"If it's beefy enough\"",
+      "url": "https://www.nintendolife.com/news/2025/03/forget-the-lawsuit-pocketpair-says-palworld-on-switch-2-is-100percent-worth-considering",
+      "urlToImage": "https://images.nintendolife.com/b08f0a0e74528/large.jpg",
+      "publishedAt": "2025-03-24T18:49:03Z",
+      "content": "Image: Nintendo Life\r\nWhile its patent lawsuit with Nintendo rages in the background, Palworld developer Pocketpair isn't willing to completely turn its back on the House of Mario just yet. Namely, t… [+1584 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "On the year-long Google Photos redesign - 9to5Google",
-      "description": "The big development for Google Photos in the past year is “Ask Photos,” but that shouldn’t overshadow a series of redesigns...",
-      "url": "http://9to5google.com/2025/03/23/year-long-google-photos-redesign/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/08/google-photos-cover-all-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-23T22:50:37Z",
-      "content": "The big development for Google Photos in the past year is the Gemini-powered Ask Photos, but that shouldnt overshadow a series of redesigns that feels like it concluded with the simplified bottom bar… [+3662 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Courtney Lynch",
-      "title": "29 Surprising Amazon Finds That, Frankly, No One Will Believe Are From Amazon - BuzzFeed",
-      "description": "Anyone who asks where you got these items from is gonna have their mind blown.",
-      "url": "https://www.buzzfeed.com/courtney_lynch/surprising-amazon-finds-no-one-believe-an",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/5/20/enhanced/46a718436d0a/original-1335-1733430098-2.jpg?crop=2988:1992;6,0&resize=1250:830",
-      "publishedAt": "2025-03-23T22:31:02Z",
-      "content": "BuzzFeeder Amanda Davis says: \"This was an impulse purchase of my own doing and it was so worth it! I got the medium size for myself and it's tall, durable, and fills up an empty corner very very nic… [+721 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Google is rolling out Gemini’s real-time AI video features - The Verge",
-      "description": "Google has begun rolling out Project Astra features to Gemini Live, letting Gemini “see” smartphone owners’ screens or what they point their cameras at.",
-      "url": "https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-23T22:30:14Z",
-      "content": "Gemini can see screens and camera feeds in real-time for some Google One AI Premium subscribers now.\r\nGemini can see screens and camera feeds in real-time for some Google One AI Premium subscribers n… [+1465 chars]"
+      "title": "Google on how to clean Pixel Buds Pro 2 mesh that ‘can greatly affect’ audio quality - 9to5Google",
+      "description": "Earlier this month, Google shared more detailed instructions on how to clean the “rear vent mesh” on the Pixel Buds Pro 2.",
+      "url": "http://9to5google.com/2025/03/24/pixel-buds-pro-2-clean-mesh/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Pixel-Buds-Pro-2-clean-mesh.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-24T18:46:30Z",
+      "content": "Earlier this month, Google shared more detailed instructions on how to clean the rear vent mesh on the Pixel Buds Pro 2.\r\nThis is not the mesh above and below the G logo on the cap of the Pixel Buds … [+1931 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hackaday"
+        "name": "GameSpot"
       },
-      "author": "Al Williams",
-      "title": "RTL-SDR With Only A Browser - Hackaday",
-      "description": "Surely by now you’ve at least heard of RTL-SDR — a software project that let’s cheap TV tuner dongles work as a software-defined radios. A number of projects and tools have spun o…",
-      "url": "https://hackaday.com/2025/03/23/rtl-sdr-with-only-a-browser/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/03/websdr.png",
-      "publishedAt": "2025-03-23T20:00:00Z",
-      "content": "Surely by now you’ve at least heard of RTL-SDR — a software project that let’s cheap TV tuner dongles work as a software-defined radios. A number of projects and tools have spun off the original effo… [+1004 chars]"
+      "author": "Jordan Ramée",
+      "title": "Crimson Desert Might Have The Most Realistic In-Game Physics I've Ever Seen - GameSpot",
+      "description": "Pearl Abyss showcased its Black Desert game engine during GDC 2025.",
+      "url": "https://www.gamespot.com/articles/crimson-desert-might-have-the-most-realistic-in-game-physics-ive-ever-seen/1100-6530297/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4463510-ss_58f1d5e4836506166313ec2108a4c191e8f65903.1920x1080.jpg",
+      "publishedAt": "2025-03-24T18:35:58Z",
+      "content": "While at GDC 2025, I spoke with a few members of Pearl Abyss, the developer and publisher responsible for sandbox MMORPG Black Desert Online. The team is now working on a single-player action-adventu… [+3125 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "9to5Mac"
       },
-      "author": "Andreas Osthoff",
-      "title": "HP EliteBook Ultra G1i 14 laptop review - HP's new business flagship is a great total package - Notebookcheck.net",
-      "description": "Notebookcheck has tested the new HP EliteBook Ultra G1i with an Intel Core Ultra 7 258V, 32 GB RAM and a 2.8K OLED display at 120 Hz.",
-      "url": "https://www.notebookcheck.net/HP-EliteBook-Ultra-G1i-14-laptop-review-HP-s-new-business-flagship-is-a-great-total-package.984955.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/HP/EliteBook_Ultra_G1i_14/elitebook_ultra_g1i_case_10.JPG",
-      "publishedAt": "2025-03-23T19:49:00Z",
-      "content": "HP EliteBook Ultra G1i 14 audio analysis\r\n(+) | speakers can play relatively loud (93 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 18.3% lower than median(±) | linearity of bass is average (… [+5855 chars]"
+      "author": "Ryan Christoffel",
+      "title": "watchOS 11.4 gives your Apple Watch an alarm feature it’s long been missing - 9to5Mac",
+      "description": "watchOS 11.4 introduces a new feature for the alarm that lets users who sleep with the Apple Watch do something they couldn’t before.",
+      "url": "https://9to5mac.com/2025/03/24/watchos-114-gives-your-apple-watch-an-alarm-feature-its-long-been-missing/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/The-Apple-Watch-blood-oxygen-lawsuit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-24T18:21:19Z",
+      "content": "The next Apple Watch software update is on its way. watchOS 11.4 just debuted its RC version, meaning it should ship to all users soon, and now we know it will include a key new alarm feature for tho… [+1579 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "‘One of the most atrocious games ever published’ is coming to Steam, and it’s not a joke - Polygon",
+      "description": "Big Rigs: Over the Road Racing is coming back, 22 years later, with a re-release on Steam of the infamous PC racing game.",
+      "url": "https://www.polygon.com/news/545206/big-rigs-over-road-racing-steam-pc-release-date-2025",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/03/youre_winner.jpg?quality=90&strip=all&crop=0%2C15.064732444231%2C100%2C69.870535111538&w=1200",
+      "publishedAt": "2025-03-24T17:41:14Z",
+      "content": "Big Rigs: Over the Road Racing, widely regarded as one of the worst video games ever commercially released, is getting a 2025 release on Steam and the exhumation of this 2003 disaster does not appear… [+3101 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "POLITICO.eu"
+        "name": "Slate Magazine"
       },
-      "author": "Joe Stanley-Smith",
-      "title": "Jeremy Clarkson taunts ‘idiot’ Elon Musk over Tesla vandalism - POLITICO Europe",
-      "description": "“What makes it so juicy is that he’s being pecked to death by the very people who put him on the pedestal in the first place. The eco hippies.”",
-      "url": "https://www.politico.eu/article/jeremy-clarkson-idiot-elon-musk-tesla-vandalism/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/23/GettyImages-2185570381-scaled.jpg",
-      "publishedAt": "2025-03-23T19:12:00Z",
-      "content": "Musk, the largest political donor to U.S. President Donald Trumps successful 2024 election campaign, has assumed a loosely defined government role in which he spearheads efforts within the Department… [+1416 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Google confirms it deleted Maps Timeline data for some - The Verge",
-      "description": "Google admits that it accidentally deleted Google Maps Timeline data for some users, and that those who hadn’t turned on cloud backups are out of luck.",
-      "url": "https://www.theverge.com/news/634442/google-maps-timeline-data-deleted-cloud-backup-recovery",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-23T19:08:12Z",
-      "content": "Only those with cloud backups enabled have a chance at getting the data back in Google Maps.\r\nOnly those with cloud backups enabled have a chance at getting the data back in Google Maps.\r\nGoogle Maps… [+1758 chars]"
+      "author": "Danny M. Lavery, Emily Yoffe",
+      "title": "Help! My Husband’s Internet Mistress Is Extorting Him for Cash. Am I Allowed to be Mad at Him? - Slate",
+      "description": "I know he's a victim here, but ...",
+      "url": "https://slate.com/advice/2025/03/husband-mistress-nude-picture-extortion-money-marriage-advice.html",
+      "urlToImage": "https://compote.slate.com/images/fe75d2da-a78c-45d7-980a-53c13dbf91dc.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-03-24T17:36:00Z",
+      "content": "Our advice columnists have heard it all over the yearsso were diving into the Dear Prudence archives to share classic letters with our readers. Submit your own questions to Prudie here.\r\nDear Prudenc… [+7167 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Glassalmanac.com"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Brian Foster",
-      "title": "GTA 6 Is Set for a 2025 Release ! The Most Anticipated Game Now Has a Confirmed Launch Date - Glass Almanac",
-      "description": "For years, fans have been eagerly waiting for Grand Theft Auto 6, speculating, analyzing leaks, and clinging to every tiny detail Rockstar Games has dropped. While ... Continue Reading →",
-      "url": "https://glassalmanac.com/gta-6-is-set-for-a-2025-release-the-most-anticipated-game-now-has-a-confirmed-launch-date/",
-      "urlToImage": "https://glassalmanac.com/wp-content/uploads/2025/03/GTA-6-Is-Set-for-a-2025-Release.jpg",
-      "publishedAt": "2025-03-23T17:30:44Z",
-      "content": "For years, fans have been eagerly waiting for Grand Theft Auto 6, speculating, analyzing leaks, and clinging to every tiny detail Rockstar Games has dropped. While the developer remains tight-lipped,… [+3131 chars]"
+      "author": "Brian",
+      "title": "Rumor: Pokemon Legends: Z-A has 27 new Mega Evolutions, first ones leaked - Nintendo Everything",
+      "description": "Based on a credible rumor, Pokemon Legends: Z-A seems to have 27 new Mega Evolutions, and the first ones have been leaked.",
+      "url": "https://nintendoeverything.com/rumor-pokemon-legends-z-a-has-27-new-mega-evolutions-first-ones-leaked/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-Mega-Evolutions-leak.jpg",
+      "publishedAt": "2025-03-24T17:20:15Z",
+      "content": "Mega Evolutions are back in Pokemon Legends: Z-A after a hiatus, and based on a new rumor, it seems that Game Freak is adding a bunch of introducing a bunch of new ones.\r\nAccording to Pyoro – yes, th… [+871 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Joe Rossignol",
-      "title": "iPhone 17 Pro Launching Later This Year With These 10 New Features - MacRumors",
-      "description": "While the iPhone 17 Pro and iPhone 17 Pro Max are not expected to launch until September, there are already plenty of rumors about the devices. ...",
-      "url": "https://www.macrumors.com/2025/03/23/iphone-17-pro-10-rumored-features/",
-      "urlToImage": "https://images.macrumors.com/t/zcN8phfvpFUaleerod1UlBaUGoE=/1600x/article-new/2025/02/iPhone-17-Pro-Render-Front-Page-Tech.jpg",
-      "publishedAt": "2025-03-23T17:00:00Z",
-      "content": "Why on gods green earth would we go back to aluminum that makes no senseStarting to sound like a broken record here with that grotesque camera bump:- The flash will cast shadows that dont match the l… [+525 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Noah Hunter",
-      "title": "Daily Deals: SteelSeries Arctis Nova Pro Wireless Headset, Final Fantasy VII Rebirth, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/the-best-deals-for-march-23-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/14/steelseriesnova-1723649893105.jpg?width=1280",
-      "publishedAt": "2025-03-23T16:18:18Z",
-      "content": "The weekend is officially here, and we've rounded up the best deals you can find! Discover the best deals for Sunday, March 23, below:\r\nNintendo Switch Lite for $158.27\r\nPick up a Nintendo Switch Lit… [+5404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Google Confirms Gmail Upgrade—3 Billion Users Must Now Decide - Forbes",
-      "description": "Exciting update or privacy nightmare—you decide.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/03/23/google-confirms-gmail-upgrade-3-billion-users-must-now-decide/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/604215fdc1f0a944b260e8d1/0x0.jpg?format=jpg&crop=1246,791,x1092,y950,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-23T16:15:45Z",
-      "content": "Gmail is suddenly changing\r\nNurPhoto via Getty Images\r\nUpdate: Republished on March 23 with new a serious new warning for Google users, and advice on changing critical settings on your devices.\r\nTher… [+4717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "See full bio",
-      "title": "Plex Lovers Watch Out: Plex’s Lifetime Sub Is $120 Until April 29 - CNET",
-      "description": "If you've been holding out on getting a lifetime Plex Pass, now's the time. After April 29, the lifetime subscription will increase to $250, and monthly and annual subscriptions will also increase.",
-      "url": "https://www.cnet.com/tech/plex-users-watch-out-plexs-lifetime-sub-is-120-until-april-29th/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/5d262399bfcbf7d924a3bb2d824a1972c3802726/hub/2025/03/23/34b61efa-4860-4e43-bf3a-95d7ebd6dbce/plex-movie-and-tv.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-03-23T16:00:00Z",
-      "content": "You know that list of apps you download as soon as you get a new entertainment device? Yeah, Plex has been on my list of apps I automatically download since I discovered it in 2020. Apart from being … [+1803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "MSI Rumored To Prepare RTX 5080 With 24 GB VRAM Capacity; Revealed In X870 Tomahawak WiFi Compatibility List - Wccftech",
-      "description": "MSI is reportedly preparing its own custom variant of the GeForce RTX 5080 with 24 GB VRAM capacity as was seen in one of the motherboard compatibility lists.",
-      "url": "https://wccftech.com/msi-rumored-to-prepare-rtx-5080-with-24-gb-vram-capacity/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/03/RTX-5080-24-GB.png",
-      "publishedAt": "2025-03-23T15:04:00Z",
-      "content": "As per the VGA compatibility list on the MSI website, there could be another variant of the RTX 5080 from the company with a higher VRAM size.\r\nUsually, NVIDIA board partners are not allowed to alter… [+2089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheGamer"
-      },
-      "author": "Kristin Hitchcock",
-      "title": "9 Best Indie Games You Can Beat In A Single Sitting - TheGamer",
-      "description": "If you only have a little bit of time, you can beat these indie games in a few hours.",
-      "url": "https://www.thegamer.com/best-indie-games-short-beat-single-sitting/",
-      "urlToImage": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/03/copy-of-untitled-2-11.jpg",
-      "publishedAt": "2025-03-23T14:15:00Z",
-      "content": "Summary\r\n<ul><li>\r\n Indie games offer unique stories and gameplay in compact and memorable experiences.\r\n </li><li>\r\n Experience emotionally engaging narratives and clever puzzles in under three hour… [+6151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Tom Henderson",
-      "title": "Several Builds of Unreleased Games Are Leaking, Including Riot Games’ 2XKO - Insider Gaming",
-      "description": "Several builds of unreleased games have been uploaded to an undisclosed datamining discord server, including Riot Games' 2XKO.",
-      "url": "https://insider-gaming.com/several-builds-of-unreleased-games-are-leaking-including-riot-games-2xko/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/03/2xko.png",
-      "publishedAt": "2025-03-23T14:13:16Z",
-      "content": "Several builds of unreleased games have been uploaded to an undisclosed datamining discord server, including Riot Games’ 2XKO.\r\nSo far, Insider Gaming has been able to verify that early builds of the… [+1111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": null,
-      "title": "Starlink Mini Review - PCMag",
-      "description": "Need satellite internet on the go? Starlink Mini combines around-the-globe connectivity with a compact, efficient design that can travel almost anywhere with you.",
-      "url": "https://www.pcmag.com/reviews/starlink-mini",
-      "urlToImage": "https://i.pcmag.com/imagery/reviews/04T6OROG9d03kNU39FxTUjz-1.fit_lim.size_1200x630.v1740586116.jpg",
-      "publishedAt": "2025-03-23T14:00:05Z",
+      "author": "Kyle Orland",
+      "title": "How a nephew’s CD burner inspired early Valve to embrace DRM - Ars Technica",
+      "description": "Valve’s Harrington: Unchecked CD duplication “put our entire business model at risk.”…",
+      "url": "https://arstechnica.com/gaming/2025/03/how-a-nephews-cd-burner-inspired-early-valve-to-embrace-drm/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/hlcd-1076x648.png",
+      "publishedAt": "2025-03-24T17:16:04Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Ivan Mehta",
-      "title": "Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M - TechCrunch",
-      "description": "Browser Use, the 'agentic' framework used by Manus, among other platforms, has raised $17 million from investors including Paul Graham.",
-      "url": "https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Team-Photo-from-Felicis-Ventures.jpg?resize=1200,800",
-      "publishedAt": "2025-03-23T14:00:00Z",
-      "content": "We may not have an agreed-upon definition of AI “agent” yet, but a multitude of startups want to create “agentic” tools to automate various tasks online. One such firm, Browser Use, has attracted a t… [+2772 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Why Balatro’s developer stays anonymous - The Verge",
-      "description": "Balatro’s developer, LocalThunk, wasn’t the person who picked up the game’s GDC awards to remain anonymous. The game’s publishing team also discussed the upcoming update.",
-      "url": "https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Jokers.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-03-23T13:00:00Z",
-      "content": "He was at GDC, but his identity remains a mystery. \r\nHe was at GDC, but his identity remains a mystery. \r\nBalatro just won four Game Developers Choice Awards, including Game of the Year, but the pers… [+2053 chars]"
+      "author": "Timothy Monbleau",
+      "title": "Assassin's Creed Shadows Uses Level Scaling, But You Can Exploit The Heck Out Of It - Kotaku",
+      "description": "The feudal Japan of Ubisoft's latest open-world epic gets stronger as you do, but so does legendary gear",
+      "url": "https://kotaku.com/assassins-creed-shadows-level-scaling-legendary-gear-1851771943",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fba5e4c55840d624bda341a0eb76c135.jpg",
+      "publishedAt": "2025-03-24T17:15:00Z",
+      "content": "Assassins Creed Shadows is an open-world RPG through and through, complete with stats to level up and progressively more powerful gear to find. As you might expect, it employs a level scaling system,… [+3060 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Starcitygames.com"
       },
-      "author": "See full bio",
-      "title": "Best Point-and-Shoot Camera for 2025 - CNET",
-      "description": "Point-and-shoots are on the rise again. I tested the current crop of pocket-size cameras for travel, wildlife, underwater, better-than-your-phone shots, and more.",
-      "url": "https://www.cnet.com/tech/computing/best-point-and-shoot-camera/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b9d07646c5d49d57b10754e81ac067254f570924/hub/2025/03/14/dd45b409-af59-4c0b-9eb5-cf0f962fc1b1/pxl-20250302-215234812-portrait.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-03-23T13:00:00Z",
-      "content": "What is a point-and-shoot camera? \r\nA point-and-shoot camera has a fixed lens, i.e., it can't be removed. And the camera is typically small and easily portable. Compare this to DSLR and most mirrorle… [+4133 chars]"
+      "author": "Nick Miller",
+      "title": "Get Graveyard Value With Our Tarkir: Dragonstorm Previews - Star City Games",
+      "description": "Two uncommons generate card advantage for little effort",
+      "url": "https://articles.starcitygames.com/magic-the-gathering/get-graveyard-value-with-our-tarkir-dragonstorm-previews/",
+      "urlToImage": "https://scg-static.starcitygames.com/articles/2025/03/2dc4cdb6-summary-card-1200x630-tdm-preview-2025.png",
+      "publishedAt": "2025-03-24T17:00:00Z",
+      "content": "Courtesy of Wizards of the Coast (WotC), take a look at a couple uncommons with graveyard-synergies coming in Tarkir: Dragonstorm Glacial Dragonhunt and Kishla Trawlers.\r\nGlacial Dragonhunt is a nice… [+938 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Oops: Google says it might have deleted your Maps Timeline data - Ars Technica",
+      "description": "Google Maps switched to local-only Timeline storage in December.",
+      "url": "https://arstechnica.com/gadgets/2025/03/oops-google-says-it-might-have-deleted-your-maps-timeline-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1208999514-scaled-1152x648-1742831508.jpg",
+      "publishedAt": "2025-03-24T16:56:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Gemini app preps letting you generate 8-second videos with Veo 2 - 9to5Google",
+      "description": "Last month, Google teased what’s coming next to Gemini Advanced, and work on video generation in the Gemini app with Veo 2...",
+      "url": "http://9to5google.com/2025/03/24/gemini-app-veo-video-generation/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Veo-IO-24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-24T16:41:00Z",
+      "content": "Last month, Google teased whats coming next to Gemini Advanced, and work on letting Gemini app users generate video with Veo 2 is finalizing. \r\nAbout APK Insight: In this APK Insight post, weve decom… [+2302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Clair Obscur: Expedition 33 won't have a mini map to preserve its sense of discovery, says producer - Eurogamer",
+      "description": "Clair Obscur: Expedition 33 won't include a minimap for its exploration, though a compass will be added to the explorab…",
+      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-wont-have-a-mini-map-to-preserve-its-sense-of-discovery-says-producer",
+      "urlToImage": "https://assetsio.gnwcdn.com/Clair-Obscur_-Expedition-33-_-Release-Date-Trailer-0-35-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-03-24T16:37:07Z",
+      "content": "Clair Obscur: Expedition 33 won't include a minimap for its exploration, though a compass will be added to the explorable world map for release.\r\nThe game's producer, and developer Sandfall Interacti… [+4974 chars]"
     }
   ]
 }
