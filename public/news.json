@@ -1,188 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 57,
+  "totalResults": 65,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Variety"
       },
-      "author": "Richard Lawler",
-      "title": "Google says its new ‘reasoning’ Gemini AI models are the best ones yet - The Verge",
-      "description": "Gemini 2.5 Pro Experimental is now available as a multimodal “reasoning” model that Google says outperforms competitors on AI benchmark tests.",
-      "url": "https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-      "publishedAt": "2025-03-25T21:57:37Z",
-      "content": "Upgraded AI reasoning models that pause to think are key to the additional capabilities of Gemini 2.5, says Google.\r\nUpgraded AI reasoning models that pause to think are key to the additional capabil… [+1702 chars]"
+      "author": "Todd Spangler",
+      "title": "OpenAI CEO Responds to ChatGPT Users Creating Studio Ghibli-Style AI Images - Variety",
+      "description": "The latest version of OpenAI's image generation technology has resulted in a flood of users sharing images transformed in the style of Studio Ghibli.",
+      "url": "https://variety.com/2025/digital/news/openai-ceo-chatgpt-studio-ghibli-ai-images-1236349141/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/Studio-Ghibli-OpenAI-ChatGPT-Image.png?w=1000&h=563&crop=1",
+      "publishedAt": "2025-03-26T21:49:00Z",
+      "content": "The latest version of OpenAI‘s image generation technology has resulted in a flood of users sharing images on social media that have been transformed in the style of Studio Ghibli, the legendary Japa… [+2139 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "Dexerto"
       },
-      "author": "Stephen Council",
-      "title": "SF tech company Niantic lays off staff from Ferry Building after $3.85B megadeal - SFGATE",
-      "description": "Niantic, the SF tech company selling off Pokémon Go and other parts of its gaming business while spinning off a geospatial startup, is laying off staff.",
-      "url": "https://www.sfgate.com/tech/article/niantic-spatial-layoffs-ferry-building-20240572.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/64/15/27214668/3/rawImage.jpg",
-      "publishedAt": "2025-03-25T21:10:14Z",
-      "content": "An aerial view of San Franciscos famous Ferry Building and Embarcadero area at sunrise.\r\nDiane Bentley Raymond via Getty Images\r\nEarlier this month, San Francisco tech company Niantic sold off its hi… [+2676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Game publishers talk challenges of GTA 6 launch in new report: \"We don't want to be anywhere near that\" - Eurogamer",
-      "description": "A new report has highlighted the \"havoc\" Grand Theft Auto 6's lack of a release date is causing among game publishers, …",
-      "url": "https://www.eurogamer.net/game-publishers-talk-challenges-of-gta-6-launch-in-new-report-we-dont-want-to-be-anywhere-near-that",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-pins-dates.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-03-25T21:01:06Z",
-      "content": "A new report has highlighted the \"havoc\" Grand Theft Auto 6's lack of a release date is causing among game publishers, as they attempt to draw up launch plans for their titles that won't put them on … [+3782 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Adam Bankhurst",
-      "title": "Game Informer Is Back and the Whole Team Is Returning With It Thanks to a New Owner: Neill Blomkamp's Video Game Studio - IGN",
-      "description": "A little over half a year after GameStop shut it down in August 2024, Game Informer is officially back and the whole team is returning with it, thanks to Neill Blomkamp's video game studio.",
-      "url": "https://www.ign.com/articles/game-informer-is-back-and-the-whole-team-is-returning-with-it-thanks-to-a-new-owner-neill-blomkamps-video-game-studio",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/25/game-informer-1742933349409.png?width=1280",
-      "publishedAt": "2025-03-25T20:44:27Z",
-      "content": "A little over half a year after GameStop shut it down in August 2024, Game Informer is officially back and the whole team is returning with it.\r\nIn a 'Letter From the Editor' by Game Informer Editor-… [+2637 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "No cloud needed: Nvidia creates gaming-centric AI chatbot that runs on your GPU - Ars Technica",
-      "description": "Nvidia G-Assist has limited functionality right now, but it runs locally.",
-      "url": "https://arstechnica.com/gaming/2025/03/no-cloud-needed-nvidia-creates-gaming-centric-ai-chatbot-that-runs-on-your-gpu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/IMG_2639-1152x648.jpeg",
-      "publishedAt": "2025-03-25T20:15:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Charlie Hall",
-      "title": "BattleTech: Gothic is indeed grim, dark, and dramatically different - Polygon",
-      "description": "BattleTech: Gothic adds big creepy monsters to the game of big stompy robots. The stand-along game is the first in the BattleTech Continuum of titles.",
-      "url": "https://www.polygon.com/gaming/546616/battletech-gothic-announcement-release-date-price",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/03/urbies_of_doom.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-      "publishedAt": "2025-03-25T20:02:12Z",
-      "content": "Long-time holders of the BattleTech tabletop gaming license, Catalyst Game Labs, have something surprisingly grim and dark to talk about at this weeks AdeptiCon convention. BattleTech: Gothic, formal… [+2043 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Widder",
-      "title": "The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale - The Verge",
-      "description": "The Kindle Colorsoft Signature Edition, Amazon’s first color e-reader, is on sale for $224.99 ($55 off) as part of Amazon’s Big Spring Sale.",
-      "url": "https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25788807/amazon_kindle_colorsoft_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-25T19:50:07Z",
-      "content": "For a limited time, you can grab Amazons first color ebook reader for just $224.99.\r\nFor a limited time, you can grab Amazons first color ebook reader for just $224.99.\r\nWhen we reviewed the Kindle C… [+1394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Ex-Blizzard Devs' New Game Looks Like Sea Of Thieves In Space - Kotaku",
-      "description": "Wildgate is a sci-fi extraction shooter with ship-to-ship combat",
-      "url": "https://kotaku.com/wildgate-trailer-blizzard-sea-thieves-extraction-fps-1851772283",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7a81b6a8cce527b99e63045d395d10f1.png",
-      "publishedAt": "2025-03-25T19:30:00Z",
-      "content": "The first thing I thought after watching the Wildgate trailer was that we already have Concord at home (or at least we used to). The second was that the sci-fi extraction shooter from ex-Blizzard dev… [+2691 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Tony Hawk Reportedly Intervened To Get Bam Margera Added Back To THPS 3+4 - Kotaku",
-      "description": "After skating with Margera earlier this month Hawk was allegedly impressed by his sobriety",
-      "url": "https://kotaku.com/tony-hawk-activision-bam-margera-added-thps-3-4-remake-1851772278",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/13d0058ee7b50d10997c534cc1aba22c.jpg",
-      "publishedAt": "2025-03-25T19:20:00Z",
-      "content": "Professional skater and Jackass star Bam Margera will be included in the next major Tony Hawk skateboarding game after Hawk himself reportedly stepped in and forced Activison to add Margera to the ga… [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "People Can't Get Enough of TVs That Look Like Picture Frames - Gizmodo",
-      "description": "Hisense now has a 85-inch Canvas TV to take on Samsung’s gigantic The Frame and TCL's NXTVision Pro.",
-      "url": "https://gizmodo.com/tvs-that-look-like-picture-frames-are-getting-more-popular-and-cheaper-2000580502",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Hisense-85-inch-Canvas-TV-Hero2.jpg",
-      "publishedAt": "2025-03-25T18:45:21Z",
-      "content": "Those who like big TVs but also hate the look of a ginormous display jutting from their wall are getting more choices for hiding their screen fixation. Hisense, known for making quality, budget-end T… [+2987 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Song",
-      "title": "The Legendary Alienware Area-51 Gaming Laptop Has Returned: New Style, More Power, Better Cooling - IGN",
-      "description": "Equipped with the new Nvida Blackwell RTX 5080 GPU.",
-      "url": "https://www.ign.com/articles/the-new-alienware-area-51-gaming-laptop-is-now-available-at-dell",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/25/alienwarearea51laptop-1742922830360.jpg?width=1280",
-      "publishedAt": "2025-03-25T18:36:31Z",
-      "content": "Dell announced the return of the venerable Alienware Area-51 gaming laptop back in CES 2025, and starting today it is finally available to order. It comes in two size variants: the 16\" model starts a… [+3420 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "Anker’s ‘InstaCord’ battery with dual retractable USB-C cables is 20 percent off - The Verge",
-      "description": "As part of Amazon’s Big Spring Sale, Anker is taking 20 percent off its 165W Laptop Power Bank with retractable USB-C cables.",
-      "url": "https://www.theverge.com/tech/635498/anker-laptop-power-bank-usb-c-deal-amazon-big-spring-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Anker-Laptop-Power-Bank-Retractable.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "publishedAt": "2025-03-25T18:32:46Z",
-      "content": "No cables are needed since this one has two built-in.\r\nIts extremely hard to beat Ankers A1695 InstaCord 25,000mAh portable battery when it comes to value and price, especially now that its 20 percen… [+793 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Dave Stopera",
-      "title": "My Entire Body Is Still In Complete Shock After Seeing These 25 Fascinating Pictures For The Very First Time Last Week - BuzzFeed",
-      "description": "Now that right there is something.",
-      "url": "https://www.buzzfeed.com/daves4/fascinating-pictures-march-25-2025",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/25/18/thumb/l7jdhLGBa.jpg?crop=1994:1044;6,30%26downsize=1250:*",
-      "publishedAt": "2025-03-25T18:19:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Kristen Radtke, Barbara Krasnoff",
-      "title": "Why I love the Calligraphr font-creation app - The Verge",
-      "description": "The Calligraphr app lets you and your friends create a new font out of your handwriting for fun or work.",
-      "url": "https://www.theverge.com/tech/634904/calligraphr-fonts-favorites",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257644_Why_I_love_Calligraphr_KRadtke_0001.jpg?quality=90&strip=all&crop=0%2C25.028950759244%2C100%2C49.942098481512&w=1200",
-      "publishedAt": "2025-03-25T18:17:36Z",
-      "content": "Make a new font out of your handwriting for fun or work.\r\nKristen Radtke is creative director at The Verge. I work with the art team on the overall look and feel of the site across illustrations, pho… [+3947 chars]"
+      "author": "Ryan Lemay",
+      "title": "All Warzone gameplay changes on Verdansk in Season 3 - Dexerto",
+      "description": "The Warzone devs went all out to improve the overall experience on Verdansk, while also staying true to the original.",
+      "url": "https://www.dexerto.com/call-of-duty/all-warzone-gameplay-changes-on-verdansk-in-season-3-3170521/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/03/26/Gm-VnAgXsAEihkW.jpg",
+      "publishedAt": "2025-03-26T21:32:54Z",
+      "content": "Warzones original map, Verdansk, looks and feels just like fans remember in Season 3, but a few distinct gameplay changes are set to overhaul the battle royales meta. \r\nWhile developing the Verdansk … [+2032 chars]"
     },
     {
       "source": {
@@ -190,51 +34,220 @@
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Apple is launching 15+ new products later this year, here’s what’s coming - 9to5Mac",
-      "description": "Apple has already launched five new products this year, but there are a whopping 15+ more in the 2025 lineup. Here’s what’s coming.",
-      "url": "https://9to5mac.com/2025/03/25/apple-launching-15-new-products-later-this-year/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-iphone-event-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-25T17:55:46Z",
-      "content": "Apple has already launched five new products this year, but the company has much more in store for users. In addition to major software changes like iOS 19s redesign, there are 15+ new Apple products… [+2939 chars]"
+      "title": "CarPlay in iOS 18.4 adds three new features that will be here soon - 9to5Mac",
+      "description": "Even while Apple continues developing its CarPlay 2 project, iOS 18.4 is bringing three improvements to the existing CarPlay.",
+      "url": "https://9to5mac.com/2025/03/26/carplay-in-ios-184-adds-three-new-features/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/carplay-bolt.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-26T20:15:00Z",
+      "content": "Even as CarPlay 2 work keeps chugging along, Apple has been slowly adding new features to the existing CarPlay too. Last fall CarPlay got some Apple Intelligence enhancements, and recently Ford EV ow… [+2031 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Emma Roth",
-      "title": "Samsung’s 3D Odyssey monitor is now available to reserve, and it might cost $2,000 - The Verge",
-      "description": "Samsung is getting ready to launch a trio of new monitors, including the Odyssey 3D, which offers a glasses-free 3D gaming experience.",
-      "url": "https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/G90XF_005_Dynamic1_Silver.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-25T17:36:43Z",
-      "content": "The 27-inch monitor offers a glasses-free 3D gaming experience.\r\nThe 27-inch monitor offers a glasses-free 3D gaming experience.\r\nAfter Samsung first revealed its glasses-free 3D monitor last year, t… [+2266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple’s Worldwide Developers Conference returns the week of June 9 - Apple Newsroom",
-      "description": "Apple today announced it will host its annual Worldwide Developers Conference (WWDC) online from June 9 to 13, 2025.",
-      "url": "https://www.apple.com/newsroom/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/tile/Apple-WWDC24-event-branding-lp.jpg.og.jpg?202503251700",
-      "publishedAt": "2025-03-25T17:01:46Z",
-      "content": "March 25, 2025\r\nPRESS RELEASE\r\nApples Worldwide Developers Conference returns the week of June 9\r\nWWDC25 will be available entirely online and is free for all developers\r\nCUPERTINO, CALIFORNIA Apple … [+2900 chars]"
+      "author": "Sarah Perez",
+      "title": "The Lumon Terminal Pro computer pops up on Apple’s website - TechCrunch",
+      "description": "The Lumon Terminal Pro -- the computer used in Apple TV's hit series \"Severance\" -- has appeared on Apple's retail website. When shopping Apple.com,",
+      "url": "https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Lumon-terminal.jpg?resize=1200,822",
+      "publishedAt": "2025-03-26T19:43:51Z",
+      "content": "The Lumon Terminal Pro — the computer used in Apple TV’s hit series “Severance” — has appeared on Apple’s retail website. When shopping Apple.com, you’ll see the new device, adorned with a red “New” … [+1324 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kyle Orland",
-      "title": "After DDOS attacks, Blizzard rolls back Hardcore WoW deaths for the first time - Ars Technica",
-      "description": "New policy comes as OnlyFangs streaming guild planned to quit over DDOS disruptions.",
-      "url": "https://arstechnica.com/gaming/2025/03/not-so-permadeath-blizzard-revives-hardcore-wow-characters-killed-by-ddos-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/deadwow-1152x648-1742919025.png",
-      "publishedAt": "2025-03-25T16:52:30Z",
+      "author": "Ryan Whitwam",
+      "title": "Google makes Android development private, will continue open source releases - Ars Technica",
+      "description": "Google says this change will simplify things for developers and OEMs.",
+      "url": "https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Android-15-1152x648.jpg",
+      "publishedAt": "2025-03-26T19:20:24Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off - The Verge",
+      "description": "Shokz has given the OpenRun Pro 2 bone conduction headphones their first-ever discount during Amazon’s Big Spring Sale.",
+      "url": "https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/shokzopenrunpro2image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-26T19:00:16Z",
+      "content": "Enhanced bass, USB-C charging, and other perks make these a must-buy for outdoor activities.\r\nEnhanced bass, USB-C charging, and other perks make these a must-buy for outdoor activities.\r\nWhen it com… [+907 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI adopts rival Anthropic’s standard for connecting AI models to data - TechCrunch",
+      "description": "OpenAI is embracing rival Anthropic's standard, Model Context Protocol (MCP), for connecting AI assistants to the systems where data resides.",
+      "url": "https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+      "publishedAt": "2025-03-26T18:18:35Z",
+      "content": "OpenAI is embracing rival Anthropic’s standard for connecting AI assistants to the systems where data resides.\r\nIn a post on X on Wednesday, OpenAI CEO Sam Altman said that OpenAI will add support fo… [+1412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "Nightdive boss shares optimism for ‘No One Lives Forever’ remaster, despite studio closure - Video Games Chronicle",
+      "description": "The System Shock developer 'won't give up' on securing the cult classic shooter",
+      "url": "https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/03/no-one-lives-forever.jpg",
+      "publishedAt": "2025-03-26T18:12:19Z",
+      "content": "Nightdive’s studio head says he’s optimistic that one day the studio could remaster classic shooter The Operative: No One Lives Forever, despite the recent closure of its developer Monolith Productio… [+2420 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Samuel Tolbert",
+      "title": "Xbox Game Pass will give you more benefits in free-to-play games like Heroes of the Storm - Windows Central",
+      "description": "More free-to-play games are getting Xbox Game Pass Ultimate and PC Game Pass benefits, including Heroes of the Storm.",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-game-pass-ultimate-free-to-play-benefits-april-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vWNy2TD3gqjbuxz4JayGTK-1200-80.jpg",
+      "publishedAt": "2025-03-26T18:00:50Z",
+      "content": "Players that subscribe to Xbox Game Pass Ultimate or PC Game Pass will soon be getting even more benefits for their subscriptions, with new bonuses coming to several popular free-to-play games.\r\nAs s… [+1906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Robert Ramsey",
+      "title": "Assassin's Creed Shadows Gets Positive Reviews In Japan as Bayonetta Director Speaks Out - Push Square",
+      "description": "Open world, characters, writing all praised",
+      "url": "https://www.pushsquare.com/news/2025/03/assassins-creed-shadows-gets-positive-reviews-in-japan-as-bayonetta-director-speaks-out",
+      "urlToImage": "https://images.pushsquare.com/4bd62ff0078f5/large.jpg",
+      "publishedAt": "2025-03-26T18:00:00Z",
+      "content": "There's been much debate over how well Assassin's Creed Shadows would be received in Japan. After all, the game's set in the country's feudal 16th century, and its open world map attempts to recreate… [+3264 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Sadie Gennis",
+      "title": "The 19 best board game deals of the Amazon Big Spring Sale - Polygon",
+      "description": "Some of our favorite board games are on sale at Amazon right now, including strategy games, party games, and more.",
+      "url": "https://www.polygon.com/sales-guide/546315/best-board-game-deals-amazon-big-spring-sale",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/03/polygon-mosaic-1.png?quality=90&strip=all&crop=6.9036234941171,7.4757068357334,41.789715464304,32.819148270396",
+      "publishedAt": "2025-03-26T16:58:25Z",
+      "content": "The Amazon Big Spring Sale is in full swing, featuring markdowns on controllers, Legos, Blu-ray players, and much more. If youre in the market for a new board game to play, there are tons of great on… [+504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "YouTube Music now lets you fine-tune AI radios, upload custom thumbnails on Android - 9to5Google",
+      "description": "After making Ask Music more prominent and bringing to iOS, YouTube Music today announced the ability to tune AI radios...",
+      "url": "http://9to5google.com/2025/03/26/youtube-music-ai-radios-tune/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/YouTube-Music-Ask-Music-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-26T16:55:00Z",
+      "content": "After making Ask Music more prominent in the Home feed and bringing to iOS, YouTube Music today announced the ability to tune AI radios, as well as a handful of other features.\r\nFollowing last years … [+1317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "13 PS5 Games That Are All A Steal At $10 Or Less During Sony's Spring Sale - Kotaku",
+      "description": "Devil May Cry 5 and more are discounted for the next two weeks",
+      "url": "https://kotaku.com/ps5-spring-sale-kingdom-come-resident-evil-cheap-1851772499",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1a2eba87b80e16867d7643447d1f9e63.jpg",
+      "publishedAt": "2025-03-26T16:40:00Z",
+      "content": "Sony is closing March out with its 2025 spring sale across PlayStation 5 and PS4. There are a lot of big games that are a great deal right now, thanks to discounts of up to 90 percent off, including … [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ea.com"
+      },
+      "author": null,
+      "title": "Pre-order F1® 25 - Electronic Arts - Electronic Arts Home Page",
+      "description": "This story is yours. Leave your mark on the world of racing in F1® 25, the official video game of the 2025 FIA Formula One World Championship™. Create your story and run your own F1® dynasty in the revamped My Team mode, featuring its biggest update since 202…",
+      "url": "https://www.ea.com/games/f1/f1-25",
+      "urlToImage": "https://drop-assets.ea.com/images/aQTN8MicnZoLRHEDFb1cG/9d6283e5f886c76d1f016a8e11a69ad0/EAS_F1_25_ICONIC_ED_1920x1080.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+      "publishedAt": "2025-03-26T16:18:45Z",
+      "content": "Leave your mark on the world of racing in EA SPORTS F1® 25 featuring a revamped My Team mode, the thrilling third chapter of Braking Point, and step into the cockpit of APXGP by pre-ordering the Icon… [+41 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Alice Jovanée",
+      "title": "The best deal of Amazon’s Spring Sale is a charger that’s just a lil’ guy - Polygon",
+      "description": "The Ugreen Uno is a powerful 100 W adapter that’s equipped with a trio of USB-C ports, a single USB-A port, and a sassy little grin.",
+      "url": "https://www.polygon.com/good-deals/546978/amazon-spring-sale-ugreen-charger",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/03/b15onx0i.png?quality=90&strip=all&crop=0%2C0.66957825778105%2C100%2C98.660843484438&w=1200",
+      "publishedAt": "2025-03-26T16:10:57Z",
+      "content": "I only bought one thing during Amazons Big Spring Sale and it was the Ugreen Uno Charger. This adapter wont charge your devices faster, but it does have a big, dumb LED face that lights up whenever i… [+1184 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Rebekah Valentine",
+      "title": "Lies of P Director Says Overture DLC Isn’t Connected to Base Game’s Massive Final Cutscene Reveal - IGN",
+      "description": "Ever since the upcoming DLC for Lies of P, Overture, was announced, fans have been speculating about what mysteries it might contain. And at the Game Developers Conference last week, IGN learned at least one mystery it won’t explain: the base game’s buck-wild…",
+      "url": "https://www.ign.com/articles/lies-of-p-director-says-overture-dlc-isnt-connected-to-base-games-massive-final-cutscene-reveal",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/01/lies-of-p-dlc-art2-1698838503857.png?width=1280",
+      "publishedAt": "2025-03-26T16:06:11Z",
+      "content": "Ever since the upcoming DLC for Lies of P, Overture, was announced, fans have been speculating about what mysteries it might contain. And at the Game Developers Conference last week, IGN learned at l… [+3756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Victoria Kennedy",
+      "title": "Here's your PS Plus games for April - Eurogamer",
+      "description": "Sony has announced the next batch of monthly titles coming to its PlayStation Plus subscription service.",
+      "url": "https://www.eurogamer.net/heres-your-ps-plus-games-for-april",
+      "urlToImage": "https://assetsio.gnwcdn.com/PS-Plus-logo-with-RoboCop-overlayed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-03-26T16:05:12Z",
+      "content": "Sony has announced the next batch of monthly titles coming to its PlayStation Plus subscription service.\r\nAs of 1st April (not fooling), PlayStation Plus members across all subscription tiers will be… [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pinkbike.com"
+      },
+      "author": "Dario DiGiulio",
+      "title": "First Ride: 2025 Fox 36 Fork - Ready for the All-Mountain Resurgence - Pinkbike.com",
+      "description": "The new 36 gets stiffer, smoother, and now has a novel isolated air spring.",
+      "url": "https://www.pinkbike.com/news/first-ride-2025-fox-36-all-mountain-excellence.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb27907729/p4pb27907729.jpg",
+      "publishedAt": "2025-03-26T16:01:00Z",
+      "content": "FeaturesThe new 36 comes in 140, 150, and 160mm travel increments, with options for both 29\" and 27.5\" wheels. You can run any of Fox's current long-travel damper offerings, with three options to cho… [+4910 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "How Extropic Plans to Unseat Nvidia - WIRED",
+      "description": "Challenging the world's most successful chipmaker with an entirely new type of computer chip may seem absurd—but it is no more ridiculous than the AI race itself.",
+      "url": "https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/",
+      "urlToImage": "https://media.wired.com/photos/67e33082d1c72b534a133e67/191:100/w_1280,c_limit/AI-Lab-AI-Computing-Chip-Business.jpg",
+      "publishedAt": "2025-03-26T16:00:00Z",
+      "content": "This signal on the oscilloscope may seem simple at first glance, but it demonstrates a key building block for our platform, representing the birth of the worlds first scalable, mass-manufacturable, a… [+2067 chars]"
     }
   ]
 }
