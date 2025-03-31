@@ -4,120 +4,55 @@
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Kyle Orland",
-      "title": "Why do LLMs make stuff up? New research peers under the hood. - Ars Technica",
-      "description": "Claude’s faulty “known entity” neurons sometime override its “don’t answer” circuitry.",
-      "url": "https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-1479183112-1152x648.jpg",
-      "publishedAt": "2025-03-28T22:33:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "Lenovo’s upcoming SteamOS handheld will cost $549.99, not $499.99, when it comes out - The Verge",
-      "description": "Lenovo shared with The Verge that its Legion Go S handheld gaming PC with SteamOS will start at $549.99, not $499.99, which is the price it shared at CES 2025.",
-      "url": "https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247466_CES_2025_Lenovo_Legion_Go_S_SteamOS_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-28T20:16:01Z",
-      "content": "Itll ship with the same starting price as the Steam Deck OLED.\r\nThe SteamOS-powered version of Lenovos Legion Go S handheld gaming PC debuted at CES 2025 with a somewhat attractive $499.99 price tag.… [+1413 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Google discontinues Nest Protect smoke alarm and Nest x Yale lock - Ars Technica",
-      "description": "Google continues backing away from smart home hardware.",
-      "url": "https://arstechnica.com/gadgets/2025/03/google-discontinues-nest-protect-smoke-alarm-and-nest-x-yale-lock/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/nest-protect-1152x648.jpg",
-      "publishedAt": "2025-03-28T19:29:30Z",
-      "content": null
+      "author": null,
+      "title": "Over a million private photos from dating apps exposed online - BBC.com",
+      "description": "The often-explicit pictures are being stored without password protection, leaving them vulnerable to a hack.",
+      "url": "https://www.bbc.com/news/articles/c05m5m5v327o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a59/live/2332d480-0c0c-11f0-ba12-8d27eb561761.png",
+      "publishedAt": "2025-03-30T00:10:16Z",
+      "content": "Researchers have discovered nearly 1.5 million pictures from specialist dating apps many of which are explicit being stored online without password protection, leaving them vulnerable to hackers and … [+2895 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Dark Horizons"
       },
-      "author": "Kenneth Shepard",
-      "title": "Hey, PlayStation, If You’re Putting Games On Switch, Here’s A Few More Ideas - Kotaku",
-      "description": "If Sony is open to putting some of its more niche games on Switch, there’s plenty of good ones that could make the jump",
-      "url": "https://kotaku.com/playstation-games-switch-patapon-everybodys-golf-sly-1851773137",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d896fa5fbd04e02dc84b4cd234929b6c.jpg",
-      "publishedAt": "2025-03-28T18:00:00Z",
-      "content": "Alright, heres the real reason I made this list. Im here to put Sly Cooper propaganda on your screen. Fans are still holding out hope that Sony will one day greenlight a fifth game in the heist platf… [+907 chars]"
+      "author": "Garth Franklin",
+      "title": "GTA 6 Date Reveal Deliberately Held Back - Dark Horizons",
+      "description": "Strauss Zelnick, who runs Take-Two Interactive who owns Rockstar Games, recently sat down for a video interview with Bloomberg to discuss the highly anticipated “Grand Theft Auto VI”. While the fifth game arrived five years after the fourth, the sixth game is…",
+      "url": "https://www.darkhorizons.com/gta-6-date-reveal-deliberately-held-back/",
+      "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2025/01/analysts-gta-vi-will-earn-3-2b-in-year-1.jpg",
+      "publishedAt": "2025-03-29T22:04:48Z",
+      "content": "Strauss Zelnick, who runs Take-Two Interactive who owns Rockstar Games, recently sat down for a video interview with Bloomberg to discuss the highly anticipated “Grand Theft Auto VI”.\r\nWhile the fift… [+2028 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "iOS 18.4: Here are Apple’s full release notes - 9to5Mac",
-      "description": "The second iOS 18.4 Release Candidate build is rolling out to developers and public beta testers today. In conjunction with...",
-      "url": "https://9to5mac.com/2025/03/28/ios-18-4-release-notes-new-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/ios-18-release-notes.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-28T17:35:08Z",
-      "content": "The second iOS 18.4 Release Candidate build is rolling out to developers and public beta testers today. In conjunction with that, Apple has shared the official release notes for iOS 18.4 for the firs… [+4224 chars]"
+      "author": "Michael Burkhardt",
+      "title": "M4 MacBook Air missed out on one of Apple’s latest hardware trends - 9to5Mac",
+      "description": "In the past year, Apple has had an interesting trend across its new hardware releases: a bigger focus on thermal...",
+      "url": "https://9to5mac.com/2025/03/29/m4-macbook-air-missed-out-on-apple-trend/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/m4-macbook-air-sleeve.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-29T17:33:54Z",
+      "content": "In the past year, Apple has had an interesting trend across its new hardware releases: a bigger focus on thermal performance. It kicked off with the M4 iPad Pro last year, and then continued with the… [+2733 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "Video Games Chronicle"
       },
-      "author": "Zac Bowden",
-      "title": "Windows 11 blocks ability to skip Microsoft Account during setup - Windows Central",
-      "description": "The popular \"bypassnro\" command, which let users to skip connecting to the Internet and signing into a Microsoft Account, is being removed.",
-      "url": "https://www.windowscentral.com/software-apps/windows-11/microsoft-will-force-windows-11-installs-to-use-a-microsoft-account-confirms-removal-of-popular-setup-bypass",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ATvpNwRaWSWjRE2uewWPpf-1200-80.jpg",
-      "publishedAt": "2025-03-28T17:26:56Z",
-      "content": "Microsoft has confirmed that it's removing a popular command line that allowed users to bypass connecting to the internet and signing into a Microsoft Account when setting up a new Windows 11 PC.\r\nWh… [+2111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "The Legend of Heroes: Trails beyond the Horizon coming west this fall for PS5, PS4, Switch, and PC - Gematsu",
-      "description": "NIS America will release The Legend of Heroes: Trails beyond the Horizon, known as The Legend of Heroes: Kai no Kiseki – Farewell, O Zemuria in Japan, for PlayStation 5, PlayStation 4, Switch…",
-      "url": "https://www.gematsu.com/2025/03/the-legend-of-heroes-trails-beyond-the-horizon-coming-west-this-fall-for-ps5-ps4-switch-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/03/Trails-beyond-the-Horizon-Ann_03-28-25.jpg",
-      "publishedAt": "2025-03-28T17:00:31Z",
-      "content": "NIS America will release The Legend of Heroes: Trails beyond the Horizon, known as The Legend of Heroes: Kai no Kiseki – Farewell, O Zemuria in Japan, for PlayStation 5, PlayStation 4, Switch, and PC… [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "New ‘Assassin’s Creed’ Comes in Strong as Ubisoft Restructures - Bloomberg",
-      "description": "Assassin’s Creed Shadows , set in feudal Japan, had the second-highest day-one revenue of any game in the series",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-03-28/new-assassin-s-creed-comes-in-strong-as-ubisoft-restructures",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLLi9xUegzRQ/v1/1200x675.jpg",
-      "publishedAt": "2025-03-28T17:00:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defector.com"
-      },
-      "author": null,
-      "title": "‘Animal Crossing: New Horizons’ Arrived At Just The Right Time - Defector",
-      "description": "Welcome to The Backlog, a series in which we will take a look back at 12 games from 2020 that, in one way or another, had a lasting impact on the video game industry. In the first two installments of The Backlog, I looked at games that released in January of …",
-      "url": "https://defector.com/animal-crossing-new-horizons-arrived-at-just-the-right-time",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/03/sc836s.png",
-      "publishedAt": "2025-03-28T16:08:00Z",
-      "content": "Welcome to The Backlog, a series in which we will take a look back at 12 games from 2020 that, in one way or another, had a lasting impact on the video game industry. \r\nIn the first two installments … [+11137 chars]"
+      "author": "Andy Robinson",
+      "title": "Tomodachi Life’s Switch debut shatters even Nintendo Switch 2 hype in Japan - Video Games Chronicle",
+      "description": "Nintendo has a new most-liked tweet",
+      "url": "https://www.videogameschronicle.com/news/tomodachi-lifes-switch-debut-shatters-even-nintendo-switch-2-hype-in-japan/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/03/tomodachi-life-living-the-dream.jpg",
+      "publishedAt": "2025-03-29T14:50:09Z",
+      "content": "Nintendos Tomodachi Life: Living the Dream announcement is now more popular than even the reveal of Nintendo Switch 2 on its Japanese X account.\r\nAnnounced in Nintendos latest Direct live stream on T… [+1375 chars]"
     },
     {
       "source": {
@@ -125,103 +60,129 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google announces new Pixel 9a launch date - 9to5Google",
-      "description": "After a last-minute delay that did not end up being very long, Google today announced that Pixel 9a will launch starting April 10.",
-      "url": "http://9to5google.com/2025/03/28/pixel-9a-launch-date/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Pixel-9a-in-all-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-28T15:38:00Z",
-      "content": "After a last-minute delay, Google today announced that Pixel 9a will launch starting April 10.\r\nThe Pixel 9a was originally expected to hit store shelves earlier this week. However, Google delayed it… [+2050 chars]"
+      "title": "Google Nest teases ‘more helpful home devices in the coming months’ - 9to5Google",
+      "description": "In discontinuing the Nest Protect and Nest x Yale Lock yesterday, Google Nest reiterated its commitment to “building devices for the home.”",
+      "url": "http://9to5google.com/2025/03/29/new-google-nest-home-devices/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_lineup_2020_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-29T14:48:22Z",
+      "content": "In discontinuing the Nest Protect and Nest x Yale Lock yesterday, Google Nest reiterated its commitment to building devices for the home.\r\nYesterdays Upcoming changes to our device portfolio announce… [+1940 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "Gizmodo.com"
       },
-      "author": null,
-      "title": "Snapdragon 8 Elite Gen 2 To Share Same Cluster As Snapdragon 8 Elite, But Mass Produced On TSMC’s Newer 3nm ‘N3P’ Technology, Along With An Adreno 840 GPU Upgrade And More - Wccftech",
-      "description": "A tipster has shared some specifications of Qualcomm’s Snapdragon 8 Elite Gen 2, stating that it will share the same CPU cluster as the Snapdragon 8 Elite",
-      "url": "https://wccftech.com/snapdragon-8-elite-gen-2-same-cluster-as-snapdragon-8-elite-and-other-specifications/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Snapdragon-8-Elite-Gen-2.jpg",
-      "publishedAt": "2025-03-28T15:32:00Z",
-      "content": "Qualcomm will announce its second flagship SoC for smartphones that will feature its in-house Oryon cores, retaining the approach that it kept with the Snapdragon 8 Elite. Naturally, we should expect… [+2604 chars]"
+      "author": "Mike Fazioli",
+      "title": "The New Apple Watch Series 10 Has Never Been So Cheap, Amazon Shows No Mercy - Gizmodo",
+      "description": "Only six months after its release, Apple's newest smartwatch has established itself as one of its best ever, and $329 is its best price ever.",
+      "url": "https://gizmodo.com/the-new-apple-watch-series-10-has-never-been-so-cheap-amazon-shows-no-mercy-2000582459",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/apple-watch-series-10.jpg",
+      "publishedAt": "2025-03-29T14:10:33Z",
+      "content": "The Apple Watch Series 10 is the 15th iteration of the paradigm-changing smartwatch, and according to reviewers and users alike, it may well be the best one of all. One thing is for certain right now… [+2322 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
-      "author": "Umar Shakir",
-      "title": "Helldivers 2 is locking out players who use older CPUs - The Verge",
-      "description": "A Helldivers 2’s CPU requirement is locking out players after they’ve already bought and played the game.",
-      "url": "https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/helldivers-2-screenshot-disclaimer-18-en-08sept23.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-03-28T15:13:41Z",
-      "content": "Some users have spent hundreds of hours playing the game on their PCs, but they cant anymore.\r\nSome users have spent hundreds of hours playing the game on their PCs, but they cant anymore.\r\nSome Hell… [+2035 chars]"
+      "author": null,
+      "title": "Mach 16 Chaos Revealed By Supercomputer Shakes Up Hypersonic Flow Research - The Daily Galaxy --Great Discoveries Channel",
+      "description": "A hypersonic simulation at Mach 16 just shattered long-held assumptions in aerospace design — and the results weren’t visible in any wind tunnel.",
+      "url": "https://dailygalaxy.com/2025/03/mach-16-revealed-supercomputer-hypersonic/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/03/Mach-16-Chaos-Revealed-By-Supercomputer-Shakes-Up-Hypersonic-Flow-Research.jpg",
+      "publishedAt": "2025-03-29T14:00:00Z",
+      "content": "A groundbreaking simulation study led by researchers at the University of Illinois Urbana-Champaign has uncovered never-before-seen flow instabilities around hypersonic vehicles traveling at Mach 16,… [+3647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zak Doffman",
+      "title": "Microsoft Warns 1 Billion Windows Users—Do Not Use Password - Forbes",
+      "description": "Stop using your password—here’s why",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/03/29/microsoft-warns-1-billion-windows-users-do-not-use-password/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e6399763c7d52486a03df2/0x0.jpg?format=jpg&crop=872,539,x373,y230,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-29T13:57:45Z",
+      "content": "Do not use your password\r\nVCG via Getty Images\r\nUpdate: Republished on March 29 with FIDOs response to Microsofts password deletion update and a major change to the companys sign-in requirements.\r\nAl… [+5667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "PlayStation Store Has $70 PS5 Games on Sale for Just $7 - ComicBook.com",
+      "description": "PS5 games that normally costs $70 are currently 90% off, and consequently available on the PlayStation Store for just $7.",
+      "url": "http://comicbook.com/gaming/news/ps5-playstation-store-games-sale-march/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/03/p-l-a-y-s-t-a-t-i-o-n_7ab558.png?resize=2000,1125",
+      "publishedAt": "2025-03-29T13:48:40Z",
+      "content": "The PlayStation Store has 1,122 PS5 games on sale right now and 2,074 PS4 games on sale as well. In other words, the biggest PlayStation Store sale so far this year is currently live and available un… [+2090 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Christian Wait",
+      "title": "I want the AirPods Max even more now that they’re $70 off and somehow still in stock - Mashable",
+      "description": "I figured they’d be sold out by now. I was wrong, and my wallet is in danger.",
+      "url": "https://mashable.com/article/march-29-airpods-max-amazon-deal",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02UBSVDy7HTQZu7UiRPAxEC/hero-image.fill.size_1200x675.v1743241104.jpg",
+      "publishedAt": "2025-03-29T13:40:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "Amazon Is Drastically Cutting Bose Headphone Prices, and They Are Flying Off the Shelves - Gizmodo",
+      "description": "Upgrade your headphones to pro-level noise cancellation, booming bass, and pillow-like comfort for just $249 before the sale ends.",
+      "url": "https://gizmodo.com/amazon-is-drastically-cutting-bose-headphone-prices-and-they-are-flying-off-the-shelves-2000582323",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/bose-quietcomfort-bluetooth-headphones.jpg",
+      "publishedAt": "2025-03-29T13:40:42Z",
+      "content": "It’s a fair guess that we’ll all be spending far more time outdoors in the weeks to come, especially those of us who enjoy working out and getting our cardio in the fresh air far more than on a tread… [+2878 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Black joy and boots: How line dancing is fanning cultural connection - CNN",
+      "description": "Line dancing has been a part of celebrations in Black communities for decades, but more recently it has taken on new meaning — a refuge from the division and chaos of these times.",
+      "url": "https://www.cnn.com/interactive/2025/03/entertainment/black-line-dancing-protest-cnnphotos/",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03192025-cnn-pointer-line-dance-053.jpg?c=16x9&q=w_1100,h_619",
+      "publishedAt": "2025-03-29T13:27:20Z",
+      "content": "Line dance instructor Jasmine King teaches a class in Atlanta.One recent Wednesday night in Atlanta, dozens of people gathered in a studio space armed with water bottles, hand fans, towels and an exp… [+7671 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Jada Griffin",
-      "title": "Baby Steps First Hands-On Preview: You’ve Got to Fall Before You Walk - IGN",
-      "description": "Baby Steps combination of an unconventional control scheme, physics, and an open world with no map seems like a winning recipe to encourage players to engage with the world around them as they navigate a world full of obstacles, challenges, and secrets.",
-      "url": "https://www.ign.com/articles/baby-steps-first-hands-on-preview-youve-got-to-fall-before-you-walk",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/27/baby-steps-homepage-thumb-1743109129868.jpeg?width=1280",
-      "publishedAt": "2025-03-28T15:02:07Z",
-      "content": "Five minutes. It only took me five minutes of my hour-long demo to become beguiled by the world of Baby Steps and see the promise of what developers Gabe Cuzzillo, Maxi Boch, and Bennett Foddy have i… [+7489 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jonathan M. Gitlin",
-      "title": "Gran Turismo 7 gets an NPC upgrade with improved GT Sophy AI - Ars Technica",
-      "description": "First, Sony AI made an unbeatable AI driver; now, it’s retrained it to be a good NPC.",
-      "url": "https://arstechnica.com/gaming/2025/03/gran-turismo-7-gets-an-npc-upgrade-with-improved-gt-sophy-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GT_Sophy_01-1152x648.jpg",
-      "publishedAt": "2025-03-28T15:01:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Yale’s new smart lock can match your Google Nest doorbell - The Verge",
-      "description": "The new Yale Smart Lock with Matter replaces the Yale x Nest smart lock and features a keypad, keyway, and Thread connectivity.",
-      "url": "https://www.theverge.com/news/638162/yale-smart-lock-with-matter-works-with-google-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Yale-Smart-Lock-Lifestyle-Horizontal.jpg?quality=90&strip=all&crop=12.23125%2C1.7973477679195%2C87.76875%2C76.972201449086&w=1200",
-      "publishedAt": "2025-03-28T15:00:00Z",
-      "content": "The new Matter-over-Thread-powered Yale lock replaces the Nest x Yale Lock and will work with Google Home, as well as Apple Home, Amazon Alexa, and Samsung SmartThings.\r\nThe new Matter-over-Thread-po… [+2577 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Oli Welsh",
-      "title": "Game of the Year 2025 predictions: The front-runners and challengers to come - Polygon",
-      "description": "We break down the current contenders for GOTY 2025, including Split Fiction and Monster Hunter Wilds, plus upcoming challengers like Grand Theft Auto 6",
-      "url": "https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/03/goty-watch-v1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-28T15:00:00Z",
-      "content": "The 11th Game Awards, scheduled for Dec. 11, will come at the end of a watershed year for gaming that will see the launches of Nintendo Switch 2 and (in theory) Grand Theft Auto 6. Both of those rele… [+8271 chars]"
+      "author": "Amelia Emberwing",
+      "title": "The Last of Us HBO Creators Answer Whether Or Not Joel Was Right to Save Ellie - IGN",
+      "description": "\"Was Joel right?\" has been at the center of discussions on The Last of Us since the original game in 2013. IGN sat down with The Last of Us HBO creators Craig Mazin and Neil Druckmann, as well as series stars Bella Ramsey, Gabriel Luna, Kaitlyn Dever, Isabela…",
+      "url": "https://www.ign.com/articles/the-last-of-us-hbo-creators-answer-whether-or-not-joel-was-right-to-save-ellie",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/05/tlou-1722820460415.png?width=1280",
+      "publishedAt": "2025-03-29T13:09:00Z",
+      "content": "This interview contains spoilers for The Last of Us Season 1 on HBO (and the games, of course).\r\nThe was Joel right? debate has been ongoing since the first game debuted all the way back in 2013. Did… [+4509 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Gizmodo.com"
       },
-      "author": "Ethan Gach",
-      "title": "First Berserker: Khazan's Easy Mode Is An Excellent Lifeline - Kotaku",
-      "description": "Don't let the brutal difficulty of the anime Soulslike scare you away from a fun action game",
-      "url": "https://kotaku.com/khazan-first-berserker-easy-mode-difficulty-soulslike-1851773051",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b2aab06970ec18ca5444ac397efa1f9a.jpg",
-      "publishedAt": "2025-03-28T15:00:00Z",
-      "content": "The First Berserker: Khazan is in some ways a Soulslike crafted for hardcore Soulslike fans. There are few ways to too cheese boss fights with broken builds and the skill-checks come early and often … [+3092 chars]"
+      "author": "Kyle Barr",
+      "title": "Hypershell Review: Makes Tackling Hard Hikes Almost Too Easy - Gizmodo",
+      "description": "The Hypershell Pro X is a hiking exoskeleton made for going harder for longer, or for getting less from what you normally do.",
+      "url": "https://gizmodo.com/the-hypershell-exoskeleton-is-so-good-at-climbing-cliffs-it-ruined-my-workout-2000580676",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Hypershell-Pro-X-Review-Hero-1.jpg",
+      "publishedAt": "2025-03-29T13:00:48Z",
+      "content": "The hiking trail should be a serene place. Amid the sounds of water running tickling down a nearby stream and the rushing wind through the trees above, there comes a whirring noise. Its me. I am the … [+8343 chars]"
     },
     {
       "source": {
@@ -229,38 +190,64 @@
         "name": "The Verge"
       },
       "author": "Antonio G. Di Benedetto",
-      "title": "Nvidia RTX 5090 mobile GPU: more efficient and a little faster - The Verge",
-      "description": "The RTX 5090, as tested in the Razer Blade 16, is Nvidia’s flagship laptop GPU. We tested it against the RTX 4090, including DLSS 4 and multi-frame generation.",
-      "url": "https://www.theverge.com/tech/637898/nvidia-rtx-5090-laptop-gpu-impressions-benchmarks-testing-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-28T14:00:00Z",
-      "content": "Nvidias 50-series desktop GPUs have been off to a slightly rocky start, with quality control issues, underwhelming performance gains over last generation, and the occasional melting cable. Its new la… [+9593 chars]"
+      "title": "I’m still testing the new Razer Blade 16 and I have mixed feelings - The Verge",
+      "description": "The Razer Blade 16 with Nvidia RTX 5090 offers a lot of graphics power for a very high price. It’s like a MacBook Pro for gaming, but does it make sense?",
+      "url": "https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-29T13:00:00Z",
+      "content": "The Razer Blade 16 is designed to be the gaming-focused alternative to the MacBook Pro, and Im always here for that. I love a gaming laptop that still looks and feels like a somewhat normal laptop, a… [+4337 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Sammyfans.com"
       },
-      "author": "Oli Welsh",
-      "title": "Nintendo suggests there will be enhanced Switch 2 versions of some Switch games - Polygon",
-      "description": "In the small print for its Virtual Game Card system, Nintendo has opened the door for enhanced or upgraded Switch 2 versions of some Switch games",
-      "url": "https://www.polygon.com/nintendo-switch-2/548599/nintendo-switch-2-edition-games-enhanced-upgrades",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/the-legend-of-zelda-breath-of-the-wild-tgas.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-28T13:24:25Z",
-      "content": "In the small print of an explainer about its new Virtual Game Card system for digital purchases, Nintendo appeared to confirm that some Switch games will get enhanced versions for Switch 2 or at any … [+1676 chars]"
+      "author": "Yash",
+      "title": "Samsung Galaxy A55 stuck without Android 15 One UI 7 Beta - Sammy Fans",
+      "description": "Samsung announced that the Android 15-based One UI 7 Beta will be available for the Galaxy A55 in March. April is almost here, and Samsung has just two days to fulfill its promise of releasing One UI 7 Beta for the last eligible device. Since the Galaxy A55 d…",
+      "url": "https://www.sammyfans.com/2025/03/29/samsung-galaxy-a55-stuck-without-android-15-one-ui-7-beta/",
+      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2024/07/galaxy-a55-one-ui-img-1000x576.jpg",
+      "publishedAt": "2025-03-29T12:36:10Z",
+      "content": "At the SDC 2024, we heard about the One UI 7 for the first time from Samsung, it was a brief introduction. On December 5th, the company introduced the beta version of One UI 7 for early testers. The … [+4013 chars]"
     },
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "Joseph Longo",
-      "title": "15 Very Specific Things Non-Americans Literally Travel To The US Just To Buy - BuzzFeed",
-      "description": "\"Those red cups you always see in American movies. Can't find them anywhere here.\"",
-      "url": "https://www.buzzfeed.com/josephlongo/everyday-items-non-americans-travel-to-the-us-to-buy",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/27/15/thumb/M9axbx8R-.jpg?crop=2000:1049;0,0%26downsize=1250:*",
-      "publishedAt": "2025-03-28T13:13:26Z",
-      "content": null
+      "author": "Oscar Collins",
+      "title": "Are Vehicle Infotainment Screens Headed for the Scrap Heap? - Gizmodo",
+      "description": "Drivers are falling out of love with the tech-forward touch screens that have become commonplace in modern cars.",
+      "url": "https://gizmodo.com/are-vehicle-infotainment-screens-headed-for-the-scrap-heap-2000580600",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/car-infotainment-screen.jpg",
+      "publishedAt": "2025-03-29T11:01:55Z",
+      "content": "Todays tech-heavy cars are more advanced than theyve ever been, and while some aspects of that shift are inarguably good, certain features have fallen out of favor with the public. One of the most pr… [+4870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Poll: Have you been playing Atomfall with Xbox Game Pass? - TrueAchievements",
+      "description": "Our poll this week is about Atomfall on Xbox Game Pass. Have you been playing Rebellion's British survival adventure? We sure hope so, it's brilliant!",
+      "url": "https://www.trueachievements.com/poll/58780/poll-atomfall-xbox-game-pass",
+      "urlToImage": "https://www.trueachievements.com/imgs/158381/atomfall-game-pass.jpg",
+      "publishedAt": "2025-03-29T09:00:52Z",
+      "content": "Have you been playing Atomfall on Xbox Game Pass? That's the question for our poll this week, given that Rebellion's latest survival-adventure game just launched into Microsoft's subscription service… [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Brady Snyder",
+      "title": "No other company can replicate Google One AI Premium's value - Android Central",
+      "description": "I'm not sure rumored paid AI plans from Samsung or Nothing would be worth it.",
+      "url": "https://www.androidcentral.com/apps-software/ai/is-google-one-ai-premium-the-only-mobile-ai-suite-worth-paying-for",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K7orNPM3U8hJfboWTqbwDW-1200-80.jpg",
+      "publishedAt": "2025-03-29T06:00:00Z",
+      "content": "Just about every company on the planet is rapidly developing artificial intelligence features, even the ones you wouldn't expect. However, they're still working out how to monetize it. In other words… [+7480 chars]"
     }
   ]
 }
