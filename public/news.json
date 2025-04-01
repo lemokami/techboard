@@ -1,45 +1,188 @@
 {
   "status": "ok",
-  "totalResults": 56,
+  "totalResults": 64,
   "articles": [
     {
       "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Apple reportedly revamping Health app to add an AI coach - TechCrunch",
+      "description": "Apple is developing a new version of its Health app that includes an AI coach that can advise users on how to get healthier, according to Bloomberg’s Mark",
+      "url": "https://techcrunch.com/2025/03/30/apple-reportedly-revamping-health-app-to-add-an-ai-coach/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/apple_heart-health-month_heart-rate-reading_02032021.jpg?resize=1200,800",
+      "publishedAt": "2025-03-30T20:51:28Z",
+      "content": "Apple is developing a new version of its Health app that includes an AI coach that can advise users on how to get healthier, according to Bloombergs Mark Gurman.\r\nGurman first reported that something… [+538 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Pokemon GO Hub"
+      },
+      "author": "kittypokemonsalot",
+      "title": "This Week in Pokémon GO (31 March – 6 April 2025) - Pokémon GO Hub",
+      "description": "We enter April, and the second month of the Might and Mastery Season! Get ready to encounter new regional Pokémon, the debut of Mega Audino and more! Highlights Discover Pokémon of different forms with the Stunning Styles event Thursday, April 3, at 10:00 a.m…",
+      "url": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-31-march-6-april-2025/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/03/stunning-styles-event.jpg",
+      "publishedAt": "2025-03-30T18:35:32Z",
+      "content": "We enter April, and the second month of the Might and Mastery Season! Get ready to encounter new regional Pokémon, the debut of Mega Audino and more!\r\nHighlights\r\nStunning Styles \r\nDiscover Pokémon o… [+5043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Barret Wertz",
+      "title": "AirPods Pro 2 hit the lowest price of 2025 for the Amazon Big Spring Sale - New York Post ",
+      "description": "I *hear* this deal won’t last long … Get it?",
+      "url": "https://nypost.com/2025/03/30/shopping/airpods-pro-2-hit-lowest-price-of-2025-during-amazon-spring-sale/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/Apple-AirPods-Pro-2-Lead.png?w=1024",
+      "publishedAt": "2025-03-30T18:25:00Z",
+      "content": "New York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nSo you thought your ears had heard it all? Think… [+3652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PlayStation LifeStyle"
+      },
+      "author": "Zarmena Khan",
+      "title": "Games Leaving PS Plus in May Expected to Include Popular Trilogy - PlayStation LifeStyle",
+      "description": "Sony has yet to confirm games leaving PS Plus Extra and Premium in May 2025, but here's a list of expected departures.",
+      "url": "https://www.playstationlifestyle.net/2025/03/30/games-leaving-ps-plus-extra-premium-may-2025-predictions/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/08/games-leaving-ps-plus-extra-premium.jpg?resize=1200,630",
+      "publishedAt": "2025-03-30T17:48:45Z",
+      "content": "Sony has yet to confirm the list of games leaving PS Plus Extra and Premium in May 2025, but as usual, were sharing predictions for upcoming departures. These predictions are based on established dep… [+1718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Upgradedpoints.com"
+      },
+      "author": "Lori Zaino",
+      "title": "Discover the Top 7 Essential Apps Every Frequent Traveler Needs - Upgraded Points",
+      "description": "These travel apps help me travel with ease, from helping me deal with jet lag to keeping all my trip reservations organized and accessible.",
+      "url": "https://upgradedpoints.com/news/must-have-travel-apps/",
+      "urlToImage": "https://upgradedpoints.com/wp-content/uploads/2025/01/girl-cellphone-apps.jpg",
+      "publishedAt": "2025-03-30T17:28:47Z",
+      "content": "I cant remember a world where I didnt depend on my phone when traveling. While a big part of me wishes I could chuck my phone in the ocean and be more present when I travel, I recognize that I depend… [+7522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Mars Ramos",
+      "title": "‘Technology at its finest’: Mechanic grabs Michelin Pilot Sport 4S tire. Then he takes a closer look at the sticker - The Daily Dot",
+      "description": "People online are cracking up at Michelin's Bluetooth tires that come with a QR code on the inside, but what's it all for?",
+      "url": "https://www.dailydot.com/news/michelin-bluetooth-tire/",
+      "urlToImage": "https://uploads.dailydot.com/2025/03/michelin_bluetooth_tires_tiktok.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-03-30T17:00:00Z",
+      "content": "People online are cracking up at Michelins Bluetooth tires that come with a QR code on the inside, but whats it all for?\r\nIn a TikTok video, tire shop worker Antonio (@ant_510) zooms in on a Michelin… [+2273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Microsoft tests new Windows 11 tool to remotely fix boot crashes - BleepingComputer",
+      "description": "Microsoft has begun testing a new Windows 11 tool called Quick Machine Recovery, which is designed to remotely deploy fixes for buggy drivers and configurations that prevent the operating system from starting.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-quick-machine-recovery-tool-to-fix-boot-crashes/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows--11.jpg",
+      "publishedAt": "2025-03-30T16:06:51Z",
+      "content": "Microsoft has begun testing a new Windows 11 tool called Quick Machine Recovery, which is designed to remotely deploy fixes for buggy drivers and configurations that prevent the operating system from… [+2706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cord Cutters News, LLC"
+      },
+      "author": "Luke Bouma",
+      "title": "Warner Bros. Discovery Gives Max a Fresh New Look With a New Logo - Cord Cutters News",
+      "description": "Warner Bros. Discovery’s Max streaming service is set to undergo a striking visual transformation, ditching its familiar blue-and-white logo for a sleek black-and-grey design that pays homage to the iconic HBO logo. The rebrand, spotted in recent reports and …",
+      "url": "https://cordcuttersnews.com/warner-bros-discovery-gives-max-a-fresh-new-look-with-a-new-logo/",
+      "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2025/03/Untitled-design-2025-03-30T114815.770.jpg",
+      "publishedAt": "2025-03-30T15:49:45Z",
+      "content": "Warner Bros. Discoverys Max streaming service is set to undergo a striking visual transformation, ditching its familiar blue-and-white logo for a sleek black-and-grey design that pays homage to the i… [+2498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iPad Pro With Apple's 5G Modem, iPad 12, and More Already Rumored - MacRumors",
+      "description": "Bloomberg's Mark Gurman today shared some details about future devices.   In his Power On newsletter, Gurman said that Apple is already in the...",
+      "url": "https://www.macrumors.com/2025/03/30/ipad-pro-with-apple-5g-modem/",
+      "urlToImage": "https://images.macrumors.com/t/cE3ZPpZRsi8VGQdcoAIbbwr6lbo=/2500x/article-new/2024/05/iPad-Pro-M4-Silver-and-Space-Black-Feature-1.jpg",
+      "publishedAt": "2025-03-30T15:39:09Z",
+      "content": "Bloomberg's Mark Gurman today shared some details about future devices.\r\nIn his Power On newsletter, Gurman said that Apple is already in the early stages of developing iPad Pro models with an M6 chi… [+920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "Over a million private photos from dating apps exposed online - BBC.com",
-      "description": "The often-explicit pictures are being stored without password protection, leaving them vulnerable to a hack.",
-      "url": "https://www.bbc.com/news/articles/c05m5m5v327o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a59/live/2332d480-0c0c-11f0-ba12-8d27eb561761.png",
-      "publishedAt": "2025-03-30T00:10:16Z",
-      "content": "Researchers have discovered nearly 1.5 million pictures from specialist dating apps many of which are explicit being stored online without password protection, leaving them vulnerable to hackers and … [+2895 chars]"
+      "title": "These 3 features just made Android 16 a lot more exciting - Android Authority",
+      "description": "Overall, Android 16 is shaping up to be a pretty tame and low-key update. But there are three features that have me really excited about it.",
+      "url": "https://www.androidauthority.com/android-16-most-exciting-features-3535695/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/03/android-16-logo-outside-hero-1-scaled.jpeg",
+      "publishedAt": "2025-03-30T15:06:46Z",
+      "content": "As hard as it is to believe, were just a few short months away from Android 16s public release. Weve had Developer Previews since last November and beta releases since January, and were expecting the… [+6503 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dark Horizons"
+        "name": "Android Central"
       },
-      "author": "Garth Franklin",
-      "title": "GTA 6 Date Reveal Deliberately Held Back - Dark Horizons",
-      "description": "Strauss Zelnick, who runs Take-Two Interactive who owns Rockstar Games, recently sat down for a video interview with Bloomberg to discuss the highly anticipated “Grand Theft Auto VI”. While the fifth game arrived five years after the fourth, the sixth game is…",
-      "url": "https://www.darkhorizons.com/gta-6-date-reveal-deliberately-held-back/",
-      "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2025/01/analysts-gta-vi-will-earn-3-2b-in-year-1.jpg",
-      "publishedAt": "2025-03-29T22:04:48Z",
-      "content": "Strauss Zelnick, who runs Take-Two Interactive who owns Rockstar Games, recently sat down for a video interview with Bloomberg to discuss the highly anticipated “Grand Theft Auto VI”.\r\nWhile the fift… [+2028 chars]"
+      "author": "Michael L Hicks",
+      "title": "Garmin Connect Plus isn't the optional novelty you hoped it'd be - Android Central",
+      "description": "Most people won't want to pay for Garmin Connect Plus, but will find it hard to do without Performance Dashboard or Live activities.",
+      "url": "https://www.androidcentral.com/wearables/garmin/garmin-connect-plus-in-depth-hands-on-much-more-than-an-ai-unfortunately",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WLp83g35Kn66APtTaXDoZQ-1200-80.jpg",
+      "publishedAt": "2025-03-30T15:00:00Z",
+      "content": "(Image credit: Android Central)\r\nIn this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his… [+10491 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Forbes"
       },
-      "author": "Michael Burkhardt",
-      "title": "M4 MacBook Air missed out on one of Apple’s latest hardware trends - 9to5Mac",
-      "description": "In the past year, Apple has had an interesting trend across its new hardware releases: a bigger focus on thermal...",
-      "url": "https://9to5mac.com/2025/03/29/m4-macbook-air-missed-out-on-apple-trend/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/m4-macbook-air-sleeve.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-29T17:33:54Z",
-      "content": "In the past year, Apple has had an interesting trend across its new hardware releases: a bigger focus on thermal performance. It kicked off with the M4 iPad Pro last year, and then continued with the… [+2733 chars]"
+      "author": "Davey Winder",
+      "title": "Hackers Bypass Windows Defender Security—What You Need To Know - Forbes",
+      "description": "Elite hackers have bypassed Microsoft Windows Defender security controls that restrict application execution to trusted software.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/03/30/hackers-bypass-windows-defender-security-what-you-need-to-know/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e7baaddc6ec812460ea7e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-30T14:29:10Z",
+      "content": "Hackers bypass Windows Defender security comtrols.\r\nSOPA Images/LightRocket via Getty Images\r\nUpdate, March 30, 2025: This story, originally published March 29, has been updated with further technica… [+5001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarBuzz"
+      },
+      "author": "Jacob Oliva",
+      "title": "Some Nutcase Put A 911 GT2 RS Engine In A Cayman - CarBuzz",
+      "description": "It can produce up to 800 horses but the owner decided stay conservative with the output for now.",
+      "url": "https://carbuzz.com/tuning-porsche-cayman-gt4-with-911-gt2-rs-engine/",
+      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/porsche-cayman-with-911-gt2-rs-engine-swap-_474235154_18023628404642205_1299966511032909828_n_1080.jpg",
+      "publishedAt": "2025-03-30T14:01:00Z",
+      "content": "The Porsche 718 Cayman is going the way of the dodo earlier than expected as the German automaker moves forward with its electrification plan. We expect some form of tribute to the most attainable Po… [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Take-Two Boss Offers Frustrating ‘GTA 6’ Trailer 2 Update - Forbes",
+      "description": "Where's Trailer 2 for GTA 6? The boss of Take-Two is talking about marketing for the game, and why it's taking so long to see more from it.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/03/30/take-two-boss-offers-frustrating-gta-6-trailer-2-update/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/656f3144c951ffbd17ea2220/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-30T14:00:07Z",
+      "content": "GTA 6\r\nRockstar\r\nAs the entire industry is waiting for GTA 6 to announce its release date, and plan its own launches accordingly, Take-Two and Rockstar do not seem to particularly care.\r\nIn a new int… [+2360 chars]"
     },
     {
       "source": {
@@ -47,207 +190,51 @@
         "name": "Video Games Chronicle"
       },
       "author": "Andy Robinson",
-      "title": "Tomodachi Life’s Switch debut shatters even Nintendo Switch 2 hype in Japan - Video Games Chronicle",
-      "description": "Nintendo has a new most-liked tweet",
-      "url": "https://www.videogameschronicle.com/news/tomodachi-lifes-switch-debut-shatters-even-nintendo-switch-2-hype-in-japan/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/03/tomodachi-life-living-the-dream.jpg",
-      "publishedAt": "2025-03-29T14:50:09Z",
-      "content": "Nintendos Tomodachi Life: Living the Dream announcement is now more popular than even the reveal of Nintendo Switch 2 on its Japanese X account.\r\nAnnounced in Nintendos latest Direct live stream on T… [+1375 chars]"
+      "title": "Tony Hawk explains controversial Pro Skater 3+4 soundtrack changes: ‘It was my choice’ - Video Games Chronicle",
+      "description": "Fans have noticed many classic songs are missing from the Tony Hawk remaster",
+      "url": "https://www.videogameschronicle.com/news/tony-hawk-explains-controversial-pro-skater-34-soundtrack-changes-it-was-my-choice/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/03/Screenshot-2025-03-30-144645.jpg.jpg",
+      "publishedAt": "2025-03-30T13:50:19Z",
+      "content": "Tony Hawk has claimed the decision not to bring back many classic songs for the upcoming Pro Skater 3+4 soundtrack was his, after some fans expressed disappointment over the revealed track list.\r\nThi… [+1574 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Chrome Unboxed"
       },
-      "author": "Abner Li",
-      "title": "Google Nest teases ‘more helpful home devices in the coming months’ - 9to5Google",
-      "description": "In discontinuing the Nest Protect and Nest x Yale Lock yesterday, Google Nest reiterated its commitment to “building devices for the home.”",
-      "url": "http://9to5google.com/2025/03/29/new-google-nest-home-devices/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_lineup_2020_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-29T14:48:22Z",
-      "content": "In discontinuing the Nest Protect and Nest x Yale Lock yesterday, Google Nest reiterated its commitment to building devices for the home.\r\nYesterdays Upcoming changes to our device portfolio announce… [+1940 chars]"
+      "author": "Robby Payne",
+      "title": "Google Nest reaffirms smart home hardware commitments, teases new devices - Chrome Unboxed",
+      "description": "Google Nest's recent announcement regarding the discontinuation of the Nest Protect and Nest x Yale Lock has naturally sparked questions about the company's commitment to the smart home space. While the sunsetting of older devices like the 2nd generation Nest…",
+      "url": "https://chromeunboxed.com/google-nest-reaffirms-smart-home-hardware-commitments-teases-new-devices/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/03/NestHardwareFeature.jpg",
+      "publishedAt": "2025-03-30T13:37:15Z",
+      "content": "Google Nest’s recent announcement regarding the discontinuation of the Nest Protect and Nest x Yale Lock has naturally sparked questions about the company’s commitment to the smart home space. While … [+2374 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Glassalmanac.com"
       },
-      "author": "Mike Fazioli",
-      "title": "The New Apple Watch Series 10 Has Never Been So Cheap, Amazon Shows No Mercy - Gizmodo",
-      "description": "Only six months after its release, Apple's newest smartwatch has established itself as one of its best ever, and $329 is its best price ever.",
-      "url": "https://gizmodo.com/the-new-apple-watch-series-10-has-never-been-so-cheap-amazon-shows-no-mercy-2000582459",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/apple-watch-series-10.jpg",
-      "publishedAt": "2025-03-29T14:10:33Z",
-      "content": "The Apple Watch Series 10 is the 15th iteration of the paradigm-changing smartwatch, and according to reviewers and users alike, it may well be the best one of all. One thing is for certain right now… [+2322 chars]"
+      "author": "Brian Foster",
+      "title": "CERN Creates Top Quarks for the First Time, Revolutionizing Physics - Glass Almanac",
+      "description": "In a remarkable leap forward for science, researchers at CERN have successfully created and observed top quarks—one of nature’s most elusive and unstable particles—inside a lab ... Continue Reading →",
+      "url": "https://glassalmanac.com/cern-creates-top-quarks-for-the-first-time-revolutionizing-physics/",
+      "urlToImage": "https://glassalmanac.com/wp-content/uploads/2025/03/CERN-Creates-Top-Quarks-for-the-First-Time.jpg",
+      "publishedAt": "2025-03-30T13:30:08Z",
+      "content": "In a remarkable leap forward for science, researchers at CERN have successfully created and observed top quarksone of natures most elusive and unstable particlesinside a lab for the very first time. … [+4087 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
+        "name": "Push Square"
       },
-      "author": null,
-      "title": "Mach 16 Chaos Revealed By Supercomputer Shakes Up Hypersonic Flow Research - The Daily Galaxy --Great Discoveries Channel",
-      "description": "A hypersonic simulation at Mach 16 just shattered long-held assumptions in aerospace design — and the results weren’t visible in any wind tunnel.",
-      "url": "https://dailygalaxy.com/2025/03/mach-16-revealed-supercomputer-hypersonic/",
-      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/03/Mach-16-Chaos-Revealed-By-Supercomputer-Shakes-Up-Hypersonic-Flow-Research.jpg",
-      "publishedAt": "2025-03-29T14:00:00Z",
-      "content": "A groundbreaking simulation study led by researchers at the University of Illinois Urbana-Champaign has uncovered never-before-seen flow instabilities around hypersonic vehicles traveling at Mach 16,… [+3647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Microsoft Warns 1 Billion Windows Users—Do Not Use Password - Forbes",
-      "description": "Stop using your password—here’s why",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/03/29/microsoft-warns-1-billion-windows-users-do-not-use-password/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e6399763c7d52486a03df2/0x0.jpg?format=jpg&crop=872,539,x373,y230,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-29T13:57:45Z",
-      "content": "Do not use your password\r\nVCG via Getty Images\r\nUpdate: Republished on March 29 with FIDOs response to Microsofts password deletion update and a major change to the companys sign-in requirements.\r\nAl… [+5667 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "Tyler Fischer",
-      "title": "PlayStation Store Has $70 PS5 Games on Sale for Just $7 - ComicBook.com",
-      "description": "PS5 games that normally costs $70 are currently 90% off, and consequently available on the PlayStation Store for just $7.",
-      "url": "http://comicbook.com/gaming/news/ps5-playstation-store-games-sale-march/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/03/p-l-a-y-s-t-a-t-i-o-n_7ab558.png?resize=2000,1125",
-      "publishedAt": "2025-03-29T13:48:40Z",
-      "content": "The PlayStation Store has 1,122 PS5 games on sale right now and 2,074 PS4 games on sale as well. In other words, the biggest PlayStation Store sale so far this year is currently live and available un… [+2090 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Christian Wait",
-      "title": "I want the AirPods Max even more now that they’re $70 off and somehow still in stock - Mashable",
-      "description": "I figured they’d be sold out by now. I was wrong, and my wallet is in danger.",
-      "url": "https://mashable.com/article/march-29-airpods-max-amazon-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02UBSVDy7HTQZu7UiRPAxEC/hero-image.fill.size_1200x675.v1743241104.jpg",
-      "publishedAt": "2025-03-29T13:40:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Mike Fazioli",
-      "title": "Amazon Is Drastically Cutting Bose Headphone Prices, and They Are Flying Off the Shelves - Gizmodo",
-      "description": "Upgrade your headphones to pro-level noise cancellation, booming bass, and pillow-like comfort for just $249 before the sale ends.",
-      "url": "https://gizmodo.com/amazon-is-drastically-cutting-bose-headphone-prices-and-they-are-flying-off-the-shelves-2000582323",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/bose-quietcomfort-bluetooth-headphones.jpg",
-      "publishedAt": "2025-03-29T13:40:42Z",
-      "content": "It’s a fair guess that we’ll all be spending far more time outdoors in the weeks to come, especially those of us who enjoy working out and getting our cardio in the fresh air far more than on a tread… [+2878 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "Black joy and boots: How line dancing is fanning cultural connection - CNN",
-      "description": "Line dancing has been a part of celebrations in Black communities for decades, but more recently it has taken on new meaning — a refuge from the division and chaos of these times.",
-      "url": "https://www.cnn.com/interactive/2025/03/entertainment/black-line-dancing-protest-cnnphotos/",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03192025-cnn-pointer-line-dance-053.jpg?c=16x9&q=w_1100,h_619",
-      "publishedAt": "2025-03-29T13:27:20Z",
-      "content": "Line dance instructor Jasmine King teaches a class in Atlanta.One recent Wednesday night in Atlanta, dozens of people gathered in a studio space armed with water bottles, hand fans, towels and an exp… [+7671 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Amelia Emberwing",
-      "title": "The Last of Us HBO Creators Answer Whether Or Not Joel Was Right to Save Ellie - IGN",
-      "description": "\"Was Joel right?\" has been at the center of discussions on The Last of Us since the original game in 2013. IGN sat down with The Last of Us HBO creators Craig Mazin and Neil Druckmann, as well as series stars Bella Ramsey, Gabriel Luna, Kaitlyn Dever, Isabela…",
-      "url": "https://www.ign.com/articles/the-last-of-us-hbo-creators-answer-whether-or-not-joel-was-right-to-save-ellie",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/05/tlou-1722820460415.png?width=1280",
-      "publishedAt": "2025-03-29T13:09:00Z",
-      "content": "This interview contains spoilers for The Last of Us Season 1 on HBO (and the games, of course).\r\nThe was Joel right? debate has been ongoing since the first game debuted all the way back in 2013. Did… [+4509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "Hypershell Review: Makes Tackling Hard Hikes Almost Too Easy - Gizmodo",
-      "description": "The Hypershell Pro X is a hiking exoskeleton made for going harder for longer, or for getting less from what you normally do.",
-      "url": "https://gizmodo.com/the-hypershell-exoskeleton-is-so-good-at-climbing-cliffs-it-ruined-my-workout-2000580676",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Hypershell-Pro-X-Review-Hero-1.jpg",
-      "publishedAt": "2025-03-29T13:00:48Z",
-      "content": "The hiking trail should be a serene place. Amid the sounds of water running tickling down a nearby stream and the rushing wind through the trees above, there comes a whirring noise. Its me. I am the … [+8343 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "I’m still testing the new Razer Blade 16 and I have mixed feelings - The Verge",
-      "description": "The Razer Blade 16 with Nvidia RTX 5090 offers a lot of graphics power for a very high price. It’s like a MacBook Pro for gaming, but does it make sense?",
-      "url": "https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-29T13:00:00Z",
-      "content": "The Razer Blade 16 is designed to be the gaming-focused alternative to the MacBook Pro, and Im always here for that. I love a gaming laptop that still looks and feels like a somewhat normal laptop, a… [+4337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sammyfans.com"
-      },
-      "author": "Yash",
-      "title": "Samsung Galaxy A55 stuck without Android 15 One UI 7 Beta - Sammy Fans",
-      "description": "Samsung announced that the Android 15-based One UI 7 Beta will be available for the Galaxy A55 in March. April is almost here, and Samsung has just two days to fulfill its promise of releasing One UI 7 Beta for the last eligible device. Since the Galaxy A55 d…",
-      "url": "https://www.sammyfans.com/2025/03/29/samsung-galaxy-a55-stuck-without-android-15-one-ui-7-beta/",
-      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2024/07/galaxy-a55-one-ui-img-1000x576.jpg",
-      "publishedAt": "2025-03-29T12:36:10Z",
-      "content": "At the SDC 2024, we heard about the One UI 7 for the first time from Samsung, it was a brief introduction. On December 5th, the company introduced the beta version of One UI 7 for early testers. The … [+4013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Oscar Collins",
-      "title": "Are Vehicle Infotainment Screens Headed for the Scrap Heap? - Gizmodo",
-      "description": "Drivers are falling out of love with the tech-forward touch screens that have become commonplace in modern cars.",
-      "url": "https://gizmodo.com/are-vehicle-infotainment-screens-headed-for-the-scrap-heap-2000580600",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/car-infotainment-screen.jpg",
-      "publishedAt": "2025-03-29T11:01:55Z",
-      "content": "Todays tech-heavy cars are more advanced than theyve ever been, and while some aspects of that shift are inarguably good, certain features have fallen out of favor with the public. One of the most pr… [+4870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Poll: Have you been playing Atomfall with Xbox Game Pass? - TrueAchievements",
-      "description": "Our poll this week is about Atomfall on Xbox Game Pass. Have you been playing Rebellion's British survival adventure? We sure hope so, it's brilliant!",
-      "url": "https://www.trueachievements.com/poll/58780/poll-atomfall-xbox-game-pass",
-      "urlToImage": "https://www.trueachievements.com/imgs/158381/atomfall-game-pass.jpg",
-      "publishedAt": "2025-03-29T09:00:52Z",
-      "content": "Have you been playing Atomfall on Xbox Game Pass? That's the question for our poll this week, given that Rebellion's latest survival-adventure game just launched into Microsoft's subscription service… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Brady Snyder",
-      "title": "No other company can replicate Google One AI Premium's value - Android Central",
-      "description": "I'm not sure rumored paid AI plans from Samsung or Nothing would be worth it.",
-      "url": "https://www.androidcentral.com/apps-software/ai/is-google-one-ai-premium-the-only-mobile-ai-suite-worth-paying-for",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K7orNPM3U8hJfboWTqbwDW-1200-80.jpg",
-      "publishedAt": "2025-03-29T06:00:00Z",
-      "content": "Just about every company on the planet is rapidly developing artificial intelligence features, even the ones you wouldn't expect. However, they're still working out how to monetize it. In other words… [+7480 chars]"
+      "author": "Sammy Barker",
+      "title": "Tiny New Ghost of Yotei Details Have PS5 Owners Hyped - Push Square",
+      "description": "Sony preps official PlayStation.com page",
+      "url": "https://www.pushsquare.com/news/2025/03/tiny-new-ghost-of-yotei-details-have-ps5-owners-hyped",
+      "urlToImage": "https://images.pushsquare.com/8a9fcd656a83d/large.jpg",
+      "publishedAt": "2025-03-30T13:09:31Z",
+      "content": "Ghost of Yotei is launching on PS5 later this year, but as is customary from Sony, the platform holder is keeping the game under lock and key until closer to launch.\r\nHowever, as spotted by members o… [+1986 chars]"
     }
   ]
 }
