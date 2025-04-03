@@ -1,240 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 68,
   "articles": [
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Update: Wizards of the Coast Apologizes for 'Mistaken' DMCA on Fan's Baldur's Gate 3 Stardew Valley Mod - IGN",
-      "description": "Wizards of the Coast has issued a DMCA takedown notice on a fan mod of Stardew Valley that adds Baldur's Gate 3 characters, despite the mod previously having been publicly praised by Larian Studios CEO Swen Vincke. And now, Vincke has responded to the takedow…",
-      "url": "https://www.ign.com/articles/update-wizards-of-the-coast-apologizes-for-mistaken-dmca-on-fans-baldurs-gate-3-stardew-valley-mod",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/12/01/bg3-patch5-br-1701465397603.jpg?width=1280",
-      "publishedAt": "2025-03-31T21:33:38Z",
-      "content": "Update 2:30pm PT: Wizards of the Coast has issued a statement on the DMCA from earlier today, saying that it happened in error and apologizing for the situation:\r\n\"The Baldurs Village DMCA takedown w… [+2610 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "With new Gen-4 model, Runway claims to have finally achieved consistency in AI videos - Ars Technica",
-      "description": "The new model is rolling out to paid users starting today.",
-      "url": "https://arstechnica.com/ai/2025/03/with-new-gen-4-model-runway-claims-to-have-finally-achieved-consistency-in-ai-videos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Screenshot-2025-03-31-at-3.27.59 PM-1152x648.png",
-      "publishedAt": "2025-03-31T21:07:27Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Theautopian.com"
+        "name": "9to5Mac"
       },
-      "author": "David Tracy",
-      "title": "The Porsche Taycan Now Has Motor Trend’s All-Time 0-60 MPH Record And It’s Ridiculous - The Autopian",
-      "description": "If you’re like me, then much of your childhood involved comparing cars’ 0-60 mph times. This was the measuring stick used to compare performance of various cars, and it was always exciting when a new car (especially if it was an affordable one) could sprint t…",
-      "url": "https://www.theautopian.com/the-porsche-taycan-now-has-motor-trends-all-time-0-60-mph-record-and-its-ridiculous/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Porsche_Taycan_0-60_TS.jpg",
-      "publishedAt": "2025-03-31T20:27:28Z",
-      "content": null
+      "author": "Ryan Christoffel",
+      "title": "iOS 18.4’s Messages app adds RCS features for lots of new users - 9to5Mac",
+      "description": "iOS 18.4 brings a big expansion of RCS support inside the Messages app, bringing improved iPhone-Android messaging to lots of new users.",
+      "url": "https://9to5mac.com/2025/04/01/ios-184s-messages-app-adds-rcs-features-for-lot-of-new-users/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/rcs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-01T20:11:00Z",
+      "content": "Apples Messages app got some big upgrades in iOS 18, but one with the biggest potential impactRCS supporthas had a slow rollout among some carriers. Fortunately in iOS 18.4, Messages is bringing the … [+1456 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Researchers suggest OpenAI trained AI models on paywalled O’Reilly books - TechCrunch",
+      "description": "A new study suggests that OpenAI used paywalled books from O'Reilly media without permission to train some of its more recent models.",
+      "url": "https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+      "publishedAt": "2025-04-01T20:10:00Z",
+      "content": "OpenAI has been accused by many parties of training its AI on copyrighted content sans permission. Now a new paper by an AI watchdog organization makes the serious accusation that the company increas… [+4390 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Zack Zwiezen, Ethan Gach, John Walker, Kenneth Shepard",
-      "title": "Our Hopes And Predictions For The Switch 2 Nintendo Direct - Kotaku",
-      "description": "We offer our last-minute guesses on the price, launch lineup, and more",
-      "url": "https://kotaku.com/switch-2-price-date-mario-kart-9-nintendo-direct-1851773637",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fdb86b6cff7e61c47e5b12831de3cb05.jpg",
-      "publishedAt": "2025-03-31T20:25:00Z",
-      "content": "Zack Zwiezen: Im not a big Nintendo gamer. The only thing I really desperately want and need at the launch of Switch 2 is a shiny new 3D Mario game. Give me a new Mario game as big and awesome as Ody… [+846 chars]"
+      "author": "Kenneth Shepard",
+      "title": "Overwatch 2’s Amazing Annual April Fools’ Day Mode Is Just As Incredible This Year - Kotaku",
+      "description": "Blizzard’s tradition of breaking the hero shooter hasn’t gotten old",
+      "url": "https://kotaku.com/overwatch-2-april-fools-day-normalwatch-patch-notes-1851774114",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cb67f7a18a9854f866617ce85de178eb.jpg",
+      "publishedAt": "2025-04-01T19:30:00Z",
+      "content": "Most video game companies use April Fools Day to make a social media post about something improbable, like a dating sim spin-off or a product they will never actually put out. Overwatch 2 goes the ex… [+15818 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Kyle Barr",
-      "title": "The Best Gadgets of March 2025 - Gizmodo",
-      "description": "March brought us new Macs, ultra-thin foldables, and even an exoskeleton. However, some of our most-anticipated tech for the month won't arrive until April.",
-      "url": "https://gizmodo.com/the-best-gadgets-of-march-2025-2000582995",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Best-Gadgets-March2025.jpg",
-      "publishedAt": "2025-03-31T20:00:08Z",
-      "content": "As a harsh remindereven though it feels like its been a decade since December, 2024we have only managed to muddle through three months of 2025. It’s been an awkward time to love tech. As both consume… [+4511 chars]"
+      "author": "Mark Gurman",
+      "title": "How Meta’s Upcoming $1,000+ Smart Glasses With a Screen Will Work - Bloomberg.com",
+      "description": "Meta Platforms Inc., ramping up work on a deluxe version of its popular smart glasses, plans to include hand-gesture controls and a screen for displaying photos and apps.",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-01/how-meta-s-upcoming-1000-smart-glasses-with-a-screen-will-work",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTg9Y.lk9enM/v2/1200x799.jpg",
+      "publishedAt": "2025-04-01T19:08:43Z",
+      "content": "Meta Platforms Inc., ramping up work on adeluxe version of its popular smart glasses, plans to include hand-gesture controls and a screen for displaying photos and apps.\r\nThe company intends to intro… [+226 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs - The Verge",
-      "description": "Microsoft is rolling out AI features across Intel and AMD-powered Copilot Plus PCs, including Live Captions, Cocreator in Paint, as well as image generation tools in Photos.",
-      "url": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200",
-      "publishedAt": "2025-03-31T19:45:49Z",
-      "content": "Now all Copilot Plus PCs can generate Live Captions.\r\nNow all Copilot Plus PCs can generate Live Captions.\r\nMicrosoft is making its AI features widely available on Copilot Plus PCs equipped with Inte… [+1388 chars]"
+      "author": "Sheena Vasani",
+      "title": "Runway says its latest AI video model can actually generate consistent scenes and people - The Verge",
+      "description": "Runway’s new Gen-4 video synthesis model can actually generate consistent scenes and people across multiple shots. The model is currently rolling out to paid and enterprise users.",
+      "url": "https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/runway-gen-4-ai.webp?quality=90&strip=all&crop=0%2C3.4405385190725%2C100%2C93.118922961855&w=1200",
+      "publishedAt": "2025-04-01T18:31:20Z",
+      "content": "Now, you can produce films that wont change on you mid-scene.\r\nNow, you can produce films that wont change on you mid-scene.\r\nAI startup Runway says its latest AI video model can generate consistent … [+1001 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Cheap TVs’ incessant advertising reaches troubling new lows - Ars Technica",
+      "description": "Op-ed: TV screensavers shouldn’t show immigration ads from the Trump administration.",
+      "url": "https://arstechnica.com/gadgets/2025/04/cheap-tvs-incessant-advertising-reaches-troubling-new-lows/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-898988832-1152x648.jpg",
+      "publishedAt": "2025-04-01T18:19:05Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "Beebom"
       },
-      "author": "Rory Mellon",
-      "title": "Nintendo Switch 2 Direct live updates — last-minute rumors and how to watch - Tom's Guide",
-      "description": "Live updates on the Nintendo Direct dedicated to Switch 2",
-      "url": "https://www.tomsguide.com/news/live/nintendo-switch-2-direct-live",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WuHWxJXRXQTqzpvvQ2vhyj-1200-80.jpg",
-      "publishedAt": "2025-03-31T19:43:30Z",
-      "content": "2025-03-31T22:26:18.488Z7 biggest questions that need answers\r\n(Image credit: SwitchUp)\r\nThe hype train is in full effect and its racing ahead of the rumor mill that is still grinding away, but ahead… [+15367 chars]"
+      "author": "Ishan Adhikary",
+      "title": "How to Find The Flamethrower Code in Dress to Impress - Beebom",
+      "description": "Follow this full guide to learn how to find the Dress to Impress Flamethrower code and the process to redeem it.",
+      "url": "https://beebom.com/how-find-flamethrower-code-in-dress-to-impress/",
+      "urlToImage": "https://static.beebom.com/wp-content/uploads/2025/04/Dress-to-Impress-Flamethrower.jpg",
+      "publishedAt": "2025-04-01T18:14:11Z",
+      "content": "Dress to Impress is a unique dress-up game where a traditional fashion game takes a unique twist. With every update, we get a free cosmetic with new DTI codes. However, the April Fools’ Day update in… [+1537 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology - TechCrunch",
+      "description": "Mark Cuban has backed Skylight, a TikTok alternative built on Bluesky's underlying technology.",
+      "url": "https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/skylight-social.png?resize=1200,900",
+      "publishedAt": "2025-04-01T17:48:41Z",
+      "content": "Skylight, a startup taking on TikTok with a more open alternative, is launching its mobile app to the public on Tuesday after just 10 weeks of active development. The app, which is backed by Mark Cub… [+3446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Akshat Kabra",
+      "title": "Is Minecraft April Fools 2025 out yet? - Sportskeeda",
+      "description": "Every year on April 1st, Mojang releases a Minecraft snapshot that contains hilarious and fun features for players to experience. This snapshot is considered the April Fools version.",
+      "url": "https://www.sportskeeda.com/minecraft/is-minecraft-april-fools-2025-yet",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2025/04/e766b-17434905786448-1920.jpg",
+      "publishedAt": "2025-04-01T17:28:00Z",
+      "content": "Every year on April 1st, Mojang releases a Minecraft snapshot that contains hilarious and fun features for players to experience. This snapshot is considered the April Fools version. In 2024, the dev… [+2133 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Ethan Gach",
-      "title": "Monster Hunter Wilds' First Major Update Promises Much-Needed Performance Improvements On PC - Kotaku",
-      "description": "The hit action-RPG is still reviewing terribly on Steam",
-      "url": "https://kotaku.com/monster-hunter-wilds-pc-stability-performance-mizutsune-1851773610",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/41429c8843bddf9cb6a30a8d91029374.png",
-      "publishedAt": "2025-03-31T19:05:00Z",
-      "content": "Monster Hunter Wilds is rounding out its one-month anniversary with a major patch later this week. Itll add new features and monsters to the game, as well as some urgent stability improvements on PC … [+1638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "James Whitbrook",
-      "title": "Magic: The Gathering Is Unbanning Cards In a New Experiment - Gizmodo",
-      "description": "The new experiment, impacting the card game's Pauper format, comes after a swath of changes to how Magic approaches powerful cards in other formats.",
-      "url": "https://gizmodo.com/magic-the-gathering-trial-unbans-pauper-wotc-2000582965",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/magic-the-gathering-high-tide-pauper-unban.jpg",
-      "publishedAt": "2025-03-31T19:00:00Z",
-      "content": "Over decades of competitive play, many a Magic card has either fallen out of valid use or been outright banned from official play altogether. But as Wizards of the Coast seeks to overhaul some format… [+4530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Xboxera.com"
-      },
-      "author": "Jesse 'Doncabesa' Norris",
-      "title": "ASUS teases Xbox branded ROG Ally Handheld - XboxEra",
-      "description": "ASUS has teased the rumored Xbox-branded ROG Ally Handheld in a social media post today. https://videopress.com/v/Hco8YDpR?resizeToParent=true&cover=true&preloadContent=metadata&useAverage",
-      "url": "https://xboxera.com/2025/03/31/asus-teases-xbox-branded-rog-ally-handheld/",
-      "urlToImage": "https://xboxera.com/wp-content/uploads/2025/03/asus-xbox-handheld.png",
-      "publishedAt": "2025-03-31T18:28:19Z",
-      "content": "ASUS has teased the rumored Xbox-branded ROG Ally Handheld in a social media post today.\r\nASUS Xbox ROG Ally Handheld\r\nThe ROG Global twitter account posted the above video today with Xbox replying a… [+1417 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Dannica Ramirez",
-      "title": "19 \"Wild,\" Everyday Items That People Think Are Complete Wastes Of Money - BuzzFeed",
-      "description": "\"I had a friend nearly get evicted because he spent his rent money on this...\"",
-      "url": "https://www.buzzfeed.com/dannicaramirez/everyday-items-people-waste-money-on",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/31/05/thumb/umuUbelLo.jpg?crop=1994:1044;6,134%26downsize=1250:*",
-      "publishedAt": "2025-03-31T17:59:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Best Amazon Spring Sale Headphone and Speaker Deals: Time’s Running Out to Save Up to $170 on Beats, Apple, Bose and More - CNET",
-      "description": "Time's running out to save up to $170 on our favorite audio devices from Bose, Beats, Apple and more during the final day of Amazon's Big Spring Sale.",
-      "url": "https://www.cnet.com/deals/best-amazon-spring-sale-headphone-and-speaker-deals-2025-31-03/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/db0e792560e749eea480abf9cb731cb2a2ea7b78/hub/2025/03/18/71400669-d2a5-4abf-b325-ece55ab7d475/amazon-spring-sale-headphones-and-earbuds.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-03-31T17:41:28Z",
-      "content": "It may be the final day of Amazon’s Big Spring Sale, but there are still incredible deals on top-rated headphones and speakers available to shop now. That said, time is running out, so whether you're… [+8429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Rumor: Nintendo had denied Embracer Group Nintendo Switch 2 dev kits due to chaos at the company - Nintendo Everything",
-      "description": "Various Nintendo Switch 2 tidbits surface about Embracer Group, development kits, and a new picture shown.",
-      "url": "https://nintendoeverything.com/rumor-nintendo-had-denied-embracer-group-nintendo-switch-2-dev-kits-due-to-chaos-at-the-company/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Switch-2-pic.jpeg",
-      "publishedAt": "2025-03-31T17:27:34Z",
-      "content": "Imran Khan, a games journalist who previously leaked Everybody 1-2 Switch, has claimed that Nintendo had denied Embracer Group development kits for Nintendo Switch 2.\r\nKhan says that Nintendo “deemed… [+1517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "macOS Sequoia 15.4 available now, here’s what’s new - 9to5Mac",
-      "description": "Apple has released macOS 15.4 for all users, bringing a redesigned Mail app, Apple Intelligence changes, and more.",
-      "url": "https://9to5mac.com/2025/03/31/macos-sequoia-15-4-available-now-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/m4-macbook-air-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-31T17:20:00Z",
-      "content": "Apple has just released macOS Sequoia 15.4 to all Mac users. This latest software update includes a variety of new features and enhancements, like a redesigned Mail app, new widgets, Apple Intelligen… [+3906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "watchOS 11.4 now available with three new features for Apple Watch - 9to5Mac",
-      "description": "Apple has just released watchOS 11.4, a small release for the Apple Watch but one that adds a few features nonetheless.",
-      "url": "https://9to5mac.com/2025/03/31/watchos-11-4-now-available-with-three-new-features-for-apple-watch/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/watchOS-11.4-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-31T17:20:00Z",
-      "content": "Apple has released watchOS 11.4 for Apple Watch users, and while it isnt a particularly big update, it does include a few new features and at least one key bug fix. Heres whats new.\r\nUpdate: After in… [+1372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Nickolas Diaz",
-      "title": "Alleged Pixel 10 Pro Fold renderings suggest same old Google vibes - Android Central",
-      "description": "More notable changes could arise from within.",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-alleged-porcelain-renderings-leaked",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GmKvsVuJfCQVN3E3GTSyy5-1200-80.jpg",
-      "publishedAt": "2025-03-31T17:18:06Z",
-      "content": "What you need to know\r\n<ul><li>Three leaked renderings, reportedly of the Pixel 10 Pro Fold, suggest Google might not veer much off its 9 series designs.</li><li>The foldable looks largely similar to… [+3179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "Amber Neely",
-      "title": "tvOS 18.4 brings Matter support for vacuums, lossless audio, and more to Apple TV - AppleInsider",
-      "description": "Apple has rolled out a few new features in tvOS 18.4, bringing some new smart home support, expanded audio features, and even changed up some of the Apple TV app interface.",
-      "url": "https://appleinsider.com/articles/25/03/31/tvos-184-brings-matter-support-for-vacuums-lossless-audio-and-more-to-apple-tv",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/35423-66887-Apple-TV-Box-xl.jpg",
-      "publishedAt": "2025-03-31T17:17:53Z",
-      "content": "Apple has rolled out a few new features in tvOS 18.4, bringing some new smart home support, expanded audio features, and even changed up some of the Apple TV app interface.\r\nUnlike Apple's other oper… [+2714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple Intelligence comes to Apple Vision Pro today with visionOS 2.4 - Apple",
-      "description": "visionOS 2.4 is available today, bringing the first set of powerful Apple Intelligence features to Apple Vision Pro.",
-      "url": "https://www.apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/tile/Apple-Intelligence-visionOS-2-4-hero-lp.jpg.og.jpg?202503312215",
-      "publishedAt": "2025-03-31T17:02:11Z",
-      "content": "March 31, 2025\r\nUPDATE\r\nApple Intelligence and new spatial experiences come to Apple Vision Pro today with visionOS 2.4\r\nAlongside the first set of powerful Apple Intelligence features, users can dis… [+7886 chars]"
+      "author": "Zack Zwiezen",
+      "title": "New Switch 2 Teaser Confirms Nintendo Knows You All Can't Stop Thinking About The C Button - Kotaku",
+      "description": "The C button's function will finally be revealed during tomorrow's Switch 2 Direct",
+      "url": "https://kotaku.com/switch-2-c-button-teaser-theory-direct-april-2-nintendo-1851774046",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9f3d61acba5112f7845b3880825e7a37.jpg",
+      "publishedAt": "2025-04-01T17:10:00Z",
+      "content": "Nintendo has posted a new short teaser video focused entirely on the Switch 2's mysterious C button. This seems to confirm that Nintendo knows that since officially revealing the console in January, … [+1748 chars]"
     },
     {
       "source": {
@@ -242,12 +138,129 @@
         "name": "Ars Technica"
       },
       "author": "Ryan Whitwam",
-      "title": "Google’s new experimental Gemini 2.5 model rolls out to free users - Ars Technica",
-      "description": "Google’s improved AI model is now available for free, but usage is limited.",
-      "url": "https://arstechnica.com/gadgets/2025/03/googles-new-experimental-gemini-2-5-model-rolls-out-to-free-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-models-march-1-1152x648-1743438208.jpg",
-      "publishedAt": "2025-03-31T16:45:53Z",
+      "title": "Gemini is an increasingly good chatbot, but it’s still a bad assistant - Ars Technica",
+      "description": "Op-ed: Google’s generative AI is not ready to serve as your virtual assistant.",
+      "url": "https://arstechnica.com/gadgets/2025/04/gemini-is-an-increasingly-good-chatbot-but-its-still-a-bad-assistant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-1152x648.jpg",
+      "publishedAt": "2025-04-01T16:49:54Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Carl Franzen",
+      "title": "Emergence AI's new system automatically creates AI agents rapidly in realtime based on the work at hand - VentureBeat",
+      "description": "The new system is literally a no code, natural language, AI-powered multi-agent builder, and it works in real time.",
+      "url": "https://venturebeat.com/ai/emergence-ais-new-system-automatically-creates-ai-agents-rapidly-in-realtime-based-on-the-work-at-hand/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_flat_illustration_corporate_memphis_style_minimalist__a526965a-cbc5-4f3d-95d2-fe44039b62f5_3.png?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-04-01T16:12:10Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nAnother day, another announcement about AI agents.\r\nHailed by various m… [+8052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "New Elden Ring Nightreign playable character revealed - Eurogamer",
+      "description": "FromSoftware has revealed a new playable character in Elden Ring Nightreign, the bow-wielding Ironeye",
+      "url": "https://www.eurogamer.net/new-elden-ring-nightreign-playable-character-revealed",
+      "urlToImage": "https://assetsio.gnwcdn.com/image_fy0tEqX.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-01T16:06:31Z",
+      "content": "A new playable character in FromSoftware's forthcoming Elden Ring Nightreign has been revealed.\r\nIn the network test, only four Nightfarers were available to players, but the latest pre-order push sh… [+1653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chrome Unboxed"
+      },
+      "author": "Robby Payne",
+      "title": "Acer very quietly launched 6 new Chromebooks, including a tablet - Chrome Unboxed",
+      "description": "Just a couple weeks ago, we reported on a new Acer Chromebook Plus 516 that looks all set to arrive at basically any point now. Not only was it listed on the Chromium Dash site, it was also already showing up on cros.tech and had a model name confirmed as wel…",
+      "url": "https://chromeunboxed.com/acer-very-quietly-launched-6-new-chromebooks-including-a-tablet/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/04/NewAcerChromebookPlus516-514.webp",
+      "publishedAt": "2025-04-01T16:05:58Z",
+      "content": "Just a couple weeks ago, we reported on a new Acer Chromebook Plus 516 that looks all set to arrive at basically any point now. Not only was it listed on the Chromium Dash site, it was also already s… [+3675 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s Pixel 10 Pro Fold might be mostly a spec bump - The Verge",
+      "description": "Google might not be making any major changes to the Pixel 10 Pro Fold, as renders shared with Android Headlines by OnLeaks show a device with a very similar design.",
+      "url": "https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/pixel-10-pro-fold-render-1.webp?quality=90&strip=all&crop=0%2C3.4758762589362%2C100%2C93.048247482128&w=1200",
+      "publishedAt": "2025-04-01T15:25:12Z",
+      "content": "Leaked renders show a device with a very familiar design.\r\nLeaked renders show a device with a very familiar design.\r\nYou probably shouldnt expect major changes to Googles next Pixel foldable. Render… [+1257 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Atomfall the Most Successful Launch in Sniper Elite Developer Rebellion’s 32-Year History - IGN",
+      "description": "Atomfall looks like a hit, with 1.5 million players reached and, ahem, 300,000 cups of tea drank. It's the most successful launch in Rebellion's 32-year history.",
+      "url": "https://www.ign.com/articles/atomfall-the-most-successful-launch-in-sniper-elite-developer-rebellions-32-year-history",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/01/atomfall-1743519633134.jpg?width=1280",
+      "publishedAt": "2025-04-01T15:03:22Z",
+      "content": "Atomfall looks like a hit, with 1.5 million players reached and, ahem, 300,000 cups of tea drank.\r\nRebellions brand new IP set in the north of England is the companys most successful launch in its 32… [+2288 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The Sonos Arc is down to a new all-time low price - The Verge",
+      "description": "The Sonos Arc is $599 ($300 off), a new all-time low, at multiple retailers. The second-gen Arlo Video Doorbell and JBL’s Authentics 2 are also on sale.",
+      "url": "https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF0849.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
+      "publishedAt": "2025-04-01T14:53:19Z",
+      "content": "We also found deals on the second-gen Arlo Video Doorbell and JBLs Authentics 2. \r\nWe also found deals on the second-gen Arlo Video Doorbell and JBLs Authentics 2. \r\nIf you want to create a cinematic… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Andrew Romero",
+      "title": "Galaxy S25 Edge launch date surfaces in latest leak, confirms previous reports - 9to5Google",
+      "description": "The Galaxy S25 Edge does not come as a fourth wheel in the main S25 lineup. Like the FE model,...",
+      "url": "http://9to5google.com/2025/04/01/galaxy-s25-edge-launch-date-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/samsung-galaxy-s25-edge-mwc-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-01T14:39:00Z",
+      "content": "The Galaxy S25 Edge does not come as a fourth wheel in the main S25 lineup. Like the FE model, it’s entirely its own phone, and new leaks note that we should see the Galaxy S25 Edge launch in late Ap… [+1415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defector.com"
+      },
+      "author": null,
+      "title": "Why Your Children’s Toy Sucks: Playhut - Defector",
+      "description": "A look at the awful playtime trinkets you’re forced to keep in your house until you can finally buy your kid a phone. The Toy Playhut, made by the aptly named Basic Fun, which filed for bankruptcy a year ago. The Slogan “Twist, pop and play with Playhut!” The…",
+      "url": "https://defector.com/why-your-childrens-toy-sucks-playhut",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/03/Screenshot-2025-04-01-at-10.26.31 AM.png",
+      "publishedAt": "2025-04-01T14:36:00Z",
+      "content": "A look at the awful playtime trinkets youre forced to keep in your house until you can finally buy your kid a phone.\r\nThe Toy\r\nPlayhut, made by the aptly named Basic Fun, which filed for bankruptcy a… [+4713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "OnePlus 13T is ‘small, beautiful, and powerful’ in first teaser, launches this month - 9to5Google",
+      "description": "It’s April Fools’ day, meaning you should be wary of anything you see online. But, alongside its April Fools prank,...",
+      "url": "http://9to5google.com/2025/04/01/oneplus-13t-teaser-release-date/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/OnePlus-logo-on-rear-panel-of-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-01T14:25:00Z",
+      "content": "It’s April Fools’ day, meaning you should be wary of anything you see online. But, alongside its April Fools prank, OnePlus has also confirmed that the OnePlus 13T is launching later this month, and … [+1349 chars]"
     }
   ]
 }
