@@ -1,266 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 7,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 18.4’s Messages app adds RCS features for lots of new users - 9to5Mac",
-      "description": "iOS 18.4 brings a big expansion of RCS support inside the Messages app, bringing improved iPhone-Android messaging to lots of new users.",
-      "url": "https://9to5mac.com/2025/04/01/ios-184s-messages-app-adds-rcs-features-for-lot-of-new-users/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/rcs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-01T20:11:00Z",
-      "content": "Apples Messages app got some big upgrades in iOS 18, but one with the biggest potential impactRCS supporthas had a slow rollout among some carriers. Fortunately in iOS 18.4, Messages is bringing the … [+1456 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Researchers suggest OpenAI trained AI models on paywalled O’Reilly books - TechCrunch",
-      "description": "A new study suggests that OpenAI used paywalled books from O'Reilly media without permission to train some of its more recent models.",
-      "url": "https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-      "publishedAt": "2025-04-01T20:10:00Z",
-      "content": "OpenAI has been accused by many parties of training its AI on copyrighted content sans permission. Now a new paper by an AI watchdog organization makes the serious accusation that the company increas… [+4390 chars]"
+      "author": "Samantha Chery, Gene Park",
+      "title": "Nintendo Switch 2 to launch in June with 4K visuals and surprise game lineup - The Washington Post",
+      "description": "Nintendo’s Switch 2 supports much more graphics power and will release June 5, the company said.",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/04/02/switch-2-4k-hardware-nintendo-direct/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AUR4W25MIRATBDIGY3CJAOC7RY_size-normalized.png&w=1440",
+      "publishedAt": "2025-04-02T22:27:46Z",
+      "content": "Nintendos Switch 2, a souped-up successor to the companys massively successful handheld console, will release June 5 at a base price of $449.99, the company announced Wednesday.\r\nNintendos presentati… [+5121 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Futurism"
       },
-      "author": "Kenneth Shepard",
-      "title": "Overwatch 2’s Amazing Annual April Fools’ Day Mode Is Just As Incredible This Year - Kotaku",
-      "description": "Blizzard’s tradition of breaking the hero shooter hasn’t gotten old",
-      "url": "https://kotaku.com/overwatch-2-april-fools-day-normalwatch-patch-notes-1851774114",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cb67f7a18a9854f866617ce85de178eb.jpg",
-      "publishedAt": "2025-04-01T19:30:00Z",
-      "content": "Most video game companies use April Fools Day to make a social media post about something improbable, like a dating sim spin-off or a product they will never actually put out. Overwatch 2 goes the ex… [+15818 chars]"
+      "author": "Frank Landymore",
+      "title": "An AI Model Has Officially Passed the Turing Test - Futurism",
+      "description": "OpenAI's GPT-4.5 model passed a Turing Test with flying colors, and even came off as human more than the actual humans.",
+      "url": "https://futurism.com/ai-model-turing-test",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/04/ai-model-turing-test.jpg",
+      "publishedAt": "2025-04-02T18:35:12Z",
+      "content": "One of the industry's leading large language models has passed a Turing test, a longstanding barometer for human-like intelligence.\r\nIn a new preprint study awaiting peer review, researchers report t… [+4327 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Mark Gurman",
-      "title": "How Meta’s Upcoming $1,000+ Smart Glasses With a Screen Will Work - Bloomberg.com",
-      "description": "Meta Platforms Inc., ramping up work on a deluxe version of its popular smart glasses, plans to include hand-gesture controls and a screen for displaying photos and apps.",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-01/how-meta-s-upcoming-1000-smart-glasses-with-a-screen-will-work",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTg9Y.lk9enM/v2/1200x799.jpg",
-      "publishedAt": "2025-04-01T19:08:43Z",
-      "content": "Meta Platforms Inc., ramping up work on adeluxe version of its popular smart glasses, plans to include hand-gesture controls and a screen for displaying photos and apps.\r\nThe company intends to intro… [+226 chars]"
+      "author": "Juli Clover",
+      "title": "Apple Seeds First Beta of iOS 18.5 to Developers - MacRumors",
+      "description": "Apple today seeded the first betas of upcoming iOS 18.5 and iPadOS 18.5 updates to developers for testing purposes, with the software coming just two...",
+      "url": "https://www.macrumors.com/2025/04/02/apple-seeds-first-beta-of-ios-18-5-to-developers/",
+      "urlToImage": "https://images.macrumors.com/t/uSxxRefnKz3z3MK1y_CnFxSg8Ak=/2500x/article-new/2025/04/iOS-18.5-Feature-Real-Mock.jpg",
+      "publishedAt": "2025-04-02T17:11:14Z",
+      "content": "Apple today seeded the first betas of upcoming iOS 18.5 and iPadOS 18.5 updates to developers for testing purposes, with the software coming just two days after Apple released iOS 18.4 and iPadOS 18.… [+504 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sheena Vasani",
-      "title": "Runway says its latest AI video model can actually generate consistent scenes and people - The Verge",
-      "description": "Runway’s new Gen-4 video synthesis model can actually generate consistent scenes and people across multiple shots. The model is currently rolling out to paid and enterprise users.",
-      "url": "https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/runway-gen-4-ai.webp?quality=90&strip=all&crop=0%2C3.4405385190725%2C100%2C93.118922961855&w=1200",
-      "publishedAt": "2025-04-01T18:31:20Z",
-      "content": "Now, you can produce films that wont change on you mid-scene.\r\nNow, you can produce films that wont change on you mid-scene.\r\nAI startup Runway says its latest AI video model can generate consistent … [+1001 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "Cheap TVs’ incessant advertising reaches troubling new lows - Ars Technica",
-      "description": "Op-ed: TV screensavers shouldn’t show immigration ads from the Trump administration.",
-      "url": "https://arstechnica.com/gadgets/2025/04/cheap-tvs-incessant-advertising-reaches-troubling-new-lows/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-898988832-1152x648.jpg",
-      "publishedAt": "2025-04-01T18:19:05Z",
-      "content": null
+      "author": "Andrew Webster, Wes Davis",
+      "title": "Mario Kart World launches exclusively with the Nintendo Switch 2 - The Verge",
+      "description": "Mario Kart World is coming on June 5th as a Nintendo Switch 2 exclusive, available both on its own or as a digital download bundle with the console.",
+      "url": "https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/image-5.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-04-02T14:22:52Z",
+      "content": "Mario Kart gets the open-world treatment.\r\nWe knew a Mario Kart game was coming to the Switch 2, and now Nintendo has finally shared some real details in its latest Nintendo Direct. Its called Mario … [+1876 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Beebom"
+        "name": "Video Games Chronicle"
       },
-      "author": "Ishan Adhikary",
-      "title": "How to Find The Flamethrower Code in Dress to Impress - Beebom",
-      "description": "Follow this full guide to learn how to find the Dress to Impress Flamethrower code and the process to redeem it.",
-      "url": "https://beebom.com/how-find-flamethrower-code-in-dress-to-impress/",
-      "urlToImage": "https://static.beebom.com/wp-content/uploads/2025/04/Dress-to-Impress-Flamethrower.jpg",
-      "publishedAt": "2025-04-01T18:14:11Z",
-      "content": "Dress to Impress is a unique dress-up game where a traditional fashion game takes a unique twist. With every update, we get a free cosmetic with new DTI codes. However, the April Fools’ Day update in… [+1537 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology - TechCrunch",
-      "description": "Mark Cuban has backed Skylight, a TikTok alternative built on Bluesky's underlying technology.",
-      "url": "https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/skylight-social.png?resize=1200,900",
-      "publishedAt": "2025-04-01T17:48:41Z",
-      "content": "Skylight, a startup taking on TikTok with a more open alternative, is launching its mobile app to the public on Tuesday after just 10 weeks of active development. The app, which is backed by Mark Cub… [+3446 chars]"
+      "author": "Andy Robinson",
+      "title": "Metroid Prime 4, Zelda, and Pokemon are getting enhanced Switch 2 Editions - Video Games Chronicle",
+      "description": "Owners of the original games will be able to upgrade for a price",
+      "url": "https://www.videogameschronicle.com/news/metroid-prime-4-zelda-and-pokemon-are-getting-enhanced-switch-2-editions/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/04/switch-2-editions.jpg",
+      "publishedAt": "2025-04-02T13:36:04Z",
+      "content": "Nintendo has announced a line of enhanced Nintendo Switch 2 Edition games for its next console, which will feature improvements such as better visuals, or exclusive features.\r\nSwitch 2 Edition games … [+3398 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Akshat Kabra",
-      "title": "Is Minecraft April Fools 2025 out yet? - Sportskeeda",
-      "description": "Every year on April 1st, Mojang releases a Minecraft snapshot that contains hilarious and fun features for players to experience. This snapshot is considered the April Fools version.",
-      "url": "https://www.sportskeeda.com/minecraft/is-minecraft-april-fools-2025-yet",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2025/04/e766b-17434905786448-1920.jpg",
-      "publishedAt": "2025-04-01T17:28:00Z",
-      "content": "Every year on April 1st, Mojang releases a Minecraft snapshot that contains hilarious and fun features for players to experience. This snapshot is considered the April Fools version. In 2024, the dev… [+2133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "New Switch 2 Teaser Confirms Nintendo Knows You All Can't Stop Thinking About The C Button - Kotaku",
-      "description": "The C button's function will finally be revealed during tomorrow's Switch 2 Direct",
-      "url": "https://kotaku.com/switch-2-c-button-teaser-theory-direct-april-2-nintendo-1851774046",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9f3d61acba5112f7845b3880825e7a37.jpg",
-      "publishedAt": "2025-04-01T17:10:00Z",
-      "content": "Nintendo has posted a new short teaser video focused entirely on the Switch 2's mysterious C button. This seems to confirm that Nintendo knows that since officially revealing the console in January, … [+1748 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Gemini is an increasingly good chatbot, but it’s still a bad assistant - Ars Technica",
-      "description": "Op-ed: Google’s generative AI is not ready to serve as your virtual assistant.",
-      "url": "https://arstechnica.com/gadgets/2025/04/gemini-is-an-increasingly-good-chatbot-but-its-still-a-bad-assistant/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-1152x648.jpg",
-      "publishedAt": "2025-04-01T16:49:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Carl Franzen",
-      "title": "Emergence AI's new system automatically creates AI agents rapidly in realtime based on the work at hand - VentureBeat",
-      "description": "The new system is literally a no code, natural language, AI-powered multi-agent builder, and it works in real time.",
-      "url": "https://venturebeat.com/ai/emergence-ais-new-system-automatically-creates-ai-agents-rapidly-in-realtime-based-on-the-work-at-hand/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_flat_illustration_corporate_memphis_style_minimalist__a526965a-cbc5-4f3d-95d2-fe44039b62f5_3.png?w=1024?w=1200&strip=all",
-      "publishedAt": "2025-04-01T16:12:10Z",
-      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nAnother day, another announcement about AI agents.\r\nHailed by various m… [+8052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Ed Nightingale",
-      "title": "New Elden Ring Nightreign playable character revealed - Eurogamer",
-      "description": "FromSoftware has revealed a new playable character in Elden Ring Nightreign, the bow-wielding Ironeye",
-      "url": "https://www.eurogamer.net/new-elden-ring-nightreign-playable-character-revealed",
-      "urlToImage": "https://assetsio.gnwcdn.com/image_fy0tEqX.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-04-01T16:06:31Z",
-      "content": "A new playable character in FromSoftware's forthcoming Elden Ring Nightreign has been revealed.\r\nIn the network test, only four Nightfarers were available to players, but the latest pre-order push sh… [+1653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chrome Unboxed"
-      },
-      "author": "Robby Payne",
-      "title": "Acer very quietly launched 6 new Chromebooks, including a tablet - Chrome Unboxed",
-      "description": "Just a couple weeks ago, we reported on a new Acer Chromebook Plus 516 that looks all set to arrive at basically any point now. Not only was it listed on the Chromium Dash site, it was also already showing up on cros.tech and had a model name confirmed as wel…",
-      "url": "https://chromeunboxed.com/acer-very-quietly-launched-6-new-chromebooks-including-a-tablet/",
-      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/04/NewAcerChromebookPlus516-514.webp",
-      "publishedAt": "2025-04-01T16:05:58Z",
-      "content": "Just a couple weeks ago, we reported on a new Acer Chromebook Plus 516 that looks all set to arrive at basically any point now. Not only was it listed on the Chromium Dash site, it was also already s… [+3675 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google’s Pixel 10 Pro Fold might be mostly a spec bump - The Verge",
-      "description": "Google might not be making any major changes to the Pixel 10 Pro Fold, as renders shared with Android Headlines by OnLeaks show a device with a very similar design.",
-      "url": "https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/pixel-10-pro-fold-render-1.webp?quality=90&strip=all&crop=0%2C3.4758762589362%2C100%2C93.048247482128&w=1200",
-      "publishedAt": "2025-04-01T15:25:12Z",
-      "content": "Leaked renders show a device with a very familiar design.\r\nLeaked renders show a device with a very familiar design.\r\nYou probably shouldnt expect major changes to Googles next Pixel foldable. Render… [+1257 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Atomfall the Most Successful Launch in Sniper Elite Developer Rebellion’s 32-Year History - IGN",
-      "description": "Atomfall looks like a hit, with 1.5 million players reached and, ahem, 300,000 cups of tea drank. It's the most successful launch in Rebellion's 32-year history.",
-      "url": "https://www.ign.com/articles/atomfall-the-most-successful-launch-in-sniper-elite-developer-rebellions-32-year-history",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/01/atomfall-1743519633134.jpg?width=1280",
-      "publishedAt": "2025-04-01T15:03:22Z",
-      "content": "Atomfall looks like a hit, with 1.5 million players reached and, ahem, 300,000 cups of tea drank.\r\nRebellions brand new IP set in the north of England is the companys most successful launch in its 32… [+2288 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The Sonos Arc is down to a new all-time low price - The Verge",
-      "description": "The Sonos Arc is $599 ($300 off), a new all-time low, at multiple retailers. The second-gen Arlo Video Doorbell and JBL’s Authentics 2 are also on sale.",
-      "url": "https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF0849.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
-      "publishedAt": "2025-04-01T14:53:19Z",
-      "content": "We also found deals on the second-gen Arlo Video Doorbell and JBLs Authentics 2. \r\nWe also found deals on the second-gen Arlo Video Doorbell and JBLs Authentics 2. \r\nIf you want to create a cinematic… [+2477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Galaxy S25 Edge launch date surfaces in latest leak, confirms previous reports - 9to5Google",
-      "description": "The Galaxy S25 Edge does not come as a fourth wheel in the main S25 lineup. Like the FE model,...",
-      "url": "http://9to5google.com/2025/04/01/galaxy-s25-edge-launch-date-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/samsung-galaxy-s25-edge-mwc-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-01T14:39:00Z",
-      "content": "The Galaxy S25 Edge does not come as a fourth wheel in the main S25 lineup. Like the FE model, it’s entirely its own phone, and new leaks note that we should see the Galaxy S25 Edge launch in late Ap… [+1415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defector.com"
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "Why Your Children’s Toy Sucks: Playhut - Defector",
-      "description": "A look at the awful playtime trinkets you’re forced to keep in your house until you can finally buy your kid a phone. The Toy Playhut, made by the aptly named Basic Fun, which filed for bankruptcy a year ago. The Slogan “Twist, pop and play with Playhut!” The…",
-      "url": "https://defector.com/why-your-childrens-toy-sucks-playhut",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/03/Screenshot-2025-04-01-at-10.26.31 AM.png",
-      "publishedAt": "2025-04-01T14:36:00Z",
-      "content": "A look at the awful playtime trinkets youre forced to keep in your house until you can finally buy your kid a phone.\r\nThe Toy\r\nPlayhut, made by the aptly named Basic Fun, which filed for bankruptcy a… [+4713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "OnePlus 13T is ‘small, beautiful, and powerful’ in first teaser, launches this month - 9to5Google",
-      "description": "It’s April Fools’ day, meaning you should be wary of anything you see online. But, alongside its April Fools prank,...",
-      "url": "http://9to5google.com/2025/04/01/oneplus-13t-teaser-release-date/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/OnePlus-logo-on-rear-panel-of-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-01T14:25:00Z",
-      "content": "It’s April Fools’ day, meaning you should be wary of anything you see online. But, alongside its April Fools prank, OnePlus has also confirmed that the OnePlus 13T is launching later this month, and … [+1349 chars]"
+      "title": "Google made a dashcam app for cars with Android Automotive, but you can't download it - Android Authority",
+      "description": "Google made a dashcam app for Android Automotive that lets cars record their surroundings using their cameras, but you can't download it.",
+      "url": "https://www.androidauthority.com/android-automotive-dashcam-app-3540443/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/06/Android-Automotive-in-a-Polestar-2.jpg",
+      "publishedAt": "2025-04-02T11:35:24Z",
+      "content": "<ul><li>Google has developed a dashcam app for Android Automotive that allows cars to record their surroundings using their built-in cameras.</li><li>Many cars running Android Automotive dont have a … [+2900 chars]"
     }
   ]
 }
