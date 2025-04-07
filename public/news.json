@@ -1,32 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 30,
   "articles": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Nintendoeverything.com"
       },
-      "author": "Steven Johnson",
-      "title": "Trump’s tariffs cause Nintendo to delay Switch 2 preorders in U.S. - The Washington Post",
-      "description": "Nintendo delayed U.S. preorders for the Switch 2, becoming one of the first major companies to alter its product plans over President Donald Trump’s tariffs.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/04/04/nintendo-delays-switch-2-preorders-tariffs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YO6GUC7W5HSHEKXX6Z7LMFBNGA.jpg&w=1440",
-      "publishedAt": "2025-04-04T21:15:39Z",
-      "content": "Nintendo is delaying U.S. preorders for its highly anticipated Switch 2 console because of the new tariffs announced by President Donald Trump, the company said Friday.\r\nPre-orders for Nintendo Switc… [+2341 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Protester interrupts Microsoft Copilot keynote, says company has ‘blood on its hands’ - TechCrunch",
-      "description": "A protester interrupted Microsoft's Copilot-focused keynote Friday afternoon, calling attention to the company's reported dealings with the Israeli military.",
-      "url": "https://techcrunch.com/2025/04/04/protester-interrupts-microsoft-copilot-keynote-says-company-has-blood-on-its-hands/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?resize=1200,626",
-      "publishedAt": "2025-04-04T17:17:15Z",
-      "content": "A protester interrupted Microsoft’s Copilot-focused keynote Friday afternoon, calling attention to the company’s reported dealings with the Israeli military. \r\n“Shame on you,” the protester said. “Yo… [+1094 chars]"
+      "author": "Brian",
+      "title": "Metroid Prime 4 Switch 2 vs. Switch 1 comparison, Street Fighter 6 Switch 2 vs. PS5 vs. PS4 comparison - Nintendo Everything",
+      "description": "Graphics comparisons released for Metroid Prime 4 Switch 2 vs. Switch 1 and Street Fighter 6 Switch 2 vs. PS5 vs. PS4.",
+      "url": "https://nintendoeverything.com/metroid-prime-4-switch-2-vs-switch-1-comparison-street-fighter-6-switch-2-vs-ps5-vs-ps4-comparison/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Metroid-Prime-4-Switch-2-vs-Switch-1-comparison.jpg",
+      "publishedAt": "2025-04-05T21:33:28Z",
+      "content": "Nintendo Switch 2 graphical comparison videos are starting to drop, and first up is Metroid Prime 4 and Street Fighter 6.\r\nFor Metroid Prime 4, it’s Nintendo Switch 2 going up against Switch 1 here. … [+861 chars]"
     },
     {
       "source": {
@@ -34,77 +21,233 @@
         "name": "The Verge"
       },
       "author": "Tom Warren",
-      "title": "Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world - The Verge",
-      "description": "Microsoft is bringing its Copilot Vision features to Windows and mobile apps. Vision will be able to analyze real-time video and guide you through Windows apps.",
-      "url": "https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/microsoft-copilot-vision-on-windows.png?quality=90&strip=all&crop=0%2C3.4855536164437%2C100%2C93.028892767113&w=1200",
-      "publishedAt": "2025-04-04T16:30:00Z",
-      "content": "Copilot Vision on Windows will be able to see your screen and guide you through apps.\r\nCopilot Vision on Windows will be able to see your screen and guide you through apps.\r\nMicrosoft is bringing its… [+1452 chars]"
+      "title": "Microsoft has created an AI-generated version of Quake - The Verge",
+      "description": "Microsoft has released its Muse AI model, which generates gameplay. An AI-generated version of Quake II is now available to test.",
+      "url": "https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/quakemicrosoft.png?quality=90&strip=all&crop=0,9.1437326343007,100,81.712534731399",
+      "publishedAt": "2025-04-05T18:23:54Z",
+      "content": "Microsofts Muse AI model is now available as an AI-generated Quake II tech demo.\r\nMicrosofts Muse AI model is now available as an AI-generated Quake II tech demo.\r\nMicrosoft unveiled its Xbox AI era … [+2010 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "Google will require new Android 16 devices to support this game-changing graphics feature - Android Authority",
-      "description": "New Android 16 devices have to support Host Image Copy, a Vulkan 1.4 feature that reduces stuttering, load times, and memory use in games.",
-      "url": "https://www.androidauthority.com/android-16-host-image-copy-3541523/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/Vulkan_1.4_logo_on_an_Android_phone-scaled.jpg",
-      "publishedAt": "2025-04-04T13:36:07Z",
-      "content": "<ul><li>The latest version of the Vulkan graphics API, Vulkan 1.4, makes the Host Image Copy feature a core feature.</li><li>A Google engineer says games using Host Image Copy can remove stutter duri… [+4255 chars]"
+      "author": "Vikki Blake",
+      "title": "Buying physical copies of Nintendo Switch 2's \"upgraded\" games? You should probably read this - Eurogamer",
+      "description": "Physical copies of OG Switch games upgraded for Nintendo Switch 2, like The Legend of Zelda: Tears of the Kingdom and M…",
+      "url": "https://www.eurogamer.net/buying-physical-copies-of-nintendo-switch-2s-upgraded-games-you-should-probably-read-this",
+      "urlToImage": "https://assetsio.gnwcdn.com/nintendo-switch-2-launch-titles-feature-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-05T17:15:40Z",
+      "content": "Physical copies of OG Switch games upgraded for Nintendo Switch 2, like The Legend of Zelda: Tears of the Kingdom and Metroid Prime 4, will seemingly ship with original Switch 1 cartridges.\r\nThat's a… [+2735 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo.com"
+        "name": "CNET"
       },
-      "author": null,
-      "title": "Creator’s Voice blog: Hidetaka Miyazaki on The Duskbloods (part 1) - Nintendo",
-      "description": "Get the inside scoop on The Duskbloods in this interview with the director, Hidetaka Miyazaki of FromSoftware. Check out the rest of the blog Part 2: Superhuman abilities and opportunistic behaviors Part 3: Playing roles and altering fates Part 1: B…",
-      "url": "https://www.nintendo.com/us/whatsnew/creators-voice-the-duskbloods-part-1/",
-      "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "publishedAt": "2025-04-04T13:03:29Z",
-      "content": "Get the inside scoop on The Duskbloods in this interview with the director, Hidetaka Miyazaki of FromSoftware.\r\nCheck out the rest of the blog\r\nCan you please give us a quick self-introduction?\r\nMy n… [+4798 chars]"
+      "author": "See full bio",
+      "title": "Bill Gates Has Published the Original Microsoft Source Code - CNET",
+      "description": "It's \"the coolest code I've ever written,\" the Microsoft co-founder says.",
+      "url": "https://www.cnet.com/tech/computing/bill-gates-has-published-the-original-microsoft-source-code/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/985c06216a14fd83fc1cc12babc15abe9a04953c/hub/2025/04/02/a0ab62e8-91c1-4b09-bbec-3fd08c59591c/bill-gates-microsoft-source-code.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-05T15:00:00Z",
+      "content": "If you want to see the original source code that started Microsoft, Bill Gates is now sharing it. On Wednesday, the Microsoft co-founder posted it on his Gates Notes blog, reminiscing about the compa… [+2490 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "GoNintendo"
       },
-      "author": "Tim Hardwick",
-      "title": "iOS 18.4: Access Hidden Ambient Music Playlists - MacRumors",
-      "description": "In Apple's iOS 18.4 software update, there's a new Ambient Music feature available in the Control Center options on iPhone. It's free to...",
-      "url": "https://www.macrumors.com/how-to/ios-18-4-access-hidden-ambient-music-playlists/",
-      "urlToImage": "https://images.macrumors.com/t/LzpO2dR_IJ8sGl6E7cXL2XAM5ls=/1920x/article-new/2025/03/iOS-18-4-Ambient-Music-Control-Center.jpg",
-      "publishedAt": "2025-04-04T11:14:58Z",
-      "content": "In Apple's iOS 18.4 software update, there's a new Ambient Music feature available in the Control Center options on iPhone. It's free to use, and does not require an Apple Music subscription. It's al… [+2481 chars]"
+      "author": "rawmeatcowboy",
+      "title": "Street Fighter 6 \"Switch 2 Vs. PS4 Vs. PS5\" graphics comparison - GoNintendo",
+      "description": "We've got a contender",
+      "url": "https://gonintendo.com/contents/47158-street-fighter-6-switch-2-vs-ps4-vs-ps5-graphics-comparison",
+      "urlToImage": "https://gonintendo.com/attachments/image/63433/file/medium-980178ecbffd079873b62fa708139bed.png",
+      "publishedAt": "2025-04-05T14:37:34Z",
+      "content": "One of the many games announced for Switch 2 at the most recent Nintendo Direct was Street Fighter 6, and its coming on June 5th, 2025, launch day for the hardware. Wondering how the Switch 2 port of… [+1707 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Toyota.com"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Melissa Faulner",
-      "title": "Take One Last Lap in the Toyota GR Supra MkV Final Edition - Toyota USA Newsroom",
-      "description": "LONG BEACH, Calif. (April 3, 2025) - Born on the track, the GR Supra is a testament to Toyota’s commitment to motorsports-bred vehicle development, blending engineering excellence, innovation, and lessons learned from the most demanding conditions that only r…",
-      "url": "https://pressroom.toyota.com/take-one-last-lap-in-the-toyota-gr-supra-mkv-final-edition/",
-      "urlToImage": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026-Toyota-GRSupra_MK5_FE_GT4_Undercover_001-1000x600.jpg",
-      "publishedAt": "2025-04-04T01:04:18Z",
-      "content": "<ul><li>Toyota Introduces GR Supra MkV Final Edition at Grand Prix of Long Beach</li><li>MkV Final Edition Features Optimized Tuning, Improved Braking and Chassis and Suspension Updates</li><li>3.0 a… [+11912 chars]"
+      "author": "Brian",
+      "title": "Nintendo Korea site leaks big Donkey Kong Bananza detail - Nintendo Everything",
+      "description": "A significant piece of Donkey Kong Bananza information has been leaked by one of Nintendo's official websites.",
+      "url": "https://nintendoeverything.com/nintendo-korea-site-leaks-big-donkey-kong-bananza-detail/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-key-art.jpg",
+      "publishedAt": "2025-04-05T14:28:02Z",
+      "content": "A new detail about Donkey Kong Bananza has been leaked by the official Nintendo Switch 2 website in Korea. We’ll be sharing this information after the break, so keep that in mind before proceeding.\r\n… [+888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zak Doffman",
+      "title": "Microsoft Warns 240 Million Windows Users—Stop Using Your PC - Forbes",
+      "description": "All change for PC owners as deadline gets closer.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/04/05/microsoft-warns-240-million-windows-users-stop-using-your-pc/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67eeb7d1b72ec632eae97307/0x0.jpg?format=jpg&crop=1398,835,x1211,y160,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-05T13:09:46Z",
+      "content": "And so it beginsall change for Windows.\r\nGetty Images\r\nUpdate: Republished on April 5 with initial responses to Microsofts new warning.\r\nAnd so it begins. Microsoft is preparing millions of PC owners… [+4546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Alan Bradley",
+      "title": "Nvidia's mini desktop supercomputer is coming this year - Live Science",
+      "description": "The new DGX machines are portable but powerful enough to drive complex AI modules and research, with processing capabilities previously only available in data centers.",
+      "url": "https://www.livescience.com/technology/computing/mini-desktop-supercomputer-coming-this-year-powerful-enough-to-run-advanced-ai-models-and-small-enough-to-fit-in-your-bag",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sBMk3pGNvCLBbcrqV57JSX-1200-80.jpg",
+      "publishedAt": "2025-04-05T13:00:00Z",
+      "content": "Nvidia has unveiled a line of artificial intelligence\r\n (AI) supercomputers that can deliver unprecedented processing power in a portable, desktop-friendly chassis.\r\nPreviously dubbed Project Digits,… [+3299 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "On TikTok, YouTube, X, and everywhere, ‘views’ are lies - The Verge",
+      "description": "Social and entertainment platforms have all settled on “views” as their primary metric. But they all disagree on how to count, and nobody counts correctly.",
+      "url": "https://www.theverge.com/social/639811/view-counts-tiktok-instagram-x-youtube-lies",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/viewer-numbers.jpg?quality=90&strip=all&crop=0%2C13.32201829584%2C100%2C73.355963408319&w=1200",
+      "publishedAt": "2025-04-05T13:00:00Z",
+      "content": "Consider this a reminder or a PSA: a view on the internet means even less than you think.\r\nViews are the most visible metric on the internet. You can see, in more or less real time, how many views so… [+6950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Jordan Middler",
+      "title": "Third-party developers say Switch 2’s horsepower makes them ‘extremely happy’ - Video Games Chronicle",
+      "description": "Dozens of third party games are coming to Nintendo's new platform",
+      "url": "https://www.videogameschronicle.com/news/third-party-developers-say-switch-2s-horsepower-makes-them-extremely-happy/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2023/02/hogwarts-legacy-y-1.jpg",
+      "publishedAt": "2025-04-05T12:47:39Z",
+      "content": "Third-party developers have reacted to the Nintendo Switch 2’s horsepower.\r\nNintendo‘s next console, the Nintendo Switch 2, was fully revealed this week, as were several third-party titles that will … [+2004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sammyfans.com"
+      },
+      "author": "Yash",
+      "title": "Samsung Galaxy S24 Ultra user installs Stable One UI 7 from OTA leak [Video] - Sammy Fans",
+      "description": "Samsung fans have been eagerly awaiting the Stable One UI 7 OTA for the Galaxy S24 series. Recently, an X user shared details about two Stable builds – BYCG and BYD2. These builds were allegedly pulled from the OTA server and tested on a Galaxy S24 Ultra. Acc…",
+      "url": "https://www.sammyfans.com/2025/04/05/samsung-galaxy-s24-ultra-user-installs-stable-one-ui-7-from-ota-leak/",
+      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2025/01/samsung-galaxy-s24-ultra-img19-1000x576.jpg",
+      "publishedAt": "2025-04-05T12:46:59Z",
+      "content": "Samsung fans, get ready for some exciting news! A trusted insider from Samsung has shared that the South Korean company has instructed its software team to speed up development on the next version of… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Switch 2 now on display at the Nintendo Museum, display shown - Nintendo Everything",
+      "description": "Switch 2 has now appeared at the Nintendo Museum, and here's a first look at the display.",
+      "url": "https://nintendoeverything.com/switch-2-now-on-display-at-the-nintendo-museum-display-shown/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Museum-Switch-2.jpg",
+      "publishedAt": "2025-04-05T12:17:01Z",
+      "content": "It took less than a week, but Switch 2 is already on display at the Nintendo Museum.\r\nThe console is not available to play, as expected. However, Nintendo set up a case to show off the new system. Vi… [+868 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Kamen",
+      "title": "How the GameCube Controller Works on Nintendo Switch 2—and How You Can Get One - WIRED",
+      "description": "One of Nintendo’s best and most influential controllers is making a comeback on Switch 2, alongside a host of classic games.",
+      "url": "https://www.wired.com/story/how-the-gamecube-controller-works-on-nintendo-switch-2-and-how-you-can-get-one/",
+      "urlToImage": "https://media.wired.com/photos/67eda54c816630e324114cca/191:100/w_1280,c_limit/Nintendo-Switch-2-Culture-DSC_3424.jpg",
+      "publishedAt": "2025-04-05T11:00:00Z",
+      "content": "Also visible are the Home and Screenshot buttons of the Switch, a small pairing button, four LEDs that will indicate connection to the console and which player is which, a USB-C charging port, and th… [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Nicole Narea",
+      "title": "How the Nintendo Switch 2 delay explains Trump’s tariffs - Vox",
+      "description": "The preorder delay and potential price increase for Nintendo’s latest gaming console is an example of the economic chaos Trump is wreaking.",
+      "url": "https://www.vox.com/culture/407365/nintendo-switch-2-delay-preorder-tariff-trump-how-to",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/04/gettyimages-2207677015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-04T22:10:12Z",
+      "content": "It was a big week for the global economy and for gamers.\r\nOn Wednesday, President Donald Trump unveiled sweeping tariffs that have sent markets spiraling worldwide. On the same day, Nintendo also ann… [+4635 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "iOS 18.4 breaks CarPlay connectivity for some iPhone users - 9to5Mac",
-      "description": "Apple released iOS 18.4 for iPhone users on with Priority Notifications, new emoji, several changes to CarPlay, and more. According...",
-      "url": "https://9to5mac.com/2025/04/03/ios-18-4-carplay-bugs/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/polestar-carplay-feature.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-03T22:05:00Z",
-      "content": "Apple released iOS 18.4 for iPhone users on with Priority Notifications, new emoji, several changes to CarPlay, and more. According to a growing number of users, however, the iOS 18.4 update has rend… [+2130 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Control Center just got even better in iOS 18.4, here’s what’s new - 9to5Mac",
+      "description": "Control Center keeps getting better following its iOS 18 revamp, and the new updates in iOS 18.4 continue that trend.",
+      "url": "https://9to5mac.com/2025/04/04/control-center-is-getting-even-better-in-ios-184-heres-whats-new/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/control-center-ios184.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-04T20:47:00Z",
+      "content": "iOS 18s new Control Center has proven to be much more than a one-off design change. Apple has steadily added new capabilities to Control Center via software updates, and iOS 18.4 continues that trend… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Binding of Isaac creator's long-awaited cat breeding game Mewgenics gets dumbfounding live-action trailer - Eurogamer",
+      "description": "It's been one hell of a wait, but Binding of Isaac creator Edmund McMillen's extremely long-awaited cat breeding game M…",
+      "url": "https://www.eurogamer.net/binding-of-isaac-creators-long-awaited-cat-breeding-game-mewgenics-gets-dumbfounding-live-action-trailer",
+      "urlToImage": "https://assetsio.gnwcdn.com/mewgenics-cat-arrrrgh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-04T19:58:38Z",
+      "content": "It's been one hell of a wait, but Binding of Isaac creator Edmund McMillen's extremely long-awaited cat breeding game Mewgenics is almost upon us. And with a release looming (comparatively speaking, … [+1951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "You can now catch Pokémon on Google Search in elaborate easter egg - 9to5Google",
+      "description": "The latest Google Search easter egg is more elaborate than usual with the ability to catch 151 Pokémon with a Poké Ball and Pokédex...",
+      "url": "http://9to5google.com/2025/04/04/google-search-pokemon-easter-egg/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/10/pixel-4-motion-sense-pokemon-game.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-04T19:40:00Z",
+      "content": "The latest Google Search easter egg is more elaborate than usual with the ability to catch 151 Pokémon. \r\nA Poké Ball appears in the bottom-right corner on Android, iOS, or mobile web when you search… [+690 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cass Marshall",
+      "title": "I’ve been ensnared into the wild life of a drug dealer in Schedule 1 - Polygon",
+      "description": "Schedule 1 is a newly released early access drug empire game that’s already gained a lot of popularity immediately post-launch due to a fun gameplay loop.",
+      "url": "https://www.polygon.com/gaming/553156/schedule-1-impressions-weed-drug-game",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/ss_c792894199193adc8b04cf16b2fec45c5701b0f2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-04-04T17:30:00Z",
+      "content": "Theres something wrong with this town; its immediately apparent as soon as I arrive. Ive recently fled my humble desert hometown after my uncle was raided by the cops and his criminal enterprise was … [+5007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Here's a closer look at Kirby and the Forgotten Land's remixed and expanded Switch 2 worlds - Eurogamer",
+      "description": "What better way to start winding down from a busy week of Switch 2 news than with a look at the ever-adorable Kirby and…",
+      "url": "https://www.eurogamer.net/heres-a-closer-look-at-kirby-and-the-forgotten-lands-remixed-switch-2-worlds",
+      "urlToImage": "https://assetsio.gnwcdn.com/switch-2-kirby.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-04T17:11:03Z",
+      "content": "What better way to start winding down from a busy week of Switch 2 news than with a look at the ever-adorable Kirby and the Forgotten Land, now strikingly remixed as part of an expanded edition comin… [+4416 chars]"
     }
   ]
 }
