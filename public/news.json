@@ -1,240 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Kyle Orland",
-      "title": "Will Mario Kart World’s $80 price become gaming’s new normal? - Ars Technica",
-      "description": "Adjusting for inflation shows console game prices have been higher in the recent past.",
-      "url": "https://arstechnica.com/gaming/2025/04/will-mario-kart-worlds-80-price-become-gamings-new-normal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/mk-world-1152x648-1744142797.jpeg",
-      "publishedAt": "2025-04-08T21:26:22Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Nintendo says Mario Kart World and Donkey Kong Bananza are \"genre-defining\" and \"franchise-defining\" games - Nintendo Everything",
-      "description": "Nintendo’s Bill Trinen has labeled Mario Kart World and Donkey Kong Bananza as “genre-defining” and “franchise-defining” games. Both were just announced as two of the company’s initial titles for Switch 2. With Mario Kart World, Nintendo is introducing variou…",
-      "url": "https://nintendoeverything.com/nintendo-says-mario-kart-world-and-donkey-kong-bananza-are-genre-defining-and-franchise-defining-games/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-genre-defining.jpg",
-      "publishedAt": "2025-04-08T21:22:30Z",
-      "content": "Nintendo’s Bill Trinen has labeled Mario Kart World and Donkey Kong Bananza as “genre-defining” and “franchise-defining” games.\r\nBoth were just announced as two of the company’s initial titles for Sw… [+1367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Sergiu Gatlan",
-      "title": "Microsoft: Windows CLFS zero-day exploited by ransomware gang - BleepingComputer",
-      "description": "Microsoft says the RansomEXX ransomware gang has been exploiting a high-severity zero-day flaw in the Windows Common Log File System to gain SYSTEM privileges on victims' systems.",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-windows-clfs-zero-day-exploited-by-ransomware-gang/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/12/16/Windows.jpg",
-      "publishedAt": "2025-04-08T19:05:17Z",
-      "content": "Microsoft says the RansomEXX ransomware gang has been exploiting a high-severity zero-day flaw in the Windows Common Log File System to gain SYSTEM privileges on victims' systems.\r\nThe vulnerability,… [+2507 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Benj Edwards",
-      "title": "Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting” - Ars Technica",
-      "description": "Carmack: “Power tools” like AI are “central to all the progress in computers.”…",
-      "url": "https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/quake_II_ripple-1152x648.jpg",
-      "publishedAt": "2025-04-08T18:26:33Z",
-      "content": null
+      "author": "Daniel Wu",
+      "title": "Some people think AI writing has a tell — the em dash. Writers disagree. - The Washington Post",
+      "description": "Em dashes have been derided as the “ChatGPT hyphen” — a punctuation mark overused by artificial intelligence. That’s not quite true.",
+      "url": "https://www.washingtonpost.com/technology/2025/04/09/ai-em-dash-writing-punctuation-chatgpt/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BN5BV7CLIBCP7GICCSVAJ6THEQ.jpg&w=1440",
+      "publishedAt": "2025-04-09T21:49:17Z",
+      "content": "Suspicious that an awkward email or stilted college essay may have been written by artificial intelligence? Some people think theres a surefire way to tell the em dash.\r\nWriters, journalists and othe… [+5358 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Antonio G. Di Benedetto",
-      "title": "Razer pauses direct laptop sales in the US as new tariffs loom - The Verge",
-      "description": "Razer’s new Blade 16 and other gaming laptops are no longer on sale from its online store, right before US tariffs from the Trump administration take effect.",
-      "url": "https://www.theverge.com/news/645276/razer-blade-gaming-laptops-sales-pause-us-tariffs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-08T18:11:46Z",
-      "content": "With tariffs set to kick in tonight, Razers new Blade 16 and other laptops are no longer available to purchase directly.\r\nWith tariffs set to kick in tonight, Razers new Blade 16 and other laptops ar… [+1668 chars]"
+      "author": "Umar Shakir",
+      "title": "Adobe is building AI agents for Photoshop and Premiere Pro - The Verge",
+      "description": "Adobe is working on AI “creative” agents that can suggest and edit photos in Photoshop and help cut videos in Premiere Pro.",
+      "url": "https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/26ud9N4TvdWwra8lXJd7KK2O2NlgIQHmShp5zbBz8Ao.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-09T21:10:20Z",
+      "content": "The agents can perform complex tasks to help you get started on projects.\r\nThe agents can perform complex tasks to help you get started on projects.\r\nAdobe is building AI agents for Photoshop and Pre… [+2503 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Anker’s very fast USB-C power bank is 67% off for the first time - Polygon",
+      "description": "The Anker 737 24,000mAh power bank is safe for airplanes, and it’s just $49.99 at Amazon for a limited time. This is a great option for laptops and handhelds.",
+      "url": "https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/anker737lead.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-09T19:53:07Z",
+      "content": "A good power bank is one of the best gadgets you can buy these days. You should buy one thats powerful enough to charge any of your daily drivers, from your phone to your Steam Deck. One of the best … [+1109 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ian Walker",
+      "title": "Blue Prince will be on PlayStation Plus from launch - Polygon",
+      "description": "Blue Prince will be on Xbox Game Pass and PlayStation Plus as of its release date, April 10. Plus: The rest of April 2025’s best PlayStation Plus games.",
+      "url": "https://www.polygon.com/news/556017/blue-prince-playstation-plus-xbox-game-pass-launch-date",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/blueprince-magnifyingglass.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-04-09T19:24:18Z",
+      "content": "Blue Prince releases on April 10, and will immediately be available on Xbox Game Pass, Microsoft announced last week. The PlayStation Blog announced today that it will be available the same day on Pl… [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Windows 11’s Copilot Vision wants to help you learn to use complicated apps - Ars Technica",
+      "description": "Copilot beta update is rolling out to Windows Insider program testers now.",
+      "url": "https://arstechnica.com/gadgets/2025/04/windows-11s-copilot-vision-wants-to-help-you-learn-to-use-complicated-apps/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/microsoft_copilot_logo-1152x648.jpg",
+      "publishedAt": "2025-04-09T16:57:04Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "ZDNet"
       },
-      "author": "Alex Weprin",
-      "title": "Fresh Off ‘Severance’ Success, But Amid Tariff Turmoil, Apple Offers Rare TV+ Discount - The Hollywood Reporter",
-      "description": "The tech giant is giving new and returning users of the streaming service three months for $2.99 per month.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/apple-tv-plus-discount-severance-the-studio-tariffs-1236184859/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/Severance_210_F01868F-e1742576213640.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2025-04-08T18:07:59Z",
-      "content": "Apple is coming off a very strong month for its Apple TV+ streaming service, with season two of Severance emerging as a bona fide smash, and Seth Rogen’s comedy The Studio capturing the imagination o… [+1662 chars]"
+      "author": "Artie Beaty",
+      "title": "How to get Apple TV+ for less than $3 a month - even if you already subscribe - ZDNET",
+      "description": "Who couldn't use a little extra savings right now?",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-to-get-apple-tv-for-less-than-3-a-month-even-if-you-already-subscribe/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb05badbecef352dc4d2e90302e24249cbd92219/2024/12/27/9382e92c-f4f0-4233-86a8-e522b855dac2/ifa-14.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-09T16:52:00Z",
+      "content": "Apple / Elyse Betters Picaro / ZDNET\r\nIf you've been curious about Apple TV+ and you missed the free weekend a few months ago or if you're an existing subscriber and you want to stick around a little… [+1910 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Eurogamer.net"
       },
-      "author": "Ethan Gach",
-      "title": "2025's Highest-Rated Metacritic Game Is Also A Game Pass And PS Plus Release This Month - Kotaku",
-      "description": "Blue Prince is a puzzle adventure that's blowing people's minds",
-      "url": "https://kotaku.com/blue-prince-metacritic-game-pass-ps-plus-switch-1851775306",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/624f0165d63b1fff645d53dd11dd4cbc.jpg",
-      "publishedAt": "2025-04-08T17:45:00Z",
-      "content": "Blue Prince is an ingenious first-person adventure about exploring a house and uncovering its tantalizingly unexpected secrets. Its already the highest-rated game of 2025 on Metacritic so far, and it… [+3163 chars]"
+      "author": "Matt Wales",
+      "title": "Here's your lineup of PS Plus Premium and Extra games for April - Eurogamer",
+      "description": "As we thunder forward through this sunny April (apologies for any undue excitement if your local area is currently sun-…",
+      "url": "https://www.eurogamer.net/heres-your-lineup-of-ps-plus-premium-and-extra-games-for-april",
+      "urlToImage": "https://assetsio.gnwcdn.com/playstation-plus-game-catalogue-april.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-09T16:08:52Z",
+      "content": "As we thunder forward through this sunny April (apologies for any undue excitement if your local area is currently sun-free), Sony has revealed the latest titles joining its PlayStation Plus game cat… [+1769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Vineet Washington",
+      "title": "Rumor: Titanfall 3 is almost complete, based on UE5, features singleplayer, extraction mode, and others - Notebookcheck",
+      "description": "Titanfall 3 may actually be a thing and could arrive in the near future, at least if the latest leak is to be believed. The game is said to be developed on Unreal Engine 5 and is almost complete.",
+      "url": "https://www.notebookcheck.net/Rumor-Titanfall-3-is-almost-complete-based-on-UE5-features-singleplayer-extraction-mode-and-others.996443.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Titanfall-3-leak-ue5.jpg",
+      "publishedAt": "2025-04-09T16:01:00Z",
+      "content": "The next Titanfall game has been a mystery with fans patiently waiting for a sequel, with some believing that it will never happen. Now, it looks like the game is almost complete and will release soo… [+1588 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The best microSD Express cards to buy for your Switch 2 - Polygon",
+      "description": "There are a handful of microSD Express card options you can buy before the Switch 2 launches June 5. Each of them are as fast as SSDs, and priced accordingly.",
+      "url": "https://www.polygon.com/what-to-buy/555234/the-best-microsd-express-cards-for-the-switch-2",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/microsdexpresshero.jpg?quality=90&strip=all&crop=0%2C10.720164503541%2C100%2C78.559670992918&w=1200",
+      "publishedAt": "2025-04-09T15:46:17Z",
+      "content": "The microSD Express card specification became very popular recently, as Nintendo confirmed the Switch 2 will support that type of removable storage. The console supports up to 2 TB, though 1 TB is th… [+1925 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Nicole Carpenter",
+      "title": "Ubisoft holds firm in The Crew lawsuit: You don’t own your video games - Polygon",
+      "description": "Ubisoft is being sued by players over its shutdown of The Crew. Here’s how the lawsuit is going.",
+      "url": "https://www.polygon.com/gaming/555469/ubisoft-holds-firm-in-the-crew-lawsuit-you-dont-own-your-video-games",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-09-102559.png?quality=90&strip=all&crop=0.7558670143416%2C0%2C98.488265971317%2C100&w=1200",
+      "publishedAt": "2025-04-09T15:19:05Z",
+      "content": "Ubisoft responded to California gamers The Crew shutdown lawsuit in late February, filing to dismiss the case. The companys lawyers argued in that filing, reviewed by Polygon, that there was no reaso… [+3347 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "Hades II will launch first for consoles on Nintendo Switch and Switch 2 - The Verge",
-      "description": "Both the original Switch and Nintendo Switch 2 will be the first consoles to get Hades II when the game launches, the game’s developer Supergiant has confirmed.",
-      "url": "https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ss_ef0f63061d0a0a9a7e46f3b84f125d25330e8f19.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-08T17:31:27Z",
-      "content": "The game is currently in early access on PC.\r\nThe game is currently in early access on PC.\r\nHades II will be a console exclusive on Nintendo Switch systems when it eventually launches out of early ac… [+1200 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "The Age of Hatred Persists: Diablo IV 2025 Roadmap - Blizzard News",
-      "description": "The Burning Hells have more hatred to spread! Look at the 2025 Roadmap for Diablo IV to see the demon-laden path ahead.",
-      "url": "https://news.blizzard.com/en-us/article/24189529/the-age-of-hatred-persists-diablo-iv-2025-roadmap",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/6z/6ZXTVEYE6KYN1743724597239.png",
-      "publishedAt": "2025-04-08T17:00:00Z",
-      "content": "Whet your appetite for continued demon slaying across Sanctuary with a look at our 2025 Roadmap. The Age of Hatred kicked off with the launch of Diablo IV and Liliths resurrection and was protracted … [+1930 chars]"
+      "author": "Chris Welch",
+      "title": "Samsung’s The Frame Pro was never going to be cheap — and it isn’t - The Verge",
+      "description": "Samsung’s The Frame Pro has better picture quality than its predecessors and a more convenient Wireless One Connect Box. But it comes at a premium.",
+      "url": "https://www.theverge.com/news/645778/samsungs-the-frame-pro-was-never-going-to-be-cheap-and-it-isnt",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818641/DSCF4275.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-09T15:00:00Z",
+      "content": "The improved picture quality and more convenient breakout box come at a premium. But the S95F OLED is the real star of the show.\r\nThe improved picture quality and more convenient breakout box come at… [+2560 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "Google fixes two Android zero-day bugs actively exploited by hackers - TechCrunch",
-      "description": "The most severe security bug can be exploited without user interaction, per Google.",
-      "url": "https://techcrunch.com/2025/04/08/google-fixes-two-android-zero-day-bugs-actively-exploited-by-hackers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-924145016.jpg?resize=1200,800",
-      "publishedAt": "2025-04-08T15:42:29Z",
-      "content": "On Monday, Google released an update for Android that fixes two zero-day flaws that may be under limited, targeted exploitation, as the company put it. That means Google is aware that hackers have be… [+2143 chars]"
+      "author": "Ivan Mehta",
+      "title": "Samsung’s SmartThings app gets more home automation capabilities - TechCrunch",
+      "description": "Samsung has updated SmartThings, its app that lets users control the company's IoT devices, with new home automation capabilities in an apparent bid to",
+      "url": "https://techcrunch.com/2025/04/09/samsung-smartthings-apps-gets-better-routines-and-intercom-feature-with-the-new-update/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/SmartTThings-update-feat.jpg?resize=1200,675",
+      "publishedAt": "2025-04-09T15:00:00Z",
+      "content": "Samsung has updated SmartThings, its app that lets users control the company’s IoT devices, with new home automation capabilities in an apparent bid to cross-sell more of its smart home devices and a… [+1573 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "9to5google.com"
       },
-      "author": "Vlad",
-      "title": "Moto G Stylus (2025) is now official ahead of April 17 release - GSMArena.com",
-      "description": "It comes in two Pantone colors with a fake leather finish. While the recently rumored Edge 60 Stylus still isn't official, today Motorola unveiled another...",
-      "url": "https://www.gsmarena.com/moto_g_stylus_2025_is_now_official_ahead_of_april_17_release-news-67300.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/04/moto-g-stylus-2025-official/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2025-04-08T15:21:02Z",
-      "content": "While the recently rumored Edge 60 Stylus still isn't official, today Motorola unveiled another stylus-endowed device: the 2025 edition of the Moto G Stylus mid-ranger, a staple in the company's rost… [+1433 chars]"
+      "author": "Andrew Romero",
+      "title": "Google’s prototype Android XR glasses get face time at TED2025 - 9to5Google",
+      "description": "It’s no secret that Google and Samsung are working hard to release Android XR devices powered by all of the...",
+      "url": "http://9to5google.com/2025/04/09/google-android-xr-glasses-ted2025/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Android-XR-glasses-prototypes-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-09T14:02:00Z",
+      "content": "It’s no secret that Google and Samsung are working hard to release Android XR devices powered by all of the advances made in Gemini and other AI models. Google’s chosen form factor is a pair of glass… [+1692 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Eurogamer.net"
       },
-      "author": "Ethan Gach",
-      "title": "Silksong Fans Go Wild For Rare New Screenshot That Shows How Little Has Changed In 6 Years - Kotaku",
-      "description": "The long-awaited Hollow Knight sequel is still on schedule for 2025",
-      "url": "https://kotaku.com/silksong-hollow-knight-switch-2-screenshots-date-1851775219",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/905e66271d69627b4e0deedfef3d4721.png",
-      "publishedAt": "2025-04-08T14:54:24Z",
-      "content": "Hollow Knight Fans have been waiting years for the metroidvanias sequel Silksong to appear at a new gaming showcase alongside an actual release date. Last week, the game finally was briefly featured … [+3252 chars]"
+      "author": "Thomas Morgan",
+      "title": "Switch 2 delivers GameCube emulation - but Nintendo has had a great Wii/GC emulator since 2017 - Eurogamer",
+      "description": "GameCube emulation is part of the Switch 2 offering, but did you know that Nintendo has had excellent GameCube and Wii emulation for years?",
+      "url": "https://www.eurogamer.net/digitalfoundry-2025-gamecube-emulation-is-finally-coming-to-switch-2",
+      "urlToImage": "https://assetsio.gnwcdn.com/EMU-site2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-09T14:00:00Z",
+      "content": "Announced during the Nintendo Switch 2's big reveal, GameCube games will be officially be added to the roster of classic titles available with a Nintendo Switch Online subscription. 24 years and four… [+9194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Robert Ramsey",
+      "title": "PS Portal System Update Out Today, with Big Improvements to PS Plus Cloud Streaming - Push Square",
+      "description": "The power of the cloud",
+      "url": "https://www.pushsquare.com/news/2025/04/ps-portal-system-update-out-today-with-big-improvements-to-ps-plus-cloud-streaming",
+      "urlToImage": "https://images.pushsquare.com/00804f113f1dd/large.jpg",
+      "publishedAt": "2025-04-09T13:30:00Z",
+      "content": "Sony is rolling out a sizeable system update for PS Portal users today (the 9th April, just to avoid any confusion). The goal here is to improve the existing cloud game streaming beta for PS Plus Pre… [+1683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Hayley Williams",
+      "title": "Donkey Kong Bananza Character Leak Spurs Speculation Over DK Lore - GameSpot",
+      "description": "Could this leaked character mean Donkey Kong Bananza is a prequel game?",
+      "url": "https://www.gamespot.com/articles/donkey-kong-bananza-character-leak-spurs-speculation-over-dk-lore/1100-6530707/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15975876/4473260-donkey-kong-bananza-box-art.large-189634912.jpg",
+      "publishedAt": "2025-04-09T12:59:16Z",
+      "content": "A Donkey Kong Bananza promotional image posted by Nintendo Korea may have accidentally revealed one of the game's major characters--a young girl who looks suspiciously similar to Pauline.\r\nAs picked … [+1948 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Google Workspace gets automation flows, podcast-style summaries - TechCrunch",
+      "description": "Google is upgrading Workspace, its suite of cloud-based productivity tools, with new AI-powered capabilities, including an automation tool called Workspace Flows.",
+      "url": "https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
+      "publishedAt": "2025-04-09T12:00:00Z",
+      "content": "Google is upgrading Workspace, its suite of cloud-based productivity tools, with new AI capabilities.\r\nThe suite is gaining Workspace Flows, a tool designed to automate multistep processes such as up… [+2036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Asif Iqbal Shaik",
+      "title": "Samsung expands internal testing of One UI 8 for Galaxy S25 - SamMobile",
+      "description": "Google has released the Android 16 Beta 3 update, claiming that the platform has reached stability. The stable version could be here soon.",
+      "url": "https://www.sammobile.com/news/android-16-beta-3-released-features-stable-soon/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/03/Google-Android-4.jpg",
+      "publishedAt": "2025-04-09T10:40:35Z",
+      "content": "Google has released the Android 16 Beta 3 update and said the new platform has reached stability. According to Google's timeline, the stable version of Android 16 could be released soon.\r\nSamsung has… [+1334 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Andrew Liszewski",
-      "title": "CalDigit’s new Thunderbolt 5 docks bring plenty of ports - The Verge",
-      "description": "CalDigit has updated its desktop docks with Thunderbolt 5 connectivity and boosted the number of ports to 20.",
-      "url": "https://www.theverge.com/news/645134/caldigit-thunderbolt-5-dock-ts5-plus-pricing-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/caldigit_t5plus1.jpg?quality=90&strip=all&crop=0,10.712241020237,100,78.575517959526",
-      "publishedAt": "2025-04-08T14:27:58Z",
-      "content": "The CalDigit TS5 offers 15 ports while the pricier TS5 Plus boosts that to 20.\r\nThe CalDigit TS5 offers 15 ports while the pricier TS5 Plus boosts that to 20.\r\nCalDigit is well-known for its Thunderb… [+2226 chars]"
+      "author": "Dominic Preston",
+      "title": "Framework delays Laptop 12 orders in the US over tariffs - The Verge",
+      "description": "The Framework Laptop 12 opens international preorders today, but US buyers will have to wait a little longer to order the laptop.",
+      "url": "https://www.theverge.com/news/645694/framework-laptop-12-preorders-delayed-us",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/1vpavic_20250225__0693.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-09T09:20:19Z",
+      "content": "The hold up comes after it paused US sales of some cheaper Laptop 13 models.\r\nThe hold up comes after it paused US sales of some cheaper Laptop 13 models.\r\nFramework has confirmed it will no longer b… [+1452 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "TrueAchievements"
       },
-      "author": "Joe Rossignol",
-      "title": "iPhone 17 Pro Models Rumored to Offer Dual Video Recording Feature in Camera App - MacRumors",
-      "description": "YouTube channel Front Page Tech on Monday shared renders of iOS 19's alleged new design. The end of the video also revealed a new feature that is...",
-      "url": "https://www.macrumors.com/2025/04/08/iphone-17-pro-dual-video-recording-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/IFTmnTZqzfDhOLlWQPXaLm_d41g=/2500x/article-new/2025/04/iPhone-17-Pro-3_4ths-Perspective-Aluminum-Camera-Module-1.jpg",
-      "publishedAt": "2025-04-08T14:23:05Z",
-      "content": "YouTube channel Front Page Tech on Monday shared renders of iOS 19's alleged new design. The end of the video also revealed a new feature that is supposedly planned for the iPhone 17 Pro models later… [+943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Nintendo explains why Switch 2 Game Chat screen sharing has a low frame rate - Video Games Chronicle",
-      "description": "Nintendo says there's a reason why your shared screen will have a choppy image",
-      "url": "https://www.videogameschronicle.com/news/nintendo-explains-why-switch-2-game-chat-screen-sharing-has-a-low-frame-rate/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/04/switch-2-game-chat.jpg",
-      "publishedAt": "2025-04-08T13:45:16Z",
-      "content": "Nintendo has explained why the screen sharing feature in Switch 2 Game Chat runs at a low frame rate.\r\nPlayers using Switch 2’s Game Chat feature have the ability to turn on a screen sharing feature,… [+2872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CarScoops"
-      },
-      "author": "Chris Chilton",
-      "title": "Ferrari Could Bring Back Gated Manual But One Catch May Upset Purists - Carscoops",
-      "description": "Product development boss thinks the retro-inspired Icona models would be the perfect place to bring back the manual transmission some buyers are asking for",
-      "url": "https://www.carscoops.com/2025/04/ferrari-could-revive-gated-manual-but-with-a-catch-that-will-upset-purists/",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/04/Ferrari-stick-Apr825.jpg",
-      "publishedAt": "2025-04-08T13:37:45Z",
-      "content": "Product development boss thinks the retro-inspired Icona models would be the perfect place to bring back the manual transmission some buyers are asking for \r\n<ul><li>Ferrari is considering putting a … [+3432 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point - The Verge",
-      "description": "Microsoft is working on a new Windows 11 Start menu design. It’s larger and lets you disable the recommended feed of files and apps.",
-      "url": "https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/newstartmenu3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-08T13:04:54Z",
-      "content": "The new, wider Start menu finally lets you disable the recommended feed of files and apps.\r\nThe new, wider Start menu finally lets you disable the recommended feed of files and apps.\r\nMicrosoft is wo… [+1215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pinkbike.com"
-      },
-      "author": "Mike Kazimer",
-      "title": "Review: Specialized's New Levo 4 Has More Power, More Battery - Pinkbike",
-      "description": "The S-Works motor has 111 Nm of torque and 720 watts of max power output.",
-      "url": "https://www.pinkbike.com/news/review-specialized-turbo-levo-4-2025.html",
-      "urlToImage": "https://ep1.pinkbike.org/p4pb27963121/p4pb27963121.jpg",
-      "publishedAt": "2025-04-08T13:00:00Z",
-      "content": "Frame DetailsThe Levo has an entirely new carbon frame, with the battery accessed by a door on the side of the downtube. In recent years weve seen more and more e-bikes released with batteries that a… [+5639 chars]"
+      "author": null,
+      "title": "Xbox Game Pass adds Commandos: Origins today - TrueAchievements",
+      "description": "After several delays, real-time tactics prequel Commandos: Origins launches on Xbox today, dropping straight into Xbox Game Pass.",
+      "url": "https://www.trueachievements.com/news/commandos-origins-xbox-game-pass",
+      "urlToImage": "https://www.trueachievements.com/imgs/158991/commandos-origins-xbox-game-pass.jpg",
+      "publishedAt": "2025-04-09T08:52:48Z",
+      "content": "It's time to lock and load, as Claymore Game Studios' stealth-tactics game Commandos: Origins joins Xbox Game Pass today for console and PC. We can finally scratch Commandos: Origins from our list of… [+1380 chars]"
     }
   ]
 }
