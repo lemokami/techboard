@@ -1,175 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 58,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Apple’s complicated plan to improve its AI while protecting privacy - The Verge",
-      "description": "Apple is planning to improve its AI model without training it on user data. It plans to compare synthetic data to real-world samples, preventing it from viewing data from individual users.",
-      "url": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-14T20:37:35Z",
-      "content": "Apples new AI training method involves comparing synthetic data to real-world samples.\r\nApples new AI training method involves comparing synthetic data to real-world samples.\r\nApple says its found a … [+1672 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Skullcandy partners with Bose for its new $99 ANC earbuds - The Verge",
+      "description": "Skullcandy has partnered with Bose to help optimize the sound on its new Method 360 ANC wireless earbuds that are launching at $99.99.",
+      "url": "https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/skullcandy1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "Skullcandys Method 360 ANC wireless earbuds feature sound tuning and technology licensed from Bose.\r\nSkullcandys Method 360 ANC wireless earbuds feature sound tuning and technology licensed from Bose… [+2168 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "9to5google.com"
       },
-      "author": "Zack Zwiezen",
-      "title": "A Bunch Of Sega And Bethesda Switch Games Are On Sale Right Now - Kotaku",
-      "description": "Doom, Sonic, Persona, Yakuza, Quake, and many more are on sale for the next two weeks",
-      "url": "https://kotaku.com/sega-bethesda-switch-eshop-big-sale-partner-showcase-1851776134",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3a797dac2678f0eaf76084c3f7d71d2f.jpg",
-      "publishedAt": "2025-04-14T20:35:00Z",
-      "content": "Starting today, over 150 Bethesda- and Sega-published games are currently on sale on the Nintendo Switch eShop. And with confirmation from Nintendo that most Switch games will work fine on Switch 2, … [+1858 chars]"
+      "author": "Ben Schoon",
+      "title": "Alleged Pixel 10 series wallpapers leak with vibrant colors and a strange new theme [Gallery] - 9to5Google",
+      "description": "As Pixel 10 leaks keep rolling, a set of alleged wallpapers for the Pixel 10, Pixel 10 Pro, and Pixel...",
+      "url": "http://9to5google.com/2025/04/15/google-pixel-10-series-wallpapers-alleged-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/pixel-10-wallpaper-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-15T21:00:00Z",
+      "content": "As Pixel 10 leaks keep rolling, a set of alleged wallpapers for the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL have hit the web as a bit of a departure from the company’s prior themes.\r\nEach new gen… [+1326 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "Kevin Purdy",
-      "title": "Razer built a game-streaming app on top of Moonlight, and it’s not too bad - Ars Technica",
-      "description": "Razer took an open source app and made it simpler. A lead dev is all for it.",
-      "url": "https://arstechnica.com/gaming/2025/04/razer-built-a-game-streaming-app-on-top-of-moonlight-and-its-not-too-bad/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/handheld_pc_gaming-1152x648.jpeg",
-      "publishedAt": "2025-04-14T20:06:03Z",
+      "author": "Alex Perry",
+      "title": "Nintendo Switch 2 preorder date just days away, per leak - Mashable",
+      "description": "Will the suspense finally end next week?",
+      "url": "https://mashable.com/article/nintendo-switch-2-pre-order-date-leak",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04uparg1HeTZIBgwZMCozDk/hero-image.fill.size_1200x675.v1744747864.jpg",
+      "publishedAt": "2025-04-15T20:11:05Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Meet Neptune, a TikTok alternative where creators can hide likes and follower counts - TechCrunch",
-      "description": "Neptune is one of the newest short-form video apps on the block seeking to compete with major players like TikTok, Instagram Reels, and YouTube Shorts.  Neptune, a short-form video apps seeking to compete with TikTok, is preparing to launch the app on the App…",
-      "url": "https://techcrunch.com/2025/04/14/meet-neptune-a-tiktok-alternative-where-creators-can-hide-likes-and-follower-counts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/neptune.png?w=1192",
-      "publishedAt": "2025-04-14T18:57:44Z",
-      "content": "Neptune is one of the newest short-form video apps on the block seeking to compete with major players like TikTok, Instagram Reels, and YouTube Shorts. \r\nThe app, currently in beta, has attracted att… [+2872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "George Yang",
-      "title": "Days After Launching In Early Access, This New Steam Game Is Shutting Down - GameSpot",
-      "description": "The game is transitioning into a free-to-play model.",
-      "url": "https://www.gamespot.com/articles/days-after-launching-in-early-access-this-new-steam-game-is-shutting-down/1100-6530851/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/4475888-image_2025-04-14_110723279.jpg",
-      "publishedAt": "2025-04-14T18:47:53Z",
-      "content": "Studio Chaf has announced that it is shutting down its debut game, Velev, days after it launched into Steam Early Access on April 9.\r\n\"As some of you may have already noticed, we weren't able to reac… [+1483 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ian Walker",
-      "title": "Death Stranding 2 lets players skip boss fights - Polygon",
-      "description": "Death Stranding 2: On the Beach director Hideo Kojima shared details on how the game will let players skip boss battles after a game over",
-      "url": "https://www.polygon.com/news/558431/death-stranding-2-boss-fight-skip-easy-mode",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/ds2-sam-lou-kiss.jpg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-14T18:17:49Z",
-      "content": "Speaking on his weekly KOJI10 radio show, Hideo Kojima detailed a Death Stranding 2: On the Beach feature that will allow players to clear boss battles after an unidentified number of game overs rath… [+1558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nasawatch.com"
-      },
-      "author": "Keith Cowing",
-      "title": "NASA’s Phase 2 RIF Plan Is Due To OMB/OPM Today - NASA Watch",
-      "description": "NASA is required to submit their Phase 2 RIF plan aka \"ARRP\" to OMB and OPM today.",
-      "url": "https://nasawatch.com/personnel-news/nasas-phase-2-rif-plan-is-due-to-omb-opm-today/",
-      "urlToImage": "https://nasawatch.com/wp-content/uploads/2025/01/NASA-RIF-WATCH-LOGO.png",
-      "publishedAt": "2025-04-14T18:16:26Z",
-      "content": "NASA Watch founder, Explorers Club Fellow, ex-NASA, Away Teams, Journalist, Space &amp; Astrobiology, Lapsed climber."
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Alice Jovanée",
-      "title": "Polygon readers can get an exclusive deal on Blue Prince - Polygon",
-      "description": "Polygon readers can use our promo code for an exclusive deal on the weird and engaging puzzle game, Blue Prince",
-      "url": "https://www.polygon.com/gaming/558371/blue-prince-fanatical-polygon-sale",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/Blue-Prince-permanent-upgrades.jpg?quality=90&strip=all&crop=0%2C3.518699040032%2C100%2C92.962601919936&w=1200",
-      "publishedAt": "2025-04-14T18:04:04Z",
-      "content": "Blue Prince has generated an almost irresponsible amount of buzz in the past week thanks to its engaging gameplay loop, and it has quickly become a contender for our indie Game of the Year. If youd l… [+948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vulture"
-      },
-      "author": "Jason P. Frank",
-      "title": "What Zaslav Learned From Flopping - Vulture",
-      "description": "David Zaslav pushed Warner Bros. to make his friend Nick Pileggi’s movie ‘The Alto Knights’ and it flopped. Any big takeaways?",
-      "url": "http://www.vulture.com/article/david-zaslav-warner-bros.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/444/d78/855e819d10cdd34b971791366ad814a0fa-altoknights.1x.rsocial.w1200.jpg",
-      "publishedAt": "2025-04-14T18:03:53Z",
-      "content": "Dont let the smashing success of A Minecraft Movie cause you to forget The Alto Knights is a real movie distributed in theaters by Warner Bros. at the behest of David Zaslav in 2025. And the lesson Z… [+726 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Zelda games on Switch 2 will include weapon repairs, but in the most Nintendo way - Polygon",
-      "description": "Nintendo adds equipment repairs to Switch 2 editions of Zelda: Breath of the Wild and Tears of the Kingdom — but only through the Zelda Notes app.",
-      "url": "https://www.polygon.com/nintendo-switch-2/558300/breath-of-the-wild-switch-2-edition-equipment-repairs-zelda-notes",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/NintendoSwitch2_ZeldaBotWNintendoSwitch2Edition_SCRN_12.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-14T17:40:24Z",
-      "content": "The Nintendo Switch 2 editions of The Legend of Zelda: Breath of the Wild and Tears of the Kingdom will include a highly requested feature: the ability to repair equipment like swords, shields, and b… [+2144 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sheena Vasani",
-      "title": "Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever - The Verge",
-      "description": "Sony’s WF-1000XM5 are down to $179.99 ($120 off) at multiple retailers. That’s an all-time low on our favorite pair of noise-canceling earbuds.",
-      "url": "https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24805764/DSCF2232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-14T17:38:39Z",
-      "content": "The noise-canceling earbuds are on sale for just $179.99, making them a far better value than they were before.\r\nThe noise-canceling earbuds are on sale for just $179.99, making them a far better val… [+1175 chars]"
+      "author": "Jay Peters",
+      "title": "Google Search is going to be google.com globally - The Verge",
+      "description": "Google will redirect country code top-level domain names (ccTLD) for Google Search to google.com over the coming months. The change will roll out “gradually.”",
+      "url": "https://www.theverge.com/news/649160/google-search-com-globally",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_Google_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-15T18:20:04Z",
+      "content": "Your Google experience should still be the same, but the URL may look different.\r\nYour Google experience should still be the same, but the URL may look different.\r\nGoogle announced Tuesday that its g… [+990 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Jim Norman",
-      "title": "ICYMI: Nintendo's Keeping amiibo Alive On Switch 2 With New Zelda: TOTK Collection - Nintendo Life",
-      "description": "Sage advice",
-      "url": "https://www.nintendolife.com/news/2025/04/icymi-nintendos-keeping-amiibo-alive-on-switch-2-with-new-zelda-totk-collection",
-      "urlToImage": "https://images.nintendolife.com/c17276c6ee249/large.jpg",
-      "publishedAt": "2025-04-14T17:00:00Z",
-      "content": "Image: Nintendo Life\r\nNintendo has revealed so much in the last two weeks that we're sure the odd announcement or two will have passed you by. So, just in case you missed it, amiibo is still alive!\r\n… [+1367 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Report: Apple will take another crack at iPad multitasking in iPadOS 19 - Ars Technica",
-      "description": "It would be Apple’s first overhaul of iPad multitasking since 2022’s iPadOS 16.",
-      "url": "https://arstechnica.com/gadgets/2025/04/report-apple-will-take-another-crack-at-ipad-multitasking-in-ipados-19/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-07-at-09.13.23-1152x648.jpg",
-      "publishedAt": "2025-04-14T16:40:02Z",
-      "content": null
+      "author": "Ash Parrish",
+      "title": "Dune: Awakening has been delayed until June - The Verge",
+      "description": "Funcom has announced that Dune: Awakening, an MMORPG based on the Dune series, has been delayed.",
+      "url": "https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/exploration-the-o-odham-f8ee39.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-04-15T17:57:29Z",
+      "content": "The game will be pushed from its May release date to June.\r\nThe game will be pushed from its May release date to June.\r\nPlayers looking to harness desert power will have to wait as Dune: Awakening ha… [+965 chars]"
     },
     {
       "source": {
@@ -177,77 +73,181 @@
         "name": "TechCrunch"
       },
       "author": "Kyle Wiggers",
-      "title": "Google’s newest AI model is designed to help study dolphin ‘speech’ - TechCrunch",
-      "description": "Google has created an AI model, DolphinGemma, to help decipher dolphin vocalizations, supporting research to better understand how dolphins communicate.",
-      "url": "https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/deepmind.png?resize=1200,675",
-      "publishedAt": "2025-04-14T16:26:55Z",
-      "content": "Google’s AI research lab, Google DeepMind, says that it has created an AI model that can help decipher dolphin vocalizations, supporting research efforts to better understand how dolphins communicate… [+743 chars]"
+      "title": "Anthropic forms a new team to grow its AWS business - TechCrunch",
+      "description": "In a sign of Anthropic's increasingly cosy relationship with Amazon, Anthropic has formed a new team to recruit AWS customers to use its AI products.",
+      "url": "https://techcrunch.com/2025/04/15/anthropic-forms-a-new-team-to-grow-its-aws-business/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
+      "publishedAt": "2025-04-15T17:37:32Z",
+      "content": "In a sign of Anthropic’s increasingly cozy relationship with Amazon, Anthropic has formed a new team to recruit AWS customers to use its AI products.\r\nThe team, which Anthropic appears to have begun … [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "Here’s how a satellite ended up as a ghostly apparition on Google Earth - Ars Technica",
+      "description": "Zoom in over rural North Texas for a spacey surprise.",
+      "url": "https://arstechnica.com/science/2025/04/heres-how-a-satellite-ended-up-as-a-ghostly-apparition-on-google-earth/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/starlinks_google_earth-1152x648.jpg",
+      "publishedAt": "2025-04-15T17:24:40Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Pure Xbox"
+        "name": "VentureBeat"
       },
-      "author": "Ben Kerry",
-      "title": "Metro 2033 Redux Gets 100% Discount On Xbox To Celebrate Anniversary - Pure Xbox",
-      "description": "It should go live any time...",
-      "url": "https://www.purexbox.com/news/2025/04/metro-2033-redux-gets-100percent-discount-on-xbox-to-celebrate-anniversary",
-      "urlToImage": "https://images.purexbox.com/a8b0c6ee592e1/large.jpg",
-      "publishedAt": "2025-04-14T16:07:57Z",
-      "content": "Subscribe to Pure Xbox on YouTube29k\r\nTo celebrate the 15-year anniversary of Metro 2033, developer 4A Games has announced that the Xbox One 'Redux' version of the title will be completely free to cl… [+1676 chars]"
+      "author": "Michael Nuñez",
+      "title": "Claude just gained superpowers: Anthropic's AI can now search your entire Google Workspace without you - VentureBeat",
+      "description": "Anthropic launches autonomous \"agentic\" research capability for Claude AI and Google Workspace integration, challenging OpenAI with faster results and enterprise-grade security for knowledge workers.",
+      "url": "https://venturebeat.com/ai/claude-just-gained-superpowers-anthropics-ai-can-now-search-your-entire-google-workspace-without-you/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_modern_comfy_work_desk_computer_scree_02c2b8f5-b0b0-4553-a633-e65b88174066.webp?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-04-15T17:00:02Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nAnthropic launched major upgrades to its Claude AI assistant today, int… [+5856 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Google’s Veo 2 video generating model comes to Gemini - TechCrunch",
+      "description": "Google is bringing its Veo 2 video-generating AI model to users paying for Gemini Advanced, the company's premium AI plan.",
+      "url": "https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
+      "publishedAt": "2025-04-15T17:00:00Z",
+      "content": "Google is bringing its Veo 2 video-generating AI model to users who pay for Gemini Advanced, the company’s premium AI plan.\r\nThe expansion comes as Google looks to deliver an answer to OpenAI’s Sora … [+1891 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Insider-gaming.com"
       },
-      "author": "Kenneth Shepard",
-      "title": "The Mass Effect And Dragon Age Teams ‘Didn’t Get Along,’ According To Ex-BioWare Dev - Kotaku",
-      "description": "Dragon Age writer David Gaider has opened up about his final years at the studio",
-      "url": "https://kotaku.com/dragon-age-mass-effect-bioware-david-gaider-anthem-1851776055",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8e2aa75adf5b265578f12855caf460e8.jpg",
-      "publishedAt": "2025-04-14T15:48:12Z",
-      "content": "David Gaider, the co-founder of Stray Gods: The Roleplaying Musical developer Summerfall Studios, has opened up a bit more about his time at BioWare, where he served as the original lead writer on th… [+3179 chars]"
+      "author": "Mike Straw",
+      "title": "Jagex Shadow Drops RuneScape: Dragonwilds In Early Access - Insider Gaming",
+      "description": "During a special deep dive event, developer Jagex announced the release date for its upcoming survival game RuneScape: Dragonwilds.",
+      "url": "https://insider-gaming.com/jagex-shadow-drops-runescape-dragonwilds-in-early-access/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/04/DragonwildsFTD.jpg",
+      "publishedAt": "2025-04-15T16:56:45Z",
+      "content": "The Early Access release date for RuneScape: Dragonwilds has officially been announced, and it’ll be available starting…right now.\r\nIn a special deep dive live stream on Tuesday afternoon, developer … [+1776 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "GSMArena.com"
       },
-      "author": "Ed Bott",
-      "title": "Windows 10 PC can't be upgraded? You have 5 options and 6 months to take action - ZDNET",
-      "description": "Microsoft will officially end support for its most popular operating system later this year. Here's what you should do with your Windows 10 PCs that fail Microsoft's Windows 11 compatibility tests - before that day arrives.",
-      "url": "https://www.zdnet.com/article/windows-10-pc-cant-be-upgraded-you-have-5-options-and-6-months-to-take-action/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5b11546a6b1ee4d13775ce4d476fae5f5a2f7633/2025/04/14/46b9b9ee-1753-4c56-8764-ec0bc9b89df3/gettyimages-157523000.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-04-14T15:29:00Z",
-      "content": "dem10/Getty Images\r\nHave you decided what to do with your Windows 10 PCs when they reach their official end-of-support date six months from now?\r\nI know some people who are convinced that Microsoft w… [+10970 chars]"
+      "author": "Peter",
+      "title": "Report: foldable iPhone is a go for next year after Samsung Display solves the crease issue - GSMArena.com news - GSMArena.com",
+      "description": "The perfectionists at Apple didn't like the size of the creases on current foldable displays, which proved to be a roadblock for the project.",
+      "url": "https://www.gsmarena.com/report_foldable_iphone_is_a_go_for_next_year_after_samsung_display_solves_the_crease_issue-news-67400.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/04/apple-foldable-iphone-samsung-display/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-04-15T16:51:02Z",
+      "content": "Apple is the largest smartphone maker yet to release a foldable device. The size of the crease was reportedly a major issue for the leadership at Cupertino and it stalled the project as Apples displa… [+1016 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Hannah Hoolihan",
-      "title": "Silent Hill 2, Alan Wake 2, and More Games Discounted in Best Buy’s Spring Sale - IGN",
-      "description": "Best Buy's Spring Sale features a variety of video game deals for PlayStation, Xbox, and Nintendo Switch, including on Silent Hill 2, Alan Wake 2, Star Wars Outlaws, and more.",
-      "url": "https://www.ign.com/articles/best-buy-spring-sale-video-game-deals-april-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/14/best-buy-spring-sale-video-game-deals-1744635686771.jpg?width=1280",
-      "publishedAt": "2025-04-14T15:17:52Z",
-      "content": "With the weather getting warmer, Best Buy is throwing a little Spring Sale to celebrate the seasonal shift. While there are plenty of great tech deals included in the sale event, it's the selection o… [+1661 chars]"
+      "author": "Eric Van Allen",
+      "title": "Xbox Spotlights Its Game Pass April 2025 Wave 2 Rollout, Including Clair Obscur and GTA 5 - IGN",
+      "description": "Xbox has locked in its second wave of Game Pass games coming to the subscription service in the back-half of April 2025. It's an interesting mix of virtual worlds, from big names to indie darlings, and even a notable new role-playing game.",
+      "url": "https://www.ign.com/articles/xbox-spotlights-its-game-pass-april-2025-wave-2-rollout-including-clair-obscur-and-gta-5",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/27/clair-blog-1724769161467.jpg?width=1280",
+      "publishedAt": "2025-04-15T16:46:31Z",
+      "content": "Xbox has locked in its second wave of Game Pass games coming to the subscription service in the back-half of April 2025. It's an interesting mix of virtual worlds, from big names to indie darlings, a… [+3391 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Android Central"
       },
-      "author": "Jordan Middler",
-      "title": "Nintendo ‘warned to expect 145% tariff on Nintendo Switch 2’ - Video Games Chronicle",
-      "description": "The Nintendo Switch 2 is likely to be hit hard by the tariffs",
-      "url": "https://www.videogameschronicle.com/news/nintendo-warned-to-expect-145-tariff-on-nintendo-switch-2/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/04/switch-2-china.jpg",
-      "publishedAt": "2025-04-14T15:08:35Z",
-      "content": "An internal assessment sent by a major supplier to both Nintendo and Apple has warned that video game consoles are in line for a 145% US tariff.\r\nAccording to Nikkei, one of both firms’ major compone… [+1625 chars]"
+      "author": "Brady Snyder",
+      "title": "Google's Pixel 9a proves customers don't know what they want - Android Central",
+      "description": "It's the utilitarian phone enthusiasts claim they crave.",
+      "url": "https://www.androidcentral.com/phones/google-pixel/googles-ugly-pixel-9a-design-is-exactly-what-you-wanted",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bu9HcA539bybvsYAzpPMaK.jpg",
+      "publishedAt": "2025-04-15T16:30:30Z",
+      "content": "Google Pixel devices are one of the few smartphones that you can readily identify from far away. The camera housing, whether a full bar on older Pixels or the newer oval shape, is immediately recogni… [+3702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Notion Mail is a new AI-powered email client, complete with Mac app - 9to5Mac",
+      "description": "Notion Mail is the latest productivity offering from Notion, infusing AI into a clean, minimalist interface for your email.",
+      "url": "https://9to5mac.com/2025/04/15/notion-mail-is-a-new-ai-powered-email-client-complete-with-mac-app/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/notion-mail-mac-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-15T16:25:00Z",
+      "content": "Notion Mail just launched, a brand new productivity tool from the Notion team that aims to upgrade your email with AI and provide a clean, clutter-free interface.\r\nGone are the days of Notion just be… [+1500 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Charlie Hall",
+      "title": "Temur Roar is the new must-have Commander deck for MTG’s Tarkir: Dragonstorm - Polygon",
+      "description": "Magic: The Gathering’s latest set, Tarkir: Dragonstorm, is selling like hot cakes. But the Temur Roar Commander deck is very nearly a must-buy. Here’s why.",
+      "url": "https://www.polygon.com/mtg-magic-the-gathering/559050/best-tarkir-commander-deck-temur-roar-price-singles-value",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/Eshki_Dragonclaw_Tran_Nguyen_bbd0b5.jpg?quality=90&strip=all&crop=0%2C13.73608939054%2C100%2C72.527821218921&w=1200",
+      "publishedAt": "2025-04-15T16:15:00Z",
+      "content": "Over the last few months Ive gotten way, WAY into Commander. While the credit card bills havent showed up in the mailbox yet, building decks for Magic: The Gatherings most popular format has become a… [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Tom Phillips",
+      "title": "Baldur's Gate 3 developer bids final farewell, for real this time - Eurogamer",
+      "description": "Larian has finally finished its work on the beloved Baldur's Gate 3 - but not before one last celebration.",
+      "url": "https://www.eurogamer.net/baldurs-gate-3-developer-bids-final-farewell-for-real-this-time",
+      "urlToImage": "https://assetsio.gnwcdn.com/(522)-Baldur%E2%80%99s-Gate-3-The-Final-Patch---An-Animated-Short-00-03-43.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-04-15T15:24:46Z",
+      "content": "Larian has bid a final farewell to Baldur's Gate 3, its beloved breakout hit that won a legion of fans and propelled the studio to a new level of stardom.\r\nToday, as previously announced, marks the r… [+1477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Isaac Schultz",
+      "title": "Google’s New AI Is Trying to Talk to Dolphins—Seriously - Gizmodo",
+      "description": "A new AI model produced by computer scientists in collaboration with dolphin researchers could open the door to two-way animal communication.",
+      "url": "https://gizmodo.com/googles-new-ai-is-trying-to-talk-to-dolphins-seriously-2000589467",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/bottlenose-dolphin-alone-underwater.jpg",
+      "publishedAt": "2025-04-15T15:20:24Z",
+      "content": "In a collaboration that sounds straight out of sci-fi but is very much grounded in decades of ocean science, Google has teamed up with marine biologists and AI researchers to build a large language m… [+5004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Best Buy's Spring Sale Includes Big Discounts on iPad Pro, TVs, Headphones, and Much More - MacRumors",
+      "description": "Best Buy this week kicked off a new Spring Sale, including major discounts on computers, TVs, headphones, smartphones, video games, LEGO sets, and...",
+      "url": "https://www.macrumors.com/2025/04/15/best-buys-spring-sale-2025/",
+      "urlToImage": "https://images.macrumors.com/t/GbYyZPdDzTc0wLV3CLY0HJM_pXg=/2500x/article-new/2025/04/Best-Buy-Spring-Sale-25-Hero.jpg",
+      "publishedAt": "2025-04-15T15:01:04Z",
+      "content": "Best Buy this week kicked off a new Spring Sale, including major discounts on computers, TVs, headphones, smartphones, video games, LEGO sets, and much more. This also includes a collection of Apple … [+1034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Warhammer 40,000: Space Marine II ‘Trygon’ update now available - Gematsu",
+      "description": "Publisher Focus Entertainment and developer Saber Interactive have released the “Trygon” update for third-person action game Warhammer 40,000: Space Marine II, which adds a new player-v…",
+      "url": "https://www.gematsu.com/2025/04/warhammer-40000-space-marine-ii-trygon-update-now-available",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/04/Space-Marine-2-Trygon_04-15-25.jpg",
+      "publishedAt": "2025-04-15T14:19:15Z",
+      "content": "Get the details below.Escape the Trygon’s Bloodcurdling Claws in the Free New “Exfiltration” Mission\r\nDrop back to windswept Avarax for a new assignment and take on the mighty Trygon in Warhammer 40,… [+1461 chars]"
     }
   ]
 }
