@@ -1,19 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 43,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "Marvel Rivals' New Costume Customization Is Fairly Priced, but There's a Problem - CNET",
+      "description": "A couple dollars isn't much to pay for in-depth skin customization, but you can't spend your existing Units on the new feature.",
+      "url": "https://www.cnet.com/tech/gaming/marvel-rivals-new-costume-customization-is-fairly-priced-but-theres-a-problem/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/32a286b23d03e490e44f44c209f04bff464f29d3/hub/2025/04/17/61e49ce2-06e3-4514-bc86-fd3573c17868/marvel-rivals-costume-customization.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-17T22:43:00Z",
+      "content": "Marvel Rivals' latest Season 2 feature is targeted at all the fashionistas out there. Costume customization lets players change the color palette of their skin, creating a new in-game look that suits… [+4776 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Cursor AI support bot invents fake policy and triggers user uproar - Ars Technica",
+      "description": "Frustrated software developer believed AI-generated message came from human support rep.",
+      "url": "https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/telephone_robot_2-1152x648.jpg",
+      "publishedAt": "2025-04-17T22:42:23Z",
+      "content": null
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jay Peters",
-      "title": "Gemini Live’s screensharing feature is now free for Android users - The Verge",
-      "description": "Google’s feature for Gemini Live feature that lets it see and respond to what’s on your camera and your screen will now be free for all Android users via the Gemini app.",
-      "url": "https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-16T22:40:56Z",
-      "content": "Originally, Google was going to keep it locked behind a Gemini Advanced subscription for most people.\r\nOriginally, Google was going to keep it locked behind a Gemini Advanced subscription for most pe… [+1150 chars]"
+      "author": "Antonio G. Di Benedetto",
+      "title": "Razer has quietly un-paused some laptop sales - The Verge",
+      "description": "Razer has resumed taking orders in the US for some of its Blade 16 gaming laptops with Nvidia 50-serires GPUs, after a temporary pause likely due to US tariffs.",
+      "url": "https://www.theverge.com/news/651199/razer-blade-16-laptop-sales-resume-us-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-17T20:12:41Z",
+      "content": "But its hard to tell whats going on with the new Blade 16.\r\nRazer is selling laptops on its site again after a recent and sudden halt.\r\nIn what seemed like a response to ongoing tariff tumult, the US… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "First-person dark fantasy combat game Covenant – Galaxies 2025 trailer - Gematsu",
+      "description": "Legion Studios has released the latest trailer for Covenant, its upcoming first-person dark fantasy combat game. It is in development for PC (Steam). A release date has yet to be announced. Here is…",
+      "url": "https://www.gematsu.com/2025/04/first-person-dark-fantasy-combat-game-covenant-galaxies-2025-trailer",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/04/Covenant-Trailer_04-17-25.jpg",
+      "publishedAt": "2025-04-17T20:00:05Z",
+      "content": "Legion Studios has released the latest trailer for Covenant, its upcoming first-person dark fantasy combat game. It is in development for PC (Steam). A release date has yet to be announced.\r\nHere is … [+2888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Google is bringing back the Do Not Disturb shortcut for people who hate Modes - Android Authority",
+      "description": "Google is preparing to re-add a dedicated shortcut for toggling Do Not Disturb mode from Android's Quick Settings panel.",
+      "url": "https://www.androidauthority.com/android-do-not-disturb-shortcut-3545687/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/Do_Not_Disturb_mode_settings_in_Android_16_on_Pixel-scaled.jpg",
+      "publishedAt": "2025-04-17T19:16:45Z",
+      "content": "<ul><li>Google is working on re-adding a dedicated shortcut for toggling Do Not Disturb mode from the Quick Settings panel.</li><li>For a long time, Android let users quickly toggle Do Not Disturb mo… [+3436 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Just look at Huawei’s trifold phone - The Verge",
+      "description": "The Huawei Mate XT is the first trifold phone anyone can actually buy — here’s what it looks like from every angle.",
+      "url": "https://www.theverge.com/mobile/650749/huawei-mate-xt-trifoldphotos",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/huawei-mate-xt-16.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "publishedAt": "2025-04-17T19:06:47Z",
+      "content": "24 hours with the worlds first trifold phone.\r\nAfter 24 hours with Huaweis Mate XT a.k.a. the worlds first trifold smartphone I have this to say for it: the novelty hasnt worn off.\r\nIve tried the Mat… [+3806 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Gemini 2.5 Flash comes to the Gemini app as Google seeks to improve “dynamic thinking” - Ars Technica",
+      "description": "Gemini 2.5 Flash is ready for you to try in the Gemini app, but it’s starting as a preview.",
+      "url": "https://arstechnica.com/ai/2025/04/gemini-2-5-flash-comes-to-the-gemini-app-gives-developers-control-over-thinking/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-1152x648.jpg",
+      "publishedAt": "2025-04-17T19:06:17Z",
+      "content": null
     },
     {
       "source": {
@@ -21,51 +99,51 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Android 16 Beta 4 update set for tomorrow - 9to5Google",
-      "description": "Google has teased that the next Android 16 preview update is officially coming Thursday, April 17 with Beta 4.",
-      "url": "http://9to5google.com/2025/04/16/android-16-beta-4-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-16-logos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-16T22:25:00Z",
-      "content": "For the third release in a row, Google has teased that the next Android 16 preview update is officially coming Thursday, April 17 with Beta 4.\r\nThis one-day teaser started two months ago and continue… [+841 chars]"
+      "title": "Google Store posts its own Pixel 9a vs. iPhone 16e comparison - 9to5Google",
+      "description": "Over the years, Google marketing has compared the Pixel to the iPhone. The latest example — Pixel 9a vs. iPhone 16e — makes...",
+      "url": "http://9to5google.com/2025/04/17/pixel-9a-vs-iphone-16e/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Peony-Pixel-9a-in-hand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-17T17:55:00Z",
+      "content": "Over the years, Google marketing has compared the Pixel to the iPhone. There was notably the Phone X vs. Pixel 3a Night Sight campaign in 2019. The latest example Pixel 9a vs. iPhone 16e makes for th… [+1714 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NASCAR"
+        "name": "Blizzard.com"
       },
       "author": null,
-      "title": "@nascarcasm: Most memeable moments from ‘NASCAR: Full Speed’ Season 1 - NASCAR.com",
-      "description": "Before we wave the green on Season 2 of “NASCAR: Full Speed” on Netflix, we wanted to share a few memorable images from Season 1.",
-      "url": "https://www.nascar.com/gallery/nascarcasm-most-memeable-moments-from-nascar-full-speed-season-1/",
-      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/04/15/2025-APRIL-NETFLIXMEMES-INTRO-2.jpeg",
-      "publishedAt": "2025-04-16T21:09:59Z",
+      "title": "Throw Down the Gauntlet and Challenge Friends to a Duel — Warcraft Rumble - Blizzard News",
+      "description": "Throw down the gauntlet and challenge friends or foes to a duel with the new Friendly Duels feature or see where you stand on the new Player versus Player Seasonal Leaderboard!",
+      "url": "https://news.blizzard.com/en-us/article/24194657/throw-down-the-gauntlet-and-challenge-friends-to-a-duel",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/v8/V828J9J7R9NC1741112371168.png",
+      "publishedAt": "2025-04-17T17:28:00Z",
+      "content": "Friendly Duels\r\nThrow down the gauntlet and challenge friend or foe to a duel with the new Friendly Duels feature. To duel, tap the PvP tab and then tap on Friendly Duels, copy the code and share it … [+1742 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Google is gifting a year of Gemini Advanced to every college student in the US - Ars Technica",
+      "description": "Got a .edu email? You can sign up for a free year of Google One AI Premium.",
+      "url": "https://arstechnica.com/ai/2025/04/google-is-gifting-a-year-of-gemini-advanced-to-every-college-student-in-the-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-models-march-1-1152x648-1743438208.jpg",
+      "publishedAt": "2025-04-17T16:51:26Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GameRant"
       },
-      "author": "Zack Zwiezen",
-      "title": "New Xbox Doom Controller Features Spikes And Blood - Kotaku",
-      "description": "There's also a new console wrap that turns your Xbox into a Doom Slayer shrine",
-      "url": "https://kotaku.com/doom-dark-ages-xbox-controller-blood-spikes-price-elite-1851776474",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b92e321173e37e2e0433dae1b9953729.jpg",
-      "publishedAt": "2025-04-16T20:30:00Z",
-      "content": "The next big Doom game,Doom: The Dark Ages, arrives next month. And to help celebrate, Xbox has announced two new Doom-themed controllers, one of which features spikes, blood, and demonic glyphs. \r\nO… [+1803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Abby Called Joel ‘Handsome’ In The Last Of Us, And The Internet Agreed - Kotaku",
-      "description": "One of the most unserious lines from the season two premiere has taken on a life of its own",
-      "url": "https://kotaku.com/last-of-us-joel-abby-handsome-hbo-max-season-2-ep-1-1851776479",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3e6b409e591ce8262b772dee3643fad3.jpg",
-      "publishedAt": "2025-04-16T20:20:00Z",
-      "content": "Were only one episode into The Last of Us second season and the memes are already flowing, with one line from Kaitlyn Devers Abby feeding into the internets thirst for Joel actor Pedro Pascal.\r\nIn re… [+1404 chars]"
+      "author": "Carley Garcia",
+      "title": "Lords of the Fallen Releases Major 2.0 Update - Game Rant",
+      "description": "Version 2.0 of the soulslike title Lords of the Fallen is here, bringing with it some major new features and highly requested improvements.",
+      "url": "https://gamerant.com/lords-of-the-fallen-20-update-patch-notes/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/a-boss-fight-in-lords-of-the-fallen.jpg",
+      "publishedAt": "2025-04-17T16:39:00Z",
+      "content": "Summary\r\n<ul><li>\r\n The Lords of the Fallen Version 2.0 update adds shared progression co-op, more refined combat, a free Friend's Pass, and more.\r\n </li><li>\r\n While the update is now live on all pl… [+5548 chars]"
     },
     {
       "source": {
@@ -73,181 +151,90 @@
         "name": "Android Central"
       },
       "author": "Nickolas Diaz",
-      "title": "Google Wallet's train status update makes sure you're never late - Android Central",
-      "description": "There's a little more in store next month for Wallet and Pay.",
-      "url": "https://www.androidcentral.com/apps-software/google-pay/google-wallet-train-status-alerts-update-io-teaser",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xU2jTt7a6cy2axromnyaBS.jpg",
-      "publishedAt": "2025-04-16T18:37:07Z",
-      "content": "What you need to know\r\n<ul><li>Google Wallet's latest updates include the addition of real-time train status alerts for users who've added their tickets.</li><li>Users will receive notifications if t… [+2966 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides - The Verge",
-      "description": "Attorneys for Apple, Google, and Snap called out slides mistakes in Meta’s opening statement in its FTC antitrust trial, which made its PDFs easy to unredact.",
-      "url": "https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-16T18:18:33Z",
-      "content": "An Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nAn Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nDuring Metas an… [+2421 chars]"
+      "title": "Samsung's One UI 7 rollout returns with a new build for the Galaxy S24 - Android Central",
+      "description": "We're all crossing our fingers that things are stable now.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s24-series-one-ui-7-rollout-continues-new-build",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zxVn5aMDEYed3Vtx6RXggF.jpg",
+      "publishedAt": "2025-04-17T16:30:47Z",
+      "content": "What you need to know\r\n<ul><li>Samsung's One UI 7 rollout as resumed for the Galaxy S24 in South Korea as of today (April 17).</li><li>The continuation features a brand new build after Samsung was fo… [+2759 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Update Now: iOS 18.4.1 and macOS Sequoia 15.4.1 Address Actively Exploited Vulnerabilities - MacRumors",
-      "description": "The iOS 18.4.1, iPadOS 18.4.1, macOS Sequoia 15.4.1, tvOS 18.4.1, and visionOS 2.4.1 updates that Apple released today include fixes for two major...",
-      "url": "https://www.macrumors.com/2025/04/16/ios-18-4-1-security-fixes/",
-      "urlToImage": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "publishedAt": "2025-04-16T17:43:18Z",
-      "content": "The iOS 18.4.1, iPadOS 18.4.1, macOS Sequoia 15.4.1, tvOS 18.4.1, and visionOS 2.4.1 updates that Apple released today include fixes for two major vulnerabilities, which means you should install the … [+1012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Xbox Support Bot Seemingly Confirms Oblivion Remake Is Launching Next Week - Kotaku",
-      "description": "The still-not-officially-confirmed remake of The Elder Scrolls IV might be launching on April 21",
-      "url": "https://kotaku.com/xbox-support-bot-oblivion-remake-april-21-launch-leak-1851776435",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/155d45069a556cc76a6d6eea19061804.jpg",
-      "publishedAt": "2025-04-16T17:30:00Z",
-      "content": "Well, heres even more evidence that Bethesda has a big Elder Scrolls IV: Oblivion remake coming out soon. An Xbox Support account on Twitter, when asked about the yet-to-be-announced RPG, seemingly c… [+3152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defector.com"
+        "name": "Wccftech"
       },
       "author": null,
-      "title": "How I Became Highly Educated Grist For The AI Mill - Defector",
-      "description": "I was actually having a pretty good conversation with the avatar interviewer. We had discussed my current work, my PhD thesis, and recent research developments I found compelling. It only took a few seconds to adjust to the reality: that this was the intervie…",
-      "url": "https://defector.com/how-i-became-highly-educated-grist-for-the-ai-mill",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/04/AI-Gig-Work.jpg",
-      "publishedAt": "2025-04-16T16:43:00Z",
-      "content": "I was actually having a pretty good conversation with the avatar interviewer. We had discussed my current work, my PhD thesis, and recent research developments I found compelling. It only took a few … [+19325 chars]"
+      "title": "F1 25 to Support Path Tracing (only on PC), Improved Facial Animations with NVIDIA Audio2Face - Wccftech",
+      "description": "Codemasters announced that F1 25 will support path tracing (only on PC), as well as improved facial animations thanks to NVIDIA Audio2Face.",
+      "url": "https://wccftech.com/f1-25-to-support-path-tracing-only-on-pc-improved-facial-animations-with-nvidia-audio2face/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/04/PATH-TRACING-F1-25-scaled.jpg",
+      "publishedAt": "2025-04-17T15:45:00Z",
+      "content": "Codemasters announced today that F1 25 will join the extremely elite club of games supporting path tracing. Just like with all the others (Cyberpunk 2077, Alan Wake 2, Black Myth: Wukong, Indiana Jon… [+2048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Zo Ahmed",
+      "title": "A real-life Severance keyboard is here, complete with built-in trackball - TechSpot",
+      "description": "In Severance, the keyboards used by Macrodata Refinement – the department where the protagonists work – appear to draw inspiration from Data General's vintage Dasher terminals, popular...",
+      "url": "https://www.techspot.com/news/107593-real-life-severance-keyboard-here-complete-built-trackball.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/04/2025-04-17-image-8.jpg",
+      "publishedAt": "2025-04-17T15:36:00Z",
+      "content": "The big picture: If you've ever wanted to bring a bit of Severance's office dystopia into your real life minus the mind-splitting surgery custom keyboard brand Atomic has you covered. The company jus… [+2193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "Framework 13 With AMD Ryzen AI 300 Series \"Strix Point\" Makes For A Great Linux Laptop Review - Phoronix",
+      "description": "Today the review embargo lifts on the Framework 13 with AMD Ryzen AI 300 'Strix Point' SoCs: wow, what an upgrade! I've spent the past week testing out the Framework 13 with the AMD Ryzen AI 9 HX 370 and it's been terrific.",
+      "url": "https://www.phoronix.com/review/framework-13-amd-strix-point",
+      "urlToImage": "https://www.phoronix.net/image.php?id=framework-13-amd-strix-point&image=framework_ryzen300_6",
+      "publishedAt": "2025-04-17T15:00:00Z",
+      "content": "Today the review embargo lifts on the Framework 13 with AMD Ryzen AI 300 \"Strix Point\" SoCs: wow, what an upgrade! I've spent the past week testing out the Framework 13 with the AMD Ryzen AI 9 HX 370… [+3375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google TV Streamer drops to $79 in its first major discount - 9to5Google",
+      "description": "The Google TV Streamer is getting its first discount, with a sale price of $79, down 20% from its usual price point.",
+      "url": "http://9to5google.com/2025/04/17/google-tv-streamer-first-discount-sale/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-tv-streamer-remote-4-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-17T14:35:00Z",
+      "content": "The Google TV Streamer launched last year to replace the Chromecast with a new price of $99, a bit of a hard pill to swallow for some. Now, Google is offering the first major discount on the Google T… [+1559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Mihai Matei",
+      "title": "Amid Samsung's One UI 7 delay, Google almost ready to release Android 16 - SamMobile",
+      "description": "Samsung revealed back in March that it would bring the official One UI 7 update to the Galaxy S24 series and the Galaxy S23 series sometime in April, with the rollout commencing on April 7 and then expanding to more and more devices in the weeks that follow. …",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-fe-s23-fe-s21-fe-one-ui-7-timeline/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/05/samsung-clock.jpg",
+      "publishedAt": "2025-04-17T14:03:21Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sheena Vasani",
-      "title": "Amazon’s newest Kindle Scribe has returned to its best price to date - The Verge",
-      "description": "The latest Kindle Scribe is on sale starting at $324.99 ($75 off). The second-gen Google Nest Cam and Soundcore’s newest sleep earbuds are also on sale today.",
-      "url": "https://www.theverge.com/tech/649820/amazon-kindle-scribe-2025-google-nest-indoor-cam-wired-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25803641/247455_Kindle_Scribe_SVasani_0001.jpg?quality=90&strip=all&crop=0%2C12.079951274934%2C100%2C75.840097450133&w=1200",
-      "publishedAt": "2025-04-16T16:37:24Z",
-      "content": "We also found deals on Googles indoor Nest Cam and Soundcores latest pair of sleep earbuds.\r\nWe also found deals on Googles indoor Nest Cam and Soundcores latest pair of sleep earbuds.\r\nAs a part of … [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ian Walker",
-      "title": "RuneScape: Dragonwilds just got shadow-dropped on Steam in early access - Polygon",
-      "description": "RuneScape’s survival game spin-off, RuneScape: Dragonwilds, is now available on Steam just weeks after its reveal",
-      "url": "https://www.polygon.com/news/559687/runescape-dragonwilds-steam-pc-shadow-drop-jagex",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/runescape-dragonwilds-chop.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-16T16:30:00Z",
-      "content": "RuneScape: Dragonwilds is now available in early access on Steam, just two weeks after developer Jagexs big reveal.\r\nAn open-world, Valheim-like spin-off of the eponymous massively multiplayer online… [+2090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Ed Nightingale",
-      "title": "Silent Hill 2 developer Bloober shows off Cronos: The New Dawn's intriguing merge mechanics - Eurogamer",
-      "description": "Bloober's forthcoming survival horror Cronos: The New Dawn has received a fresh trailer to give a proper look at gamepl…",
-      "url": "https://www.eurogamer.net/silent-hill-2-developer-bloober-shows-off-cronos-the-new-dawns-intriguing-merge-mechanics",
-      "urlToImage": "https://assetsio.gnwcdn.com/Cronos-CantiWall-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-04-16T16:00:00Z",
-      "content": "Bloober's forthcoming survival horror Cronos: The New Dawn has received a fresh trailer to give a proper look at gameplay and its unique merge mechanic.\r\nCronos is the Polish studio's all-new origina… [+1257 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Anker’s new UV printer can create fake wood and paint textures on various materials - The Verge",
-      "description": "Anker is making UV printing affordable for small businesses and makers with its E1 printer that can create faux 3D textures.",
-      "url": "https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/ankere1_1.jpg?quality=90&strip=all&crop=0%2C10.717922146778%2C100%2C78.564155706445&w=1200",
-      "publishedAt": "2025-04-16T15:55:47Z",
-      "content": "The $1,899 eufyMake UV Printer E1 brings the traditionally expensive technology to consumers.\r\nThe $1,899 eufyMake UV Printer E1 brings the traditionally expensive technology to consumers.\r\nFalling s… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Microsoft researchers say they've developed a hyper-efficient AI model that can run on CPUs - TechCrunch",
-      "description": "Microsoft researchers have developed — and released — a hyper-efficient AI model that can run on CPUs, including Apple's M2.",
-      "url": "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office.jpg?resize=1200,798",
-      "publishedAt": "2025-04-16T15:48:27Z",
-      "content": "Microsoft researchers claim they’ve developed the largest-scale 1-bit AI model, also known as a “bitnet,” to date. Called BitNet b1.58 2B4T, it’s openly available under an MIT license and can run on … [+1940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iPadOS 19’s multitasking could have big impact on three upcoming products - 9to5Mac",
-      "description": "iPadOS 19 will reportedly include new multitasking and window management features, and they could have a big impact on three new products.",
-      "url": "https://9to5mac.com/2025/04/16/ipados-19-multitasking-impact-three-upcoming-products/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iOS-19-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-16T15:25:00Z",
-      "content": "Its the phrase thats like catnip to many iPad users: iPadOS 19 will reportedly make Apples tablet run more like macOS including with upgraded multitasking. Weve heard it before, and technically Apple… [+3127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "Apple 'Vision Air' Headset Rumored to Feature Thinner, Lighter Design With 'Midnight' Finish - MacRumors",
-      "description": "An all new Apple \"Vision Air\" headset featuring a thinner, lighter design and a \"Midnight\" blue finish is in the works, according to...",
-      "url": "https://www.macrumors.com/2025/04/16/apple-vision-air-rumored-with-new-design/",
-      "urlToImage": "https://images.macrumors.com/t/6574vJSrzL8nKGf-Wa62OWB_aTQ=/2949x/article-new/2023/06/apple-vision-pro-expanded.jpg",
-      "publishedAt": "2025-04-16T15:14:54Z",
-      "content": "An all new Apple \"Vision Air\" headset featuring a thinner, lighter design and a \"Midnight\" blue finish is in the works, according to the prototype collector and leaker known as \"Kosutami.\"\r\nIn a new … [+1373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "The Optimist’s Case For Bungie’s ‘Marathon’ - Forbes",
-      "description": "Making an optimist’s case for Marathon, and even if all of this doesn’t pan out, if anyone can break into a crowded market, it’s Bungie.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/04/16/the-optimists-case-for-bungies-marathon/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67ffc401ecd5e7a32391ebca/0x0.jpg?format=jpg&crop=1871,1052,x344,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-04-16T15:00:10Z",
-      "content": "Marathon\r\nBungie\r\nEver since the debut of Marathons gameplay this past weekend, discourse has been swirling about how the game looks, and its a bit burying your head in the sand to say most chatter w… [+4752 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Michael McWhertor",
-      "title": "Ninja Gaiden: Ragebound shows the franchise still needs 2D games - Polygon",
-      "description": "Blasphemous developer’s take on Ninja Gaiden is incredibly fun, deep, and full of clever platforming-action puzzles.",
-      "url": "https://www.polygon.com/impressions/558956/ninja-gaiden-ragebound-preview",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/NinjaGaiden_Ragebound_KeyArt_2_nologos.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-16T15:00:00Z",
-      "content": "Ninja Gaiden fans are feasting in 2025. In addition to Januarys surprise-dropped Ninja Gaiden 2 Black and a proper, long-overdue sequel in Ninja Gaiden 4 coming this fall, theres a new 2D platformer-… [+3793 chars]"
+      "author": "Ash Parrish",
+      "title": "Nintendo shows off Mario Kart World’s new courses, items, and open world features - The Verge",
+      "description": "Nintendo has held a Mario Kart World direct showing off more gameplay of the Switch 2 launch title.",
+      "url": "https://www.theverge.com/news/649138/mario-kart-world-direct-nintendo-switch-2-gameplay",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/NintendoSwitch2_MarioKartWorld_SCRN_GrandPrix_01_a1f79d.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-04-17T13:38:47Z",
+      "content": "Its Mario Karts world and were all driving in it.\r\nIts Mario Karts world and were all driving in it.\r\nNintendo is possibly hoping to steer the narrative regarding the Switch 2 back in a positive dire… [+2280 chars]"
     }
   ]
 }
