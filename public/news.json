@@ -1,45 +1,201 @@
 {
   "status": "ok",
-  "totalResults": 63,
+  "totalResults": 20,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Nintendo Switch 2 Preorders: A Complete Guide To Getting Your Hands On One - Kotaku",
+      "description": "Everything to know about snagging Nintendo's most anticipated console ever",
+      "url": "https://kotaku.com/switch-2-preorder-amazon-walmart-best-buy-gamestop-1851777336",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dffd57d426a73c9a2b75041030197537.jpg",
+      "publishedAt": "2025-04-22T19:10:00Z",
+      "content": "Nintendo is launching the Switch 2 is less than two months, but odds are slim that youll be able to just walk into a store and ask for one in the first few weeks and maybe even months after it releas… [+5659 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "The New 2025 85\" Hisense QD7 4K Mini-LED Gaming TV Is Out Today, and It's Already on Sale - IGN",
+      "description": "The new 2025 model boasts a Mini-LED panel and 144Hz refresh rate.",
+      "url": "https://www.ign.com/articles/hisense-qd7-4k-mini-led-gaming-tv-deal-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/22/hisenseqd72025-1745345039217.jpg?width=1280",
+      "publishedAt": "2025-04-22T18:26:59Z",
+      "content": "This week, Hisense released its all new 2025 Hisense QD7 4K Smart TV, and the 85\" model is already on sale. The list price is pegged at $1,299.99, but Amazon currently has it for just $999.99. This i… [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "The Elder Scrolls 4: Oblivion Remastered Finally Revealed in First-Look Gameplay — and It's Out Today - IGN",
+      "description": "Bethesda has finally revealed the worst-kept secret in video games: The Elder Scrolls 4: Oblivion remaster.",
+      "url": "https://www.ign.com/articles/the-elder-scrolls-4-oblivion-remastered-finally-revealed-in-first-look-gameplay-and-its-out-today",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/22/oblivion-1745334385008.jpg?width=1280",
+      "publishedAt": "2025-04-22T18:14:01Z",
+      "content": "Bethesda has finally revealed the worst-kept secret in video games: The Elder Scrolls 4: Oblivion Remastered.\r\nIn a gameplay video published online, Bethesda showed the new visuals and features for t… [+3802 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sean Hollister",
-      "title": "Game Boy clone maker Anbernic suspends all shipments to US - The Verge",
-      "description": "Anbernic, which makes excellent and controversial Nintendo Game Boy clones, is already suspending US shipments indefinitely over Trump’s tariffs.",
-      "url": "https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25781281/anbernic_gba_date.jpg?quality=90&strip=all&crop=0%2C10.708834837039%2C100%2C78.582330325921&w=1200",
-      "publishedAt": "2025-04-21T20:13:31Z",
-      "content": "Anbernics cheap Chinese Game Boys are under threat.\r\nAnbernics cheap Chinese Game Boys are under threat.\r\nHow much will Trumps threatened 245 percent tariffs truly impact Chinese goods and the prices… [+2469 chars]"
+      "author": "Emma Roth",
+      "title": "Google Fi is launching a $35 / month unlimited plan - The Verge",
+      "description": "Google Fi is launching a new Unlimited Essentials plan for $35 per month for one line. It’s also adding access to more high-speed data to its existing plans.",
+      "url": "https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-fi-logo.webp?quality=90&strip=all&crop=0%2C10.527397823525%2C100%2C78.945204352951&w=1200",
+      "publishedAt": "2025-04-22T17:00:00Z",
+      "content": "In addition to a new Unlimited Essentials plan, Google Fis existing plans are getting some upgrades, too.\r\nIn addition to a new Unlimited Essentials plan, Google Fis existing plans are getting some u… [+1906 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s New Siri Chief Enlists Vision Pro Talent to Start Comeback Bid - Bloomberg.com",
+      "description": "Apple Inc.’s new Siri engineering chief is overhauling the management team leading development of the beleaguered voice assistant, taking a step he assured employees would set the company up for success.",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-22/apple-s-new-siri-chief-mike-rockwell-overhauls-management-to-start-turnaround",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_IbCaFtHvQs/v4/1200x800.jpg",
+      "publishedAt": "2025-04-22T16:13:42Z",
+      "content": "Apple Inc.s new Siri engineering chief is overhauling the management team leading development of the beleaguered voice assistant, taking a step he assured employees would set the company up for succe… [+375 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Two undergrads built an AI speech model to rival NotebookLM - TechCrunch",
+      "description": "A pair of undergrads, neither with extensive AI expertise, say that they've created an openly available AI model that can generate podcast-style clips",
+      "url": "https://techcrunch.com/2025/04/22/two-undergrads-built-an-ai-speech-model-to-rival-notebooklm/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_202581628.jpg?w=1000",
+      "publishedAt": "2025-04-22T15:16:27Z",
+      "content": "A pair of undergrads, neither with extensive AI expertise, say that they’ve created an openly available AI model that can generate podcast-style clips similar to Google’s NotebookLM.\r\nThe market for … [+2719 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "9to5google.com"
       },
-      "author": "Alana Hagues",
-      "title": "Random: Paul Rudd \"Got A Real Kick\" Out Of Reuniting With Nintendo For New Commercial - Nintendo Life",
-      "description": "\"It made me nostalgic in all the right ways\"",
-      "url": "https://www.nintendolife.com/news/2025/04/random-paul-rudd-got-a-real-kick-out-of-reuniting-with-nintendo-for-new-commercial",
-      "urlToImage": "https://images.nintendolife.com/2247160409bc0/large.jpg",
-      "publishedAt": "2025-04-21T20:00:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube809k\r\nIf you haven't seen the new Nintendo Switch 2 commercial featuring Paul Rudd, where have you been? It's a delightful throwback to one of the Ant Man and Anc… [+1797 chars]"
+      "author": "Ben Schoon",
+      "title": "Samsung launches ‘Re-Newed’ Galaxy S24 series with $250 minimum trade-in value - 9to5Google",
+      "description": "As has become a yearly tradition, Samsung is now offering its last-gen flagship phones, the Galaxy S24 series, as a...",
+      "url": "http://9to5google.com/2025/04/22/samsung-launches-re-newed-galaxy-s24-price-trade-in-value/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/Galaxy-S24-series-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-22T14:00:00Z",
+      "content": "As has become a yearly tradition, Samsung is now offering its last-gen flagship phones, the Galaxy S24 series, as a “Certified Re-Newed” device with prices starting at $620.\r\nSamsung’s “Re-Newed” pro… [+1526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Veronica Booth",
+      "title": "Coca-Cola under fire after bombshell report exposes ties to controversial industry: 'The cost is irreversible damage to our children's health' - Yahoo",
+      "description": "This system costs consumers money and creates unhealthy environments.",
+      "url": "https://www.yahoo.com/news/coca-cola-under-fire-bombshell-113034785.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_boCNeI_d5h29VMavnwCJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/3d765851b1ddfeead7c21da52de2f94a",
+      "publishedAt": "2025-04-22T11:30:34Z",
+      "content": "Research reveals that several brands, including Coca-Cola, are linked to plastic production processes that rely on fracking.\r\nWhat's happening?\r\nEuronews reported that Stand.earth found over 25 well-… [+3802 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Wes Davis",
-      "title": "Sony shows off the PS5 Pro’s liquid metal updates - The Verge",
-      "description": "Sony highlights updated liquid metal cooling design in the PS5 Pro aimed at better stabilizing the material’s cooling effect.",
-      "url": "https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717639/247361_PS5_Pro_VPavic_40_2.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-      "publishedAt": "2025-04-21T18:06:34Z",
-      "content": "New grooves may address complaints of liquid metal leaking in the standard PS5.\r\nNew grooves may address complaints of liquid metal leaking in the standard PS5.\r\nSony has published a new teardown of … [+1843 chars]"
+      "author": "Tom Warren",
+      "title": "Nvidia’s GPU drivers are a mess - The Verge",
+      "description": "Nvidia keeps trying to fix its GPU drivers after a series of issues. The latest hotfix driver has arrived to fix problems for RTX 50-series owners.",
+      "url": "https://www.theverge.com/news/653115/nvidia-gpu-drivers-black-screen-crashes-issues",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25838981/twarren_rtx5090_3.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+      "publishedAt": "2025-04-22T11:19:49Z",
+      "content": "A series of new drivers and hotfixes keep introducing issues for Nvidia GPU owners.\r\nA series of new drivers and hotfixes keep introducing issues for Nvidia GPU owners.\r\nNvidias GPU drivers have been… [+2890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "iPhone 17e already well advanced, says leaker with the right credentials - 9to5Mac",
+      "description": "Apple’s replacement of the iPhone SE with the iPhone 16e raised an obvious question: Would the ad-hoc update schedule for...",
+      "url": "https://9to5mac.com/2025/04/22/iphone-17e-already-well-advanced-says-leaker-with-the-right-credentials/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iPhone-17e-already-well-advanced-says-leaker-with-the-right-credentials.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-04-22T11:13:00Z",
+      "content": "Apple’s replacement of the iPhone SE with the iPhone 16e raised an obvious question: Would the ad-hoc update schedule for the SE series also be replaced with an annual refresh, kicking off with an iP… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "iPhone 17 Pro Allegedly Coming in Sky Blue Color Used for MacBook Air - MacRumors",
+      "description": "Apple will unveil the iPhone 17 Pro in a new Sky Blue color, the same color that debuted on the latest M4 MacBook Air models Apple released in March....",
+      "url": "https://www.macrumors.com/2025/04/22/iphone-17-pro-sky-blue-color/",
+      "urlToImage": "https://images.macrumors.com/t/Ka9AiEjd1-um03YQzxAPPlLN9K8=/2500x/article-new/2025/04/iPhone-17-Pro-Blue-Feature-Tighter-Crop.jpg",
+      "publishedAt": "2025-04-22T11:08:03Z",
+      "content": "Apple will unveil the iPhone 17 Pro in a new Sky Blue color, the same color that debuted on the latest M4 MacBook Air models Apple released in March. That's according to the leaker Majin Bu.\r\nConcept… [+1340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials - The Hacker News",
+      "description": "Phishers abused Google Sites and DKIM replay to send valid-signed emails, bypassing filters and stealing credentials.",
+      "url": "https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJOuE7X8Hqy2CETHt5pV6Rb82Ofiqwco234N6vZWXTxRslxkOqQ5l49DWdJfXs3hr2GfzPjuuCZQGDbJr1BrrrAJWKMuRogWdTQVQbWmyoXmm_KmvrA62xhlCcYRANijjgLKmUvyhPs800VU-huHm5_xGb_wCb3rvacmHRRXYtacpJKx4wf14IZlugwi/s728-rw-e365/gmail.jpg",
+      "publishedAt": "2025-04-22T10:50:00Z",
+      "content": "In what has been described as an \"extremely sophisticated phishing attack,\" threat actors have leveraged an uncommon approach that allowed bogus emails to be sent via Google's infrastructure and redi… [+5076 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alistair Barr",
+      "title": "Google just fired the first shot of the next battle in the AI war - Business Insider",
+      "description": "A new research paper proposes that AI models and agents go out into the world and generate their own data. You can read it as a dis of OpenAI.",
+      "url": "https://www.businessinsider.com/google-openai-anthropic-ai-agents-training-data-2025-4",
+      "urlToImage": "https://i.insider.com/680678893fe8d39283639c07?width=1200&format=jpeg",
+      "publishedAt": "2025-04-22T08:00:00Z",
+      "content": "There are so many AI research papers these days, it's hard to stand out. But one paper has fired up a lot of discussion across the tech industry in recent days.\r\n\"This is the most inspiring thing I'v… [+7326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Abid Ahsan Shanto",
+      "title": "Legion Tab Gen 4: Lenovo confirms a feature missing from its last gaming tablet - Notebookcheck",
+      "description": "Lenovo is getting ready to launch a new gaming tablet, which will pack the Snapdragon 8 Elite. Ahead of the release, the company has shared some core specs of the Legion Tab Gen 4, and now, it has confirmed the return of the storage card slot.",
+      "url": "https://www.notebookcheck.net/Legion-Tab-Gen-4-Lenovo-confirms-a-feature-missing-from-its-last-gaming-tablet.1002797.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Lenovo-Legion-Tab-Gen-4-to-feature-expandable-storage-slot.jpg",
+      "publishedAt": "2025-04-22T05:58:00Z",
+      "content": "The Snapdragon 8 Elite-powered Lenovo Legion gaming tablet is set to launch sometime in May 2025. Just recently, the company shared the design details of the tab, and now, through one of the recent t… [+1381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "James Carr",
+      "title": "All Heroes And Abilities In Overwatch 2 Stadium Mode - GameSpot",
+      "description": "Overwatch 2's new competitive mode, called Stadium, features a smaller roster of heroes with special perks and abilities you can buy during a match.",
+      "url": "https://www.gamespot.com/gallery/overwatch-2-stadium-heroes-and-abilities-list/2900-6490/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4479306-thumb.jpg",
+      "publishedAt": "2025-04-22T00:40:00Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
     },
     {
       "source": {
@@ -56,198 +212,42 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "RoadandTrack.com"
       },
-      "author": "Emma Roth",
-      "title": "Bluesky is adding blue checks for ‘authentic and notable’ accounts - The Verge",
-      "description": "Bluesky is rolling out a blue checkmark verification for “authentic and notable accounts,” building on the decentralized network’s self-verification system.",
-      "url": "https://www.theverge.com/news/652687/bluesky-blue-checks-verification-authentic-notable-accounts",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK133_BLUESKY__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-21T17:46:28Z",
-      "content": "The decentralized social network will also let trusted organizations verify users affiliated with them.\r\nThe decentralized social network will also let trusted organizations verify users affiliated w… [+1495 chars]"
+      "author": "John Pearley Huffman",
+      "title": "The 2025 BMW M5 Is a Brilliant Performer, But Hard to Love - Road & Track",
+      "description": "The new hybrid M5 packs a ton of power, ﻿but lacks the timelessness that keeps previous generations of the sport sedan precious today.",
+      "url": "https://www.roadandtrack.com/reviews/a63968611/2025-bmw-m5-sedan-review-magazine/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/vol-28-2025-bmw-m5-3-67e2d6be1d05a.jpeg?crop=1.00xw:0.748xh;0,0.0719xh&resize=1200:*",
+      "publishedAt": "2025-04-21T13:56:45Z",
+      "content": "Forty years ago, BMW introduced the M5. If the people who conceived and engineered the first one are still around, they retired long ago. The customers who bought it must be in their sunset years too… [+10010 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Batterypower.com"
+        "name": "Medical Xpress"
       },
-      "author": "Mark L Smith",
-      "title": "Is Atlanta Braves 2B Ozzie Albies cooked? (April Edition) - Battery Power",
-      "description": "I know it’s a little click-baity, but I am worried.",
-      "url": "https://www.batterypower.com/2025/4/21/24412762/atlanta-braves-player-analysis-ozzie-albies-offensive-production-lack-therof-is-it-over",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iBZH5S4RlAMWEpiGCmlSMFSrVAk=/0x462:5233x3202/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25961738/usa_today_25930070.jpg",
-      "publishedAt": "2025-04-21T17:00:00Z",
-      "content": "If I was concerned about someone, it would be Albies. I think in general he seems pretty cooked (relative to how he was) - Statcast metrics didnt like him and injuries seem to be actually piling up. … [+4330 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "In depth with Windows 11 Recall—and what Microsoft has (and hasn’t) fixed - Ars Technica",
-      "description": "Original botched launch still haunts new version of data-scraping AI feature.",
-      "url": "https://arstechnica.com/gadgets/2025/04/in-depth-with-windows-11-recall-and-what-microsoft-has-and-hasnt-fixed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/recall-feature-1152x648-1745247831.jpg",
-      "publishedAt": "2025-04-21T16:51:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "Microsoft Entra account lockouts caused by user token logging mishap - BleepingComputer",
-      "description": "Microsoft confirms that the weekend Entra account lockouts were caused by the invalidation of short-lived user refresh tokens that were mistakenly logged into internal systems.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-account-lockouts-caused-by-user-token-logging-mishap/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/04/Microsoft.jpg",
-      "publishedAt": "2025-04-21T16:26:19Z",
-      "content": "Microsoft confirms that the weekend Entra account lockouts were caused by the invalidation of short-lived user refresh tokens that were mistakenly logged into internal systems.\r\nOn Saturday morning, … [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Xbox Reveals Elder Scrolls IV: Oblivion Remake’s Likely Release Date - Forbes",
-      "description": "The worst-kept secret in the industry is no longer a secret. Microsoft has just announced a livestream event for the Elder Scrolls IV: Oblivion Remake",
-      "url": "https://www.forbes.com/sites/paultassi/2025/04/21/xbox-reveals-elder-scrolls-iv-oblivion-remakes-likely-release-date/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68066fb38a5af1ebf2f5d16b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-04-21T16:20:25Z",
-      "content": "Elder Scrolls\r\nMS\r\nThe worst-kept secret in the industry is no longer a secret. Microsoft has just announced a livestream event for the Elder Scrolls IV: Oblivion Remake that was first revealed in co… [+2218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "GameStop Meme Deal Might Be The Perfect Time To Trade In Your Xbox Series X - Kotaku",
-      "description": "GameStop is promising $420.69 for old Microsoft consoles",
-      "url": "https://kotaku.com/gamestop-trade-in-xbox-4-20-bds-boycott-1851777098",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/853ff08806cd2afb8c3f348bec9c3032.jpg",
-      "publishedAt": "2025-04-21T16:20:00Z",
-      "content": "If you have a functioning Xbox Series X and a GameStop membership, the meme stock retailer will give you up to $420.69 in store credit for the four-year old console. The week-long trade-in deal is an… [+3088 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Vivo wants its new smartphone to replace your camera - The Verge",
-      "description": "The Vivo X200 Ultra is launching exclusively in China with an optional removable grip accessory and a telephoto lens boosting zoom capabilities.",
-      "url": "https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/vivox200ultra_1.jpg?quality=90&strip=all&crop=0%2C10.756232970344%2C100%2C78.487534059312&w=1200",
-      "publishedAt": "2025-04-21T16:19:44Z",
-      "content": "An optional Photographer Kit adds a removable grip and a telephoto lens with an 8.7x zoom.\r\nAn optional Photographer Kit adds a removable grip and a telephoto lens with an 8.7x zoom.\r\nFollowing sever… [+4015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "CMF Phone 2 Pro has a dual-tone design and improved camera in latest teasers [Gallery] - 9to5Google",
-      "description": "Nothing’s upcoming CMF Phone 2 Pro is just days away from its full debut, with the device now being revealed...",
-      "url": "http://9to5google.com/2025/04/21/cmf-phone-2-pro-teasers-design-camera/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/cmf-phone-2-pro-camera-tease.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-04-21T16:15:00Z",
-      "content": "Nothing’s upcoming CMF Phone 2 Pro is just days away from its full debut, with the device now being revealed in full with a new dual-tone design, as well as a camera that seems a little too good to b… [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Bethany Heitman",
-      "title": "Best Lowe’s Easter Sale Deals to Shop Today - NBC News",
-      "description": "Lowe’s is offering major Easter deals on patio furniture, grills, lawn tools and more — but only for a limited time. Here’s what to grab before it’s gone.",
-      "url": "https://www.nbcnews.com/select/shopping/lowes-easter-sale-rcna202033",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250418-lowes-sale-kb-main-527707.jpg",
-      "publishedAt": "2025-04-21T16:05:00Z",
-      "content": "As the weather starts to warm, many of us get the urge to do a little spring cleaning and spruce up our homes. Perhaps youve been looking for a new area rug to brighten up your bedroom, or are thinki… [+2783 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Land"
-      },
-      "author": "Danny Goodwin",
-      "title": "New data: Google AI Overviews are hurting click-through rates - Search Engine Land",
-      "description": "Google’s AI Overviews are significantly decreasing clicks to traditional organic listings, especially for non-branded, informational queries.",
-      "url": "https://searchengineland.com/google-ai-overviews-hurt-click-through-rates-454428",
-      "urlToImage": "https://searchengineland.com/wp-content/seloads/2024/08/google-broken-1920.jpg",
-      "publishedAt": "2025-04-21T16:02:00Z",
-      "content": "Two new studies agree: Google’s AI Overviews steal clicks from organic search results.\r\nWhile Google told us that AI Overviews citations result in higher-quality clicks, the introduction of AI Overvi… [+2295 chars]"
+      "author": "Bob Yirka",
+      "title": "Stimulating the retina to allow people to see a brand new color - Medical Xpress",
+      "description": "A team of engineers, computer scientists and ophthalmologists at the University of California, Berkeley, working with a pair of colleagues at the University of Washington, has developed a technique for stimulating the retina that allows people to see a color …",
+      "url": "https://medicalxpress.com/news/2025-04-retina-people-brand.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/stimulating-the-retina.jpg",
+      "publishedAt": "2025-04-21T13:30:01Z",
+      "content": "A team of engineers, computer scientists and ophthalmologists at the University of California, Berkeley, working with a pair of colleagues at the University of Washington, has developed a technique f… [+2458 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Hannah Hoolihan",
-      "title": "Max Offers Limited Time Discount on Annual Streaming Plans, Just in Time for The Last of Us Season 2 - IGN",
-      "description": "Max is offering a limited time deal on its Basic With Ads, Standard, and Premium Yearly Plans. This has dropped their prices to $79.99/year, $139.99/year, and $169.99/year, respectively, for the first year.",
-      "url": "https://www.ign.com/articles/max-streaming-deal-discount-on-annual-plans-limited-time",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/09/last-of-us-season-2-blog-1744020845079-1744216070546.jpg?width=1280",
-      "publishedAt": "2025-04-21T15:47:01Z",
-      "content": "With season two of The Last of Us in full swing (episode two only just aired), there's no better time than now to sign up for a subscription to Max. If you've been waiting for a good time to jump int… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "DARPA requests proposals for water-prospecting lunar orbiter - SpaceNews",
-      "description": "DARPA is seeking proposals for a small lunar orbiter that could be used to test operations in very low orbits while prospecting for water ice.",
-      "url": "http://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/",
-      "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvc3BhY2VuZXdzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDRcL2dyYWlsLmpwZWciLCJ0eHQiOiJEQVJQQSByZXF1ZXN0cyBwcm9wb3NhbHMgZm9yIHdhdGVyLXByb3NwZWN0aW5nIGx1bmFyIG9yYml0ZXIiLCJ0ZW1wbGF0ZSI6ImZ1bGxzY3JlZW4iLCJibG9nX2lkIjo4MDY4MTk3OX0.iVlmiZqF6W0rqcsasIyHpcLvFg4EwjeJqQNaZbKkNHwMQ",
-      "publishedAt": "2025-04-21T15:02:15Z",
-      "content": "WASHINGTON DARPA is seeking proposals for a small lunar orbiter that could be used to test operations in very low orbits while prospecting for water ice.\r\nDARPA issued a program solicitation April 14… [+4870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Justin AdaptiveTrigger Gordon",
-      "title": "Desk demonstrates combos that persisted from Garou to Fatal Fury: City of the Wolves in his latest combo video - EventHubs",
-      "description": "Those who pre-ordered Fatal Fury: City of the Wolves are now able to play the game thanks to its early access perk. Of course, this means that Desk already has his hands on the game.As such, Desk has released ...",
-      "url": "https://www.eventhubs.com/news/2025/apr/21/desk-garou-cotw-combo-video/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/04/21_garou-cotw-combos-bnrt.webp",
-      "publishedAt": "2025-04-21T14:42:47Z",
-      "content": "Those who pre-ordered Fatal Fury: City of the Wolves are now able to play the game thanks to its early access perk. Of course, this means that Desk already has his hands on the game.\r\nAs such, Desk h… [+1210 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Verge Staff",
-      "title": "American War - The Verge",
-      "description": "﻿A special series from The Verge that confronts the legacy and mythmaking of the Vietnam War, 50 years after the fall of Saigon.",
-      "url": "https://www.theverge.com/cs/features/650505/vietnam-war-fall-of-saigon-50-year-anniversary",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/American-War-Lede.jpg?quality=90&strip=all&crop=0%2C11.023709086076%2C100%2C77.952581827847&w=1200",
-      "publishedAt": "2025-04-21T14:05:51Z",
-      "content": "Credits\r\n<ul><li>EditorsKevin Nguyen &amp; Sarah Jeong</li><li>Creative DirectorKristen Radtke</li><li>DeveloperGraham MacAree</li><li>IllustratorNguyen Tran</li><li>Photo editorAmelia Holowaty Krale… [+251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "Psychonauts Is 20 Years Old, So Let's Remember An All-Time Classic - Kotaku",
-      "description": "Double Fine's first game remains its best, a wonderful mixture of hilarity and pathos",
-      "url": "https://kotaku.com/psychonauts-20th-anniversary-double-fine-microsoft-1851777023",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9db371b5d6127298df92e1e04ae31ace.jpg",
-      "publishedAt": "2025-04-21T14:05:00Z",
-      "content": "One of the stranger moments of my career was reviewing a game, giving it a four-page review and a well-deserved score of 89 percent in the then-massively-selling UK PC Gamer magazine, and then the ga… [+5933 chars]"
+      "author": null,
+      "title": "Things to Do First in Oblivion - IGN",
+      "description": "The Elder Scrolls 4: Oblivion is a vast open world that&#x2019;s easy to get lost in as you begin your adventures across the realm of Cyrodiil. With 9 major",
+      "url": "https://www.ign.com/wikis/the-elder-scrolls-iv-oblivion/Things_to_Do_First_in_Oblivion",
+      "urlToImage": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-elder-scrolls-iv-oblivion/a/a3/OB_First1.jpg",
+      "publishedAt": "2025-04-21T09:29:05Z",
+      "content": "The Elder Scrolls 4: Oblivion is a vast open world thats easy to get lost in as you begin your adventures across the realm of Cyrodiil. With 9 major cities, several guilds, and countless quests to un… [+11262 chars]"
     }
   ]
 }
