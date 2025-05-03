@@ -1,253 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 48,
   "articles": [
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kevin Purdy",
-      "title": "Raspberry Pi cuts product returns by 50% by changing up its pin soldering - Ars Technica",
-      "description": "Combining both the big and little solder jobs made a big difference.",
-      "url": "https://arstechnica.com/gadgets/2025/04/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/pi5-versus-4.png",
-      "publishedAt": "2025-04-30T20:21:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Alana Hagues",
-      "title": "Random: Clair Obscur Director Celebrates Amazing Switch RPG Which Launched On Same Day - Nintendo Life",
-      "description": "\"After your Expedition, check out The Hundred Line\"",
-      "url": "https://www.nintendolife.com/news/2025/04/random-clair-obscur-director-celebrates-amazing-switch-rpg-which-launched-on-same-day",
-      "urlToImage": "https://images.nintendolife.com/f9ecc5752bc3e/large.jpg",
-      "publishedAt": "2025-04-30T19:30:00Z",
-      "content": "Goodness gracious, RPG fans have been spoiled over the past few years, right? In fact, let's point to last week specifically. In the space of two days, three huge RPGs launched across various platfor… [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "Nickolas Diaz",
-      "title": "Android 16's redesign might look this, as a major leak surfaces - Android Central",
-      "description": "The company's preparing to spruce up its Android experience with a fancy new look.",
-      "url": "https://www.androidcentral.com/apps-software/android-os/android-16-ui-icons-panel-redesign-leak",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nQZPBxjLBhfam7d5JM5xRT.jpg",
-      "publishedAt": "2025-04-30T18:57:26Z",
-      "content": "What you need to know\r\n<ul><li>A massive leak shows glimpses of what Android 16's redesign could look like, which involves a more blurred/transparent notification panel.</li><li>Google's code shows i… [+3802 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
       "author": "Dan Goodin",
-      "title": "Windows RDP lets you log in using revoked passwords. Microsoft is OK with that. - Ars Technica",
-      "description": "Researchers say the behavior amounts to a persistent backdoor.",
-      "url": "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/remote-desktop.png",
-      "publishedAt": "2025-04-30T18:36:26Z",
+      "title": "Phishing attacks that defeat MFA are easier than ever. So what are we to do? - Ars Technica",
+      "description": "Why multifactor authentication based on one-time-passwords and push notifications fails.",
+      "url": "https://arstechnica.com/security/2025/05/phishing-attacks-that-defeat-mfa-are-easier-than-ever-so-what-are-we-to-do/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/phishing.jpeg",
+      "publishedAt": "2025-05-01T21:00:02Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Patch Notes: Season 14 — Warcraft Rumble - Blizzard News",
+      "description": "We've reworked Bloodmage Thalnos, made some adjustments to under and over-performing Minis, including Vultures, Headless Horseman, Dryad, and Swole Troll, and fixed a few bugs that made some Minis less desirable.",
+      "url": "https://news.blizzard.com/en-us/article/24194663/patch-notes-season-14",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/v8/V828J9J7R9NC1741112371168.png",
+      "publishedAt": "2025-05-01T20:24:46Z",
+      "content": "Season 14 is packed with a horde of new challenges and features! Take on the challenge of Heroic Molten Core or throw down the gauntlet and electrify friends with your Rumble skills in the new Friend… [+5515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "PS Plus Essential Games for May 2025 Announced - Push Square",
+      "description": "The leak was wrong",
+      "url": "https://www.pushsquare.com/news/2025/04/ps-plus-essential-games-for-may-2025-announced",
+      "urlToImage": "https://images.pushsquare.com/458d171dc5272/large.jpg",
+      "publishedAt": "2025-05-01T20:13:30Z",
+      "content": "Sony has today announced the three PS5, PS4 titles that PS Plus Essential subscribers can look forward to claiming for the month of May 2025. Available to redeem and download from Tuesday, 6th May, t… [+1604 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Google’s Play Store lost nearly half its apps - The Verge",
-      "description": "The Google Play Store has lost nearly half of its apps since the beginning of last year. An analysis from Appfigures found that the number of apps on the Play Store decreased by 1.8 million during this time.",
-      "url": "https://www.theverge.com/news/658932/google-play-store-lost-half-apps",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK460_googlePlay_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-30T18:05:24Z",
-      "content": "The Play Store lost 1.8 million of the 3.4 million apps it started 2024 with.\r\nThe Play Store lost 1.8 million of the 3.4 million apps it started 2024 with.\r\nThe Google Play Store shed 1.8 million ap… [+1523 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "Apple notifies new victims of spyware attacks across the world - TechCrunch",
-      "description": "Two alleged victims came forward claiming they received a spyware notification from Apple.",
-      "url": "https://techcrunch.com/2025/04/30/apple-notifies-new-victims-of-spyware-attacks-across-the-world/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/apple-logo-pedestrian.jpg?resize=1200,798",
-      "publishedAt": "2025-04-30T18:01:17Z",
-      "content": "Apple sent notifications this week to several people who the company believes were targeted with government spyware, according to two of the alleged targets. \r\nIn the past, Apple has sent similar not… [+3306 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "WIRED",
-      "title": "Millions of Apple Airplay-enabled devices can be hacked via Wi-Fi - Ars Technica",
-      "description": "Hackers can run their code on AirPlay devices thanks to a collection of bugs known as AirBorne.",
-      "url": "https://www.wired.com/story/airborne-airplay-flaws/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/airplay-malware-gear-1391670285-1152x648.jpg",
-      "publishedAt": "2025-04-30T17:52:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Nicole Carpenter",
-      "title": "Evil Dead: The Game pulled from digital storefronts - Polygon",
-      "description": "Saber Interactive is removing Evil Dead: The Game from sale on digital platforms, years after its release.",
-      "url": "https://www.polygon.com/gaming/567151/evil-dead-the-game-removed-from-digital-storefronts-steam",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23520418/evilash.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-04-30T17:10:00Z",
-      "content": "Saber Interactive confirmed Wednesday that its pulling Evil Dead: The Game from Steam and other digital storefronts, it said in a post on its Steam page. We can confirm weve begun the process of remo… [+1818 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rebekah Valentine",
-      "title": "World of Warcraft Is Getting a One-Button Option That Will Automatically Cast the Ideal Next Spell — but at a Cost - IGN",
-      "description": "Blizzard is preparing to add a new feature to World of Warcraft that might sound strange at first: an option to have the game tell you what spell you should optimally cast next in combat, with an additional option to simply let the game cast the ideal next sp…",
-      "url": "https://www.ign.com/articles/world-of-warcraft-is-getting-a-one-button-option-that-will-automatically-cast-the-ideal-next-spell-but-at-a-cost",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/16/wow-thewarwithin-preview-blogroll-1713302177464.jpg?width=1280",
-      "publishedAt": "2025-04-30T17:05:28Z",
-      "content": "Blizzard is preparing to add a new feature to World of Warcraft that might sound strange at first: an option to have the game tell you what spell you should optimally cast next in combat, with an add… [+34392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Darryn Bonthuys",
-      "title": "PlayStation Plus Free Games For May 2025 Revealed - GameSpot",
-      "description": "Here's what PS Plus subscribers can look forward to in May.",
-      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-may-2025/1100-6531161/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4483705-psplusmay.jpeg",
-      "publishedAt": "2025-04-30T16:49:19Z",
-      "content": "PlayStation has revealed the batch of free games for PlayStation Plus subscribers in May. All PS Plus members will be able to claim a trio of freebies starting May 6--Ark: Survival Evolved, Balatro, … [+1794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Tom Phillips",
-      "title": "Assassin's Creed Shadows post-launch roadmap features regular new story missions, parkour updates, New Game Plus - Eurogamer",
-      "description": "Ubisoft has finally lifted the lid on Assassin's Creed Shadows' post-launch plans, which will include \"regular\" dollops of extra story missions and more.",
-      "url": "https://www.eurogamer.net/assassins-creed-shadows-post-launch-roadmap-features-regular-new-story-missions-parkour-updates-new-game-plus",
-      "urlToImage": "https://assetsio.gnwcdn.com/ACSH_Post-Launch-Y1-Overall_Roadmap_02_UK_Apr_30th.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-04-30T16:02:01Z",
-      "content": "Ubisoft has finally lifted the lid on what to expect from Assassin's Creed Shadows' post-launch plans, which will include \"regular\" dollops of extra story missions, fan-requested features and a New G… [+2277 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "These Startups Are Building Advanced AI Models Without Data Centers - WIRED",
-      "description": "A new crowd-trained way to develop LLMs over the internet could shake up the AI industry with a giant 100 billion-parameter model later this year.",
-      "url": "https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/",
-      "urlToImage": "https://media.wired.com/photos/681145fabe9752a4760f6bee/191:100/w_1280,c_limit/AI-Lab-LLM-Scaling-Business.jpg",
-      "publishedAt": "2025-04-30T16:00:00Z",
-      "content": "Researchers have trained a new kind of large language model (LLM) using GPUs dotted across the world and fed private as well as public dataa move that suggests that the dominant way of building artif… [+3673 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman, Davey Alba, Leah Nylen",
-      "title": "Google Eyes Gemini-iPhone AI Deal This Year, Pichai Tells Court - Bloomberg.com",
-      "description": "Alphabet Inc. Chief Executive Officer Sundar Pichai said in court proceedings Wednesday that he hopes that Gemini, his company’s AI service, will be added as a built-in option for iPhones this year.",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/google-hopes-for-gemini-deal-for-apple-ai-this-year-ceo-pichai-says",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF.WjMQWQZF8/v1/1200x800.jpg",
-      "publishedAt": "2025-04-30T15:16:26Z",
-      "content": "Alphabet Inc. Chief Executive Officer Sundar Pichai said in court proceedings Wednesday that he hopes that Gemini, his companys AI service, will be added as a built-in option for iPhones this year. \r… [+330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Nintendo Life",
-      "title": "Review: Shotgun Cop Man (Switch) - Move Over, Meat Boy, There's A New Sheriff In Town - Nintendo Life",
-      "description": "Devilishly good",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/shotgun-cop-man",
-      "urlToImage": "https://images.nintendolife.com/a8692e46d8977/large.jpg",
-      "publishedAt": "2025-04-30T15:00:00Z",
-      "content": "Captured on Nintendo Switch (Docked)\r\nGun recoil (or kickback) has often been viewed as a negative in gaming; something that, through the application of unlockable perks, can be lessened or even elim… [+5955 chars]"
+      "author": "Jay Peters",
+      "title": "Patreon will update its iPhone app to sidestep Apple’s payment system - The Verge",
+      "description": "Patreon is planning to submit an update to its iOS app that will let creators accept payments outside of Apple’s payment system. The planned update follows yesterday’s major ruling that blocks Apple from collecting fees on payments made outside of apps.",
+      "url": "https://www.theverge.com/news/659754/patreon-update-iphone-ios-app-apple-payment-system-ruling",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T19:32:15Z",
+      "content": "The announcement follows a major court ruling blocking Apple from collecting fees on payments made outside of apps.\r\nThe announcement follows a major court ruling blocking Apple from collecting fees … [+1769 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Simon Estey",
-      "title": "Everything You Need To Know About Overwatch 2’s Gundam Wing Collaboration - Kotaku",
-      "description": "There's more to the event than what you see in the shop",
-      "url": "https://kotaku.com/overwatch-2-gundam-wing-event-challenges-skins-1851778449",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/92aa058fd5ed7d4b617e924820f83f02.jpg",
-      "publishedAt": "2025-04-30T14:55:00Z",
-      "content": "People in the center of the Overwatch and Gundam Venn Diagram got some fantastic news last week when Blizzard announced the collaboration of the iconic mecha anime with one fo the most popular hero s… [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "After Years of Struggle, Blizzard Has Found Itself in Uncharted Territory: Overwatch Players Are Having Fun Again - IGN",
-      "description": "After years of struggle, Blizzard Entertainment has found itself in uncharted territory: Overwatch players are having fun again.",
-      "url": "https://www.ign.com/articles/after-years-of-struggle-blizzard-has-found-itself-in-uncharted-territory-overwatch-players-are-having-fun-again",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/30/mercy-overwatch-1745971996331.png?width=1280",
-      "publishedAt": "2025-04-30T14:46:41Z",
-      "content": "After years of struggle, Blizzard Entertainment has found itself in uncharted territory: Overwatch\r\n players are having fun again.\r\nThe Overwatch team knows failure well. Its massive launch in 2016 w… [+10341 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Call of Duty’s Ongoing 4/20 Obsession Sparks Debate Among Fans: Some Have Had Enough, Others Really Want That Seth Rogen Skin - IGN",
-      "description": "Call of Duty is steeped in 4/20 culture. It’s something Activision has monetized for years now, doubling down on the fanbase’s reputation for kicking back and relaxing while going for those killstreaks. But with Black Ops 6 and Warzone, the 4/20 microtransact…",
-      "url": "https://www.ign.com/articles/call-of-dutys-ongoing-420-obsession-sparks-debate-among-fans-some-have-had-enough-others-really-want-that-seth-rogen-skin",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/30/cod-main-1746023404627.jpg?width=1280",
-      "publishedAt": "2025-04-30T14:37:04Z",
-      "content": "Call of Duty is steeped in 4/20 culture. Its something Activision has monetized for years now, doubling down on the fanbases reputation for kicking back and relaxing while going for those killstreaks… [+4257 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "When ChatGPT Broke an Entire Field: An Oral History - Quanta Magazine",
-      "description": "Researchers in “natural language processing” tried to tame human language. Then came the transformer.",
-      "url": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-How-it-Broke-CS_cr-James-OBrien-Social.jpg",
-      "publishedAt": "2025-04-30T14:18:19Z",
-      "content": "I. The Wars of The Roses (202022)understanding wars GPT-3 a field in crisis\r\nAs transformer models approached (and surpassed) human baselines on various NLP benchmarks, arguments were already brewing… [+11018 chars]"
+      "author": "Ethan Gach",
+      "title": "Fandom Blows Up Giant Bomb - Kotaku",
+      "description": "A cornerstone of gaming is in shambles following interference from the wiki farm",
+      "url": "https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/26f9d5bf5170d56963c36415887ef4b6.png",
+      "publishedAt": "2025-05-01T19:30:00Z",
+      "content": "Giant Bombs future is uncertain following a showdown with parent company Fandom, which also owns GameSpot, over editorial interference. Creative director Dan Ryckert announced on a recent livestream … [+2812 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Chris Welch",
-      "title": "Meta tightens privacy policy around Ray-Ban glasses to boost AI training - The Verge",
-      "description": "Meta is making two significant changes to its Ray-Ban Meta privacy policy in an effort to gather more AI training data and improve voice commands.",
-      "url": "https://www.theverge.com/news/658602/meta-ray-ban-privacy-policy-ai-training-voice-recordings",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25845508/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0818.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-04-30T13:31:17Z",
-      "content": "The company has removed the option to disable your voice recordings from being stored, among other changes.\r\nThe company has removed the option to disable your voice recordings from being stored, amo… [+2430 chars]"
+      "author": "Umar Shakir",
+      "title": "Google dusts off Google Voice and adds three-way calling - The Verge",
+      "description": "Google Voice app gets a new UI with three way calling features rolling out now to Workspace users.",
+      "url": "https://www.theverge.com/news/659719/google-voice-app-update-call-ui-merge-three-way",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T18:57:30Z",
+      "content": "The companys long-running Voice-over-IP service gets a refreshed call experience.\r\nThe companys long-running Voice-over-IP service gets a refreshed call experience.\r\nGoogle is giving its Google Voice… [+1367 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "The New 2025 Apple iPad Drops to the Lowest Price of the Year on Amazon (All Colors Available) - IGN",
+      "description": "Mom would love this for Mother's Day.",
+      "url": "https://www.ign.com/articles/apple-ipad-drops-to-the-lowest-price-ever-for-mothers-day-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/23/appleipad2025-1745429352685.jpg?width=1280",
+      "publishedAt": "2025-05-01T18:29:15Z",
+      "content": "Starting today, Amazon has dropped the price of the newest 2025 11th gen Apple iPad (A16) tablet. All four colors - Blue, Yellow, Pink, and Silver - equipped with 128GB of RAM and Wi-Fi only connecti… [+3209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Prime Gaming members get 22 more games in May - Eurogamer",
+      "description": "Somehow we've made it to May already, and with the month of maypoles, mayflies, mayflowers, and mayonnaise upon us, it …",
+      "url": "https://www.eurogamer.net/prime-gaming-members-get-22-more-games-in-may",
+      "urlToImage": "https://assetsio.gnwcdn.com/prime-gaming-may-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-01T18:24:04Z",
+      "content": "Somehow we've made it to May already, and with the month of maypoles, mayflies, mayflowers, and mayonnaise upon us, it means there's fresh batch of Prime Gaming offerings for members to enjoy - which… [+3033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google wants Gemini to be your ‘personal, proactive, and powerful’ assistant - 9to5Google",
+      "description": "The Gemini app has a new leader, and Josh Woodward today laid out Google’s strategy to build a “personal, proactive, and powerful assistant.”",
+      "url": "http://9to5google.com/2025/05/01/gemini-personal-proactive-powerful-assistant/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9a-Ask-Gemini-Prompt.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-01T18:08:00Z",
+      "content": "Last month, the Gemini app got a new leader, and Josh Woodward today laid out Googles strategy to build the most personal, proactive, and powerful assistant. This follows Google’s previous I/O 2025 t… [+2017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Xbox prices hiked worldwide amid tariff uncertainty - BBC",
+      "description": "The company has pointed to increasing game development costs and \"market conditions\".",
+      "url": "https://www.bbc.com/news/articles/cze1zn9d9p4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6fa3/live/f5fd7420-269b-11f0-b6a5-5b4a712b1b63.jpg",
+      "publishedAt": "2025-05-01T17:09:02Z",
+      "content": "Tom Gerken\r\nMicrosoft has significantly raised prices for its Xbox console, citing increasing development costs and what it called \"market conditions\".\r\nThe increases vary from country to country, wi… [+3112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Laura Helmuth",
+      "title": "Work advice: I can't hide one part of my appearance. Everyone at work won't let me forget it. - Slate",
+      "description": "It hurts every time.",
+      "url": "https://slate.com/advice/2025/05/appearance-work-advice-comments.html",
+      "urlToImage": "https://compote.slate.com/images/84360785-2f38-4cf5-88d6-7080780a71bf.jpeg?crop=2000%2C1333%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-05-01T17:06:00Z",
+      "content": "Good Job is Slates advice column on work. Have a workplace problem big or small? Send it to Laura Helmuth and Doree Shafrir here. Its anonymous!\r\nDear Good Job,\r\nI am a 68-year-old woman who develope… [+7971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Android 16’s redesign seems to be full of new, subtle animations [Video] - 9to5Google",
+      "description": "Google is working on a bigger redesign for Android 16 than we’ve seen in beta releases, and a new leak...",
+      "url": "http://9to5google.com/2025/05/01/android-16-redesign-new-animations-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/android-16-easter-egg-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-01T16:15:00Z",
+      "content": "Google is working on a bigger redesign for Android 16 than we’ve seen in beta releases, and a new leak shows off some of the animation tweaks coming to the updated release.\r\nAll the leaked Android 16… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Dave Stopera",
+      "title": "I Literally Spit Out My Drink Laughing This Week At These 29 Pictures That Are Pretty Much Physically Impossible Not To Smile At - BuzzFeed",
+      "description": "You gotta see these, pronto.",
+      "url": "https://www.buzzfeed.com/daves4/dumb-funny-pictures-may-1-2025",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/01/16/thumb/MlbvA3ar2.jpg?crop=2490:1660;5,0&resize=1250:830",
+      "publishedAt": "2025-05-01T16:07:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Already Testing iOS 19.4 After Delaying Personalized Siri Features - MacRumors",
+      "description": "A subset of Apple's software engineers started internal development of iOS 19.4 last month, according to the MacRumors visitor logs.   iOS 19.4...",
+      "url": "https://www.macrumors.com/2025/05/01/apple-already-testing-ios-19-4/",
+      "urlToImage": "https://images.macrumors.com/t/OOmDyt9xCpZVbAKQXDm9-yDnJ_s=/2500x/article-new/2025/05/iOS-19.4-Personal-Intelligence.jpg",
+      "publishedAt": "2025-05-01T16:03:31Z",
+      "content": "A subset of Apple's software engineers started internal development of iOS 19.4 last month, according to the MacRumors visitor logs.\r\niOS 19.4 is expected to be released in March or April next year, … [+2064 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google’s AI Mode gets expanded access and additional functionality - TechCrunch",
+      "description": "Google is expanding access to AI Mode, its experimental feature that allows users to ask complex, multi-part questions and follow-ups to dig deeper on a",
+      "url": "https://techcrunch.com/2025/05/01/googles-ai-mode-gets-expanded-access-and-additional-functionality/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/google-ai-mode.jpg?resize=1200,675",
+      "publishedAt": "2025-05-01T16:00:00Z",
+      "content": "Google is expanding access to AI Mode, its experimental feature that allows users to ask complex, multi-part questions and follow-ups to dig deeper on a topic directly within Search. The tech giant i… [+2209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Andy Kalmowitz",
+      "title": "Ford Mustang GTD Just Smashed Its Own Nürburgring Lap Record - Jalopnik",
+      "description": "Ford already demonstrated the Mustang GTD was fast, but trimming its Nürburgring record by this much is seriously impressive.",
+      "url": "https://www.jalopnik.com/1848565/mustang-gtd-nurburgring-lap-record-time/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/ford-mustang-gtd-just-smashed-its-own-nrburgring-lap-record/l-intro-1746113861.jpg",
+      "publishedAt": "2025-05-01T15:39:59Z",
+      "content": "Ford now owns, by our estimate, the ninth-fasted Nürburgring Nordschleife lap time for a production car, falling just a smidge behind the 6:52:01 lap time set by the Lamborghini Huracán Performante L… [+667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Magic.gg"
+      },
+      "author": null,
+      "title": "Metagame Mentor: Standard Evolution from Europe's Regional Championship - magic.gg",
+      "description": "The dragonstorms of Tarkir touched down in Europe last weekend. Find out what new cards are redefining Standard, along with some spicy builds that took the field by storm.",
+      "url": "https://magic.gg/news/metagame-mentor-standard-evolution-from-europes-regional-championship",
+      "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/68dyB5AhTqGDkg2hV6aTgA/c42bba0024fe53252bd3444f3ac3b038/TDM-Craterhoof-Behemoth-1920x1080.jpg",
+      "publishedAt": "2025-05-01T15:02:15Z",
+      "content": "Hello, and welcome back to Metagame Mentor, your weekly guide to the top decks and latest Constructed developments on the path to the Pro Tour. This past weekend marked the kickoff of the new cycle o… [+20759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pinkbike.com"
+      },
+      "author": "Mike Kazimer",
+      "title": "First Ride: Forbidden Druid Core & Lite eMTBs - Pinkbike",
+      "description": "Forbidden's first e-machines use DJI's much-hyped Avinox motor.",
+      "url": "https://www.pinkbike.com/news/first-ride-forbidden-druid-core-and-lite-emtbs.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb28082934/p4pb28082934.jpg",
+      "publishedAt": "2025-05-01T15:02:00Z",
+      "content": "The Avinox motor is one of the most powerful eMTB motors currently on the market, with 105 Nm of torque and 850 watts of peak power at a weight of only 2.52 kg. The profile of the motor is fairly sli… [+9087 chars]"
     }
   ]
 }
