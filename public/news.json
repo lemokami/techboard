@@ -1,136 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 25,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Apple may stagger next year’s iPhones to make way for a foldable - The Verge",
+      "description": "To accommodate a new folding iPhone next fall, Apple will push back the release of the iPhone 18 to the following spring, according to The Information.",
+      "url": "https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-03T18:26:18Z",
+      "content": "Apple will release only premium iPhones in fall 2026, reports The Information.\r\nApple will release only premium iPhones in fall 2026, reports The Information.\r\nApple is planning to shuffle its iPhone… [+1339 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "Aftermath.site"
+        "name": "Forbes"
+      },
+      "author": "Antonio Pequeño IV",
+      "title": "Updated Northern Lights Forecast: These 6 States Could See Aurora Borealis Tonight - Forbes",
+      "description": "Chances for a group of northern U.S. states to see the northern lights are low Saturday night but are forecasted to improve by Sunday.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/03/updated-northern-lights-forecast-these-6-states-could-see-aurora-borealis-tonight/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6816568ad05f6d0203c06745/0x0.jpg?format=jpg&crop=816,544,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-03T17:52:33Z",
+      "content": "A small group of states along the northern U.S. border will have a shot at seeing the northern lights Saturday night, with forecasters predicting a minor showing of auroral activity expected to incre… [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Jordan Middler",
+      "title": "Nintendo is suing the accessory manufacturer that showed off Switch 2 early - Video Games Chronicle",
+      "description": "A 3D-printed mockup of the then-unannounced Switch 2 was widely circulated in January",
+      "url": "https://www.videogameschronicle.com/news/nintendo-is-suing-the-accessory-manufacturer-that-showed-off-switch-2-early/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/04/NintendoSwitch2-HW-08.png",
+      "publishedAt": "2025-05-03T17:21:47Z",
+      "content": "Nintendo has filed a lawsuit against accessory manufacturer Genki for showing off 3D-printed mockups of the Nintendo Switch 2 ahead of its official announcement.\r\nNintendo is taking the Genki parent … [+2688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Jennifer Young",
+      "title": "Thanks to Xbox's price hike, the Series S is now more expensive than the PS5 - Windows Central",
+      "description": "Microsoft's price bump flips the script on value, making PlayStation's digital console the better deal right now",
+      "url": "https://www.windowscentral.com/gaming/xbox/thanks-to-xboxs-price-hike-the-series-s-is-now-more-expensive-than-the-ps5",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xKyuybrk2xiNyYNBUmsQnG.jpg",
+      "publishedAt": "2025-05-03T17:05:46Z",
+      "content": "It’s not every day you’ll find us highlighting PlayStation deals — after all, we’re a Windows and Xbox-focused news site. But with this week’s bombshell announcement that Microsoft is hiking prices a… [+3492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iPhone 17 Air Expected to Have Battery Case Due to 'Worse' Battery Life - MacRumors",
+      "description": "Apple's rumored iPhone 17 Air model will have \"worse\" battery life compared to previous iPhone models, according to a paywalled The...",
+      "url": "https://www.macrumors.com/2025/05/03/iphone-17-air-battery-case-report/",
+      "urlToImage": "https://images.macrumors.com/t/VwE5TTfe7ba7GCaoqKtu0zh6qO4=/2500x/article-new/2025/03/iPhone-17-Air-Size-Feature.jpg",
+      "publishedAt": "2025-05-03T15:24:19Z",
+      "content": "Apple's rumored iPhone 17 Air model will have \"worse\" battery life compared to previous iPhone models, according to a paywalled The Information report.\r\nIn internal testing, Apple determined that the… [+1324 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Michael Casey",
+      "title": "Grand Theft Auto VI delayed again, this time until May 2026 - AP News",
+      "description": "The release of Grand Theft Auto VI has been delayed again — until May 26, 2026. On Friday, Rockstar Games, in a post on X, apologized for the delay but said that it needed additional time “to deliver at the level of quality that you expect and deserve.” This …",
+      "url": "https://apnews.com/article/grand-theft-auto-6-rockstar-games-9c1be2401e76cac72099ef02347ed1b9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fab871c/2147483647/strip/true/crop/2835x1595+0+148/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2Fb5%2F1744f939d43edef291fd5e7538f1%2Faa46f3f1535b482eba4995f1959d166d",
+      "publishedAt": "2025-05-03T15:23:00Z",
+      "content": "BOSTON (AP) Fans of the hugely popular video game series Grand Theft Auto will have to wait a little longer to play the latest version.\r\nIn a post on X Friday, Rockstar Games said it delayed the laun… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "Polygon And Giant Bomb Are Being Sacrificed At The Altar Of Slop - aftermath.site",
-      "description": "\"It’s all interchangeable to them. It’s all the same slop\"",
-      "url": "https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet",
-      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/05/gbgon.png",
-      "publishedAt": "2025-05-02T21:07:00Z",
-      "content": "We live in a time when its not exactly uncommon to have your routine shattered by the sudden, resounding death knell of a publication that taught you your whole worldview, but two in one day? Come on… [+6438 chars]"
+      "title": "Bungie Extends Marathon Closed Alpha Test, Major Faction Changes and AI Buffs Incoming - The Game Post",
+      "description": "Bungie has extended the Marathon Closed Alpha test until May 6, unlocking all Faction upgrades, increased AI challenges, and stress testing.",
+      "url": "https://thegamepost.com/bungie-extends-marathon-closed-alpha-test/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/05/bungie-extends-marathon-closed-alpha-test-4.webp",
+      "publishedAt": "2025-05-03T14:03:50Z",
+      "content": "Bungie has extended the Marathon Closed Alpha test until May 6, unlocking all Faction upgrades, increased AI challenges, and stress testing.\r\nBungies upcoming extraction shooter Marathon has been in … [+2735 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Verge Staff",
+      "title": "Cheap stuff that doesn’t suck, take 2 - The Verge",
+      "description": "We’ve polled the staff to find some useful gadgets that cost under $75, and found some great tool kits, egg cookers, soldering irons, and other stuff.",
+      "url": "https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/HT017_money_00010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-03T14:00:00Z",
+      "content": "Weve polled the staff to find some useful gadgets that you can find for around $50 and less.\r\nWeve polled the staff to find some useful gadgets that you can find for around $50 and less.\r\nWhile we al… [+8246 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Polygon’s new owner says it will ‘do what’s right for Polygon’ - The Verge",
+      "description": "Valnet’s head of M&A talked with The Verge about the company’s acquisition of Polygon from Vox Media.",
+      "url": "https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Polygon_3x2_Gradient.0.png.webp?quality=90&strip=all&crop=0%2C10.720063261372%2C100%2C78.559873477256&w=1200",
+      "publishedAt": "2025-05-03T13:00:00Z",
+      "content": "Valnets head of mergers and acquisitions spoke with The Verge about the deal.\r\nValnets head of mergers and acquisitions spoke with The Verge about the deal.\r\nPolygon, The Verges former sister site de… [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Destiny 2’ Content Vaulting Causes More Legal Problems For Bungie - Forbes",
+      "description": "Destiny 2's decision to throw huge parts of the game in its content vault has now produced legal ramifications in their defense for a plagiarism lawsuit.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/05/03/destiny-2-content-vaulting-causes-more-legal-problems-for-bungie/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681609a0420e8b2cd31b250b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-03T12:22:25Z",
+      "content": "Destiny 2\r\nBungie\r\nBungie is in the middle of what seems like, on its face, a pretty far-fetched lawsuit filed by a man who believes story and lore aspects of Destiny 2 were stolen from work he poste… [+2590 chars]"
     },
     {
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "author": "Mary  Cunningham",
-      "title": "Grand Theft Auto 6 release date punted to May 2026 - CBS News",
-      "description": "Rockstar Games apologizes after announcing that Grand Theft Auto 6, its eagerly awaited video game, won't be released until next year.",
-      "url": "https://www.cbsnews.com/news/grand-theft-auto-vi-may-2026/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/05/02/7ae6db68-ee59-46ac-8ca1-e7efee34b7ed/thumbnail/1200x630/a37f2887915a7feebeb16a59b27cd7c7/gettyimages-2074387950.jpg?v=7c5acc180b39394767372ab4e02619ce",
-      "publishedAt": "2025-05-02T19:49:56Z",
-      "content": "Grand Theft Auto fans will have to wait another year to get their hands on the latest version of the popular video game. \r\nThe release of Grand Theft Auto 6, the latest installment of the series, wil… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google working on DeX-like desktop mode for Android phones - 9to5Google",
-      "description": "Google is now working on a DeX-like desktop mode experience for Android. Samsung has long offered the ability for your phone...",
-      "url": "http://9to5google.com/2025/05/02/android-phones-desktop-mode/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/android-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-02T19:04:00Z",
-      "content": "Samsung has long offered the ability for your phone (or tablet) to power a desktop OS experience when connected to an external display. Google is now working on a DeX-like desktop mode experience for… [+2550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Halowaypoint.com"
-      },
-      "author": "Mutinous Core",
-      "title": "Summer Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
-      "description": "<p>The Halo Infinite 2025 Summer Update kicks off with a bang in Operation: Last Stand. Later this month, we’ll return to the Spartan Academy in a linear Firefight experience and introduce a heroic assortment of updates, including a devastating new power weap…",
-      "url": "https://www.halowaypoint.com/news/summer-update-2025-halo-infinite",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2025/05/Playlist_BattleOfTheAcademy_4K-scaled.jpg",
-      "publishedAt": "2025-05-02T18:34:15Z",
-      "content": "The Halo Infinite 2025 Summer Update kicks off with a bang in Operation: Last Stand.\r\nLater this month, well return to the Spartan Academy in a linear Firefight experience and introduce a heroic asso… [+12121 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "You can still snag an Xbox Series X / S before Microsoft’s price hike fully takes effect - The Verge",
-      "description": "Multiple retailers are still selling the Xbox Series X and Series S at or close to their original MSRP, including Walmart and Dell.",
-      "url": "https://www.theverge.com/tech/660373/microsoft-xbox-series-x-s-price-hike-dell-walmart-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Xbox-Series-S-Deal-Lead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-02T18:32:40Z",
-      "content": "The Series X and Series S are available starting at $273.99 and $449.99, respectively.\r\nThe Series X and Series S are available starting at $273.99 and $449.99, respectively.\r\nMicrosoft increased the… [+1201 chars]"
+      "author": "Kerry  Breen",
+      "title": "An NBA star's PSA inspired a man to check his mild symptoms. Doctors found an orange-sized mass - CBS News",
+      "description": "Warren Donaldson, 64, says Kareem Abdul-Jabbar's awareness campaign encouraged him to get his symptoms checked out.",
+      "url": "https://www.cbsnews.com/news/heart-symptoms-pericardiac-cyst-kareem-abdul-jabbar/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/05/02/95f1d8dc-77fa-4587-91f7-c32e1780d862/thumbnail/1200x630/746ec5d0484b91425f425a4c921ef29d/screenshot-2025-05-02-at-8-48-43-am.png?v=7c5acc180b39394767372ab4e02619ce",
+      "publishedAt": "2025-05-03T12:00:11Z",
+      "content": "Warren Donaldson didn't want to admit something was wrong. \r\nThe 64-year-old was experiencing shortness of breath, heart palpitations and brief dizzy spells. At first, he dismissed them. By January 2… [+5853 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Zack Whittaker",
-      "title": "Exclusive: Dating app Raw exposed users' location data and personal information - TechCrunch",
-      "description": "The app claims it uses end-to-end encryption, but spilled its users' dating preferences and granular location data to the open web.",
-      "url": "https://techcrunch.com/2025/05/02/dating-app-raw-exposed-users-location-data-personal-information/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/ring-raw-dating-app.jpg?resize=1200,922",
-      "publishedAt": "2025-05-02T17:56:04Z",
-      "content": "A security lapse at dating app Raw publicly exposed the personal data and private location data of its users, TechCrunch has found.\r\nThe exposed data included users’ display names, dates of birth, da… [+5299 chars]"
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "title": "How Riot Games is fighting the war against video game hackers - TechCrunch",
+      "description": "Riot’s “anti-cheat artisan” Phillip Koskinas explains how he and his team go after cheaters and cheat developers to protect the integrity of games, such as Valorant and League of Legends.",
+      "url": "https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/valorant-gameplay.png?resize=1200,675",
+      "publishedAt": "2025-05-03T12:00:00Z",
+      "content": "For as long as there have been video games, there have been people willing to find ways to cheat. Hobbyists have long dedicated themselves to finding vulnerabilities in games, often with the goal of … [+11103 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Forbes"
       },
-      "author": "Ethan Gach",
-      "title": "Don't Wait If You're Planning To Buy A New PS5 - Kotaku",
-      "description": "In a next-gen first, video game consoles are only going up in price",
-      "url": "https://kotaku.com/ps5-price-deal-discount-tariffs-xbox-switch-2-trump-1851778878",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2a497139efcd3215ff8fb91b4f8f24e2.png",
-      "publishedAt": "2025-05-02T17:10:00Z",
-      "content": "At the start of this week you could snag a used Xbox Series S in the U.S. for around $250. Just days later, Microsoft hiked the price of new Series S units to $380, and the Series X all the way to $6… [+3248 chars]"
+      "author": "Davey Winder",
+      "title": "You Have Until June 1 To Save Your Passwords, Microsoft Warns App Users - Forbes",
+      "description": "You won't be able to save new passwords after June 1, Microsoft warns all authenticator app users. Here's what you need to do.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/05/03/save-all-your-passwords-before-june-1-microsoft-warns-app-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68148c0e801d145bf8a7a167/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-03T11:09:50Z",
+      "content": "Microsoft Authenticator to stop saving new passwords June 1.\r\nSOPA Images/LightRocket via Getty Images\r\nUpdate, May 3, 2025: This story, originally published May 2, has been updated with details of d… [+4682 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "My Nintendo News"
       },
-      "author": "Samuel Roberts",
-      "title": "Clair Obscur: Expedition 33 is selling more than twice as fast as other JRPGs on PC, analyst says – here's why - GamesIndustry.biz",
-      "description": "Sandfall Interactive's Clair Obscur: Expedition 33 has captivated fans of Japanese RPGs.",
-      "url": "https://www.gamesindustry.biz/clair-obscur-expedition-33-is-selling-more-than-twice-as-fast-as-other-jrpgs-on-pc-analyst-says-heres-why",
-      "urlToImage": "https://assetsio.gnwcdn.com/ss_b8089016095e6a16e324a59c45b2f24a439bd0b3.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-05-02T15:53:27Z",
-      "content": "Sandfall Interactive's Clair Obscur: Expedition 33 has captivated fans of Japanese RPGs.\r\nWhile the French studio was clearly inspired by genre greats like Final Fantasy 10 and Lost Odyssey with its … [+6928 chars]"
+      "author": "Sickr",
+      "title": "Japan: Retailers restricting Nintendo Switch 2 pre-orders to loyal customers - My Nintendo News",
+      "description": "The Nintendo Switch 2 is set to be a resounding success in the Land of the Rising Sun with pre-sales reaching historic levels. Some retailers which will have stock of the highly-sought-after console…",
+      "url": "https://mynintendonews.com/2025/05/03/japan-retailers-restricting-nintendo-switch-2-pre-orders-to-loyal-customers/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_switch_2-1.png?fit=2040%2C1360&ssl=1",
+      "publishedAt": "2025-05-03T08:39:37Z",
+      "content": "No wonder… moreover, many people wonder about Nintendo’s real ability to satisfy the demand or even the real stock that Nintendo has of switch 2…\r\nIf we follow the trend, we are still talking about m… [+106 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "pymnts.com"
       },
-      "author": "Steven Petite",
-      "title": "Ghost Of Yotei Collector's Edition Preorders For PS5 Are Live - gamespot.com",
-      "description": "Ghost of Yotei preorders opened on May 2 at 10 AM ET, and the upcoming PlayStation exclusive will hit shelves on October 2.",
-      "url": "https://www.gamespot.com/articles/ghost-of-yotei-preorder-collectors-edition-playstation-5-amazon-walmart-target/1100-6531054/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4481535-ghostofyoteicollector.png",
-      "publishedAt": "2025-05-02T15:30:22Z",
-      "content": "Ghost of Yotei preorders opened today, May 2, at 10 AM ET. Three different editions are up for grabs for PS5, including a Collector's Edition that's exclusive to PlayStation Direct and a standard phy… [+1248 chars]"
+      "author": "PYMNTS",
+      "title": "Skype Signs Off: The Original Video Call MVP Hangs Up for Good - PYMNTS.com",
+      "description": "Skype, the blue bubble that once connected continents and conference rooms with a single click, will fall silent for good on Monday (May 5). For millions",
+      "url": "https://www.pymnts.com/technology/2025/skype-signs-off-the-original-video-call-mvp-hangs-up-for-good/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png",
+      "publishedAt": "2025-05-03T08:02:51Z",
+      "content": "Skype, the blue bubble that once connected continents and conference rooms with a single click, will fall silent for good on Monday (May 5). For millions who remember the iconic ringtone and the thri… [+4701 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Nintendo Life"
       },
-      "author": "Eric Van Allen",
-      "title": "Elden Ring Nightreign Overview Trailer Spotlights What's In Store For Its Impending Launch - IGN",
-      "description": "The release date for Elden Ring Nightreign is closing in fast. Ahead of launch day, FromSoftware and Bandai Namco have released an overview trailer, detailing just what's in store for the co-op survival action game. Here's everything confirmed.",
-      "url": "https://www.ign.com/articles/elden-ring-nightreign-overview-trailer-spotlights-whats-in-store-for-its-impending-launch",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/02/eldenringnightreignoverviewsolaire-1746196557435.jpeg?width=1280",
-      "publishedAt": "2025-05-02T14:49:03Z",
-      "content": "The release date for Elden Ring Nightreign is closing in fast. Ahead of launch day, FromSoftware and Bandai Namco have released an overview trailer, detailing just what's in store for the co-op survi… [+3110 chars]"
+      "author": "Alana Hagues",
+      "title": "Oops, Yuji Horii Might May Not Have Leaked Massive Remake News After All - Nintendo Life",
+      "description": "Update: Translator was just having fun with Chrono Trigger",
+      "url": "https://www.nintendolife.com/news/2025/05/oops-yuji-horii-might-may-not-have-leaked-massive-remake-news-after-all",
+      "urlToImage": "https://images.nintendolife.com/d9b0c95175ec9/large.jpg",
+      "publishedAt": "2025-05-03T03:56:15Z",
+      "content": "Image: Square Enix\r\nUpdate #2 [Sat 3rd May 2025, 4:55am]:\r\nWell, we did say take it with a pinch of salt, but it looks like Yuji Horii may not have mentioned anything specifically about a potential C… [+4560 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Google is going to let kids use its Gemini AI - The Verge",
+      "description": "Google is ready to give kids Gemini AI chatbot access on Androids under Google Family Link.",
+      "url": "https://www.theverge.com/news/660678/google-gemini-ai-children-under-13-family-link-chatbot-access",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-03T00:03:00Z",
+      "content": "Google will soon roll out Gemini apps to children under 13 who are set up with managed family accounts.\r\nGoogle will soon roll out Gemini apps to children under 13 who are set up with managed family … [+1636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bloody Disgusting"
+      },
+      "author": "Mike Wilson",
+      "title": "‘Evil Dead: The Game’ Has Been Quietly Delisted From Digital Storefronts - Bloody Disgusting",
+      "description": "Less than three years after it was released, and just over a year since the end of new content, Saber Interactive is pulling their asymmetrical multiplayer title Evil Dead: The Game from digital storefronts. As reported by NME and several outlets, fans had no…",
+      "url": "https://bloody-disgusting.com/video-games/3866738/evil-dead-the-game-has-been-quietly-delisted-from-digital-storefronts/",
+      "urlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/05/evildead.jpg?resize=900%2C580&ssl=1",
+      "publishedAt": "2025-05-02T22:34:18Z",
+      "content": "Less than three years after it was released, and just over a year since the end of new content, Saber Interactive is pulling their asymmetrical multiplayer title Evil Dead: The Game from digital stor… [+1308 chars]"
     },
     {
       "source": {
@@ -138,116 +242,12 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google AI Mode gets one-tap search, smooth iOS glow - 9to5Google",
-      "description": "Besides the widget shortcut, Google is making AI Mode faster to access with one-tap search on Android and iOS...",
-      "url": "http://9to5google.com/2025/05/02/google-one-tap-ai-mode/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-AI-Mode-cover-2-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-02T13:30:00Z",
-      "content": "Besides the widget shortcut, Google is making AI Mode faster to access with one-tap search on Android and iOS.\r\nPreviously, launching AI Mode from the shortcut beneath the Search bar in the Google ap… [+1434 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Nintendo has released an update fixing a Switch boot up bug - The Verge",
-      "description": "The Switch V20.0.0 firmware update caused a boot up bug for some users, but Nintendo has released another update addressing the issue.",
-      "url": "https://www.theverge.com/news/660123/nintendo-switch-software-update-error-code-bug-how-to-fix",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/IMG_8449.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "publishedAt": "2025-05-02T13:29:00Z",
-      "content": "If you experienced an error while recently updating your Switch, youll need to boot into maintenance mode to fix it.\r\nIf you experienced an error while recently updating your Switch, youll need to bo… [+1985 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Christian Wait",
-      "title": "Deals For Today: Big Fire TV Sticks And Switch 2 Screen Protector Discounts - IGN",
-      "description": "As of May 2, the best deals we could find are on Fire TV Sticks, Switch 2 accessories, Pokémon TCG bundles, and more. Here's what you should pick up today.",
-      "url": "https://www.ign.com/articles/best-deals-for-may-2-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/02/pixel-9-2025-05-02t115645-868-1746183410692.jpg?width=1280",
-      "publishedAt": "2025-05-02T11:21:21Z",
-      "content": "Amazon has dropped prices across a range of streaming, gaming, and collector-focused products. The Fire TV Stick lineup is seeing deep discounts, with models available for HD and 4K setups starting a… [+11859 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Vikki Blake",
-      "title": "Hollow Knight: Silksong Sprite Sheet Has Players Wondering 'What Calls For Hornet to Remove her Cloak Like an Exhausted Dad Home From Work?' - IGN",
-      "description": "Yesterday, IGN revealed Hollow Knight: Silksong will be playable in an Australian museum in September 2025, and shared a sprite sheet taken from the highly anticipated game. And then… Well. The internet internet-ed.",
-      "url": "https://www.ign.com/articles/hollow-knight-silksong-sprite-sheet-has-players-wondering-what-calls-for-hornet-to-remove-her-cloak-like-an-exhausted-dad-home-from-work",
-      "urlToImage": "https://assets1.ignimgs.com/2019/06/24/hollowknight-silksong-1561419170041.jpg?width=1280",
-      "publishedAt": "2025-05-02T10:52:16Z",
-      "content": "Yesterday, IGN revealed Hollow Knight: Silksong\r\n will be playable in an Australian museum in September 2025\r\n, and shared a sprite sheet taken from the highly anticipated game. And then Well. The in… [+2541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Sergiu Gatlan",
-      "title": "Microsoft makes all new accounts passwordless by default - BleepingComputer",
-      "description": "Microsoft has announced that all new Microsoft accounts will be \"passwordless by default\" to secure them against password attacks such as phishing, brute force, and credential stuffing.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-all-new-accounts-passwordless-by-default/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/09/15/Microsoft_passwordless.jpg",
-      "publishedAt": "2025-05-02T07:21:24Z",
-      "content": "Microsoft has announced that all new Microsoft accounts will be \"passwordless by default\" to secure them against password attacks such as phishing, brute force, and credential stuffing.\r\nThe announce… [+2193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Marissa Matozzo",
-      "title": "Billions of iPhone users at risk of dangerous malware attack — newly-found flaw warning issued - New York Post",
-      "description": "Apple users are being urged to update their devices ASAP.",
-      "url": "https://nypost.com/2025/05/01/lifestyle/iphone-airplay-flaw-lets-hackers-hijack-devices-via-wi-fi/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/103668502.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-05-02T00:45:00Z",
-      "content": "Apple users are being urged to update their devices ASAP after cyber sleuths uncovered a major flaw that could let hackers get into their gadgets.\r\nWhat’s being called AirBorne allows hackers to depl… [+2559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Samantha Cole",
-      "title": "Polygon Acquired by Porn Mogul Who Co-Founded Brazzers - 404 Media",
-      "description": "Before he founded Valnet, Hassan Youssef started one of the biggest porn sites on the internet.",
-      "url": "https://www.404media.co/polygon-acquired-by-porn-mogul-who-co-founded-brazzers/",
-      "urlToImage": "https://www.404media.co/content/images/2025/05/polygon.png",
-      "publishedAt": "2025-05-01T19:39:53Z",
-      "content": "Polygon, Vox Medias video games website, has been acquired by Valnet, a company founded and helmed by Hassan Youssef, a former pornography mogul and the co-founder of the popular adult entertainment … [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Eric Song",
-      "title": "The New 2025 Apple iPad Drops to the Lowest Price of the Year on Amazon (All Colors Available) - IGN",
-      "description": "Mom would love this for Mother's Day.",
-      "url": "https://www.ign.com/articles/apple-ipad-drops-to-the-lowest-price-ever-for-mothers-day-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/23/appleipad2025-1745429352685.jpg?width=1280",
-      "publishedAt": "2025-05-01T18:29:15Z",
-      "content": "Starting today, Amazon has dropped the price of the newest 2025 11th gen Apple iPad (A16) tablet. All four colors - Blue, Yellow, Pink, and Silver - equipped with 128GB of RAM and Wi-Fi only connecti… [+3209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Andrew Romero",
-      "title": "Google TV is simplifying its setup process, starting with these TVs - 9to5Google",
-      "description": "Google is looking to trim the fat when it comes to setting up your Google TV device for the first...",
-      "url": "http://9to5google.com/2025/05/01/google-tv-simplyfing-setup-process/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Hisense-U8N-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-01T17:50:00Z",
-      "content": "Google is looking to trim the fat when it comes to setting up your Google TV device for the first time. Showing up on a couple of TVs first, the new Google TV setup process will be a little easier to… [+1653 chars]"
+      "title": "NotebookLM is powered by Gemini 2.5 Flash - 9to5Google",
+      "description": "Google shared that NotebookLM is currently powered by Gemini 2.5 Flash. In addition to announcing Audio Overviews in...",
+      "url": "http://9to5google.com/2025/05/02/notebooklm-gemini-2-5-flash/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Gemini-2.5-Flash-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-02T21:43:00Z",
+      "content": "In addition to announcing Audio Overviews in 50+ languages and letting users pre-order the native mobile app this week, Google shared that NotebookLM is currently powered by Gemini 2.5 Flash.\r\nBack i… [+881 chars]"
     }
   ]
 }
