@@ -1,84 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 31,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "ZDNet"
       },
-      "author": "Zack Zwiezen",
-      "title": "Over 1,000 PlayStation Games Are Just $20 Or Less In Massive Sale - Kotaku",
-      "description": "From newer games like RoboCop to older Assassin's Creed and Call of Duty titles, there's plenty of cheap games to grab",
-      "url": "https://kotaku.com/psn-store-sale-20-under-best-games-ps4-ps5-deals-1851779652",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3116fbfd8ae1cdf845217e5b83abdbc5.jpg",
-      "publishedAt": "2025-05-07T21:25:00Z",
-      "content": "Are you looking for a new video game to play on your PlayStation 5, PS5 Pro, or even your aging PS4 console? Do you not want to spend more than, like, $20 bucks? Well, today is your lucky day. Sony i… [+2023 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'Kane",
-      "title": "Tesla’s ‘Robotaxi’ and ‘Cybercab’ trademarks hit roadblocks ahead of June launch - TechCrunch",
-      "description": "Tesla's attempt to trademark the term \"Robotaxi\" in reference to its vehicles has been refused by the U.S. Patent and Trademark Office for being too",
-      "url": "https://techcrunch.com/2025/05/07/teslas-robotaxi-and-cybercab-trademarks-hit-roadblocks-ahead-of-june-launch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/cybercab.png?resize=1200,556",
-      "publishedAt": "2025-05-07T21:15:50Z",
-      "content": "Tesla’s attempt to trademark the term “Robotaxi” in reference to its vehicles has been refused by the U.S. Patent and Trademark Office for being too generic, according to a new filing. Another applic… [+2840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Rockstar says GTA 6's latest trailer was \"gameplay and cutscenes\" captured \"entirely in-game\" on PS5 - Eurogamer",
-      "description": "A day after dropping jaws and making the recently anounced delay even tougher to bare, Rockstar has confirmed GTA 6's h…",
-      "url": "https://www.eurogamer.net/rockstar-says-gta-6s-latest-trailer-was-gameplay-and-cutscenes-captured-entirely-in-game-on-ps5",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-05-07T20:52:35Z",
-      "content": "A day after dropping jaws and making the recently anounced delay even tougher to bare, Rockstar has confirmed GTA 6's hugely impressive second trailer was a mix of \"gameplay and cutscenes\" captured \"… [+2394 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Android’s splashy new paint job won’t yank Gen Z from iPhones - The Verge",
-      "description": "A leaked blog post explains Google’s design process and thinking behind Android’s new youth-focused UI treatment.",
-      "url": "https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Material-3-Expressive-leak-2.webp?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "publishedAt": "2025-05-07T19:15:00Z",
-      "content": "Googles designers want to capture the youth demo with a vibrant new OS treatment, but theres only so much they can do.\r\nGoogles designers want to capture the youth demo with a vibrant new OS treatmen… [+4327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Zac Bowden",
-      "title": "Microsoft quietly bumps Surface Pro 11 and Surface Laptop 7 price by $200 in wake of new cheaper models - Windows Central",
-      "description": "The Surface Pro 11 and Surface Laptop 7 now start at $1,199 at the Microsoft Store as the company removes original $999 configuration from the lineup to make room for smaller and cheaper models.",
-      "url": "https://www.windowscentral.com/hardware/surface/surface-pro-11-laptop-7-price-bump-1200-dollars",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qHzoMCeTUWLCEfmKSFYKPK.jpg",
-      "publishedAt": "2025-05-07T18:41:51Z",
-      "content": "Microsoft has quietly stopped selling its $999 entry-level configuration of the Surface Pro 11 and Surface Laptop 7 as it ushers in a new wave of smaller and cheaper Surface PCs.\r\nThe new Surface Pro… [+2801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple Music launches new ‘Viral’ playlist fueled by Shazam activity - 9to5Mac",
-      "description": "Apple Music just launched a new ‘Viral Chart’ playlist for users, and it’s powered by daily data updates from Shazam users.",
-      "url": "https://9to5mac.com/2025/05/07/apple-music-launches-new-viral-playlist-fueled-by-shazam-activity/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-music-viral-chart-shazam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-07T17:43:00Z",
-      "content": "Apple acquired Shazam nearly seven years ago, and since then the music discovery service has had a number of integrations with Apple Music. The latest: a Viral Chart playlist for Apple Music users th… [+1418 chars]"
+      "author": "Kerry Wan",
+      "title": "Samsung confirms big durability upgrade for Galaxy S25 Edge - and it's mostly good news - ZDNet",
+      "description": "The Samsung Galaxy S25 Edge is launching soon, and the company just teased another spec that you should care about.",
+      "url": "https://www.zdnet.com/article/samsung-confirms-big-durability-upgrade-for-galaxy-s25-edge-and-its-mostly-good-news/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d00bc3986a04932f2c92253922d6594c82da0dcf/2025/03/03/59bcedfb-718a-4b94-8582-e6999528e51e/dsc04194.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-08T23:00:00Z",
+      "content": "Kerry Wan/ZDNET\r\nHoney, wake up. The latest Samsung Galaxy S25 Edge news just dropped, and it's a big one for those with slippery hands. Ahead of the virtual Samsung Unpacked event on Monday, the Kor… [+4902 chars]"
     },
     {
       "source": {
@@ -86,155 +21,220 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Samsung’s next big Galaxy Watch update leaks with new health features, Gemini, more - 9to5Google",
-      "description": "A new leak has revealed many of the new features coming to Samsung's Galaxy Watch series as a part of the One UI 8 Watch update.",
-      "url": "http://9to5google.com/2025/05/07/samsung-galaxy-watch-one-ui-8-update-features-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Galaxy-Watch-7-family.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-07T16:50:00Z",
-      "content": "Software attached to Samsung’s upcoming One UI 8 Watch update for Galaxy Watch has surfaced, revealing some new additions to the update, such as health features and Google Gemini.\r\nOn Twitter/X, @Dev… [+3461 chars]"
+      "title": "Samsung’s next Galaxy Watch update preps Now Bar, Shortcuts, battery charging limits - 9to5Google",
+      "description": "Leaked APKs are revealing more details about Samsung's next major Galaxy Watch update, with Now Bar support, a battery limit, and more coming.",
+      "url": "http://9to5google.com/2025/05/08/samsung-galaxy-watch-one-ui-8-update-now-bar-battery-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-watch-ultra-23.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-08T20:30:00Z",
+      "content": "Samsung is preparing a big new update for Galaxy Watch and its features are continuing to leak, with the latest details including a version of the “Now Bar,” as well as other new features and tweaks.… [+3753 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gene Park",
+      "title": "The odd path ‘Expedition 33’ took to becoming one of the best games of the year - The Washington Post",
+      "description": "“Clair Obscur: Expedition 33” is a surprise hit made by a small team that’s being celebrated by even the president of France. Its creators explain how they did it.",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/05/08/expedition-33-making-of/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFIZCQGFWREPTAZN6CRT3IPWAA.png&w=1440",
+      "publishedAt": "2025-05-08T19:30:50Z",
+      "content": "Clair Obscur: Expedition 33 is being hailed as a masterpiece in storytelling, which makes lead writer Jennifer Svedberg-Yens path in video games all the more unusual. The California native is a first… [+10161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aftermath.site"
+      },
+      "author": null,
+      "title": "A Video Game Trailer Maker’s Take On The Grand Theft Auto VI Trailer - aftermath.site",
+      "description": "Surprising no one, the new trailer for Grand Theft Auto VI is the talk of the town. But a trailer everybody’s watched and a well-crafted trailer are two different things.",
+      "url": "https://aftermath.site/grand-theft-auto-vi-trailer-analysis-details-rockstar",
+      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/05/gta6trailer.png",
+      "publishedAt": "2025-05-08T19:06:00Z",
+      "content": "Surprising no one, the new trailer for Grand Theft Auto VI the slumbering colossus many (perhaps erroneously) believe will rouse the video game industry is the talk of the town. The masses are enamor… [+10545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegamepost.com"
+      },
+      "author": null,
+      "title": "Bungie Answers Big Destiny 2 Year of Prophecy Questions, Confirms Vault Space Upgrade, Power Refresh, Renegades Story, and More - The Game Post",
+      "description": "Bungie has responded to Destiny 2 player questions after the Year of Prophecy reveal, confirming vault space upgrades, stat changes, power reset, and Renegades story clarification.",
+      "url": "https://thegamepost.com/bungie-answers-destiny-2-year-of-prophecy-questions-renegades/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/05/destiny-2-eof-year-of-prophecy-pre-order-15.webp",
+      "publishedAt": "2025-05-08T18:56:47Z",
+      "content": "Bungie has responded to Destiny 2 player questions after the Year of Prophecy reveal, confirming vault space upgrades, stat changes, power refresh, and Renegades story clarification.\r\nFollowing the b… [+3987 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Kevin Purdy",
-      "title": "Open source project curl is sick of users submitting “AI slop” vulnerabilities - Ars Technica",
-      "description": "“One way you can tell is it’s always such a nice report,” founder tells Ars.",
-      "url": "https://arstechnica.com/gadgets/2025/05/open-source-project-curl-is-sick-of-users-submitting-ai-slop-vulnerabilities/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/a-call-to-arms-against-the-ai-horde-1152x648.jpg",
-      "publishedAt": "2025-05-07T16:49:24Z",
+      "author": "Andrew Cunningham",
+      "title": "Echoing Xbox, prices are going up for high-end Surfaces and some accessories - Ars Technica",
+      "description": "Discontinuation of 256GB models gives older Surface PCs an effective price hike.",
+      "url": "https://arstechnica.com/gadgets/2025/05/echoing-xbox-prices-are-going-up-for-high-end-surfaces-and-some-accessories/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/IMG_1966-1152x648.jpeg",
+      "publishedAt": "2025-05-08T16:27:48Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Figma’s big AI update takes on Adobe, WordPress, and Canva - The Verge",
-      "description": "Figma is expanding its creative software ecosystem to allow product designers to complete entire projects without jumping to third-party apps.",
-      "url": "https://www.theverge.com/news/662678/figma-buzz-draw-make-sites-announcement-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Config-2025-launches.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-05-07T16:16:58Z",
-      "content": "Figma Draw, Buzz, Make, and Sites aim to build Figma into an all-in-one product design platform.\r\nFigma Draw, Buzz, Make, and Sites aim to build Figma into an all-in-one product design platform.\r\nFig… [+3702 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Gizmodo.com"
       },
-      "author": "Victoria Kennedy",
-      "title": "Elden Ring Nightreign director promises difficulty tweaks following beta feedback, and updates for Nightlord Gladius - Eurogamer",
-      "description": "Elden Ring Nightreign director has said there will be some updates to Nightlord Gladius, Beast of Night on the game's full release.",
-      "url": "https://www.eurogamer.net/elden-ring-nightreign-director-promises-difficulty-tweaks-following-beta-feedback-and-updates-for-nightlord-gladius",
-      "urlToImage": "https://assetsio.gnwcdn.com/Nightreign_tzV99u0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-05-07T15:07:51Z",
-      "content": "At the end of this month, co-op spin-off Elden Ring Nightreign will make its debut. Back in February, developer FromSoftware hosted a network test for the upcoming release, before later revealing som… [+2528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "My Nintendo News"
-      },
-      "author": "Sickr",
-      "title": "Level-5 CEO: Video games are being made 80-90% by AI - My Nintendo News",
-      "description": "Level-5 president Akihiro Hino believes that 80-90% of video game coding is being done by artificial intelligence. The news comes from a recent interview with Japanese gaming site Famitsu.",
-      "url": "https://mynintendonews.com/2025/05/07/level-5-ceo-video-games-are-being-made-80-90-by-ai/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/01/level_5_games.jpg?fit=1280%2C720&ssl=1",
-      "publishedAt": "2025-05-07T14:58:53Z",
-      "content": "Level-5 president Akihiro Hino believes that 80-90% of video game coding is being done by artificial intelligence. The news comes from a recent interview with Japanese gaming site Famitsu. He went on… [+997 chars]"
+      "author": "Gizmodo Deals",
+      "title": "Oops, Amazon Did It Again: The 2025 MacBook Air Drops for the 5th Time in a Month - Gizmodo",
+      "description": "It’s hard to believe that Apple’s newest MacBook Air is available at such a deep discount.",
+      "url": "https://gizmodo.com/oops-amazon-did-it-again-the-2025-macbook-air-drops-for-the-5th-time-in-a-month-2000599698",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/05/macbookair-2025.jpg",
+      "publishedAt": "2025-05-08T16:19:05Z",
+      "content": "Apple is famous for its design and fabulous performance, but affordability-wise, it’s not usually known to be “low-cost”. Now, imagine if you have all three: style, power, and an unbeatable price. Th… [+2419 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 18.5: Five new iPhone features are coming next week - 9to5Mac",
-      "description": "Apple’s next iPhone update is almost here. iOS 18.5 is coming next week and will bring five new features to users.",
-      "url": "https://9to5mac.com/2025/05/07/ios-185-five-new-features-are-coming-next-week/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iOS-18.5-apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-07T14:42:00Z",
-      "content": "Apple is nearly ready to ship its next iPhone update: iOS 18.5 is coming next week and will bring a handful of new features to users. Heres whats coming.\r\nLast December, iOS 18.2 brought major change… [+3305 chars]"
+      "author": "Zac Hall",
+      "title": "iPhone 17 Air still recognizably thin in a case, video shows - 9to5Mac",
+      "description": "The rumored iPhone 17 Air favors a futuristic design over a thicker and heavier look with more battery. But if...",
+      "url": "https://9to5mac.com/2025/05/08/iphone-17-air-still-recognizably-thin-in-a-case-video-shows/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iphone-17-air-desert-titanium.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-08T16:03:00Z",
+      "content": "The rumored iPhone 17 Air favors a futuristic design over a thicker and heavier look with more battery. But if everyone just throws their phone in a case, wont the aesthetic be lost? Maybe not, accor… [+1749 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Gematsu"
       },
-      "author": "Ollie Reynolds",
-      "title": "Nintendo Switch 2 Pre-Orders Now Open To All Paid NSO Members In The UK - Nintendo Life",
-      "description": "Update: And they're gone",
-      "url": "https://www.nintendolife.com/news/2025/05/nintendo-switch-2-pre-orders-now-open-to-all-paid-nso-members-in-the-uk",
-      "urlToImage": "https://images.nintendolife.com/d44b096a90c88/large.jpg",
-      "publishedAt": "2025-05-07T14:40:00Z",
-      "content": "Image: Nintendo\r\nUpdate [Wed 7th May 2025, 3:50pm]: That didn't last long... By the look of things, it seems both the standard console and the Mario Kart World bundle are currently out of stock.\r\nWe'… [+953 chars]"
+      "author": "Sal Romano",
+      "title": "Alien: Rogue Incursion Evolved Edition announced for PS5, PC - Gematsu",
+      "description": "Survios has announced Alien: Rogue Incursion Evolved Edition, a re-envisioned flatscreen version of the virtual reality horror first-person shooter for PlayStation 5 and PC (Steam). It will launch …",
+      "url": "https://www.gematsu.com/2025/05/alien-rogue-incursion-evolved-edition-announced-for-ps5-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/05/Alien-Rogue-Incursion-EE_05-08-25.jpg",
+      "publishedAt": "2025-05-08T15:53:23Z",
+      "content": "Survios has announced Alien: Rogue Incursion Evolved Edition, a re-envisioned flatscreen version of the virtual realityhorrorfirst-person shooter for PlayStation 5 and PC (Steam). It will launch on S… [+2983 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
-      "author": "Andrew Webster",
-      "title": "PlayStation announces new studio focused on ‘immersive multiplayer worlds’ - The Verge",
-      "description": "PlayStation has announced a new game studio called Team LFG, which is spun off from Destiny developer Bungie.",
-      "url": "https://www.theverge.com/news/662579/team-lfg-playstation-studio",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717639/247361_PS5_Pro_VPavic_40_2.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-      "publishedAt": "2025-05-07T14:16:54Z",
-      "content": "Team LFG is being spun out of Destiny developer Bungie.\r\nTeam LFG is being spun out of Destiny developer Bungie.\r\nSony just announced a new internal studio called Team LFG, which will be developing a… [+2076 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Spotify’s latest update gives users more control over their listening experience - TechCrunch",
-      "description": "Spotify on Wednesday announced an update to its app designed to give users more control over their listening experience and recommendations. The refreshed",
-      "url": "https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/spotify.jpg?resize=1200,458",
-      "publishedAt": "2025-05-07T13:51:31Z",
-      "content": "Spotify on Wednesday announced an update to its app designed to give users more control over their listening experience and recommendations. The refreshed experience introduces a handful of new featu… [+2442 chars]"
+      "author": "Dave Stopera",
+      "title": "I Literally Spit Out My Coffee Laughing This Week At These 32 Pictures That Are Pretty Much Physically Impossible Not To Smile At - BuzzFeed",
+      "description": "These are just too good.",
+      "url": "https://www.buzzfeed.com/daves4/funny-picture-collection-may-8-2025",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/08/15/thumb/qiKTVfTTN.jpg?crop=2500:1309;0,141%26downsize=1250:*",
+      "publishedAt": "2025-05-08T15:48:57Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Push Square"
       },
-      "author": "Sammy Barker",
-      "title": "Rumour: Gears of War: Reloaded May Be Getting a Physical PS5 Release, No Word on Xbox - Push Square",
-      "description": "Mad world",
-      "url": "https://www.pushsquare.com/news/2025/05/rumour-gears-of-war-reloaded-may-be-getting-a-physical-ps5-release-no-word-on-xbox",
-      "urlToImage": "https://images.pushsquare.com/68a50040283c8/large.jpg",
-      "publishedAt": "2025-05-07T13:30:00Z",
-      "content": "Image: Push Square\r\nWhen Gears of War: Reloaded makes its PS5 debut later this year, you may be able to purchase a physical copy.\r\nThats according to Spanish retailer, whos listed a product page for … [+907 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown - NBC News",
-      "description": "A private lunar lander from Japan is now circling the moon, with just another month to go before it attempts a touchdown.",
-      "url": "https://www.nbcnews.com/science/space/private-japanese-lunar-lander-enters-orbit-moon-ahead-june-touchdown-rcna205308",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250507-ispace-resilience-moon-mn-0845-c1b238.jpg",
-      "publishedAt": "2025-05-07T13:06:14Z",
-      "content": "A private lunar lander from Japan is now circling the moon, with just another month to go before it attempts a touchdown.\r\nTokyo-based ispace said Wednesday morning its Resilience lander entered luna… [+894 chars]"
+      "author": "Stephen Tailby",
+      "title": "Mafia: The Old Country Looks Glorious in Gameplay Trailer, PS5 Release Date Confirmed - Push Square",
+      "description": "Whatever it takes",
+      "url": "https://www.pushsquare.com/news/2025/05/mafia-the-old-country-looks-glorious-in-gameplay-trailer-ps5-release-date-confirmed",
+      "urlToImage": "https://images.pushsquare.com/b57cdf2ecb24f/large.jpg",
+      "publishedAt": "2025-05-08T15:15:00Z",
+      "content": "Subscribe to Push Square on YouTube156k\r\nA brand new gameplay trailer for Mafia: The Old Country has just been released, and it's looking very promising indeed.\r\nThe game, which winds back the clock … [+1790 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gamingonlinux.com"
+        "name": "VentureBeat"
       },
-      "author": "Liam Dawe",
-      "title": "Valve developers continue to impress, fixing Proton in less than a day for the Starfield Beta - GamingOnLinux",
-      "description": "Bethesda have released a surprise Beta update for Starfield. The update brings with it numerous bug fixes, Creation Kit upgrades and there's even a new Very Low graphics setting option.",
-      "url": "https://www.gamingonlinux.com/2025/05/valve-developers-continue-to-impress-fixing-proton-in-less-than-a-day-for-the-starfield-beta/.",
-      "urlToImage": "https://www.gamingonlinux.com/uploads/articles/tagline_images/564476813id26729gol.jpg",
-      "publishedAt": "2025-05-07T13:05:20Z",
-      "content": "Bethesda have released a surprise Beta update for Starfield. The update brings with it numerous bug fixes, Creation Kit upgrades and there's even a new Very Low graphics setting option.\r\nWhat's impre… [+7951 chars]"
+      "author": "Dean Takahashi",
+      "title": "World Video Game Hall of Fame announces 2025 inductees - VentureBeat",
+      "description": "Game developers rejoice. Defender, GoldenEye 007, Quake, and Tamagotchi have joined the World Video Game Hall of Fame.",
+      "url": "https://venturebeat.com/games/world-video-game-hall-of-fame-announces-2025-inductees/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/05/WVGHOF_Winners_032025-copy.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2025-05-08T14:30:00Z",
+      "content": "Game developers rejoice. Defender, GoldenEye 007, Quake, and Tamagotchi have joined the World Video Game Hall of Fame at The Strong National Museum of Play. \r\nThese four gameswhich have significantly… [+5232 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Christian Wait",
+      "title": "Pokémon TCG: Black Bolt and White Flare Preorders: Where To Find In Stock - IGN",
+      "description": "Here's where you can secure your preorder for the new Pokémon TCG Scarlet & Violet split expansions, Black Bolt and White Flare.",
+      "url": "https://www.ign.com/articles/pokemon-tcg-black-bolt-and-white-flare-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/08/black-and-white-pokemon-expansion-tcg-new-ign-preorders-2-1746709539963.png?width=1280",
+      "publishedAt": "2025-05-08T14:13:08Z",
+      "content": "Preorders for Pokémon TCG's new Scarlet &amp; Violet expansions, Black Bolt and White Flare, are expected to go live at major retailers like Best Buy and Amazon from May 8 onwards in the US.\r\nSo what… [+5554 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Dana Wollman",
+      "title": "Whoop Launches Slimmer Fitness Bands With Blood Pressure, ECG Features - Bloomberg.com",
+      "description": "Review: The Whoop 5.0 and MG — short for medical grade — are meant to appeal to a broad user base beyond just athletes.",
+      "url": "https://www.bloomberg.com/news/features/2025-05-08/review-whoop-5-0-whoop-mg-add-ecg-blood-pressure-subscription-from-199",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i._MIYjphdAw/v0/1200x675.jpg",
+      "publishedAt": "2025-05-08T13:40:26Z",
+      "content": "Whoop Inc., the maker of increasingly popular, screen-less fitness bands, debuted updated hardware on Thursday with more compact designs, improved battery life and blood pressure tracking in the high… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith, Chris Smith",
+      "title": "Why you’re crazy if you travel without using ChatGPT and this new Google Maps AI feature - Boy Genius Report",
+      "description": "Google Maps uses Gemini AI to extract location and places data from screenshots, and it's the feature I need for my ChatGPT travel plans.",
+      "url": "https://bgr.com/tech/i-use-chatgpt-to-travel-now-and-this-brilliant-google-maps-ai-feature-is-the-missing-piece-of-the-puzzle/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2025/05/google-maps-gemini-screenshots.jpg?quality=82&strip=all",
+      "publishedAt": "2025-05-08T10:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Ringer"
+      },
+      "author": null,
+      "title": "The Millennial Canon Bracket: The Elite Eight - The Ringer",
+      "description": "After a tight Sweet 16, all four 1-seeds remain. Now they’ll face off against four disruptors.",
+      "url": "https://www.theringer.com/2025/05/08/pop-culture/millennial-canon-bracket-elite-eight",
+      "urlToImage": "https://wp.theringer.com/wp-content/uploads/2025/05/cropped-MillennialBracket8_Getty-Ringer-scaled-1.jpg",
+      "publishedAt": "2025-05-08T10:25:03Z",
+      "content": "Editors note: The Elite Eight polls have closed. Check back on Friday to vote for the ultimate winner! In the meantime, check out the millennial cringe canon, how millennials learned to love the bowl… [+6499 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "FTC Loses Appeal Challenging Microsoft's Acquisition of Activision Blizzard - IGN",
+      "description": "Microsoft has secured another victory over the FTC in its quest to secure Activision Blizzard.",
+      "url": "https://www.ign.com/articles/ftc-loses-appeal-challenging-microsofts-acquisition-of-activision-blizzard",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280",
+      "publishedAt": "2025-05-08T10:18:00Z",
+      "content": "Microsoft has secured another victory over the Federal Trade Commission (FTC) in its quest to secure Activision Blizzard.\r\nThe FTCs appeal to block Microsofts $69 billion deal to acquire the company … [+1602 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Lenovo’s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid - The Verge",
+      "description": "The 18-inch Lenovo Legion 9i gaming laptop can be had with Nvidia GeForce RTX 5090 GPU, Intel Arrow Lake CPU, and a 4K 2D / 3D screen with high refresh rate.",
+      "url": "https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/07_Lenovo_Legion_9i_Eclipse_Black_Hero_Rear_white.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-08T10:00:00Z",
+      "content": "The new Legion 9i doesnt have a price yet, but considering the specs and fancy lid, its likely to be high.\r\nThe new Legion 9i doesnt have a price yet, but considering the specs and fancy lid, its lik… [+2634 chars]"
     }
   ]
 }
