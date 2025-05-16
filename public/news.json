@@ -1,84 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 28,
   "articles": [
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "Microsoft shares its process (and discarded ideas) for redone Windows 11 Start menu - Ars Technica",
-      "description": "Updated Start menu design is currently being tested in Windows Insider previews.",
-      "url": "https://arstechnica.com/gadgets/2025/05/microsoft-shares-its-process-and-discarded-ideas-for-redone-windows-11-start-menu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/win-11-new-start-1152x648.jpg",
-      "publishedAt": "2025-05-13T20:44:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jennifer Elias",
-      "title": "Google is testing AI search on its homepage - CNBC",
-      "description": "Since the launch of ChatGPT in November 2022, Alphabet investors have been concerned that OpenAI could take market share from Google in search.",
-      "url": "https://www.cnbc.com/2025/05/13/google-ai-mode-search-home-page.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108097839-1738771465882-gettyimages-2189493210-vcg111536239150.jpeg?v=1738771522&w=1920&h=1080",
-      "publishedAt": "2025-05-13T19:53:45Z",
-      "content": "Google's stalwart search button has a new neighbor: AI Mode.\r\nThe artificial intelligence feature is being tested directly beneath the Google search bar beside a \"Google Search\" button, replacing the… [+2715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "'Huge' Number Of People Cancelling DOOM Pre-Orders Over 'Botched Physical Release' - Pure Xbox",
-      "description": "Negative feedback for the disc version",
-      "url": "https://www.purexbox.com/news/2025/05/huge-number-of-people-cancelling-doom-pre-orders-over-botched-physical-release",
-      "urlToImage": "https://images.purexbox.com/b1b07b19f31ec/large.jpg",
-      "publishedAt": "2025-05-13T19:15:00Z",
-      "content": "Back at the end of last week, we reported how DOOM: The Dark Ages' physical version seemingly had a tiny amount of content on the disc, and apparently that's leading to a \"huge\" number of people canc… [+2015 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
       "author": "Ryan Whitwam",
-      "title": "Google announces Material 3 Expressive, a colorful evolution of Android design - Ars Technica",
-      "description": "Google’s take on Android is getting brighter and bolder later this year.",
-      "url": "https://arstechnica.com/gadgets/2025/05/google-reveals-vibrant-material-3-expressive-coming-soon-to-a-pixel-near-you/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Material-3-Expressive-11-1152x648.jpg",
-      "publishedAt": "2025-05-13T18:57:34Z",
+      "title": "Google DeepMind creates super-advanced AI that can invent new algorithms - Ars Technica",
+      "description": "AlphaEvolve has already made Google’s data centers more efficient and improved Tensor chips.",
+      "url": "https://arstechnica.com/ai/2025/05/google-deepmind-creates-super-advanced-ai-that-can-invent-new-algorithms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/alphaevolve-1152x648.jpg",
+      "publishedAt": "2025-05-14T21:01:58Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Material 3 Expressive drops nav drawers on phones as short bottom bars return - 9to5Google",
+      "description": "Google released new and updated components for Material 3 Expressive, with several changes that impact what's recommended for app navigation.",
+      "url": "http://9to5google.com/2025/05/14/material-3-expressive-navigation/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Alarms-App.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-14T20:16:00Z",
+      "content": "Google released new and updated components for Material 3 Expressive, with several changes that impact what’s recommended for navigation in apps.\r\nBottom bars are officially referred to as navigation… [+1937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "New 2025 iPad Now Costs Less Than AirPods Pro, Amazon Clears Out Stock - Gizmodo",
+      "description": "You can finally treat yourself to an Apple product that no longer costs a fortune.",
+      "url": "https://gizmodo.com/new-2025-ipad-now-costs-less-than-airpods-pro-amazon-clears-out-stock-2000602403",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/ipad-.jpg",
+      "publishedAt": "2025-05-14T20:05:54Z",
+      "content": "It’s incredible to receive a brand-new 2025 iPad (which is powered by Apple’s advanced A16 chip) at an all-time low price on Amazon. Originally listed for $349 for the 128GB WiFi model, this 11-inch … [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Microsoft starts testing ‘Hey, Copilot!’ in Windows - The Verge",
+      "description": "Microsoft’s AI assistant is getting support for a wake word in Windows 11, “Hey, Copilot.”",
+      "url": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Hey-Copilot-approved.jpg?quality=90&strip=all&crop=4%2C17.701315824692%2C88.4%2C82.298684175308&w=1200",
+      "publishedAt": "2025-05-14T19:48:22Z",
+      "content": "Beta testers can try hands-free access to the AI app in Windows 11.\r\nBeta testers can try hands-free access to the AI app in Windows 11.\r\nMicrosoft is testing a feature for Copilot Voice that will le… [+1400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "89 Million Steam Accounts Allegedly Compromised in a Data Breach. Our Advice: Change Your Password Now - CNET",
+      "description": "Changing your password is a good start, but there are other steps you should take to protect yourself.",
+      "url": "https://www.cnet.com/tech/services-and-software/89-million-steam-accounts-allegedly-compromised-in-a-data-breach-our-advice-change-your-password-now/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c9034b8a2d8895cbc2776457d8f72a3703ad4437/hub/2025/05/14/8843feac-f094-4fb6-9622-7a943db60da7/gettyimages-1234720850.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-14T18:19:00Z",
+      "content": "A recent data breach has reportedly affected users of Steam, Valve's wildly popular online gaming store and distribution platform.  \r\nThe origin of the breach has not yet been confirmed, and Valve di… [+1667 chars]"
     },
     {
       "source": {
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Brian Chesky Lost His Mind One Night—and Now He's Relaunching Airbnb as an Everything App - WIRED",
-      "description": "CEO Brian Chesky is spending hundreds of millions to relaunch his travel company as an everything app. Fitness! Food! Microdermabrasion? A WIRED exclusive.",
-      "url": "https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/",
-      "urlToImage": "https://media.wired.com/photos/6822476247f5e6d08106fda0/191:100/w_1280,c_limit/WIRED_2025_05_07_Chesky_-109x.jpg",
-      "publishedAt": "2025-05-13T18:30:00Z",
-      "content": "Chesky explains that historically, people used Airbnb only once or twice a year, so its design had to be exceptionally simple. Now the company is retooling for more frequent access. Open the app, and… [+3280 chars]"
+      "author": "Paresh Dave",
+      "title": "Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots - WIRED",
+      "description": "Microsoft is limiting access to tools that boosted its rivals, but larger customers like DuckDuckGo say they won’t be affected.",
+      "url": "https://www.wired.com/story/bing-microsoft-api-support-ending/",
+      "urlToImage": "https://media.wired.com/photos/6824b3007c780e4b8a79335f/191:100/w_1280,c_limit/bing-biz-1258297934.jpg",
+      "publishedAt": "2025-05-14T18:15:46Z",
+      "content": "Through the Bing APIs, Microsoft helped other search engines save on the cost and time of crawling billions of web pages and developing a searchable index of all available content. The tools allowed … [+2667 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BleepingComputer"
+        "name": "Kotaku"
       },
-      "author": "Lawrence Abrams",
-      "title": "Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws - BleepingComputer",
-      "description": "Today is Microsoft's May 2025 Patch Tuesday, which includes security updates for 72 flaws, including five actively exploited and two publicly disclosed zero-day vulnerabilities.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/microsoft-patch-tuesday-red.jpg",
-      "publishedAt": "2025-05-13T17:56:57Z",
-      "content": "Today is Microsoft's May 2025 Patch Tuesday, which includes security updates for 72 flaws, including five actively exploited and two publicly disclosed zero-day vulnerabilities.\r\nThis Patch Tuesday a… [+18111 chars]"
+      "author": "Zack Zwiezen",
+      "title": "12 Games Are Coming To PS Plus Game Catalog Next Week - Kotaku",
+      "description": "Technically, the STALKER trilogy is three games so that's why its 12 and not 10",
+      "url": "https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/957f2bbd5d3a7e85548176fda70b54b3.jpg",
+      "publishedAt": "2025-05-14T17:45:00Z",
+      "content": "Summer doesnt officially start until later in June, but around where I live the days are getting hotter and the nights arent as cool as before. Thats fine. I dont need the outdoors. Ive got new PS Pl… [+1626 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "New Switch 2 specs show large performance dip in undocked mode - Ars Technica",
+      "description": "Digital Foundry also says Game Chat “has a significant impact on system resources.”…",
+      "url": "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-9.17.48 AM-1152x648.png",
+      "publishedAt": "2025-05-14T16:40:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Readies Feature That Lets Vision Pro Users Scroll With Their Eyes - Bloomberg",
+      "description": "Apple Inc. is developing a feature for its Vision Pro headset that lets users scroll through software with their eyes, aiming to enhance the device with a novel interface.",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-14/apple-readies-feature-that-lets-vision-pro-users-scroll-with-their-eyes",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyLU9LpSnWNY/v2/1200x799.jpg",
+      "publishedAt": "2025-05-14T16:27:00Z",
+      "content": "Apple Inc. is developing a feature for its Vision Pro headset that lets users scroll through software with their eyes, aiming to enhance the device with a novel interface.\r\nThe eye-scrolling capabili… [+274 chars]"
     },
     {
       "source": {
@@ -86,168 +125,142 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Google adding UWB for Android trackers ‘this month,’ luggage and airline integration soon - 9to5Google",
-      "description": "Google's Find Hub trackers for Android will now be able to use UWB support, while airline integration and luggage are also coming.",
-      "url": "http://9to5google.com/2025/05/13/google-android-tracker-uwb-find-hub-airline-luggage-integration/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Moto-Tag-hands-on-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-13T17:45:00Z",
-      "content": "One of the biggest downsides of Android’s Find My Device network now called the “Find Hub” was a lack of UWB (ultra-wideband) support for easily finding nearby trackers. Now, that’s finally about to … [+1714 chars]"
+      "title": "Android Auto prepares media player change that might ruin your muscle memory - 9to5Google",
+      "description": "Google is preparing a potential change to Android Auto that shuffles the media player buttons around, breaking muscle memory.",
+      "url": "http://9to5google.com/2025/05/14/android-auto-media-player-buttons-beta-change/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/android-auto-dashboard-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-14T16:05:00Z",
+      "content": "A new change in Android Auto is in development, with the buttons for the media player potentially being shuffled around which could impact muscle memory.\r\nTypically with media players, buttons are la… [+1056 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "GlobeNewswire"
       },
-      "author": "Oli Welsh",
-      "title": "Nintendo says its low-balled Switch 2 forecast is about price, not tariffs - Polygon",
-      "description": "Nintendo president Shuntaro Furukawa denied that its conservative estimate of Switch 2 sales is in response to Trump’s tariffs, and acknowledged the high price",
-      "url": "https://www.polygon.com/nintendo-switch-2/598877/nintendo-switch-2-forecast-price-not-tariffs",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/switch2-hand-bg.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-05-13T17:08:25Z",
-      "content": "Last week, Nintendo predicted it would sell 15 million Switch 2 consoles in its current financial year. This would actually be a fantastic result equalling Switch, and just about any console you care… [+2984 chars]"
+      "author": "UBISOFT ENTERTAINMENT",
+      "title": "Ubisoft Reports Full-Year 2024-25 Earnings Figures - GlobeNewswire",
+      "description": "UBISOFT REPORTS FULL-YEAR 2024-25 EARNINGS FIGURES   Assassin’s Creed® Shadows release prompted very strong praise from players and delivered a solid......",
+      "url": "https://www.globenewswire.com/news-release/2025/05/14/3081367/0/en/Ubisoft-Reports-Full-Year-2024-25-Earnings-Figures.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f1ecaaa3-2a0f-46bf-8518-bccea1d729ee",
+      "publishedAt": "2025-05-14T15:41:01Z",
+      "content": "UBISOFT REPORTS FULL-YEAR 2024-25 EARNINGS FIGURES \r\nAssassins Creed® Shadows release prompted very strong praise from players and delivered a solid performance, clearly ahead of Assassins Creed® Ody… [+47291 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Android launches new protections against phone call scammers - The Verge",
-      "description": "Google is launching new Android features designed to combat phone scams, as it will now block users from sideloading apps while talking with an unknown contact.",
-      "url": "https://www.theverge.com/news/665706/google-phone-call-scam-protection-banking-apps",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/side-by-side.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-13T17:00:00Z",
-      "content": "Google will prevent users from sideloading and enabling sensitive permissions while on the phone.\r\nGoogle will prevent users from sideloading and enabling sensitive permissions while on the phone.\r\nG… [+2533 chars]"
+      "author": "Ash Parrish",
+      "title": "Square Enix cancels Kingdom Hearts mobile game - The Verge",
+      "description": "Square Enix has announced that it is cancelling its mobile game Kingdom Hearts Missing Link while assuring players Kingdom Hearts 4 development is going well.",
+      "url": "https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/KHML02.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-05-14T15:22:03Z",
+      "content": "But Squares hard at work on KH4 and a new project too.\r\nBut Squares hard at work on KH4 and a new project too.\r\nSquare Enix has announced that it is cancelling the mobile spinoff Kingdom Hearts Missi… [+2035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Android 16's new 90:10 split-screen is a game-changer for multitasking - Android Authority",
+      "description": "Google is working on a big upgrade to split-screen mode in Android 16 that adds a 90:10 split ratio, and here's a first look.",
+      "url": "https://www.androidauthority.com/android-16-90-10-split-screen-3557268/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/Split-screen-mode-in-Android-hero-image-scaled.jpg",
+      "publishedAt": "2025-05-14T15:12:23Z",
+      "content": "<ul><li>Google is developing a new split-screen mode for Android 16 that aims to improve multitasking on phone displays by using a 90:10 ratio.</li><li>This allows one app to dominate the screen whil… [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Windows 10 and Microsoft 365 support deadlines didn't change - why this story just won't die - ZDNet",
+      "description": "No, Microsoft has not changed Windows 10 or Microsoft 365 support deadlines. Here's what actually happened.",
+      "url": "https://www.zdnet.com/article/windows-10-and-microsoft-365-support-deadlines-didnt-change-why-this-story-just-wont-die/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fde4246e3ba9b22673fbe81500000bb929df36b5/2025/05/13/9610a676-d12a-4700-b540-28ec19439c72/no-microsoft-has-not-changed-support-deadlines-for-windows-10-or-microsoft-365.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-14T14:24:00Z",
+      "content": "ZDNET\r\nHere we go again. A zombie news story that should have been laid to rest last January has risen from the grave and is walking among us again.\r\nThe original story\r\nIn case you missed the origin… [+4435 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Simon Cardy",
+      "title": "'FOMO Has Infected Modern Games,' Says Remedy Director of FBC: Firebreak - IGN",
+      "description": "Mike Kayatta, game director of Remedy’s upcoming FBC: Firebreak, supports the notion of making games \"that respect player time and don't try to overcharge.\"",
+      "url": "https://www.ign.com/articles/fomo-has-infected-modern-games-says-remedy-director-of-fbc-firebreak",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/14/firebreak-news-blog-1747223966033.jpg?width=1280",
+      "publishedAt": "2025-05-14T13:00:59Z",
+      "content": "Mike Kayatta, game director of Remedys upcoming FBC: Firebreak, supports the notion of making games \"that respect player time and don't try to overcharge.\"\r\nThis suggestion comes in the wake of a flu… [+5126 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Helldivers 2 PlayStation Leak Suggests Players Will Fight Against the Illuminate on Super Earth Itself Next Week — and Now Gameplay of Super Earth Mega Cities Has Leaked, Too - IGN Southeast Asia",
+      "description": "Loose lips sink ships.",
+      "url": "https://sea.ign.com/helldivers-ii/227654/news/helldivers-2-playstation-leak-suggests-players-will-fight-against-the-illuminate-on-super-earth-itse",
+      "urlToImage": "https://sm.ign.com/t/ign_ap/news/h/helldivers/helldivers-2-playstation-leak-suggests-players-will-fight-ag_g1k8.1200.png",
+      "publishedAt": "2025-05-14T12:06:07Z",
+      "content": "Eagle-eyed Helldivers 2 fans have spotted what looks like a leak from PlayStation that suggests players will end up fighting back against the Illuminate on the streets of Super Earth.\r\nThis week, dev… [+2684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamingbible.com"
+      },
+      "author": "Angharad Redden",
+      "title": "GTA 6 map comparison leaves fans absolutely floored - GAMINGbible",
+      "description": "One fan has compiled a bunch of screenshots showing how accurate GTA VI will be to real life",
+      "url": "https://www.gamingbible.com/news/gta-6-map-comparison-422069-20250514",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd02c3400928da4ca/68245700f428cd0bd405dfe6/Screenshot_2025-05-14_at_09.38.39.png",
+      "publishedAt": "2025-05-14T08:59:12Z",
+      "content": "The second official trailer for Grand Theft Auto VI gave us more insight into what we can expect when the highly-anticipated title finally releases next year.\r\nWe got to see more of our brand-new pro… [+1656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server - The Hacker News",
+      "description": "Microsoft patched 78 flaws, including 5 exploited zero-days, prompting CISA mandates for June 3 fixes.",
+      "url": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuG1FlWcHuSdTpgw5oeAY68yYuCSI5FgWxSR-VYV839hL-CkrqO0kdndW2oc51bwS2Gf_6LinSe7POQrnfAw1X3xxqxQE5hzQdajYSMXi6ykh-GMiLsBq88Tp64XQ7cfBlaXxsl7rYv4DhSlnIC93ShugEQzg1RlVPGotGfd2o6RhMj49yMTVVmw2ZV5Q8/s728-rw-e365/windows.jpg",
+      "publishedAt": "2025-05-14T08:14:00Z",
+      "content": "Microsoft on Tuesday shipped fixes to address a total of 78 security flaws across its software lineup, including a set of five zero-days that have come under active exploitation in the wild.\r\nOf the … [+7214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Hogwarts Legacy Nintendo Switch 1 vs. Switch 2 comparison trailer - Nintendo Everything",
+      "description": "Warner Bros. publishes official Hogwarts Legacy Nintendo Switch 1 vs. Switch 2 comparison trailer showing improved graphics and more.",
+      "url": "https://nintendoeverything.com/hogwarts-legacy-nintendo-switch-1-vs-switch-2-comparison-trailer/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Hogwarts-Legacy-Switch-vs-Switch-2.jpg",
+      "publishedAt": "2025-05-14T06:57:35Z",
+      "content": "Warner Bros. and Avalanche Software have shared an official comparison trailer for Hogwarts Legacy on Nintendo Switch 1 and Switch 2.\r\nThe video shows graphical updates and smoother performance on th… [+1583 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sean O'Kane",
-      "title": "Google’s bringing Gemini to your car with Android Auto - TechCrunch",
-      "description": "Google is bringing Gemini, its generative AI, to all cars that support Android Auto in the next few months, the company announced at its Android Show",
-      "url": "https://techcrunch.com/2025/05/13/googles-bringing-gemini-to-your-car-with-android-auto/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/google-gemini-android-auto.jpg?resize=1200,675",
-      "publishedAt": "2025-05-13T17:00:00Z",
-      "content": "Google is bringing Gemini, its generative AI, to all cars that support Android Auto in the next few months, the company announced at its Android Show ahead of the company’s 2025 I/O developer confere… [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Dave Stopera",
-      "title": "These 26 Absolutely Mind-Blowing Photos Just Completely And Totally Shattered My Entire View Of The World Last Week - BuzzFeed",
-      "description": "Purely fascinating.",
-      "url": "https://www.buzzfeed.com/daves4/fascinating-pictures-may-13-2025",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/13/16/thumb/0x6FoW-iF.jpg?crop=2490:1303;5,357%26downsize=1250:*",
-      "publishedAt": "2025-05-13T16:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "‘Most’ Best Buys will have extra Switch 2s available in-store - The Verge",
-      "description": "Best Buy says that “most stores” will have a “limited inventory” of Nintendo Switch 2 systems when it opens up for the midnight launch of the console.",
-      "url": "https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKR001_NINTENDO_SWITCH_4_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-13T16:21:16Z",
-      "content": "Most stores will have limited inventory of systems, games, and accessories for in-store purchase.\r\nMost stores will have limited inventory of systems, games, and accessories for in-store purchase.\r\nI… [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Alana Hagues",
-      "title": "Looks Like 'Bravely Default' On Switch 2 Will Still Have 0% Encounter Toggle - Nintendo Life",
-      "description": "Update: Reports from PAX confirm",
-      "url": "https://www.nintendolife.com/news/2025/05/looks-like-bravely-default-on-switch-2-will-still-have-0percent-encounter-toggle",
-      "urlToImage": "https://images.nintendolife.com/6bc03b201a711/large.jpg",
-      "publishedAt": "2025-05-13T15:45:00Z",
-      "content": "Image: Square Enix\r\nUpdate [Tue 13th May 2025, 4:45pm]:\r\nFolks, don't panic it sounds like Bravely Default: Flying Fairy HD Remaster will actually allow you to toggle the encounter rate all the way t… [+3148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Universal Music Group and Apple Music announce Sound Therapy - Apple",
-      "description": "Apple Music is joining forces with Universal Music Group to introduce Sound Therapy.",
-      "url": "https://www.apple.com/newsroom/2025/05/universal-music-group-and-apple-music-announce-sound-therapy/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/05/universal-music-group-and-apple-music-announce-sound-therapy/tile/Apple-Music-Sound-Therapy-hero-lp.jpg.og.jpg?202505131501",
-      "publishedAt": "2025-05-13T15:01:20Z",
-      "content": "May 13, 2025\r\nUPDATE\r\nUniversal Music Group and Apple Music announce Sound Therapy\r\nThe collection leverages cognitive science and UMGs roster of global superstars, adding subtle auditory beats to we… [+6795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Jason Fanelli",
-      "title": "The Best And Wildest Grand Theft Auto 6 Theories We've Seen So Far - GameSpot",
-      "description": "Even with limited footage and screens, the GTA community has some big ideas for the next game.",
-      "url": "https://www.gamespot.com/gallery/gta-6-fan-theories/2900-6585/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4492589-header.jpg",
-      "publishedAt": "2025-05-13T14:52:15Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Spotify.com"
-      },
-      "author": "Aurelie.Corinthios@groupsjr.com",
-      "title": "Spotify’s DJ Now Takes Requests, Enhancing Real-Time Music Discovery - Spotify",
-      "description": "People all over the world love DJ. At the gym, at home, whenever and wherever you want a deeper experience with great music, DJ is the answer. In fact, DJ listener engagement has nearly doubled over the past year—it’s like having a personal musical friend who…",
-      "url": "https://newsroom.spotify.com/2025-05-13/dj-voice-requests/",
-      "urlToImage": "https://storage.googleapis.com/pr-newsroom-wp/1/2025/05/Copy-of-SPIDJ_Record_PR_Header_1440x550.jpg",
-      "publishedAt": "2025-05-13T13:18:07Z",
-      "content": "People all over the world love DJ. At the gym, at home, whenever and wherever you want a deeper experience with great music, DJ is the answer. In fact, DJ listener engagement has nearly doubled over … [+2722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple unveils powerful accessibility features coming later this year - Apple",
-      "description": "Apple today announced new accessibility features coming later this year, including Accessibility Nutrition Labels.",
-      "url": "https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/tile/Apple-accessibility-features-hero-lp.jpg.og.jpg?202505131202",
-      "publishedAt": "2025-05-13T12:03:09Z",
-      "content": "May 13, 2025\r\nPRESS RELEASE\r\nApple unveils powerful accessibility features coming later this year\r\nNew features include Accessibility Nutrition Labels on the App Store, Magnifier for Mac, Braille Acc… [+14273 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "Mavic 4 Pro official: DJI is skipping the US with its most advanced drone yet - The Verge",
-      "description": "DJI is officially announcing the Mavic 4 Pro, a drone with a 360-degree rotating gimbal, and no US release date yet. It will ship in other countries soon.",
-      "url": "https://www.theverge.com/tech/665418/dji-mavic-4-pro-no-us-launch-specs-price-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/dji-mavic-4-pro.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-13T12:00:00Z",
-      "content": "The Mavic 4 Pro is coming to Canada and Mexico, but not the USA (for now).\r\nThe Mavic 4 Pro is coming to Canada and Mexico, but not the USA (for now).\r\nToday, DJI is officially announcing the Mavic 4… [+10348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Tom Phillips",
-      "title": "Remedy opens sign-ups to test Control multiplayer spin-off FBC: Firebreak - Eurogamer",
-      "description": "Control developer Remedy has now opened a sign-up process to test FBC: Firebreak, its upcoming multiplayer spin-off.",
-      "url": "https://www.eurogamer.net/remedy-opens-sign-ups-to-test-control-multiplayer-spin-off-fbc-firebreak",
-      "urlToImage": "https://assetsio.gnwcdn.com/FBC_Firebreak_March_3SS_03.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-05-13T11:53:13Z",
-      "content": "Fancy testing FBC: Firebreak this weekend? Control developer Remedy has now opened a sign-up process for its upcoming Control multiplayer spin-off to let you do just that.\r\nFBC: Firebreak's first clo… [+1361 chars]"
+      "author": "Maxwell Zeff",
+      "title": "Google tests replacing ‘I’m Feeling Lucky’ with ‘AI Mode’ - TechCrunch",
+      "description": "Google is testing a redesign of its homepage in which an experimental AI-powered search feature replaces its \"I'm Feeling Lucky\" button.",
+      "url": "https://techcrunch.com/2025/05/13/google-tests-replacing-im-feeling-lucky-with-ai-mode/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/06/google-search-magnifying-glass.png?resize=1200,638",
+      "publishedAt": "2025-05-13T22:26:26Z",
+      "content": "Google is testing a redesign of its Search homepage in which “AI Mode,” the experimental AI-powered search feature the company rolled out earlier in May, replaces its longstanding “I’m Feeling Lucky”… [+665 chars]"
     }
   ]
 }
