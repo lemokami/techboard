@@ -1,84 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 28,
+  "totalResults": 49,
   "articles": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Ryan Whitwam",
-      "title": "Google DeepMind creates super-advanced AI that can invent new algorithms - Ars Technica",
-      "description": "AlphaEvolve has already made Google’s data centers more efficient and improved Tensor chips.",
-      "url": "https://arstechnica.com/ai/2025/05/google-deepmind-creates-super-advanced-ai-that-can-invent-new-algorithms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/alphaevolve-1152x648.jpg",
-      "publishedAt": "2025-05-14T21:01:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Material 3 Expressive drops nav drawers on phones as short bottom bars return - 9to5Google",
-      "description": "Google released new and updated components for Material 3 Expressive, with several changes that impact what's recommended for app navigation.",
-      "url": "http://9to5google.com/2025/05/14/material-3-expressive-navigation/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Alarms-App.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-14T20:16:00Z",
-      "content": "Google released new and updated components for Material 3 Expressive, with several changes that impact what’s recommended for navigation in apps.\r\nBottom bars are officially referred to as navigation… [+1937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "New 2025 iPad Now Costs Less Than AirPods Pro, Amazon Clears Out Stock - Gizmodo",
-      "description": "You can finally treat yourself to an Apple product that no longer costs a fortune.",
-      "url": "https://gizmodo.com/new-2025-ipad-now-costs-less-than-airpods-pro-amazon-clears-out-stock-2000602403",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/ipad-.jpg",
-      "publishedAt": "2025-05-14T20:05:54Z",
-      "content": "It’s incredible to receive a brand-new 2025 iPad (which is powered by Apple’s advanced A16 chip) at an all-time low price on Amazon. Originally listed for $349 for the 128GB WiFi model, this 11-inch … [+2188 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Richard Lawler",
-      "title": "Microsoft starts testing ‘Hey, Copilot!’ in Windows - The Verge",
-      "description": "Microsoft’s AI assistant is getting support for a wake word in Windows 11, “Hey, Copilot.”",
-      "url": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Hey-Copilot-approved.jpg?quality=90&strip=all&crop=4%2C17.701315824692%2C88.4%2C82.298684175308&w=1200",
-      "publishedAt": "2025-05-14T19:48:22Z",
-      "content": "Beta testers can try hands-free access to the AI app in Windows 11.\r\nBeta testers can try hands-free access to the AI app in Windows 11.\r\nMicrosoft is testing a feature for Copilot Voice that will le… [+1400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "See full bio",
-      "title": "89 Million Steam Accounts Allegedly Compromised in a Data Breach. Our Advice: Change Your Password Now - CNET",
-      "description": "Changing your password is a good start, but there are other steps you should take to protect yourself.",
-      "url": "https://www.cnet.com/tech/services-and-software/89-million-steam-accounts-allegedly-compromised-in-a-data-breach-our-advice-change-your-password-now/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c9034b8a2d8895cbc2776457d8f72a3703ad4437/hub/2025/05/14/8843feac-f094-4fb6-9622-7a943db60da7/gettyimages-1234720850.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-14T18:19:00Z",
-      "content": "A recent data breach has reportedly affected users of Steam, Valve's wildly popular online gaming store and distribution platform.  \r\nThe origin of the breach has not yet been confirmed, and Valve di… [+1667 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Paresh Dave",
-      "title": "Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots - WIRED",
-      "description": "Microsoft is limiting access to tools that boosted its rivals, but larger customers like DuckDuckGo say they won’t be affected.",
-      "url": "https://www.wired.com/story/bing-microsoft-api-support-ending/",
-      "urlToImage": "https://media.wired.com/photos/6824b3007c780e4b8a79335f/191:100/w_1280,c_limit/bing-biz-1258297934.jpg",
-      "publishedAt": "2025-05-14T18:15:46Z",
-      "content": "Through the Bing APIs, Microsoft helped other search engines save on the cost and time of crawling billions of web pages and developing a searchable index of all available content. The tools allowed … [+2667 chars]"
+      "author": "Jason Schreier",
+      "title": "PlayStation Executive Jade Raymond Leaves Studio She Founded - Bloomberg.com",
+      "description": "Her company, Haven Studios, is developing an online shooter title called Fairgames",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-15/playstation-executive-jade-raymond-leaves-studio-she-founded",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iayq_ueeokbA/v1/1200x800.jpg",
+      "publishedAt": "2025-05-15T21:16:10Z",
+      "content": "Jade Raymond, the founder and head of Sony Group Corp.s game developer Haven Studios, has left the company. \r\nPlayStation leadership didnt give Haven staff a reason for her departure, but it came sev… [+321 chars]"
     },
     {
       "source": {
@@ -86,155 +21,103 @@
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
-      "title": "12 Games Are Coming To PS Plus Game Catalog Next Week - Kotaku",
-      "description": "Technically, the STALKER trilogy is three games so that's why its 12 and not 10",
-      "url": "https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/957f2bbd5d3a7e85548176fda70b54b3.jpg",
-      "publishedAt": "2025-05-14T17:45:00Z",
-      "content": "Summer doesnt officially start until later in June, but around where I live the days are getting hotter and the nights arent as cool as before. Thats fine. I dont need the outdoors. Ive got new PS Pl… [+1626 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "New Switch 2 specs show large performance dip in undocked mode - Ars Technica",
-      "description": "Digital Foundry also says Game Chat “has a significant impact on system resources.”…",
-      "url": "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-9.17.48 AM-1152x648.png",
-      "publishedAt": "2025-05-14T16:40:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Readies Feature That Lets Vision Pro Users Scroll With Their Eyes - Bloomberg",
-      "description": "Apple Inc. is developing a feature for its Vision Pro headset that lets users scroll through software with their eyes, aiming to enhance the device with a novel interface.",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-14/apple-readies-feature-that-lets-vision-pro-users-scroll-with-their-eyes",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyLU9LpSnWNY/v2/1200x799.jpg",
-      "publishedAt": "2025-05-14T16:27:00Z",
-      "content": "Apple Inc. is developing a feature for its Vision Pro headset that lets users scroll through software with their eyes, aiming to enhance the device with a novel interface.\r\nThe eye-scrolling capabili… [+274 chars]"
+      "title": "Nintendo Of America President Won't Commit To Switch 2 Staying $450 After Launch - Kotaku",
+      "description": "Prices might go up due to ongoing tariffs, but Doug Bowser won't say specifically",
+      "url": "https://kotaku.com/nintendo-switch-2-450-price-increase-sold-out-tariffs-1851780934",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ec7d356f4826f264c91a1224c2324be5.jpg",
+      "publishedAt": "2025-05-15T21:15:00Z",
+      "content": "The Nintendo Switch 2 is launching in a few weeks in the United States. It will cost $450, a price some think is too high. But that price could go up in the near future as President Trump continues e… [+1804 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Ben Schoon",
-      "title": "Android Auto prepares media player change that might ruin your muscle memory - 9to5Google",
-      "description": "Google is preparing a potential change to Android Auto that shuffles the media player buttons around, breaking muscle memory.",
-      "url": "http://9to5google.com/2025/05/14/android-auto-media-player-buttons-beta-change/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/android-auto-dashboard-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-14T16:05:00Z",
-      "content": "A new change in Android Auto is in development, with the buttons for the media player potentially being shuffled around which could impact muscle memory.\r\nTypically with media players, buttons are la… [+1056 chars]"
+      "author": "Ethan Gach",
+      "title": "GTA 6 Needed More Time To Achieve Vision With 'No Limits' And Probably Won't Be Delayed Again - Kotaku",
+      "description": "Take-Two's CEO said the game didn't really start development until 2020",
+      "url": "https://kotaku.com/gta-6-delay-development-red-dead-online-release-date-1851780943",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7496ec9ecfbef32f8b5e7370f2eec416.png",
+      "publishedAt": "2025-05-15T21:10:00Z",
+      "content": "One of the biggest questions coming into 2025 was whether Grand Theft Auto 6 would somehow get delayed. Earlier this month, Rockstar Games revealed it would. The head of its parent company now says t… [+1841 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "GlobeNewswire"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "UBISOFT ENTERTAINMENT",
-      "title": "Ubisoft Reports Full-Year 2024-25 Earnings Figures - GlobeNewswire",
-      "description": "UBISOFT REPORTS FULL-YEAR 2024-25 EARNINGS FIGURES   Assassin’s Creed® Shadows release prompted very strong praise from players and delivered a solid......",
-      "url": "https://www.globenewswire.com/news-release/2025/05/14/3081367/0/en/Ubisoft-Reports-Full-Year-2024-25-Earnings-Figures.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f1ecaaa3-2a0f-46bf-8518-bccea1d729ee",
-      "publishedAt": "2025-05-14T15:41:01Z",
-      "content": "UBISOFT REPORTS FULL-YEAR 2024-25 EARNINGS FIGURES \r\nAssassins Creed® Shadows release prompted very strong praise from players and delivered a solid performance, clearly ahead of Assassins Creed® Ody… [+47291 chars]"
+      "author": "Alana Yzola",
+      "title": "EA Tried to Stop an ‘Anti-DEI Mod’ for ‘The Sims 4’—but More Keep Surfacing - WIRED",
+      "description": "The download automatically changed Black NPCs to white, trans NPCs to cis-gendered, and gay NPCs to straight. And it's just the beginning.",
+      "url": "https://www.wired.com/story/ea-tried-to-stop-an-anti-dei-mod-for-the-sims-4-but-more-keep-surfacing/",
+      "urlToImage": "https://media.wired.com/photos/681a64f82d86dd4e461dbae8/191:100/w_1280,c_limit/Sims-DEI-Replacement-Culture.jpg",
+      "publishedAt": "2025-05-15T20:10:00Z",
+      "content": "A mod forThe Sims 4 that removed LGBT and Black nonplayable characters (NPCs) from the game and automatically changed them to straight and white, respectively, has reappeared in spite of EA's attempt… [+3134 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Ash Parrish",
-      "title": "Square Enix cancels Kingdom Hearts mobile game - The Verge",
-      "description": "Square Enix has announced that it is cancelling its mobile game Kingdom Hearts Missing Link while assuring players Kingdom Hearts 4 development is going well.",
-      "url": "https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/KHML02.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-05-14T15:22:03Z",
-      "content": "But Squares hard at work on KH4 and a new project too.\r\nBut Squares hard at work on KH4 and a new project too.\r\nSquare Enix has announced that it is cancelling the mobile spinoff Kingdom Hearts Missi… [+2035 chars]"
+      "author": "Elizabeth Lopatto",
+      "title": "Thanks, Trump tariffs, now I gotta replace my phone battery - The Verge",
+      "description": "With the risk of shortages and price increases looming over me, I had to make some buying decisions. Which made me wonder: why are iPhones still hard to repair?",
+      "url": "https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22023425/vpavic_4279_20201108_0321.jpg?quality=90&strip=all&crop=2.8%2C10.132974918047%2C93.2%2C73.194860947189&w=1200",
+      "publishedAt": "2025-05-15T19:55:19Z",
+      "content": "Hard to repair phones are inexcusable now.\r\nAfter five years, I was still happy with my phone, even though its battery had started the inevitable process of slowing to a stop. But Donald Trumps tarif… [+5615 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Kyle Burke",
+      "title": "Hideo Kojima wishes Death Stranding 2 playtesters found him ‘a bit more controversial’ - Polygon",
+      "description": "Even though Sony is pleased with Death Stranding 2’s early reception, Kojima is on a mission to create something truly unique.",
+      "url": "https://www.polygon.com/gaming/599342/hideo-kojima-death-stranding-2-on-the-beach-mainstream",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/ds2-sam-lou-kiss.jpg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-05-15T19:41:18Z",
+      "content": "Hideo Kojima, known for his unconventional approach to game design, does not seem to believe in crowd-pleasers. Despite that, Death Stranding 2: On the Beach might become a mainstream hit.\r\nVGC repor… [+2356 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "GSMArena.com"
+      },
+      "author": "Prasad",
+      "title": "Sony announces WH-1000XM6 wireless noise-canceling headphones - GSMArena.com news - GSMArena.com",
+      "description": "New design, new sound, new price. Sony has announced the WH-1000XM6, the latest flagship in the company's popular range of wireless noise-canceling...",
+      "url": "https://www.gsmarena.com/sony_announces_wh1000xm6_wireless_noisecanceling_headphones-news-67812.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/05/sony-1000xm6/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-05-15T19:37:02Z",
+      "content": "Sony has announced the WH-1000XM6, the latest flagship in the company's popular range of wireless noise-canceling headphones. The XM6 improve in almost every single way over their predecessors but al… [+2484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fb.com"
       },
       "author": null,
-      "title": "Android 16's new 90:10 split-screen is a game-changer for multitasking - Android Authority",
-      "description": "Google is working on a big upgrade to split-screen mode in Android 16 that adds a 90:10 split ratio, and here's a first look.",
-      "url": "https://www.androidauthority.com/android-16-90-10-split-screen-3557268/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/Split-screen-mode-in-Android-hero-image-scaled.jpg",
-      "publishedAt": "2025-05-14T15:12:23Z",
-      "content": "<ul><li>Google is developing a new split-screen mode for Android 16 that aims to improve multitasking on phone displays by using a 90:10 ratio.</li><li>This allows one app to dominate the screen whil… [+2935 chars]"
+      "title": "Introducing Pyrefly: A new type checker and IDE experience for Python - Engineering at Meta Blog",
+      "description": "Today we are announcing an alpha version of Pyrefly, an open source Python type checker and IDE extension crafted in Rust. Pyrefly is a static typechecker that analyzes Python code to ensure type c…",
+      "url": "https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/",
+      "urlToImage": "https://engineering.fb.com/wp-content/uploads/2025/05/Pyrefly-Feature-Image.jpg",
+      "publishedAt": "2025-05-15T18:34:01Z",
+      "content": "Today we are announcing an alpha version of Pyrefly, an open source Python type checker and IDE extension crafted in Rust. Pyrefly is a static typechecker that analyzes Python code to ensure type con… [+5033 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "San Francisco Chronicle"
       },
-      "author": "Ed Bott",
-      "title": "Windows 10 and Microsoft 365 support deadlines didn't change - why this story just won't die - ZDNet",
-      "description": "No, Microsoft has not changed Windows 10 or Microsoft 365 support deadlines. Here's what actually happened.",
-      "url": "https://www.zdnet.com/article/windows-10-and-microsoft-365-support-deadlines-didnt-change-why-this-story-just-wont-die/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fde4246e3ba9b22673fbe81500000bb929df36b5/2025/05/13/9610a676-d12a-4700-b540-28ec19439c72/no-microsoft-has-not-changed-support-deadlines-for-windows-10-or-microsoft-365.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-14T14:24:00Z",
-      "content": "ZDNET\r\nHere we go again. A zombie news story that should have been laid to rest last January has risen from the grave and is walking among us again.\r\nThe original story\r\nIn case you missed the origin… [+4435 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Simon Cardy",
-      "title": "'FOMO Has Infected Modern Games,' Says Remedy Director of FBC: Firebreak - IGN",
-      "description": "Mike Kayatta, game director of Remedy’s upcoming FBC: Firebreak, supports the notion of making games \"that respect player time and don't try to overcharge.\"",
-      "url": "https://www.ign.com/articles/fomo-has-infected-modern-games-says-remedy-director-of-fbc-firebreak",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/14/firebreak-news-blog-1747223966033.jpg?width=1280",
-      "publishedAt": "2025-05-14T13:00:59Z",
-      "content": "Mike Kayatta, game director of Remedys upcoming FBC: Firebreak, supports the notion of making games \"that respect player time and don't try to overcharge.\"\r\nThis suggestion comes in the wake of a flu… [+5126 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Helldivers 2 PlayStation Leak Suggests Players Will Fight Against the Illuminate on Super Earth Itself Next Week — and Now Gameplay of Super Earth Mega Cities Has Leaked, Too - IGN Southeast Asia",
-      "description": "Loose lips sink ships.",
-      "url": "https://sea.ign.com/helldivers-ii/227654/news/helldivers-2-playstation-leak-suggests-players-will-fight-against-the-illuminate-on-super-earth-itse",
-      "urlToImage": "https://sm.ign.com/t/ign_ap/news/h/helldivers/helldivers-2-playstation-leak-suggests-players-will-fight-ag_g1k8.1200.png",
-      "publishedAt": "2025-05-14T12:06:07Z",
-      "content": "Eagle-eyed Helldivers 2 fans have spotted what looks like a leak from PlayStation that suggests players will end up fighting back against the Illuminate on the streets of Super Earth.\r\nThis week, dev… [+2684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Angharad Redden",
-      "title": "GTA 6 map comparison leaves fans absolutely floored - GAMINGbible",
-      "description": "One fan has compiled a bunch of screenshots showing how accurate GTA VI will be to real life",
-      "url": "https://www.gamingbible.com/news/gta-6-map-comparison-422069-20250514",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd02c3400928da4ca/68245700f428cd0bd405dfe6/Screenshot_2025-05-14_at_09.38.39.png",
-      "publishedAt": "2025-05-14T08:59:12Z",
-      "content": "The second official trailer for Grand Theft Auto VI gave us more insight into what we can expect when the highly-anticipated title finally releases next year.\r\nWe got to see more of our brand-new pro… [+1656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Internet"
-      },
-      "author": "The Hacker News",
-      "title": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server - The Hacker News",
-      "description": "Microsoft patched 78 flaws, including 5 exploited zero-days, prompting CISA mandates for June 3 fixes.",
-      "url": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuG1FlWcHuSdTpgw5oeAY68yYuCSI5FgWxSR-VYV839hL-CkrqO0kdndW2oc51bwS2Gf_6LinSe7POQrnfAw1X3xxqxQE5hzQdajYSMXi6ykh-GMiLsBq88Tp64XQ7cfBlaXxsl7rYv4DhSlnIC93ShugEQzg1RlVPGotGfd2o6RhMj49yMTVVmw2ZV5Q8/s728-rw-e365/windows.jpg",
-      "publishedAt": "2025-05-14T08:14:00Z",
-      "content": "Microsoft on Tuesday shipped fixes to address a total of 78 security flaws across its software lineup, including a set of five zero-days that have come under active exploitation in the wild.\r\nOf the … [+7214 chars]"
+      "author": "Roland Li",
+      "title": "Nintendo’s new store is now open in S.F.’s Union Square. Here’s a look inside - San Francisco Chronicle",
+      "description": "Nintendo opens its second U.S. store in San Francisco’s Union Square, says it will have Switch 2 consoles in June.",
+      "url": "https://www.sfchronicle.com/sf/article/nintendo-store-union-square-20311778.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/50/27/32/27358858/3/rawImage.jpg",
+      "publishedAt": "2025-05-15T18:31:07Z",
+      "content": "Nintendos new store opens in San Franciscos Union Square on Thursday. Its the Japanese video game companys second store in the United States.\r\nGabrielle Lurie/S.F. Chronicle\r\nFrom left, Zhao Wenting,… [+6773 chars]"
     },
     {
       "source": {
@@ -242,25 +125,142 @@
         "name": "Nintendoeverything.com"
       },
       "author": "Brian",
-      "title": "Hogwarts Legacy Nintendo Switch 1 vs. Switch 2 comparison trailer - Nintendo Everything",
-      "description": "Warner Bros. publishes official Hogwarts Legacy Nintendo Switch 1 vs. Switch 2 comparison trailer showing improved graphics and more.",
-      "url": "https://nintendoeverything.com/hogwarts-legacy-nintendo-switch-1-vs-switch-2-comparison-trailer/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Hogwarts-Legacy-Switch-vs-Switch-2.jpg",
-      "publishedAt": "2025-05-14T06:57:35Z",
-      "content": "Warner Bros. and Avalanche Software have shared an official comparison trailer for Hogwarts Legacy on Nintendo Switch 1 and Switch 2.\r\nThe video shows graphical updates and smoother performance on th… [+1583 chars]"
+      "title": "Nintendo shows updated design for Diddy Kong - Nintendo Everything",
+      "description": "Diddy Kong has received an updated design with some changes including the removal of the Nintendo logo on his hat.",
+      "url": "https://nintendoeverything.com/nintendo-shows-updated-design-for-diddy-kong/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/new-Diddy-Kong-design.png",
+      "publishedAt": "2025-05-15T18:01:21Z",
+      "content": "Donkey Kong is getting a brand new design for Donkey Kong Bananza on Nintendo Switch 2, and it now appears that Nintendo is updating the look for Diddy Kong as well. However, the adjustments are much… [+779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Heroes of the Storm Live Patch Notes - May 15, 2025 - Blizzard News",
+      "description": "Our next Heroes of the Storm patch is live! Read on for more information.",
+      "url": "https://news.blizzard.com/en-us/article/24205005/heroes-of-the-storm-live-patch-notes-may-15-2025",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/g8/G8NAM4UMWQ0D1620254978629.png",
+      "publishedAt": "2025-05-15T17:23:00Z",
+      "content": "Our next Heroes of the Storm patch is live! Read on for more information.\r\nNOTE: Orange text indicates a change between PTR and Live notes.\r\nQuick Navigation:\r\nGeneral\r\n<ul><li>Anduin has replaced Ma… [+13773 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Garmin announces new Forerunner watches with splashy colors and running metrics - The Verge",
+      "description": "Garmin announced the $749.99 Forerunner 970 and the $549.99 Forerunner 570 with bolder colors, mics and speakers, and several new running and triathlon features.",
+      "url": "https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/garminforerunner970.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "publishedAt": "2025-05-15T17:05:03Z",
+      "content": "Garmins new running economy, running tolerance, and step speed loss metrics arent paywalled either.\r\nGarmins new running economy, running tolerance, and step speed loss metrics arent paywalled either… [+3604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Zach Vallese",
+      "title": "YouTube launches weekly top podcast list to rival Spotify and Apple - CNBC",
+      "description": "Podcasts such as \"The Joe Rogan Experience,\" \"Kill Tony\" and \"Rotten Mango\" currently top the YouTube chart.",
+      "url": "https://www.cnbc.com/2025/05/15/youtube-top-podcast.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146149-1747324974303-gettyimages-2203987828-mhay4538_tluavci4.jpeg?v=1747330496&w=1920&h=1080",
+      "publishedAt": "2025-05-15T17:01:25Z",
+      "content": "YouTube is solidifying its place in podcasts.\r\nThe company on Thursday announced the launch of a weekly top podcast shows chart, rivaling those from Spotify and Apple.\r\nPodcasts such as \"The Joe Roga… [+1403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Michael L Hicks",
+      "title": "Google remembered why people wanted the Pixel Watch to begin with - Android Central",
+      "description": "The Pixel Watch 3 went heavy on Fitbit and running. That appealed to me, but Google remembered that Pixel fans need more.",
+      "url": "https://www.androidcentral.com/wearables/material-3-expressive-is-return-to-form-pixel-watch-4-needs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JTfEXWyxpsbS2HBdq8bBG6.jpg",
+      "publishedAt": "2025-05-15T17:00:00Z",
+      "content": "My weekly column focuses on the state of Wear OS, from new developments and updates to the latest apps and features we want to highlight.\r\nGoogle is redesigning how Wear OS will look on Pixel Watches… [+5462 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Maxwell Zeff",
-      "title": "Google tests replacing ‘I’m Feeling Lucky’ with ‘AI Mode’ - TechCrunch",
-      "description": "Google is testing a redesign of its homepage in which an experimental AI-powered search feature replaces its \"I'm Feeling Lucky\" button.",
-      "url": "https://techcrunch.com/2025/05/13/google-tests-replacing-im-feeling-lucky-with-ai-mode/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/06/google-search-magnifying-glass.png?resize=1200,638",
-      "publishedAt": "2025-05-13T22:26:26Z",
-      "content": "Google is testing a redesign of its Search homepage in which “AI Mode,” the experimental AI-powered search feature the company rolled out earlier in May, replaces its longstanding “I’m Feeling Lucky”… [+665 chars]"
+      "author": "Aisha Malik",
+      "title": "Google rolls out new AI and accessibility features to Android and Chrome - TechCrunch",
+      "description": "Google announced on Thursday that it's rolling out new AI and accessibility features to Android and Chrome. Most notably, TalkBack, Android’s screen",
+      "url": "https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "publishedAt": "2025-05-15T16:00:00Z",
+      "content": "Google announced on Thursday that it’s rolling out new AI and accessibility features to Android and Chrome. Most notably, TalkBack, Androids screen reader, now lets you ask Gemini about what’s in ima… [+2224 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft’s simplified Surface lineup puts another device on the chopping block - The Verge",
+      "description": "Microsoft is no longer manufacturing the Surface Laptop Studio 2. It’s part of a number of Surface devices that have been axed in recent years.",
+      "url": "https://www.theverge.com/notepad-microsoft-newsletter/667664/surface-laptop-studio-2-end-of-life-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24971059/236818_Surface_Laptop_Studio_2_AKrales_0061.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-15T16:00:00Z",
+      "content": "The Surface Laptop Studio 2 is no longer being manufactured and theres no replacement in sight.\r\nThe Surface Laptop Studio 2 is no longer being manufactured and theres no replacement in sight.\r\nMicro… [+13582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Bandai Namco's cancelled MMORPG Blue Protocol will release outside of Japan this year - Eurogamer",
+      "description": "Bandai Namco's cancelled anime MMORPG Blue Protocol will release on PC and mobile this year outside of Japan, in Europe…",
+      "url": "https://www.eurogamer.net/bandai-namcos-cancelled-mmorpg-blue-protocol-will-release-outside-of-japan-this-year",
+      "urlToImage": "https://assetsio.gnwcdn.com/blue-protocol-battle.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-15T16:00:00Z",
+      "content": "Bandai Namco's cancelled anime MMORPG Blue Protocol will release on PC and mobile this year outside of Japan, in Europe, North America and Latin America.\r\nIn August last year, the publisher stated it… [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Persona 5: The Phantom X coming to PC and mobile next month - Eurogamer",
+      "description": "Persona 5: The Phantom X, the spin-off mobile and PC game, now has a global release date.",
+      "url": "https://www.eurogamer.net/persona-5-the-phantom-x-coming-to-pc-and-mobile-next-month",
+      "urlToImage": "https://assetsio.gnwcdn.com/P5X-News--First-announcement!-We%E2%80%99re-the-Phantom-Thieves%2C-and-we%E2%80%99re-here-to-steal-your-heart!--0-43-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-15T15:21:02Z",
+      "content": "Persona 5: The Phantom X, the spin-off mobile and PC game, now has a global release date.\r\nAs revealed in a livestream today, the free-to-play game will release globally on 26th June and will be avai… [+2363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Playstation.com"
+      },
+      "author": "https://blog.playstation.com/author/dlee-2/",
+      "title": "Stellar Blade launches June 11 on PC, specs and features revealed - PlayStation.Blog",
+      "description": "Includes new outfits, which will launch on PS5 the same day as part of a game update.",
+      "url": "https://blog.playstation.com/2025/05/15/stellar-blade-launches-june-11-on-pc-specs-and-features-revealed/",
+      "urlToImage": "https://blog.playstation.com/tachyon/2025/05/4e92c324bc7c98468ca167e44cfe36bda8c0d0af.jpg",
+      "publishedAt": "2025-05-15T15:02:11Z",
+      "content": "On June 11, the PC version of Stellar Blade will be released*. The PC version of Stellar Blade will support several new features and introduce exciting additional content. This additional content wil… [+4701 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Threads now lets creators add up to 5 links to profiles, track clicks - TechCrunch",
+      "description": "Instagram Threads is taking on Linktree and other \"link-in-bio\" solutions by introducing a way for creators to use their Threads profile to share links to",
+      "url": "https://techcrunch.com/2025/05/15/threads-now-lets-creators-add-up-to-5-links-to-profiles-track-clicks/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1507106681.jpg?resize=1200,801",
+      "publishedAt": "2025-05-15T15:00:00Z",
+      "content": "Instagram Threads is taking on Linktree and other “link-in-bio” solutions by introducing a way for creators to use their Threads profile to share links to their other interests and online presences. … [+1841 chars]"
     }
   ]
 }
