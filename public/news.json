@@ -1,84 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 53,
+  "totalResults": 67,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Farmingdale-observer.com"
-      },
-      "author": null,
-      "title": "This glass chandelier from IKEA is on everyone’s lips, and it’s easy to see why. - Farmingdale Observer",
-      "description": "The STOCKHOLM collection by IKEA has just unveiled its 2025 edition, marking 40 years of Scandinavian design excellence. Among the 96 meticulously crafted pieces, one item stands out as the crown jewel: the glass pendant lamp. This sculptural lighting fixture…",
-      "url": "https://farmingdale-observer.com/2025/05/17/this-glass-chandelier-from-ikea-is-on-everyones-lips-and-its-easy-to-see-why/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-17T21:31:00Z",
-      "content": "The STOCKHOLM collection by IKEA has just unveiled its 2025 edition, marking 40 years of Scandinavian design excellence. Among the 96 meticulously crafted pieces, one item stands out as the crown jew… [+3659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Nintendo explains why it chose Mario Kart World as its Switch 2 launch game - Nintendo Everything",
-      "description": "When Nintendo Switch 2 launches in just a few weeks, Mario Kart World will be there right alongside it. Nintendo has now spoken about the decision to tie the two together. In a recent interview, Nintendo’s senior vice president of product development Nate Bih…",
-      "url": "https://nintendoeverything.com/nintendo-explains-why-it-chose-mario-kart-world-as-its-switch-2-launch-game/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-Switch-2-launch.jpg",
-      "publishedAt": "2025-05-17T20:01:47Z",
-      "content": "When Nintendo Switch 2 launches in just a few weeks, Mario Kart World will be there right alongside it. Nintendo has now spoken about the decision to tie the two together.\r\nIn a recent interview, Nin… [+2354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Sammy Barker",
-      "title": "Inquiry Already Underway Over Lacklustre DOOM: The Dark Ages Opening - Push Square",
-      "description": "Rip and tear",
-      "url": "https://www.pushsquare.com/news/2025/05/inquiry-already-underway-over-lacklustre-doom-the-dark-ages-opening",
-      "urlToImage": "https://images.pushsquare.com/60b6884469112/large.jpg",
-      "publishedAt": "2025-05-17T18:00:00Z",
-      "content": "DOOM: The Dark Ages hasnt exactly got off to the strongest start if its Steam concurrent numbers are to go by.\r\nWhile the metric only gives us a small slice of the releases overall performance, its c… [+1554 chars]"
-    },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
       "author": "Wes Davis",
-      "title": "Epic asks judge to make Apple let Fortnite back on the US App Store - The Verge",
-      "description": "Epic accuses Apple of violating a court order not to reject apps over links to external payments and asks for it to be ordered to approve Fortnite, if compliant",
-      "url": "https://www.theverge.com/news/669047/epic-fortnite-filing-apple-app-store-review-order",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK468_APPLE_ANTITRUST_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-17T15:07:05Z",
-      "content": "The company accuses Apple of being in contempt of last months court order.\r\nThe company accuses Apple of being in contempt of last months court order.\r\nEpic is asking District Judge Yvonne Gonzalez R… [+2366 chars]"
+      "title": "Apple is trying to get ‘LLM Siri’ back on track - The Verge",
+      "description": "Bloomberg’s Mark Gurman details why Apple Intelligence is such a disaster and how Apple plans to save it.",
+      "url": "https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-18T23:06:37Z",
+      "content": "Bloombergs Mark Gurman details why Apple Intelligence is such a disaster and how Apple plans to save it.\r\nBloombergs Mark Gurman details why Apple Intelligence is such a disaster and how Apple plans … [+3941 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jonathan Russell Clark",
+      "title": "‘Circular Motion,’ a debut both wildly imaginative and deeply emotional - The Washington Post",
+      "description": "Alex Foster’s first novel is about a futuristic high-speed travel system with troubling global consequences.",
+      "url": "https://www.washingtonpost.com/books/2025/05/18/circular-motion-alex-foster-review/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z7EQOY5VTBGYPIEFOYPE73ZBZQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-05-18T21:00:20Z",
+      "content": "Alex Fosters debut novel, Circular Motion, is precisely 360 pages long, an appropriately exact total for a story about a near future in which international travel has been revolutionized by the westw… [+5238 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "Hackaday"
       },
-      "author": null,
-      "title": "NVIDIA grants RTX 5060 drivers access to media willing to publish ‘previews’ - VideoCardz.com",
-      "description": "No Preview, No Driver: NVIDIA limits RTX 5060 drivers Controversy around RTX 5060 reviews. ASUS RTX 5060 DUAL, Source: ASCII NVIDIA’s RTX 5060 driver situation was already explained, but in case you missed the story: the company has confirmed there won’t be a…",
-      "url": "https://videocardz.com/newz/nvidia-grants-rtx-5060-drivers-access-to-media-willing-to-publish-previews",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/05/RTX-5060-HERO.jpg",
-      "publishedAt": "2025-05-17T14:36:00Z",
-      "content": "Controversy around RTX 5060 reviews.\r\nASUS RTX 5060 DUAL, Source: ASCII\r\nNVIDIA’s RTX 5060 driver situation was already explained, but in case you missed the story: the company has confirmed there wo… [+2702 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "It’s time for Logitech to make a real Forever Mouse - The Verge",
-      "description": "Remember when Logitech CEO Hanneke Faber suggested a “Forever Mouse” and got extreme side-eye? There’s a better way.",
-      "url": "https://www.theverge.com/tech/667173/logitech-forever-mouse-ifixit-repair-parts-editorial",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257737_logitech_mouse__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-17T13:00:00Z",
-      "content": "Logitech needs to do better than its meager deal with iFixit.\r\nLogitech needs to do better than its meager deal with iFixit.\r\nLast fall, Logitech CEO Hanneke Faber was roundly ridiculed after suggest… [+4988 chars]"
+      "author": "Tyler August",
+      "title": "Speed Up Arduino With Clever Coding - Hackaday",
+      "description": "We love Arduino here at Hackaday; they’ve probably done more to make embedded programming accessible to more people than anything else in the history of the field. One thing the Arduino ecosy…",
+      "url": "https://hackaday.com/2025/05/18/speed-up-arduino-with-clever-coding/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/05/arduno-50-feature.png",
+      "publishedAt": "2025-05-18T20:00:00Z",
+      "content": "We love Arduino here at Hackaday; they’ve probably done more to make embedded programming accessible to more people than anything else in the history of the field. One thing the Arduino ecosystem is … [+1333 chars]"
     },
     {
       "source": {
@@ -88,166 +49,49 @@
       "author": "Zak Doffman",
       "title": "Google Chrome Deadline—21 Days To Update Or Stop Using Browser - Forbes",
       "description": "Government mandates all federal staff to update — all 2 billion users should do same.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/05/17/google-chrome-deadline-21-days-to-update-or-stop-using-your-browser/",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/05/18/google-chrome-deadline-21-days-to-update-or-stop-using-your-browser/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6639fdd8a6da362978c38c92/0x0.jpg?format=jpg&crop=997,561,x150,y207,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-17T12:38:22Z",
-      "content": "Update nbow warning for 2 billion Chrome users\r\nNurPhoto via Getty Images\r\nRepublished on May 17 with confirmation of Microsofts emergency fix for Edge and more detail on the vulnerability to ongoing… [+3279 chars]"
+      "publishedAt": "2025-05-18T18:51:18Z",
+      "content": "Update nbow warning for 2 billion Chrome users\r\nNurPhoto via Getty Images\r\nRepublished on May 18 with update now deployed to most users and warnings on the critical step all users must take to make s… [+5181 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "My Nintendo News"
       },
-      "author": "See full bio",
-      "title": "iPhone 17 Pro Rumors and Leaks: Here's What We've Learned So Far - CNET",
-      "description": "There's plenty of speculation about the newest iPhone Pro's release date and specs, plus how tariffs could affect the price.",
-      "url": "https://www.cnet.com/tech/mobile/iphone-17-pro-rumors-and-leaks-heres-what-weve-learned-so-far/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/caf61ae1f5459fa108830f6e9ad568c15975adac/hub/2024/05/06/4d14c079-68c9-43a1-9416-4efaece51346/iphone-17-rumors-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-17T12:00:00Z",
-      "content": "Although the rumored iPhone 17 Air might be getting plenty of attention right now -- so much thinner -- the potential trade-offs of a scaled-back camera and reduced battery life could leave you eyein… [+7081 chars]"
+      "author": "Sickr",
+      "title": "Nintendo shows off unique Switch 2 home screen sounds - My Nintendo News",
+      "description": "Nintendo has uploaded another Nintendo Switch 2-themed video on their new app Nintendo Today. The latest video showcases the unique sounds from the Nintendo Switch 2 Home Screen. When you click icons…",
+      "url": "https://mynintendonews.com/2025/05/18/nintendo-shows-off-switch-2-unique-home-screen-sounds/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_switch_2-1.png?fit=2040%2C1360&ssl=1",
+      "publishedAt": "2025-05-18T17:47:29Z",
+      "content": "[Switch 2]\r\nHere's a demo of the sounds found on the HOME menu.\r\nThe system also plays a sound when it is woken from sleep in docked mode. pic.twitter.com/DdDY4uPaIv\r\n— OatmealDome (@OatmealDome) May… [+8 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "Gematsu"
       },
-      "author": "Sabrina Ortiz",
-      "title": "I've tested the Meta Ray-Bans for months, and these 5 features still amaze me - ZDNET",
-      "description": "I fully committed to Meta Ray-Bans - and I don't regret it.",
-      "url": "https://www.zdnet.com/article/ive-tested-the-meta-ray-bans-for-months-and-these-5-features-still-amaze-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/72dde43964010672487a78a54ec3184615e8c580/2025/05/08/d16d5a7b-2f90-4906-8e96-437a8cc25157/dsc00034.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-17T11:30:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nAs a tech reporter, I attend events and conferences with other gadget aficionados. A telltale sign that a product is good is when reporters and attendees rave about it and even u… [+5946 chars]"
+      "author": "Sal Romano",
+      "title": "Syberia Remastered announced for PS5, Xbox Series, and PC - Gematsu",
+      "description": "Publisher Microids and developers Virtuallyz Gaming and Microids Studio Paris have announced Syberia Remastered, a remake of Benoit Sokal’s point-and-click adventure game classic for PlayStat…",
+      "url": "https://www.gematsu.com/2025/05/syberia-remastered-announced-for-ps5-xbox-series-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/05/Syberia-Remastered-Ann_05-18-25.jpg",
+      "publishedAt": "2025-05-18T17:34:49Z",
+      "content": "About\r\nMore than 20 years after its original release, Syberia is reborn in a fully modernized version. Rediscover its iconic locations and unforgettable characters through a stunning visual overhaul,… [+2670 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Toys"
-      },
-      "author": "Justin Kahn",
-      "title": "Apple’s 13-inch 24GB M4 MacBook Air drops again, now starting at new $1,229 Amazon all-time low ($170 off) - 9to5Toys",
-      "description": "Pricing on the new Apple M4 MacBook Air continues to fluctuate as we ready for the weekend – most configurations are still at the $150 off mark, but others have been bouncing in and around there. That said, Amazon just dropped the Midnight 13-inch 24GB M4 Mac…",
-      "url": "http://9to5toys.com/2025/05/17/apple-13-inch-24gb-m4-macbook-air/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/04/M4-MacBook-Air-deals.jpg?resize=1200%2C628&ssl=1",
-      "publishedAt": "2025-05-17T10:40:27Z",
-      "content": "Pricing on the new Apple M4 MacBook Air continues to fluctuate as we ready for the weekend most configurations are still at the $150 off mark, but others have been bouncing in and around there. That … [+2089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Doffman",
-      "title": "Microsoft Confirms Windows Upgrade Choice—You Must Now Decide - Forbes",
-      "description": "Exciting update or security nightmare — you decide.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/05/17/microsoft-confirms-windows-upgrade-choice-you-must-now-decide/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681394bdbf03979062f145d1/0x0.jpg?format=jpg&crop=1995,1122,x331,y297,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-17T07:24:00Z",
-      "content": "It's decision time.\r\nGetty Images\r\nUpdate: Republished on May 17 with new warnings over the enterprise risks from this new AI upgrade and a game-changing big brother threat to Windows users. \r\nMicros… [+8266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Victor Hristov",
-      "title": "Samsung Galaxy S25 Edge Battery Test Results are out: not as bad as feared - PhoneArena",
-      "description": "The biggest fear about the Galaxy S25 Edge is its small battery size. Is it a deal-breaker? We now have the answer.",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-s25-edge-battery-test-results_id170454",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/170454-wide-two_1200/Samsung-Galaxy-S25-Edge-Battery-Test-Results-are-out-not-as-bad-as-feared.jpg",
-      "publishedAt": "2025-05-17T06:03:10Z",
-      "content": "The biggest fear about the Galaxy S25 Edge is its small battery size. Is it a deal-breaker? We now have the answer.\r\nThe Samsung Galaxy S25 Edge might be the most controversial phone of 2025 with its… [+2044 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Liam Doolan",
-      "title": "Gallery: Nintendo Gives Us A Closer Look At Its New Store In The US - Nintendo Life",
-      "description": "Update: Now open!",
-      "url": "https://www.nintendolife.com/news/2025/05/gallery-nintendo-gives-us-a-closer-look-at-its-new-store-in-the-us",
-      "urlToImage": "https://images.nintendolife.com/f6acd8842fa37/large.jpg",
-      "publishedAt": "2025-05-17T03:00:00Z",
-      "content": "@Pigeon\r\nME: But, Bowser, what is this place? What is it that you do here?\r\nBOWSER: Merchandising.\r\nME: Merchandising? What's that?\r\nBOWSER: Merchandising. Come. I'll show. Open up this door.\r\nRED SH… [+641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
       "author": null,
-      "title": "Doom: The Dark Ages and the challenges of finding new players - BBC",
-      "description": "Doom is one of the most well-known series in gaming but it still has to work to find new players.",
-      "url": "https://www.bbc.com/news/articles/c4gezq2q911o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78bb/live/ed7ac1a0-326b-11f0-8947-7d6241f9fce9.png",
-      "publishedAt": "2025-05-17T00:08:51Z",
-      "content": "Peter Gillibrand &amp; Tom Richardson\r\nSlay, king: Doom's iconic main character has been around since 1993\r\nFew names are as synonymous with video games as Doom.\r\nFirst launched in 1993, the first-pe… [+6186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "Hotfixes: May 16, 2025 — World of Warcraft - Blizzard News",
-      "description": "Here you will find a list of hotfixes that address various issues related to World of Warcraft: The War Within, Cataclysm Classic, Season of Discovery, WoW Classic Era, and Hardcore.",
-      "url": "https://news.blizzard.com/en-us/article/24201420/hotfixes-may-16-2025",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/g3/G3DTD88RGS8E1740619319295.png",
-      "publishedAt": "2025-05-16T23:48:10Z",
-      "content": "Here you'll find a list of hotfixes that address various issues related to World of Warcraft: The War Within, Cataclysm Classic, Season of Discovery, WoW Classic Era, and Hardcore. Some of the hotfix… [+16752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Nicholas MajinTenshinhan Taylor",
-      "title": "With Capcom posting record profits for the fiscal year, might we see the return of any of their other fighting games besides Street Fighter? - eventhubs.com",
-      "description": "We learned a few days ago with Capcom's latest financial report that they have posted record profits for their latest fiscal year due largely to the massively successful February launch of Monster Hunter Wilds.While that was the driving ...",
-      "url": "https://www.eventhubs.com/news/2025/may/16/capcom-record-profits-fighting-game/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/05/15_capcombannert.webp",
-      "publishedAt": "2025-05-16T23:03:24Z",
-      "content": "We learned a few days ago with Capcom's latest financial report that they have posted record profits for their latest fiscal year due largely to the massively successful February launch of Monster Hu… [+11521 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "GameStop will have more Switch 2 stock at launch - The Verge",
-      "description": "GameStop will have additional Switch 2 stock available in-store and online when the console launches on June 5th, according to a post on X.",
-      "url": "https://www.theverge.com/news/668918/gamestop-nintendo-switch-2-stock-in-store-online-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKR001_NINTENDO_SWITCH_4_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-05-16T22:23:37Z",
-      "content": "The company says additional units will be available in-store and online.\r\nThe company says additional units will be available in-store and online.\r\nGameStop will have additional Switch 2 stock availa… [+1106 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "Google I/O 2025: What to expect, including updates to Gemini and Android 16 - TechCrunch",
-      "description": "Google I/O, Google's biggest developer conference of the year, is nearly upon us. Here's what to expect, including updates to Gemini and Android.",
-      "url": "https://techcrunch.com/2025/05/16/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/google-io-generic.jpg?resize=1200,800",
-      "publishedAt": "2025-05-16T22:19:00Z",
-      "content": "Google I/O, Google’s biggest developer conference of the year, is nearly upon us. \r\nScheduled for May 20 to 21 at the Shoreline Amphitheatre in Mountain View, I/O will showcase product announcements … [+3247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Jake Peterson",
-      "title": "I Used 'Cover Your Tracks' to See What's Following Me Online, and Yikes - Lifehacker",
-      "description": "I'm not as anonymous as I thought.",
-      "url": "https://lifehacker.com/tech/cover-your-tracks-see-whos-following-you-online",
-      "urlToImage": "https://lifehacker.com/imagery/articles/01JVD9RV7029HDPCM7YZ8X94J9/hero-image.fill.size_1200x675.jpg",
-      "publishedAt": "2025-05-16T22:00:00Z",
-      "content": null
+      "title": "Metal Detectorists Have Just Discovered The Most Legendary Artifact: A Gold Raven Head - The Daily Galaxy",
+      "description": "A golden raven head with ties to Odin has been unearthed in England, sparking a historical mystery. What does this discovery reveal about Norse mythology?",
+      "url": "https://dailygalaxy.com/2025/05/metal-detectorists-have-just-discovered-the-most-legendary-artifact-a-gold-raven-head/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/05/Metal-Detectorists-Have-Just-Discovered-The-Most-Legendary-Artifact-A-Gold-Raven-Head.jpg",
+      "publishedAt": "2025-05-18T17:00:00Z",
+      "content": "In a stunning discovery reported in Popular Mechanics, metal detectorists Paul Gould and Chris Phillips uncovered an extraordinary golden raven head with a direct connection to Norse mythology. This … [+2950 chars]"
     },
     {
       "source": {
@@ -255,12 +99,168 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Google adds AI Mode to the Search bar on Android, iOS - 9to5Google",
-      "description": "With broader testing underway, the shortcut for launching AI Mode is now in the Google app’s Search bar on Android and iOS.",
-      "url": "http://9to5google.com/2025/05/16/google-ai-mode-search-bar-android-ios/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-AI-Mode-Search-bar-Android.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-16T21:05:00Z",
-      "content": "With all users stateside able to test, the shortcut for launching AI Mode is now in the Google apps Search bar on Android and iOS.\r\nInstead of the voice input microphone and Lens shortcuts, the Googl… [+1444 chars]"
+      "title": "Google Wallet requiring authentication to even open the app after a few minutes - 9to5Google",
+      "description": "In 2024, Google Wallet introduced a “verify it’s you” requirement, and now appears to be extending that to the entire Android app.",
+      "url": "http://9to5google.com/2025/05/18/google-wallet-app-verify/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/google-wallet-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-18T16:40:00Z",
+      "content": "In 2024, Google Wallet introduced a verify its you requirement a few minutes after phone unlock, and now appears to be extending that beyond payments to opening the entire Android app.\r\nFor the past … [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Fantasy Life i early access on Xbox Series X/S delayed \" due to an ongoing technical issue on Xbox's side\" - Eurogamer",
+      "description": "Early access for Fantasy Life i on Xbox Series X/S version has been delayed.",
+      "url": "https://www.eurogamer.net/fantasy-life-i-early-access-on-xbox-series-xs-delayed-due-to-an-ongoing-technical-issue-on-xboxs-side",
+      "urlToImage": "https://assetsio.gnwcdn.com/Fantasy-Life-i-The-Girl-Who-Steals-Time-screenshot-showing-two-cutesy-characters-in-the-wild.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-18T16:19:00Z",
+      "content": "Early access for Fantasy Life i on Xbox Series X/S version has been delayed.\r\nAfter dropping an unexpected head's up about a possible delay earlier today, developer Level-5 has now confirmed that tod… [+2276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamereactor UK"
+      },
+      "author": "Marcus Persson",
+      "title": "Injustice 3 is rumoured to be in development - Gamereactor UK",
+      "description": "While nothing has been officially confirmed, industry whispers and subtle hints have fans buzzing with anticipation.",
+      "url": "https://www.gamereactor.eu/injustice-3-is-rumored-to-be-in-development-1545223/",
+      "urlToImage": "https://www.gamereactor.eu/media/46/atomkommertil_2224693b.jpg",
+      "publishedAt": "2025-05-18T16:02:23Z",
+      "content": "After years of speculation, it finally seems to be happening: Injustice 3 is on its way. Following several failed ventures including the costly MultiVersus, which reportedly lost over $100 million WB… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sanjukta Mondal",
+      "title": "First successful demonstration of quantum error correction of qudits for quantum computers - Phys.org",
+      "description": "In the world of quantum computing, the Hilbert space dimension—the measure of the number of quantum states that a quantum computer can access—is a prized possession. Having a larger Hilbert space allows for more complex quantum operations and plays a crucial …",
+      "url": "https://phys.org/news/2025-05-successful-quantum-error-qudits.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/first-successful-exper.jpg",
+      "publishedAt": "2025-05-18T16:00:01Z",
+      "content": "In the world of quantum computing, the Hilbert space dimensionthe measure of the number of quantum states that a quantum computer can accessis a prized possession. Having a larger Hilbert space allow… [+3444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Beloved Ex-PlayStation Boss Believes $70, $80 Games Are a Steal - Push Square",
+      "description": "Compared to other entertainment, anyway",
+      "url": "https://www.pushsquare.com/news/2025/05/beloved-ex-playstation-boss-believes-usd70-usd80-games-are-a-steal",
+      "urlToImage": "https://images.pushsquare.com/45667e89f0da5/large.jpg",
+      "publishedAt": "2025-05-18T15:43:37Z",
+      "content": "I'm not of the hour count ratio but quality. Does it work, does it offer mechanics/level design, progression that isn't repetitive, lacking &amp; has 2 modes (racing more so, but party/others would c… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fabiana Buontempo",
+      "title": "Internet is baffled by woman’s transparent phone — and the explanation is even wilder - New York Post",
+      "description": "The “phone” she’s holding actually exists. And while people can buy it — it’s not for the reason most would expect.",
+      "url": "https://nypost.com/2025/05/18/lifestyle/internet-baffled-by-bizarre-glass-phone/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/COMP-Screenshot-2025-05-18-at-102458 AM.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-18T15:29:00Z",
+      "content": "A recent TikTok video showing a woman “scrolling” on a transparent phone has people scratching their heads. \r\nA woman named Cat (@askcatgpt) shared a TikTok video which has now garnered over 50 milli… [+3435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Alyse Stanley",
+      "title": "Best Buy and GameStop confirm they're getting Switch 2 restocks — here's when you can get it - Tom's Guide",
+      "description": "Nintendo’s latest console is sold out everywhere, but you could get lucky on launch day",
+      "url": "https://www.tomsguide.com/gaming/nintendo/best-buy-and-gamestop-confirm-theyre-getting-switch-2-restocks-heres-when-you-can-get-it",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/recPHh5p9Fa5wy3ikEkaMP.jpg",
+      "publishedAt": "2025-05-18T15:27:49Z",
+      "content": "All this preorder madness for the Nintendo Switch 2 is giving me flashbacks to trying to get a Wii back in its heyday. If you haven't already nabbed a Switch 2 pre-order, you may have more luck close… [+2170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "Steam Game Is Free Before It’s Removed Forever - ComicBook.com",
+      "description": "A paid Steam game is being removed from the Valve storefront forever, so the developer has made it 100% free until it is gone.",
+      "url": "http://comicbook.com/gaming/news/steam-free-game-pc-mouthole/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2023/05/745d81b5-7296-48ca-984c-5b6a660c8c6b.png?w=1200",
+      "publishedAt": "2025-05-18T14:52:53Z",
+      "content": "A Steam game that was previously a paid game is now free, and it has been made free because it is being removed from the digital PC storefront. The Steam game in question was only released back on Ap… [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Star Citizen players slam CIG's \"non-apology\" after space-sim introduces \"pay to win\" items that cannot be earned in-game - Eurogamer",
+      "description": "Cloud Imperium Games has responded to players unhappy about the recent introduction of \"pay to win\" flight blades in St…",
+      "url": "https://www.eurogamer.net/star-citizen-players-slam-cigs-non-apology-after-space-sim-introduces-pay-to-win-items-that-cannot-be-earned-in-game",
+      "urlToImage": "https://assetsio.gnwcdn.com/1_NCXmZgc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-18T14:10:04Z",
+      "content": "Cloud Imperium Games has responded to players unhappy about the recent introduction of \"pay to win\" flight blades in Star Citizen, admitting it \"missed a step\".\r\nWhile Star Citizen's community doesn'… [+3442 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "I used two GPS hiking apps for backpacking and I’ll do it again - The Verge",
+      "description": "I tested two major hiking aps, AllTrails and Gaia GPS, on a backpacking trip. As a devotee of paper maps, I wanted to see how the apps stacked up.",
+      "url": "https://www.theverge.com/hands-on/668845/all-trails-gaia-gps-cal-topo-backpacking-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257743_hiking_apps_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-18T14:00:00Z",
+      "content": "I used two GPS hiking apps for backpacking and Ill do it again\r\nA thing about me is I do belong among the wildflowers.\r\nI used two GPS hiking apps for backpacking and Ill do it again\r\nA thing about m… [+20170 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Austin Manchester",
+      "title": "Esquie balances the darkness of Clair Obscur with unrelenting wholesomeness - Polygon",
+      "description": "Clair Obscur is a very serious game with lots of death and drama, but Esquie the Gestral is both wholesome and welcome comedic relief",
+      "url": "https://www.polygon.com/gaming/599490/esquie-appreciation-post-clair-obscur-expedition-33",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/05/Clair-Obscur-Esquie-Verso-frienship.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-05-18T14:00:00Z",
+      "content": "[Warning: This piece includes spoilers for Clair Obscurs late-game Act 2 reveals.]\r\nI love a serious story as much as the next person, and Clair Obscur: Expedition 33 is incredibly serious. It starts… [+3918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "This HP 15\" Touchscreen Laptop (64GB RAM, 2TB SSD, i7) Drops $2,600, Now 72% Off on Amazon - Gizmodo",
+      "description": "Save $2,600 on a 15.6\" touchscreen laptop from HP designed for business professionals.",
+      "url": "https://gizmodo.com/stop-overpaying-hp-15-6-touchscreen-laptop-64gb-ram-2tb-ssd-i7-drops-2600-on-amazon-to-all-time-low-2000603560",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/05/hp-17-touchescreen.jpg",
+      "publishedAt": "2025-05-18T13:33:35Z",
+      "content": "It’s very complicated to find a high-performance laptop for less than $1,000 especially if you want the greatest features and the highest possible specs. Too many times, even when you’ve spent a lot … [+2044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Floating toolbars are coming with Material 3 Expressive, but where are the bottom bars - 9to5Google",
+      "description": "With Material 3 Expressive, Google is making a push for bottom controls in apps with toolbars. This new component...",
+      "url": "http://9to5google.com/2025/05/18/material-3-expressive-toolbars/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-toolbars.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-05-18T13:30:00Z",
+      "content": "With Material 3 Expressive, Google is making a push for bottom controls in apps with toolbars. This new component displays frequently used actions relevant to the current page.\r\nGoogle says to think … [+2164 chars]"
     }
   ]
 }
