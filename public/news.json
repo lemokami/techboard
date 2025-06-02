@@ -1,97 +1,162 @@
 {
   "status": "ok",
-  "totalResults": 57,
+  "totalResults": 55,
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "Nintendo Switch 2 launch games: Every Switch 2 game available on day one - Video Games Chronicle",
+      "description": "Here's our guide to every Switch 2 launch game available on June 5",
+      "url": "https://www.videogameschronicle.com/features/nintendo-switch-2-launch-games-every-switch-2-game-available-on-day-one/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/05/Untitled-1.jpg",
+      "publishedAt": "2025-05-31T20:36:58Z",
+      "content": "The Nintendo Switch 2 launch is now less than a week away, meaning the launch game line-up is all but locked in.\r\nNo fewer than 28 games will be available on Switch 2 when it launches on June 5, cons… [+32741 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Karyne Levy",
+      "title": "Week in Review: Perplexity Labs wants to do your work - TechCrunch",
+      "description": "We've got a ton of stories for you this week, including a new AI-powered browser from Arc; not one but TWO hacks; Gemini email summaries; and much more.",
+      "url": "https://techcrunch.com/2025/05/31/week-in-review-perplexity-labs-wants-to-do-your-work/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1215417068-1.jpg?resize=1200,467",
+      "publishedAt": "2025-05-31T17:06:00Z",
+      "content": "Welcome back to Week in Review! We’ve got a ton of stories for you this week, including a new AI-powered browser from Arc; not one but TWO hacks; Gemini email summaries; and much more. Have a great w… [+3677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Alyse Stanley",
+      "title": "All four iPhone 17 models just tipped for ‘metalens’ upgrade - Tom's Guide",
+      "description": "One step closer to shaving down the Dynamic Island",
+      "url": "https://www.tomsguide.com/phones/iphones/all-four-iphone-17-models-just-tipped-for-metalens-upgrade",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gcvwLzQ9sTcGpfRqBVMNVe.png",
+      "publishedAt": "2025-05-31T16:45:44Z",
+      "content": "The Pro Max version of Apple's beloved iPhone tends to be first in line for significant redesigns and upgrades, but Apple's rumored metalens technology, which promises to significantly shrink the siz… [+2174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "Samsung Galaxy S25 Edge is now available for purchase in the US - GSMArena.com news - GSMArena.com",
+      "description": "It is 5.8mm thin, weighs 163g, and has the Snapdragon 8 Elite SoC at the helm. The Samsung Galaxy S25 Edge introduced a few weeks ago went on sale in South...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s25_edge_usa_price_sale_date-news-68057.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/05/samsung-galaxy-s25-edge-ifr/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-05-31T16:40:02Z",
+      "content": "The Samsung Galaxy S25 Edgeintroduced a few weeks ago went on sale in South Korea first, but it is now available in other countries as well, including the US.\r\nThe Galaxy S25 Edge can be purchased in… [+700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LADbible"
+      },
+      "author": "Bec Oakes",
+      "title": "Apple issues urgent warning to all 1.8 billion iPhone users - ladbible.com",
+      "description": "iPhone users could be facing some serious security issues if they don't install the iOS 18.5 update",
+      "url": "https://www.ladbible.com/news/technology/iphone-users-urged-10s-185-update-355605-20250531",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt812215d2e097a955/683b00d7c9c464d768af4037/GettyImages-2171031800_(2).jpeg",
+      "publishedAt": "2025-05-31T15:58:14Z",
+      "content": "Apple has issued an urgent warning to iPhone users, so if you're one of the 1.8 billion people around the world who owns one of the smartphones, you might want to listen up.\r\nThere's a common misconc… [+2261 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Nitasha Tiku",
+      "title": "Your chatbot friend might be messing with your mind - The Washington Post",
+      "description": "OpenAI, Meta and others want people to spend more time with AI chatbots, but there is growing evidence that they can hook users or reinforce harmful ideas.",
+      "url": "https://www.washingtonpost.com/technology/2025/05/31/ai-chatbots-user-influence-attention-chatgpt/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I752RSIJYOMGAHZFBUKT47KDN4.jpg&w=1440",
+      "publishedAt": "2025-05-31T14:35:52Z",
+      "content": "It looked like an easy question for a therapy chatbot: Should a recovering addict take methamphetamine to stay alert at work?\r\nBut this artificial intelligence-powered therapist built and tested by r… [+8187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "FromSoft acknowledges issues with Elden Ring Nightreign matchmaking - Eurogamer",
+      "description": "If you're jumping into Elden Ring Nightreign this weekend and are struggling to find a Player 2 - and/or a Player 3 - y…",
+      "url": "https://www.eurogamer.net/fromsoft-acknowledges-issues-with-elden-ring-nightreign-matchmaking",
+      "urlToImage": "https://assetsio.gnwcdn.com/elden-ring-nightreign-character-attack-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-05-31T14:27:27Z",
+      "content": "If you're jumping into Elden Ring Nightreign this weekend and are struggling to find a Player 2 - and/or a Player 3 - you're not alone.\r\nIn a brief statement posted to official Elden Ring social medi… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "Google quietly released an app that lets you download and run AI models locally - TechCrunch",
+      "description": "Last week, Google quietly released an app, Google AI Edge Gallery, that lets users run a range of openly available AI models from the AI dev platform Hugging Face on their phones.",
+      "url": "https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2199793091.jpg?w=1024",
+      "publishedAt": "2025-05-31T14:04:46Z",
+      "content": "Last week, Google quietly released an app that lets users run a range of openly available AI models from the AI dev platform Hugging Face on their phones. \r\nCalled Google AI Edge Gallery, the app is … [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Abhijeet Mishra",
+      "title": "Unable to enroll into One UI 8 Beta Program? Check now - SamMobile",
+      "description": "Now Bar, which was one of the main attractions of One UI 7, has received some improvements with the recently released One UI 8 update. It now shows ongoing activities from two additional stock apps. However, the biggest improvement could be its integration wi…",
+      "url": "https://www.sammobile.com/news/one-ui-8-now-bar-two-new-options/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-Tab-S10-Ultra-review-20-1200x675.jpg",
+      "publishedAt": "2025-05-31T14:00:17Z",
+      "content": "There's plenty of excitement around One UI 8 for Samsung's smartphones, but what about the company's tablets? Don't worry, Samsung is busy developing the next version of One UI for its tablets as wel… [+1073 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "Microsoft releases a bold new update for Notepad - The Verge",
-      "description": "Microsoft is adding text formatting support to Notepad. You’ll be able to use bold and italic options, alongside hyperlinks and Markdown support.",
-      "url": "https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Notepad_Markdown.png?quality=90&strip=all&crop=0,2.9150166990016,100,94.169966601997",
-      "publishedAt": "2025-05-30T19:36:45Z",
-      "content": "Notepad is getting italic and bold styling, alongside support for hyperlinks, lists, and Markdown.\r\nNotepad is getting italic and bold styling, alongside support for hyperlinks, lists, and Markdown.\r… [+1852 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jennifer Ouellette",
-      "title": "Why incels take the “Blackpill”—and why we should care - Ars Technica",
-      "description": "A growing number of incels are NEET (Not in Education, Employment, or Training). That should concern us all.",
-      "url": "https://arstechnica.com/science/2025/05/why-incels-take-the-blackpill-and-why-we-should-care/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/incel1-1-1152x648.jpg",
-      "publishedAt": "2025-05-30T18:30:41Z",
-      "content": null
+      "author": "Sheena Vasani, Brandon Widder",
+      "title": "Sony’s DualSense Edge controller is receiving a rare $30 discount - The Verge",
+      "description": "The DualSense Edge is on sale for $169 as part of Sony’s annual Days of Play sale. You can also save on a last-gen Oura Ring and Govee’s new Gaming Pixel Light.",
+      "url": "https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Sony-DualSense-Edge-Conteroller-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-31T14:00:00Z",
+      "content": "The temporary price cut on the pro-style gamepad is the unsung highlight of Days of Play.\r\nSony might have just recently introduced a new low price on the PlayStation 5 Pro with its latest Days of Pl… [+3013 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Abner Li",
-      "title": "Gemini app ‘Pro’ users getting Veo 3 trial on Android & iOS, AI Ultra now in 73 countries - 9to5Google",
-      "description": "Following last week’s launch at I/O 2025, Google is expanding access to Veo 3 in the Gemini app and Flow, while the Google AI Ultra...",
-      "url": "http://9to5google.com/2025/05/30/gemini-app-veo-3-ai-ultra/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Veo-3-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-30T18:30:00Z",
-      "content": "Following last weeks launch at I/O 2025, Google is expanding access to Veo 3 in the Gemini app and Flow, while the Google AI Ultra subscription is coming to more subscribers.\r\nAt launch, Veo 3 was ju… [+3262 chars]"
+      "author": "Mike Fazioli",
+      "title": "Windows 11 Pro Is Going for Pennies on the Dollar, a 92% Price Drop Makes It Almost Free - Gizmodo",
+      "description": "The most powerful version of Windows yet comes with an improved interface, stronger security, and Copilot AI.",
+      "url": "https://gizmodo.com/windows-11-pro-is-going-for-pennies-on-the-dollar-a-92-price-drop-makes-it-almost-free-2000609058",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/WIndows-11-Pro-course.jpg",
+      "publishedAt": "2025-05-31T13:40:08Z",
+      "content": "If you’re still using Windows 10 on your PC, or you’ve only upgraded to Windows 11 Home, you really need to get with the times. (No offense.) Windows 11 Pro is the standard bearer of PC operating sys… [+2445 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Abner Li",
-      "title": "Google showing Pixel 10, ‘upcoming devices’ to Superfans & others in exclusive June event - 9to5Google",
-      "description": "Google today reached out to Pixel Superfans about a “pre-launch event” this June for the Pixel 10 series and other “upcoming devices.\"",
-      "url": "http://9to5google.com/2025/05/30/pixel-10-june-pre-release-event-superfans/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Pixel-Penthouse-Superfans-2025-UK.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-05-30T18:14:00Z",
-      "content": "Google today reached out to Pixel Superfans in the UK about a pre-launch event this June for the Pixel 10 series and other upcoming devices.” It does not suggest that Made by Google 2025 is happening… [+1722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "iPhone 17 Base Model Now Said to Feature A18 Chip and 8GB of RAM - MacRumors",
-      "description": "The latest rumored specs for the iPhone 17 base model are underwhelming.   In a research note with equity research firm GF Securities this month,...",
-      "url": "https://www.macrumors.com/2025/05/30/iphone-17-rumored-a18-chip-8gb-ram/",
-      "urlToImage": "https://images.macrumors.com/t/3zzm7VcAA2sRjc5kWZgZmdLwbEI=/2000x/article-new/2024/09/iphone-16-teal.jpg",
-      "publishedAt": "2025-05-30T18:07:54Z",
-      "content": "The latest rumored specs for the iPhone 17 base model are underwhelming.\r\nIn a research note with equity research firm GF Securities this month, Apple analyst Jeff Pu said that the lowest-end iPhone … [+1417 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Why EA Canceled a New ‘Black Panther’ Video Game and Closed Cliffhanger Studios - Bloomberg",
-      "description": "The project from Cliffhanger Studios would have starred a group of heroes from the comic-book franchise",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-05-30/why-ea-canceled-a-new-black-panther-video-game-and-closed-cliffhanger-studios",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUqrHepmUIx4/v1/1200x799.jpg",
-      "publishedAt": "2025-05-30T18:00:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Two former Polygon writers are starting a new site - The Verge",
-      "description": "Former Polygon guides writers Ryan Gilliam and Jeffrey Parkin have launched Big Friendly Guide, a new video game guides-focused site that they own.",
-      "url": "https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/BFG_controller_banner.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-05-30T17:00:00Z",
-      "content": "Ryan Gilliam and Jeffrey Parkin are launching Big Friendly Guide.\r\nRyan Gilliam and Jeffrey Parkin are launching Big Friendly Guide.\r\nA lot of Polygons staff was laid off following Vox Medias sale of… [+2154 chars]"
+      "author": "Billy Givens",
+      "title": "Yes, You Can Change Outfits In Nightreign , But Not At First - Kotaku",
+      "description": "Your first goal is to level up, then you're a bit freer to focus on what fits you choose to take into battle",
+      "url": "https://kotaku.com/elden-ring-nightreign-change-outfit-get-new-clothes-1851783199",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/08bad0915b7129fa7e4ced1ec4eb5da7.jpg",
+      "publishedAt": "2025-05-31T13:30:00Z",
+      "content": "The original Elden Ring allowed you to create a character and deck them out in any number of unique pieces of armor to truly show off your fashion skills. However, multiplayer spin-off Nightreign fea… [+1466 chars]"
     },
     {
       "source": {
@@ -99,168 +164,103 @@
         "name": "CNET"
       },
       "author": "See full bio",
-      "title": "Apple Reportedly Changing Software Naming System: iOS 26, Not iOS 19, Is Next - CNET",
-      "description": "The company reportedly hopes to bring consistency and clarity to a confusing naming system.",
-      "url": "https://www.cnet.com/tech/services-and-software/apple-reportedly-changing-software-naming-ios-26-not-ios-19-is-next/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/3418f381514181f20b40731a560eaefd4cb175bf/hub/2016/08/19/b52b14c5-d518-4417-ac49-4942e44f88d8/apple-store-green-leaf-9787.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-30T16:12:00Z",
-      "content": "Apple may be on the verge of a big change in the way the company names its software updates -- and it's an approach that may seem familiar to anyone who's familiar with Windows 95 or a '57 Chevy. Blo… [+1377 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Christian Wait",
-      "title": "The Best Deals Today: Pokémon TCG: Destined Rivals Crashes and More - IGN",
-      "description": "As of May 30, Pokémon TCG Destined Rivals singles are crashing fast, with prices dropping by 50% on TCG Player. Plus, SteelSeries gaming gear is on sale at Amazon, and more.",
-      "url": "https://www.ign.com/articles/best-deals-for-may-30-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/30/pixel-9-1-1748599061768.jpg?width=1280",
-      "publishedAt": "2025-05-30T15:52:23Z",
-      "content": "Destined Rivals is officially here, and boy, its already a bloodbath. From the stunning Cynthias Roserade to the menacing Team Rockets Mewtwo ex, prices on chase cards have been crashing faster than … [+15366 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "IGN",
-      "title": "Two More Persona 4 Actors Have Said They're Not Returning for an Unannounced Persona 4 Remake - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/two-more-persona-4-actors-have-said-theyre-not-returning-for-an-unannounced-persona-4-remake",
-      "urlToImage": null,
-      "publishedAt": "2025-05-30T15:49:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "John-Anthony Disotto",
-      "title": "10 great but unexpected ways to use ChatGPT – Reddit users reveal their power tips - TechRadar",
-      "description": "ChatGPT is more than just a chatbot",
-      "url": "https://www.techradar.com/computing/artificial-intelligence/10-great-but-unexpected-ways-to-use-chatgpt-reddit-users-reveal-their-power-tips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7g7vgt7jh3KAomxJueChEE.jpg",
-      "publishedAt": "2025-05-30T15:02:41Z",
-      "content": "As part of my job, I'm always looking for new ways to use ChatGPT, so that I can share some of the best examples with TechRadar's readers.\r\nThe other day, while browsing Reddit, I stumbled on a threa… [+7769 chars]"
+      "title": "Secret Characters in Elden Ring Nightreign: How to Unlock the Revenant and Duchess - CNET",
+      "description": "You can choose from six Nightfarer classes when you begin your Nightreign adventure, but the Duchess and Revenant are hidden behind some easy steps.",
+      "url": "https://www.cnet.com/tech/gaming/secret-characters-in-elden-ring-nightreign-how-to-unlock-the-revenant-and-duchess/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/965b0d23d880c86a9e35d73f17e35aedc45ed676/hub/2025/05/30/bd7952ba-2a48-4701-827c-e2574bd43537/nightreign-fire-damage-negation.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-31T13:00:00Z",
+      "content": "Elden Ring Nightreign's Nightfarer class design allows new players and Souls veterans alike to hop into its speedy, round-based roguelike action RPG gameplay. Key character archetypes have been boile… [+8500 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Cameron Faulkner",
-      "title": "You can get 15 percent off Elden Ring Nightreign on Steam and Xbox - The Verge",
-      "description": "FromSoftware’s new multiplayer-focused game is already discounted. Plus, get a last-gen Blink Video Doorbell for $29.99, and save on a Dark Horse Comics bundle.",
-      "url": "https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Elden-Ring-Nightreign-Image-3.webp?quality=90&strip=all&crop=0%2C10.902656583285%2C100%2C78.19468683343&w=1200",
-      "publishedAt": "2025-05-30T15:01:57Z",
-      "content": "Night or day, reign or shine. Also, grab a Blink Video Doorbell for just $29.99, and check out the latest Humble bundle.\r\nNight or day, reign or shine. Also, grab a Blink Video Doorbell for just $29.… [+2719 chars]"
+      "author": "Ash Parrish",
+      "title": "The Switch 2’s promising start hides an uncertain future - The Verge",
+      "description": "The Switch 2 will have an impressive launch year but there’s a suite of factors that could hamper its ability to be the mega success Nintendo hopes for.",
+      "url": "https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25833881/STKR001_NINTENDO_SWITCH_2_f.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-31T13:00:00Z",
+      "content": "The Switch 2s promising start hides an uncertain future\r\nTariffs, cheaper alternatives, and a relative lack of innovation are all factors that could slow the console down.\r\nThe Switch 2s promising st… [+7037 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "CNBC"
       },
-      "author": "Ethan Gach",
-      "title": "Get Ready For The Witcher 3 To Feel Like A New Game Again When Mod Support Comes To Consoles Later This Year - Kotaku",
-      "description": "The open-world RPG celebrates its 10th anniversary with some big news",
-      "url": "https://kotaku.com/witcher-3-mod-support-ps5-xbox-final-patch-1851783100",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dd409a9b682729ed19e482dc32cc2f30.jpg",
-      "publishedAt": "2025-05-30T14:55:00Z",
-      "content": "The Witcher 3 turned 10 years old this month, but the seminal fantasy role-playing game keeps finding new ways to reinvent itself. Three years after its next-gen upgrade brought the open-world advent… [+1675 chars]"
+      "author": "Pia Singh",
+      "title": "These stocks are overbought after a strong May for Wall Street and could be due for a pullback - CNBC",
+      "description": "CNBC Pro identified the most overbought and oversold stocks on Wall Street by looking at their 14-day relative strength index, or RSI, using LSEG data.",
+      "url": "https://www.cnbc.com/2025/05/31/these-stocks-are-overbought-after-a-strong-may-and-could-pull-back.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108152097-1748543679194-gettyimages-2203195002-HL_RMILANI_2689941.jpeg?v=1748543738&w=1920&h=1080",
+      "publishedAt": "2025-05-31T12:05:13Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Sarah Perez",
-      "title": "Gemini will now automatically summarize your long emails unless you opt out - TechCrunch",
-      "description": "Google is putting AI to work on your inbox, whether or not it's something you want to use.",
-      "url": "https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-      "publishedAt": "2025-05-30T14:43:10Z",
-      "content": "Google’s AI assistant, Gemini, is gaining a more prominent place in your inbox with the launch of email summary cards, which will appear at the top of your emails. The company announced Thursday that… [+1871 chars]"
+      "author": "Julian Chokkattu",
+      "title": "Apple's Big OS Rebrand, OnePlus Embraces AI, and Samsung's Next Folds—Your Gear News of the Week - WIRED",
+      "description": "Plus: Google celebrates the 10th anniversary of Google Photos with a new editing interface for its 1.5 billion monthly users.",
+      "url": "https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/",
+      "urlToImage": "https://media.wired.com/photos/66678da17718ee8981f0c386/191:100/w_1280,c_limit/Apple-AI-WWDC-2024-Business-2156972167.jpg",
+      "publishedAt": "2025-05-31T10:30:00Z",
+      "content": "Confused by Apples naming conventions? Youre not the only one. Bloomberg reports that this year at WWDC, Apple plans to announce a broad overhaul of all of its operating systems. That includes renami… [+2762 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Wesley Yin-Poole",
-      "title": "Activision Quietly Force Adverts into Call of Duty Black Ops 6 and Warzone Loadouts and Players Absolutely Hate It: 'At This Point It Really Feels Like Opening Up a Mobile Game' - IGN",
-      "description": "With the launch of Call of Duty Season 4, Activision quietly put adverts inside loadouts for Black Ops 6 and Warzone, sparking a backlash in the process.",
-      "url": "https://www.ign.com/articles/activision-quietly-force-adverts-into-call-of-duty-black-ops-6-and-warzone-loadouts-and-players-absolutely-hate-it-at-this-point-it-really-feels-like-opening-up-a-mobile-game",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/05/30/cod-main-1748615002194.jpg?width=1280",
-      "publishedAt": "2025-05-30T14:27:10Z",
-      "content": "With the launch of Call of Duty Season 4, Activision quietly put adverts inside loadouts for Black Ops 6 and Warzone, sparking a backlash in the process.\r\nActivision already has a bad reputation for … [+2142 chars]"
+      "author": "Zak Doffman",
+      "title": "Microsoft Confirms Password Deletion—Now Just 8 Weeks Away - Forbes",
+      "description": "Millions of users must act now — what to know.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/05/31/microsoft-confirms-password-deletion-now-just-8-weeks-away/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6805d78d1495c79f7286b089/0x0.jpg?format=jpg&crop=3288,1848,x753,y453,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-31T09:54:53Z",
+      "content": "Heres when passwords will be deleted.\r\nAnadolu via Getty Images\r\nRepublished on May 31 with a new attack on Microsoft account passwords. \r\nMicrosoft wants to delete passwords for its billion-plus use… [+4606 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "Ars Contributors",
-      "title": "2025 Chevrolet Corvette ZR1 first drive: Engineered for insane speed - Ars Technica",
-      "description": "Now that Chevrolet can fit turbos to the Corvette, it’s gone and done just that.",
-      "url": "https://arstechnica.com/cars/2025/05/2025-chevrolet-corvette-zr1-first-drive-engineered-for-insane-speed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Ars-Technica-2025-Chevrolet-Corvette-ZR1-1152x648.jpg",
-      "publishedAt": "2025-05-30T14:00:14Z",
+      "author": "Timothy Beck Werth",
+      "title": "Google's Veo 3 AI video generator is unlike anything you've ever seen. The world isn't ready. - Mashable",
+      "description": "\"We're so cooked.\"",
+      "url": "https://mashable.com/article/google-veo-3-ai-video",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07r668h4bWjbkVa31FcKWoG/hero-image.fill.size_1200x675.v1748632494.jpg",
+      "publishedAt": "2025-05-31T09:00:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Gamingbible.com"
       },
-      "author": "Ethan Gach",
-      "title": "The President Is Dead (In Helldivers 2) - Kotaku",
-      "description": "Fans won their biggest victory yet and get to keep the traveling battle station that helped win it",
-      "url": "https://kotaku.com/helldivers-2-president-kia-dss-battle-station-victory-1851783082",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/587fe52c659898069ff5e4e376611c2f.jpg",
-      "publishedAt": "2025-05-30T13:35:00Z",
-      "content": "The President of Super Earth has been killed in action by the Illuminate during the fall of Prosperity City. That was the message that greeted Helldivers 2 players when they logged on last night in o… [+2521 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Nintendo will let you limit who your kid can GameChat with on the Switch 2 - The Verge",
-      "description": "The Nintendo Switch Parental Controls app has been updated to support the Switch 2 so players can limit which friends their child can chat with.",
-      "url": "https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/switch2_gamechat.jpg?quality=90&strip=all&crop=0%2C10.747352026712%2C100%2C78.505295946575&w=1200",
-      "publishedAt": "2025-05-30T13:32:09Z",
-      "content": "Parents will also need to grant approval every time a player under 16 starts a GameChat video chat.\r\nParents will also need to grant approval every time a player under 16 starts a GameChat video chat."
+      "author": "Richard Lee Breslin",
+      "title": "PlayStation Plus subscribers react to June free game line-up: 'massive win’ - GAMINGbible",
+      "description": "PlayStation Plus subscribers are happy with June's 2025 free game line-up.",
+      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-june-free-game-massive-win-593568-20250528",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltf3aafd8f854409c1/683704ec1e2d8aa0a57ab73d/ps_playstation_plus_alone_in_the_dark.png",
+      "publishedAt": "2025-05-31T06:30:07Z",
+      "content": "PlayStation Plus subscribers have praised one particular June 2025 game as a massive win, and I agree.\r\nWhen Sony announces the latest PlayStation Plus offerings, whether its for PS Plus Essential, E… [+1592 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Theshortcut.com"
       },
-      "author": "Dan Ryckert",
-      "title": "Hell Is Us' Intriguingly Bold Design Decisions Refuse To Give You A Hint - GameSpot",
-      "description": "After three hours with Hell is Us, I'm certainly more intrigued than I was coming in.",
-      "url": "https://www.gamespot.com/articles/hell-is-us-intriguingly-bold-design-decisions-refuse-to-give-you-a-hint/1100-6531798/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4499939-hell-is-us-preview-blog-1727450077823.jpg",
-      "publishedAt": "2025-05-30T13:00:00Z",
-      "content": "People love to categorize games. It used to be pretty easy. You had your platformers, shooters, sports games, and RPGs. Then we started saying things like \"metroidvania.\" Fast-forward to today, and b… [+6044 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Charles Pulliam-Moore",
-      "title": "Nintendo’s Switch era took Pokémon collecting to the next level - The Verge",
-      "description": "A look back at how the Nintendo Switch games made catching all the Pokémon so much easier.",
-      "url": "https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257766_Nintendo_package__CVirginia_POKEMON.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "publishedAt": "2025-05-30T13:00:00Z",
-      "content": "The Nintendo Switch Pokémon games have felt like one big experiment to revolutionize the trading process.\r\nThe Nintendo Switch Pokémon games have felt like one big experiment to revolutionize the tra… [+4936 chars]"
+      "author": "Matt Swider",
+      "title": "Nintendo Switch 2 pre-order: your last chance to reserve the console in the US - The Shortcut | Matt Swider",
+      "description": "If you know where to look, and we do, finding a Nintendo Switch 2 pre-order ahead of its June 5 release date is still possible in the US",
+      "url": "https://www.theshortcut.com/p/nintendo-switch-2-pre-order-last-chance",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc047107-ad7b-4feb-a5d9-7552a18eff35_1366x768.png",
+      "publishedAt": "2025-05-31T06:15:50Z",
+      "content": "Finding Nintendo Switch 2 pre-orders in the US is still possible, as demonstrated by the surprise Friday afternoon restock of console reservations at Walmart. The Shortcut was able to track the Switc… [+4979 chars]"
     }
   ]
 }
