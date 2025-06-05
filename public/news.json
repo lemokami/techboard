@@ -1,97 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 62,
+  "totalResults": 38,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "author": "Matt Hardigree",
-      "title": "Porsche Still Offers The Single Greatest And Possibly Most Excessive Feature In All Of Automobiles - The Autopian",
-      "description": "I briefly had a new Porsche 718 Boxster GTS 4.0 in white for the weekend and I was reminded that Porsche still has the one feature that I rarely see on any car. A feature so great and so useful that it should honestly be the norm on every vehicle offered for …",
-      "url": "https://www.theautopian.com/porsche-still-offers-the-single-greatest-and-possibly-most-excessive-feature-in-all-of-automobiles/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Porsche_Hot_Cold_TS2-1.jpg",
-      "publishedAt": "2025-06-02T23:09:19Z",
-      "content": null
-    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "Microsoft belatedly attempts to tame USB-C confusion with its rules for PC OEMs - Ars Technica",
-      "description": "USB-C ports have always supported different capabilities on different systems.",
-      "url": "https://arstechnica.com/gadgets/2025/06/microsoft-belatedly-attempts-to-tame-usb-c-confusion-with-its-rules-for-pc-oems/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1367572559-1152x648.jpg",
-      "publishedAt": "2025-06-02T21:19:48Z",
+      "author": "Benj Edwards",
+      "title": "Polish engineer creates postage stamp-sized 1980s Atari computer - Ars Technica",
+      "description": "Hobby project shrinks 1980s computer platform that pierced the Iron Curtain.",
+      "url": "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/atari_800_1000px-1000x648.jpg",
+      "publishedAt": "2025-06-03T20:22:36Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Marcus Mendes",
-      "title": "WhatsApp is finally getting usernames - 9to5Mac",
-      "description": "WhatsApp is gearing up to launch a long-awaited feature: usernames, so users can connect with others without sharing their actual phone number",
-      "url": "https://9to5mac.com/2025/06/02/whatsapp-getting-usernames/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/WhatsApp-Windows-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-02T21:17:00Z",
-      "content": "WhatsApp is gearing up to launch a long-awaited feature: usernames. With usernames, users will be able to connect with others without sharing their actual phone number.\r\nSpotted by WABetaInfo (via Te… [+1947 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Microsoft Bing gets a free Sora-powered AI video generator - TechCrunch",
-      "description": "For the first time, OpenAI's Sora video generator will be available for free as it comes to the Microsoft Bing app.",
-      "url": "https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1546726760-1-e1690369545784.jpg?resize=1200,675",
-      "publishedAt": "2025-06-02T20:16:55Z",
-      "content": "Microsoft Bing announced Monday that it is introducing the Bing Video Creator to its app, which uses OpenAI’s Sora model to let users generate videos from text prompts.\r\nOpenAI, which has a long-stan… [+1131 chars]"
+      "author": "Emma Roth",
+      "title": "Google’s NotebookLM now lets you share your notebook — and AI podcasts — publicly - The Verge",
+      "description": "Google’s AI-powered note-taking app, NotebookLM, will now let others view your notebooks with public links.",
+      "url": "https://www.theverge.com/news/678915/google-notebooklm-share-public-link",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-03T18:51:57Z",
+      "content": "Viewers cant edit the notebook, but they can interact with AI audio overviews, ask questions, and read FAQs. \r\nViewers cant edit the notebook, but they can interact with AI audio overviews, ask quest… [+1459 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "author": "Ben Schoon",
-      "title": "Google Pixel’s Now Playing feature prepares Quick Settings tile for manual search - 9to5Google",
-      "description": "Google appears to be preparing a new Quick Settings shortcut for Now Playing, but it's unclear when it will arrive for Pixel owners.",
-      "url": "http://9to5google.com/2025/06/02/google-pixel-now-playing-quick-settings-shortcut-prep/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/pixel-now-playing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-02T19:40:00Z",
-      "content": "New findings suggest that, finally, Google Pixel devices may add a manual option to the Now Playing feature by using a new Quick Settings tile.\r\nOne of the longest-running features of Google Pixel ph… [+1319 chars]"
+      "author": "Juli Clover",
+      "title": "Testing Samsung's Super Thin Galaxy S25 Edge - MacRumors",
+      "description": "Samsung recently launched the Galaxy S25 Edge, a super thin smartphone that will compete with Apple's upcoming iPhone 17 Air. To see what...",
+      "url": "https://www.macrumors.com/2025/06/03/samsung-galaxy-s25-edge-hands-on/",
+      "urlToImage": "https://images.macrumors.com/t/9lTjvEBdQTXazPclmJE_LK66DKs=/2500x/article-new/2025/06/S25-Daily-Driver-Thumb-4.5.jpg",
+      "publishedAt": "2025-06-03T18:16:43Z",
+      "content": "Samsung recently launched the Galaxy S25 Edge, a super thin smartphone that will compete with Apple's upcoming iPhone 17 Air. To see what it's like using such a thin phone, MacRumors video editor Dan… [+2292 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Thegamepost.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "How to watch Apple’s WWDC keynote with iOS 26 and more - 9to5Mac",
-      "description": "Apple’s WWDC 2025 kicks off next week with a keynote unveiling of iOS 26 and more, here’s how to watch the announcements live.",
-      "url": "https://9to5mac.com/2025/06/02/how-to-watch-wwdc-2025-keynote-with-ios-26-and-more/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-wwdc-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-02T19:26:00Z",
-      "content": "WWDC is only one week away. Next Monday, June 9, Apple will unveil its major new OS versions like iOS 26, macOS 26, iPadOS 26, and moreincluding rumored major redesigns. Heres how to watch the WWDC 2… [+1560 chars]"
+      "author": null,
+      "title": "Destiny 2 Edge of Fate Artifact Perks Detailed - The Game Post",
+      "description": "Here's a full breakdown of the new Artifact coming in the Destiny 2 Edge of Fate expansion.",
+      "url": "https://thegamepost.com/destiny-2-edge-of-fate-artifact-perks-detailed/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/06/destiny-2-edge-of-fate-artifact-perks-detailed-3.webp",
+      "publishedAt": "2025-06-03T17:01:51Z",
+      "content": "Here’s a full breakdown of the new Artifact coming in the Destiny 2 Edge of Fate expansion.\r\nTheres a lot to look forward to this summer if youre a Destiny 2 fan. The new expansion, Edge of Fate, lau… [+5032 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Apple Newsroom"
       },
-      "author": "Kyle Wiggers",
-      "title": "Salesforce buys Moonhub, a startup building AI tools for hiring - TechCrunch",
-      "description": "Salesforce has quietly snapped up Moonhub, a startup building AI to vet and hire talent. The terms of the deal weren't disclosed.",
-      "url": "https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1247881698-e1702978465576.jpg?resize=1200,677",
-      "publishedAt": "2025-06-02T18:55:43Z",
-      "content": "Updated 1:13 p.m. Pacific: A Salesforce spokesperson told TechCrunch that Moonhub has not, in fact, been acquired (by the company’s definition of the term). Rather, Moonhub is shutting down, and only… [+2238 chars]"
+      "author": null,
+      "title": "Apple unveils winners and finalists of the 2025 Apple Design Awards - Apple",
+      "description": "Today, Apple announced the winners and finalists of this year’s Apple Design Awards, celebrating 12 apps and games that set a high bar in design.",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/tile/Apple-WWDC25-Design-Awards-hero-lp.jpg.og.jpg?202506032117",
+      "publishedAt": "2025-06-03T16:59:24Z",
+      "content": "June 3, 2025\r\nUPDATE\r\nApple unveils winners and finalists of the 2025 Apple Design Awards\r\nWinners and finalists will be recognized for their innovation, ingenuity, and technical achievement at WWDC2… [+8026 chars]"
     },
     {
       "source": {
@@ -99,11 +73,89 @@
         "name": "Ars Technica"
       },
       "author": "Ryan Whitwam",
-      "title": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 - Ars Technica",
-      "description": "This move would reduce Samsung’s reliance on Google.",
-      "url": "https://arstechnica.com/gadgets/2025/06/samsung-could-drop-google-gemini-in-favor-of-perplexity-for-galaxy-s26/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/galaxy_ai-1152x648.jpg",
-      "publishedAt": "2025-06-02T18:52:05Z",
+      "title": "Adobe finally releases Photoshop for Android, and it’s free (for now) - Ars Technica",
+      "description": "After releasing Photoshop for iPhone in February, the promised Android version is here.",
+      "url": "https://arstechnica.com/gadgets/2025/06/adobe-finally-releases-photoshop-for-android-and-its-free-for-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Photoshop-android-1-1152x648.jpg",
+      "publishedAt": "2025-06-03T16:36:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan",
+      "title": "Apple iOS 26 For iPhone: Coming Next Week, A New Era For The iPhone - Forbes",
+      "description": "WWDC25 is just days away, and it promises the biggest software overhaul the iPhone has seen in more than a decade. Here’s a look at what to expect.",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/06/03/apple-ios-26-for-iphone-coming-next-week-a-new-era-for-the-iphone/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683c62d98fabfa155c940fdf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-03T16:20:00Z",
+      "content": "Updated June 3 with further analysis of exactly what will be revealed on Monday, June 9.\r\nWhen Tim Cook introduces Apples World Wide Developer Conference on Monday, June 9, at 10 a.m. Pacific in the … [+5367 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability - The Verge",
+      "description": "iFixit says it has nerfed the original Nintendo Switch’s repairability score, after rival handhelds have shown a better path forward.",
+      "url": "https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/switch-ifixit.jpg?quality=90&strip=all&crop=0%2C3.6736061139922%2C100%2C92.652787772016&w=1200",
+      "publishedAt": "2025-06-03T15:13:56Z",
+      "content": "Its not because of Joy-Con Drift the big reason is the Switch 1s battery.\r\nIts not because of Joy-Con Drift the big reason is the Switch 1s battery.\r\nWould you call the Nintendo Switch easy to repair… [+2256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Magic.gg"
+      },
+      "author": null,
+      "title": "Announcing Upcoming RCQs, Spotlight Events, Eternal Weekends, and More! - magic.gg",
+      "description": "There's plenty of exciting high-level Magic to look forward to in 2025. Take a look at a selection of the events we've cooked up for 2025.",
+      "url": "https://magic.gg/news/announcing-upcoming-rcqs-spotlight-events-eternal-weekends-and-more",
+      "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/6bgdyHv2WCeitvU2MUWtdQ/a008989d691c1ecfec8ad0275a6c7b59/PRM_Laughing_Jasper_Flint_1920x1080.png",
+      "publishedAt": "2025-06-03T15:00:43Z",
+      "content": "Get ready to sling spells and shuffle up with Magic's best at upcoming competitive events! The current round of Regional Championship Qualifiers is underway, and we've been covering the action here o… [+6006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Apple’s 2024 M4 MacBook Pro with a 1TB SSD has never been this cheap - The Verge",
+      "description": "Amazon has a spectacular deal on an upgraded M4 MacBook Pro with 1TB of storage. Notably, it costs less than $15 more than the 512GB model.",
+      "url": "https://www.theverge.com/tech/678617/apple-macbook-pro-m4-1tb-laptop-deal-sale-amazon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25718368/247372_MacBook_Pro_M4_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-03T14:47:06Z",
+      "content": "At Amazon, this upgraded model costs less than $15 more than the 512GB configuration. Were not sure why either.\r\nAt Amazon, this upgraded model costs less than $15 more than the 512GB configuration. … [+1215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Lloyd Coombes",
+      "title": "PS5 has a huge price advantage over Xbox and Switch 2 right now - Eurogamer",
+      "description": "Xbox's recent price hikes have created a huge gap following Sony's PS5 deals for Days of Play",
+      "url": "https://www.eurogamer.net/ps5-has-huge-price-advantage-over-xbox-and-switch-2",
+      "urlToImage": "https://assetsio.gnwcdn.com/ps5-vrr-notext.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-03T14:46:05Z",
+      "content": "Sony's Days of Play sale is in full swing right now (just in time for its State of Play summer showcase), bringing with it a series of discounts on the PS5 and PS5 Pro consoles, but the context of wh… [+1881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bethesda.net"
+      },
+      "author": null,
+      "title": "Fallout 76: Gone Fission Release Notes - Bethesda.net",
+      "description": "Grab your fishing gear and find yourself a nice watering hole, because it’s time to learn the way of the Appalachian waters.",
+      "url": "https://bethesda.net/en/article/2fsxzAz2icHeeJYGR37kQs/fallout-76-gone-fission-release-notes",
+      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/50bb3M1OIsD0HDBWcShhMZ/f789912c124bc95ca17a837617141424/F76_Gone_Fission_LHERO.jpg?fit=fill&w=1200&h=600",
+      "publishedAt": "2025-06-03T14:40:07Z",
       "content": null
     },
     {
@@ -111,52 +163,65 @@
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Patricia Hernandez",
-      "title": "PS5 shooter goes from 5 players to bestseller after devs defend game - Polygon",
-      "description": "An action figure shooter called Hypercharge has climbed up the PS5 charts after its developers posted about the game’s co-op potential",
-      "url": "https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/shooter.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-02T18:43:55Z",
-      "content": "Hypercharge, a whimsical action figure shooter, just went from near-obscurity to becoming one of the top 10 sellers on PS5 over the weekend, and its all thanks to the developers honesty. Every day, t… [+4446 chars]"
+      "author": "Austin Manchester",
+      "title": "Elden Ring Nightreign devs confirm they’re working on a duos mode - Polygon",
+      "description": "After admitting that two-player co-op was ‘overlooked’, FromSoftware has confirmed it’s working on the mode — but hasn’t set a timeframe",
+      "url": "https://www.polygon.com/elden-ring/603123/elden-ring-nightreign-duos-mode-confirmed",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/05/elden-ring-nightreign-multiplayer.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-03T14:29:10Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Blizzard.com"
+        "name": "9to5google.com"
+      },
+      "author": "Andrew Romero",
+      "title": "YouTube bug breaks navigation bar on Android, Google investigating - 9to5Google",
+      "description": "Android users are seeing a new bug in YouTube that hides the navigation bar from view, leaving users with blank tabs.",
+      "url": "http://9to5google.com/2025/06/03/youtube-bug-hides-navigation-bar/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/YouTube-for-Android-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-03T14:24:00Z",
+      "content": "Google is looking into a new bug in the YouTube app that hides a critical element of the app’s UI. The bug hides YouTube’s navigation bar, leaving users with no way to access certain pages.\r\nYouTube … [+1241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cdprojekt.com"
       },
       "author": null,
-      "title": "Patch Notes: New Co-op Emotes! — Warcraft Rumble - Blizzard News",
-      "description": "We've added new co-op emotes to help players better communicate during Siege and Raid. We've also addressed issues that have been affecting Arclight Energy, War Chest, and Guilds.",
-      "url": "https://news.blizzard.com/en-us/article/24204927/patch-notes-new-co-op-emotes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/v8/V828J9J7R9NC1741112371168.png",
-      "publishedAt": "2025-06-02T18:30:00Z",
-      "content": "We've added new co-op emotes to help players better communicate during Siege and Raid. We've also addressed issues that have been affecting Rewards, Arclight Energy, War Chest, and Guilds.\r\nCo-op Emo… [+2114 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Isaac Rouse",
-      "title": "Here’s what Pokémon Scarlet and Violet look like running on Switch 2 - Polygon",
-      "description": "The Pokemon Company and Game Freak have released a trailer for Pokemon Scarlet and Violet’s upgraded Switch 2 version, and it looks way better",
-      "url": "https://www.polygon.com/pokemon/602862/pokemon-scarlet-and-violet-switch-2-trailer-reveal-upgrade",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/pokemon-scarlet-violet-nintendo-switch-2-update.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-02T18:27:45Z",
-      "content": "Since their launch, Pokémon Scarlet and Violet have faced criticism for their subpar performance. But thats about to change with the newly released free upgrade for the Nintendo Switch 2. In a new tr… [+1404 chars]"
+      "title": "CD PROJEKT RED and Epic Games Present The Witcher 4 Unreal Engine 5 Tech Demo at The State of Unreal 2025! - cdprojekt.com",
+      "description": "At Unreal Fest Orlando, the State of Unreal keynote opened with a live on-stage presentation that offered an early glimpse into the latest Unreal Engine 5 features bringing the open world of The Witcher 4",
+      "url": "https://www.cdprojekt.com/en/media/news/cd-projekt-red-and-epic-games-present-the-witcher-4-unreal-engine-5-tech-demo-at-the-state-of-unreal-2025/",
+      "urlToImage": "https://www.cdprojekt.com/en/wp-content/uploads-en/2025/06/gshfpj7wuae3wrx-scaled.jpeg",
+      "publishedAt": "2025-06-03T14:07:50Z",
+      "content": "At Unreal Fest Orlando, the State of Unreal keynote opened with a live on-stage presentation that offered an early glimpse into the latest Unreal Engine 5 features bringing the open world of The Witc… [+3810 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "EventHubs"
+        "name": "Gizmodo.com"
       },
-      "author": "Justin AdaptiveTrigger Gordon",
-      "title": "Capcom confirms that balance changes for all characters are coming to Street Fighter 6 with the Elena patch - EventHubs",
-      "description": "Elena is set to technically be released in a couple of days as a DLC character in Street Fighter 6 due to time zone differences. Of course, we're also expecting numerous balance adjustments with the upcoming patch.Over the ...",
-      "url": "https://www.eventhubs.com/news/2025/jun/02/capcom-confirms-balance-changes-sf6/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/06/02_all-balance-bnrt.webp",
-      "publishedAt": "2025-06-02T17:35:43Z",
-      "content": "Elena is set to technically be released in a couple of days as a DLC character in Street Fighter 6 due to time zone differences. Of course, we're also expecting numerous balance adjustments with the … [+1563 chars]"
+      "author": "Kyle Barr",
+      "title": "8 Hours With Nintendo’s Switch 2: It’s the Sequel Handheld We Wanted - Gizmodo",
+      "description": "We played a ton of Mario Kart World and also the interactive \"instruction manual,\" Switch 2 Welcome Tour, to get a better feel for the Switch 2.",
+      "url": "https://gizmodo.com/8-hours-with-nintendo-switch-2-its-the-sequel-handheld-we-wanted-2000610277",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-36.jpg",
+      "publishedAt": "2025-06-03T14:00:02Z",
+      "content": "Nintendo’s Switch 2 is a better handheld than the original Switch in both overt and subtle ways. The sticks arent full-sized, but they tilt with just the right amount of force. The plastic has a subt… [+6173 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Megan Farokhmanesh",
+      "title": "'Mario Kart World' Races Are More Chaotic—and Better—Than Ever - WIRED",
+      "description": "Our first impression of the Switch 2 launch title is that it marks a strong start for Nintendo’s new era.",
+      "url": "https://www.wired.com/story/mario-kart-world-first-impressions/",
+      "urlToImage": "https://media.wired.com/photos/683e17fc140920a56d44c36c/191:100/w_1280,c_limit/Mario-Kart-Culture-NintendoSwitch2_MarioKartWorld_Character_SCRN_50.jpg",
+      "publishedAt": "2025-06-03T14:00:00Z",
+      "content": "Keeping the world interesting meant creating variety in these routes, Yabuki says, whether that was a large road or smaller, forest trails. We're certainly not bound by thinking about real-life geogr… [+2654 chars]"
     },
     {
       "source": {
@@ -164,103 +229,25 @@
         "name": "CNET"
       },
       "author": "See full bio",
-      "title": "Nintendo Warns Switch 2 Owners Not to Remove Protective Screen Film - CNET",
-      "description": "Nintendo issues warning for Switch 2 console just days before its widely anticipated release.",
-      "url": "https://www.cnet.com/tech/gaming/nintendo-warns-switch-2-owners-not-to-remove-protective-screen-film/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/3c29e0533c86c06a193b448fda98ca1334844632/hub/2025/04/03/7d5059a9-9be0-4c9f-8d37-528960e19f9f/switch-2-hands-on-00-02-20-01-still002.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-06-02T17:35:00Z",
-      "content": "As excitement builds for Nintendo's upcoming console, the Switch 2, the company is issuing an important warning: Do not peel off the screen's pre-installed protective film. \r\nWhile many users might a… [+2535 chars]"
+      "title": "I Played Hours of Mario Kart World and Used GameChat on the Switch 2. I'm Hooked - CNET",
+      "description": "From the chaos of 24-player races to the fun of group chats to the shrug that is Welcome Tour, the Switch 2 holds a lot of potential. But is it enough to buy right now?",
+      "url": "https://www.cnet.com/tech/gaming/i-played-hours-of-mario-kart-world-and-used-gamechat-on-the-switch-2-im-hooked/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/cf2f4f485828d98eca7e29fc0f829efc7dd38238/hub/2025/06/02/a7279cdf-f29d-4a6f-8d31-36a88a68143d/switch-2-mario-kart-world-courses.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-03T14:00:00Z",
+      "content": "Mario Kart World on the Switch 2 is a lot more interesting when you can see your friend's face floating over the kart you're trying to beat. I'm sitting with some folks from CNET's sister site IGN an… [+8779 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "author": "Abner Li",
-      "title": "Google Photos albums redesign adds Material 3 Expressive toolbar, QR code sharing - 9to5Google",
-      "description": "Google teased Material 3 Expressive for Photos last month, and one part of it — a redesign of the albums view — is now live on Android.",
-      "url": "http://9to5google.com/2025/06/02/google-photos-albums-redesign/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-photos-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-02T17:35:00Z",
-      "content": "Google teased Material 3 Expressive for Photos last month, and one part of it a redesign of the albums view is now live on Android. QR code sharing for albums is also now available following last wee… [+1431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "Heroes of the Storm Live Patch Notes - June 2, 2025 - Blizzard News",
-      "description": "New patch arrived to celebrate 10 Year Anniversary of Heroes of the Storm! Read on for more information.",
-      "url": "https://news.blizzard.com/en-us/article/24206703/heroes-of-the-storm-live-patch-notes-june-2-2025",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jy/JYHX2TFBDGOL1748881108012.png",
-      "publishedAt": "2025-06-02T17:25:00Z",
-      "content": "New patch arrived to celebrate 10 Year Anniversary of Heroes of the Storm! Read on for more information.\r\nQuick Navigation:\r\nGeneral\r\n<ul><li>All Heroes will be free starting from now until June 15th… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iPhone 17 Air will get me to give up my Pro model for one reason - 9to5Mac",
-      "description": "After years of using iPhone Pro models, this fall I plan to buy an iPhone 17 Air instead of the new 17 Pro. Here’s why.",
-      "url": "https://9to5mac.com/2025/06/02/iphone-17-air-give-up-my-pro-model/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-air-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-02T17:21:00Z",
-      "content": "Apple has some major shake-ups coming to its iPhone lineup in the next few years, starting this fall when the iPhone 17 Air replaces the Plus model. My current plan is to replace my iPhone 16 Pro wit… [+2884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Austin Wood",
-      "title": "Stellar Blade dev's game reveal sparks AI art accusations, sounds like its own take on Genshin Impact, and surprises nobody with art so horny I can't show you the whole thing here - GamesRadar+",
-      "description": "Project Witches is now Project Spirits, and looks about as you'd expect",
-      "url": "https://www.gamesradar.com/games/stellar-blade-devs-game-reveal-sparks-ai-art-accusations-sounds-like-its-own-take-on-genshin-impact-and-surprises-nobody-with-art-so-horny-i-cant-show-you-the-whole-thing-here/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ugTVGHuwuJtvUb2DW4NUCo.jpg",
-      "publishedAt": "2025-06-02T17:19:21Z",
-      "content": "Stellar Blade and Goddess of Victory: Nikke developer Shift Up has released the first snippet of art for its upcoming game Project Witches, newly renamed to Project Spirits, and it's as over-the-top … [+3928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Playhearthstone.com"
-      },
-      "author": "Blizzard Entertainment",
-      "title": "Adventure Calls from the Lost City of Un’Goro, Hearthstone’s Next Expansion - Blizzard Entertainment",
-      "description": "A powerful new keyword, the return of Quests, and danger untold await in the Lost City of Un’Goro!",
-      "url": "https://playhearthstone.com/en-us/blog/24204896/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/2r/2RYQ3XCNWDZE1748555920016.jpg",
-      "publishedAt": "2025-06-02T17:08:59Z",
-      "content": "It turns out UnGoro Crater is more than just a big bowl of deadly dinosaurs. Legend tells of a Lost City hidden in its depths, and its up to the great Tortollan explorer Loh to assemble a team of exp… [+3004 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Patricia Hernandez",
-      "title": "Switch 2 pre-orders are getting cancelled days before launch - Polygon",
-      "description": "Walmart, Target, and Best Buy are canceling Switch 2 pre-orders just days before launch, leaving customers frustrated.",
-      "url": "https://www.polygon.com/nintendo-switch-2/602832/preorders-cancelled-walmart-best-buy-target-customers",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/05/switch-2.jpg?quality=90&strip=all&crop=0%2C10.737777045019%2C100%2C78.524445909961&w=1200",
-      "publishedAt": "2025-06-02T17:02:19Z",
-      "content": "The Switch 2 is out on June 5, which means that anyone who scored a pre-order will be keeping a close eye on its status. What people expect are notices that their Switch 2 has been processed or shipp… [+2401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Charles Krome",
-      "title": "This Is The Highest-HP Engine Ever Put In A Pontiac Grand Prix From The Factory - Jalopnik",
-      "description": "In more than four decades, the Grand Prix showcased all sorts of engines. But one stands out for its horsepower ... though it comes with an asterisk.",
-      "url": "https://www.jalopnik.com/1873610/pontiac-grand-prix-highest-horsepower-engine/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/this-is-the-highest-hp-engine-ever-put-in-a-pontiac-grand-prix-from-the-factory/l-intro-1748625051.jpg",
-      "publishedAt": "2025-06-02T16:55:00Z",
-      "content": "Remember that asterisk business from the beginning? The reason behind it is that cars such as the 1962 Grand Prix used to be rated based on gross horsepower, which is measured with the engine complet… [+1011 chars]"
+      "author": "Ethan Gach",
+      "title": "Sony Announces Surprise Last-Minute PlayStation Showcase Ahead Of Summer Game Fest - Kotaku",
+      "description": "Ghost of Yotei and more will likely appear in the new State of Play",
+      "url": "https://kotaku.com/playstation-ps5-summer-showcase-state-play-wolverine-1851783458",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/45a237032253a9739a7b586282b7240b.png",
+      "publishedAt": "2025-06-03T13:55:00Z",
+      "content": "Just when it seemed like Sony might be ditching the not-E3 festivities this year, it announced a new 40-minute State of Play will be airing tomorrow on June 4. The PlayStation showcase arrives in a p… [+1713 chars]"
     }
   ]
 }
