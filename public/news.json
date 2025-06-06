@@ -1,162 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 20,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "Nioh 3 Announced for PS5, Demo Out Now for Two Weeks - Push Square",
+      "description": "Try the new action game today",
+      "url": "https://www.pushsquare.com/news/2025/06/nioh-3-announced-for-ps5-demo-out-now-for-two-weeks",
+      "urlToImage": "https://images.pushsquare.com/8ff86a5983eac/large.jpg",
+      "publishedAt": "2025-06-04T22:25:24Z",
+      "content": "Subscribe to Push Square on YouTube157k\r\nKoei Tecmo has announced Nioh 3 will release for PS5 in early 2026, but you can get a taste of the latest Team Ninja game in a time-limited demo available now… [+856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Alexander Cope",
+      "title": "Final Fantasy Tactics is at long-last getting a remaster for Xbox and PC, and its got a release date - Windows Central",
+      "description": "Square Enix has announced that the legendary strategy-RPG, Final Fantasy Tactics, will finally get remastered for modern consoles and PC as Final Fantasy Tactics: The Ivalice Chronicles, and it's coming out this fall.",
+      "url": "https://www.windowscentral.com/gaming/final-fantasy-tactics-the-ivalice-chronicles-has-been-revealed-for-xbox-and-pc-along-with-a-release-date",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hSFoKgDohUu5A6xcuVrjt4.jpg",
+      "publishedAt": "2025-06-04T22:14:16Z",
+      "content": "Sony's State of Play June 2025 event has made a dream come true for long-time Final Fantasy fans as Square Enix has announced that the classic PlayStation One-era Strategy-RPG, Final Fantasy Tactics,… [+2180 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
       "author": "Benj Edwards",
-      "title": "Polish engineer creates postage stamp-sized 1980s Atari computer - Ars Technica",
-      "description": "Hobby project shrinks 1980s computer platform that pierced the Iron Curtain.",
-      "url": "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/atari_800_1000px-1000x648.jpg",
-      "publishedAt": "2025-06-03T20:22:36Z",
+      "title": "New filament lets you 3D-print parts in authentic 1980s Apple computer color - Ars Technica",
+      "description": "Mac fan paid $900 to color-match iconic Apple beige-gray “Platinum” plastic for everyone.",
+      "url": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/macfilament-1152x648.jpg",
+      "publishedAt": "2025-06-04T22:13:53Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "GameSpot"
       },
-      "author": "Emma Roth",
-      "title": "Google’s NotebookLM now lets you share your notebook — and AI podcasts — publicly - The Verge",
-      "description": "Google’s AI-powered note-taking app, NotebookLM, will now let others view your notebooks with public links.",
-      "url": "https://www.theverge.com/news/678915/google-notebooklm-share-public-link",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-03T18:51:57Z",
-      "content": "Viewers cant edit the notebook, but they can interact with AI audio overviews, ask questions, and read FAQs. \r\nViewers cant edit the notebook, but they can interact with AI audio overviews, ask quest… [+1459 chars]"
+      "author": "Eddie Makuch",
+      "title": "007 First Light Trailer Reveals The First-Ever James Bond Origin Story - GameSpot",
+      "description": "Here's the debut trailer for the next James Bond game.",
+      "url": "https://www.gamespot.com/articles/007-first-light-trailer-reveals-the-first-ever-james-bond-origin-story/1100-6532111/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971423/4507192-6186224255-5d786.jpg",
+      "publishedAt": "2025-06-04T21:48:44Z",
+      "content": "As part of Sony's State of Play event, Hitman developer IO Interactive revealed the first trailer for its James Bond game, 007 First Light. The game is coming to PS5 in 2026.\r\nIt's the franchise's fi… [+1559 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "Here’s how much storage space the Switch 2 actually has - Polygon",
+      "description": "Switch 2’s 256 GB of built-in internal storage isn’t all available for games and other user data. Here’s how much the system eats up at launch.",
+      "url": "https://www.polygon.com/nintendo-switch-2/603892/storage-space-capacity-size-ufs",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/switch2-hand-bg.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-04T21:02:01Z",
+      "content": "Nintendo Switch 2 will launch with 256 GB of internal storage eight times the storage size of the original Switch. But some portion of that advertised 256 GB of storage is gobbled up by the Switch 2s… [+1173 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Gizmodo.com"
       },
-      "author": "Juli Clover",
-      "title": "Testing Samsung's Super Thin Galaxy S25 Edge - MacRumors",
-      "description": "Samsung recently launched the Galaxy S25 Edge, a super thin smartphone that will compete with Apple's upcoming iPhone 17 Air. To see what...",
-      "url": "https://www.macrumors.com/2025/06/03/samsung-galaxy-s25-edge-hands-on/",
-      "urlToImage": "https://images.macrumors.com/t/9lTjvEBdQTXazPclmJE_LK66DKs=/2500x/article-new/2025/06/S25-Daily-Driver-Thumb-4.5.jpg",
-      "publishedAt": "2025-06-03T18:16:43Z",
-      "content": "Samsung recently launched the Galaxy S25 Edge, a super thin smartphone that will compete with Apple's upcoming iPhone 17 Air. To see what it's like using such a thin phone, MacRumors video editor Dan… [+2292 chars]"
+      "author": "James Pero",
+      "title": "Wyze Says ‘Screw It’ and Shoves a Camera Into Its Latest Smart Bulb - Gizmodo",
+      "description": "We can't decide if this is a great or terrible idea for your smart home.",
+      "url": "https://gizmodo.com/wyze-bulb-cam-smart-light-bulb-camera-2000611203",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/Wyze_Bulb_Cam_Shopify-04-1-1200x675.jpg",
+      "publishedAt": "2025-06-04T19:50:40Z",
+      "content": "A famous meme once asked, “Why don’t we have both?” Clearly Wyze agrees. Its latest smart home gadget is the Wyze Bulb Cam, which is exactly what the name impliesa smart bulb that’s also a camera or … [+2137 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Thegamepost.com"
+        "name": "Theshortcut.com"
       },
-      "author": null,
-      "title": "Destiny 2 Edge of Fate Artifact Perks Detailed - The Game Post",
-      "description": "Here's a full breakdown of the new Artifact coming in the Destiny 2 Edge of Fate expansion.",
-      "url": "https://thegamepost.com/destiny-2-edge-of-fate-artifact-perks-detailed/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/06/destiny-2-edge-of-fate-artifact-perks-detailed-3.webp",
-      "publishedAt": "2025-06-03T17:01:51Z",
-      "content": "Here’s a full breakdown of the new Artifact coming in the Destiny 2 Edge of Fate expansion.\r\nTheres a lot to look forward to this summer if youre a Destiny 2 fan. The new expansion, Edge of Fate, lau… [+5032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "Apple unveils winners and finalists of the 2025 Apple Design Awards - Apple",
-      "description": "Today, Apple announced the winners and finalists of this year’s Apple Design Awards, celebrating 12 apps and games that set a high bar in design.",
-      "url": "https://www.apple.com/newsroom/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/tile/Apple-WWDC25-Design-Awards-hero-lp.jpg.og.jpg?202506032117",
-      "publishedAt": "2025-06-03T16:59:24Z",
-      "content": "June 3, 2025\r\nUPDATE\r\nApple unveils winners and finalists of the 2025 Apple Design Awards\r\nWinners and finalists will be recognized for their innovation, ingenuity, and technical achievement at WWDC2… [+8026 chars]"
+      "author": "Matt Swider",
+      "title": "Walmart Nintendo Switch 2 pre-order confirmed: what time it'll be in stock online - The Shortcut | Matt Swider",
+      "description": "Walmart has confirmed that it'll have an online Switch 2 pre-order restock, and we've tracked down the time and where to buy it",
+      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-pre-order-tonight",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4d38436-26db-4814-a684-4e6943efa6fc_1366x768.png",
+      "publishedAt": "2025-06-04T18:24:43Z",
+      "content": "The Walmart Nintendo Switch 2 pre-order time for online orders has been confirmed for tonight, according to Walmart reps who sent a statement to The Shortcut.\r\nBoth the Walmart Switch 2 and Switch 2 … [+3530 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Ryan Whitwam",
-      "title": "Adobe finally releases Photoshop for Android, and it’s free (for now) - Ars Technica",
-      "description": "After releasing Photoshop for iPhone in February, the promised Android version is here.",
-      "url": "https://arstechnica.com/gadgets/2025/06/adobe-finally-releases-photoshop-for-android-and-its-free-for-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Photoshop-android-1-1152x648.jpg",
-      "publishedAt": "2025-06-03T16:36:23Z",
+      "author": "Andrew Cunningham",
+      "title": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat - Ars Technica",
+      "description": "If that $349 price is real then it’s a great deal; if it’s not real, it depends.",
+      "url": "https://arstechnica.com/gadgets/2025/06/review-at-349-amds-16gb-radeon-rx-9060-xt-is-the-new-midrange-gpu-to-beat/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/IMG_3087-1152x648.jpeg",
+      "publishedAt": "2025-06-04T17:42:55Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "David Phelan",
-      "title": "Apple iOS 26 For iPhone: Coming Next Week, A New Era For The iPhone - Forbes",
-      "description": "WWDC25 is just days away, and it promises the biggest software overhaul the iPhone has seen in more than a decade. Here’s a look at what to expect.",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/06/03/apple-ios-26-for-iphone-coming-next-week-a-new-era-for-the-iphone/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683c62d98fabfa155c940fdf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-03T16:20:00Z",
-      "content": "Updated June 3 with further analysis of exactly what will be revealed on Monday, June 9.\r\nWhen Tim Cook introduces Apples World Wide Developer Conference on Monday, June 9, at 10 a.m. Pacific in the … [+5367 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability - The Verge",
-      "description": "iFixit says it has nerfed the original Nintendo Switch’s repairability score, after rival handhelds have shown a better path forward.",
-      "url": "https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/switch-ifixit.jpg?quality=90&strip=all&crop=0%2C3.6736061139922%2C100%2C92.652787772016&w=1200",
-      "publishedAt": "2025-06-03T15:13:56Z",
-      "content": "Its not because of Joy-Con Drift the big reason is the Switch 1s battery.\r\nIts not because of Joy-Con Drift the big reason is the Switch 1s battery.\r\nWould you call the Nintendo Switch easy to repair… [+2256 chars]"
+      "author": "Geoffrey A. Fowler",
+      "title": "Review | 5 AI bots took our tough reading test. One was smartest — and it wasn’t ChatGPT. - The Washington Post",
+      "description": "We challenged AI helpers to decode legal contracts, simplify medical research, speed-read a novel and make sense of Trump speeches. Some of the AI analysis was impressive — and some was downright dumb.",
+      "url": "https://www.washingtonpost.com/technology/2025/06/04/ai-summarizers-analysis-test-documents-books/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WTSJB5KD6ZB7LGOWU2KGZLRRUU.jpg&w=1440",
+      "publishedAt": "2025-06-04T16:29:08Z",
+      "content": "Return to menuSo is that good or bad? Both Claude and ChatGPT produced some analysis that knocked it out of the park, the judges said.\r\nRepeatedly during his evaluations of those two tools, Bohjalian… [+1322 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Magic.gg"
+        "name": "Pinkbike.com"
       },
-      "author": null,
-      "title": "Announcing Upcoming RCQs, Spotlight Events, Eternal Weekends, and More! - magic.gg",
-      "description": "There's plenty of exciting high-level Magic to look forward to in 2025. Take a look at a selection of the events we've cooked up for 2025.",
-      "url": "https://magic.gg/news/announcing-upcoming-rcqs-spotlight-events-eternal-weekends-and-more",
-      "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/6bgdyHv2WCeitvU2MUWtdQ/a008989d691c1ecfec8ad0275a6c7b59/PRM_Laughing_Jasper_Flint_1920x1080.png",
-      "publishedAt": "2025-06-03T15:00:43Z",
-      "content": "Get ready to sling spells and shuffle up with Magic's best at upcoming competitive events! The current round of Regional Championship Qualifiers is underway, and we've been covering the action here o… [+6006 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "Apple’s 2024 M4 MacBook Pro with a 1TB SSD has never been this cheap - The Verge",
-      "description": "Amazon has a spectacular deal on an upgraded M4 MacBook Pro with 1TB of storage. Notably, it costs less than $15 more than the 512GB model.",
-      "url": "https://www.theverge.com/tech/678617/apple-macbook-pro-m4-1tb-laptop-deal-sale-amazon",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25718368/247372_MacBook_Pro_M4_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-03T14:47:06Z",
-      "content": "At Amazon, this upgraded model costs less than $15 more than the 512GB configuration. Were not sure why either.\r\nAt Amazon, this upgraded model costs less than $15 more than the 512GB configuration. … [+1215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Lloyd Coombes",
-      "title": "PS5 has a huge price advantage over Xbox and Switch 2 right now - Eurogamer",
-      "description": "Xbox's recent price hikes have created a huge gap following Sony's PS5 deals for Days of Play",
-      "url": "https://www.eurogamer.net/ps5-has-huge-price-advantage-over-xbox-and-switch-2",
-      "urlToImage": "https://assetsio.gnwcdn.com/ps5-vrr-notext.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-03T14:46:05Z",
-      "content": "Sony's Days of Play sale is in full swing right now (just in time for its State of Play summer showcase), bringing with it a series of discounts on the PS5 and PS5 Pro consoles, but the context of wh… [+1881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bethesda.net"
-      },
-      "author": null,
-      "title": "Fallout 76: Gone Fission Release Notes - Bethesda.net",
-      "description": "Grab your fishing gear and find yourself a nice watering hole, because it’s time to learn the way of the Appalachian waters.",
-      "url": "https://bethesda.net/en/article/2fsxzAz2icHeeJYGR37kQs/fallout-76-gone-fission-release-notes",
-      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/50bb3M1OIsD0HDBWcShhMZ/f789912c124bc95ca17a837617141424/F76_Gone_Fission_LHERO.jpg?fit=fill&w=1200&h=600",
-      "publishedAt": "2025-06-03T14:40:07Z",
-      "content": null
+      "author": "Dario DiGiulio",
+      "title": "Review: Shimano's XTR Drivetrain Finally Goes Wireless - Pinkbike",
+      "description": "It's here - Shimano's new XTR drivetrain ditches the cables, but not the derailleur hanger.",
+      "url": "https://www.pinkbike.com/news/review-shimano-xtr-goes-wireless.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb28254119/p4pb28254119.jpg",
+      "publishedAt": "2025-06-04T16:00:00Z",
+      "content": "Watch here for our semi-scientific comparison of the new XTR and SRAM Transmission.\r\nThough many of the XTR 9200 drivetrain's small details have been updated and reinvented, the core function of the … [+12276 chars]"
     },
     {
       "source": {
@@ -164,90 +138,90 @@
         "name": "Polygon"
       },
       "author": "Austin Manchester",
-      "title": "Elden Ring Nightreign devs confirm they’re working on a duos mode - Polygon",
-      "description": "After admitting that two-player co-op was ‘overlooked’, FromSoftware has confirmed it’s working on the mode — but hasn’t set a timeframe",
-      "url": "https://www.polygon.com/elden-ring/603123/elden-ring-nightreign-duos-mode-confirmed",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/05/elden-ring-nightreign-multiplayer.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-03T14:29:10Z",
-      "content": null
+      "title": "Elden Ring Nightreign haters: Bloodborne is right there - Polygon",
+      "description": "Bloodborne did co-op before it was cool with Chalice Dungeons. Here’s why it holds up 10 years after release.",
+      "url": "https://www.polygon.com/gaming/602971/elden-ring-nightreign-haters-need-to-pick-up-this-10-year-old-masterpiece",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/Chalice_Ritual_Tombstone_1427134850.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-04T15:00:00Z",
+      "content": "Elden Ring Nightreign has shot out of the gates, selling 2 million copies its first day, yet the critical and player reception hasnt reached the same highs that most of FromSoftwares games do. Matchm… [+2676 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Tom Phillips",
+      "title": "Nintendo Switch 2 Day 1 Update Required for Backwards Compatibility, Nintendo Switch Online, Virtual Game Cards, eShop, More - IGN",
+      "description": "Nintendo Switch 2 requires a day one update to unlock major parts of the console's capabilities, including the ability to play Nintendo Switch 1 games.",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-day-1-update-required-for-backwards-compatibility-nintendo-switch-online-virtual-game-cards-eshop-more",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/04/04/switch2-blog-7-1743802230086.jpg?width=1280",
+      "publishedAt": "2025-06-04T14:48:01Z",
+      "content": "Nintendo Switch 2 requires a day one update to unlock major parts of the console's capabilities, including the ability to play Nintendo Switch 1 games.\r\nThe new console is finally available right now… [+2764 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "9to5Mac"
       },
-      "author": "Andrew Romero",
-      "title": "YouTube bug breaks navigation bar on Android, Google investigating - 9to5Google",
-      "description": "Android users are seeing a new bug in YouTube that hides the navigation bar from view, leaving users with blank tabs.",
-      "url": "http://9to5google.com/2025/06/03/youtube-bug-hides-navigation-bar/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/YouTube-for-Android-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-03T14:24:00Z",
-      "content": "Google is looking into a new bug in the YouTube app that hides a critical element of the app’s UI. The bug hides YouTube’s navigation bar, leaving users with no way to access certain pages.\r\nYouTube … [+1241 chars]"
+      "author": "Ryan Christoffel",
+      "title": "These iPhones, Macs, iPads may not support Apple’s new software - 9to5Mac",
+      "description": "iOS 26, iPadOS 26, and macOS 26 are expected to drop support for a variety of models of iPhone, iPad, and Mac devices.",
+      "url": "https://9to5mac.com/2025/06/04/these-iphones-macs-and-ipads-may-not-support-apples-new-software/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/ios26-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-04T14:06:00Z",
+      "content": "Next week, Apple will unveil major new software updates including iOS 26, iPadOS 26, and macOS 26, but rumors indicate these releases will drop support for a variety of existing devices. Here are the… [+1433 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Cdprojekt.com"
+        "name": "Nintendoeverything.com"
       },
-      "author": null,
-      "title": "CD PROJEKT RED and Epic Games Present The Witcher 4 Unreal Engine 5 Tech Demo at The State of Unreal 2025! - cdprojekt.com",
-      "description": "At Unreal Fest Orlando, the State of Unreal keynote opened with a live on-stage presentation that offered an early glimpse into the latest Unreal Engine 5 features bringing the open world of The Witcher 4",
-      "url": "https://www.cdprojekt.com/en/media/news/cd-projekt-red-and-epic-games-present-the-witcher-4-unreal-engine-5-tech-demo-at-the-state-of-unreal-2025/",
-      "urlToImage": "https://www.cdprojekt.com/en/wp-content/uploads-en/2025/06/gshfpj7wuae3wrx-scaled.jpeg",
-      "publishedAt": "2025-06-03T14:07:50Z",
-      "content": "At Unreal Fest Orlando, the State of Unreal keynote opened with a live on-stage presentation that offered an early glimpse into the latest Unreal Engine 5 features bringing the open world of The Witc… [+3810 chars]"
+      "author": "Brian",
+      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
+      "description": "Mario Kart World gets version 1.1.0 update in time for launch on Nintendo Switch 2, and you can check out the patch notes.",
+      "url": "https://nintendoeverything.com/mario-kart-world-1-1-0-update-out-now-patch-notes/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-update-1.1.0.jpg",
+      "publishedAt": "2025-06-04T12:37:04Z",
+      "content": "Alongside the launch of Mario Kart World, Nintendo has prepared a version 1.1.0 update. Those who are starting to get access to Nintendo Switch 2 can download it now.\r\nThe patch brings along various … [+1222 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "MacRumors"
       },
-      "author": "Kyle Barr",
-      "title": "8 Hours With Nintendo’s Switch 2: It’s the Sequel Handheld We Wanted - Gizmodo",
-      "description": "We played a ton of Mario Kart World and also the interactive \"instruction manual,\" Switch 2 Welcome Tour, to get a better feel for the Switch 2.",
-      "url": "https://gizmodo.com/8-hours-with-nintendo-switch-2-its-the-sequel-handheld-we-wanted-2000610277",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-36.jpg",
-      "publishedAt": "2025-06-03T14:00:02Z",
-      "content": "Nintendo’s Switch 2 is a better handheld than the original Switch in both overt and subtle ways. The sticks arent full-sized, but they tilt with just the right amount of force. The plastic has a subt… [+6173 chars]"
+      "author": "Tim Hardwick",
+      "title": "Ex-Apple Designer Reveals 'Living Glass' iOS 26 Concepts - MacRumors",
+      "description": "Designer Sebastiaan de With has published an impressive preview of what Apple's rumored iOS redesign might look like, complete with detailed...",
+      "url": "https://www.macrumors.com/2025/06/04/ex-apple-designer-living-glass-ios-concepts/",
+      "urlToImage": "https://images.macrumors.com/t/kDzeH3mjXzULmHdfV15-meZ7iIo=/1920x/article-new/2025/06/sebastian-de-with-living-glass.jpg",
+      "publishedAt": "2025-06-04T11:17:01Z",
+      "content": "Designer Sebastiaan de With has published an impressive preview of what Apple's rumored iOS redesign might look like, complete with detailed mockups and a design philosophy that he believes could res… [+4785 chars]"
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Megan Farokhmanesh",
-      "title": "'Mario Kart World' Races Are More Chaotic—and Better—Than Ever - WIRED",
-      "description": "Our first impression of the Switch 2 launch title is that it marks a strong start for Nintendo’s new era.",
-      "url": "https://www.wired.com/story/mario-kart-world-first-impressions/",
-      "urlToImage": "https://media.wired.com/photos/683e17fc140920a56d44c36c/191:100/w_1280,c_limit/Mario-Kart-Culture-NintendoSwitch2_MarioKartWorld_Character_SCRN_50.jpg",
-      "publishedAt": "2025-06-03T14:00:00Z",
-      "content": "Keeping the world interesting meant creating variety in these routes, Yabuki says, whether that was a large road or smaller, forest trails. We're certainly not bound by thinking about real-life geogr… [+2654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "See full bio",
-      "title": "I Played Hours of Mario Kart World and Used GameChat on the Switch 2. I'm Hooked - CNET",
-      "description": "From the chaos of 24-player races to the fun of group chats to the shrug that is Welcome Tour, the Switch 2 holds a lot of potential. But is it enough to buy right now?",
-      "url": "https://www.cnet.com/tech/gaming/i-played-hours-of-mario-kart-world-and-used-gamechat-on-the-switch-2-im-hooked/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/cf2f4f485828d98eca7e29fc0f829efc7dd38238/hub/2025/06/02/a7279cdf-f29d-4a6f-8d31-36a88a68143d/switch-2-mario-kart-world-courses.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-06-03T14:00:00Z",
-      "content": "Mario Kart World on the Switch 2 is a lot more interesting when you can see your friend's face floating over the kart you're trying to beat. I'm sitting with some folks from CNET's sister site IGN an… [+8779 chars]"
+      "author": "Jim VandeHei, Mike Allen",
+      "title": "Behind the Curtain: Your AI survival kit - Axios",
+      "description": "There are many generative AI models you can use now for free. Here's a cheat sheet",
+      "url": "https://www.axios.com/2025/06/04/ai-cheat-sheet-chatgpt-grok-gemini-claude",
+      "urlToImage": "https://images.axios.com/H25kE5qdctsEDOgLqCQBeXUhwiE=/0x0:1920x1080/1366x768/2025/06/03/1748969848806.jpg",
+      "publishedAt": "2025-06-04T09:38:53Z",
+      "content": "Today is the Axios AI+ Summit in New York, starting at 2:30 p.m. ET, with top guests from business, science, entertainment and government. Watch the livestream.\r\nAnthropic CEO Dario Amodei's warning … [+7050 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GamesIndustry.biz"
       },
-      "author": "Ethan Gach",
-      "title": "Sony Announces Surprise Last-Minute PlayStation Showcase Ahead Of Summer Game Fest - Kotaku",
-      "description": "Ghost of Yotei and more will likely appear in the new State of Play",
-      "url": "https://kotaku.com/playstation-ps5-summer-showcase-state-play-wolverine-1851783458",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/45a237032253a9739a7b586282b7240b.png",
-      "publishedAt": "2025-06-03T13:55:00Z",
-      "content": "Just when it seemed like Sony might be ditching the not-E3 festivities this year, it announced a new 40-minute State of Play will be airing tomorrow on June 4. The PlayStation showcase arrives in a p… [+1713 chars]"
+      "author": "Sophie McEvoy",
+      "title": "CD Projekt Red clarifies Unreal showcase of Witcher 4 was tech demo, not gameplay - GamesIndustry.biz",
+      "description": "CD Projekt Red has emphasised that footage of The Witcher 4 showcased at State of Unreal 2025 was not gameplay.",
+      "url": "https://www.gamesindustry.biz/cd-projekt-red-clarifies-unreal-showcase-of-witcher-4-was-tech-demo-not-gameplay",
+      "urlToImage": "https://assetsio.gnwcdn.com/ciri-witcher-4_uO5Sykt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-04T08:32:59Z",
+      "content": "CD Projekt Red has emphasised that footage of The Witcher 4 showcased at State of Unreal 2025 was not gameplay.\r\nAs reported by VGC, the developer said it was a \"first look at the cutting edge techno… [+2586 chars]"
     }
   ]
 }
