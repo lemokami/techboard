@@ -1,18 +1,57 @@
 {
   "status": "ok",
-  "totalResults": 22,
+  "totalResults": 28,
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals - The Verge",
+      "description": "Kalshi debuted an AI-generated ad during the NBA finals. The creator behind the ad said it only took two to three days to make using Google Veo 3.",
+      "url": "https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/kalshi-ad-label.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-12T21:33:28Z",
+      "content": "It apparently took just days to make using Googles new text-to-video generator, Veo 3.\r\nIf youve been on social media lately, you mightve seen the unsettling AI slop videos showing AI-generated peopl… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade - Bloomberg.com",
+      "description": "Apple Inc. has set an internal release target of spring 2026 for its delayed upgrade of Siri, marking a key step in its artificial intelligence turnaround effort.",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-12/apple-targets-spring-2026-for-release-of-delayed-siri-ai-upgrade",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.NjCQEp23ug/v1/1200x800.jpg",
+      "publishedAt": "2025-06-12T20:45:31Z",
+      "content": "Apple Inc. has set an internal release target of spring 2026 for its delayed upgrade of Siri, marking a key step in its artificial intelligence turnaround effort. \r\nThe companys Siri team is aiming t… [+274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Samsung Galaxy Z Fold7, Flip7 and Watch8 series bag more certifications - GSMArena.com news - GSMArena.com",
+      "description": "They should all be launching next month. Samsung is expected to unveil the Galaxy Z Fold7, Flip7, and Watch8 series in early or mid-July at a special...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_flip7_and_watch8_series_bag_more_certifications-news-68232.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-galaxy-z-fold7-flip7-watch8-certified/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-06-12T19:01:03Z",
+      "content": "Samsung is expected to unveil the Galaxy Z Fold7, Flip7, and Watch8 series in early or mid-July at a special Unpacked event in New York, and ahead of that all of these devices have been doing the cer… [+930 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "Apple’s Craig Federighi on the long road to the iPad’s Mac-like multitasking - Ars Technica",
-      "description": "Federighi talks to Ars about why the iPad’s Mac-style multitasking took so long.",
-      "url": "https://arstechnica.com/gadgets/2025/06/apples-craig-federighi-on-the-long-road-to-the-ipads-mac-like-multitasking/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Apple-WWDC25-iPadOS-26-hero-250609-1152x648.jpg",
-      "publishedAt": "2025-06-11T22:20:40Z",
+      "author": "Benj Edwards",
+      "title": "Engineer creates first custom motherboard for 1990s PlayStation console - Ars Technica",
+      "description": "New “nsOne” board can save a dying 1990s PlayStation 1 by transplanting original chips.",
+      "url": "https://arstechnica.com/gaming/2025/06/engineer-creates-first-custom-motherboard-for-1990s-playstation-console/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/playstation_image-1152x648.jpg",
+      "publishedAt": "2025-06-12T18:51:04Z",
       "content": null
     },
     {
@@ -20,52 +59,39 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Apple Home is expanding its energy management features - The Verge",
-      "description": "Apple’s new EnergyKit framework lets developers tap into energy use data from the Home app to help reduce and schedule energy use of devices.",
-      "url": "https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-11-at-5.17.43%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.3978066866336%2C100%2C93.204386626733&w=1200",
-      "publishedAt": "2025-06-11T21:34:22Z",
-      "content": "Apples new EnergyKit framework lets developers tap into energy use data from the Home app to help reduce and schedule energy use of devices.\r\nApples smart home didnt get a single nod during the WWDC … [+2988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Billy Givens",
-      "title": "How Long Of A Ride Is Mario Kart World? - Kotaku",
-      "description": "With a brand new open-world structure, Mario Kart is bigger than ever",
-      "url": "https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ae661b433333f8517504b149e9d593ac.jpg",
-      "publishedAt": "2025-06-11T20:35:00Z",
-      "content": "The Mario Kart franchise has been entertaining us all for decadeseven with sibling fights and fits of rage over losing a race from a blue shell at the last secondbut Mario Kart World is the first gam… [+2188 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Google prepares to ‘reduce’ Pixel 6a battery due to ‘overheating issue’ amid fire reports - 9to5Google",
-      "description": "Code in Android 16 suggests that Google will \"reduce\" battery life on the Pixel 6a due to an overheating risk",
-      "url": "http://9to5google.com/2025/06/11/google-pixel-6a-battery-overheating-update-code/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/google-pixel-6a-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-11T19:20:00Z",
-      "content": "Pixel 6a owners may soon see their devices limited in terms of battery life, as code shows that Google is preparing to “reduce” the battery to avoid “a potential overheating” issue.\r\nEarlier this yea… [+3269 chars]"
+      "author": "Emma Roth",
+      "title": "Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet - The Verge",
+      "description": "Garmin has revealed the Venu X1, a premium smartwatch that features a two-inch display and its thinnest case yet. The watch costs $799.99 and launches on June 18th, 2025.",
+      "url": "https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Venu_X1.webp?quality=90&strip=all&crop=0%2C12.306680387035%2C100%2C75.38663922593&w=1200",
+      "publishedAt": "2025-06-12T18:19:08Z",
+      "content": "With a 2-inch, squared-off display, Garmins $799.99 smartwatch looks like a direct competitor to the Apple Watch Ultra 2.\r\nWith a 2-inch, squared-off display, Garmins $799.99 smartwatch looks like a … [+1393 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Aisha Malik",
-      "title": "Snapchat rolls out a new $8.99 Lens+ subscription tier - TechCrunch",
-      "description": "Snapchat is launching a new Snapchat+ tier called \"Lens+,\" the company announced on Wednesday, which is centered around giving users access to exclusive Lenses and AR experiences.",
-      "url": "https://techcrunch.com/2025/06/11/snapchat-rolls-out-a-new-8-99-lens-subscription-tier/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "publishedAt": "2025-06-11T17:54:14Z",
-      "content": "Snapchat on Wednesday announced the launch of a new Snapchat+ tier called “Lens+.” The new tier costs $8.99 per month and, as its name suggests, is centered around giving users access to exclusive Le… [+1792 chars]"
+      "author": "Lauren Forristal",
+      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
+      "description": "At WWDC 2025, Apple announced several AI features, such as a workout coach, live translation, and more.",
+      "url": "https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
+      "publishedAt": "2025-06-12T17:53:12Z",
+      "content": "Last year, Apple’s WWDC keynote highlighted the companys ambitious strides in AI. This year, the company toned down its emphasis on Apple Intelligence and concentrated on updates to its operating sys… [+4652 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles - The Verge",
+      "description": "Comparing the Switch 2 to the original Switch, Steam Deck, PlayStation 5, Xbox Series X, and a bunch of other gaming things — like old GamePros.",
+      "url": "https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-12T17:30:00Z",
+      "content": "Nintendos Switch 2 is faster, more powerful, and all around better than its predecessor in just about every way. Its also bigger than the OG Switch. But, like, how much bigger?\r\nOkay, sure, we can ch… [+2837 chars]"
     },
     {
       "source": {
@@ -73,77 +99,12 @@
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
-      "title": "iOS 26 Will Add 10 New Features to the Messages App on Your iPhone - MacRumors",
-      "description": "iOS 26 includes significant updates for Messages, with the app set to receive at least 10 new features and changes on the iPhone.   Below, we recap...",
-      "url": "https://www.macrumors.com/2025/06/11/ios-26-new-messages-app-features/",
-      "urlToImage": "https://images.macrumors.com/t/FzhnqOqhLjof-SY3roUZFJFxIgM=/2500x/article-new/2025/06/ten-messages-features.jpg",
-      "publishedAt": "2025-06-11T16:58:01Z",
-      "content": "iOS 26 includes significant updates for Messages, with the app set to receive at least 10 new features and changes on the iPhone.\r\nBelow, we recap what is new in the Messages app on iOS 26:\r\n<ul><li>… [+2372 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Meta AI gains video editing capabilities - TechCrunch",
-      "description": "Meta said Wednesday that it is adding video editing capabilities to Meta AI that let users edit short videos using preset AI prompts to change costumes, locations, and styles.",
-      "url": "https://techcrunch.com/2025/06/11/meta-ai-gains-video-editing-capabilities/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/meta-ai-logo.jpg?resize=1200,672",
-      "publishedAt": "2025-06-11T16:55:07Z",
-      "content": "Meta said Wednesday that it is adding video editing capabilities to Meta AI that let users edit short videos using preset AI prompts to change costumes, locations, and styles. With these new features… [+1537 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "HP reveals first Google Beam 3D video conferencing setup, priced at $25,000 - Ars Technica",
-      "description": "The giant 3D video chat system also requires a Google Beam license for cloud processing.",
-      "url": "https://arstechnica.com/gadgets/2025/06/hp-reveals-first-google-beam-3d-video-conferencing-setup-priced-at-25000/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/HP-Dimension-with-Google-Beam-1152x648.jpg",
-      "publishedAt": "2025-06-11T16:17:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Kurt Indovina",
-      "title": "Playing Resident Evil Requiem Left Me With More Questions Than Answers - gamespot.com",
-      "description": "We got hands-on with Resident Evil Requiem, and the terrifying experience left us with more questions than answers, along with confirmation of one key detail.",
-      "url": "https://www.gamespot.com/articles/resident-evil-9-requiem-hands-on-preview/1100-6532336/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1592/15929708/4511465-site-2.jpg",
-      "publishedAt": "2025-06-11T16:00:00Z",
-      "content": "Halfway through 2025's Summer Game Fest, Resident Evil executive producer Jun Takeuchi popped on-screen to acknowledge the anticipation of Resident Evil 9's reveal. \"Bear with us a little longer,\" he… [+7294 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Apple executives say new AI-powered Siri wasn’t ‘demoware’ — it just wasn’t ready to ship - TechCrunch",
-      "description": "Apple senior vice president of software engineering Craig Federighi stressed that AI was a new technology, and something Apple sees more as a \"long-term transformational wave\" that will impact the industry and society for decades to come.",
-      "url": "https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/wwdc-craig-and-joz.jpg?resize=1200,694",
-      "publishedAt": "2025-06-11T15:20:27Z",
-      "content": "In a handful of interviews following Apple’s Worldwide Developers Conference (WWDC 25), Apple executives denied that last year’s demonstrations of a personalized, AI-powered Siri were vaporware, desp… [+2529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Dallas Thomas",
-      "title": "Google's Find Hub finally gets AirTag-like UWB precision finding - Android Police",
-      "description": "Thanks to new firmware for the Moto Tag",
-      "url": "https://www.androidpolice.com/find-hub-uwb-precision-finding-moto-tag-update/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/05/find-hub-hero-moto-tag.jpg",
-      "publishedAt": "2025-06-11T13:49:00Z",
-      "content": "Google has put a lot of effort into its Find Hub lately. From a major rebrand to integrating location sharing and refreshing the entire UI, you might not even recognize what was once called Find My D… [+1792 chars]"
+      "title": "Steve Jobs' Iconic Speech at Stanford Now Available in Higher Quality - MacRumors",
+      "description": "Apple CEO Tim Cook has reminded us that today marks the 20th anniversary of Steve Jobs giving an iconic commencement address at Stanford University. ...",
+      "url": "https://www.macrumors.com/2025/06/12/steve-jobs-stanford-speech-enhanced/",
+      "urlToImage": "https://images.macrumors.com/t/tcHSbUxPM7IEdZyTTXrhGb2E4LY=/1600x/article-new/2025/06/Steve-Jobs-Stanford.jpg",
+      "publishedAt": "2025-06-12T16:02:03Z",
+      "content": "Apple CEO Tim Cook has reminded us that today marks the 20th anniversary of Steve Jobs giving an iconic commencement address at Stanford University.\r\n\"It's hard to believe it's been 20 years since St… [+1659 chars]"
     },
     {
       "source": {
@@ -151,90 +112,77 @@
         "name": "The Verge"
       },
       "author": "Tom Warren",
-      "title": "Nintendo’s Switch 2 is the fastest-selling game console of all time - The Verge",
-      "description": "Nintendo is already breaking records with the Switch 2. The console has sold more than 3.5 million units in just four days.",
-      "url": "https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-11T11:33:42Z",
-      "content": "The Switch 2 has reached a record-breaking 3.5 million units sold in just four days.\r\nNintendo was expecting the Switch 2 would be just as successful as the original, and its already become the faste… [+2288 chars]"
+      "title": "Microsoft’s new Copilot Vision can ‘see’ your apps on Windows - The Verge",
+      "description": "Microsoft is launching Copilot Vision for Windows. It’s a new feature that lets you share your screen or apps to get AI-powered assistance.",
+      "url": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Copilot-Vision-on-Windows.png?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
+      "publishedAt": "2025-06-12T16:00:00Z",
+      "content": "Copilot Vision is now available to all Windows users in the US.\r\nMicrosoft is launching Copilot Vision for Windows today, an extension of its AI assistant that lets you share your screen or apps so t… [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Nothing’s new Phone 3 will be available for general sale in the US - TechCrunch",
+      "description": "Smartphone startup Nothing will sell its next flagship model, the Nothing Phone (3), in the U.S. through its website and Amazon.",
+      "url": "https://techcrunch.com/2025/06/12/nothings-new-phone-3-will-be-available-for-general-sale-in-the-us/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/CMC_6935.jpg?resize=1200,800",
+      "publishedAt": "2025-06-12T16:00:00Z",
+      "content": "Smartphone startup Nothing will sell its next flagship model, the Nothing Phone (3), in the U.S. through its website and Amazon, TechCrunch has exclusively learned. \r\nNothing, which will unveil the n… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft just teased its next-gen Xbox console, and nobody noticed - The Verge",
+      "description": "Microsoft’s Xbox handheld work hints at what’s coming for next-gen Xbox consoles. The future of Xbox looks very PC.",
+      "url": "https://www.theverge.com/notepad-microsoft-newsletter/686101/microsoft-xbox-next-gen-console-handheld-hints-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/chrome_nF7vRuPMAv.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-12T16:00:00Z",
+      "content": "Microsofts Xbox handheld work is an early look at the next Xbox consoles.\r\nI feel like a broken record, but Ive been writing for more than a year that the next Xbox console will be more PC-like. Now,… [+12624 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "MindsEye Dev 'Heartbroken' Amid Troubled Launch as Players Report Success With Refunds and Sponsored Streams Are Canceled Last Minute - IGN",
+      "description": "MindsEye’s troubled launch has continued with reports that the developer is canceling sponsored streams last minute, and some players are securing refunds. The developer has now issued a statement, saying it is \"heartbroken\" over the game's difficulties.",
+      "url": "https://www.ign.com/articles/mindseye-dev-heartbroken-amid-troubled-launch-as-players-report-success-with-refunds-and-sponsored-streams-are-canceled-last-minute",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/12/ss-f4731a3911ac97d68b3dc209e7ed90e25b936e1a-1920x1080-1749739747400.jpg?width=1280",
+      "publishedAt": "2025-06-12T14:53:01Z",
+      "content": "MindsEyes troubled launch has continued with reports that the developer is canceling sponsored streams last minute, and some players are securing refunds. The developer has now issued a statement, sa… [+4243 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Space.com"
       },
-      "author": "Abid Iqbal Shaik",
-      "title": "It's confirmed: Galaxy Z Fold 7 will feature Snapdragon 8 Elite - SamMobile",
-      "description": "Samsung has dominated the foldable phone market in Europe ever since the company released the original Galaxy Fold in 2019. Although Samsung maintained the top spot in Europe in the first quarter of 2025, rivals are now threatening its dominion. Market analys…",
-      "url": "https://www.sammobile.com/news/samsung-dominion-over-european-foldable-phone-market-under-threat/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/06/Galaxy-Z-Fold-7-thin-folded-1200x675.jpg",
-      "publishedAt": "2025-06-11T11:25:24Z",
-      "content": "Samsung is expected to launch its next smartphone with a book-style foldable display, the Galaxy Z Fold 7, at the Galaxy Unpacked event next month. So far, there have been many leaks and rumours abou… [+1720 chars]"
+      "author": "Daisy Dobrijevic",
+      "title": "Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14 - Space",
+      "description": "Aurora chasers, keep your eyes on the skies this weekend as northern lights might be possible at mid-latitudes.",
+      "url": "https://www.space.com/stargazing/auroras/aurora-alert-moderate-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-on-june-14",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XHB5VnkL8fXdF8XLZwxbv8.jpg",
+      "publishedAt": "2025-06-12T14:34:04Z",
+      "content": "The National Oceanic and Atmospheric Administration's (NOAA) Space Weather Prediction Center (SWPC) has issued a geomagnetic storm warning for June 12 due to incoming turbulent space weather. Geomagn… [+2668 chars]"
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Luke Larsen",
-      "title": "The Top New Features in MacOS Tahoe—Including One Feature Mac Nerds Will Love - WIRED",
-      "description": "MacOS 26 Tahoe brings a slew of new features, but the massive overhaul to Spotlight will likely become a fan favorite.",
-      "url": "https://www.wired.com/story/macos-26-tahoe-top-features/",
-      "urlToImage": "https://media.wired.com/photos/6848b2ac3c4782ab381c8b34/191:100/w_1280,c_limit/Apple-WWDC25-macOS-Tahoe-26-Lock-Screen-250609.jpg",
-      "publishedAt": "2025-06-11T11:00:00Z",
-      "content": "We havent been excited about recent MacOS updates, but with MacOS 26 Tahoe, it looks like we'll be getting one of the biggest overhauls in a while.\r\nBetween the visual redesign and some exciting pro … [+3427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Victoria Vesovski",
-      "title": "NYC woman found a phone buried in her lawn — and police say it’s a new tactic thieves use to spy on homeowners - Yahoo",
-      "description": "Someone planted more than flowers in her front yard.",
-      "url": "https://www.yahoo.com/news/nyc-woman-found-phone-buried-105000183.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_327/16c77bf0d6fbd9618dbbf6910077ace5",
-      "publishedAt": "2025-06-11T10:50:00Z",
-      "content": "A Queens woman found what looked like a phone buried in her front lawn but it wasnt just lost property.\r\nMary Kehoe, whos lived in her Forest Hill home for 35 years, spotted the strange device outsid… [+2942 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCWorld"
-      },
-      "author": "Thomas Joos",
-      "title": "Upgrading Windows 10 to 11: Here’s everything you need to know - PCWorld",
-      "description": "Support for Windows 10 ends in October 2025. We explain how to update to Windows 11 24H2 and what you need to keep in mind.",
-      "url": "https://www.pcworld.com/article/2802119/upgrading-windows-10-to-11-heres-everything-you-need-to-know.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/06/Windows11-1.jpg?quality=50&strip=all&w=1024",
-      "publishedAt": "2025-06-11T10:32:14Z",
-      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nFirstly, the good ne… [+8004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Rajesh Pandey",
-      "title": "Google Home makes it easier to create smarter, more precise automations - Android Police",
-      "description": "Simpler and powerful automations!",
-      "url": "https://www.androidpolice.com/google-home-create-smarter-more-precise-automations/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/05/google-home-app-one-home.jpg",
-      "publishedAt": "2025-06-11T05:11:00Z",
-      "content": "As part of Android's latest Feature Bundle, Google rolled out the ability to set device-specific favorites on Android. This means you can set a different group of smart home devices as favorites on y… [+2483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Burkhardt",
-      "title": "Xcode 26 beta includes new ‘Apple Vision Pro 4K’ simulator - 9to5Mac",
-      "description": "Apple held its WWDC25 keynote yesterday, where it announced a new suite of software updates for iOS, iPadOS, macOS, tvOS,...",
-      "url": "https://9to5mac.com/2025/06/10/xcode-26-beta-includes-new-apple-vision-pro-4k-reference/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/vision-pro-color-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-10T21:11:00Z",
-      "content": "Apple held its WWDC25 keynote yesterday, where it announced a new suite of software updates for iOS, iPadOS, macOS, tvOS, watchOS, and visionOS – all under the new version numbering umbrella of ’26’.… [+991 chars]"
+      "author": "Michael McWhertor",
+      "title": "Silent Hill remake from Bloober Team and Konami announced - Polygon",
+      "description": "Konami’s original Silent Hill is getting the remake treatment from Bloober Team, developer of Silent Hill 2.",
+      "url": "https://www.polygon.com/news/606592/silent-hill-remake-bloober-team-konami",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/gallespie.jpeg?quality=90&strip=all&crop=0%2C11.78392631941%2C100%2C76.43214736118&w=1200",
+      "publishedAt": "2025-06-12T14:05:16Z",
+      "content": "After successfully remaking Konamis psychological survival horror classic Silent Hill 2, developer Bloober Team is moving on to its predecessor. Konami announced Thursday at its Press Start games sho… [+1700 chars]"
     },
     {
       "source": {
@@ -242,12 +190,51 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "XREAL says its Android XR glasses only work wired, teases ‘largest screen,’ 2026 launch - 9to5Google",
-      "description": "XREAL’s first pair of Android XR glasses, “Project Aura,” were announced alongside Google I/O last month, and some new details...",
-      "url": "http://9to5google.com/2025/06/10/xreal-android-xr-project-aura-glasses-wired-screen-launch-date/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/xreal-project-aura-android-xr.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-10T19:15:00Z",
-      "content": "XREAL’s first pair of Android XR glasses, “Project Aura,” were announced alongside Google I/O last month, and some new details are now coming out about the display and that you’ll need a wired “puck”… [+2356 chars]"
+      "title": "Samsung rolling out second One UI 8 beta as the program expands to new regions - 9to5Google",
+      "description": "The second One UI 8 beta is now available, but with a much smaller list of changes compared to the first one.",
+      "url": "http://9to5google.com/2025/06/12/samsung-one-ui-8-beta-2-galaxy-s25/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/One-UI-8-Beta-Download-Galaxy-S25-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-12T13:55:00Z",
+      "content": "Following its launch last month, Samsung has just rolled out the second One UI 8 beta while also expanding the program to some new regions around the globe.\r\nOne UI 8 is Samsung’s Android 16 update f… [+2135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon Slashes AirPods 4 Prices Just Before Prime Day, Now Closer to $0 Than $200 - Gizmodo",
+      "description": "Amazon is emptying its AirPods 4 stock in mid-June, and no one knows why.",
+      "url": "https://gizmodo.com/amazon-slashes-airpods-4-prices-just-before-prime-day-now-closer-to-0-than-200-2000614817",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/airpods4-1200x675.jpg",
+      "publishedAt": "2025-06-12T13:25:15Z",
+      "content": "AirPods 4 are dominating Amazon this June and both Active Noise Cancellation (ANC) models and the non-ANC models of the new wireless earbuds are priced lowest ever. The non-ANC AirPods 4 currently co… [+2250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Cole Martin",
+      "title": "11 bit studios' The Alters changed my mind about sci-fi games - Windows Central",
+      "description": "11 bit studios' The Alters is a sci-fi strategy game where survival hinges on choosing different life paths to create altered clones of yourself. But is there enough substance here to make me alter my feelings on sci-fi narratives?",
+      "url": "https://www.windowscentral.com/gaming/the-alters-pc-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bw6p9vNqeZhiRL57xZNguf.jpg",
+      "publishedAt": "2025-06-12T12:00:00Z",
+      "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Before I begin gush… [+13893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "author": "Daniel John",
+      "title": "A tiny detail in Apple's new software is driving designers round the bend - Creative Bloq",
+      "description": "This one's like a red rag to a designer.",
+      "url": "https://www.creativebloq.com/web-design/ux-ui/of-course-designers-are-losing-it-over-apples-corner-radiuses-in-macos-tahoe",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oCfw6ChySqWTiAfNx2pdFj.jpg",
+      "publishedAt": "2025-06-12T11:14:19Z",
+      "content": "While the fanfare of Apple's WWDC announcements are always exciting, there's something to be said for the subsequent days, which fans and designers alike invariably spend poring over every pixel of t… [+2430 chars]"
     }
   ]
 }
