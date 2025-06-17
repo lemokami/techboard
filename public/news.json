@@ -1,175 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 54,
+  "totalResults": 66,
   "articles": [
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Sarah Perez",
-      "title": "The App Store’s new AI-generated tags are live in the beta - TechCrunch",
-      "description": "Apple's plans to improve App Store discoverability using AI tagging techniques are now available in the developer beta build of iOS 26. However, the tags",
-      "url": "https://techcrunch.com/2025/06/14/the-app-stores-new-ai-generated-tags-are-live-in-the-beta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=1180",
-      "publishedAt": "2025-06-14T16:01:49Z",
-      "content": "Apple’s plans to improve App Store discoverability using AI tagging techniques are now available in the developer beta build of iOS 26.\r\nHowever, the tags do not appear on the public App Store as of … [+1786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Dauglas Denga",
-      "title": "This Powerful Airplane Engine Has Been Around For Over 70 Years & Is Still Used Today - SlashGear",
-      "description": "The Lycoming O-320 engine, a four-cylinder, horizontally opposed, air-cooled engine, is so reliable that they are still in use today despite being 70 years old.",
-      "url": "https://www.slashgear.com/1882869/airplane-piston-engine-70-years-old-how-much-power/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/this-powerful-airplane-engine-has-been-around-for-over-70-years-is-still-used-today/l-intro-1749577917.jpg",
-      "publishedAt": "2025-06-14T16:00:00Z",
-      "content": "The Lycoming O-320 has several features that make it stand out among its peers. One aspect is its magneto ignition system, which features a self-contained engine-driven alternating current generator … [+1168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Fran Ruiz",
-      "title": "'The Alters' is a genre-blending sci-fi survival ordeal about the horrors of being a project manager - Space",
-      "description": "11 bit studios' sci-fi adventure makes you team leader and asks you to balance base-building, survival, branching narratives, and keeping your team motivated.",
-      "url": "https://www.space.com/entertainment/space-games/the-alters-is-a-genre-blending-sci-fi-survival-ordeal-about-the-horrors-of-being-a-project-manager",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2NLcDPihuvnhemXMiku7fZ.jpg",
-      "publishedAt": "2025-06-14T16:00:00Z",
-      "content": "We wouldn't bat an eye if you compared Jan Dolski, the protagonist of The Alters, to Robert Pattinson's Mickey Barnes after playing two hours of 11 bit studios' latest. It's the sort of space video g… [+5109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Fallout Shelter has been downloaded over 230 million times in 10 years - Eurogamer",
-      "description": "On the tenth anniversary of the release of free-to-play Fallout Shelter, Bethesda has revealed the management sim game …",
-      "url": "https://www.eurogamer.net/fallout-shelter-has-been-downloaded-over-230-million-times-in-10-years",
-      "urlToImage": "https://assetsio.gnwcdn.com/Fallout-Shelter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-14T15:54:17Z",
-      "content": "On the tenth anniversary of the release of free-to-play Fallout Shelter, Bethesda has revealed the management sim game has been downloaded 230 million times across all platforms.\r\nUnsurprisingly, Bet… [+1361 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Geoffrey Bunting",
-      "title": "Answering the Nintendo Switch 2’s lingering accessibility questions - The Verge",
-      "description": "The Nintendo Switch 2 includes a number of welcome accessibility options and features for gamers.",
-      "url": "https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0193_5c29e2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-14T14:00:00Z",
-      "content": "Answering the Nintendo Switch 2s lingering accessibility questions\r\nNintendo has kept quiet about the devices accessibility options, even though its off to a good start.\r\nAnswering the Nintendo Switc… [+7694 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Patricia Hernandez",
-      "title": "Switch 2 Joy-Con drift is already haunting Nintendo - polygon.com",
-      "description": "PS5, Xbox, and Switch all experience drift, and the Switch 2 will be no different based on early reports and legal history.",
-      "url": "https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/switchjoycon2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.509814937691&w=1200",
-      "publishedAt": "2025-06-14T12:00:00Z",
-      "content": "Stick drift comes for everyone, but Nintendo Switch hardware has a reputation for being particularly prone to failure. Naturally, everyone is wondering if the Nintendo Switch 2 and its new Joy-Con co… [+5706 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "I found a simple toggle to get rid of ads in my Gmail inbox, and I can't recommend it enough - Android Authority",
-      "description": "Changing this Gmail setting gets rid of ads that look like real emails, and it won't cost you anything.",
-      "url": "https://www.androidauthority.com/disable-ads-gmail-inbox-3565883/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/gmail-sponsored-emails-inbox-view-scaled.jpg",
-      "publishedAt": "2025-06-14T11:27:53Z",
-      "content": "I hate nothing more than advertising online that blends into the rest of the content. Thats especially true when it shows up in places where I least expect it, like my email inbox. In the Gmail app, … [+3678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Your Apple Watch is getting a big upgrade. Here are the 8 features I can't wait to use in WatchOS 26 - ZDNET",
-      "description": "Big changes are coming to your Apple Watch. Here are the top WatchOS 26 features Apple unveiled at WWDC 2025.",
-      "url": "https://www.zdnet.com/article/your-apple-watch-is-getting-a-big-upgrade-here-are-the-8-features-i-cant-wait-to-use-in-watchos-26/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9bd76775b0238e567a5d29777fc6e5e6c743da2a/2024/09/09/ca2cd5b0-6ec3-4863-aafc-aee991b99542/dsc02049.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-06-14T11:00:00Z",
-      "content": "Apple/ZDNET\r\nYour iPhone, Apple Watch, and other Apple-owned devices are getting a big overhaul soon. The tech giant recently rolled out all of the newest apps and updates coming to its devices over … [+6377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Jordan Middler",
-      "title": "Pre-orders for the Xbox Rog Ally will reportedly begin in August, with launch expected two months later - Video Games Chronicle",
-      "description": "The new Xbox-branded handheld will support Steam, GOG, Battlenet and more",
-      "url": "https://www.videogameschronicle.com/news/pre-orders-for-the-xbox-rog-ally-will-reportedly-begin-in-august-with-launch-expected-two-months-later/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/06/Capture-1.jpg",
-      "publishedAt": "2025-06-14T10:28:15Z",
-      "content": "Pre-orders for the Xbox ROG Ally will reportedly open in August, with the handheld expected to launch two months later.\r\nThe handheld, which was announced during the Xbox Game Showcase at Summer Game… [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "Apple’s SVP Of Software Engineering Craig Federighi Wants To Maintain The iPad’s Simplicity, Making It The Best Touch Computer, As He Responds To The Possibility Of These Tablets Running macOS - Wccftech",
-      "description": "Talking in an interview, Apple’s Craig Federighi believes that the iPad’s simplicity should be maintained, which is why it might never run macOS",
-      "url": "https://wccftech.com/apple-craig-federighi-interview-why-macos-will-not-come-to-the-ipad/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/06/iPadOS-26-1.jpg",
-      "publishedAt": "2025-06-14T09:06:00Z",
-      "content": "The Liquid Glass UI makeover was not the only change Apple introduced with iPadOS 26, because the company has now increased the productivity list for compatible tablets, bringing multitasking to the … [+2057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NOLA.com"
-      },
-      "author": "MADDIE SCOTT | Staff writer",
-      "title": "With red carpet and a second line, New Orleans welcomes 6,000 Pokémon competitors - NOLA.com",
-      "description": "Pikachu and Eevee second line at day 1 of the Pokémon North America International Championships in New Orleans.",
-      "url": "https://www.nola.com/news/pokmon-north-atlantic-international-championships/article_50bd6d88-1d82-4716-8bb7-8bf358ee0192.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/1/86/18632666-6802-465d-8317-e1f8a144011c/684c973a60035.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-06-14T09:00:00Z",
-      "content": "In another area, master division players, those 16 and older, were engaged in mostly silent battles as Pokémon Professors, which act as referees, roamed the area to keep a watchful eye on matches.\r\nA… [+731 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa Eadicicco",
-      "title": "Google, Meta and Snap think this tech is the next big thing - CNN",
-      "description": "Big Tech has been on a mission to find the next technology that would become as pervasive as the smartphone. Nearly two decades after the first iPhone launched, Silicon Valley thinks it’s finally found the answer: Smart glasses.",
-      "url": "https://www.cnn.com/2025/06/14/tech/google-meta-snap-smart-glasses-ai",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215393173.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-06-14T09:00:00Z",
-      "content": "Silicon Valley thinks its finally found the next big thing in tech: smart glasses the same thing Google tried (and failed at) more than a decade ago.\r\nBut Google Glass may simply have been ahead of i… [+6338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Dan Lipscombe",
-      "title": "Steam drops 8 free games, yours to keep forever with no subscription - GAMINGbible",
-      "description": "Steam has 8 new free games for you to download and keep forever",
-      "url": "https://www.gamingbible.com/news/platform/steam/steam-drops-8-free-games-982624-20250609",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt20b6194a1a399738/6846bc221045844e7c639c35/Steam.png",
-      "publishedAt": "2025-06-13T23:30:22Z",
-      "content": "Steam is often host to many free games, many of which slip under the radar because theyre not championed on the store page.\r\nIt can be tough to keep up with everything available, as Steam houses hund… [+1714 chars]"
+      "author": "Noah Hunter",
+      "title": "The Best Deals Today: Indiana Jones and the Great Circle, Nintendo Switch OLED, and More - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/best-deals-for-june-15-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/23/indiana-jones-great-circle-gamescom-2024-1724419390929.png?width=1280",
+      "publishedAt": "2025-06-15T20:01:07Z",
+      "content": "Father's Day is almost here, and now is the time to score some last-minute gifts, as well as catch some popular item restocks. We've rounded up the best deals for Saturday, June 14, below, so don't m… [+3322 chars]"
     },
     {
       "source": {
@@ -177,90 +21,246 @@
         "name": "ComicBook.com"
       },
       "author": "Tyler Fischer",
-      "title": "Resident Evil Requiem Report Reveals Huge Surprise Capcom Is Keeping Secret - ComicBook.com",
-      "description": "A new report about Resident Evil Requiem, aka Resident Evil 9, has revealed a huge surprise Capcom is keeping secret.",
-      "url": "http://comicbook.com/gaming/news/resident-evil-requiem-9-re9-capcom-leon/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/06/resident-evil.jpg?resize=2000,1125",
-      "publishedAt": "2025-06-13T23:22:02Z",
-      "content": "A new Resident Evil Requiem report has revealed a huge surprise Capcom is keeping secret about the Resident Evil 7 and Resident Evil Village sequel. Resident Evil Requiem — aka Resident Evil 9 — was … [+1956 chars]"
+      "title": "June 17 Is Going to Be a Big Day for Xbox Game Pass Subscribers - ComicBook.com",
+      "description": "June 17 is going to be a big day for Xbox Game Pass subscribers, as three games are being added, including two day-one games.",
+      "url": "http://comicbook.com/gaming/news/xbox-game-pass-ultimate-pc-gamepass-new-games-day-one-june/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/x-b-o-x-g-a-m-e-p-a-s-s_337c09.png?resize=2000,1125",
+      "publishedAt": "2025-06-15T19:53:24Z",
+      "content": "Xbox Game Pass subscribers will want to circle June 17 on their calendars. And that is because in two days Xbox Game Pass subscribers are getting three additions all at once, including two new day on… [+2719 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "DualShockers"
       },
-      "author": "James Whitbrook",
-      "title": "The Best ‘Final Fantasy’ References in Its Huge ‘Magic: The Gathering’ Crossover - Gizmodo",
-      "description": "The big 'Final Fantasy' and 'Magic' crossover set hits stores today, and is jam-packed with flavorful nods to video gaming history.",
-      "url": "https://gizmodo.com/final-fantasy-magic-the-gathering-best-easter-eggs-refrences-2000615683",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/magic-the-gathering-final-fantasy-terra-cloud-wol-yshtola-1200x675.jpg",
-      "publishedAt": "2025-06-13T23:01:30Z",
-      "content": "Today one of the biggest sets in Magic: The Gathering‘s recent history makes its grand arrival at last: Final Fantasy, the first of Magic‘s at-times-controversial “Universes Beyond” crossovers with o… [+17688 chars]"
+      "author": "Callum Marshall",
+      "title": "10 Best RPGs With Near Flawless Steam User Review Scores - DualShockers",
+      "description": "If you want to play what the players say is the best RPG on Steam, then play these 10 Best RPGs With Near Flawless Steam User Review Scores",
+      "url": "https://www.dualshockers.com/best-rpgs-with-near-flawless-steam-user-review-scores/",
+      "urlToImage": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2025/06/aa-30.jpg",
+      "publishedAt": "2025-06-15T18:35:00Z",
+      "content": "There are plenty of beloved and respected genres that make up the video game market today, but you would be pretty hard-pressed to name one with as much consistent success and acclaim as the RPG genr… [+9784 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Videocardz.com"
       },
-      "author": "Marcus Mendes",
-      "title": "New paper pushes back on Apple’s LLM ‘reasoning collapse’ study - 9to5Mac",
-      "description": "Apple’s recent AI research paper, “The Illusion of Thinking”, has been making waves, but not everyone agrees with its conclusion.",
-      "url": "https://9to5mac.com/2025/06/13/new-paper-pushes-back-on-apples-llm-reasoning-collapse-study/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-slash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-13T22:53:00Z",
-      "content": "Apples recent AI research paper, The Illusion of Thinking, has been making waves for its blunt conclusion: even the most advanced Large Reasoning Models (LRMs) collapse on complex tasks. But not ever… [+3940 chars]"
+      "author": null,
+      "title": "Unreleased GeForce RTX 3080 Ti with 20GB memory spotted on eBay - VideoCardz.com",
+      "description": "NVIDIA did plan to launch RTX 3080 Ti with 20GB memory and here’s proof Rumors about an RTX 3080 Ti with increased memory started circulating in late 2020. The graphics card was spotted and even produced by board partners like MSI and Gigabyte. Between 2021 a…",
+      "url": "https://videocardz.com/newz/unreleased-geforce-rtx-3080-ti-with-20gb-memory-spotted-on-ebay",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/06/3080TI-HERO.jpg",
+      "publishedAt": "2025-06-15T18:08:00Z",
+      "content": "Rumors about an RTX 3080 Ti with increased memory started circulating in late 2020. The graphics card was spotted and even produced by board partners like MSI and Gigabyte. Between 2021 and 2023, mul… [+1672 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Videocardz.com"
       },
-      "author": "Juli Clover",
-      "title": "iOS 26 Adds Support for Transferring an eSIM to and From Android - MacRumors",
-      "description": "With iOS 26, Apple is adding support for transferring an eSIM from an iPhone to an Android device, and vice versa. The new functionality will make it...",
-      "url": "https://www.macrumors.com/2025/06/13/ios-26-esim-android/",
-      "urlToImage": "https://images.macrumors.com/t/H59vx2_fL580D-PZl9HeALvW7MI=/3813x/article-new/2025/06/ios-26-android-transfer-esim.jpg",
-      "publishedAt": "2025-06-13T21:31:45Z",
-      "content": "With iOS 26, Apple is adding support for transferring an eSIM from an iPhone to an Android device, and vice versa. The new functionality will make it easier for smartphone users to move their numbers… [+1260 chars]"
+      "author": null,
+      "title": "Fake RTX 4090 with laser-engraved GA102 GPU exposed by repair shop, a recurring scam - VideoCardz.com",
+      "description": "Fake RTX 4090 with GA102 GPUs spotted at a repair shop Good old switcheroo. There’s a scam involving GeForce RTX 4090 graphics cards that targets customers looking for better deals through unofficial retail channels. It’s the perfect opportunity to sell defec…",
+      "url": "https://videocardz.com/newz/fake-rtx-4090-with-laser-engraved-ga102-gpu-exposed-by-repair-shop-a-recurring-scam",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/06/FAKE-RTX4090.jpg",
+      "publishedAt": "2025-06-15T17:08:00Z",
+      "content": "Good old switcheroo.\r\nThere’s a scam involving GeForce RTX 4090 graphics cards that targets customers looking for better deals through unofficial retail channels. Its the perfect opportunity to sell … [+1663 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "TechSpot"
       },
-      "author": "Jennifer Maas",
-      "title": "Summer Game Fest Viewership Jumps 89% to Record 50 Million Livestreams - Variety",
-      "description": "The 2025 edition of Summer Game Fest saw an 89% year-over-year growth in live peak viewership, according to StreamsCharts.",
-      "url": "https://variety.com/2025/gaming/news/summer-game-fest-viewership-record-50-million-livestreams-1236431017/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/Resident-Evil-Requiem-1.png?w=1000&h=563&crop=1",
-      "publishedAt": "2025-06-13T21:31:00Z",
-      "content": "The 2025 edition of Summer Game Fest saw an 89% year-over-year growth in live peak viewership, according to StreamsCharts.\r\nAiring live across YouTube, Twitch and X (formerly Twitter) on June 6, the … [+1747 chars]"
+      "author": "Skye Jacobs",
+      "title": "Stolen iPhones disabled by Apple's anti-theft tech after Los Angeles looting - TechSpot",
+      "description": "Apple's retail locations are equipped with advanced anti-theft technology that renders display devices useless once they leave the premises. The moment a demonstration iPhone is taken beyond...",
+      "url": "https://www.techspot.com/news/108318-stolen-iphones-disabled-apple-anti-theft-tech-after.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/06/2025-06-15-image-4.jpg",
+      "publishedAt": "2025-06-15T16:02:00Z",
+      "content": "What just happened? As protests against federal immigration enforcement swept through downtown Los Angeles last week, a wave of looting left several major retailers, including Apple, T-Mobile, and Ad… [+3035 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "/FILM"
       },
-      "author": "Juli Clover",
-      "title": "Apple Seeds Revised iOS 26 Developer Beta to Fix Battery Issue - MacRumors",
-      "description": "Apple today provided developers with a revised version of the first iOS 26 beta for testing purposes. The update is only available for the iPhone 15...",
-      "url": "https://www.macrumors.com/2025/06/13/apple-seeds-revised-ios-26-developer-beta/",
-      "urlToImage": "https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg",
-      "publishedAt": "2025-06-13T21:04:45Z",
-      "content": "('https://www.macrumors.com/2025/06/13/apple-seeds-revised-ios-26-developer-beta/')Apple today provided developers with a revised version of the first iOS 26 beta for testing purposes. It's not clear… [+1144 chars]"
+      "author": "Bill Bria",
+      "title": "Apple's Latest Movie Trailer Innovation Suggests The Future Of Premium Home Viewing - SlashFilm",
+      "description": "Apple has introduced a new way for movie lovers to watch trailers for new releases on their phones, kicking it off with F1.",
+      "url": "https://www.slashfilm.com/1885916/apple-movie-haptic-trailer-innovation-premium-home-viewing-future/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/apples-latest-movie-trailer-innovation-suggests-the-future-of-premium-home-viewing/l-intro-1749858080.jpg",
+      "publishedAt": "2025-06-15T16:00:00Z",
+      "content": "Unlike the more involved and harder to succinctly explain formats of Screen X and 4DX, the haptic trailer is fairly simple. While the trailer unfolds, the iPhone buzzes in conjunction with the action… [+2126 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "EventHubs"
       },
-      "author": "Cale Hunt",
-      "title": "$80 Xbox games seem like a steal compared to what I'm paying, and I don't like it - Windows Central",
-      "description": "Exchange rate arguments don't help my bank balance when games are topping $100 before taxes.",
-      "url": "https://www.windowscentral.com/gaming/usd80-xbox-games-consider-yourself-lucky-theyre-a-lot-more-where-i-live",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tzg6kvMyBu6SrcFnbUxFs5.jpg",
-      "publishedAt": "2025-06-13T21:00:00Z",
-      "content": "A major takeaway from the Xbox Games Showcase last weekend was the fact that $80 Xbox games have arrived.\r\nHuh. Must be nice.\r\nThe Outer Worlds 2 is the game that has everyone in a tizzy, as it’s the… [+3826 chars]"
+      "author": "Justin AdaptiveTrigger Gordon",
+      "title": "Andy Bogard's Fatal Fury: City of the Wolves gameplay trailer revealed, releases June 24 - EventHubs",
+      "description": "Near the conclusion of the Fatal Fury: City of the Wolves event at CEO 2025, SNK revealed that they had a surprise ready to show fans. They dropped the Andy Bogard gameplay trailer, though it's worth mentioning that we ...",
+      "url": "https://www.eventhubs.com/news/2025/jun/15/andy-bogard-gameplay-trailer-ffcotw/",
+      "urlToImage": "https://media.eventhubs.com/images/2025/06/15_andy-trailer-bnrt.webp",
+      "publishedAt": "2025-06-15T15:48:24Z",
+      "content": "Near the conclusion of the Fatal Fury: City of the Wolves event at CEO 2025, SNK revealed that they had a surprise ready to show fans. They dropped the Andy Bogard gameplay trailer, though it's worth… [+988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Tyler Fischer",
+      "title": "PlayStation Fans Call New PS1 Remake Announcement the \"Best News This Year\" - ComicBook.com",
+      "description": "PlayStation fans are getting a new PS1 remake, and those on PS5 are very excited and surprised with the news.",
+      "url": "http://comicbook.com/gaming/news/ps1-playstation-1-sony-remake-news/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/p-s-1.png?resize=2000,1125",
+      "publishedAt": "2025-06-15T15:30:09Z",
+      "content": "PlayStation fans are very excited and very surprised by the announcement of a new PS1 remake, calling it the “best news this year.” Obviously, the PS1 is a very nostalgic console for many PlayStation… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Christy Rakoczy",
+      "title": "This T-Mobile free phone offer may be its hottest deal yet - TheStreet",
+      "description": "The phone offer waives a common, annoying requirement.",
+      "url": "https://www.thestreet.com/technology-1/this-t-mobile-free-phone-offer-may-be-its-hottest-deal-yet",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjEzMzk1NjI0MzE2MzgxMDIx/t-mobile-plans-to-lay-off-seven-percent-of-workforce-amid-heavy-competition-1.jpg",
+      "publishedAt": "2025-06-15T15:03:00Z",
+      "content": "T-Mobile is one of the largest cell phone carriers in the U.S., and it’s only been growing. In fact, the company reported a surge in new postpaid customers in the first quarter of 2025 and boasted im… [+3481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Minecraft's \"Vibrant Visuals\" update finally has a release date - Eurogamer",
+      "description": "Minecraft's Vibrant Visuals update finally has a release date: 17th June.",
+      "url": "https://www.eurogamer.net/minecrafts-vibrant-visuals-update-finally-has-a-release-date",
+      "urlToImage": "https://assetsio.gnwcdn.com/MCV_VibrantVisuals_MCL_comparison_04_tundra.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-15T14:44:03Z",
+      "content": "Minecraft's Vibrant Visuals update finally has a release date: 17th June.\r\nWe've known for some time that Mojang was planning on a visual overhaul for Minecraft, and yesterday (14th June), the studio… [+1942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Stephen Radochia",
+      "title": "Separating Material 3 Expressive from Android 16 was Google's smartest move all year - Android Police",
+      "description": "History doesn’t repeat itself",
+      "url": "https://www.androidpolice.com/google-android-16-material-3-expressive/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/conceptual-split-screen-image-showing-android-16-on-the-left-with-the-android-mascot-and-material-3-expressive-on-the-right-with-colorful-ui-elements-and-a-large-number-3.png",
+      "publishedAt": "2025-06-15T14:19:00Z",
+      "content": "I'm excited about Google's Material 3 Expressive. From early previews, it's clear that Google has done an excellent job of creating a clean aesthetic, making notable improvements over the outgoing Ma… [+4220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "Over 46,000 Grafana instances exposed to account takeover bug - BleepingComputer",
+      "description": "More than 46,000 internet-facing Grafana instances remain unpatched and exposed to a client-side open redirect vulnerability that allows executing a malicious plugin and account takeover.",
+      "url": "https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/06/23/header-grafana.jpg",
+      "publishedAt": "2025-06-15T14:07:56Z",
+      "content": "More than 46,000 internet-facing Grafana instances remain unpatched and exposed to a client-side open redirect vulnerability that allows executing a malicious plugin and account takeover.\r\nThe flaw i… [+3168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamingbible.com"
+      },
+      "author": "Kate Harrold",
+      "title": "Fallout meets BioShock in fascinating new adventure game - GAMINGbible",
+      "description": "Fallout and BioShock fans should keep an eye on upcoming adventure game PVKK which sounds brilliant.",
+      "url": "https://www.gamingbible.com/news/platform/steam/fallout-meets-bioshock-new-adventure-game-482130-20250612",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9d38855f11027f61/684a9aa5a4b05047a513c811/pvkk.jpg",
+      "publishedAt": "2025-06-15T14:00:06Z",
+      "content": "If youre a fan of Fallout or BioShock, then youre most definitely going to want to keep an eye on PVKK.\r\nOr if you want to use the games full name, its PVKK: Planetenverteidigungskanonenkommandant.\r\n… [+1840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "Red Dead Redemption star teases he \"cannot wait\" for us to know about a big announcement that's coming \"before Friday\" - Eurogamer",
+      "description": "Another day, another Red Dead rumour, but this one comes from John Marston himself - or, at least, the actor who brings…",
+      "url": "https://www.eurogamer.net/red-dead-redemption-star-teases-he-cannot-wait-for-us-to-know-about-a-big-announcement-thats-coming-before-friday",
+      "urlToImage": "https://assetsio.gnwcdn.com/red-dead-redemption-remaster_ubemHZQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-15T13:47:19Z",
+      "content": "Another day, another Red Dead rumour, but this one comes from John Marston himself - or, at least, the actor who brings him to life, Rob Wiethoff.\r\nIn his latest Red Dead Redemption livestream, as sp… [+1833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Taylor Kerns",
+      "title": "This decades-old Gmail trick is still my favorite email management hack - Android Police",
+      "description": "Supercharge your filters",
+      "url": "https://www.androidpolice.com/gmail-plus-trick/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/gmail-plus-graphic.jpg",
+      "publishedAt": "2025-06-15T13:37:00Z",
+      "content": "Email is a staple of modern life, but it's also generally awful. If you're like most people, your inbox is a hellscape mix of expired 2FA codes, spam, and important information you actually need that… [+3909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Davey Winder",
+      "title": "Change Your Gmail Password Now, Google Tells 2 Billion Users - Forbes",
+      "description": "Google says change your Gmail password as attacks continue — don't wait, act now.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/06/15/change-your-gmail-password-now-google-tells-2-billion-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6829ad74cc1961429b7f1024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-15T13:32:00Z",
+      "content": "Google says change your Gmail password now.\r\nSOPA Images/LightRocket via Getty Images\r\nUpdate, June 15, 2025: This story, originally published on June 14, has been updated to include additional techn… [+6121 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Oli Welsh",
+      "title": "Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect - polygon.com",
+      "description": "Nintendo’s Switch 2 launch title won’t be nominated for Game of the Year at The Game Awards because it’s a racing game",
+      "url": "https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/NintendoSwitch2_MarioKartWorld_Character_SCRN_25.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-15T13:00:00Z",
+      "content": "Following Grand Theft Auto 6s retreat into 2026, last weeks launch of Nintendo Switch 2 will likely stand as the gaming event of 2025. And at the center of that launch is Mario Kart World, an ambitio… [+3928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Jordan Middler",
+      "title": "Nintendo Switch 2 sets all-time launch record for hardware in the US, beating PS4 - Video Games Chronicle",
+      "description": "The new Nintendo console is enjoying big success around the world",
+      "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sets-all-time-launch-record-for-hardware-in-the-us-beating-ps4/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/06/Nintendo_Switch_2_Experience_NYC_1-2560x1707.jpg",
+      "publishedAt": "2025-06-15T12:30:49Z",
+      "content": "Nintendo Switch 2 has set a new record by enjoying the biggest launch week of any games hardware in US history.\r\nThe record, previously held by the PS4, has been smashed by Nintendos console, which s… [+1905 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s Upgrades to CarPlay, iPad and Vision Pro Outshine Liquid Glass - Bloomberg.com",
+      "description": "Apple’s unveiling of iOS 26 and the Liquid Glass interface was the most discussed part of its developers conference, but the real gems were its enhancements to CarPlay, the Vision Pro and the iPad. Also: Delayed Siri upgrades are now targeted for next spring;…",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-06-15/wwdc-2025-biggest-releases-ipados-26-multitasking-visionos-26-and-new-carplay-mbxm63s2",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUROAPxw3pQI/v2/1200x800.jpg",
+      "publishedAt": "2025-06-15T12:00:34Z",
+      "content": "Apples unveiling of iOS 26 and the Liquid Glass interface was the most discussed part of its developers conference, but the real gems were its enhancements to CarPlay, the Vision Pro and the iPad. Al… [+239 chars]"
     }
   ]
 }
