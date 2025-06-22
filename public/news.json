@@ -1,240 +1,162 @@
 {
   "status": "ok",
-  "totalResults": 51,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Jay Peters",
-      "title": "Adobe launches a new ‘computational photography’ camera app for iPhones - The Verge",
-      "description": "Adobe Labs has launched Project Indigo, a new computational photography camera app for iPhones. Former Google engineer Marc Levoy helped make it.",
-      "url": "https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/BNS_20250528_144520_928-sdr-hdr.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-19T19:45:05Z",
-      "content": "Marc Levoy, a former distinguished engineer at Google who helped put the Pixel camera on the map, helped build the app at Adobe.\r\nAdobe has a new computational photography camera app for iPhones and … [+2370 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Spotify’s HiFi lossless streaming might really, finally, actually be coming soon - The Verge",
-      "description": "Spotify announced its intention to add a lossless tier more than four years ago, and hidden mentions of lossless are buried in the client.",
-      "url": "https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-19T18:40:35Z",
-      "content": "The word lossless is hidden in a few places in Spotify.\r\nWeve been waiting for Spotifys lossless streaming for more than four years, but there are some new and promising hints that the feature might … [+1269 chars]"
+      "author": "Kate Knibbs, Reece Rogers",
+      "title": "'Wall-E With a Gun': Midjourney Generates Videos of Disney Characters Amid Massive Copyright Lawsuit - WIRED",
+      "description": "A week after Disney and Universal filed a landmark lawsuit against Midjourney, the generative AI startup’s new V1 video tool will make clips of Shrek, Deadpool, and other famous creations.",
+      "url": "https://www.wired.com/story/midjourney-generates-videos-of-disney-characters-amid-massive-copyright-lawsuit/",
+      "urlToImage": "https://media.wired.com/photos/6855bc264d3e1fd8ef2d25a4/191:100/w_1280,c_limit/GettyImages-2219983205.jpg",
+      "publishedAt": "2025-06-20T20:28:20Z",
+      "content": "Midjourneys new AI-generatedvideo tool will produce animated clips featuring copyrighted characters from Disney and Universal, WIRED has foundincluding video of the beloved Pixar character Wall-E hol… [+3522 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "GoNintendo"
       },
-      "author": "Marcus Mendes",
-      "title": "Leaker doubles down on two key display changes for the iPhone 18 Pro - 9to5Mac",
-      "description": "Although screen sizes will reportedly remain the same, the 2026 lineup might bring two significant display shifts. Here's what to expect.",
-      "url": "https://9to5mac.com/2025/06/19/leaker-doubles-down-on-two-key-display-changes-for-the-iphone-18-pro/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-18-front-camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-19T18:32:00Z",
-      "content": "If you were hoping Apples iPhone 18 Pro models would shake up their physical screen sizes, you can extra-officially temper your expectations. But that doesnt mean the 2026 lineup wont bring significa… [+1916 chars]"
+      "author": "rawmeatcowboy",
+      "title": "RUMOR: Final Fantasy XVI devs may be hinting at a Switch 2 port - GoNintendo",
+      "description": "Will fantasy become reality?",
+      "url": "https://gonintendo.com/contents/49998-rumor-final-fantasy-xvi-devs-may-be-hinting-at-a-switch-2-port",
+      "urlToImage": "https://gonintendo.com/attachments/image/66745/file/medium-ff17c2e7d16ef9544087316d9e100cc7.webp",
+      "publishedAt": "2025-06-20T19:57:52Z",
+      "content": "Square Enix has made it clear that theyre going to be supporting Switch 2, as theyve already lined up titles for the platform. We have Bravely Default Flying Fairy HD Remaster available on the platfo… [+981 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Alana Hagues",
-      "title": "Random: Zelda: TOTK Autobuild Sharing Exploit Lets You Summon An Army Of Ganondorf & Epona - Nintendo Life",
-      "description": "Uh... is there a delete button?",
-      "url": "https://www.nintendolife.com/news/2025/06/random-zelda-totk-autobuild-sharing-exploit-lets-you-summon-an-army-of-ganondorf-and-epona",
-      "urlToImage": "https://images.nintendolife.com/103f98688c570/large.jpg",
-      "publishedAt": "2025-06-19T18:22:51Z",
-      "content": "Image: Nintendo Life\r\nYou know what would make Tears of the Kingdom much easier? A herd of Epona. In terms of making it harder? How about multiple Ganondorfs? Well, you can have all that and more tha… [+1987 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Phone app rolling out Material 3 Expressive redesign - 9to5Google",
-      "description": "The Phone by Google app is getting an all-encompassing Material 3 Expressive redesign that also adds \"Single tap” for answering calls.",
-      "url": "http://9to5google.com/2025/06/19/google-phone-material-3-expressive/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-19T18:21:00Z",
-      "content": "The Phone by Google app is getting an all-encompassing Material 3 Expressive redesign that also adds Horizontal swipe or Single tap options for answering calls. Like Google Messages, this is beginnin… [+1373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegamepost.com"
-      },
-      "author": null,
-      "title": "Destiny 2 Edge of Fate: All Exotic Armor Changes Detailed - The Game Post",
-      "description": "Here is the complete list of all the Exotic armor updates coming in Destiny 2: Edge of Fate.",
-      "url": "https://thegamepost.com/destiny-2-edge-of-fate-all-exotic-armor-changes/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/06/destiny-2-edge-of-fate-all-exotic-armor-changes-1.webp",
-      "publishedAt": "2025-06-19T18:18:27Z",
-      "content": "Here is the complete list of all the Exotic armor updates coming in Destiny 2: The Edge of Fate.\r\nDestiny 2s next big expansion,Edge of Fate, is right around the corner, launching on July 15, 2025. I… [+8724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Gemini app rolls out video upload on Android, iPhone, & web - 9to5Google",
-      "description": "Besides the new navigation drawer and 2.5 Pro going stable, the Gemini app is rolling out video upload and analysis.",
-      "url": "http://9to5google.com/2025/06/19/gemini-app-video-upload/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Ask-Gemini-Prompt.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-19T17:10:00Z",
-      "content": "Besides the new navigation drawer and 2.5 Pro going stable, the Gemini app is rolling out video upload and analysis. This lets you add a clip to your prompt.\r\nUpdate 6/19: Google has now rolled out v… [+2215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ty Roush",
-      "title": "Northern Lights Alert: Some States Could See Aurora Borealis Thursday - Forbes",
-      "description": "Some “minor” or greater geomagnetic storms are “likely” to disrupt Earth’s magnetic field, forecasters said.",
-      "url": "https://www.forbes.com/sites/tylerroush/2025/06/19/northern-lights-forecast-minor-geomagnetic-storms-may-pull-aurora-borealis-to-these-states-tonight/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6814c12e84fd3cce500c2677/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-19T16:50:16Z",
-      "content": "The National Oceanic and Atmospheric Administration said Thursday some geomagnetic storms will likely disrupt Earths magnetic field soon, which could make the northern lights visible in several state… [+2883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "New PowerWash Simulator 2 footage showcases its most exciting feature - TrueAchievements",
-      "description": "FuturLab has dropped a fresh gameplay trailer for PowerWash Simulator 2, and it showcases all the right improvements for the popular cleaning sim.",
-      "url": "https://www.trueachievements.com/news/powerwash-simulator-2-gameplay",
-      "urlToImage": "https://www.trueachievements.com/imgs/161862/powerwash-simulator-2-gameplay.jpg",
-      "publishedAt": "2025-06-19T16:18:42Z",
-      "content": "While we still don't have a release date for FuturLab's highly anticipated sequel, the team has given us a look at some more PowerWash Simulator 2 gameplay. As one of the few players that hasn't play… [+2117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Connor Makar",
-      "title": "Dune Awakening’s early meta is an unbalanced, helicopter-infested nightmare, and I never want it to end - Eurogamer",
-      "description": "Dune Awakening’s early meta is an unbalanced, helicopter-infested nightmare, and I never want it to end.",
-      "url": "https://www.eurogamer.net/dune-awakening-early-meta-helicopter-infested-nightmare",
-      "urlToImage": "https://assetsio.gnwcdn.com/Dune-helicopter-hell.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-19T16:00:00Z",
-      "content": "The Dune: Awakening community is torn right now. In the Deep Desert, roaming hordes of orniphopters (the Dune equivilent of a plane or helicopter) are dominating the end game and making an already da… [+4017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Cale Hunt",
-      "title": "'We're doing it all with backwards compatibility' — AMD's Lisa Su comments on the future of Xbox's partnership - Windows Central",
-      "description": "AMD's Lisa Su has released a new video detailing the new Xbox partnership from the chip maker's end. It sounds incredibly exciting indeed.",
-      "url": "https://www.windowscentral.com/gaming/xbox/were-doing-it-all-with-backwards-compatibility-amds-lisa-su-comments-on-the-future-of-xboxs-partnership",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kXYDJxxM3gGekRS7Cm7N7C.jpg",
-      "publishedAt": "2025-06-19T15:42:24Z",
-      "content": "It's only been a couple of days since our own Jez Corden shared an exclusive report regarding a new multi-year partnership between Xbox and AMD for first-party hardware.\r\nPart of the official announc… [+4187 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "Here’s the Nothing Phone 3 and Its New Glyph Matrix Lights - Droid Life",
-      "description": "The Nothing Phone 3 marketing scheme is doing what it does, this time by hyping up the death of the Glyph Interface in favor of the Glyph Matrix. A fresh tease of the new lighting system on the back of the Phone 3 might have crushed a previous render leak. No…",
-      "url": "https://www.droid-life.com/2025/06/19/heres-the-nothing-phone-3-and-its-new-glyph-matrix-lights/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2023/07/Nothing-Phone-2-Review-1-1200x628-cropped.jpg",
-      "publishedAt": "2025-06-19T15:26:10Z",
-      "content": "The Nothing Phone 3 marketing scheme is doing what it does, this time by hyping up the death of the Glyph Interface in favor of the Glyph Matrix. A fresh tease of the new lighting system on the back … [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Gemini Space is coming to Pixel phones, and it could be Google's take on Samsung's Now Bar - Android Authority",
-      "description": "Google is working on a new feature called Gemini Space for Pixel phones, and it could be the company's version of Samsung's Now Bar.",
-      "url": "https://www.androidauthority.com/pixel-gemini-space-leak-3569136/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/Google-Pixel-9a-Gemini-app.jpg",
-      "publishedAt": "2025-06-19T15:10:24Z",
-      "content": "<ul><li>Google is developing a new feature called Gemini Space for its Pixel phones, which is expected to debut on the upcoming Pixel 10 series.</li><li>Gemini Space could be a rebrand of the At a Gl… [+4351 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Jordan Middler",
-      "title": "Third-party Switch 2 game sales have started off slow, with one publisher selling ‘below our lowest estimates’ - Video Games Chronicle",
-      "description": "Cyberpunk 2077 has enjoyed some success on Switch 2, however",
-      "url": "https://www.videogameschronicle.com/news/third-party-switch-2-game-sales-have-started-off-slow-with-one-publisher-selling-below-our-lowest-estimates/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/04/switch-2-japanese-games.jpg",
-      "publishedAt": "2025-06-19T14:46:36Z",
-      "content": "Third-party games have reportedly struggled to sell on Nintendo Switch 2 at launch, with one publisher claiming that its game has sold “below our lowest estimates”.\r\nWhile the Nintendo Switch 2 hardw… [+3722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "Report: Xbox Working On Massive Backwards Compatibility Overhaul Called 'Xbox Classics' - Pure Xbox",
-      "description": "Set to be revealed in 2026",
-      "url": "https://www.purexbox.com/news/2025/06/report-xbox-working-on-massive-backwards-compatibility-overhaul-called-xbox-classics",
-      "urlToImage": "https://images.purexbox.com/7df8fce8fab3c/large.jpg",
-      "publishedAt": "2025-06-19T14:41:00Z",
-      "content": "Subscribe to Pure Xbox on YouTube29k\r\nIt was just recently that we heard from Spanish YouTuber eXtas1s about release dates and pricing for the ROG Xbox Ally handheld, and now they're back again with … [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "The Nintendo Console Launches, Ranked From Worst To Best - Kotaku",
-      "description": "With the Switch 2’s launch fresh in our minds, we look back at the best and worst of Nintendo’s opening acts",
-      "url": "https://kotaku.com/nintendo-switch-2-console-launch-wii-gamecube-nes-snes-1851784781",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/49a1cc954436c9e8bea1b56d5b9dda36.webp",
-      "publishedAt": "2025-06-19T14:30:00Z",
-      "content": "By the time the SNES rolled around, Nintendo had millions of loyal young American fans, and it could do a proper build-up and launch in the States for the first time. Our hype was fueled by that comm… [+1707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingonlinux.com"
-      },
-      "author": "Liam Dawe",
-      "title": "REMATCH is out now and works great on Linux, SteamOS and Steam Deck - GamingOnLinux",
-      "description": "REMATCH is a new competitive Football game from Sloclap, that really is just like Rocket League with feet.",
-      "url": "https://www.gamingonlinux.com/2025/06/rematch-is-out-now-and-works-great-on-linux-steamos-and-steam-deck/.",
-      "urlToImage": "https://www.gamingonlinux.com/uploads/articles/tagline_images/575961372id27035gol.jpg",
-      "publishedAt": "2025-06-19T14:28:01Z",
-      "content": "REMATCH is a new competitive Football game from Sloclap, that really is just like Rocket League with feet.\r\nYes I know, that's what actual Football is, but it's the mechanics of it that make it very … [+4094 chars]"
+      "author": "Patricia Hernandez",
+      "title": "Mario Kart World fans are bagging races in a fight for last place - Polygon",
+      "description": "Sandbagging goes back, well beyond Mario Kart 8, but bigger lobbies make the tactic feel like a circus",
+      "url": "https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/NintendoSwitch2_MarioKartWorld_SCRN_05.jpg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-20T19:49:57Z",
+      "content": "First place is one of the most dangerous places to be during a Mario Kart match. A lead can prove temporary as the game regales everyone else some of its most powerful items, many of which will be ai… [+5555 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Hannah Hoolihan",
-      "title": "Donkey Kong Bananza Is Getting an Amiibo, and It's Now Available To Preorder - IGN",
-      "description": "Preorders are now up for the Donkey Kong Bananza amiibo, which features Donkey Kong and Pauline. It's currently listed for $29.99 and is set to release on July 17.",
-      "url": "https://www.ign.com/articles/where-to-preorder-donkey-kong-bananza-amiibo",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/19/donkey-kong-bananza-amiibo-preorder-1750338894456.jpg?width=1280",
-      "publishedAt": "2025-06-19T14:05:20Z",
-      "content": "We're a little less than a month away from the release of Donkey Kong Bananza, and now it's getting an adorable amiibo to release alongside it. The brand new amiibo for the game (which you can see he… [+1614 chars]"
+      "author": "Chris Reed",
+      "title": "The Lenovo Legion Go S (Z1 Extreme, SteamOS) Is Finally Available - IGN",
+      "description": "The most powerful SteamOS handheld gaming PC yet is now available.",
+      "url": "https://www.ign.com/articles/where-to-buy-lenovo-legion-go-s-z1-extreme-steamos",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/20/legion-go-s-1750445015068.jpg?width=1280",
+      "publishedAt": "2025-06-20T18:55:59Z",
+      "content": "Lenovo has finally released the latest and best model of the Legion Go S. It comes with SteamOS pre-installed, plus the powerful AMD Ryzen Z1 Extreme processor, along with a whopping 32GB RAM and a 1… [+1913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thejimquisition.com"
+      },
+      "author": "James Stephanie Sterling",
+      "title": "Mario Kart World - Around The World For Eighty Dollars (Review) - The Jimquisition",
+      "description": "Mario Kart WorldReleased: June 5th, 2025Developer: NintendoPublisher: NintendoSystems: Switch 2Mario Kart World looks absolutely gorgeous. Not, say, eighty dollars of gorgeous, but it’s a beautiful game. Whatever balls Nintendo could be accused of dropping wi…",
+      "url": "https://www.thejimquisition.com/post/mario-kart-world-around-the-world-for-80-dollars-review",
+      "urlToImage": "https://static.wixstatic.com/media/a511ef_e4051ce8a6a84415a1a64ab4173d0a2c~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_e4051ce8a6a84415a1a64ab4173d0a2c~mv2.jpg",
+      "publishedAt": "2025-06-20T18:49:38Z",
+      "content": "Mario Kart World\r\nReleased: June 5th, 2025\r\nDeveloper: Nintendo\r\nPublisher: Nintendo\r\nSystems: Switch 2\r\nMario Kart World looks absolutely gorgeous. Not, say, eighty dollars of gorgeous, but its a be… [+12628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theshortcut.com"
+      },
+      "author": "Matt Swider",
+      "title": "Walmart Nintendo Switch 2 restock: confirmed time it'll be in stock - The Shortcut | Matt Swider",
+      "description": "The Shortcut has the date and time of the next Nintendo Switch 2 restock, as Walmart has confirmed that the console will be available – with a catch",
+      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-restock-confirmed",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d575343-e624-43e5-a2db-24900b01d556_1366x768.png",
+      "publishedAt": "2025-06-20T18:09:12Z",
+      "content": "<ul><li> The next Walmart Nintendo Switch 2 restock is happening next week\r\n</li><li> Both the Walmart Switch 2andSwitch 2 bundle will be in stock\r\n</li><li> Restock date &amp; time: confirmed for Ju… [+5748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Halowaypoint.com"
+      },
+      "author": "Halo Studios",
+      "title": "Halo: Edge of Dawn | Cover Reveal | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>The Master Chief’s fight against the Banished continues in Halo: Edge of Dawn! Coming this December, the next novel by acclaimed author Kelly Gay picks up in the immediate aftermath of Halo Infinite’s ending.</p>",
+      "url": "https://www.halowaypoint.com/news/halo-edge-of-dawn-cover-reveal",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2025/06/EdgeOfDawnSocial.jpg",
+      "publishedAt": "2025-06-20T17:59:50Z",
+      "content": "The Master Chiefs fight against the Banished continues in Halo: Edge of Dawn!\r\nComing this December, the next novel by acclaimed author Kelly Gay picks up in the immediate aftermath of Halo Infinites… [+2431 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "Get a 512GB Mac Mini M4 for its lowest price - The Verge",
+      "description": "Apple’s latest Mac Mini desktop is on sale for up to $150 off right now. The Beats Powerbeats Pro 2 and Marshall’s Emberton III speaker are also discounted.",
+      "url": "https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Mac-Mini-M4-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-20T17:32:21Z",
+      "content": "You can also save on Marshalls latest Bluetooth speaker, the Powerbeats Pro 2, and a three-pack of Arlo cameras.\r\nYou can also save on Marshalls latest Bluetooth speaker, the Powerbeats Pro 2, and a … [+3698 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot - TechCrunch",
+      "description": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
+      "url": "https://techcrunch.com/2025/06/20/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043-e1686340799615.jpg?w=1200",
+      "publishedAt": "2025-06-20T17:27:58Z",
+      "content": "ChatGPT, OpenAIs text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with sh… [+35291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Justin Clark",
+      "title": "Six Things I Wish I Knew Before Setting Up My Switch 2 - Kotaku",
+      "description": "To the surprise of nobody, the Switch 2 has a few quirks when you first start it up",
+      "url": "https://kotaku.com/nintendo-switch-2-system-transfer-controllers-4k-120hz-1851784851",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e57b41e98e5346769eb8601a00f7e7b2.jpg",
+      "publishedAt": "2025-06-20T17:01:21Z",
+      "content": "You wake up at 1 am to score a pre-order. You put yourself in manageable debt to finance it. You confirm the card on file is valid when it ships. You stay home to make sure UPS doesnt drop the packag… [+7203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Join Our next Developer Update Livestream — Diablo IV - Blizzard News",
+      "description": "Tune in to our next Developer Update Stream which will cover Season 9: Sins of the Horadrim, and earn the Lacuni’s Pupil Twitch Drop.",
+      "url": "https://news.blizzard.com/en-us/article/24215213/join-our-next-developer-update-livestream",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/95/955B0ZKVZ10V1750271324909.jpg",
+      "publishedAt": "2025-06-20T17:00:00Z",
+      "content": "Our next Developer Update Livestream begins on June 27 at 11 a.m. PDT and gives a preview of Season 9: Sins of the Horadrim. Join members of the development team as they share details on whats coming… [+2691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Sprite + Tea Review: This Crap Needs To Be Outlawed - Kotaku",
+      "description": "Turns out that two great things don't always go together after all",
+      "url": "https://kotaku.com/sprite-tea-review-is-it-good-soda-taste-spritetea-1851784841",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/57dbade8ca7359fe17199e4c647e5048.jpg",
+      "publishedAt": "2025-06-20T16:35:00Z",
+      "content": "When I first heard about the actually real product Sprite + Tea, I was intrigued. I like tea. I like Sprite. In fact, Id go as far as to say Sprite is one of my favorite soft drinks. But would this o… [+2084 chars]"
     },
     {
       "source": {
@@ -242,25 +164,77 @@
         "name": "Kotaku"
       },
       "author": "Ethan Gach",
-      "title": "Stellar Blade , As Told By Steam Reviews - Kotaku",
-      "description": "The sci-fi action adventure just made a big splash on PC",
-      "url": "https://kotaku.com/stellar-blade-steam-reviews-switch-2-nude-mod-1851784779",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6614a9d1ee1a74281537fa061aad8da9.jpg",
-      "publishedAt": "2025-06-19T14:00:00Z",
-      "content": "Stellar Blade is a mashup of classic arcade action and modern Soulslike about a defense force officer with big tits and an even bigger ass saving the post-apocalyptic ruins of Earth from the aliens w… [+2604 chars]"
+      "title": "Someone Already Tried Selling Magic: The Gathering's Golden Chocobo Final Fantasy Card For $50,000 - Kotaku",
+      "description": "The MTG x Final Fantasy crossover is out of control",
+      "url": "https://kotaku.com/golden-chocobo-mtg-final-fantasy-price-foil-restock-1851784836",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/76cc362939d857b25d4a2c741c4446a4.jpg",
+      "publishedAt": "2025-06-20T16:15:00Z",
+      "content": "Magic: The Gatherings Beyond Universes crossover with Final Fantasyoffers a beautiful trip down memory lane with some really cool Commander cards and deck synergies to boot. It has also made everyone… [+2750 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Nintendo Life"
       },
-      "author": "Paul Tassi",
-      "title": "Switch 2 ‘Zelda’ Dethrones ‘Expedition 33’ On Metacritic, Which Doesn’t Count - Forbes",
-      "description": "The Nintendo Switch 2’s The Legend of Zelda: Tears of the Kingdom made headlines yesterday when it officially became the highest-scored game on Metacritic of 2025,",
-      "url": "https://www.forbes.com/sites/paultassi/2025/06/19/switch-2-zelda-dethrones-expedition-33-on-metacritic-which-doesnt-count/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68540d307f3cf3aa7a4d16ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-19T13:17:16Z",
-      "content": "Tears/Expedition 33\r\nNintendo/Sandfall\r\nThe Nintendo Switch 2s The Legend of Zelda: Tears of the Kingdom made headlines yesterday when it officially became the highest-scored game on Metacritic of 20… [+2493 chars]"
+      "author": "Ollie Reynolds",
+      "title": "Video: Right, We Need To Talk About GameChat On Switch 2 - Nintendo Life",
+      "description": "Can you hear me now?",
+      "url": "https://www.nintendolife.com/news/2025/06/video-right-we-need-to-talk-about-gamechat-on-switch-2",
+      "urlToImage": "https://images.nintendolife.com/6f283f574280a/large.jpg",
+      "publishedAt": "2025-06-20T16:00:00Z",
+      "content": "Subscribe to Nintendo Life on YouTube823k\r\nGameChat had proven to be, well, not massively popular with the Nintendo Life community in the run up to the Switch 2 launch. Many had simply refused to par… [+1094 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Kim",
+      "title": "Every Hideo Kojima Game Ranked - IGN",
+      "description": "Hideo Kojima has been developing games for 40 years and has created some of the most famous games of all time. With the release of Death Stranding 2, we go back to rank every game Hideo Kojima has ever designed and directed from Metal Gear Solid to Snatcher a…",
+      "url": "https://www.ign.com/articles/every-hideo-kojima-game-ranked-death-stranding-metal-gear-solid-pt",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/18/every-kojima-game-ranked-blogroll-1750276079336.jpg?width=1280",
+      "publishedAt": "2025-06-20T15:01:01Z",
+      "content": "With the release of Death Stranding 2: On the Beach, director Hideo Kojima enters his fourth decade in game development as a director. While the celebrated auteur has spent the majority of his career… [+15891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Peter Johnson",
+      "title": "BYD is testing solid-state EV batteries in its Seal sedan with nearly 1,200 miles of range - Electrek",
+      "description": "BYD has now begun testing solid-state EV batteries in its Tesla Model 3-rivalling Seal. Initial tests suggest that the total...",
+      "url": "http://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BYD-Seal-North-America.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-20T14:40:00Z",
+      "content": "BYD has now begun testing solid-state EV batteries in its Tesla Model 3-rivalling Seal. Initial tests suggest that the total driving range could reach nearly 1,200 miles (1,875 km).\r\nIt has been over… [+3227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Blair Marnell",
+      "title": "Metroid Prime 4: Beyond \"Out Now\" Poster Spotted In London [Update] - GameSpot",
+      "description": "Don't get too excited, it's not Nintendo's style to shadow drop one of this year's most-anticipated new titles.",
+      "url": "https://www.gamespot.com/articles/metroid-prime-4-beyond-out-now-poster-spotted-in-london/1100-6532578/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4518199-metroidprime4.jpg",
+      "publishedAt": "2025-06-20T14:33:58Z",
+      "content": "Gamers have been waiting 18 years for Metroid Prime 4: Beyond to arrive, so it was understandable when Nintendo reiterated that the game will be released this year to assuage fears of any further del… [+1464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iPhone 17 Base Model Rumored to Come in New Purple and Green Colors - MacRumors",
+      "description": "Apple is testing new Purple and Green color options for the iPhone 17 base model, according to new information shared by a leaker known as Majin Bu. ...",
+      "url": "https://www.macrumors.com/2025/06/20/iphone-17-purple-green-colors-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/2Czvd0uA4yBelhEUr_YOjKMCF3A=/2724x/article-new/2025/06/iPhone-17-Base-Model-Rumored-to-Come-in-New-Green-and-Purple-Colors-Feature.jpg",
+      "publishedAt": "2025-06-20T14:24:06Z",
+      "content": "Apple is testing new Purple and Green color options for the iPhone 17 base model, according to new information shared by a leaker known as Majin Bu.\r\nIn a blog post today, Majin Bu said that only one… [+1411 chars]"
     }
   ]
 }
