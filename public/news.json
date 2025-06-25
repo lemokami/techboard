@@ -1,110 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 56,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "TrueAchievements"
       },
-      "author": "Ewan Spence",
-      "title": "Apple Loop: iPhone 17 Pro Release Date, Apple Challenges AI Assumptions, iPad Pro Multitasking Explained - Forbes",
-      "description": "Taking a look back at this week’s news and headlines from Apple; iPhone 17 and iPhone 17 Pro launch dates, MacBook Pro upgrade details, iPad multitasking, Apple challenges AI assumptions, and more...",
-      "url": "https://www.forbes.com/sites/ewanspence/2025/06/22/apple-news-headlines-iphone-17-pro-ios-26-ipados-multitasking-macbook-pro-upgrade/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67030288fb071bcbafdc4341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-22T20:05:54Z",
-      "content": "Update, Sunday June 22, 2025: This article has been updated with additional details on Apples AI plans\r\nApple CEO Tim Cook delivers remarks at Apple headquarters (Photo by Justin Sullivan/Getty Image… [+7450 chars]"
+      "author": null,
+      "title": "Xbox sale round-up June 24, 2025 – Bundles - TrueAchievements",
+      "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Forza Horizon 5, Red Dead Redemption 2, Fallout 4, Red Dead Redemption, Fallout 3, Batman: Arkham Knight and more",
+      "url": "https://www.trueachievements.com/n59433/xbox-sale-roundup-june-24-2025-bundles",
+      "urlToImage": "https://www.trueachievements.com/imgs/113479/xbox-weekly-sales.jpg",
+      "publishedAt": "2025-06-24T00:09:15Z",
+      "content": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Forza Horizon 5, Red Dead Redemption 2, Fallout 4, Red Dead Redemption, Fallout 3, Batman: Arkham Knight and more"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Samsung confirms Unpacked for early July - The Verge",
+      "description": "Samsung is expected to launch an foldable with Ultra branding at its summer Unpacked, which is scheduled for just a few weeks from now.",
+      "url": "https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/unpacked_graphic.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-06-23T23:00:00Z",
+      "content": "Expect this one to be a foldable affair.\r\nSamsungs summer Unpacked is officially on, starting at 10AM ET on Wednesday, July 9th. The invitation features a jazzy little bop and the words Ultra Unfolds… [+995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Marcus Mendes",
+      "title": "New leak hints at vapor chamber cooling coming to iPhone 17 Pro [image] - 9to5Mac",
+      "description": "An image shared by Majin Bu offers what may be the clearest look yet at Apple’s rumored solution to the growing challenge of heat dissipation.",
+      "url": "https://9to5mac.com/2025/06/23/new-leak-hints-at-vapor-chamber-cooling-coming-to-iphone-17-pro/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Do-you-care-whether-the-iPhone-17-Pro-uses-titanium-or-aluminum.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-23T20:47:00Z",
+      "content": "An image shared by leaker Majin Bu offers what may be the clearest look yet at Apples rumored solution to a growing challenge in high-performance smartphones: heat dissipation. Heres what it looks li… [+2082 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Civilization VII patch lets you turn off some controversial new features - Ars Technica",
+      "description": "Players can now disable Legacy Paths, Crisis, and quite a bit more.",
+      "url": "https://arstechnica.com/gaming/2025/06/civilization-vii-patch-lets-you-turn-off-some-controversial-new-features/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/CIv7-screenshot-1152x648-1750708873.jpg",
+      "publishedAt": "2025-06-23T20:26:11Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Eurogamer.net"
       },
-      "author": "Vikki Blake",
-      "title": "FBC: Firebreak hears your criticism \"loudly and clearly\" and is fixing things \"starting now\" - Eurogamer",
-      "description": "Remedy says it's hearing your feedback on FBC: Firebreak \"loudly and clearly\" and is committed to improving things, par…",
-      "url": "https://www.eurogamer.net/fbc-firebreak-hears-your-criticism-loudly-and-clearly-and-is-fixing-things-starting-now",
-      "urlToImage": "https://assetsio.gnwcdn.com/A-trio-of-characters-ready-to-head-into-the-fray-in-FBC-Firebreak.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-22T19:58:25Z",
-      "content": "Remedy says it's hearing your feedback on FBC: Firebreak \"loudly and clearly\" and is committed to improving things, particularly the shooter's opening hour, \"starting now\".\r\nCollating feedback from a… [+2440 chars]"
+      "author": "Matt Wales",
+      "title": "Promising Minecraft-like Hytale cancelled after ten years in development - Eurogamer",
+      "description": "Promising Minecraft-like sandbox adventure Hytale has been cancelled after a decade of development, and creator Hypixel…",
+      "url": "https://www.eurogamer.net/promising-minecraft-like-hytale-cancelled-after-ten-years-in-development",
+      "urlToImage": "https://assetsio.gnwcdn.com/hytale-layered-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-23T20:23:55Z",
+      "content": "Promising Minecraft-like sandbox adventure Hytale has been cancelled after a decade of development, and creator Hypixel Studios is \"winding down\" its operations.\r\nHytale began development in 2015, an… [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch",
+      "description": "These are not likely the final adjustments, given that iOS 26 doesn't launch publicly until the fall. However, they are indications that Apple is actively listening to early user feedback and making tweaks accordingly.",
+      "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609.jpg?resize=1200,675",
+      "publishedAt": "2025-06-23T19:54:29Z",
+      "content": "With Monday’s release of iOS 26 Beta 2, Apple has fixed one of the more glaring issues with Liquid Glass, its divisive new user interface design for the iPhone, iPad, and other Apple devices, announc… [+2053 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComicBook.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Cade Onder",
-      "title": "Cancelled Batman Arkham Game Concept Art Reveals Old Bruce Wayne, Villains, and More - ComicBook.com",
-      "description": "A set of concept art from a cancelled Batman Arkham sequel shows off an old Bruce Wayne, Damian Wayne, and more.",
-      "url": "http://comicbook.com/gaming/news/cancelled-batman-arkham-damian-wayne-game-bruce-wayne-concept-art/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/06/Arkham-Knight.jpg?resize=2000,1125",
-      "publishedAt": "2025-06-22T18:38:16Z",
-      "content": "A bunch of concept art for a cancelled Batman Arkham game has surfaced, revealing a new look at an older Bruce Wayne, Damian Wayne, and some villains. The Batman mythos is one of the most revered com… [+3163 chars]"
+      "author": "Kyle Barr",
+      "title": "Everybody Needs to Calm Down About the Switch 2 Screen and ‘Ghosting’ - Gizmodo",
+      "description": "The Switch 2 display is fine, actually.",
+      "url": "https://gizmodo.com/everybody-needs-to-calm-down-about-the-switch-2-screen-and-ghosting-2000619082",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/Nintendo-Switch-2-1920x1280-16-1200x675.jpg",
+      "publishedAt": "2025-06-23T19:38:36Z",
+      "content": "My aging, stick drift-wracked original Switch was stacked with a library of games I honestly forgot I owned. The Switch 2, with its bigger, brighter display, has breathed new life into this backlog, … [+4671 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "How-To Geek"
+        "name": "9to5Mac"
       },
-      "author": "Oluwademilade Afolabi",
-      "title": "6 Useful Things You Didn't Know You Can Do With Your Car’s USB Port - How-To Geek",
-      "description": "Your car’s USB port can do more than just sit there",
-      "url": "https://www.howtogeek.com/useful-things-you-can-do-with-your-cars-usb-port/",
-      "urlToImage": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/06/plugging-cable-into-usb-car-dashboard.jpg",
-      "publishedAt": "2025-06-22T18:00:00Z",
-      "content": "When people talk about car features, youll hear a lot about the panoramic sunroof, the sound system, or maybe even the heated seats. But that USB port on your dashboard (or wherever it lives in the c… [+6691 chars]"
+      "author": "Zac Hall",
+      "title": "macOS Tahoe 26 beta 2 includes toggle to restore menu bar background - 9to5Mac",
+      "description": "Apple has added a new toggle to show the menu bar background in macOS Tahoe 26 beta 2. The option...",
+      "url": "https://9to5mac.com/2025/06/23/macos-tahoe-26-beta-2-includes-toggle-to-restore-menu-bar-background/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-23T19:03:00Z",
+      "content": "Apple has added a new toggle to show the menu bar background in macOS Tahoe 26 beta 2. The option was added after beta 1 arrived with no menu bar background and no toggle to restore it.\r\nThe new opti… [+1068 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendoeverything.com"
+        "name": "9to5Mac"
       },
-      "author": "Brian",
-      "title": "Smash Bros. director Masahiro Sakurai on game development, AI - Nintendo Everything",
-      "description": "Smash Bros. director Masahiro Sakurai talks about the current state of large-scale game development and generative AI.",
-      "url": "https://nintendoeverything.com/smash-bros-director-masahiro-sakurai-generative-ai/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Masahiro-Sakurai-AI.jpg",
-      "publishedAt": "2025-06-22T17:48:46Z",
-      "content": "Smash Bros. director Masahiro Sakurai has weighed in on the current state of large-scale game development and the possibility of improving the situation with generative AI.\r\nITmedia was able to speak… [+1852 chars]"
+      "author": "Ryan Christoffel",
+      "title": "iOS 26 beta 2 adds brand new iPhone ringtone, listen here - 9to5Mac",
+      "description": "Your iPhone is gaining a new ringtone option in iOS 26 alongside Apple’s upgrades to the Phone app, and iOS 26 beta 2 provides a sneak peek.",
+      "url": "https://9to5mac.com/2025/06/23/ios-26-beta-2-adds-brand-new-iphone-ringtone-listen-here/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-23T18:54:00Z",
+      "content": "Apple released iOS 26 beta 2 today, and the latest version of the forthcoming iPhone software update adds a brand new ringtone. Heres what it sounds like.\r\niOS 26 beta testing is in full swing. Two w… [+898 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Beavis and Butt-Head Are Coming to Call of Duty: Black Ops 6 and Warzone With Season 04 Reloaded — and Players Are Joking They’re More MilSim Than Most Skins in the Game - IGN",
+      "description": "Rekindling the long-running debate about whether Call of Duty skins have well and truly gone off the deep end, Beavis and Butt-Head are heading to the game.",
+      "url": "https://www.ign.com/articles/beavis-and-butt-head-are-coming-to-call-of-duty-black-ops-6-and-warzone-with-season-04-reloaded-and-players-are-joking-theyre-more-milsim-than-most-skins-in-the-game",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/23/cod-1750703397587.png?width=1280",
+      "publishedAt": "2025-06-23T18:33:53Z",
+      "content": "Rekindling the long-running debate about whether Call of Duty skins have well and truly gone off the deep end, Beavis and Butt-Head are heading to the game.\r\nBeavis and Butt-Head are perhaps the post… [+3079 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pokemon GO Hub"
+        "name": "Kotaku"
       },
-      "author": "kittypokemonsalot",
-      "title": "Pokémon GO Events (June 23-29 2025): Global GO Fest, Regi Raids and Bottle Caps! - Pokémon GO Hub",
-      "description": "Pokémon GO’s June 23-29 schedule brings arguably the most exciting week of the year, Pokémon GO Fest Global, the debut of Bottle Caps in the Ancients Recovered event, plus weekly Spotlight Hour, daily Raid/ Hours, Gigantamax Battles, Mega Raids, GO Battle Lea…",
-      "url": "https://pokemongohub.net/post/news/pokemon-go-events-june-23-29-2025-global-go-fest-regi-raids-and-bottle-caps/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/03/pokemon-go-fest-2025-global.jpg",
-      "publishedAt": "2025-06-22T16:44:16Z",
-      "content": "Pokémon GOs June 23-29 schedule brings arguably the most exciting week of the year, Pokémon GO Fest Global, the debut of Bottle Caps in the Ancients Recovered event, plus weekly Spotlight Hour, daily… [+5547 chars]"
+      "author": "Zack Zwiezen",
+      "title": "Mario Kart 64's Unofficial PC Port Is Amazing - Kotaku",
+      "description": "You can now easily play this classic Nintendo 64 kart racer on your modern computer",
+      "url": "https://kotaku.com/mario-kart-64-pc-port-native-emulation-legal-nintendo-1851784946",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b222d7d091d5350f9a01c51e100c56fb.jpg",
+      "publishedAt": "2025-06-23T17:50:00Z",
+      "content": "Mario Kart 64 is now unofficially playable natively on your personal computer courtesy of some of the same people whove brought us similar Nintendo 64 PC ports. And so far, Nintendo seems unable or u… [+2438 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Kotaku"
       },
-      "author": "Vikki Blake",
-      "title": "\"100% completing\" Balatro has developer better \"equipped\" to design the next big update - Eurogamer",
-      "description": "Balatro developer Localthunk has \"100 percent completed Balatro\", making him better \"equipped\" for the next update.",
-      "url": "https://www.eurogamer.net/100-completing-balatro-has-developer-better-equipped-to-design-the-next-big-update",
-      "urlToImage": "https://assetsio.gnwcdn.com/Untitled-1_hq5o1ws.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-22T16:36:50Z",
-      "content": "Balatro developer Localthunk has \"100 percent completed Balatro\", making him better \"equipped\" for the next update.\r\nIn a message posted to social media, Localthunk said it was \"a ton of fun to hunt … [+1441 chars]"
+      "author": "Ethan Gach",
+      "title": "AI Translation Of Smash Bros. Director's Comments About AI Misses Nuance, Sparks Outrage - Kotaku",
+      "description": "Masahiro Sakurai is currently working on a launch-year exclusive for Switch 2",
+      "url": "https://kotaku.com/ai-translation-of-smash-bros-directors-comments-about-1851784945",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b90e845b4b3ac9535e2ba2b9e2773f58.png",
+      "publishedAt": "2025-06-23T17:45:00Z",
+      "content": "After directing Super Smash Bros. Ultimate and then taking a break from game directing to moonlight as a YouTuber and educate fans about game design, Masahiro Sakurai recently revealed hes returned t… [+6377 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Over a million people now have access to the gen-AI powered Alexa+ - TechCrunch",
+      "description": "Alexa+ is available for free during Early Access and will later be free for Prime customers. Non-Prime users will be able to use the service for $19.99 per month after it publicly launches.",
+      "url": "https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/1000002054.jpg?resize=1200,901",
+      "publishedAt": "2025-06-23T17:38:40Z",
+      "content": "More invites to Amazon’s upgraded digital assistant, Alexa+, powered by generative AI, have been steadily rolling out. The service, first announced in February, now reaches over a million users, Amaz… [+3500 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
+      "description": "It’s funny how useful a 34-year-old software design can still be.",
+      "url": "https://arstechnica.com/gadgets/2025/06/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ms-dos_2x-1152x648.png",
+      "publishedAt": "2025-06-23T17:23:35Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Jalopnik"
       },
-      "author": "Ben Schoon",
-      "title": "Why I’m excited for the Galaxy Z Fold 7, and not just because it’s thin - 9to5Google",
-      "description": "Samsung's Galaxy Z Fold 7 looks much thinner, but that's far from the only reason I'm excited to check it out.",
-      "url": "http://9to5google.com/2025/06/22/galaxy-z-fold-7-why-excited/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/galaxy-z-fold-7-leak-ah-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-22T16:00:00Z",
-      "content": "Samsung’s stagnation in the foldable market is finally coming to an end, as the Galaxy Z Fold 7 is catching up with the competition in some major ways. However, Samsung’s Galaxy Z Fold 7 actually has… [+4334 chars]"
+      "author": "Paul Stadden",
+      "title": "The Biggest Pros And Cons Of Dodge's Hemi Engine - Jalopnik",
+      "description": "There are reasons why Dodge introduced the Hemi three times, and killed it three times. Here are the biggest pros and cons of Dodge's Hemi engine.",
+      "url": "https://www.jalopnik.com/1887763/pros-cons-dodge-hemi-engine/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/the-biggest-pros-and-cons-of-dodges-hemi-engine/l-intro-1749827119.jpg",
+      "publishedAt": "2025-06-23T16:55:00Z",
+      "content": "The main pro of the Hemi design is the \"crossflow\" hemispherical combustion chambers, where the massive intake and exhaust ports are opposite each other, letting it breathe exceptionally well for a t… [+1444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "watchOS 26 Adding a Smaller Yet Useful New Watch Face Setting - MacRumors",
+      "description": "watchOS 26 is adding a new \"Show Data When Locked\" setting to the Apple Watch.   MacRumors contributor Steve Moser discovered the new setting...",
+      "url": "https://www.macrumors.com/2025/06/23/watchos-26-new-setting/",
+      "urlToImage": "https://images.macrumors.com/t/RdbYQo8geJeeGtMJCti_NSWhfcg=/1600x/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
+      "publishedAt": "2025-06-23T16:39:36Z",
+      "content": "watchOS 26 is adding a new \"Show Data When Locked\" setting to the Apple Watch.\r\nMacRumors contributor Steve Moser discovered the new setting within the code for the first watchOS 26 beta, and a Reddi… [+629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "PATRICK SEITZ, Investor's Business Daily",
+      "title": "Is Apple Looking To Catch Up In AI With Big Deal? - Investor's Business Daily",
+      "description": "Apple’s slow response to the AI megatrend has been a drag on Apple stock. But it could catch up with a major acquisition or partnership.",
+      "url": "https://www.investors.com/news/technology/apple-stock-possible-ai-deal-perplexity/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/06/Stock-Apple-WWDC25hero-01-company.jpg",
+      "publishedAt": "2025-06-23T16:04:00Z",
+      "content": "Apple's (AAPL) slow response to the ubiquitous artificial intelligence megatrend has been a drag on Apple stock. But the consumer electronics giant could be looking to catch up with rivals through a … [+2560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Billy Givens",
+      "title": "Three Essential Tips For Those Jumping Into Breath Of The Wild For The First Time On Switch 2 - Kotaku",
+      "description": "There has never been a better time to soak up this epic adventure",
+      "url": "https://kotaku.com/zelda-breath-of-the-wild-botw-switch-2-upgrade-tips-new-1851784911",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4c09fad0a9c39b726faed3089c723271.jpg",
+      "publishedAt": "2025-06-23T15:40:00Z",
+      "content": "The Legend of Zelda: Breath of the Wild is easily one of gamings most beloved entries in an equally beloved franchise, so it makes sense that Nintendo would want to revamp it for the release of the N… [+2929 chars]"
     },
     {
       "source": {
@@ -112,142 +242,25 @@
         "name": "Polygon"
       },
       "author": "Austin Manchester",
-      "title": "Summer 2025 is being propped up by indie and AA gems - Polygon",
-      "description": "The coolest looking new video games for summer 2025 aren’t massive tentpoles or Switch 2 hits. Here are the most anticipated new indie games for summer 2025.",
-      "url": "https://www.polygon.com/gaming/608011/best-new-games-summer-2025",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/sword-of-the-sea.jpg?quality=90&strip=all&crop=0,6.6708792200758,100,86.658241559848",
-      "publishedAt": "2025-06-22T16:00:00Z",
-      "content": "For video games, the summer season kicker off with a double-header: the release of the Nintendo Switch 2, smack amid the three-day slew of game reveals that comprise Summer Game Fest (and its surroun… [+6442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rudebaguette.com"
-      },
-      "author": "Hina Dinoo",
-      "title": "“Map Is Way Bigger Than Expected”: GTA 6 Leak Reveals Massive World That Dwarfs Every Previous Rockstar Game - Rude Baguette",
-      "description": "IN A NUTSHELL 🌆 GTA VI returns to Vice City, offering a realistic and immersive experience that reflects modern-day Miami. 🗺️ The game features a vast map, potentially drawing inspiration from multiple states like Florida and Georgia, creating a diverse wor…",
-      "url": "https://www.rudebaguette.com/en/2025/06/map-is-way-bigger-than-expected-gta-6-leak-reveals-massive-world-that-dwarfs-every-previous-rockstar-game/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/06/gta-6-map-shocks-gamers-this-massive-1000-square-mile-world-could-redefine-open-world-gaming-with-unprecedented-depth-and-detail.jpg",
-      "publishedAt": "2025-06-22T15:55:52Z",
-      "content": "<table><tr><td>IN A NUTSHELL</td></tr><tr><td><ul><li>GTA VI returns to Vice City, offering a realistic and immersive experience that reflects modern-day Miami.</li><li> The game features a vast map,… [+5187 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Sponsored Post",
-      "title": "$33.28/mo for a MacBook? Meet the MacBook Upgrade Program - 9to5Mac",
-      "description": "With Apple’s latest MacBooks pushing performance further than ever, buyers are moving away from the old-school, pay-upfront model. And one...",
-      "url": "https://9to5mac.com/2025/06/22/meet-the-macbook-upgrade-program/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/1._The_MacBook_Upgrade_Program_16-9.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-22T15:46:00Z",
-      "content": "With Apples latest MacBooks pushing performance further than ever, buyers are moving away from the old-school, pay-upfront model. And one company is quietly reshaping how Mac users get their next dev… [+4594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Alyse Stanley",
-      "title": "iOS 26 has a huge battery life upgrade — here’s the iPhones that get it - Tom's Guide",
-      "description": "You'll need a newer iPhone to enjoy this AI-powered battery saver",
-      "url": "https://www.tomsguide.com/phones/iphones/ios-26-has-a-huge-battery-life-upgrade-heres-the-iphones-that-get-it",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YuvUNy4w7mVDSmtFDtsCMa.jpg",
-      "publishedAt": "2025-06-22T15:31:57Z",
-      "content": "One of our favorite new features added with the iOS 26 developer beta is Apple's new \"adaptive power\" mode aimed at extending the battery life of the best iPhones. Unfortunately, it looks like you'll… [+3077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "MSI ToyStory Limited Edition PC hardware reveals: RTX 5070 Buzz Lightyear GPU and Woody Motherboard - VideoCardz.com",
-      "description": "MSI Toy Story PC hardware limited edition Only to be sold in Taiwan.  MSI has teamed up with Pixar and Display to celebrate the 30th anniversary of the Toy Story franchise. Revealed during Computex, the company is launching a special line of hardware inspired…",
-      "url": "https://videocardz.com/newz/msi-toystory-limited-edition-pc-hardware-reveals-rtx-5070-buzz-lightyear-gpu-and-woody-motherboard",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/06/MSI-TOY-STORY-RTX5070-HERO.jpg",
-      "publishedAt": "2025-06-22T15:26:00Z",
-      "content": "Only to be sold in Taiwan. \r\nMSI has teamed up with Pixar and Display to celebrate the 30th anniversary of the Toy Story franchise. Revealed during Computex, the company is launching a special line o… [+1308 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Luc Olinga",
-      "title": "The $14 Billion AI Google Killer - Gizmodo",
-      "description": "Why Meta and Apple want Perplexity AI, even if it's just a glorified chatbot.",
-      "url": "https://gizmodo.com/the-14-billion-ai-google-killer-2000618755",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/AI-search-monopoly-antitrust-google-senators-ftc-1.jpg",
-      "publishedAt": "2025-06-22T15:25:16Z",
-      "content": "A new AI darling is making waves in Silicon Valley. Its called Perplexity, and according to reports, both Meta and Apple have quietly explored acquiring it. Valued at a staggering $14 billion followi… [+3852 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Mike Andronico",
-      "title": "The 4 best noise-canceling earbuds, according to years of editor testing - CNN",
-      "description": "You don’t need a bulky set of over-ears to drown out noise; these great earbuds will let you discreetly enjoy some peace and quiet everywhere from the home office to your next flight.",
-      "url": "https://www.cnn.com/cnn-underscored/reviews/noise-canceling-earbuds",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/best-tested-badge-6.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-06-22T15:02:00Z",
-      "content": "Thanks to the best noise canceling earbuds, you no longer have to wear a bulky set of cans to quiet down the chaos around you. The latest wireless earbuds from top brands like Bose, Apple and Sony bo… [+18946 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "LinkedIn CEO says AI writing assistant is not as popular as expected - TechCrunch",
-      "description": "While LinkedIn users seem to have embraced AI, there’s one area that’s seen less uptake than expected, according to CEO Ryan Roslansky: the AI-generated suggestions for polishing your LinkedIn posts.",
-      "url": "https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2150483457-e1717774844734.jpg?resize=1200,676",
-      "publishedAt": "2025-06-22T14:06:40Z",
-      "content": "While LinkedIn users seem to have embraced AI, theres one area thats seen less uptake than expected, according to CEO Ryan Roslansky: AI-generated suggestions for polishing your LinkedIn posts.\r\nIts … [+904 chars]"
+      "title": "MindsEye developer reportedly hit with layoffs after rough launch - Polygon",
+      "description": "After MindsEye’s rough launch, Build a Rocket Boy is laying off a portion of its staff, according to an anonymous source",
+      "url": "https://www.polygon.com/gaming/608467/mindseye-developer-layoffs-build-a-rocket-boy-uk",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/MindsEye-hotfix-thumb.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-23T15:14:57Z",
+      "content": "MindsEye developer Build a Rocket Boy is preparing for a round of layoffs after the rough launch of its debut game, according to a new report from IGN. An anonymous source told the outlet theres no d… [+1773 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Andru Marino, Barbara Krasnoff",
-      "title": "Weird-shaped notebooks make me want to write again - The Verge",
-      "description": "Producer Andru Marino writes about the weird but useful Triangle and Sidekick notebooks.",
-      "url": "https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Sidekick-notebook_AMarino.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-22T14:00:00Z",
-      "content": "Different shapes inspire different doodles, as the Triangle and Sidekick notebooks prove.\r\nAndru Marino is an audio and video producer at The Verge. I make videos on our YouTube / TikTok / Instagram … [+2886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Olly Smith",
-      "title": "Tomb Raider fans losing their minds over new game leak - GAMINGbible",
-      "description": "A potential new Tomb Raider leak has got fans losing their minds, as information about the next game in the long-running popular series dries up.",
-      "url": "https://www.gamingbible.com/news/tomb-raider-fans-new-game-leak-796171-20250622",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltc2282de822d04a89/68580825b17bc6152946f28b/tomb_raider.jpg",
-      "publishedAt": "2025-06-22T13:47:33Z",
-      "content": "A potential new Tomb Raider leak has got fans losing their minds, as information about the next game in the long-running popular series dries up.\r\nIts been seven years since the last main Tomb Raider… [+2940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "PSA: Death Stranding 2's full opening hour has leaked online - Eurogamer",
-      "description": "The first hour of Death Stranding 2: On the Beach has leaked online, three days ahead of its formal release.",
-      "url": "https://www.eurogamer.net/psa-death-stranding-2s-full-opening-hour-has-leaked-online",
-      "urlToImage": "https://assetsio.gnwcdn.com/Death-stranding-screenshot-showing-two-characters-played-by-Norman-Reedus-and-Lea-Seydoux-touching-foreheads.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-22T13:44:18Z",
-      "content": "The first hour of Death Stranding 2: On the Beach has leaked online, three days ahead of its formal release.\r\nA YouTuber uploaded the opening hour earlier today (22nd June), writing \"First part of De… [+1283 chars]"
+      "author": "Tom Warren",
+      "title": "Microsoft adds Steam games to its Xbox PC app on Windows - The Verge",
+      "description": "Microsoft is started to test its new aggregated gaming library on PC. It lists Xbox, Battle.net, and other PC storefront games within the Xbox PC app.",
+      "url": "https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Finalv2-2505-June-WIRE-AggLib-9a0725ea199fe16f8c9c.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-23T15:00:00Z",
+      "content": "Xbox Insiders get access to Microsofts new aggregated gaming library this week.\r\nMicrosoft is starting to test its new aggregated gaming library in its Xbox PC app on Windows. Xbox Insiders will now … [+1105 chars]"
     }
   ]
 }
