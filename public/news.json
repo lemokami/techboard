@@ -1,123 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 58,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Jay Peters",
-      "title": "Anthropic now lets you make apps right from its Claude AI chatbot - The Verge",
-      "description": "Anthropic is adding a new feature to its Claude AI chatbot that lets you build AI-powered apps right inside the app. It builds upon Anthropic’s Artifacts feature.",
-      "url": "https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Claude-Create-Artifacts-MBP.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-25T22:33:29Z",
-      "content": "Anthropic is adding a new feature to its Claude AI chatbot that lets you build AI-powered apps right inside the app. The upgrade, launching in beta, builds upon Anthropics Artifacts feature introduce… [+1005 chars]"
+      "author": "Aisha Malik",
+      "title": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you - TechCrunch",
+      "description": "Google is launching a new experimental app called Doppl that uses AI to visualize how different outfits might look on you.",
+      "url": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/doppl.png?resize=1200,673",
+      "publishedAt": "2025-06-26T21:19:11Z",
+      "content": "Google is launching a new experimental app called Doppl that uses AI to visualize how different outfits might look on you, the company announced on Thursday. The app is available on iOS and Android i… [+1963 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Emma Roth",
-      "title": "WhatsApp rolls out AI-generated summaries for private messages - The Verge",
-      "description": "WhatsApp is launching new AI-powered message summaries that can give you a rundown on what you missed in your group chat.",
-      "url": "https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/meta-ai-summary-screenshot.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-25T22:02:07Z",
-      "content": "Metas AI can write a catch-up summary of messages youve missed.\r\nWhatsApp can now call on Meta AI to summarize your personal chats. As shown in a GIF, you can access it by tapping the button to unfur… [+1553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "New Xbox 360 Update Adds More Ads 20 Years After Launch - Kotaku",
-      "description": "Yeah, the Xbox 360 is a retro console, but that won't stop Microsoft from advertising on it",
-      "url": "https://kotaku.com/xbox-360-console-update-more-ads-20-years-old-series-x-1851785111",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/199550a69ab919da70d2a154dc58e174.jpg",
-      "publishedAt": "2025-06-25T21:19:10Z",
-      "content": "Today, some folks turned on their Xbox 360s to discover Microsoft has updated the aging device. The new update fixes an annoying issue bugging players for a bit now, but it also slaps two big ads on … [+1525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "HDMI 2.2 specs are out with ‘Ultra96’, up to 16K at 60Hz - 9to5Mac",
-      "description": "The HDMI Forum has officially released version 2.2 of the HDMI specification, boosting maximum bandwidth to 96Gbps.",
-      "url": "https://9to5mac.com/2025/06/25/hdmi-2-2-specs-ultra96/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/hdmi-ultra96.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-25T21:07:00Z",
-      "content": "The HDMI Forum has officially released version 2.2 of the HDMI specification, bringing support for video resolutions up to 16K at 60Hz and boosting maximum bandwidth to 96Gbps. Alongside the spec, th… [+1910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Amazon Sells the 2025 MacBook Air Without a Profit Margin, Now Much Cheaper Than on Apple’s Official Site - Gizmodo",
-      "description": "No one expected the MacBook Air M4 at this price just three months after launch.",
-      "url": "https://gizmodo.com/amazon-sells-the-2025-macbook-air-without-a-profit-margin-now-much-cheaper-than-on-apples-official-site-2000620414",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/05/macbook-air-2025-midnight-1200x675.jpg",
-      "publishedAt": "2025-06-25T20:51:52Z",
-      "content": "Apple stands out as one of the most premium brands, regularly launching updated versions of its popular MacBook Air. To protect its image, Apple almost never cuts prices on new modelsespecially right… [+2285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theshortcut.com"
-      },
-      "author": "Matt Swider",
-      "title": "Nintendo Switch 2 restock: Walmart has 'significantly more inventory tonight' - The Shortcut | Matt Swider",
-      "description": "Here's what time to expect The Shortcut's Switch 2 restock notification",
-      "url": "https://www.theshortcut.com/p/nintendo-switch-2-restock-walmart-june-25-time",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!YkoA!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabdd8c7d-84f1-4ee0-aaf9-f5db27b6b729_1366x768.png",
-      "publishedAt": "2025-06-25T19:49:04Z",
-      "content": "Walmarts Nintendo Switch 2 restock is tonight at 9pm ET/6pm PT, and the US retailer will have more consoles in stock online than ever before, according to our Walmart sources. \r\nBoth the Walmart Swit… [+5123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Nintendo announces Drag x Drive release date [update: file size, multiplayer bits] - Nintendo Everything",
-      "description": "Drag x Drive release date and price shared by Nintendo - here's when it launches and how much the Switch 2 game costs.",
-      "url": "https://nintendoeverything.com/nintendo-announces-drag-x-drive-release-date/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Drag-x-Drive-release-date.jpg",
-      "publishedAt": "2025-06-25T19:35:42Z",
-      "content": "June 24: Drag x Drive just received its release date. The game will be ready to go on August 14, 2025 at a price point of $20.\r\nNews about the release date for Drag x Drive was just published on the … [+964 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints - The Verge",
-      "description": "Dbrand will send replacement Killswitch Joy-Con Grips for the Switch 2 after admitting it had a “spectacularly terrible response” to detachment complaints.",
-      "url": "https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/switch2dbranddocked_cff301.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "publishedAt": "2025-06-25T19:29:09Z",
-      "content": "The company will replace Joy-Con grips for all customers and is working on updated versions.\r\nDbrand will send replacement Killswitch Joy-Con Grips for the Switch 2 to buyers after admitting it had a… [+3310 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Brian Shea",
-      "title": "Borderlands 4 Preview - Hands-On With All Four Vault Hunters - Game Informer",
-      "description": "We get exclusive hands-on with all four Vault Hunters from Borderlands 4's base game.",
-      "url": "https://www.gameinformer.com/preview/2025/06/25/hands-on-with-all-four-vault-hunters",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/09/4e69d974/borderlands_4_screenshot_-_4_player_co-op.jpg",
-      "publishedAt": "2025-06-25T19:00:00Z",
-      "content": "Following the events of Borderlands 3, where Lilith teleported Pandora's moon, Elpis, to another part of space, a previously cloaked planet was revealed to the universe. A few years later, four Vault… [+5530 chars]"
+      "author": "Benj Edwards",
+      "title": "Anthropic summons the spirit of Flash games for the AI age - Ars Technica",
+      "description": "AI chatbot codes browser-based apps from plain English with classic web vibes.",
+      "url": "https://arstechnica.com/ai/2025/06/anthropic-summons-the-spirit-of-flash-games-for-the-ai-age/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/digital_arcade_1-1152x648.jpg",
+      "publishedAt": "2025-06-26T20:33:20Z",
+      "content": null
     },
     {
       "source": {
@@ -125,51 +34,64 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Google will prompt Android users to adjust Find Hub privacy during device setup - 9to5Google",
-      "description": "Through an update, Google has revealed that a new prompt during setup will push Android users to change Find Hub privacy settings.",
-      "url": "http://9to5google.com/2025/06/25/google-android-find-hub-privacy-setup-prompt/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-Find-Hub-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-25T18:20:00Z",
-      "content": "Google is making a change to Android device setup that will prompt users to change their Find Hub privacy settings, hopefully addressing a long-standing shortcoming of Google’s tracker network.\r\nIn t… [+1652 chars]"
+      "title": "Google banned from selling select Pixel phones in Japan, and it might not end there - 9to5Google",
+      "description": "Google has been banned from selling select Pixel phones in Japan over a patent dispute, and it might not end there.",
+      "url": "http://9to5google.com/2025/06/26/google-pixel-japan-sales-ban/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/05/google-pixel-7a-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-26T19:05:00Z",
+      "content": "A patent dispute in Japan has led to Google no longer being able to sell select older Pixel devices, and the company behind it is gunning for newer generations too.\r\nAs reported by ETNews, a Japanese… [+1607 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft’s Xbox PC launcher gets going with Steam, Epic, and other games showing up - The Verge",
+      "description": "Microsoft is embracing Steam, Epic Games Store, and other launchers to show games in its Xbox app. It’s part of improving the handheld PC gaming experience.",
+      "url": "https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-26-184459.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-26T18:50:56Z",
+      "content": "Microsoft wants to have the main PC gaming launcher app on Windows.\r\nMicrosoft announced earlier this week that it would start testing its new aggregated gaming library on the Xbox app for Windows, a… [+2061 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "The Xbox 360 dashboard just got updated... to advertise newer Xboxes - The Verge",
+      "description": "Nearly 20 years after it launched, Microsoft has updated the Xbox 360’s dashboard with bug fixes and ads encouraging gamers to upgrade.",
+      "url": "https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/xbox360.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-06-26T18:40:34Z",
+      "content": "Nearly 20 years after the Xbox 360 launched, Microsoft is still updating the console to fix bugs and hawk new hardware.\r\nEarlier this week some devoted Xbox 360 users booted up their aging consoles t… [+1667 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "author": "Ethan Gach",
-      "title": "New Hot Shots Golf Game Cops To Using Generative AI For Trees - Kotaku",
-      "description": "Everybody's Golf: Hot Shots features Pac-Man and AI foliage",
-      "url": "https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/755945980ff9c6088bf1cf007e58f9fa.jpg",
-      "publishedAt": "2025-06-25T18:00:00Z",
-      "content": "Everybodys Golf: Hot Shots brings the fan-favorite franchise to modern consoles under one unified name after a nearly decade-long hiatus. Unfortunately, its simple three-button shot mechanics will ar… [+1752 chars]"
+      "author": "Joe Rossignol",
+      "title": "iPhone 17 Air Screen Protector Reveals a Potential Design Difference - MacRumors",
+      "description": "A screen protector that is allegedly designed for Apple's rumored ultra-thin iPhone 17 Air model has revealed a potential design difference.  ...",
+      "url": "https://www.macrumors.com/2025/06/26/alleged-iphone-17-air-screen-protector/",
+      "urlToImage": "https://images.macrumors.com/t/VwE5TTfe7ba7GCaoqKtu0zh6qO4=/2500x/article-new/2025/03/iPhone-17-Air-Size-Feature.jpg",
+      "publishedAt": "2025-06-26T18:05:46Z",
+      "content": "A screen protector that is allegedly designed for Apple's rumored ultra-thin iPhone 17 Air model has revealed a potential design difference.\r\nBased on an image shared today by a leaker known as Majin… [+1095 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Arcaracing.com"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Staff Report",
-      "title": "Entry list: Lime Rock Park 100 at Lime Rock Park - arcaracing.com",
-      "description": "See who's racing Saturday in the ARCA Menards Series event at Lime Rock Park.",
-      "url": "https://www.arcaracing.com/2025/06/25/entry-list-lime-rock-park-100/",
-      "urlToImage": "",
-      "publishedAt": "2025-06-25T17:45:34Z",
-      "content": "You have been signed up successfully.\r\nThere was a security issue.\r\nThere was an issue processing your request.\r\nYou are already subscribed to this newsletter."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Stalker 2's Modding Tools Require 700 GB Of Space - Kotaku",
-      "description": "Yes, the open-world post-apocalyptic simulator's new modding kit is a hard drive behemoth",
-      "url": "https://kotaku.com/stalker-2-modding-kit-size-700gb-gsc-world-pc-big-cod-1851785075",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/556a9d24fab3046675703d54e0189cb9.jpg",
-      "publishedAt": "2025-06-25T17:05:00Z",
-      "content": "Stalker 2just received a big new update today that adds a ton of changes to the open-world shooter. But the bigger news, literally, is that developers GSC Game World have released the modding kit for… [+1793 chars]"
+      "author": "Sarah Perez",
+      "title": "Google Photos merges classic search with AI to speed up results - TechCrunch",
+      "description": "The AI feature, first introduced at Google's I/O developer conference last year, allows users to search across their collection of digital photos using natural language queries.",
+      "url": "https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-887454024.jpg?resize=1200,797",
+      "publishedAt": "2025-06-26T17:55:05Z",
+      "content": "After Google temporarily paused the rollout of its buggy AI-powered “Ask Photos” feature in Google Photos, the company announced that it has improved the feature’s ability to quickly return search re… [+1927 chars]"
     },
     {
       "source": {
@@ -177,64 +99,168 @@
         "name": "Variety"
       },
       "author": "Jennifer Maas",
-      "title": "Jack Black to Reprise Officer Dick in ‘Tony Hawk’s Pro Skater 3 + 4’ (EXCLUSIVE) - Variety",
-      "description": "When the \"Tony Hawk's Pro Skater\" franchise returns with new installment \"3 + 4\" on July 11, it's bringing Jack Black back with it.",
-      "url": "https://variety.com/2025/gaming/news/jack-black-tony-hawks-pro-skater-3-4-officer-dick-1236440201/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/Jack-Black-Tony-Hawk-Pro-Skater-3-4.png?w=1000&h=563&crop=1",
-      "publishedAt": "2025-06-25T17:00:00Z",
-      "content": "When the “Tony Hawk’s Pro Skater” franchise returns with new installment “3 + 4” on July 11, it’s bringing Jack Black back with it.\r\nThe “A Minecraft Movie” star is returning to the skate-boarding vi… [+3389 chars]"
+      "title": "‘Fortnite’ Players to Receive More Than $126 Million in Refunds From FTC - Variety",
+      "description": "The Federal Trade Commission (FTC) is issuing more refunds to players of Epic Games \"Fortnite.\"",
+      "url": "https://variety.com/2025/gaming/news/how-to-get-fortnite-ftc-refund-1236441827/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/Fortnite.png?w=1000&h=563&crop=1",
+      "publishedAt": "2025-06-26T17:50:00Z",
+      "content": "Players of Epic Games‘ “Fortnite” who were “charged for unwanted purchases while playing the game” will be receiving more than $126 million in refunds from the Federal Trade Commission.\r\nThe governme… [+1382 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Gemini is getting ready to replace Google Assistant on Android - The Verge",
+      "description": "Android users will soon be able to let Gemini control device features and apps with fewer privacy concerns.",
+      "url": "https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-26T17:45:07Z",
+      "content": "You can soon tell Gemini to make calls and send messages without feeding into Googles AI training.\r\nAndroid users will soon be able to let Gemini control device features and apps with fewer privacy c… [+1767 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone - The Verge",
+      "description": "The Delta Camera app recreates the 27-year-old low-res, black and white Game Boy Camera on your iPhone.",
+      "url": "https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/deltacamera.jpg?quality=90&strip=all&crop=0%2C10.717457596592%2C100%2C78.565084806817&w=1200",
+      "publishedAt": "2025-06-26T17:31:58Z",
+      "content": "Delta Camera launches for iOS later this year with support for manual exposure and the iPhones Camera Control button.\r\nRiley Testut, the developer behind the robust Delta emulator app for iOS, announ… [+1177 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Slate Magazine"
+        "name": "Tom's Guide"
       },
-      "author": "Joshua Rivera",
-      "title": "The Video Game Industry as We Knew It Is Over. Something Unsavory Is Taking Its Place. - Slate Magazine",
-      "description": "Enjoy the new Nintendo console while it lasts. We may not get another one.",
-      "url": "https://slate.com/culture/2025/06/nintendo-switch-2-video-games-xbox-playstation.html",
-      "urlToImage": "https://compote.slate.com/images/c7bb7c47-037e-4dd6-a973-a266cee36579.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2025-06-25T16:32:00Z",
-      "content": "The video game industry loves to tout figures: record-breaking sales numbers, astonishing revenue growth, dazzling quantities of concurrent players. It makes sense that the people who make and play g… [+10120 chars]"
+      "author": "Scott Younker",
+      "title": "Steam is down — live updates on outage - Tom's Guide",
+      "description": "Popular PC gaming platform seems to be having problems",
+      "url": "https://www.tomsguide.com/news/live/steam-outage-june-26-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bxRmYPzdwZVjhc9cZPLg7F.jpg",
+      "publishedAt": "2025-06-26T17:31:13Z",
+      "content": "2025-06-26T18:46:20.877ZTwo hours and its still climbing\r\n(Image credit: Down Detector)\r\nWe're about 2 hours into the Steam Store outage, and reports are still climbing over at Down Detector.\r\nAs of … [+3327 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC - Ars Technica",
+      "description": "It only makes any sense at all because of the old Surface Laptop’s price hike.",
+      "url": "https://arstechnica.com/gadgets/2025/06/review-microsofts-13-inch-surface-laptop-isnt-bad-but-it-is-a-step-down/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/IMG_3181-1152x648.jpeg",
+      "publishedAt": "2025-06-26T17:27:34Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "SamMobile"
       },
-      "author": null,
-      "title": "Samsung launches three 4K 32-inch Smart monitors: M9 gets QD-OLED panel and $1599 price tag - VideoCardz.com",
-      "description": "Samsung launches new Smart Monitors: M9 gets QD-OLED, M8 and M7 upgraded with AI tools Samsung has updated its Smart Monitor lineup with three new 32-inch models. The highlight is the new Smart Monitor M9 (M90SF), now using a QD-OLED panel with a 165Hz refres…",
-      "url": "https://videocardz.com/newz/samsung-launches-three-4k-32-inch-smart-monitors-m9-gets-qd-oled-panel-and-1599-price-tag",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/06/SAMSUNG-M9-2025.jpg",
-      "publishedAt": "2025-06-25T15:49:00Z",
-      "content": "Samsung has updated its Smart Monitor lineup with three new 32-inch models. The highlight is the new Smart Monitor M9 (M90SF), now using a QD-OLED panel with a 165Hz refresh rate, 0.03ms response tim… [+2638 chars]"
+      "author": "Mihai Matei",
+      "title": "Galaxy S25 One UI 8 update may have already gone stable! - SamMobile",
+      "description": "The Galaxy S25 Edge launched in May running One UI 7 out of the box, and despite its $1099 price tag, it isn't included in the One UI 8 beta program that went live for the Galaxy S25, S25+, and S25 Ultra soon after the S25 Edge hit retail shelves. But while t…",
+      "url": "https://www.sammobile.com/news/galaxy-s25-edge-one-ui-8-update-in-development/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Edge-home-screen-1-1200x675.jpg",
+      "publishedAt": "2025-06-26T16:34:00Z",
+      "content": "Samsung is working on implementing an Android 16 feature into One UI 8 that will allow users to capture HDR screenshots. This feature is not yet available in the public One UI 8 beta build(s) but cou… [+1677 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "My Nintendo News"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Sickr",
-      "title": "Square Enix acknowledges Expedition 33 success - My Nintendo News",
-      "description": "Clair Obscur Expedition 33 has proved to be a massive hit with gamers and critics alike and many are praising its evolutionary turn based combat. After playing the game, many users took to social…",
-      "url": "https://mynintendonews.com/2025/06/25/square-enix-acknowledges-expedition-33-success/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/06/final_fantasy_16.jpg?fit=3840%2C2160&ssl=1",
-      "publishedAt": "2025-06-25T15:36:19Z",
-      "content": "Clair Obscur Expedition 33 has proved to be a massive hit with gamers and critics alike and many are praising its evolutionary turn based combat. After playing the game, many users took to social med… [+1146 chars]"
+      "author": "Brian",
+      "title": "Nintendo announces 2025 Switch eShop Summer Sale - first discount for Luigi's Mansion 2 HD, tons more - Nintendo Everything",
+      "description": "Nintendo 2025 Switch eShop Summer Sale live with first discount for Luigi's Mansion 2 HD and lots more - see the full list of deals.",
+      "url": "https://nintendoeverything.com/nintendo-announces-2025-switch-eshop-summer-sale-first-discount-for-luigis-mansion-2-hd-tons-more/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-2025-Switch-eShop-Summer-Sale-Luigis-Mansion-2-HD.jpg",
+      "publishedAt": "2025-06-26T16:23:41Z",
+      "content": "Nintendo just kicked off a huge 2025 eShop Summer Sale, with many of its own Switch games on sale such as Luigi’s Mansion 2 HD. Lots of third-party offerings are included as well.\r\nThe full lineup is… [+4006 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Hannah Hoolihan",
-      "title": "Humble’s Capcom Publisher Sale Features Discounts on Resident Evil 4 Remake, Dragon’s Dogma 2, and More - IGN",
-      "description": "Humble's Capcom Publisher Sale features some incredible discounts on a wide variety of games, from Resident Evil 4 Remake to Dragon’s Dogma 2 to Monster Hunter: World and more.",
-      "url": "https://www.ign.com/articles/humble-capcom-publisher-sale-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/25/humble-capcom-publisher-sale-1750860107648.jpg?width=1280",
-      "publishedAt": "2025-06-25T15:28:09Z",
-      "content": "With so many sale events going on (or on the horizon, if you have your calendar marked for Amazon Prime Day in July), summer is a great time to stock up on discounted games. If you're a PC player, Hu… [+1773 chars]"
+      "author": "Jay Peters",
+      "title": "YouTube search gets its own version of Google’s AI Overviews - The Verge",
+      "description": "Some YouTube Premium members may start seeing an AI-powered search results carousel for certain types of searches.",
+      "url": "https://www.theverge.com/news/693658/youtube-search-ai-overviews-google",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-26T16:22:57Z",
+      "content": "Premium members may see an AI-written summary pop up when they search.\r\nGoogle is bringing an AI Overviews-like feature to another product: YouTube. The video streaming platform may now show an AI-po… [+940 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Now Google’s Gemini AI is ready to fill in those empty cells in your spreadsheet - The Verge",
+      "description": "Google is rolling out a new Gemini-powered feature in Sheets that lets you use an AI function to generate text for groups of cells based on their contents.",
+      "url": "https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/google-ai-function-example.png?quality=90&strip=all&crop=0%2C7.3689876204922%2C100%2C85.262024759016&w=1200",
+      "publishedAt": "2025-06-26T16:17:20Z",
+      "content": "The new AI function in Sheets can generate text for groups of cells based on their contents.\r\nGoogle is launching a new AI function in Sheets to help you generate text to fill out parts of your sprea… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "watchOS 26 has these hardware requirements for Apple Intelligence - 9to5Mac",
+      "description": "watchOS 26 adds several new Apple Intelligence features to the Apple Watch, but they each have their own hardware requirements.",
+      "url": "https://9to5mac.com/2025/06/26/watchos-26-has-these-hardware-requirements-for-apple-intelligence/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-26T16:11:00Z",
+      "content": "watchOS 26 is the Apple Watchs next major hardware update, and it includes several Apple Intelligence-powered features. Here are the hardware requirements to get Apple Intelligence on your Watch.\r\nLa… [+1953 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Oli Welsh",
+      "title": "Mario Kart World patch defies the way players want to race online - Polygon",
+      "description": "Nintendo has updated Mario Kart World to change ‘random’ voting in online play and push players further towards the ‘intermission’ races they don’t like",
+      "url": "https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/MK-World-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-26T16:09:21Z",
+      "content": "Nintendo has patchedMario Kart World with an apparently small change to the way courses are selected in online lobbies. But the change has infuriated players who were already frustrated with the styl… [+2245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Front Mission 3: Remake Appears To Replace 2D Art Assets With Generative AI - Nintendo Life",
+      "description": "And it completely changes the look of some of the images",
+      "url": "https://www.nintendolife.com/news/2025/06/front-mission-3-remake-appears-to-replace-2d-art-assets-with-generative-ai",
+      "urlToImage": "https://images.nintendolife.com/26bb735820e14/large.jpg",
+      "publishedAt": "2025-06-26T16:00:00Z",
+      "content": "Watch on YouTube\r\nSubscribe to Nintendo Life on YouTube824k\r\nSo, Front Mission 3: Remake is finally out today, 26th June 2025, and it should be a day of celebration for fans of the PS1 original, righ… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "What is an Xbox? - The Verge",
+      "description": "Microsoft is pushing ahead with plans to change the very definition of an Xbox. It looks like its next-gen will offer up a lot of choice for an Xbox console.",
+      "url": "https://www.theverge.com/notepad-microsoft-newsletter/693576/microsoft-next-gen-xbox-steam-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-26T16:00:00Z",
+      "content": "It sure looks like the next Xbox is going to be different, as Microsoft competes more with Steam.\r\nMicrosofts This is an Xbox marketing campaign in November always felt a little too early. If you ask… [+13096 chars]"
     }
   ]
 }
