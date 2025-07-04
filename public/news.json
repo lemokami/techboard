@@ -1,97 +1,97 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 60,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "S.E. Doster",
-      "title": "CoD Season 4 Reloaded Patch Notes Add Attachment Changes And Goofy Verdansk LTM - GameSpot",
-      "description": "Here are the major changes included in the Black Ops 6 And Warzone Season 4 Reloaded update.",
-      "url": "https://www.gamespot.com/gallery/cod-season-4-reloaded-patch-notes-add-attachment-changes-and-goofy-verdansk-ltm/2900-6725/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4524391-bo6-s04-reloaded-017_copy.jpg",
-      "publishedAt": "2025-07-01T20:21:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maggie Stamets",
-      "title": "Nothing releases its first over-the-ear headphones, the $299 Headphone (1) - TechCrunch",
-      "description": "Nothing stepped away from sensors in favor of a simple button to trigger your AI assistant or ChatGPT, if you have the Nothing X app, and a volume roller that can also be pressed to play, pause, and turn on and off noise canceling.",
-      "url": "https://techcrunch.com/2025/07/01/nothing-releases-its-first-over-the-ear-headphones-the-299-headphone-1/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/250513_ELEKID_White_detail_Stacked_16x9.jpg?resize=1200,675",
-      "publishedAt": "2025-07-01T18:38:51Z",
-      "content": "London-based smartphone maker Nothing has launched its first over-the-ear headphones, the Headphone (1). The new device follows Nothing’s first step into audio hardware with last year’s debut of the … [+1429 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Here’s everything new for Apple Photos in iOS 26 - 9to5Mac",
-      "description": "Apple’s Photos app got a big overhaul last year, and iOS 26 introduces new changes that both push the app forward and restore familiarity.",
-      "url": "https://9to5mac.com/2025/07/01/heres-everything-new-for-apple-photos-in-ios-26/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-Photos-app-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-01T17:44:00Z",
-      "content": "Apples Photos app received a major overhaul last year, and iOS 26 brings a handful of new changes. Heres everything new coming to the Photos app in iOS 26.\r\nOne of the biggest changes impacting all A… [+2614 chars]"
+      "title": "FaceTime in iOS 26 will freeze your call if someone starts undressing - 9to5Mac",
+      "description": "iOS 26 includes a new FaceTime safety feature designed to prevent nudity without consent, here are the details.",
+      "url": "https://9to5mac.com/2025/07/02/facetime-in-ios-26-will-freeze-your-call-if-someone-starts-undressing/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/facetime-ios-26-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T19:58:00Z",
+      "content": "iOS 26 is a packed update for iPhone users thanks to the new Liquid Glass design and major updates for Messages, Wallet, CarPlay, and more. But another new feature was just discovered in the iOS 26 b… [+1704 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Dominic Preston",
-      "title": "Nothing’s ‘first true flagship’ phone plays it a little safe - The Verge",
-      "description": "The Nothing Phone 3 is coming to the US on July 15th without the company’s trademark light show.",
-      "url": "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/nothing-phone-3-11.jpg?quality=90&strip=all&crop=0%2C10.737819537093%2C100%2C78.524360925814&w=1200",
-      "publishedAt": "2025-07-01T17:30:00Z",
-      "content": "The Phone 3 is coming to the US this month without the companys trademark light show.\r\nThe Glyph interface is not a gimmick, Nothing founder and CEO Carl Pei told the press as he revealed the Nothing… [+4812 chars]"
+      "author": "Sean Hollister",
+      "title": "How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking - The Verge",
+      "description": "Nintendo’s Switch 2 isn’t compatible with third-party docking stations because the company is using proprietary handshakes and — allegedly — encryption.",
+      "url": "https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-02T19:47:45Z",
+      "content": "We whipped out a USB-C PD analyzer to test how Nintendo walled its garden this time around.\r\nWe whipped out a USB-C PD analyzer to test how Nintendo walled its garden this time around.\r\nTheres always… [+9132 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "AT&T now lets you lock down your account to prevent SIM swapping attacks - The Verge",
-      "description": "AT&T is launching a new Account Lock feature that will let wireless customers prevent unauthorized changes to their account, such as phone number and SIM card transfers.",
-      "url": "https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK478_breaking_into_phone_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-01T16:36:28Z",
-      "content": "The carriers new Account Lock feature will prevent unauthorized changes to your account, including phone number and SIM card transfers.\r\nThe carriers new Account Lock feature will prevent unauthorize… [+1610 chars]"
+      "author": "Jay Peters, Tom Warren",
+      "title": "Phil Spencer isn’t retiring as the chief of Xbox “anytime soon” - The Verge",
+      "description": "Microsoft Gaming CEO Phil Spencer isn’t retiring anytime soon. He took over leadership of Microsoft’s Xbox work in 2014.",
+      "url": "https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/VRG_Illo_STK184_L_Normand_PhilSpencer_Neutral.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-02T19:40:27Z",
+      "content": "Spencer has headed up Microsofts Xbox efforts since 2014.\r\nMicrosoft says that Phil Spencer, Microsoft Gaming CEO and the head of Xbox, isnt retiring anytime soon. The company has responded to rumors… [+1504 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Sarah Perez",
-      "title": "Threads gets its own DMs as app distances itself from Instagram - TechCrunch",
-      "description": "At launch, Threads DMs will support one-on-one chats, preset emoji reactions, the ability to report spam, and mute DMs (as on Instagram). Other features, like group messaging, inbox filters, and more advanced message controls, will arrive in a later release.",
-      "url": "https://techcrunch.com/2025/07/01/threads-gets-its-own-dms-as-app-distances-itself-from-instagram/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/threads-dms-highlight.jpg?resize=1200,675",
-      "publishedAt": "2025-07-01T16:00:00Z",
-      "content": "Instagram Threads is rolling out users’ most-requested feature to date: the ability to message people directly, without having to switch to another app, like Instagram. The company said direct messag… [+5269 chars]"
+      "author": "Ben Schoon",
+      "title": "Pixel 6a gets a mandatory Android update next week with battery reduction for some - 9to5Google",
+      "description": "Google has confirmed the details of a Pixel 6a update that is mandatory and will lead to a battery reduction for some users.",
+      "url": "http://9to5google.com/2025/07/02/pixel-6a-battery-update-details/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/google-pixel-6a-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T18:40:00Z",
+      "content": "Following reports of battery issues on Pixel 6a, Google has detailed a mandatory Android 16 update for these devices that, for some, will have a major impact on battery life. Here’s what the company … [+2193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blizzard.com"
+      },
+      "author": null,
+      "title": "Announcing Changes to Warcraft Rumble Support - Blizzard News",
+      "description": "We have an important update on the future of Warcraft Rumble. After much deliberation, we’ve arrived at an extremely hard decision. Moving forward, we'll continue supporting Rumble with updates focused on regular, systemic in-game events and bug fixes, but no…",
+      "url": "https://news.blizzard.com/en-us/article/24215864/announcing-changes-to-warcraft-rumble-support",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/t0/T0WW7ZU5L2IN1642642647045.png",
+      "publishedAt": "2025-07-02T18:29:00Z",
+      "content": "Dear Warcraft Rumble Community, \r\nWe have an important update on the future of Warcraft Rumble. After much deliberation, weve arrived at an extremely hard decision. Moving forward, we'll continue sup… [+1054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Sources: Banjo-Kazooie, Sea of Thieves director leaves Rare after 35 years, following Everwild cancellation - Video Games Chronicle",
+      "description": "Influential designer Gregg Mayles will leave the company, according to sources",
+      "url": "https://www.videogameschronicle.com/news/sources-banjo-kazooie-sea-of-thieves-director-leaves-rare-after-35-years-following-everwild-cancellation/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/07/Screenshot-2025-07-02-190959.jpg",
+      "publishedAt": "2025-07-02T18:22:50Z",
+      "content": "Gregg Mayles, Rares most experienced and influential game designer, will leave the company after more than 35 years, sources have told VGC.\r\nAccording to multiple people at the studio, who spoke to V… [+2260 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Ash Parrish",
-      "title": "Nintendo revealed the Super Mario Odyssey team made Donkey Kong Bananza - The Verge",
-      "description": "Nintendo has finally revealed that the team behind Super Mario Odyssey has developed Donkey Kong Bananza.",
-      "url": "https://www.theverge.com/news/695726/donkey-kong-bananza-developers-super-mario-odyssey",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/videoframe_109465.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-07-01T15:13:31Z",
-      "content": "The next 3D Mario platformer might already be here.\r\nAs previews for Donkey Kong Bananza come in ahead of the games July 17th release date, one tidbit has stood out on the development of this game. I… [+1167 chars]"
+      "author": "Brandon Russell",
+      "title": "Amazon is offering a like-new Kindle Paperwhite 2024 for just $107 - The Verge",
+      "description": "Amazon is offering big discounts on the refurbished Kindle Paperwhite and Kindle Paperwhite Signature Edition, making the e-readers more affordable than ever.",
+      "url": "https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-refurbished-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-02T18:20:45Z",
+      "content": "You can also save on the ad-free Signature Edition.\r\nWith less than a week until Prime Day kicks off, were already seeing some exciting early deals pop up. And now we can add two more great discounts… [+1926 chars]"
     },
     {
       "source": {
@@ -99,12 +99,64 @@
         "name": "Gizmodo.com"
       },
       "author": "James Pero",
-      "title": "AI Siri May Be Forced to Get Emergency Brain Transplant from OpenAI or Anthropic - Gizmodo",
-      "description": "After failing to release its AI-powered Siri last year, Apple needs to do some major surgery on its voice assistant ASAP.",
-      "url": "https://gizmodo.com/ai-siri-may-be-forced-to-get-emergency-brain-transplant-from-openai-or-anthropic-2000622739",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-      "publishedAt": "2025-07-01T15:00:03Z",
-      "content": "Apple’s AI stumbles have been pretty obvious, but the most apparent of them all is arguably its long-awaited overhaul of Siri. In case you haven’t been paying attention, AI Siri was supposed to be re… [+3347 chars]"
+      "title": "A Foldable iPhone Needs to Be At Least This Thin or It’s DOA - Gizmodo",
+      "description": "Apple's folding iPhone isn't even real yet, but it already has a very thin bar to meet.",
+      "url": "https://gizmodo.com/a-foldable-iphone-needs-to-be-at-least-this-thin-or-its-doa-2000623367",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/honor-magic-v5-1200x675.jpg",
+      "publishedAt": "2025-07-02T18:13:43Z",
+      "content": "Feels like just yesterday that folding phones weren’t even a thing, and now we’re somehow drowning in a sea of crease-filled screens. If, like me, you’ve been wondering what else phone makers can off… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "What to Expect From Apple's Rumored New MacBook With A18 Pro Chip - MacRumors",
+      "description": "Apple supply chain analyst Ming-Chi Kuo expects an all-new, more-affordable MacBook model powered by an iPhone chip to launch next year.   Below, we...",
+      "url": "https://www.macrumors.com/2025/07/02/macbook-a18-pro-chip-rumor-recap/",
+      "urlToImage": "https://images.macrumors.com/t/SvVZeW6SQG72NSNE0rNqpAVMGXk=/2680x/article-new/2025/07/Low-Cost-MacBook-Feature-A18-Pro.jpg",
+      "publishedAt": "2025-07-02T17:53:10Z",
+      "content": "Apple supply chain analyst Ming-Chi Kuo expects an all-new, more-affordable MacBook model powered by an iPhone chip to launch next year.\r\nBelow, we recap rumors and other possibilities for this new M… [+3359 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day - The Verge",
+      "description": "Amazon’s Echo Hub is $60 off for Prime members right now. The Apple Pencil Pro and the Pebblebee Clip Universal location tracker are also on sale.",
+      "url": "https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/247023_Echo_Hub_JTuohy_0018.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-02T16:09:05Z",
+      "content": "Plus, we found deals on the Apple Pencil Pro, a brilliant OLED TV, and Pebblebees platform-agnostic location tracker.\r\nPlus, we found deals on the Apple Pencil Pro, a brilliant OLED TV, and Pebblebee… [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iPhone 17 Pro's New MagSafe Design Revealed in Leaked Photo - MacRumors",
+      "description": "The upcoming iPhone 17 Pro and iPhone 17 Pro Max are rumored to have a slightly different MagSafe magnet layout compared to existing iPhone models,...",
+      "url": "https://www.macrumors.com/2025/07/02/iphone-17-pro-new-magsafe-design/",
+      "urlToImage": "https://images.macrumors.com/t/OkxcDXvdHqXvP4lfN2uatccSbY4=/2500x/article-new/2025/07/iPhone-17-Pro-Lower-Logo-Magsafe.jpg",
+      "publishedAt": "2025-07-02T15:37:51Z",
+      "content": "The upcoming iPhone 17 Pro and iPhone 17 Pro Max are rumored to have a slightly different MagSafe magnet layout compared to existing iPhone models, and a leaked photo has offered a closer look at the… [+1003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "William White",
+      "title": "AMD Stock Leaps on PlayStation 5 Pro FSR 4 Integration - TipRanks",
+      "description": "AMD stock was up on Wednesday after the company announced results from its development collaboration with Sony.",
+      "url": "https://www.tipranks.com/news/amd-stock-leaps-on-playstation-5-pro-fsr-4-integration",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/07/sonystock-750x406.jpg",
+      "publishedAt": "2025-07-02T15:28:48Z",
+      "content": null
     },
     {
       "source": {
@@ -112,155 +164,103 @@
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "New ‘MacBook’ rumor sounds like Apple’s taking the iPad approach - 9to5Mac",
-      "description": "Apple is reportedly preparing a new ‘MacBook’ product to add to the Mac lineup, in a move that seems to be following its iPad approach.",
-      "url": "https://9to5mac.com/2025/07/01/new-macbook-rumor-sounds-like-apples-taking-the-ipad-approach/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.06.09-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-01T14:52:00Z",
-      "content": "Apple is rumored to be making a new MacBook device for launch later this year or in early 2026. And based on the early details, it sounds a lot like Apples taking the iPad approach with its new MacBo… [+2557 chars]"
+      "title": "New Apple TV 4K could be launching at the best possible moment - 9to5Mac",
+      "description": "There’s a new Apple TV 4K expected to launch this fall, and two key factors could help the product find greater success than ever.",
+      "url": "https://9to5mac.com/2025/07/02/new-apple-tv-4k-could-be-launching-at-the-best-possible-moment/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T15:27:00Z",
+      "content": "Believe it or not, the first Apple TV product preceded even the iPhone with its initial introduction. Yet for almost two decades, the product has remained fairly niche in Apples lineup. But the new A… [+2741 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Kotaku"
       },
-      "author": "Darren Calvert",
-      "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2025 - Nintendo Life",
-      "description": "So he's finally here",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2025",
-      "urlToImage": "https://images.nintendolife.com/e8a802b692930/large.jpg",
-      "publishedAt": "2025-07-01T14:22:13Z",
-      "content": "Image: Nintendo\r\nWith the Switch 2 entering its second month, following his Switch 2 debut in the Mario Kart World roster, DK is back in his own game - and it's looking bananas.\r\nSeriously, though, D… [+4595 chars]"
+      "author": "Billy Givens",
+      "title": "Tears Of The Kingdom On Switch 2 Can Keep You Busy For A Long, Long Time - Kotaku",
+      "description": "With so much to do and explore, Link's second saga on the Switch finally gets the glow-up it deserves",
+      "url": "https://kotaku.com/tears-of-the-kingdom-zelda-switch-2-upgrade-how-long-1851785468",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/44325e9c88b4a103080470cc77427fe6.png",
+      "publishedAt": "2025-07-02T15:00:00Z",
+      "content": "Whether youre a fan of the Legend of Zelda franchise or are simply looking for a thrilling open-world game to sink your teeth into on your fancy new Switch 2, you can rest assured that 2023s Tears of… [+1884 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "PetaPixel"
       },
-      "author": "Andrew Romero",
-      "title": "Samsung’s One UI 8 reportedly brings a robust security alert system - 9to5Google",
-      "description": "As Android 16 is set to reinforce the Security and Privacy page, Samsung is looking to add its own changes...",
-      "url": "http://9to5google.com/2025/07/01/samsung-one-ui-8-update-big-security-improvements/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/samsung-one-ui-8-intro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-01T14:19:00Z",
-      "content": "As Android 16 is set to reinforce the Security and Privacy page, Samsung is looking to add its own changes in One UI 8. This comes as new APK teardowns indicate a coming “Alert Center” feature.\r\nAcco… [+2097 chars]"
+      "author": "Jeremy Gray",
+      "title": "$799 Nothing Phone 3 Has Four 50-Megapixel Cameras and Wild Style - PetaPixel",
+      "description": "More grown-up but still super unusual.",
+      "url": "https://petapixel.com/2025/07/02/799-nothing-phone-3-has-four-50-megapixel-cameras-and-wild-style/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/07/nothing-phone-3-1.jpg",
+      "publishedAt": "2025-07-02T14:16:47Z",
+      "content": "In March, unusual tech company Nothing, announced the Nothing Phone 3a. Now, just months later, the flagship Nothing Phone (3) has arrived. It features four 50-megapixel cameras and a $799 price tag,… [+2678 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Marc Griffin",
-      "title": "Xbox Game Pass is getting this Rick and Morty-esque shooter once again - Polygon",
-      "description": "Xbox Game Pass is getting a slew of games this month, with High on Life from Rick and Morty’s creator Justin Roiland leading the charge",
-      "url": "https://www.polygon.com/gaming/610194/xbox-game-pass-high-on-life-rick-and-morty",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24306082/HOL_KeyArt.jpg?quality=90&strip=all&crop=0%2C4.0568737616892%2C100%2C91.886252476622&w=1200",
-      "publishedAt": "2025-07-01T14:16:48Z",
-      "content": "Xbox is adding more new and returning titles to Game Pass for July. So, now is the perfect time to finally give High on Life a proper go!\r\nSquanch Games comical shooter returns to the subscription se… [+2016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rockstargames.com"
-      },
-      "author": "Rockstar Games",
-      "title": "Strange Tales of the West Emerge in Red Dead Online - Rockstar Games",
-      "description": "Author Theodore Levin can’t believe the rumors and missives he’s been receiving from the four corners of the American frontier. He’s working on an anthology of these unexplained and weird phenomena and he needs your help investigating the wildest...",
-      "url": "https://www.rockstargames.com/newswire/article/o327292o933k29/strange-tales-of-the-west-emerge-in-red-dead-online",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o327292o933k29/bbead30a0033951bb36a895b6e259140abe85048.jpg",
-      "publishedAt": "2025-07-01T13:55:09Z",
+      "author": "Samuel Axon",
+      "title": "Behind the next Battlefield game: Culture clash, crunch, and colossal stakes - Ars Technica",
+      "description": "EA insiders describe stress and setbacks in a project that’s too big to fail.",
+      "url": "https://arstechnica.com/gaming/2025/07/behind-the-next-battlefield-game-culture-clash-crunch-and-colossal-stakes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Battlefield-2042-hero-1152x648-1751425139.jpg",
+      "publishedAt": "2025-07-02T14:16:08Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Matt Wales",
-      "title": "Stardew Valley creator plays down reports he could help resurrect cancelled Minecraft-like Hytale - Eurogamer",
-      "description": "Last week, Riot Games announced it was pulling the plug on promising Minecraft-like sandbox game Hytale after over a de…",
-      "url": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale",
-      "urlToImage": "https://assetsio.gnwcdn.com/stardew-hytale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-07-01T12:07:36Z",
-      "content": "Last week, Riot Games announced it was pulling the plug on promising Minecraft-like sandbox game Hytale after over a decade of development. Since then, several notable names have been linked to possi… [+3400 chars]"
+      "author": "Carlos",
+      "title": "Nintendo facing legal issue in Brazil over ability to ban Nintendo Switch 2 consoles - Nintendo Everything",
+      "description": "Nintendo is facing criticism in Brazil over its End User License Agreement (EULA), particularly regarding the possibility of permanently banning Nintendo Switch 2 consoles. The controversy stems from the clause that allows Nintendo to disable a system if pira…",
+      "url": "https://nintendoeverything.com/nintendo-facing-legal-issue-in-brazil-over-ability-to-ban-nintendo-switch-2-consoles/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-rising-development-costs-game-prices.webp",
+      "publishedAt": "2025-07-02T14:10:58Z",
+      "content": "Nintendo is facing criticism in Brazil over its End User License Agreement (EULA), particularly regarding the possibility of permanently banning Nintendo Switch 2 consoles. The controversy stems from… [+1417 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AL.com"
+        "name": "9to5Mac"
       },
-      "author": "Leada Gore | lgore@al.com",
-      "title": "Last call for refunds from super-popular video game: There’s still time to file a claim - AL.com",
-      "description": "The Federal Trade Commission is sending out more than $126 million to players of a super-popular video game who were charged for unwanted items.",
-      "url": "https://www.al.com/news/2025/07/last-call-for-refunds-from-super-popular-video-game-theres-still-time-to-file-a-claim.html",
-      "urlToImage": "https://www.al.com/resizer/v2/DTBFGH3UR5GU3PMDS6HJJNCOUM.jpg?auth=ce5151817b85806c8f2687143c24adcb01c8dd2c04fb2734009bd846f107cb9a&width=1280&quality=90",
-      "publishedAt": "2025-07-01T12:00:00Z",
-      "content": "The Federal Trade Commission is sending more than $126 million to players of a super-popular video game who were charged for unwanted items offered as part of the game. \r\nHavent filed a claim? Theres… [+1441 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple Watch Ultra 3 release date: When to expect the new model - 9to5Mac",
+      "description": "Apple Watch Ultra 3 is in the works with a variety of new upgrades and features, here’s when to expect the new model’s release date.",
+      "url": "https://9to5mac.com/2025/07/02/apple-watch-ultra-3-release-date-when-to-expect-the-new-model/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/night-mode-apple-watch-ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T14:09:00Z",
+      "content": "Its been almost two years since a brand new Apple Watch Ultra model launched, but that drought is almost over. Apple Watch Ultra 3s release date is fast approaching, heres when to expect the new mode… [+2040 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "UploadVR"
       },
-      "author": null,
-      "title": "Google Keep's Material 3 Expressive makeover is starting to roll out - Android Authority",
-      "description": "Google has started rolling out Google Keep's Material 3 Expressive makeover, bringing visual changes to several UI elements.",
-      "url": "https://www.androidauthority.com/google-keep-material-3-expressive-roll-out-3572767/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/06/Google-Keep-Notes-stock-photo-7.jpg",
-      "publishedAt": "2025-07-01T11:39:15Z",
-      "content": "<ul><li>Google Keeps Material 3 Expressive makeover has started rolling out to users.</li><li>It brings visual changes for several UI elements, including the search bar, toolbar, and search filters.<… [+1686 chars]"
+      "author": "David Heaney",
+      "title": "Apple Vision Air With Far Cheaper & Lighter Design Reportedly Coming In 2027 - UploadVR",
+      "description": "Apple Vision Air is coming in 2027, with a \"significantly\" lower price and over 40% weight reduction, supply chain analyst Ming-Chi Kuo claims.",
+      "url": "https://www.uploadvr.com/apple-vision-air-2027-kuo-supply-chain-report/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/07/Apple-Vision.png",
+      "publishedAt": "2025-07-02T13:35:28Z",
+      "content": "Supply chain analyst Ming-Chi Kuo claims to know Apple's headset and glasses product plans for the next 3 years.\r\nMing-Chi Kuo has been reporting on Apple's supply chain for more than 10 years. While… [+8142 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "author": "Ed Nightingale",
-      "title": "Kojima \"happy\" with Death Stranding 2 critical reception, spurring fans to \"fight and battle\" against war and climate change - Eurogamer",
-      "description": "Hideo Kojima is \"happy\" with the critical reception of Death Stranding 2: On The Beach, and has spurred on fans to fight back against war and climate change.",
-      "url": "https://www.eurogamer.net/kojima-happy-with-death-stranding-2-critical-reception-spurring-fans-to-fight-and-battle-against-war-and-climate-change",
-      "urlToImage": "https://assetsio.gnwcdn.com/IMG_6940.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-07-01T11:05:18Z",
-      "content": "Hideo Kojima is \"happy\" with the critical reception of Death Stranding 2: On The Beach, and has spurred on fans to fight back against war and climate change.\r\nSpeaking at the London leg of the Death … [+4225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Rajesh Pandey",
-      "title": "Google Gemini's next big trick could be RCS support - Android Police",
-      "description": "This would help with better image and media sharing",
-      "url": "https://www.androidpolice.com/google-gemini-next-big-trick-could-be-rcs-support/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/02/samsung-galaxy-s25-ask-gemini.jpg",
-      "publishedAt": "2025-07-01T10:49:00Z",
-      "content": "Google keeps improving the Gemini experience on Android with every passing month by adding new features and enhancing the existing ones. Recently, it started rolling out extension support in Gemini L… [+1953 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "My Nintendo News"
-      },
-      "author": "Sickr",
-      "title": "Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News",
-      "description": "Nintendo has revised its sales figures for the Nintendo Switch 2 and has revealed that the system has now surpassed 5 million units sold worldwide, which is an impressive figure.",
-      "url": "https://mynintendonews.com/2025/07/01/nintendo-has-now-sold-over-5-million-nintendo-switch-2-consoles-worldwide/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/06/switch_2.png?fit=2048%2C1024&ssl=1",
-      "publishedAt": "2025-07-01T10:24:51Z",
-      "content": "That’s genuinely so insane, especially considering it’s only been a few weeks, omg…\r\nAnd that’s on top of like, knowing people are still trying to get one / still planning to get one. I know several !"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Lewis Parker",
-      "title": "Nintendo confirms hefty price increase, brace yourselves - GAMINGbible",
-      "description": "Several Nintendo Switch consoles and products are about to see price increases, including both digital and physical games.",
-      "url": "https://www.gamingbible.com/news/platform/nintendo/nintendo-confirms-hefty-price-increase-brace-yourselves-540375-20250701",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltacf3e5eb9b2105f8/6863a952da7edb665973be1c/image_2025-07-01_102400488.png",
-      "publishedAt": "2025-07-01T10:22:36Z",
-      "content": "Nintendo has just announced that several Nintendo Switch products are about to go up in price, and youll never guess whose fault it is\r\nThats right, folks! Its time to combine everyones two favourite… [+1838 chars]"
+      "author": "Fernando Silva",
+      "title": "iPadOS 26 has turned the iPad Mini into a powerhouse - 9to5Mac",
+      "description": "Can the new iPadOS 26 finally turn the iPad Mini 7 into a true portable powerhouse for productivity, multitasking, and more?",
+      "url": "https://9to5mac.com/2025/07/02/ipados-26-has-turned-the-ipad-mini-into-a-powerhouse/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/1-iPad-mini-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-02T13:34:00Z",
+      "content": "The iPad Mini has always had a special place in my heart. I think it’s one of Apple’s most underrated devices. Its size, form factor, raw power, and portability really make it the truest form of an i… [+4834 chars]"
     }
   ]
 }
