@@ -1,45 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 60,
+  "totalResults": 54,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Windows Central"
       },
-      "author": "Ryan Christoffel",
-      "title": "FaceTime in iOS 26 will freeze your call if someone starts undressing - 9to5Mac",
-      "description": "iOS 26 includes a new FaceTime safety feature designed to prevent nudity without consent, here are the details.",
-      "url": "https://9to5mac.com/2025/07/02/facetime-in-ios-26-will-freeze-your-call-if-someone-starts-undressing/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/facetime-ios-26-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-02T19:58:00Z",
-      "content": "iOS 26 is a packed update for iPhone users thanks to the new Liquid Glass design and major updates for Messages, Wallet, CarPlay, and more. But another new feature was just discovered in the iOS 26 b… [+1704 chars]"
+      "author": "Samuel Tolbert",
+      "title": "Xbox CEO Phil Spencer reportedly couldn't stop playing ZeniMax's unannounced game — and now it's canceled - Windows Central",
+      "description": "A report from Bloomberg indicates Microsoft Gaming CEO Phil Spencer loved playing a new game from ZeniMax mere months before it was canceled.",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-phil-spencer-zenimax-new-ip-canceled",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fi3wxMRz5euit5R2NWZ3tM.jpg",
+      "publishedAt": "2025-07-03T23:07:44Z",
+      "content": "As more and more details continue to pour out of the recent news that Microsoft is cutting jobs and canceling games under Xbox, a new report sheds a bizarre light on one particular cancellation. \r\nBl… [+2635 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Sean Hollister",
-      "title": "How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking - The Verge",
-      "description": "Nintendo’s Switch 2 isn’t compatible with third-party docking stations because the company is using proprietary handshakes and — allegedly — encryption.",
-      "url": "https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-02T19:47:45Z",
-      "content": "We whipped out a USB-C PD analyzer to test how Nintendo walled its garden this time around.\r\nWe whipped out a USB-C PD analyzer to test how Nintendo walled its garden this time around.\r\nTheres always… [+9132 chars]"
+      "author": "Abner Li",
+      "title": "‘Google Pixel Buds 2a’ and ‘Wireless Charger’ might launch with Pixel 10 - 9to5Google",
+      "description": "A leak today provides a better idea of what first-party accessories, like Pixel Buds 2a, Google could announce alongside the Pixel 10 series.",
+      "url": "http://9to5google.com/2025/07/03/google-pixel-buds-2a-wireless-charger/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/08/Google-Pixel-Buds-A-series-in-white-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-03T19:50:00Z",
+      "content": "A leak today provides a better idea of what first-party accessories, like Pixel Buds 2a, Google could announce alongside the Pixel 10 series in a few weeks.\r\nAccording to @MysteryLupin, Google Pixel … [+1859 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Jay Peters, Tom Warren",
-      "title": "Phil Spencer isn’t retiring as the chief of Xbox “anytime soon” - The Verge",
-      "description": "Microsoft Gaming CEO Phil Spencer isn’t retiring anytime soon. He took over leadership of Microsoft’s Xbox work in 2014.",
-      "url": "https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/VRG_Illo_STK184_L_Normand_PhilSpencer_Neutral.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-02T19:40:27Z",
-      "content": "Spencer has headed up Microsofts Xbox efforts since 2014.\r\nMicrosoft says that Phil Spencer, Microsoft Gaming CEO and the head of Xbox, isnt retiring anytime soon. The company has responded to rumors… [+1504 chars]"
+      "author": "Dan Goodin",
+      "title": "Provider of covert surveillance app spills passwords for 62,000 users - Ars Technica",
+      "description": "Creators say app is intended for parental monitoring. So why the emphasis on stealth?",
+      "url": "https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-surveillance-1152x648.jpg",
+      "publishedAt": "2025-07-03T19:36:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anthropic.com"
+      },
+      "author": null,
+      "title": "Powered by Claude - Anthropic",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "url": "https://www.anthropic.com/partners/powered-by-claude",
+      "urlToImage": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/6851d984085e2986463dc0f2_45113219b7af4dad3a38b6b7ae96fbb7_open-graph-partner-directory.png",
+      "publishedAt": "2025-07-03T18:56:05Z",
+      "content": "Harvey is domain-specific AI for legal and professional services, streamlining workflows in contract analysis, due diligence, compliance, and litigation. Global law firms and Fortune 500 enterprises … [+98 chars]"
     },
     {
       "source": {
@@ -47,181 +60,90 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Pixel 6a gets a mandatory Android update next week with battery reduction for some - 9to5Google",
-      "description": "Google has confirmed the details of a Pixel 6a update that is mandatory and will lead to a battery reduction for some users.",
-      "url": "http://9to5google.com/2025/07/02/pixel-6a-battery-update-details/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/google-pixel-6a-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-02T18:40:00Z",
-      "content": "Following reports of battery issues on Pixel 6a, Google has detailed a mandatory Android 16 update for these devices that, for some, will have a major impact on battery life. Here’s what the company … [+2193 chars]"
+      "title": "Google will give Pixel 6a owners up to $150 towards a new phone amid battery reduction - 9to5Google",
+      "description": "Google has detailed the remedies for its upcoming Pixel 6a battery reduction update, including a $150 credit towards a new phone.",
+      "url": "http://9to5google.com/2025/07/03/google-pixel-6a-credit-battery-reduction-update/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/google-pixel-6a-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-03T18:30:00Z",
+      "content": "With its update coming next week, Google has now confirmed how much it will pay out towards a new phone for Pixel 6a owners who will be affected by an upcoming battery reduction.\r\nOver the past few m… [+1800 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Blizzard.com"
+        "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "Announcing Changes to Warcraft Rumble Support - Blizzard News",
-      "description": "We have an important update on the future of Warcraft Rumble. After much deliberation, we’ve arrived at an extremely hard decision. Moving forward, we'll continue supporting Rumble with updates focused on regular, systemic in-game events and bug fixes, but no…",
-      "url": "https://news.blizzard.com/en-us/article/24215864/announcing-changes-to-warcraft-rumble-support",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/t0/T0WW7ZU5L2IN1642642647045.png",
-      "publishedAt": "2025-07-02T18:29:00Z",
-      "content": "Dear Warcraft Rumble Community, \r\nWe have an important update on the future of Warcraft Rumble. After much deliberation, weve arrived at an extremely hard decision. Moving forward, we'll continue sup… [+1054 chars]"
+      "title": "Destiny 2 Edge of Fate: All Exotic Weapon Changes Detailed - The Game Post",
+      "description": "Here's the complete list of all the exotic weapon changes coming with Destiny 2's Edge of Fate expansion.",
+      "url": "https://thegamepost.com/destiny-2-edge-of-fate-exotic-weapon-changes/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/07/destiny-2-edge-of-fate-exotic-weapon-changes-13.webp",
+      "publishedAt": "2025-07-03T18:23:19Z",
+      "content": "Here’s the complete list of all the exotic weapon changes coming with Destiny 2‘s Edge of Fate expansion.\r\nThe next big expansion for Destiny 2 is just around the corner. The Edge of Fate, the first … [+7493 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Droid Life"
       },
-      "author": "Andy Robinson",
-      "title": "Sources: Banjo-Kazooie, Sea of Thieves director leaves Rare after 35 years, following Everwild cancellation - Video Games Chronicle",
-      "description": "Influential designer Gregg Mayles will leave the company, according to sources",
-      "url": "https://www.videogameschronicle.com/news/sources-banjo-kazooie-sea-of-thieves-director-leaves-rare-after-35-years-following-everwild-cancellation/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2025/07/Screenshot-2025-07-02-190959.jpg",
-      "publishedAt": "2025-07-02T18:22:50Z",
-      "content": "Gregg Mayles, Rares most experienced and influential game designer, will leave the company after more than 35 years, sources have told VGC.\r\nAccording to multiple people at the studio, who spoke to V… [+2260 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "Amazon is offering a like-new Kindle Paperwhite 2024 for just $107 - The Verge",
-      "description": "Amazon is offering big discounts on the refurbished Kindle Paperwhite and Kindle Paperwhite Signature Edition, making the e-readers more affordable than ever.",
-      "url": "https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-refurbished-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-02T18:20:45Z",
-      "content": "You can also save on the ad-free Signature Edition.\r\nWith less than a week until Prime Day kicks off, were already seeing some exciting early deals pop up. And now we can add two more great discounts… [+1926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "James Pero",
-      "title": "A Foldable iPhone Needs to Be At Least This Thin or It’s DOA - Gizmodo",
-      "description": "Apple's folding iPhone isn't even real yet, but it already has a very thin bar to meet.",
-      "url": "https://gizmodo.com/a-foldable-iphone-needs-to-be-at-least-this-thin-or-its-doa-2000623367",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/honor-magic-v5-1200x675.jpg",
-      "publishedAt": "2025-07-02T18:13:43Z",
-      "content": "Feels like just yesterday that folding phones weren’t even a thing, and now we’re somehow drowning in a sea of crease-filled screens. If, like me, you’ve been wondering what else phone makers can off… [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "What to Expect From Apple's Rumored New MacBook With A18 Pro Chip - MacRumors",
-      "description": "Apple supply chain analyst Ming-Chi Kuo expects an all-new, more-affordable MacBook model powered by an iPhone chip to launch next year.   Below, we...",
-      "url": "https://www.macrumors.com/2025/07/02/macbook-a18-pro-chip-rumor-recap/",
-      "urlToImage": "https://images.macrumors.com/t/SvVZeW6SQG72NSNE0rNqpAVMGXk=/2680x/article-new/2025/07/Low-Cost-MacBook-Feature-A18-Pro.jpg",
-      "publishedAt": "2025-07-02T17:53:10Z",
-      "content": "Apple supply chain analyst Ming-Chi Kuo expects an all-new, more-affordable MacBook model powered by an iPhone chip to launch next year.\r\nBelow, we recap rumors and other possibilities for this new M… [+3359 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day - The Verge",
-      "description": "Amazon’s Echo Hub is $60 off for Prime members right now. The Apple Pencil Pro and the Pebblebee Clip Universal location tracker are also on sale.",
-      "url": "https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/247023_Echo_Hub_JTuohy_0018.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-02T16:09:05Z",
-      "content": "Plus, we found deals on the Apple Pencil Pro, a brilliant OLED TV, and Pebblebees platform-agnostic location tracker.\r\nPlus, we found deals on the Apple Pencil Pro, a brilliant OLED TV, and Pebblebee… [+3303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "iPhone 17 Pro's New MagSafe Design Revealed in Leaked Photo - MacRumors",
-      "description": "The upcoming iPhone 17 Pro and iPhone 17 Pro Max are rumored to have a slightly different MagSafe magnet layout compared to existing iPhone models,...",
-      "url": "https://www.macrumors.com/2025/07/02/iphone-17-pro-new-magsafe-design/",
-      "urlToImage": "https://images.macrumors.com/t/OkxcDXvdHqXvP4lfN2uatccSbY4=/2500x/article-new/2025/07/iPhone-17-Pro-Lower-Logo-Magsafe.jpg",
-      "publishedAt": "2025-07-02T15:37:51Z",
-      "content": "The upcoming iPhone 17 Pro and iPhone 17 Pro Max are rumored to have a slightly different MagSafe magnet layout compared to existing iPhone models, and a leaked photo has offered a closer look at the… [+1003 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tipranks.com"
-      },
-      "author": "William White",
-      "title": "AMD Stock Leaps on PlayStation 5 Pro FSR 4 Integration - TipRanks",
-      "description": "AMD stock was up on Wednesday after the company announced results from its development collaboration with Sony.",
-      "url": "https://www.tipranks.com/news/amd-stock-leaps-on-playstation-5-pro-fsr-4-integration",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/07/sonystock-750x406.jpg",
-      "publishedAt": "2025-07-02T15:28:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "New Apple TV 4K could be launching at the best possible moment - 9to5Mac",
-      "description": "There’s a new Apple TV 4K expected to launch this fall, and two key factors could help the product find greater success than ever.",
-      "url": "https://9to5mac.com/2025/07/02/new-apple-tv-4k-could-be-launching-at-the-best-possible-moment/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-02T15:27:00Z",
-      "content": "Believe it or not, the first Apple TV product preceded even the iPhone with its initial introduction. Yet for almost two decades, the product has remained fairly niche in Apples lineup. But the new A… [+2741 chars]"
+      "author": "Kellen",
+      "title": "July Pixel Update Brings Two Fixes Says Verizon - Droid Life",
+      "description": "We noticed this morning that Verizon had posted details on the July Pixel update, even as Google had yet to mention it. In fact, we sort of expect Google to issue the update next week, around July 8, when they’ll also push the Pixel 6a’s battery performance f…",
+      "url": "https://www.droid-life.com/2025/07/03/july-pixel-update-brings-two-fixes-says-verizon/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/04/Pixel-9a-Review-14-1200x628-cropped.jpg",
+      "publishedAt": "2025-07-03T18:09:41Z",
+      "content": "We noticed this morning that Verizon had posted details on the July Pixel update, even as Google had yet to mention it. In fact, we sort of expect Google to issue the update next week, around July 8,… [+1119 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Kotaku"
       },
-      "author": "Billy Givens",
-      "title": "Tears Of The Kingdom On Switch 2 Can Keep You Busy For A Long, Long Time - Kotaku",
-      "description": "With so much to do and explore, Link's second saga on the Switch finally gets the glow-up it deserves",
-      "url": "https://kotaku.com/tears-of-the-kingdom-zelda-switch-2-upgrade-how-long-1851785468",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/44325e9c88b4a103080470cc77427fe6.png",
-      "publishedAt": "2025-07-02T15:00:00Z",
-      "content": "Whether youre a fan of the Legend of Zelda franchise or are simply looking for a thrilling open-world game to sink your teeth into on your fancy new Switch 2, you can rest assured that 2023s Tears of… [+1884 chars]"
+      "author": "Claire Jackson",
+      "title": "BioWare's Maligned Loot Shooter Anthem Will Go Offline Forever Next Year - Kotaku",
+      "description": "The failed loot shooter finally has an expiration date",
+      "url": "https://kotaku.com/anthem-servers-still-up-shut-down-bioware-ea-1851785618",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8e5a0a7ef2c7d92eac0e1ce221d65845.jpg",
+      "publishedAt": "2025-07-03T18:00:00Z",
+      "content": "BioWares doomed looter shooter may have had some neat aesthetics and was a competent-enough action RPG when it wanted to be, but as we all know well by now, it was a complete disaster for the devs an… [+1701 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "E Ink is turning the laptop touchpad into an e-reader for AI apps - The Verge",
+      "description": "There’s no timeline on when it will show up in laptops, but E Ink’s new ePaper touchpad could give you a dedicated place to use AI tools.",
+      "url": "https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/eink_touchpad.jpg?quality=90&strip=all&crop=0,10.715919097319,100,78.568161805361",
+      "publishedAt": "2025-07-03T17:37:33Z",
+      "content": "The company wants to put its low-power screen technology in your laptop.\r\nThe company wants to put its low-power screen technology in your laptop.\r\nE Ink has developed a new touchpad for laptops feat… [+2734 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PetaPixel"
+        "name": "Bethesda.net"
       },
-      "author": "Jeremy Gray",
-      "title": "$799 Nothing Phone 3 Has Four 50-Megapixel Cameras and Wild Style - PetaPixel",
-      "description": "More grown-up but still super unusual.",
-      "url": "https://petapixel.com/2025/07/02/799-nothing-phone-3-has-four-50-megapixel-cameras-and-wild-style/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2025/07/nothing-phone-3-1.jpg",
-      "publishedAt": "2025-07-02T14:16:47Z",
-      "content": "In March, unusual tech company Nothing, announced the Nothing Phone 3a. Now, just months later, the flagship Nothing Phone (3) has arrived. It features four 50-megapixel cameras and a $799 price tag,… [+2678 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "Behind the next Battlefield game: Culture clash, crunch, and colossal stakes - Ars Technica",
-      "description": "EA insiders describe stress and setbacks in a project that’s too big to fail.",
-      "url": "https://arstechnica.com/gaming/2025/07/behind-the-next-battlefield-game-culture-clash-crunch-and-colossal-stakes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Battlefield-2042-hero-1152x648-1751425139.jpg",
-      "publishedAt": "2025-07-02T14:16:08Z",
+      "author": null,
+      "title": "Inside the Vault – C.A.M.P Building and Combat Public Test Server - Bethesda.net",
+      "description": "The Public Test Server returns with a large combat balance pass and relaxed build rules for Adventure Mode servers and a refresh of the Workshop UI.",
+      "url": "https://bethesda.net/en/article/5xquFqAxRnrd7s3TcNBQ9j/inside-the-vault-c-a-m-p-building-and-combat-public-test-server",
+      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/4zCDXE6tu0QcUbX902kkT3/7ec2f33812ea338b1e21f7611a211072/F76_P62_LHERO.jpg?fit=fill&w=1200&h=600",
+      "publishedAt": "2025-07-03T17:24:15Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendoeverything.com"
+        "name": "MacRumors"
       },
-      "author": "Carlos",
-      "title": "Nintendo facing legal issue in Brazil over ability to ban Nintendo Switch 2 consoles - Nintendo Everything",
-      "description": "Nintendo is facing criticism in Brazil over its End User License Agreement (EULA), particularly regarding the possibility of permanently banning Nintendo Switch 2 consoles. The controversy stems from the clause that allows Nintendo to disable a system if pira…",
-      "url": "https://nintendoeverything.com/nintendo-facing-legal-issue-in-brazil-over-ability-to-ban-nintendo-switch-2-consoles/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-rising-development-costs-game-prices.webp",
-      "publishedAt": "2025-07-02T14:10:58Z",
-      "content": "Nintendo is facing criticism in Brazil over its End User License Agreement (EULA), particularly regarding the possibility of permanently banning Nintendo Switch 2 consoles. The controversy stems from… [+1417 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Pre-Order Samsung's New Smart Monitors and Get Up to $300 in Credit - MacRumors",
+      "description": "Samsung recently opened up pre-orders for its newest collection of monitors, including the new 32-inch Smart Monitor M9 (M90SF), and the updated...",
+      "url": "https://www.macrumors.com/2025/07/03/pre-order-samsung-smart-monitors/",
+      "urlToImage": "https://images.macrumors.com/t/MrI1tH3KnDPt5Qdb0yLWXMfTF9M=/2500x/article-new/2025/06/smart-monitor-m9-samsung.jpg",
+      "publishedAt": "2025-07-03T17:17:17Z",
+      "content": "Samsung recently opened up pre-orders for its newest collection of monitors, including the new 32-inch Smart Monitor M9 (M90SF), and the updated 32-inch Smart Monitor M8 (M80F) and 32-inch/43-inch Sm… [+1310 chars]"
     },
     {
       "source": {
@@ -229,38 +151,116 @@
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Apple Watch Ultra 3 release date: When to expect the new model - 9to5Mac",
-      "description": "Apple Watch Ultra 3 is in the works with a variety of new upgrades and features, here’s when to expect the new model’s release date.",
-      "url": "https://9to5mac.com/2025/07/02/apple-watch-ultra-3-release-date-when-to-expect-the-new-model/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/night-mode-apple-watch-ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-02T14:09:00Z",
-      "content": "Its been almost two years since a brand new Apple Watch Ultra model launched, but that drought is almost over. Apple Watch Ultra 3s release date is fast approaching, heres when to expect the new mode… [+2040 chars]"
+      "title": "New Mac models through 2026 revealed in leaked Apple identifiers - 9to5Mac",
+      "description": "New Mac models expected through 2026 have been detailed in a new report based on leaked Apple identifiers for the forthcoming revisions.",
+      "url": "https://9to5mac.com/2025/07/03/new-mac-models-through-2026-revealed-in-leaked-apple-identifiers/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/mac-os-tahoe-intel-macs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-03T16:54:00Z",
+      "content": "Apple still has plenty of new product launches coming through the rest of the year, including at least two Macs. But today, a new report has outlined Mac models coming not only in 2025, but even thos… [+2065 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "UploadVR"
+        "name": "Tom's Guide"
       },
-      "author": "David Heaney",
-      "title": "Apple Vision Air With Far Cheaper & Lighter Design Reportedly Coming In 2027 - UploadVR",
-      "description": "Apple Vision Air is coming in 2027, with a \"significantly\" lower price and over 40% weight reduction, supply chain analyst Ming-Chi Kuo claims.",
-      "url": "https://www.uploadvr.com/apple-vision-air-2027-kuo-supply-chain-report/",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/07/Apple-Vision.png",
-      "publishedAt": "2025-07-02T13:35:28Z",
-      "content": "Supply chain analyst Ming-Chi Kuo claims to know Apple's headset and glasses product plans for the next 3 years.\r\nMing-Chi Kuo has been reporting on Apple's supply chain for more than 10 years. While… [+8142 chars]"
+      "author": "Rory Mellon",
+      "title": "Nintendo Switch 2 restocks live — retailers to check now - Tom's Guide",
+      "description": "We're checking all retailers for Switch 2 restock",
+      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-news-and-updates",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K5KeExkmJ5nmkZXDxgHuCZ.jpg",
+      "publishedAt": "2025-07-03T15:56:48Z",
+      "content": "2025-07-03T16:55:21.189ZUK stock is good to go\r\n(Image credit: Nintendo)\r\nSuppose you're in the U.K. and looking to get your hands on a Switch 2 console. In that case, you'll have a much easier time … [+40894 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "9to5google.com"
       },
-      "author": "Fernando Silva",
-      "title": "iPadOS 26 has turned the iPad Mini into a powerhouse - 9to5Mac",
-      "description": "Can the new iPadOS 26 finally turn the iPad Mini 7 into a true portable powerhouse for productivity, multitasking, and more?",
-      "url": "https://9to5mac.com/2025/07/02/ipados-26-has-turned-the-ipad-mini-into-a-powerhouse/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/1-iPad-mini-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-02T13:34:00Z",
-      "content": "The iPad Mini has always had a special place in my heart. I think it’s one of Apple’s most underrated devices. Its size, form factor, raw power, and portability really make it the truest form of an i… [+4834 chars]"
+      "author": "Ben Schoon",
+      "title": "Samsung continues to half-heartedly adopt Qi2 as Galaxy Z Fold 7 and Flip 7 cases leak [Gallery] - 9to5Google",
+      "description": "Qi2 has turned into a lot of disappointment as the magnetic standard continues to be mostly ignored, and Samsung also...",
+      "url": "http://9to5google.com/2025/07/03/samsung-galaxy-z-fold-7-cases-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-flip-7-cases-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-03T15:35:00Z",
+      "content": "Qi2 has turned into a lot of disappointment as the magnetic standard continues to be mostly ignored, and Samsung also seems less than enthused as its official Galaxy Z Fold 7 and Flip 7 cases continu… [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Anthony Alaniz",
+      "title": "How Fast is the New BMW M2 CS? It Just Shattered a Nurburgring Record - Motor1.com",
+      "description": "The BMW M2 CS has already set a lap record, beating the previous one by eight seconds, and this is where the new coupe earned it.",
+      "url": "https://www.motor1.com/news/764665/bmw-m2-cs-lap-record/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/OoJnZY/s1/2026-bmw-m2-cs-nurburgring-nordschleife-lap-record.jpg",
+      "publishedAt": "2025-07-03T15:30:00Z",
+      "content": "The BMW M2 CS is shaping up to be a great performance car. Its been just over a month since BMW revealed the coupe, and it's already netted a lap record. Except the CS earned it more than a month bef… [+1377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "kittypokemonsalot",
+      "title": "Pokémon GO Water Festival 2025: Tatsugiri Debuts, shiny Staryu and Tirtouga boost, Bonuses & Raids - Pokémon GO Hub",
+      "description": "The Pokémon GO Water Festival 2025 is a global event running from July 15 to July 20, 2025. This event introduces Tatsugiri to Pokémon GO, in all three forms as regional exclusives, and boosted Shiny rates for Staryu and Tirtouga. On top of that, enjoy bonuse…",
+      "url": "https://pokemongohub.net/post/event/water-festival-2025/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/07/water-festival-2025-tatsugiri.jpg",
+      "publishedAt": "2025-07-03T14:19:38Z",
+      "content": "The Pokémon GO Water Festival 2025 is a global event running from July 15 to July 20, 2025. This event introduces Tatsugirito Pokémon GO, in all three forms as regional exclusives, and boosted Shiny … [+4252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Connor Makar",
+      "title": "Helldivers 2 is coming to Xbox Series X/S in August, as first Sony-published game on the platform - Eurogamer",
+      "description": "Helldivers 2 is officially coming to Xbox Series X|S on the 26th August.",
+      "url": "https://www.eurogamer.net/helldivers-2-is-coming-to-xbox-series-xs-in-august-as-first-sony-published-game-on-the-platform",
+      "urlToImage": "https://assetsio.gnwcdn.com/Helldivers-2-helldiver-running-along-with-a-gun-in-hand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-07-03T13:55:58Z",
+      "content": "Helldivers 2 is officially coming to Xbox Series X/S on the 26th August.\r\nThis announcement came via a Helldivers announcement stream. Arrowhead's hit third-person shooter will have full crossplay wi… [+1663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rockstargames.com"
+      },
+      "author": "Rockstar Games",
+      "title": "Embrace the Freedom of the Open Road in GTA Online This Independence Day Weekend - Rockstar Games",
+      "description": "This week’s GTA Online festivities put the spotlight on America's vibrant car culture and appetite for rebellion with 4X GTA$ and RP on Land Races, Double Rewards on Auto Shop Client Jobs and Tow Truck Services, and a new Independence Day livery for...",
+      "url": "https://www.rockstargames.com/newswire/article/39275255ko5kka/embrace-the-freedom-of-the-open-road-in-gta-online-this-independence-d",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39275255ko5kka/7092f4740779789627ac6a9000d0f2282bed9655.jpg",
+      "publishedAt": "2025-07-03T13:55:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Connor Makar",
+      "title": "EA reportedly expects Battlefield 6 to have 100 million players, three times more than the series' best seller - Eurogamer",
+      "description": "EA's executive leadership has reportedly set a goal of 100m players for the upcoming Battlefield game, which \"very few\" developers believe is achievable.",
+      "url": "https://www.eurogamer.net/ea-reportedly-expects-battlefield-6-to-have-100-million-players-three-times-more-than-the-series-best-seller",
+      "urlToImage": "https://assetsio.gnwcdn.com/bf2042_ojtv1oJ_QOEfIMk.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-07-03T13:11:40Z",
+      "content": "EA's executive leadership has reportedly set a goal of 100 million players for the upcoming Battlefield game, which \"very few\" developers believe is achievable.\r\nThis comes from a tell-all report fro… [+1891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesIndustry.biz"
+      },
+      "author": "Sophie McEvoy",
+      "title": "Romero Games cancels upcoming FPS title after publisher pulls funding - GamesIndustry.biz",
+      "description": "Romero Games has announced the cancellation of its upcoming first-person shooter due to its publisher cancelling fundin…",
+      "url": "https://www.gamesindustry.biz/romero-games-cancels-upcoming-fps-title-after-publisher-pulls-funding",
+      "urlToImage": "https://assetsio.gnwcdn.com/Romero-Games_07-19-22.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-07-03T12:55:02Z",
+      "content": "Romero Games has announced the cancellation of its upcoming first-person shooter due to its publisher cancelling funding for the game.\r\nStudio director Brenda Romero shared on social media that it wa… [+1906 chars]"
     }
   ]
 }
