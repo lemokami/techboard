@@ -1,227 +1,253 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "My Nintendo News"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Sickr",
-      "title": "Rumour: Nintendo Switch Online may soon be adding Super Smash Bros and Donkey Kong 64 - My Nintendo News",
-      "description": "A number of social media fans have been going over a Nintendo Switch Online-themed video from Nintendo which was uploaded over a month ago. The video includes a segment showing the new Nintendo Switch…",
-      "url": "https://mynintendonews.com/2025/07/06/rumour-nintendo-switch-online-may-soon-be-adding-super-smash-bros-and-donkey-kong-64/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2022/10/super_smash_bros_n64.jpg?fit=1600%2C800&ssl=1",
-      "publishedAt": "2025-07-06T21:44:47Z",
-      "content": "I’d say it’s a pretty good collection, but there’s still pretty good titles missing. Diddy Kong Racing, Tetrisphere, Lego Racers, Cruis’n USA, Silicon Valley, Bomber Man 64, maybe Hey You Pikachu if … [+183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "If You're a Prime Member, This Lenovo ThinkPad Laptop (Ryzen 7, 32GB RAM, 1TB SSD) Is 70% Off on Amazon - Gizmodo",
-      "description": "This is the best Prime Day deal on a laptop.",
-      "url": "https://gizmodo.com/if-youre-a-prime-member-this-lenovo-thinkpad-laptop-ryzen-7-32gb-ram-1tb-ssd-is-70-off-on-amazon-2000624697",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/thinkpad-lenovo-1200x675.jpg",
-      "publishedAt": "2025-07-06T21:25:05Z",
-      "content": "Prime Day is the year’s top day for getting Amazon’s rock-bottom prices, even better than Black Friday. If electronics are what you’re looking for on your shopping list, you should shop Amazon, espec… [+2336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Burkhardt",
-      "title": "New iPhone 17 Pro renders highlight aluminum design, repositioned Apple logo - 9to5Mac",
-      "description": "A new image from Apple leaker Majin Bu provides a new look at the repositioned Apple logo on the upcoming...",
-      "url": "https://9to5mac.com/2025/07/06/iphone-17-pro-new-design-case-leak-apple-logo/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iphone-17-blue-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-06T20:49:00Z",
-      "content": "A new image from Apple leaker Majin Bu provides a new look at the repositioned Apple logo on the upcoming iPhone 17 Pro. Last week we got our first look at what the new Apple logo placement would loo… [+1106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Richard Sachek",
-      "title": "3 Surprising Factory Supercharged Cars You Might've Forgotten About - Jalopnik",
-      "description": "Like a turbocharger, a supercharger gives a vehicle an extra push of power, but there are some vehicles that you might not expect to have them.",
-      "url": "https://www.jalopnik.com/1899811/surprising-supercharged-cars/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/3-surprising-factory-supercharged-cars-you-mightve-forgotten-about/l-intro-1750965653.jpg",
-      "publishedAt": "2025-07-06T19:05:00Z",
-      "content": "Perhaps the biggest downside to supercharging in the eyes of automakers is that it decreases fuel economy. At its simplest, a supercharger is basically a pulley-driven air pump that requires addition… [+1037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Stephen Radochia",
-      "title": "I used the Unihertz Titan 2 for a week, and I don't want to go back - Android Police",
-      "description": "A BlackBerry-esque experience in 2025",
-      "url": "https://www.androidpolice.com/unihertz-titan-2-hands-on/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_0768.jpg",
-      "publishedAt": "2025-07-06T17:13:00Z",
-      "content": "I used to love my BlackBerry phones. It's hard to describe the joy of typing on a BlackBerry after suffering through T9 texting on older cellphones. Physical keyboards will always have a special plac… [+5547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Justin AdaptiveTrigger Gordon",
-      "title": "Super Street Fighter 2 Turbo competitor releases new tier list in 2025 - EventHubs",
-      "description": "It's been over 30 years since Super Street Fighter 2 Turbo was released in the arcades. Despite how old the game is, it's still played competitively at tournaments to this day.Riz0ne was known to come in first ...",
-      "url": "https://www.eventhubs.com/news/2025/jul/06/ssf2t-new-tier-list-2025/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/06/29_tiers-ssf2t-bnrt.webp",
-      "publishedAt": "2025-07-06T16:57:16Z",
-      "content": "It's been over 30 years since Super Street Fighter 2 Turbo was released in the arcades. Despite how old the game is, it's still played competitively at tournaments to this day.\r\nRiz0ne was known to c… [+1427 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Microsoft’s Edge browser now loads sites even faster - The Verge",
+      "description": "Microsoft says it has further improved its Edge browser’s responsiveness by continuing to migrate its user interface to WebUI 2.0.",
+      "url": "https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-07T21:14:31Z",
+      "content": "The company says its improved the responsiveness of several Edge features, including its settings page.\r\nIn a new post shared to its Windows blog, Microsoft says that it has reached a major milestone… [+2009 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Noah Hunter",
-      "title": "The Best Deals Today: Sony WH-1000XM4 Headphones, LEGO Disney, Splatoon 3, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/best-deals-for-july-6-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/24/sonywh1000xm4-1742844587114.jpg?width=1280",
-      "publishedAt": "2025-07-06T16:18:18Z",
-      "content": "We've rounded up the best deals for Saturday, July 5, below, so don't miss out on these limited-time offers.\r\nSony WH-1000XM4 Wireless Headphones for $185.24\r\nThe first of many early Prime Day deals … [+5822 chars]"
+      "author": "Eric Song",
+      "title": "HP Is Clearing Out Its Stock of Omen RTX 4090 Gaming PCs at an Incredible Price - IGN",
+      "description": "This will beat any high-end gaming PC deal you'll find during Amazon Prime Day.",
+      "url": "https://www.ign.com/articles/hp-is-clearing-out-its-stock-of-omen-rtx-4090-gaming-pcs-at-an-incredible-price-for-prime-day",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/07/07/hpomen45l-1751922055550.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-07-07T21:11:55Z",
+      "content": "HP is clearing out its remaining inventory of GeForce RTX 4090 GPUs by offering it as an upgrade for one of its prebuilt computers. As part of the Black Friday in July sale event ahead of Prime Day, … [+2943 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "What would a cheap, Apple A18-powered MacBook actually be good at? - Ars Technica",
+      "description": "Op-ed: A Mac with an iPhone chip inside could be great—for the right audience.",
+      "url": "https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/DSC_5669-1152x648.jpg",
+      "publishedAt": "2025-07-07T21:08:05Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Rudebaguette.com"
+        "name": "Kotaku"
       },
-      "author": "Rosemary Potter",
-      "title": "This Bizarre Electronic Ink Morphs in Real Time and Could Power a Whole New Class of Bendable, Wearable Devices - Rude Baguette",
-      "description": "IN A NUTSHELL 🔬 Scientists have developed a novel electronic ink that allows devices to switch between rigid and flexible states. 🤖 The ink combines gallium with a polymer-based solvent, enabling it to become conductive and change stiffness when heated. 💡 …",
-      "url": "https://www.rudebaguette.com/en/2025/07/this-bizarre-electronic-ink-morphs-in-real-time-and-could-power-a-whole-new-class-of-bendable-wearable-devices/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/07/shape-shifting-tech-revolution-scientists-unveil-astonishing-electronic-ink-set-to-transform-future-of-flexible-gadgets-in-a-radical-way.jpg",
-      "publishedAt": "2025-07-06T16:11:23Z",
-      "content": "<table><tr><td>IN A NUTSHELL</td></tr><tr><td><ul><li> Scientists have developed a novel electronic ink that allows devices to switch between rigid and flexible states.</li><li> The ink combines gall… [+5600 chars]"
+      "author": "Ethan Gach",
+      "title": "Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel's Release: 'The Game Is Ready' - Kotaku",
+      "description": "Subnautica 2's release date is up in the air again",
+      "url": "https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b619a6693167c41cf747854fac71e557.png",
+      "publishedAt": "2025-07-07T20:40:00Z",
+      "content": "Subnautica 2 publisher Krafton released an unusual statement last week. Unknown Worlds co-founders Ted Gill, Charlie Cleveland, and Max McGuire were being immediately removed from the studio and repl… [+2330 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "My Nintendo News"
       },
-      "author": "Paul Tassi",
-      "title": "Some Developers Turn A Stern Eye Toward Xbox Game Pass After Layoffs - Forbes",
-      "description": "Xbox Game Pass is described as the elephant in the room by some developers who view it as unsustainable or damaging.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/07/06/some-developers-turn-a-stern-eye-toward-xbox-game-pass-after-layoffs/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a93c0390b8fe8f8c3b505a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-06T15:55:38Z",
-      "content": "Xbox Game Pass\r\nMicrosoft\r\nMicrosoft sparked about a dozen different headlines when 9,000 person layoffs at the company hit Xbox in part, causing job losses, entire studio closures and game cancellat… [+2711 chars]"
+      "author": "Sickr",
+      "title": "Japan: Analysts say Nintendo Switch 2 could be difficult to purchase until Spring 2026 - My Nintendo News",
+      "description": "Japanese news site The Nikkei is reporting that analysts aren not expecting the Nintendo Switch 2 to become easy to purchase until at least the spring of next year. Demand for Nintendo’s latest…",
+      "url": "https://mynintendonews.com/2025/07/07/japan-analysts-say-nintendo-switch-2-could-be-difficult-to-purchase-until-spring-2026/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_switch_2.png?fit=2040%2C1360&ssl=1",
+      "publishedAt": "2025-07-07T20:15:57Z",
+      "content": "For what it’s worth, stock levels for the console have been fine in the UK. Steady stream of stock updates every couple of weeks.I’ve found accessories like the pro controller and carry case to be a … [+23 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "9to5Mac"
       },
-      "author": "Gizmodo Deals",
-      "title": "Apple Didn’t Approve, but Amazon Is Clearing Out AirPods Pro 2 at a Record Low for Prime Day - Gizmodo",
-      "description": "They officially cost as little as budget earbuds.",
-      "url": "https://gizmodo.com/apple-didnt-approve-but-amazon-is-clearing-out-airpods-pro-2-at-a-record-low-for-prime-day-2000624565",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/airpods-pro-2-apple.jpg",
-      "publishedAt": "2025-07-06T15:52:07Z",
-      "content": "AirPods Pro 2 are in stores just a year but already they set the benchmark by which other wireless earbuds with active noise cancellation are judged. On the subject of sound quality, nothing else com… [+2886 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Leak reveals Apple Maps in iOS 26 could get two unannounced new features - 9to5Mac",
+      "description": "iOS 26 is bringing several upgrades to Apple Maps, but beta code has revealed two more new features on the way that haven’t been announced.",
+      "url": "https://9to5mac.com/2025/07/07/leak-reveals-apple-maps-in-ios-26-could-get-two-unannounced-new-features/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-07T19:31:00Z",
+      "content": "Apple Maps continues to get better each year, with the variety of new iOS 26 features keeping that trend going. And according to new discoveries in iOS beta code, it seems Apple may have a couple add… [+2209 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Kotaku"
       },
-      "author": "Gizmodo Deals",
-      "title": "These Sony 1000XM4 Headphones Cost Peanuts, Amazon Sells Them at an All-Time Low for Prime Day - Gizmodo",
-      "description": "This is the lowest price we’ve ever seen for this Sony model with active noise cancellation.",
-      "url": "https://gizmodo.com/these-sony-1000xm4-headphones-cost-peanuts-amazon-sells-them-at-an-all-time-low-for-prime-day-2000624542",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/sony-1000xm4.jpg",
-      "publishedAt": "2025-07-06T15:14:45Z",
-      "content": "Amazon rolled out its initial Prime Day offers this weekend, in the form of the Prime Early Deal event. You have to be a Prime member to qualify for these exclusive offers but if you are not a member… [+2054 chars]"
+      "author": "Zack Zwiezen, Ethan Gach, John Walker, Carolyn Petit, Kenneth Shepard",
+      "title": "The Nintendo Switch 2: One Month Later - Kotaku",
+      "description": "We’ve had a whole month with Nintendo’s new console. How are we feeling?",
+      "url": "https://kotaku.com/nintendo-switch-2-impressions-launch-games-comparison-1851785748",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11c603a86bfc568abcfc05e64f986cec.jpg",
+      "publishedAt": "2025-07-07T19:26:00Z",
+      "content": "Like most folks, the Switch 2 game Ive put the most time into is Mario Kart World, though not as much time as you might think. A lot of my time with the Switch 2s launch line-up has also involved boo… [+4670 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameRant"
+        "name": "9to5Mac"
       },
-      "author": "Daniel Morris",
-      "title": "Canceled Spin-Off to One of the Worst Video Games Ever Made Leaks After 12 Years - Game Rant",
-      "description": "A canceled spin-off to one of the worst video games ever made leaks after 12 years.",
-      "url": "https://gamerant.com/ride-to-hell-retribution-canceled-spin-off-leaks/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/07/ride-to-hell-retribution-canceled-spin-off-leaks.jpg",
-      "publishedAt": "2025-07-06T15:02:00Z",
-      "content": "Footage of a canceled spin-off of Ride to Hell: Retribution has leaked, 12 years after the original game's release. The Deep Silver-published Ride to Hell: Retribution was a huge flop upon its 2013 r… [+2150 chars]"
+      "author": "Marcus Mendes",
+      "title": "macOS 26 beta 3 features a new ‘Tahoe Day’ aerial screen saver, get it here - 9to5Mac",
+      "description": "Alongside today’s bug fixes and under-the-hood improvements, macOS 26 beta 3 introduces a new “Tahoe Day” aerial screen saver and wallpaper.",
+      "url": "https://9to5mac.com/2025/07/07/macos-26-beta-3-features-a-new-tahoe-day-aerial-screen-saver-get-it-here/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/new-tahoe-wallpaper.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-07T19:14:00Z",
+      "content": "Alongside todays bug fixes and under-the-hood improvements, macOS 26 beta 3 introduces a new Tahoe Day aerial screen saver and wallpaper. Heres what it looks like.\r\nMuch like on tvOS, Apple recently … [+1174 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Lloyd Coombes",
+      "title": "You Can Build Out Your Switch 2 Game Collection With These Brilliant Backward Compatible Deals at Best Buy - IGN",
+      "description": "Best Buy’s Black Friday in July sales are offering some fantastic discounts on Switch 1 titles to fill out your collection to take the fight to Prime Day.",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-july-sale-switch-games-prime-day-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/07/07/amazonprimeday2025-blogroll-switch-games-1751893890861.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-07-07T19:13:01Z",
+      "content": "In case you missed it, the Nintendo Switch 2 is here\r\n, and Best Buys Black Friday in July\r\n sales are offering some fantastic discounts on Switch 1 titles to fill out your collection. \r\nWhile Amazon… [+1951 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Rebecca Szkutak",
-      "title": "How Brex is keeping up with AI by embracing the ‘messiness’ - TechCrunch",
-      "description": "Brex quickly realized its normal software procurement process wouldn't work in the age of AI and found a new way to test and vet tools.",
-      "url": "https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2201919713.jpg?w=1024",
-      "publishedAt": "2025-07-06T15:00:00Z",
-      "content": "Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles. \r\nCorporate credit card company Brex is no different. The startup fou… [+3091 chars]"
+      "author": "Sarah Perez",
+      "title": "iOS 26 beta 3 dials back Liquid Glass - TechCrunch",
+      "description": "The early version in the first developer beta of iOS 26 and the accompanying updates for Apple's other devices still left room for improvement in terms of usability, accessibility, and legibility.",
+      "url": "https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?resize=1200,694",
+      "publishedAt": "2025-07-07T19:12:54Z",
+      "content": "The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more diffic… [+3065 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Francesco Cacciatore",
-      "title": "After 8 years of playing D&D nonstop, I’ve finally tried its biggest alternative - Polygon",
-      "description": "After playing exclusively DnD 5e, this is what I learned from trying Dungeon Crawl Classics",
-      "url": "https://www.polygon.com/tabletop-games/610875/dnd-alternative-dungeon-crawl-classics-old-school",
-      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/07/Dungeon-Crawl-Classics-reference-booklet-cover-art.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "publishedAt": "2025-07-06T14:00:00Z",
-      "content": "If you are a sucker for role-playing games and for retro things in general like me, there are plenty of choices to feed your vintage soul. Were talking literally dozens of options. Despite that, for … [+8480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "DXVK update brings improvements for Intel Battlemage and Lunar Lake Arc GPUs - VideoCardz.com",
-      "description": "DXVK 2.7 released: performance boosts and better Intel GPU support for Linux gaming A Vulkan-based translation layer for Direct3D 8/9/10/11 for Wine has been updated to a newer version.  DXVK 2.7 is now available and brings a number of improvements aimed at i…",
-      "url": "https://videocardz.com/pixel/dxvk-update-brings-improvements-for-intel-battlemage-and-lunar-lake-arc-gpus",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/07/DXVK-ARC-B-HERO.jpg",
-      "publishedAt": "2025-07-06T14:00:00Z",
-      "content": "A Vulkan-based translation layer for Direct3D 8/9/10/11 for Wine has been updated to a newer version. \r\nDXVK 2.7 is now available and brings a number of improvements aimed at increasing performance, … [+2820 chars]"
+      "author": "Richard Lawler",
+      "title": "Bluesky can really keep up with the news now that it has activity notifications - The Verge",
+      "description": "Bluesky’s latest update added more notification settings, as well as activity notifications to see whenever certain accounts have a new post.",
+      "url": "https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/image-3.png?quality=90&strip=all&crop=0,6.6304602641244,100,86.739079471751",
+      "publishedAt": "2025-07-07T19:03:12Z",
+      "content": "A new update has also added much more control over which notifications users will see, and who can trigger them.\r\nOne thing that has been missing from Bluesky until now was the ability to turn on not… [+1618 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Glassalmanac.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Brian Foster",
-      "title": "Steve Jobs' secretary was late for work because her car wouldn’t start, so he gave her the keys to a brand-new Jaguar, saying \"Here, never be late again\" - Glass Almanac",
-      "description": "We all know that Steve Jobs was a visionary and a perfectionist when it came to Apple’s products, but there’s a lesser-known side to his leadership ... Continue Reading →",
-      "url": "https://glassalmanac.com/steve-jobs-secretary-was-late-for-work-because-her-car-wouldnt-start-so-he-gave-her-the-keys-to-a-brand-new-jaguar-saying-here-never-be-late-again/",
-      "urlToImage": "https://glassalmanac.com/wp-content/uploads/2025/07/Steve-Jobs-secretary.jpg",
-      "publishedAt": "2025-07-06T13:30:16Z",
-      "content": "We all know that Steve Jobs was a visionary and a perfectionist when it came to Apples products, but theres a lesser-known side to his leadership style that reveals his unique approach to problem-sol… [+5432 chars]"
+      "author": "Gizmodo Deals",
+      "title": "Three Times Cheaper Than a Mac Mini, This 512GB Mini PC Is Almost Free for Prime Day - Gizmodo",
+      "description": "This is probably the best deal you’ll find on a desktop computer during Prime Day 2025.",
+      "url": "https://gizmodo.com/three-times-cheaper-than-a-mac-mini-this-512gb-mini-pc-is-almost-free-for-prime-day-2000625154",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/gmktec-mini-pc-intel-1200x675.jpg",
+      "publishedAt": "2025-07-07T18:55:46Z",
+      "content": "Every year, Prime Day is the perfect opportunity for everyday users to score premium electronics at record low prices. If youve been waiting for the right moment to upgrade your desktop computer, now… [+1943 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
+        "name": "9to5google.com"
       },
-      "author": "Elyse Betters Picaro",
-      "title": "I changed 10 settings on my Fire TV to instantly improve the user experience - ZDNET",
-      "description": "Is your Fire TV or Fire TV Stick feeling sluggish? Don't rush to replace it just yet -  these quick tips could give it the speed boost it needs.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/i-changed-10-settings-on-my-fire-tv-to-instantly-improve-the-user-experience/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d114422cbb5f76ab47c986783df5e3f6eddfad5a/2024/12/11/27d9b222-c0fa-4504-9c2b-72e8aefe6844/amazon-fire-tv-omni-qled-65in-04.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-06T13:13:00Z",
-      "content": "Why is my Fire TV running so slow?\r\nThat's a complex question to answer. It could be the age of your device. Older hardware might struggle to load the latest apps and services. But it could also be a… [+2912 chars]"
+      "author": "Abner Li",
+      "title": "Gemini app greeting goes blue with new icon - 9to5Google",
+      "description": "With the new Gemini icon widely rolled out on mobile, Google is continuing to remove the old blue-purple gradient with a new greeting.",
+      "url": "http://9to5google.com/2025/07/07/gemini-blue-greeting/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Gemini-Homepage-Pixel-9-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-07T18:50:00Z",
+      "content": "With the new Gemini icon widely rolled out on mobile, Google is continuing to remove the old blue-purple gradient across the app with a new greeting.\r\nThe Hello, [name] greeting is now a solid blue i… [+761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Looks Like Paradox Pokémon Are Coming To Pokémon GO - Nintendo Life",
+      "description": "Not a paradox here",
+      "url": "https://www.nintendolife.com/news/2025/07/looks-like-paradox-pokemon-are-coming-to-pokemon-go",
+      "urlToImage": "https://images.nintendolife.com/a6c5290aa667a/large.jpg",
+      "publishedAt": "2025-07-07T18:36:02Z",
+      "content": "Image: The Pokémon Company\r\nCan you believe that the mobile AR game Pokémon GO is nine years old? We can't; it only feels like yesterday we started taking our phones with us for 'mon-catching trips.\r… [+2034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Round Up: Tony Hawk's Pro Skater 3 + 4 PS5 Reviews Say Shove-It to the Sceptics - Push Square",
+      "description": "A worthy grind",
+      "url": "https://www.pushsquare.com/news/2025/07/round-up-tony-hawks-pro-skater-3-plus-4-ps5-reviews-say-shove-it-to-the-sceptics",
+      "urlToImage": "https://images.pushsquare.com/1bb45e86c58cd/large.jpg",
+      "publishedAt": "2025-07-07T18:30:00Z",
+      "content": "Image: Push Square\r\nIf you grew up with a PlayStation in the late 90s and early 00s, then chances are you had a Tony Hawk game. For this author, it was the original Tony Hawks Pro Skater, but many of… [+2884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Xbox Failed At The Most Important Part: Games - Kotaku",
+      "description": "It's not hard to figure out where Microsoft went wrong",
+      "url": "https://kotaku.com/xbox-perfect-dark-halo-gears-war-fable-ps5-1851785732",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fac0e2d6e46d6d542b428e3980ad007d.jpg",
+      "publishedAt": "2025-07-07T18:05:00Z",
+      "content": "Xbox launching without exclusives is so crazy, it just might work, read one headline from November 2020. It did not. While the PlayStation 5 rang in the holiday that year with Spider-Man: Miles Moral… [+5764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheGamer"
+      },
+      "author": "Rhiannon Bevan",
+      "title": "Xbox Game Pass Reportedly Isn't Profitable When Accounting For Full Game Development Costs - TheGamer",
+      "description": "Xbox might be bending the truth when it says that Game Pass makes more money than it loses.",
+      "url": "https://www.thegamer.com/xbox-game-pass-might-not-be-profitable-calculations-cost/",
+      "urlToImage": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2024/03/news-xbox-logo-over-swirling-black-and-green-background.jpg",
+      "publishedAt": "2025-07-07T17:47:00Z",
+      "content": "Xbox Game Pass always sounded like a model that was too good to be true, and now, it turns out that it might have been just that. It's being claimed that Xbox's insistence that Game Pass is profitabl… [+2261 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "Apple’s latest AirPods are already on sale for $99 before Prime Day - The Verge",
+      "description": "The entry-level AirPods 4 and step-up ANC pair are $30 off right now. You can also save on the Kindle Scribe and Garmin’s Venu Sq 2 smartwatch.",
+      "url": "https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Verge-Deals-AirPods-fourth-gen.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-07T17:25:19Z",
+      "content": "Plus, we found deals on the latest Kindle Scribe and Garmins Venu Sq 2.\r\nPlus, we found deals on the latest Kindle Scribe and Garmins Venu Sq 2.\r\nAmazon Prime Day kicks off tomorrow, July 8th, but yo… [+4268 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket - The Verge",
+      "description": "During an investors meeting, Nintendo president Shuntaro Furukawa explained how the company is dealing with rising development costs in the Switch 2 era.",
+      "url": "https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-07T16:56:19Z",
+      "content": "Nintendo president Shuntaro Furukawa says the company will make necessary investments for more efficient development.\r\nA bigger, more powerful Switch means bigger, more intensive games that take more… [+2586 chars]"
     }
   ]
 }
