@@ -1,71 +1,149 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 65,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "9to5Mac"
       },
-      "author": null,
-      "title": "Google admits it failed to warn 10 million of Turkey earthquake - BBC",
-      "description": "The tech giant said only 469 serious warnings were sent out ahead of the 7.8 magnitude quake.",
-      "url": "https://www.bbc.com/news/articles/c77v2kx304go",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b789/live/e55924c0-6b47-11f0-89ea-4d6f9851f623.jpg",
-      "publishedAt": "2025-07-27T23:16:50Z",
-      "content": "James Clayton, Anna Foster and Ben Derico\r\nGoogle has admitted its earthquake early warning system failed to accurately alert people during Turkey's deadly quake of 2023.\r\nTen million people within 9… [+4317 chars]"
+      "author": "Marcus Mendes",
+      "title": "Did someone just get caught using the iPhone 17 Pro in the wild? - 9to5Mac",
+      "description": "User Fox Puppy on X published a couple of photos that supposedly show someone filming an iPhone 17 Pro on the street.",
+      "url": "https://9to5mac.com/2025/07/28/did-someone-just-get-caught-using-the-iphone-17-pro-in-the-wild/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/iphone-17-pro-orange-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-28T21:46:00Z",
+      "content": "Heres one to take with a grain of salt: earlier today, user Fox Puppy on X published a couple of photos that supposedly show someone filming an iPhone 17 Pro on the street, using an iPhone 16 Pro tha… [+1236 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phoronix"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Linux 6.16 Released - Better Performance, NVIDIA Blackwell Open-Source & Intel APX - Phoronix",
-      "description": "As anticipated the Linux 6.16 kernel was promoted to stable",
-      "url": "https://www.phoronix.com/news/Linux-6.16-Released",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=linux_616",
-      "publishedAt": "2025-07-27T21:31:00Z",
+      "author": "Ethan Gach",
+      "title": "Earthbound -Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later - Kotaku",
+      "description": "A ROM hack using the 16-bit sequel to recreate Earthbound Beginnings has a new trailer",
+      "url": "https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4d535af97d89abf14762c359412268ab.png",
+      "publishedAt": "2025-07-28T21:05:00Z",
+      "content": "Nintendo might never announce a new Earthbound. It certainly seems intent on never releasing the sequel, Mother 3, in the West. But at least a fan remake of the first game in the trilogy might finall… [+1740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rudebaguette.com"
+      },
+      "author": "Noah Bennett",
+      "title": "“They’ll Know Everything You Click”: AI-Powered Mobile Browsers Are Here and GEO Experts Warn “This Changes the Surveillance Game” - Rude Baguette",
+      "description": "IN A NUTSHELL 🚀 The launch of AI-powered browsers like Comet on mobile platforms is set to revolutionize digital navigation. 📱 Perplexity’s Comet aims for widespread adoption with pre-installation deals, challenging traditional browsers like Chrome and Safa…",
+      "url": "https://www.rudebaguette.com/en/2025/07/theyll-know-everything-you-click-ai-powered-mobile-browsers-are-here-and-geo-experts-warn-this-changes-the-surveillance-game/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/07/these-ai-browsers-are-revolutionizing-our-phones-the-astonishing-impact-on-global-economic-operations-as-they-go-mobile.jpg",
+      "publishedAt": "2025-07-28T20:02:30Z",
+      "content": "<table><tr><td>IN A NUTSHELL</td></tr><tr><td><ul><li> The launch of AI-powered browsers like Comet on mobile platforms is set to revolutionize digital navigation.</li><li> Perplexity’s Comet aims fo… [+5977 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Microsoft Edge is now an AI browser with launch of ‘Copilot Mode’ - TechCrunch",
+      "description": "Microsoft's Edge browser introduces an AI-powered \"Copilot Mode\" for smarter web browsing.",
+      "url": "https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/imgi_9_Blog-Hero1920b-1600x900-1.png?resize=1200,675",
+      "publishedAt": "2025-07-28T19:43:22Z",
+      "content": "With demand for AI-powered browsers on the rise, Microsoft on Monday launched a new feature in its Edge browser called Copilot Mode, which allows users to browse the web while being assisted by AI. T… [+3246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ivan",
+      "title": "Rumor: iPhone 17 Pro will zoom past 5x optically, have Pro camera app - GSMArena.com news - GSMArena.com",
+      "description": "There may even be an additional physical camera control, aside from the Camera Control button. Here's a wild iPhone 17 Pro rumor for you! According to a...",
+      "url": "https://www.gsmarena.com/rumor_iphone_17_pro_will_zoom_past_5x_optically_have_pro_camera_app-news-68793.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/07/apple-iphone-17-pro-camera-leak-out-there/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-07-28T19:41:02Z",
+      "content": "Here's a wild iPhone 17 Pro rumor for you! According to a tipster cited by MacRumors, the iPhone 17 Pro could have an 8x optical zoom camera, a new Pro camera app, and even a second, physical Camera … [+1306 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft starts rolling out Xbox age verification in the UK - The Verge",
+      "description": "Microsoft is starting to roll out Xbox age verification in the UK. Players will be prompted to verify their age to continue accessing Xbox social features.",
+      "url": "https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-28T17:29:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYoull need to verify your age in the UK to keep accessing Xbox social features.\r\nYoull need to verify your age in the UK to keep accessing Xbox social features.\r… [+3571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Legends: Z-A - Kotaku",
+      "description": "The RPG’s eShop page mentions a ‘Link Play’ menu Legends: Arceus didn’t have",
+      "url": "https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dbdcd60cb9207a395e9089920c74937c.jpg",
+      "publishedAt": "2025-07-28T17:25:56Z",
+      "content": "Pokémon Legends: Z-Ais just under three months away, and as far as we know, the RPG is a single-player game similar to Pokémon Legends: Arceus. However, Nintendo has added some information to the gam… [+2300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eater"
+      },
+      "author": "Emma Orlow",
+      "title": "Gertie Couple to Open New Restaurant in Longtime Buttermilk Channel Home - Eater New York",
+      "description": "Trudie’s Tavern will open while Gertie will relocate to Prospect Heights in former R&D Foods",
+      "url": "https://ny.eater.com/coming-attractions/401131/gertie-prospect-heights-new-trudies-tavern-carroll-gardens",
+      "urlToImage": "https://platform.ny.eater.com/wp-content/uploads/sites/6/chorus/uploads/chorus_asset/file/14641651/f0y6ukiE.jpg?quality=90&strip=all&crop=0%2C10.736455257191%2C100%2C78.527089485617&w=1200",
+      "publishedAt": "2025-07-28T17:20:33Z",
+      "content": "After closing their Williamsburg brunch spot, the couple behind Gertie announced over the weekend that theyll be relocating to Prospect Heights. Its one of two storefront takeovers they have up their… [+2025 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica",
+      "description": "Google’s Battery Performance Program update was supposed to stop this.",
+      "url": "https://arstechnica.com/gadgets/2025/07/another-google-pixel-6a-catches-fire-after-battery-nerfing-update/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Pixel-6a-exploded-1152x648.jpg",
+      "publishedAt": "2025-07-28T17:05:32Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "DualShockers"
+        "name": "GameSpot"
       },
-      "author": "Chris Littlechild",
-      "title": "Metroid Prime 4 Just Got Rated — And That Can Only Mean One Thing for Nintendo Fans - DualShockers",
-      "description": "Metroid Prime 4: Beyond has been rated in South Korea, indicating that its release date, perhaps in a big Nintendo Direct presentation, may be nigh.",
-      "url": "https://www.dualshockers.com/metroid-prime-4-rated-means-release-date-ahead/",
-      "urlToImage": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2025/04/switch-2-games-that-justify-preorders-metroid-prime-4-beyond.jpg",
-      "publishedAt": "2025-07-27T19:57:00Z",
-      "content": "In terms of Switch 2 heavy-hitters, Nintendo fans are surely still enjoying rocketing around the tracks of Mario Kart World and pummeling through the stages of Donkey Kong Bananza. Now, we have furth… [+2487 chars]"
+      "author": "Jason Fanelli",
+      "title": "Magic: The Gathering Has A Price Problem, And It's Sabotaging Universes Beyond - GameSpot",
+      "description": "If these collaborations are supposed to bring new players in, steep markups will keep them out.",
+      "url": "https://www.gamespot.com/articles/magic-the-gathering-has-a-price-problem-and-its-sabotaging-universes-beyond/1100-6533484/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4539392-greed.jpg",
+      "publishedAt": "2025-07-28T17:00:00Z",
+      "content": "Once in a while, I'm reminded of an interesting interaction.\r\nIt's October 2024, and I was in the Las Vegas Convention Center for MagicCon, a regular gathering of Magic fans to play games, trade card… [+10372 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Android Police"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Sanuj Bhatia",
-      "title": "I'm thinking of upgrading my Samsung Galaxy S23 with a Pixel 10 because of this one exclusive feature - Android Police",
-      "description": "Yes, it&#039;s an AI feature",
-      "url": "https://www.androidpolice.com/why-upgrade-galaxy-s23-to-pixel-10/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-9-pro-galaxy-s23-hand.jpg",
-      "publishedAt": "2025-07-27T19:45:00Z",
-      "content": "It's no secret: the Google Pixel 10 series is coming soon. Google has officially confirmed that the next Pixel lineup will launch on August 20, 2025, and there have already been plenty of leaks showc… [+6386 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Noah Hunter",
-      "title": "The Best Deals Today: Kirby and the Forgotten Land, Persona 3 Reload, Switch 2 Games, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/best-deals-for-july-27-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/03/31/8cvydraks75n9kqd-wsrndgajsr70u28a2xlprldwpg-1680278403923.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-07-27T19:27:38Z",
-      "content": "We've rounded up the best deals for Sunday, July 27, below, so don't miss out on these limited-time offers.\r\nM4 MacBook Air for $799\r\nThis weekend at Amazon, you can save $200 off an M4 MacBook Air. … [+4058 chars]"
+      "author": "Rikka Altland",
+      "title": "Apple’s latest MacBook Air M4 has never sold for less at $200 off, now down to $799 - CNN",
+      "description": "Back-to-school season is here and so is the best discount ever on Apple’s newest MacBook Air M4.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-macbook-air-m4-sale-2025-07-28",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/apple-macbook-air-m4-cnnu-review-14.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-28T16:58:00Z",
+      "content": "Back-to-school season is here and so is the best discount ever on Apples newest MacBook Air M4. Perfect for bringing along to the classroom or just getting work done wherever you need, buying the lat… [+2412 chars]"
     },
     {
       "source": {
@@ -73,194 +151,90 @@
         "name": "Pokemon GO Hub"
       },
       "author": "kittypokemonsalot",
-      "title": "Pokémon GO Events This Week (July 21 - 27, 2025): Toedscool, Shiny Wiglett, Gigantamax Butterfree and more! - Pokémon GO Hub",
-      "description": "Pokémon GO’s July 28 - August 3 schedule brings summer vibes! Enjoy the Pokémon GO Adventure Week, the debut of Gigantamax Butterfree, the Sweet Swarms event and Fossil Research Day! Plus weekly Spotlight Hour, daily Raid/ Hours, Dynamax Battles, Mega Raids, …",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-21-27-2025-toedscool-shiny-wiglett-gigantamax-butterfree-and-more/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/07/butterface-2.jpg",
-      "publishedAt": "2025-07-27T19:19:28Z",
-      "content": "Pokémon GOs July 28 – August 3 schedule brings summer vibes! Enjoy the Pokémon GO Adventure Week, the debut of Gigantamax Butterfree, the Sweet Swarms event and Fossil Research Day! Plus weekly Spotl… [+3559 chars]"
+      "title": "Pokémon GO Cozy Companions Event - Pokémon GO Hub",
+      "description": "Pokémon GO Cozy Companions event runs from August 6, 2025 to August 12, 2025. This event features the debut of Snom and Frosmoth, plus the shiny release of Tandemaus! On top of that, an increased chance to encounter Tandemaus from Party Play and more bonuses.…",
+      "url": "https://pokemongohub.net/post/event/cozy-companions/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/07/cozy-companions-snom-frosmoth.jpg",
+      "publishedAt": "2025-07-28T16:41:27Z",
+      "content": "Pokémon GO Cozy Companions event runs fromAugust 6, 2025 to August 12, 2025. This event features the debut of Snom and Frosmoth, plus the shiny release of Tandemaus! On top of that, an increased chan… [+3612 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Gematsu",
+      "title": "Witchfire Early Access ‘Webgrave’ update now available - Gematsu",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTNqUUJkSDdQSjMyV1I2ZDh2NXFUcWpRMWtJMEVmSEtPN2ctQTZjSzg0ODJ4cWRKNXRLWEFWeGRqVzRTMkpxTWZuT3JjajIzRVo5bHB4eGZNRG9nNi0tTkZhaXY4eHlTRjR0TDRFTEcwVFlfZ1BWU2F3cWhZeTJWejkyQ085emM4YUNCaQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2025-07-28T16:39:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Sony details its ‘FlexStrike’ wireless PS5 fight stick - The Verge",
+      "description": "Sony’s PlayStation fight stick is now called the FlexStrike and can connect to the PS5 alongside a DualSense controller when it goes on sale in 2026.",
+      "url": "https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/playstation.jpg?quality=90&strip=all&crop=0,10.695799619229,100,78.608400761542",
+      "publishedAt": "2025-07-28T16:26:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis purpose-built fighting game controller can work in tandem with your DualSense when it launches in 2026.\r\nThis purpose-built fighting game controller can wor… [+3375 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Claire Lewis",
+      "title": "Tales of the Shire falls short of the LOTR Animal Crossing promise - Polygon",
+      "description": "Tales of the Shire, a cozy game set in the LOTR universe where you play as hobbits, doesn’t quite live up to its potential.",
+      "url": "https://www.polygon.com/review/616491/tales-shire-lotr-cozy-game-impressions",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/07/Group.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-07-28T16:00:00Z",
+      "content": "On paper, a cozy little game set in the Shire sounds like a slam dunk. The Shire is canonically a beautiful, peaceful, inviting little place, and a game that lets you customize your own personal Hobb… [+6500 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "Android Authority"
       },
-      "author": "Dhruv Bhutani",
-      "title": "My phone's battery kept dying at the worst times — until I finally made this change - Android Police",
-      "description": "How I finally conquered my phone&#039;s battery anxiety with one change",
-      "url": "https://www.androidpolice.com/my-phones-battery-kept-dying-at-the-worst-timesuntil-i-finally-made-this-change/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/07/adaptive-battery-android.jpeg",
-      "publishedAt": "2025-07-27T18:13:00Z",
-      "content": "When booking a late-night cab, navigating a new city, or killing time at the airport waiting for a delayed flight, my phone's battery has a knack for giving up on me when I need it the most. Usually,… [+7998 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Itch.io is the latest marketplace to crack down on adult games - TechCrunch",
-      "description": "Indie video game marketplace Itch.io announced this week that it has \"deindexed\" adult and not-safe-for-work games, removing them from its browse and search pages.",
-      "url": "https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1313854295-e1660738794113.jpg?resize=1200,675",
-      "publishedAt": "2025-07-27T18:12:36Z",
-      "content": "Indie video game marketplace Itch.io announced this week that it has “deindexed” adult and not-safe-for-work games, removing them from its browse and search pages.\r\nThe move, the company said, was in… [+3054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Team Fortress 2's summer update is here - here's what's new - Eurogamer",
-      "description": "Team Fortress 2's summer update is here, ushering in \"major changes\", including 10 new community-created maps, the summ…",
-      "url": "https://www.eurogamer.net/team-fortress-2s-summer-update-is-here-heres-whats-new",
-      "urlToImage": "https://assetsio.gnwcdn.com/tf2_BZJ4bY9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-07-27T18:05:14Z",
-      "content": "Team Fortress 2's summer update is here, ushering in \"major changes\", including 10 new community-created maps, the summer 2025 Cosmetic Case - which contains 23 new community-contributed items - four… [+1290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Battlefield 6 leaks keep on coming - this time, it's the battle royale map - Eurogamer",
-      "description": "Battlefield 6's Battle Royale map - complete with all its points of interest (POIs), big and small - has leaked online.",
-      "url": "https://www.eurogamer.net/battlefield-6-leaks-keep-on-coming-this-time-its-the-battle-royale-map",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-reveal-screenshot-thumbs-up.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-07-27T17:21:48Z",
-      "content": "Battlefield 6's Battle Royale map - complete with all its points of interest (POIs), big and small - has leaked online.\r\nTypically reliable leaker Temporyal has taken to X/Twitter to share what they … [+2105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Sammy Barker",
-      "title": "PS5 Fans Getting 'Really Carried Away' with Job Listing Which Implied More Exclusives Could Be Ported to Xbox, Switch - Push Square",
-      "description": "Brave new world",
-      "url": "https://www.pushsquare.com/news/2025/07/ps5-fans-getting-really-carried-away-with-job-listing-which-implied-more-exclusives-could-be-ported-to-xbox-switch",
-      "urlToImage": "https://images.pushsquare.com/e31d239eb1d32/large.jpg",
-      "publishedAt": "2025-07-27T17:00:00Z",
-      "content": "Update [Sun 27th Jul 2025, 6pm]: The extremely well-connected Shinobi602 has said PS5 fans are really getting carried away with a job listing which implied Sony may be planning to bring more of its f… [+3678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Fans are once again accusing Activision Blizzard of using AI-generated art in Diablo Immortal x Hearthstone event marketing materials - Eurogamer",
-      "description": "Another day, another AI-generated \"slop\" accusation, this time against Blizzard and its upcoming Diablo Immortal x Hear…",
-      "url": "https://www.eurogamer.net/fans-are-once-again-accusing-activision-blizzard-of-using-ai-generated-art-in-diablo-immortal-x-hearthstone-event-marketing-materials",
-      "urlToImage": "https://assetsio.gnwcdn.com/diablo-x-hearthstone-colab-is-ai-generated-v0-tvt6scx0maef1.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-07-27T16:54:13Z",
-      "content": "Another day, another AI-generated \"slop\" accusation, this time against Blizzard and its upcoming Diablo Immortal x Hearthstone crossover event.\r\nIn a thread on Reddit, later picked up by PC Gamer, re… [+2038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac",
-      "description": "We’re probably about six weeks away from Apple announcing the iPhone 17 Pro. Much of what we expect to see...",
-      "url": "https://9to5mac.com/2025/07/27/iphone-17-pro-camera-upgrades/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-27T16:49:00Z",
-      "content": "We’re probably about six weeks away from Apple announcing the iPhone 17 Pro. Much of what we expect to see has been leaked for months, but a new rumor has surfaced about some unexpected camera upgrad… [+2758 chars]"
+      "author": null,
+      "title": "Here's how Samsung is speeding up software updates for Galaxy devices - Android Authority",
+      "description": "Samsung plans to match Google's release cadence for Android, requiring them to speed up software updates for Galaxy devices. Here's how.",
+      "url": "https://www.androidauthority.com/samsung-release-updates-faster-3581650/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-About-Phone-screen-showing-Android-16-and-One-Ui-8.jpg",
+      "publishedAt": "2025-07-28T15:33:55Z",
+      "content": "<ul><li>Samsung managed to release its Android 16-based One UI 8 update so quickly by adopting Googles new Trunk Stable development model.</li><li>Instead of using separate branches for new versions,… [+4466 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Will Sattelberg",
-      "title": "Samsung is gearing up for the death of the S Pen, whether you like it or not - 9to5Google",
-      "description": "It's been a rough year for S Pen fans, and unless they stay vocal, it's unlikely to get a whole lot better over time.",
-      "url": "http://9to5google.com/2025/07/27/samsung-s-pen-future-unclear/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/S-Pen-from-Galaxy-S24-and-S25-Ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-07-27T16:30:00Z",
-      "content": "Its a bad time to be an S Pen fan or, at least, thats what Samsungs not-so-quietly communicating to one of its most devoted bases. The company that practically invented the phablet has spent 2025 try… [+7640 chars]"
+      "author": "Ben Schoon",
+      "title": "Google Pixel grows in US, settling into top 4 spot ahead of Pixel 10 launch - 9to5Google",
+      "description": "Ahead of the Pixel 10 launch, Google Pixel is estimated to hold the #4 spot in the US smartphone market with minor YoY growth.",
+      "url": "http://9to5google.com/2025/07/28/google-pixel-us-market-share-q2-2025/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9-Pro-XL-with-collection.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-07-28T15:30:00Z",
+      "content": "According to a new report, Google Pixel has settled into a #4 slot in the US smartphone market ahead of the Pixel 10 launch, though growth has cooled off a bit.\r\nCanalys reports that in Q2 2025 (Apri… [+2423 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Peter",
-      "title": "Deals: Samsung Galaxy Z foldables now available, S25 Ultra and S25 Edge discounted - GSMArena.com news - GSMArena.com",
-      "description": "Also, the Galaxy A56 finally became available this week, but would anyone pick it over the Galaxy S24 FE? The wait is over, Samsung’s next generation of...",
-      "url": "https://www.gsmarena.com/deals_samsung_galaxy_z_foldables_now_available_s25_ultra_and_s25_edge_discounted-news-68764.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/07/weekly-deals-25/-952x498w6/gsmarena_us.jpg",
-      "publishedAt": "2025-07-27T16:00:02Z",
-      "content": "The wait is over, Samsungs next generation of foldables is now available. That means the end of the pre-order perks, but you can still get some extras.\r\nRight now, the Samsung Galaxy Z Fold7 and Z Fl… [+2954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "This Week’s Japanese Game Releases: Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2, Ys X: Proud Nordics, more - Gematsu",
-      "description": "Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles 2 for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and PC, and Ys X: Proud Nordics for Switch 2 are the highlights of …",
-      "url": "https://www.gematsu.com/2025/07/this-weeks-japanese-game-releases-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-ys-x-proud-nordics-more",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/07/Weekly-Japanese-Game-Releases_07-27-25.jpg",
-      "publishedAt": "2025-07-27T15:57:43Z",
-      "content": "Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles 2 for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, and PC, and Ys X: Proud Nordics for Switch 2 are the highlights of this wee… [+4442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Parth Shah",
-      "title": "I finally found the perfect note-taking app after years of switching back and forth - Android Police",
-      "description": "No more app hopping",
-      "url": "https://www.androidpolice.com/found-perfect-note-taking-app/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/04/img_9913.jpg",
-      "publishedAt": "2025-07-27T15:41:00Z",
-      "content": "I have tried countless note-taking apps. Each promised to be the one, only to leave me frustrated. I have constantly migrated my thoughts from one temporary home to another.\r\nHowever, after countless… [+5004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sammyfans.com"
-      },
-      "author": "Robin Williams",
-      "title": "Samsung One UI 8 release date: Here’s when we could see major Android 16 software update - Sammy Fans",
-      "description": "Latest Update: Android 16 with Samsung’s One UI 8 officially launched for Samsung devices on July 9, 2025, at Galaxy Unpacked. Samsung is also running the One UI 8 beta program for the Galaxy S25 series, which started on May 28, 2025. The new Galaxy Z Fold7, …",
-      "url": "https://www.sammyfans.com/2025/07/27/samsung-one-ui-8-release-date/",
-      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2025/03/s25-one-ui-7-img-1000x576.jpg",
-      "publishedAt": "2025-07-27T15:19:05Z",
-      "content": "Latest Update:\r\nAndroid 16 with Samsung’s One UI 8 officially launched for Samsung devices on July 9, 2025, at Galaxy Unpacked. Samsung is also running the One UI 8 beta program for the Galaxy S25 se… [+4837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "ASUS shares RTX 50 TGP specs for entire ROG Strix/TUF gaming laptop series - VideoCardz.com",
-      "description": "ASUS’s ‘annual’ laptop TGP declaration The only laptop company providing a single chart with power specs. Some of our readers may still remember NVIDIA facing a lot of criticism for not enforcing clearer disclosure of GeForce laptop GPU specs by manufacturers…",
-      "url": "https://videocardz.com/newz/asus-shares-rtx-50-tgp-specs-for-entire-rog-strix-tuf-gaming-laptop-series",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/07/ASUS-RTX-50-TGP.jpg",
-      "publishedAt": "2025-07-27T14:53:00Z",
-      "content": "The only laptop company providing a single chart with power specs.\r\nSome of our readers may still remember NVIDIA facing a lot of criticism for not enforcing clearer disclosure of GeForce laptop GPU … [+7058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pethelpful.com"
-      },
-      "author": "Alaisha Key",
-      "title": "Rescued Bald Eagle Playing With Stuffed Toy Like a Kid Is Melting Hearts - PetHelpful",
-      "description": "This bird knows how to have a good time!",
-      "url": "https://pethelpful.com/pet-news/rescued-bald-eagle-plays-with-stuffed-toy",
-      "urlToImage": "https://pethelpful.com/.image/w_1200,h_630,g_auto,c_fill/NDowMDAwMDAwMDAwMTEyMzky/bald-eagle-sitting-on-perch-in-nature.jpg",
-      "publishedAt": "2025-07-27T13:00:00Z",
-      "content": "We could all learn a thing or two from our furry friends. One lesson is that we need to make time to play. No matter what age you are, we all need time to unwind. Whether you invite a group of friend… [+2287 chars]"
+      "author": "Lucas Ropek",
+      "title": "The Biggest Signs That AI Wrote a Paper, According to a Professor - Gizmodo",
+      "description": "How do you spot a ChatGPT written paper?",
+      "url": "https://gizmodo.com/the-biggest-signs-that-ai-wrote-a-paper-according-to-a-professor-2000634580",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT-1200x675.jpg",
+      "publishedAt": "2025-07-28T14:50:11Z",
+      "content": "Mark Massaro has taught English Composition at Florida Southwestern State College for years, but his job became significantly more difficult in 2023. Not long after AI apps like ChatGPT became freely… [+5346 chars]"
     }
   ]
 }
