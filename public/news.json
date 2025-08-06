@@ -1,240 +1,175 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 65,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "HODINKEE"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "TanTan Wang",
-      "title": "Introducing Snoopy Gets A New MoonSwatch With The Mission To Earthphase Moonshine Gold (Live Pics) - Hodinkee",
-      "description": "The latest in the roster of Omega x Swatch crossovers, this time with a bit of everything.",
-      "url": "https://www.hodinkee.com/articles/snoopy-gets-a-new-moonswatch-with-the-mission-to-earthphase-moonshine-gold-live-pics",
-      "urlToImage": "https://hodinkee.imgix.net/uploads/images/eadebdb4-d4b5-4ea2-8232-32f4f4bec6b6/tan2h-swatch-earthphase-moonshine-gold-snoopy-00687-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-      "publishedAt": "2025-08-03T22:01:00Z",
-      "content": "That motif continues across the rest of the watch, starting with the new, darker navy bioceramic case. Surrounding this abstract take on the lunar surface is a minute track with the same sparkling av… [+659 chars]"
+      "author": "Jacqueline Saguin",
+      "title": "Patagonia just updated its Nano Puff Jacket. Here’s how it compares to the original - CNN",
+      "description": "Season after season, the Patagonia Nano Puff Jacket continues to be a staple for outdoorsy folk, and now the brand just tweaked the timeless piece of outdoor gear.",
+      "url": "https://www.cnn.com/cnn-underscored/outdoors/patagonia-nano-puff-jacket-launch",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/arcteryx-vs-patagonia-inline-3-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-08-04T20:49:00Z",
+      "content": "Since its 2009 debut, the Patagonia Nano Puff Jacket continues to be a staple for outdoorsy folks season after season. Its made with a warm insulation that easily packs down for travelers, and now th… [+2764 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Justin Carter",
-      "title": "'Guilty Gear Strive' Adds 'Cyberpunk: Edgerunners' Star Lucy This Month - Gizmodo",
-      "description": "After making it through 'Cyberpunk: Edgerunners,' Lucy's taking a vacation in 'Guilty Gear Strive' later this month.",
-      "url": "https://gizmodo.com/cyberpunk-edgerunners-star-lucy-finally-comes-to-guilty-gear-strive-2000638361",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/lucy-edgerunners-guiltygear-1200x675.jpg",
-      "publishedAt": "2025-08-03T20:45:21Z",
-      "content": "Fans of the Cyberpunk: Edgerunners anime have been looking forward to seeing Lucy cut it up in Guilty Gear Strive as a DLC character for a while now. During this weekend’s EVO tournament, Arc System … [+1483 chars]"
+      "author": "Brian",
+      "title": "Apex Legends details Nintendo Switch 2 frame rate, resolution - Nintendo Everything",
+      "description": "EA shares details about what to expect from Apex Legends on Nintendo Switch 2 in terms of frame rate and resolution.",
+      "url": "https://nintendoeverything.com/apex-legends-frame-rate-resolution-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Apex-Legends-frame-rate-resolution.jpg",
+      "publishedAt": "2025-08-04T20:26:08Z",
+      "content": "Apex Legends was just announced for Nintendo Switch 2 a few days ago, and now we have details on the technical front with information about frame rate and resolution.\r\nRegarding frame rate, EA says p… [+584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Winston Cho",
+      "title": "Apple Sues Movie Theater Chain With Same Name As Exhibitor Plans Expansion - The Hollywood Reporter",
+      "description": "The tech giant says that Apple Cinemas is deliberately trying to confuse consumers into believing that it operates the movie theaters.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/apple-sues-movie-theater-chain-1236337107/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Screen-Shot-2025-08-04-at-3.50.36-PM.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2025-08-04T19:59:50Z",
+      "content": "In June, a relatively unknown East Coast movie theater chain announced that it had signed a lease in San Francisco to take over a historic cinema and retail space previously occupied by AMC Theatres … [+3121 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Brendan Lowry",
+      "title": "The Battlefield 6 Open Beta is live to preload now — here's how to download - Windows Central",
+      "description": "You can now preload the Battlefield 6 Open Beta in advance of its start dates.",
+      "url": "https://www.windowscentral.com/gaming/the-battlefield-6-open-beta-is-live-to-preload-now-heres-how-to-download",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uR8NzjPBcQvUMz2CwP8J6G.jpg",
+      "publishedAt": "2025-08-04T19:42:44Z",
+      "content": "Following the title's explosive reveal last month, Battlefield 6 — the next entry in Electronic Arts' (EA) and DICE's large-scale, combined arms-driven FPS franchise — has quickly risen to become one… [+4265 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Dexerto"
       },
-      "author": "Carver Fisher",
-      "title": "Battlefield 6 confirmed to have skill-based matchmaking & no server browser - Dexerto",
-      "description": "Battlefield 6 will be ditching the server browser and putting all players through skill-based matchmaking to get games.",
-      "url": "https://www.dexerto.com/battlefield/battlefield-6-confirmed-to-have-skill-based-matchmaking-no-server-browser-3233524/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/05/21/Battlefield-6-soldier.jpg",
-      "publishedAt": "2025-08-03T19:24:55Z",
-      "content": "As confirmed during a press briefing at the Battlefield 6 premiere, the latest entry in the series will have some amount of skill-based matchmaking. Additionally, you wont be able to use the server b… [+3083 chars]"
+      "author": "Michael Gwilliam",
+      "title": "EA won’t release The Sims 5 because players would lose 10 years of DLC - Dexerto",
+      "description": "The Sims 5 isn’t coming anytime soon and EA says it’s because they don’t want to wipe out everything players have bought over the past decade.",
+      "url": "https://www.dexerto.com/sims/ea-wont-release-the-sims-5-because-players-would-lose-10-years-of-dlc-3233901/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/04/ea-sims-5-release-dlc.jpg",
+      "publishedAt": "2025-08-04T19:13:18Z",
+      "content": "The Sims 5 isnt coming anytime soon and EA says its because they dont want to wipe out everything players have bought over the past decade.\r\nSpeaking to Variety, EA president Laura Miele addressed wh… [+2037 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "9to5Mac"
       },
-      "author": "bgr.com",
-      "title": "5 Ways To Repurpose Old CD And DVD Players - bgr.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwSjhkMW5PaWxHN1ZWZHNicFkxd0xhOUhISlo2cEhLLWFFMWNack9tOXE0dTVrUmF4ektlUUp3VFZWQUpaUVBjeUNLajRJdkJCZncza3RKWWJuSDlhSk1JTw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03T18:17:00Z",
+      "author": "Ryan Christoffel",
+      "title": "iPhone 17 Pro: Seven new features are coming next month - 9to5Mac",
+      "description": "Apple’s iPhone 17 Pro and 17 Pro Max will be packed with a variety of upgrades, here are seven new features coming soon.",
+      "url": "https://9to5mac.com/2025/08/04/iphone-17-pro-seven-new-features-are-coming-next-year/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-04T18:58:00Z",
+      "content": "Its going to be a big fall for Apple, with 15+ new products expectedincluding the ultra-thin iPhone 17 Air. But what about Apples flagship Pro models? Here are seven new features coming to the iPhone… [+3396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Calum Patterson",
+      "title": "Apex Legends Season 26 patch notes: New Wildcard mode, Legend reworks and more - Dexerto",
+      "description": "Check out everything that’s coming and changing in Season 26 of Apex Legends, including a new permanent mode and reworks to classic legends.",
+      "url": "https://www.dexerto.com/apex-legends/apex-legends-season-26-patch-notes-new-wildcard-mode-legend-reworks-and-more-3231792/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/07/30/apex-legends-season-26.jpg",
+      "publishedAt": "2025-08-04T18:25:25Z",
+      "content": "Respawn has officially revealed the full patch details for Apex Legends Season 26, titled Showdown, releasing on August 5.\r\nThe headline addition is the new mode, Wildcard, which is being added perma… [+24219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "OpenAI updating ChatGPT to encourage healthier use - 9to5Mac",
+      "description": "OpenAI is updating how ChatGPT works to encourage healthier use and avoid unintended consequences. One change that OpenAI says ChatGPT...",
+      "url": "https://9to5mac.com/2025/08/04/healthy-chatgpt-use/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/chatgpt-mac.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-04T17:29:00Z",
+      "content": "OpenAI is updating how ChatGPT works to encourage healthier use and avoid unintended consequences. One change that OpenAI says ChatGPT users will see “starting today” is a technique used by other dig… [+2175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GIVEMESPORT"
+      },
+      "author": "Tom Bogert",
+      "title": "Portland Timbers to sign Velde from Olympiakos on DP deal: Sources - GiveMeSport",
+      "description": "The Portland Timbers are finalizing a deal to sign Norwegian winger Kristoffer Velde from Olympiakos, sources tell GIVEMESPORT.",
+      "url": "https://www.givemesport.com/portland-timbers-to-sign-velde-olympiakos-dp-deal-sources/",
+      "urlToImage": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2025/08/kristoffer-velde.jpg",
+      "publishedAt": "2025-08-04T17:04:00Z",
+      "content": "The Portland Timbers are finalizing a deal to sign Norwegian winger Kristoffer Velde from Olympiakos, sources tell GIVEMESPORT.\r\nPortland will pay a fee in the region of $5 million, sources add. Veld… [+1396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Jake Peterson",
+      "title": "Microsoft Is Trying to Trick You Into Using Copilot - Lifehacker",
+      "description": "Don't fall for this scheme if you don't want to use Copilot.",
+      "url": "https://lifehacker.com/tech/microsoft-is-trying-to-trick-you-into-using-copilot-again",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01K1TYDDDTS0GWPYRTMZMJ9GYN/hero-image.fill.size_1200x675.jpg",
+      "publishedAt": "2025-08-04T17:00:54Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "DualShockers"
+        "name": "Kotaku"
       },
-      "author": "Laurence Wall",
-      "title": "12 Best Mario Games On Every Nintendo Console, Ranked - DualShockers",
-      "description": "This list covers the best Mario games released on every major Nintendo console since his inception.",
-      "url": "https://www.dualshockers.com/best-mario-games-on-every-nintendo-console-ranked/",
-      "urlToImage": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/wm/2025/08/super-mario-bros-console-feature.jpg",
-      "publishedAt": "2025-08-03T18:01:00Z",
-      "content": "The cultural impact of Super Mario and his colourful companions on the world is pretty monumental. And it all stemmed back to the release of Donkey Kong back in 1981. \r\nHas it really been that long? … [+9220 chars]"
+      "author": "Kenneth Shepard",
+      "title": "One Of 2025’s Most Special, Emotional Games Is $5 And Will Take You An Hour To Finish - Kotaku",
+      "description": "and Roger is the kind of game you should just play without knowing what it’s about, if you can",
+      "url": "https://kotaku.com/and-roger-review-tearyhand-studio-pc-steam-switch-2000614568",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/08/IMG_8976-1-1200x675.jpg",
+      "publishedAt": "2025-08-04T16:57:23Z",
+      "content": "Reader, do you trust me? Hm, maybe thats a bit broad. Reader, do you trust Kotaku to recommend a game with its whole chest, even if we cant really tell you what its about? and Roger (yes, thats how t… [+2746 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Pokemon GO Hub"
+        "name": "Nintendoeverything.com"
       },
-      "author": "kittypokemonsalot",
-      "title": "Pokémon GO Events This Week (August 4 - August 10, 2025): Snom Debut, Shiny Tandemaus, Munchlax, Origin Forme Dialga and Palkia and more! - Pokémon GO Hub",
-      "description": "Pokémon GO’s August 4 - August 10 schedule brings summer vibes! Enjoy the Pokémon GO Sweet Swarms event, the debut of Snom, the Cozy Companions event, Munchlax Hatch Day, and Origin Forme Dialga and Palkia Raid Day! A truly bumper week of GO. Plus weekly Spot…",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-august-4-august-10-2025-snom-debut-shiny-tandemaus-munchlax-origin-forme-dialga-and-palkia-and-more/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/07/origin-forme-dialga-palkia.jpg",
-      "publishedAt": "2025-08-03T17:39:36Z",
-      "content": "Pokémon GOs August 4 – August 10 schedule brings summer vibes! Enjoy the Pokémon GO Sweet Swarms event, the debut of Snom, the Cozy Companions event, Munchlax Hatch Day, and Origin Forme Dialga and P… [+4267 chars]"
+      "author": "Brian",
+      "title": "Nintendo kicks off Play Together sale on the Switch eShop - Nintendo Everything",
+      "description": "Big Nintendo Switch eShop Play Together sale just went live - check out the full lineup of deals.",
+      "url": "https://nintendoeverything.com/nintendo-switch-eshop-sale-play-together/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-eShop-Play-Together-sale.jpg",
+      "publishedAt": "2025-08-04T16:32:33Z",
+      "content": "Nintendo Switch owners in North America can now take advantage of a Play Together that just went live on the eShop.\r\nVarious titles from the Big N are on sale, including Captain Toad, Clubhouse Games… [+1568 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "EventHubs"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Justin AdaptiveTrigger Gordon",
-      "title": "Omni-Man gameplay trailer finally revealed for Invincible Vs - EventHubs",
-      "description": "Invincible Vs is slated to be released sometime in 2026. Though Omni-Man was one of the first characters revealed for Invincible Vs, we haven't had too many opportunities to see the character in action just yet.This is quite ...",
-      "url": "https://www.eventhubs.com/news/2025/aug/03/omni-man-gameplay-invincible-vs/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/08/03_omni-bnrt.webp",
-      "publishedAt": "2025-08-03T17:25:31Z",
-      "content": "Invincible Vs is slated to be released sometime in 2026. Though Omni-Man was one of the first characters revealed for Invincible Vs, we haven't had too many opportunities to see the character in acti… [+1299 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Google Home is picking up the long-overdue media controls redesign - Android Police",
-      "description": "It&#039;s about time",
-      "url": "https://www.androidpolice.com/google-home-android-media-controls-redesign/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/05/google-home-hero-1.jpg",
-      "publishedAt": "2025-08-03T17:23:00Z",
-      "content": "Google's ecosystem of smart home products hasn't been without its issues. Recently, we've encountered reports highlighting Google Home's inability to respond to basic commands, in addition to several… [+2511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EventHubs"
-      },
-      "author": "Nicholas MajinTenshinhan Taylor",
-      "title": "Evo 2025 early results, stream ft Punk, Arslan Ash, Nitro, Aarondamac, Senaru, SonicFox, Go1, Xiaohai, Kakeru, Knee, Leshar, MenaRD, Ulsan and more - EventHubs",
-      "description": "Update: This story is being updated with live results as they occur. Also, character statistics for Fatal Fury: City of the Wolves, Guilty Gear Strive, Granblue Fantasy Versus Rising, Marvel vs. Capcom 2, Under Night In-Birth 2 [Sys:celes] and ...",
-      "url": "https://www.eventhubs.com/news/2025/jul/31/evo-2025-results/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/08/01_evobannert.webp",
-      "publishedAt": "2025-08-03T17:01:03Z",
-      "content": "Update: This story is being updated with live results as they occur. Also, character statistics for Fatal Fury: City of the Wolves, Guilty Gear Strive, Granblue Fantasy Versus Rising, Marvel vs. Capc… [+59046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Maya Posch",
-      "title": "Why Cheap Digital Microscopes Are Pretty Terrible - Hackaday",
-      "description": "We have all seen those cheap digital microscopes, whether in USB format or with its own screen, all of them promising super-clear images of everything from butterfly wings to electronics at amazing…",
-      "url": "https://hackaday.com/2025/08/03/why-cheap-digital-microscopes-are-pretty-terrible/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg",
-      "publishedAt": "2025-08-03T17:00:00Z",
-      "content": "The depth of field you get with a cheap Tomlov DM9 digital microscope. Pictured is the tip of a ballpoint. (Credit: Outdoors55, YouTube)\r\nWe have all seen those cheap digital microscopes, whether in … [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": null,
-      "title": "Xbox Series S|X Have Sold Less Than 30 Million Units, Though They Are Profitable Now - Wccftech",
-      "description": "According to renowned AMD leaker KeplerL2, Microsoft's Xbox Series S|X have sold less than 30 million units to date (between 21 and 29).",
-      "url": "https://wccftech.com/xbox-series-s-x-sold-less-30-million-units-profitable/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/04/XboxSeriesXandS_HERO.jpg",
-      "publishedAt": "2025-08-03T17:00:00Z",
-      "content": "Renowned AMD leaker KeplerL2 has revealed in a series of posts on the NeoGaf board (via Reddit) that the Xbox Series S and X consoles have sold less than 30 million units, according to his estimates … [+1832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cowboystatedaily.com"
-      },
-      "author": "Zakary Sonntag",
-      "title": "Living In A Van Down By The River: Why Cody Woman Loves Living In A Van - Cowboy State Daily",
-      "description": "Cody native Megan Anderson is up before sunrise Friday, researching the financial markets for her job as vice president of client relations for a real estate firm. Her office is a Ford Transit van she’s lived in for the better part of a year.",
-      "url": "https://cowboystatedaily.com/2025/08/03/meet-megan-a-cody-van-lifer-whose-corporate-executive-office-is-a-ford-transit/",
-      "urlToImage": "https://cowboystatedaily.imgix.net/Megan-Anderson-IG-Screenshot-2025-08-03-at-7.35.41-AM-8.3.25.jpg",
-      "publishedAt": "2025-08-03T16:50:00Z",
-      "content": "Its the first day of August and Megan Anderson is up before sunrise researching the financial markets. \r\nShe needs to be caught up and camera ready in an hour from now at 5:30 a.m., when shell record… [+17354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Pixel 10 sees Google setting a new standard for Android, just like in the Nexus days - 9to5Google",
-      "description": "As we near the launch of Pixel 10, I’m getting some déjà vu with Google’s new devices, as the company...",
-      "url": "http://9to5google.com/2025/08/03/google-pixel-10-qi2-setting-the-standard/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-qi2-eb-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-03T16:00:00Z",
-      "content": "As we near the launch of Pixel 10, I’m getting some déjà vu with Google’s new devices, as the company has been pushing forward with its flagship phones for the betterment of the entire Android ecosys… [+4656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Anam Hamid",
-      "title": "Verizon is sending an email that no customer wants to receive - PhoneArena",
-      "description": "Verizon is raising prices and pulling discounts.",
-      "url": "https://www.phonearena.com/news/verizon-loyalty-discount-end_id172854",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/172854-wide-two_1200/Verizon-is-sending-an-email-that-no-customer-wants-to-receive.jpg",
-      "publishedAt": "2025-08-03T15:44:10Z",
-      "content": "Administrative and Telco Recovery Charge and Regulatory Charge are potentially also going up.\r\nCustomers have been taken aback by the increase in rates and removal of discounts, especially because it… [+499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Fandom split on Silent Hill f's \"soulslike\" combat - Eurogamer",
-      "description": "The Silent Hill fandom is seemingly split once again, this time over Silent Hill f's \"soulslike\" combat.",
-      "url": "https://www.eurogamer.net/fandom-split-on-silent-hill-fs-soulslike-combat",
-      "urlToImage": "https://assetsio.gnwcdn.com/KONAMI-PRESS-START-6.12.2025-(-KONAMI-Game-News-)-30-7-screenshot_0FxoE4J.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-08-03T15:11:06Z",
-      "content": "The Silent Hill fandom is seemingly split once again, this time over Silent Hill f's \"soulslike\" combat.\r\nAs more and more teasers and footage pop up online in the run-up to 25th September's launch d… [+3296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegoodphight.com"
-      },
-      "author": "Ethan Witte",
-      "title": "We’re going dark soon! - The Good Phight",
-      "description": "You’ve had to have seen this coming",
-      "url": "https://www.thegoodphight.com/2025/8/3/24479956/were-going-dark-soon",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dL6cKWZdgR2f6DOcZZ_ZPXmp3Pc=/0x313:4364x2598/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26076305/usa_today_26300442.jpg",
-      "publishedAt": "2025-08-03T14:00:00Z",
-      "content": "As you know by now, The Good Phight is moving to a new platform. There have been posts already about how you will need to log in a different way, how these posts will be archived and how things will … [+1254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dronexl.co"
-      },
-      "author": "https://www.facebook.com/haye.kesteloo",
-      "title": "BREAKING: DJI MINI 5 PRO Product Image And Key Features Leaked - DroneXL.co",
-      "description": "After multiple weeks of DJI Mini 5 Pro silence, somebody finally struck gold in a pile of rubbish. It seems an employee of a printing office took this picture",
-      "url": "https://dronexl.co/2025/08/03/dji-mini-5-pro-key-features-box-confirms/",
-      "urlToImage": "https://dronexl.co/wp-content/uploads/2025/08/Mini5Pro-feats4.jpg",
-      "publishedAt": "2025-08-03T13:51:10Z",
-      "content": "After multiple weeks of DJI Mini 5 Pro silence, somebody finally struck gold in a pile of rubbish. It seems an employee of a printing office took this picture of this DJI Mini 5 box misprint and shar… [+4301 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "The Nintendo Switch just got more expensive - The Verge",
-      "description": "Nintendo raised the US prices of the Switch, Switch OLED, and Switch Lite by $30 - $50, while the new Switch 2 still costs $449.99.",
-      "url": "https://www.theverge.com/news/717610/nintendo-switch-original-price-increase",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/jbareham_180301_2346_nintendo_switch_0034_mario.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-08-03T13:46:13Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Switch OLED price jumped by $50 on Sunday, to $399.99.\r\nThe Switch OLED price jumped by $50 on Sunday, to $399.99.\r\nby\r\nEmma RothClose\r\nEmma Roth\r\nPosts from… [+2363 chars]"
+      "author": "Mike Andronico",
+      "title": "You should be using AirTags for school bags and more. Here’s why - CNN",
+      "description": "Apple’s AirTags can be incredibly valuable for students, so here’s everything you need to know about making the most of them to keep your school supplies safe.",
+      "url": "https://www.cnn.com/cnn-underscored/electronics/using-airtags-for-school",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210421200433-7-apple-airtags-review-underscored.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-08-04T16:21:00Z",
+      "content": "Tons of us here at CNN Underscored have been using Apple AirTags to track our luggage, valuables and even pets for years, but did you know there are also plenty of handy ways to use AirTags for schoo… [+10809 chars]"
     },
     {
       "source": {
@@ -242,12 +177,77 @@
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Are you using Chrome for Android’s bottom address bar? [Poll] - 9to5Google",
-      "description": "In July, Google finally launched a bottom address bar for Chrome on Android. Are you using it? It’s a “finally” moment, but Google took...",
-      "url": "http://9to5google.com/2025/08/03/chrome-bottom-address-bar-poll/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Chrome-Android-bottom-address-bar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-03T13:30:00Z",
-      "content": "In July, Google finally launched a bottom address bar for Chrome on Android. Are you using it? \r\nIts a finally moment, but Google took so long that the fanfare is a bit dampened. Additionally, how Ch… [+2286 chars]"
+      "title": "Google Pixel 10 ‘Soon’ teaser goes hard on iPhone’s AI Siri delays [Video] - 9to5Google",
+      "description": "A new Pixel 10 \"Soon\" teaser from Google heavily needles how Apple hasn’t been able to ship the Siri AI upgrades for the iPhone 16.",
+      "url": "http://9to5google.com/2025/08/04/pixel-10-soon-teaser/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Pixel-10-soon-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-04T16:18:00Z",
+      "content": "With a little over two weeks until the announcement, a new Pixel 10 “Soon” teaser from Google heavily needles how Apple hasnt been able to ship the Siri AI upgrades for the iPhone 16. \r\nThe 30-second… [+1512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Spencer Perry",
+      "title": "Overwatch 2 Devs Reveal Why the Nerf Collab Is Their Most Unique (And Which Skin Is Free This Time) - ComicBook.com",
+      "description": "Fresh off their GI Joe collab from earlier this season, Overwatch 2 isn’t slowing down as they deliver another brand new batch of cosmetics for players. Just weeks removed from bringing players the likes of Genji as Snake Eyes and Doomfist as Destro, Overwatc…",
+      "url": "http://comicbook.com/gaming/news/overwatch-2-dev-interview-nerf-collab-free-skin-2025/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/08/overwatch-2-Nerf-interview.jpg?resize=2000,1125",
+      "publishedAt": "2025-08-04T16:00:45Z",
+      "content": "Fresh off their GI Joe collab from earlier this season, Overwatch 2 isn’t slowing down as they deliver another brand new batch of cosmetics for players. Just weeks removed from bringing players the l… [+8771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Anu Adegbola",
+      "title": "Google briefs brands on AI Mode ads ahead of Q4 rollout - Search Engine Land",
+      "description": "Google is bringing ads into its conversational AI search experience, reshaping how brands target consumers.",
+      "url": "https://searchengineland.com/google-ai-mode-ads-internal-document-459931",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2025/06/google-ai-search-1920.png",
+      "publishedAt": "2025-08-04T15:54:00Z",
+      "content": "Google is preparing to scale up ads in AI Mode, by briefing agencies and brands on how the new ad format works and how it differs from traditional search.\r\nDriving the news. A new internal document, … [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Baldursgate3.game"
+      },
+      "author": null,
+      "title": "Community Update #35 Baldur's Gate 3 Turns Two - BaldursGate3.Game",
+      "description": "An ancient evil has returned to Baldur's Gate, intent on devouring it from the inside out. The fate of Faerûn lies in your hands. Alone, you may resist. But together, you can overcome. Gather your party.",
+      "url": "https://baldursgate3.game/news/community-update-35-baldur-s-gate-3-turns-two_143",
+      "urlToImage": "/share.png",
+      "publishedAt": "2025-08-04T15:49:38Z",
+      "content": "Happy birthday, gang! Baldur's Gate 3 turns two - hard to believe, isn't it?\r\nIt feels like only yesterday we were streaming our launch-day Panel From Hell from a cathedral in Ghent and earning a Tik… [+4711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Demi Williams",
+      "title": "Xbox Game Pass Is Losing Three Games This Month Including One Of The Best Games Of 2024 - GameSpot",
+      "description": "Three games are leaving Xbox Game Pass this month.",
+      "url": "https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-games-this-month-including-one-of-the-best-games-of-2024/2900-6840/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1694/16945412/4542647-persona3reload.jpg",
+      "publishedAt": "2025-08-04T15:45:19Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "Have You Installed iOS 18.6? Be Sure to Change These 10 Settings Now - CNET",
+      "description": "Take a minute to adjust your iOS 18 settings and get the most from your iPhone.",
+      "url": "https://www.cnet.com/tech/mobile/have-you-installed-ios-18-6-be-sure-to-change-these-10-settings-now/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b76179a8eb12ff1e0d228d8e7721572f21179bf4/hub/2025/07/29/763408fa-0ed1-46f9-a0bd-952157ee29e2/ios18-control-center-iphone-beach-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-08-04T15:30:00Z",
+      "content": "iOS 26 arrives this fall, but before it gets here Apple has released iOS 18.6. This may be the last big update for iOS 18, and delivers security updates along with some bug fixes. After updating, it'… [+17831 chars]"
     }
   ]
 }
