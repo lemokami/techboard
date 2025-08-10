@@ -1,45 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Android Authority"
       },
-      "author": "Ethan Gach",
-      "title": "BioShock 4 Won't Be Canceled Despite Development Delays - Kotaku",
-      "description": "Take-Two's CEO weighs in on the troubled project as developers worry about layoffs",
-      "url": "https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424",
-      "urlToImage": "https://kotaku.com/app/uploads/2024/07/b217b25f792cd2f155ae86b9fe8974fe-1200x675.jpg",
-      "publishedAt": "2025-08-07T22:02:58Z",
-      "content": "It’s been almost six years since 2K revealed that a new BioShock was in development with recently minted Canada-based studio Cloud Chamber at the helm. But the only real news about the game since the… [+2501 chars]"
+      "author": null,
+      "title": "Massive Pixel leak spoils everything ahead of Google launch event - Android Authority",
+      "description": "A massive leak has spilled the beans on not only the Pixel 10 series, but also the Pixel Watch 4 and Pixel Buds 2a.",
+      "url": "https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Pixel-10-family-1-1.jpg",
+      "publishedAt": "2025-08-08T20:01:48Z",
+      "content": "<ul><li>A leak may have revealed the specs of the Pixel 10 series.</li><li>The same leak also spilled details on the Pixel Watch 4.</li><li>The specs for the Pixel Buds 2a have also been shared.</li>… [+3372 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "RIP, Microsoft Lens, a simple little app that’s getting replaced by AI - TechCrunch",
+      "description": "Microsoft is killing Lens, a handy mobile scanning app with over 90 million downloads.",
+      "url": "https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/scan-receipt-with-iphone-GettyImages-1527386459.jpg?resize=1200,801",
+      "publishedAt": "2025-08-08T19:41:19Z",
+      "content": "Sometimes it’s nice to have a simple app that does one thing well without a lot of fuss.\r\nMicrosoft Lens was that type of app: a mobile document scanner that turned paper documents, business cards, r… [+2375 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Adult sites use malicious .svg files to rack up likes on Facebook - Ars Technica",
+      "description": "Running JavaScript from inside an image? What could possibly go wrong?",
+      "url": "https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/adult-pron-website-1152x648.jpg",
+      "publishedAt": "2025-08-08T19:41:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "MacRumors"
       },
-      "author": "Siddharth",
-      "title": "Official Google Pixel 10 Pro XL leaked marketing images show the phone from all angles - GSMArena.com news - GSMArena.com",
-      "description": "Google's Pixel 10 series is set to be unveiled on August 20. The Google Pixel 10 series is set to be unveiled this month and in keeping with tradition we...",
-      "url": "https://www.gsmarena.com/official_google_pixel_10_pro_xl_leaked_marketing_images_show_the_phone_from_all_angles-news-68946.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/08/pixel-10-pro-xl-official-renders/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2025-08-07T21:47:01Z",
-      "content": "The Google Pixel 10 series is set to be unveiled this month and in keeping with tradition we are getting a bunch of leaks. Ahead of the launch, we've seen images of all the phones in the lineup, whic… [+1355 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "The Browser Company’s AI browser now has a $20 subscription - The Verge",
-      "description": "A Dia Pro subscription comes with unlimited access to the browser’s AI chat feature.",
-      "url": "https://www.theverge.com/news/756427/browser-company-dia-pro-ai-pricing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/CleanShot-2025-06-11-at-08.38.39%402x.png?quality=90&strip=all&crop=0%2C14.118071854125%2C100%2C71.763856291749&w=1200",
-      "publishedAt": "2025-08-07T21:30:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA Dia Pro subscription comes with unlimited access to the browsers AI chat feature.\r\nA Dia Pro subscription comes with unlimited access to the browsers AI chat f… [+2527 chars]"
+      "author": "Juli Clover",
+      "title": "iOS 26: 7 New AirPods Features - MacRumors",
+      "description": "With iOS 26, Apple is bringing several new features to the AirPods, making them more useful than before. The added functionality will be available...",
+      "url": "https://www.macrumors.com/2025/08/08/ios-26-7-new-airpods-features/",
+      "urlToImage": "https://images.macrumors.com/t/__k4d6rWiNVeeEyj4qit_9dQaZM=/2500x/article-new/2025/05/airpods-pro-2-pinnk.jpeg",
+      "publishedAt": "2025-08-08T19:31:31Z",
+      "content": "With iOS 26, Apple is bringing several new features to the AirPods, making them more useful than before. The added functionality will be available this fall when Apple releases ‌iOS 26‌ and updated A… [+4371 chars]"
     },
     {
       "source": {
@@ -47,38 +60,38 @@
         "name": "CNET"
       },
       "author": "See full bio",
-      "title": "What Happens When You Fold and Unfold the Samsung Galaxy Z Fold 7 200,000 Times? - CNET",
-      "description": "This YouTuber showed us. It wasn't pretty.",
-      "url": "https://www.cnet.com/tech/mobile/what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/",
+      "title": "See What Happens When You Fold the Samsung Galaxy Fold 7 200,000 Times - CNET",
+      "description": "We're a little concerned about the \"unknown black liquid\" that leaked out of the phone's hinge when a YouTuber tested it.",
+      "url": "https://www.cnet.com/tech/mobile/see-what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/",
       "urlToImage": "https://www.cnet.com/a/img/resize/7bd854e792ea6b64a3df4cb05b7b5e37b1993052/hub/2025/07/11/74a33fdc-b881-41f8-b92a-8d98e4cedd91/samsung-unpacked-2025-day-2-22.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-08-07T20:33:00Z",
+      "publishedAt": "2025-08-08T19:23:00Z",
       "content": "After folding and unfolding the Samsung Galaxy Z Fold 7 200,000 times by hand, Korean YouTube channel Tech-it found that the folding phone's redesigned hinge and thinner design couldn't withstand rep… [+1930 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Bethesda.net"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Heretic + Hexen, free update for DOOM: The Dark Ages, DOOM Eternal PC Mods and more announced at QuakeCon 2025 - Slayers Club",
-      "description": "A legendary franchise returns, save big on Bethesda games, and learn how to unlock free content during North America’s largest LAN party celebration.",
-      "url": "https://slayersclub.bethesda.net/article/quakecon-2025-news",
-      "urlToImage": null,
-      "publishedAt": "2025-08-07T18:30:00Z",
-      "content": "QuakeCon 2025 is officially underway, with the largest LAN party in North America also being the place for exciting news for id Software titles. From the return of a keystone franchise in the FPS gen… [+2537 chars]"
+      "author": "Ethan Gach",
+      "title": "Diablo 4 Boss Leaves Blizzard After 5 Years For Next Gig - Kotaku",
+      "description": "The industry veteran was in charge of Diablo IV",
+      "url": "https://kotaku.com/diablo-boss-rod-ferguson-leaving-blizzard-after-five-years-2000616680",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/04/5ec788134bb55b75a2583653c551fe19.jpg",
+      "publishedAt": "2025-08-08T18:53:50Z",
+      "content": "Blizzard is losing the head of one of its biggest franchises. Diablo general manager Rod Fergusson announced on Friday that he’s leaving the studio after five years to pursue a new opportunity. The i… [+2344 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Jay Peters",
-      "title": "Meta’s prototype headsets show off the future of mixed reality - The Verge",
-      "description": "Meta is showing off prototype VR headsets, dubbed “Tiramisu” and “Boba 3,” at the SIGGRAPH 2025 conference.",
-      "url": "https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/media.webp?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200",
-      "publishedAt": "2025-08-07T18:29:12Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company is working on headsets that offer better realism and much wider fields of view than whats available on its current Quest headsets.\r\nThe company is wo… [+3147 chars]"
+      "author": "Jon Brodkin",
+      "title": "Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica",
+      "description": "Google still trying to fix “annoying infinite looping bug,” product manager says.",
+      "url": "https://arstechnica.com/ai/2025/08/google-gemini-struggles-to-write-code-calls-itself-a-disgrace-to-my-species/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
+      "publishedAt": "2025-08-08T18:07:09Z",
+      "content": null
     },
     {
       "source": {
@@ -86,181 +99,155 @@
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "iOS 26 beta adds surprise Apple Maps feature that could prove very useful - 9to5Mac",
-      "description": "Apple Maps gains a big upgrade to search in iOS 26, as Apple Intelligence now enables you to search using natural language.",
-      "url": "https://9to5mac.com/2025/08/07/ios-26-beta-adds-surprise-apple-maps-feature-that-could-prove-very-useful/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-07T18:12:00Z",
-      "content": "Apple Maps has some compelling new features in iOS 26, but it seems theres even more coming, as the beta now supports a powerful new feature that Apple never announced: natural language search with A… [+1463 chars]"
+      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
+      "description": "iPhone 17 Pro Max will pack a variety of new features, but there are three upgrades in particular that have me considering a model change.",
+      "url": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-17-pro-max-dummy-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-08T15:31:00Z",
+      "content": "In just one month, Apple will unveil its full iPhone 17 lineup. The brand new Air model will get a lot of attention, but Apple also has big changes coming for iPhone 17 Pro Max. Im tentatively planni… [+2355 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Jason Schreier",
-      "title": "Xbox Drops Work on ‘Contraband’ Video Game After Four Years - Bloomberg.com",
-      "description": "Cancellation is the latest in a series of cuts at Microsoft’s video-game business",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-07/xbox-drops-work-on-contraband-video-game-after-four-years",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF2hnE3z3o4U/v1/1200x800.jpg",
-      "publishedAt": "2025-08-07T17:32:50Z",
-      "content": "Microsoft Corp.s Xbox gaming unit is canceling Contraband, a multiplayer video game that was in development for years at the Swedish company Avalanche Studios Group.\r\nActive development has now stopp… [+233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bethesda.net"
-      },
-      "author": null,
-      "title": "Limited-Time Free QuakeCon 2025 DOOM Slayer Skin - Slayers Club",
-      "description": "From Aug 7 - Sept 1 link your Bethesda.net account, launch the game, and allow up to 48 hours for it to unlock.",
-      "url": "https://slayersclub.bethesda.net/en-US/article/doom-the-dark-ages-quakecon-2025-slayer-skin",
-      "urlToImage": null,
-      "publishedAt": "2025-08-07T17:00:00Z",
-      "content": "DOOM: The Dark Ages\r\nThe biggest id Software News from QuakeCon 2025 \r\nA legendary franchise returns, save big on Bethesda games, and learn how to unlock free content during North Americas largest LA… [+19 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Chris Welch",
-      "title": "Sonos to Raise Its Hardware Prices This Year Due to Tariffs - Bloomberg",
-      "description": "Shares of Sonos Inc. fell Thursday after the audio brand said it would raise prices on some products and that it isn’t planning to introduce new hardware in the near term.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-06/sonos-to-raise-its-hardware-prices-this-year-due-to-tariffs",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXdQuJsBNxUw/v1/1200x800.jpg",
-      "publishedAt": "2025-08-07T16:57:39Z",
-      "content": "Shares of Sonos Inc. fell Thursday after the audio brand said it would raise prices on some products and that it isnt planning to introduce new hardware in the near term. \r\nThe price increases are a … [+235 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gene Park",
-      "title": "‘MindsEye’ is more than the worst game of the year - The Washington Post",
-      "description": "“MindsEye,” the debut from a former Grand Theft Auto producer, is the latest disasterpiece in an expanded graveyard of failed, trend-chasing projects.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/08/07/mindseye-worst-game-of-year/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP6AT5UPJBC2NLLS7CETMKEHFM.jpg&w=1440",
-      "publishedAt": "2025-08-07T16:32:03Z",
-      "content": "MindsEye is more than an embarrassment of the video games medium; it is actively hostile toward the audiences desire for entertainment. It shames you for playing it, but the onus of guilt belongs to … [+6927 chars]"
+      "author": "Vikki Blake",
+      "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
+      "description": "Battlefield 6 isn't even out yet, but cheaters have already infiltrated the Open Beta on PC. That's despite requiring players to enable Secure Boot to access the playtest.",
+      "url": "https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/08/bf6-1754666155964.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-08-08T15:21:30Z",
+      "content": "Battlefield 6\r\n isn't even out yet, but cheaters have already infiltrated the Open Beta on PC. That's despite requiring players to enable Secure Boot to access the playtest, and EA's own anti-cheat s… [+2966 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Forbes"
       },
-      "author": "Ollie Reynolds",
-      "title": "Forget Silksong, This New Terminator 2D Overview Trailer Looks Stupidly Good - Nintendo Life",
-      "description": "I need your clothes, your boots, and your new game",
-      "url": "https://www.nintendolife.com/news/2025/08/forget-silksong-this-new-terminator-2d-overview-trailer-looks-stupidly-good",
-      "urlToImage": "https://images.nintendolife.com/b45171f129cbd/large.jpg",
-      "publishedAt": "2025-08-07T16:30:00Z",
-      "content": "Watch on YouTube\r\nSubscribe to Nintendo Life on YouTube830k\r\nReef Entertainment has released a new overview trailer for Terminator 2D: No Fate, and sorry, but we know you're all excited for Silksong … [+1286 chars]"
+      "author": "Paul Tassi",
+      "title": "Sony Offers A Questionable ‘Marathon’ Release Date Update - Forbes",
+      "description": "On Sony's recent earnings call, they addressed the situation with Marathon and when they believe it may actually be released.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/08/08/sony-offers-a-questionable-marathon-release-date-update/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f3eb1639be1337b88e4e7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-08-08T15:15:16Z",
+      "content": "A big headline from Sonys recent earnings call was the news that Bungie was going to start losing some of its independence as it gets folded more fully into the PlayStation studios network. What that… [+2880 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "Push Square"
       },
-      "author": "Samuel Tolbert",
-      "title": "ROG Xbox Ally Handhelds Reportedly Launching in October — and Prices Have Leaked, Too - Windows Central",
-      "description": "A new report indicates that the ROG Xbox Ally devices are slated to launch on October 16, while prices line up with a prior leak.",
-      "url": "https://www.windowscentral.com/gaming/xbox/rog-xbox-ally-handhelds-release-date-october-2025-report",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QnogbVGdNMZSXWJ98NS4rB.jpg",
-      "publishedAt": "2025-08-07T15:42:10Z",
-      "content": "A new report may have given us the exact release date for the upcoming ROG Xbox Ally handhelds, as well as the prices players can expect for each model. \r\nWriting for Dealabs, credible leaker billbil… [+2952 chars]"
+      "author": "Push Square",
+      "title": "Battlefield 6 Open Beta: All Weekend 1 Start Times and Server Queue Wait Times - Push Square",
+      "description": "The ultimate Battlefield 6 beta guide",
+      "url": "https://www.pushsquare.com/guides/battlefield-6-open-beta-all-weekend-1-start-times-and-server-queue-wait-times",
+      "urlToImage": "https://images.pushsquare.com/f1ffeb625d5d2/large.jpg",
+      "publishedAt": "2025-08-08T15:11:43Z",
+      "content": "EA has announced it'll be hosting a number of beta tests for Battlefield 6 in the lead-up to launch, allowing you to try the new FPS before release in October. This guide is designed to cover everyth… [+5936 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "GameSpot"
       },
-      "author": "Matt Wales",
-      "title": "Nintendo's Indie World Showcase - here's everything announced - Eurogamer",
-      "description": "A mere seven days after its third-party-focused partner showcase, Nintendo has given indies a turn, detailing exactly w…",
-      "url": "https://www.eurogamer.net/nintendos-indie-world-showcase-heres-everything-announced",
-      "urlToImage": "https://assetsio.gnwcdn.com/nintendo-indie-august-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-08-07T15:00:17Z",
-      "content": "A mere seven days after its third-party-focused partner showcase, Nintendo has given indies a turn, detailing exactly what Switch and Switch 2 players can look forward to in between those bigger-budg… [+6875 chars]"
+      "author": "Blair Marnell",
+      "title": "Game Accused Of Copying Horizon Gets Radically Updated Steam Page - GameSpot",
+      "description": "Light of Motiram's updated Steam page appears to tone down the similarities it shares with Sony's Horizon franchise.",
+      "url": "https://www.gamespot.com/articles/game-accused-of-copying-horizon-gets-radically-updated-steam-page/1100-6533796/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4546448-lightofmotiram.jpg",
+      "publishedAt": "2025-08-08T15:02:52Z",
+      "content": "Earlier this summer, a battle between gaming giants began when Sony filed a lawsuit against Tencent, alleging that the latter's upcoming game, Light of Motiram, is infringing on Sony's Horizon franch… [+1426 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Antonio G. Di Benedetto",
-      "title": "The Framework Desktop made me fall for small form factor PCs - The Verge",
-      "description": "At 4.5 liters, the Framework Desktop is tiny and super easy to assemble, with AMD Ryzen AI Max mainboard options that are great for 2.5K gaming, local content creation, or AI work.",
-      "url": "https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257878_Framework_Desktop_mini_PC_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-08-07T15:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSmall form factor PCs are nothing new, but this is a refreshing take.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics st… [+16950 chars]"
+      "author": "Cameron Faulkner",
+      "title": "8BitDo Pro 3 review: a super customizable controller that’s frustratingly limited on Switch 2 - The Verge",
+      "description": "The 8BitDo Pro 3 looks a lot like its predecessor, but with better joysticks, and more buttons. But in the Switch 2 era, it’s not the best choice.",
+      "url": "https://www.theverge.com/reviews/755307/8bitdo-pro-3-controller-review-pc-nintendo-switch-2",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-08-08T15:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA familiar design with better specs and more customization. But it doesnt check all of the boxes it should.\r\nA familiar design with better specs and more customi… [+7551 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face - The Verge",
+      "description": "Nintendo’s new My Mario collection launches in Japan on August 26th, when its free Hello, Mario! app will be available for download.",
+      "url": "https://www.theverge.com/news/756718/nintendo-super-mario-kids-hello-mario-free-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/mymario1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-08-08T14:55:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company also announced a new collection of Mario-themed products including wooden Amiibo blocks.\r\nThe company also announced a new collection of Mario-themed… [+3387 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Herb Scribner",
+      "title": "EA's \"Madden 26\" plagued with massive launch day errors - Axios",
+      "description": "Many \"Madden NFL 26\" gamers struggle to play at release time because of online server errors.",
+      "url": "https://www.axios.com/2025/08/07/ea-madden-26-servers-down-launch-release",
+      "urlToImage": "https://images.axios.com/HqU-eDLJcLa1OSDwiqxCye2iY5M=/0x0:4800x2700/1366x768/2025/08/07/1754600060996.jpeg",
+      "publishedAt": "2025-08-08T13:50:17Z",
+      "content": "Are EA servers down for \"Madden 26\" launch?\r\nDriving the news: \"Madden NFL 26\" became available Thursday at noon ET for those who preordered the game and paid for early access. \r\n<ul><li>However, man… [+2158 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "SamMobile"
       },
-      "author": "Jim Norman",
-      "title": "Little Kitty, Big City Will Soon Let You Customise Your Cat And Snap Adorable Pictures Of Them - Nintendo Life",
-      "description": "Picture Purrfect",
-      "url": "https://www.nintendolife.com/news/2025/08/little-kitty-big-city-will-soon-let-you-customise-your-cat-and-snap-adorable-pictures-of-them",
-      "urlToImage": "https://images.nintendolife.com/971a70b316d58/large.jpg",
-      "publishedAt": "2025-08-07T15:00:00Z",
-      "content": "Watch on YouTube\r\nSubscribe to Nintendo Life on YouTube830k\r\nLast year's delightful cat sim, Little Kitty, Big City, made a surprise appearance in today's Indie World showcase to reveal the upcoming … [+1087 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jim Resnick",
-      "title": "2025 Subaru WRX tS review: A scalpel-sharp chassis lets this car dance - Ars Technica",
-      "description": "Lots of suspension tweaks but no extra power for this WRX variant.",
-      "url": "https://arstechnica.com/cars/2025/08/2025-subaru-wrx-ts-review-a-scalpel-sharp-chassis-lets-this-car-dance/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_6987-1152x648.jpg",
-      "publishedAt": "2025-08-07T14:33:40Z",
-      "content": null
+      "author": "Mihai Matei",
+      "title": "Samsung plans Galaxy Watches years ahead, Watch 9 and 10 already confirmed - SamMobile",
+      "description": "Since the last few years, especially with the rise of electric vehicles (EVs), the interest and the pace of development of solid-state batteries (SSBs) have been increasing rapidly. That’s because this type of battery offers higher energy density, faster char…",
+      "url": "https://www.sammobile.com/news/future-galaxy-watches-could-feature-solid-state-batteries/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/07/Galaxy-Watch-8-1-1-1200x675.jpg",
+      "publishedAt": "2025-08-08T13:36:00Z",
+      "content": "During a recent Galaxy Watch 8 media briefing in Seoul, Samsung discussed its smartwatch strategy and how its Galaxy Watches are different from wearables made by Chinese competitors. The company also… [+2572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "DSOGaming"
       },
-      "author": "Jim Norman",
-      "title": "'Mina The Hollower', Yacht Club's Retro Zelda-Inspired Adventure, Scores Switch 2 Release Date - Nintendo Life",
-      "description": "With a free demo available today",
-      "url": "https://www.nintendolife.com/news/2025/08/mina-the-hollower-yacht-clubs-retro-zelda-inspired-adventure-scores-switch-2-release-date",
-      "urlToImage": "https://images.nintendolife.com/35a621690a496/large.jpg",
-      "publishedAt": "2025-08-07T14:17:27Z",
-      "content": "Watch on YouTube\r\nSubscribe to Nintendo Life on YouTube830k\r\nIt may have felt like a long time coming, but Shovel Knight developer Yacht Club Games kicked off today's Indie World showcase with a clos… [+1603 chars]"
+      "author": "John Papadopoulos",
+      "title": "Mafia: The Old Country – First PC Performance & DLSS 4 Impressions - DSOGaming",
+      "description": "Mafia: The Old Country uses Unreal Engine 5, and supports DLSS 4 with Multi-Frame Gen. So, here are our first PC performance impressions.",
+      "url": "https://www.dsogaming.com/pc-performance-analyses/mafia-the-old-country-first-pc-performance-dlss-4-impressions/",
+      "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2025/05/Mafia-The-Old-Country-new-feature-2.jpg",
+      "publishedAt": "2025-08-08T13:07:53Z",
+      "content": "2K Games has released the next game in the Mafia series, called Mafia: The Old Country. This new game uses Unreal Engine 5. It also supports DLSS 4 with Multi-Frame Generation. Thus, I decided to try… [+5177 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Alana Hagues",
-      "title": "Neverway Is A \"Nightmarish\" Farming RPG From The Pixel Artist Of Celeste - Nintendo Life",
-      "description": "Coming to Switch in 2026",
-      "url": "https://www.nintendolife.com/news/2025/08/neverway-is-a-nightmarish-farming-rpg-from-the-pixel-artist-of-celeste",
-      "urlToImage": "https://images.nintendolife.com/7738158e47ebf/large.jpg",
-      "publishedAt": "2025-08-07T14:15:00Z",
-      "content": "Watch on YouTube\r\nSubscribe to Nintendo Life on YouTube830k\r\nFarming sims seem to be going through a horror phase right now, and today's Indie World Showcase gave us another one that looks, quite fra… [+1136 chars]"
+      "author": "Andy Greenberg, Joseph Cox",
+      "title": "It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug - WIRED",
+      "description": "A pair of hackers found that a vape detector often found in high school bathrooms contained microphones—and security weaknesses that could allow someone to turn it into a secret listening device.",
+      "url": "https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/",
+      "urlToImage": "https://media.wired.com/photos/6893b291bafa153f296fcdbe/191:100/w_1280,c_limit/signal-2025-07-21-232711_002.jpg",
+      "publishedAt": "2025-08-08T13:00:00Z",
+      "content": "To hack the Halo 3C, they found that if they could connect to one over the network it was installed on, they could brute-force guess its password with virtually no rate limitations due to a flaw in h… [+3216 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Andrew Romero",
-      "title": "Android 16 beta schedule leaks for some of Samsung’s recent Galaxy devices - 9to5Google",
-      "description": "Samsung is getting ready to roll out access for the One UI 8 beta based on Android 16 to these devices.",
-      "url": "http://9to5google.com/2025/08/07/one-ui-8-android-16-beta-schedule-leaks-for-some-galaxy-devices/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Samsung-Galaxy-S24-Ultra-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-07T14:02:00Z",
-      "content": "Samsung is getting itself ready to launch the One UI 8 beta based on Android 16 for several Galaxy devices. A new leak details when the Galaxy S24 and S23 series will be allowed access.\r\nA recent lea… [+1327 chars]"
+      "author": "Abner Li",
+      "title": "Google Calendar for Wear OS gets M3 Expressive, Contacts and Keep Tiles next - 9to5Google",
+      "description": "Google Calendar is just beginning to roll out M3 Expressive on Android. On Wear OS, Google Calendar’s M3 Expressive Tiles are now available.",
+      "url": "http://9to5google.com/2025/08/08/wear-os-m3-expressive-tiles/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Wear-OS-6-M3-Expressive.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-08T12:45:00Z",
+      "content": "Google Calendar is just beginning to roll out M3 Expressive on Android phones and tablets. On Wear OS, Google Calendars M3 Expressive Tiles are now widely available.\r\nThere are no changes to the actu… [+1221 chars]"
     }
   ]
 }
