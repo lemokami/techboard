@@ -1,18 +1,44 @@
 {
   "status": "ok",
-  "totalResults": 61,
+  "totalResults": 66,
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Arcaracing.com"
+      },
+      "author": "Staff Report",
+      "title": "Qualifying results: West Series at Portland International Raceway - arcaracing.com",
+      "description": "See the results from a 20-minute timed qualifying session for the ARCA Menards Series West ahead of the Portland 112.",
+      "url": "https://www.arcaracing.com/2025/08/29/qualifying-results-west-series-portland/",
+      "urlToImage": "",
+      "publishedAt": "2025-08-29T21:21:21Z",
+      "content": "You have been signed up successfully.\r\nThere was a security issue.\r\nThere was an issue processing your request.\r\nYou are already subscribed to this newsletter."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "author": "Justin Kahn",
+      "title": "Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iPad, more [Update #2] - 9to5Toys",
+      "description": "Amazon has now launched its 2025 Labor Day sale, and joining the ongoing rare discounts over at B&H, there a host of notable Apple Labor Day deals up for grabs. While some of the offers below are hangovers from the past couple weeks that have either made a tr…",
+      "url": "http://9to5toys.com/2025/08/29/early-labor-day-apple-deals-live/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-weekend-sale.jpg?resize=1200%2C628&ssl=1",
+      "publishedAt": "2025-08-29T20:39:44Z",
+      "content": "Amazon has now launched its 2025 Labor Day sale, and joining the ongoing rare discounts over at B&amp;H, there a host of notable Apple Labor Day deals up for grabs. While some of the offers below are… [+1177 chars]"
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun - Ars Technica",
-      "description": "TV static and remote included.",
-      "url": "https://arstechnica.com/gadgets/2025/08/video-player-looks-like-a-1-inch-tv-from-the-60s-and-is-wondrous-pointless-fun/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/head-1152x648.jpg",
-      "publishedAt": "2025-08-28T21:29:47Z",
+      "author": "Samuel Axon",
+      "title": "With new in-house models, Microsoft lays the groundwork for independence from OpenAI - Ars Technica",
+      "description": "Microsoft is still deeply tied to OpenAI, but who knows what the future holds.",
+      "url": "https://arstechnica.com/ai/2025/08/with-new-in-house-models-microsoft-lays-the-groundwork-for-independence-from-openai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-1152x648.jpg",
+      "publishedAt": "2025-08-29T19:49:54Z",
       "content": null
     },
     {
@@ -20,104 +46,117 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Microsoft AI launches its first in-house models - The Verge",
-      "description": "Microsoft has launched two new AI models that put it in the running to compete with OpenAI, which it has poured billions into.",
-      "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-08-28T21:13:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts complicated partnership with OpenAI is adding a new twist as it releases AI models that will compete with GPT-5, DeepSeek, and all the rest.\r\nMicrosof… [+3320 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "High-severity vulnerability in Passwordstate credential manager. Patch now. - Ars Technica",
-      "description": "Vulnerability can be exploited to gain access to customers’ crown jewels.",
-      "url": "https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
-      "publishedAt": "2025-08-28T18:46:43Z",
-      "content": null
+      "author": "Richard Lawler",
+      "title": "Microsoft’s next annual update for Windows 11 is in Release Preview testing - The Verge",
+      "description": "The Windows 11 25H2 update shouldn’t take very long to install, since its features were delivered in previous downloads.",
+      "url": "https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-08-29T19:21:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Windows 11 25H2 update shouldnt take very long to install, since its features were delivered in previous downloads.\r\nThe Windows 11 25H2 update shouldnt take… [+2560 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Push Square"
       },
-      "author": "Eddie Makuch",
-      "title": "Battlefield 6 Labs Testing Program Kicks Off Again This Week, Here's How To Sign Up - GameSpot",
-      "description": "The next Labs test is coming up soon.",
-      "url": "https://www.gamespot.com/articles/battlefield-6-labs-testing-program-kicks-off-again-this-week-heres-how-to-sign-up/1100-6534336/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4558365-labslarge.jpeg",
-      "publishedAt": "2025-08-28T18:34:48Z",
-      "content": "The Battlefield 6 testing program, Battlefield Labs, is ramping back up this week following the end of the game's popular open beta earlier this month.\r\nA leaked document reveals that the next Battle… [+945 chars]"
+      "author": "Liam Croft",
+      "title": "$200 MGS Delta Collector's Edition Ridiculed Over Temu-Esque Snake Figurine - Push Square",
+      "description": "When you order Snake off Temu",
+      "url": "https://www.pushsquare.com/news/2025/08/usd200-mgs-delta-collectors-edition-ridiculed-over-temu-esque-snake-figurine",
+      "urlToImage": "https://images.pushsquare.com/2ba85f0538636/large.jpg",
+      "publishedAt": "2025-08-29T19:18:45Z",
+      "content": "Metal Gear Solid Delta: Snake Eater is a PS5 remake well worth playing no matter whether you've played it before or if this will be your first time, but we'd recommend sticking with the base version … [+1951 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "WhatsApp fixes ‘zero-click’ bug used to hack Apple users with spyware - TechCrunch",
+      "description": "A spyware vendor was behind a recent campaign that abused a vulnerability in WhatsApp to deliver an exploit capable of hacking into iPhones and Macs.",
+      "url": "https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1128759535.jpg?resize=1200,800",
+      "publishedAt": "2025-08-29T18:15:55Z",
+      "content": "WhatsApp said on Friday that it fixed a security bug in its iOS and Mac apps that was being used to stealthily hack into the Apple devices of “specific targeted users.”\r\nThe Meta-owned messaging app … [+2726 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Kotaku"
       },
-      "author": "Blair Marnell",
-      "title": "No Man's Sky Dev Teases Huge Planet And Large Oceans In Next Game - GameSpot",
-      "description": "Light No Fire may not take players out into the universe, but Hello Games co-founder Sean Murray is promising the world, literally.",
-      "url": "https://www.gamespot.com/articles/no-mans-sky-dev-teases-huge-planet-and-large-oceans-in-next-game/1100-6534353/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4558435-lightnofire.jpg",
-      "publishedAt": "2025-08-28T18:28:08Z",
-      "content": "Nearly a decade after its release, No Man's Sky continues to get updates from developer Hello Games. Now, Voyagers, one of the latest updates for No Man's Sky, has inspired something special for the … [+1247 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "The best Labor Day sales on 4K TVs from Sony, Samsung, TCL, and more - The Verge",
-      "description": "Labor Day sales have arrived for big-screened 4K TVs from Sony, Samsung, and more, just in time for the start of the NFL season and the MLB post-season.",
-      "url": "https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/QM6K_98.webp?quality=90&strip=all&crop=0%2C3.4410275839088%2C100%2C93.117944832182&w=1200",
-      "publishedAt": "2025-08-28T18:19:17Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhether youre gearing up for sports viewing parties, or you just want a sweet upgrade for yourself, weve got options.\r\nWhether youre gearing up for sports viewin… [+8394 chars]"
+      "author": "Zack Zwiezen",
+      "title": "Capcom Confirms Pragmata Isn't Secretly A Mega Man Game - Kotaku",
+      "description": "Fans have speculated for months that the upcoming sci-fi game is actually a Mega Man reboot, but that ain't the case",
+      "url": "https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/08/VS-YouTube-Pragmata-FirstContactTrailerPS5Games-151-1-1200x675.jpg",
+      "publishedAt": "2025-08-29T17:47:04Z",
+      "content": "For many months now, some fans online have suggested that Capcom’s upcoming sci-fi adventure Pragmata is actually a secret Mega Man reboot. However, Pragmata’s producer says it is not, even laughing … [+2797 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Gordon Jackson",
-      "title": "‘Resident Evil Requiem’ Introduces Its Latest Heavy, the Tentatively Named ‘Big Mama’ - Gizmodo",
-      "description": "Move over, Lady Dimitrescu. It's Big Mama's time to shine.",
-      "url": "https://gizmodo.com/resident-evil-requiem-introduces-its-latest-heavy-the-tentatively-named-big-mama-2000649653",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Big-Mama-2-1200x675.jpg",
-      "publishedAt": "2025-08-28T17:50:15Z",
-      "content": "In a new interview with IGN, Koshi Nakanishi, the director of Resident Evil Requiem Evil, and its producer, Masato Kumazawa, sat down to discuss the game‘s key “stalker” enemya persistent, giant-size… [+3606 chars]"
+      "author": "AJ Dellinger",
+      "title": "Starlink Puts the Last Nail in Burning Man’s Coffin - Gizmodo",
+      "description": "First the Orgy Dome gets destroyed, now this.",
+      "url": "https://gizmodo.com/starlink-puts-the-last-nail-in-burning-mans-coffin-2000650597",
+      "urlToImage": "https://gizmodo.com/app/uploads/2023/09/a794f09912ecc8ad26352b340fd3f2ad.jpg",
+      "publishedAt": "2025-08-29T17:46:16Z",
+      "content": "Whatever embers may still be left burning from the original spirit of Burning Man are holding on for dear life as Silicon Valley tries to put them out for good. The latest dagger delivered to the Boh… [+2350 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "Konami Hopes To Revive ‘Metal Gear’ Game Franchise - Bloomberg.com",
+      "description": "Metal Gear Solid Delta: Snake Eater , a remake of a 2004 entry, came out this week to positive reviews",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-08-29/konami-hopes-to-revive-metal-gear-game-franchise",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if6MhIpruBgE/v1/1200x675.jpg",
+      "publishedAt": "2025-08-29T17:00:19Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Ryan Christoffel",
-      "title": "Apple Watch Ultra 3’s software might be another reason to upgrade from Ultra 1 - 9to5Mac",
-      "description": "Two years after the last model, Apple Watch Ultra 3 is almost here, and software might be yet another reason for Ultra 1 owners to upgrade.",
-      "url": "https://9to5mac.com/2025/08/28/apple-watch-ultra-3s-software-might-be-another-reason-to-upgrade-from-ultra-1/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Apple-Watch-Ultra-Release.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-28T17:43:00Z",
-      "content": "Two years after its predecessor launched, Apple Watch Ultra 3 is almost here. And in addition to the array of hardware upgrades coming, the Ultra 3 could also push Ultra 1 owners to upgrade with a va… [+2092 chars]"
+      "author": "Chance Miller",
+      "title": "AirPods 3 are imminent, here’s why I’m upgrading - 9to5Mac",
+      "description": "Apple’s “Awe dropping” event is officially set for September 9, and it’s likely to focus on the iPhone 17 and...",
+      "url": "https://9to5mac.com/2025/08/29/why-airpods-pro-3-will-be-an-instant-upgrade-for-me/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/airpods-pro-3-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-29T16:57:00Z",
+      "content": "Apples Awe dropping event is officially set for September 9, and its likely to focus on the iPhone 17 and new Apple Watch models. Based on the latest reporting, however, the highly-anticipated AirPod… [+2378 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "9to5google.com"
       },
-      "author": "Andy Robinson",
-      "title": "Sony is reportedly planning a Nintendo Switch-style PlayStation 6 portable - Video Games Chronicle",
-      "description": "New report claims a planned PS6 portable will be dockable like Switch",
-      "url": "https://www.videogameschronicle.com/news/sony-is-reportedly-planning-a-nintendo-switch-style-playstation-6-portable/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/09/playstation-30th-annivesary-pre-orders.jpg",
-      "publishedAt": "2025-08-28T17:13:33Z",
-      "content": "Sony is planning a PlayStation 6 handheld with Nintendo Switch-style television docking capabilities, its claimed.\r\nThats according to Moores Law is Dead, a YouTube channel that has previously leaked… [+2047 chars]"
+      "author": "Ben Schoon",
+      "title": "Some early Pixel 10 buyers report wireless charging issues; start and stop, slow speeds - 9to5Google",
+      "description": "Google's Pixel 10 series seems to be running into some minor wireless charging issues with slower speeds and intermittent charging problems.",
+      "url": "http://9to5google.com/2025/08/29/google-pixel-10-wireless-charging-issues-slow/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-32-qi2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-29T16:45:00Z",
+      "content": "As Pixel 10 devices are arriving on doorsteps this week, some of the early issues are coming to light. For a number of Pixel 10 owners, some wireless chargers seem to be presenting an issue.\r\nWireles… [+2493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "An Electrician Begs: Never Plug These 7 Devices Into Extension Cords - CNET",
+      "description": "Extension cords are a good way to reach those out of reach outlets, but it's dangerous to plug certain devices into them.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/an-electrician-beds-never-plug-these-7-devices-into-extension-cords/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/84520dd0a6fa07421e1b750f857404a9231a86b8/hub/2024/11/25/9b20b666-94f7-4e15-8fb5-fe2d4c46b849/gettyimages-6551-000359.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-08-29T16:30:00Z",
+      "content": "Whether you live in a cramped apartment or a house with plenty of space, everyone needs more outlets. An extension cord can be an easy way to ensure you can plug everything in. However, a variety of … [+5416 chars]"
     },
     {
       "source": {
@@ -125,103 +164,77 @@
         "name": "Nintendoeverything.com"
       },
       "author": "Brian",
-      "title": "Nintendo now hosting 2025 Blockbuster sale on the Switch eShop - Nintendo Everything",
-      "description": "Nintendo 2025 Blockbuster sale on the Switch eShop with a bunch of different games, including some at new lows.",
-      "url": "https://nintendoeverything.com/nintendo-switch-2025-blockbuster-sale/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Blockbuster-sale-2025.jpg",
-      "publishedAt": "2025-08-28T17:07:36Z",
-      "content": "Nintendo has rounded up a bunch of third-party games in a new 2025 Blockbuster Sale.\r\nTo be clear, there’s nothing from Nintendo itself here (unless you’re counting Mario + Rabbids). However, a bunch… [+3263 chars]"
+      "title": "Yooka-Replaylee reveals Nintendo Switch 2 release date, new trailer - Nintendo Everything",
+      "description": "Yooka-Replaylee just got its release date on Nintendo Switch 2, and here's a brand new trailer to celebrate.",
+      "url": "https://nintendoeverything.com/yooka-replaylee-reveals-nintendo-switch-2-release-date-new-trailer/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Yooka-Replaylee-launch.jpg",
+      "publishedAt": "2025-08-29T16:28:43Z",
+      "content": "Playtonic has just come through with a release date for Yooka-Replaylee, their new Nintendo Switch 2 game. Fans can pick it up on October 9, 2025.\r\nYooka-Replaylee is a remake of the original Yooka-L… [+3424 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The future of AI hardware isn’t one device — it’s an entire ecosystem - The Verge",
+      "description": "Google’s Pixel hardware strategy is an example of how AI (or in this case, Gemini) might be the thing that cements walled gardens and product ecosystems.",
+      "url": "https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257925_future_of_AI_hardware_CVirginiaA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-08-29T15:30:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle says, The future will be a very diverse set of accessories\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author … [+8285 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Barbara Krasnoff",
+      "title": "Hisense’s take on the Samsung Frame TV is $300 off - The Verge",
+      "description": "Along with Hisense’s 55-inch CanvasTV, you can get savings on a Lego Star Wars starship, Samsung’s upcoming Galaxy Tab devices, and a Toyapolooza",
+      "url": "https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot-2025-08-29-at-10.32.02%E2%80%AFAM.png?quality=90&strip=all&crop=0,15.145848915482,100,69.708302169035",
+      "publishedAt": "2025-08-29T15:15:32Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, savings on a Lego Star Wars starship, Samsungs upcoming Galaxy Tab devices, and a Toyapolooza\r\nPlus, savings on a Lego Star Wars starship, Samsungs upcomin… [+3992 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Elden Ring Nightreign Endless Mode Finds New Way To Punish Fans - Kotaku",
-      "description": "FromSoftware's new Deep of Night difficulty mode has officially been revealed",
-      "url": "https://kotaku.com/elden-ring-nightreign-deep-night-difficulty-mode-when-2000620989",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/nightrieng-1200x675.jpg",
-      "publishedAt": "2025-08-28T16:46:27Z",
-      "content": "Revealed weeks ago in a datamine, Elden Ring: Nightreign publisher Bandai Namco has officially confirmed a new endgame difficulty mode coming to the multiplayer roguelite next month. Deep of Night fe… [+2234 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Brody Ford",
-      "title": "Microsoft Software Engineer Dies on Silicon Valley Campus at 35 - Bloomberg",
-      "description": "A 35-year-old Microsoft Corp. software engineer has died at the company’s Silicon Valley campus.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-28/microsoft-engineer-pratik-pandey-dies-on-silicon-valley-campus",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU0Z1cAjXBeI/v1/1200x797.jpg",
-      "publishedAt": "2025-08-28T16:32:41Z",
-      "content": "A 35-year-old Microsoft Corp. software engineer has died at the companys Silicon Valley campus.\r\nPratik Pandey badged into the office on the evening of Aug. 19 and was found dead in the early hours o… [+136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamedeveloper.com"
+        "name": "Pokemon.com"
       },
       "author": null,
-      "title": "450 Diablo developers vote to unionize under CWA - Game Developer",
-      "description": "Diablo developers have assembled 'one of the largest wall-to-wall unions' at Blizzard Entertainment.",
-      "url": "https://www.gamedeveloper.com/business/450-diablo-developers-vote-to-unionize-under-cwa",
-      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt45b1d99488b9b9ef/68b07f76665d78bce408c714/diabloseason9keyartunionfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "publishedAt": "2025-08-28T16:13:31Z",
-      "content": "The forces of hell are unionizing. Today the Communication Workers of America has announced that over 450 game developers at Blizzard Entertainment who work on the Diablo series have voted to unioniz… [+2844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tipranks.com"
-      },
-      "author": "Radhika Saraogi",
-      "title": "Data Breach at Salesforce (NYSE:CRM) Has Now Reached Google’s Gmail - TipRanks",
-      "description": "A recent breach involving the software company Salesforce ($CRM) has escalated into a global cybersecurity crisis, affecting companies such as Alphabet’s ($GOOGL) G...",
-      "url": "https://www.tipranks.com/news/data-breach-at-salesforce-nysecrm-has-now-reached-googles-gmail",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/shutterstock_2613152517-750x406.jpg",
-      "publishedAt": "2025-08-28T15:59:52Z",
-      "content": "Story HighlightsSalesforce data breach targeting Google’s business customers could lead to phishing attacks affecting up to 2.5 million users."
+      "title": "Get the Latest Information on the 2026 Pokémon Championship Series - Pokemon.com",
+      "description": "Details on Pokémon UNITE Regional Leagues, new hardware requirements for live events, and more are now available on the Championship Series website.",
+      "url": "https://www.pokemon.com/us/pokemon-news/get-the-latest-information-on-the-2026-pokemon-championship-series",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/update/play-pokemon-169.png",
+      "publishedAt": "2025-08-29T15:14:12Z",
+      "content": "Earlier this year, the 2026 Pokémon Championship Series unveiled a suite of changes that included an adjustment to Swiss tournament rounds, end-of-round procedures in the Pokémon Trading Card Game, a… [+846 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "Blogging service TypePad is shutting down and taking all blog content with it - Ars Technica",
-      "description": "After years of neglect, TypePad and everything on it goes away on September 30.",
-      "url": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/typepad-logo.png",
-      "publishedAt": "2025-08-28T15:46:17Z",
+      "author": "Kyle Orland",
+      "title": "Today’s game consoles are historically overpriced - Ars Technica",
+      "description": "Ars analysis shows missing price cuts are costing console consumers hundreds of dollars.",
+      "url": "https://arstechnica.com/gaming/2025/08/todays-game-consoles-are-historically-overpriced/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/moneyperson-1152x648.jpg",
+      "publishedAt": "2025-08-29T15:10:47Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Thegamepost.com"
+        "name": "Pokemon.com"
       },
       "author": null,
-      "title": "Bungie’s Marathon Is Getting Its Longest Playtest Yet: 30 Days, $500 \"Thank You\" Reward - The Game Post",
-      "description": "Bungie has started inviting select players to a month-long Marathon user research study starting next month.",
-      "url": "https://thegamepost.com/bungie-marathon-longest-playtest-30-days-500-reward/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/08/bungie-marathon-longest-playtest-30-days-500-reward-3.webp",
-      "publishedAt": "2025-08-28T15:36:55Z",
-      "content": "Bungie has started inviting select players to a month-long Marathon user research study starting next month.\r\nBungies extraction shooter Marathon is still in active development and has been running r… [+3760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "Apple Labor Day Sales Include Year's Best Prices on AirPods, iPads, MacBooks, and More - MacRumors",
-      "description": "It's almost Labor Day weekend and a number of retailers have introduced deals that should be advantageous for anyone shopping around for Apple...",
-      "url": "https://www.macrumors.com/2025/08/28/apple-labor-day-sales-2025/",
-      "urlToImage": "https://images.macrumors.com/t/KWxuAusewlmZ-T2Jsd6d2iMfTBs=/2500x/article-new/2022/08/Labor-Day-Deals-Feature0011.jpg",
-      "publishedAt": "2025-08-28T15:21:19Z",
-      "content": "It's almost Labor Day weekend and a number of retailers have introduced deals that should be advantageous for anyone shopping around for Apple products and related accessories. In this article we've … [+4597 chars]"
+      "title": "Play at a Pokémon TCG: Mega Evolution Prerelease Event - Pokemon.com",
+      "description": "Open booster packs from the Mega Evolution Build & Battle Box at a Prerelease event near you, starting September 13, 2025.",
+      "url": "https://www.pokemon.com/us/pokemon-news/play-at-a-pokemon-tcg-mega-evolution-prerelease-event",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me01-build-battle-box/me01-build-battle-box-a-169-en.png",
+      "publishedAt": "2025-08-29T15:04:59Z",
+      "content": "The latest Pokémon Trading Card Game expansion, Mega Evolution, arrives September 26, 2025, but you can visit your local game store to play with it early! Starting September 13, 2025, select retailer… [+3866 chars]"
     },
     {
       "source": {
@@ -229,38 +242,25 @@
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "Live Activities keep getting better, and iOS 26 continues that trend - 9to5Mac",
-      "description": "Live Activities have become one of the iPhone’s best features, and iOS 26 offers new upgrades that make them better than ever.",
-      "url": "https://9to5mac.com/2025/08/28/live-activities-keep-getting-better-and-ios-26-continues-that-trend/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/live-activities-boarding-pass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-08-28T15:20:00Z",
-      "content": "Live Activities have become one of the best iPhone features, and theyre getting even better in iOS 26. Heres whats new.\r\nLast year, Apples Sports app gained support for scheduling Live Activities so … [+2249 chars]"
+      "title": "Brand new iPhone 17 accessories are coming from Apple, here’s what’s rumored - 9to5Mac",
+      "description": "The iPhone 17 is almost here, and Apple is rumored to be launching several brand new accessories with its latest flagship.",
+      "url": "https://9to5mac.com/2025/08/29/brand-new-iphone-17-accessories-are-coming-from-apple-heres-whats-rumored/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iphone-17-lineup-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-08-29T15:01:00Z",
+      "content": "Apple is about to unveil its iPhone 17 lineup, and with it several brand new accessories are expected to debut. Joining the standard Apple silicone cases, heres everything new that rumors say Apple h… [+2694 chars]"
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "Nintendoeverything.com"
       },
-      "author": "Alex Perry",
-      "title": "Google is shutting down Android sideloading in the name of security - Mashable",
-      "description": "All apps need to come from verified developers now.",
-      "url": "https://mashable.com/article/google-android-sideloading-apps-security",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07q3HUZwP0qF2XkLuzN3lED/hero-image.fill.size_1200x675.v1756392629.jpg",
-      "publishedAt": "2025-08-28T15:11:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "Honor launches the world’s thinnest foldable in Europe - The Verge",
-      "description": "The Honor Magic V5 is going on sale in Europe alongside the MagicPad 3 tablet and MagicBook Art 14 laptop.",
-      "url": "https://www.theverge.com/news/767351/honor-magic-v5-foldable-magicpad-3-magicbook-art-14",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/honor-magic-v5-07.jpg?quality=90&strip=all&crop=0%2C10.727733990251%2C100%2C78.544532019498&w=1200",
-      "publishedAt": "2025-08-28T14:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Magic V5 arrives alongside a new tablet and laptop.\r\nThe Magic V5 arrives alongside a new tablet and laptop.\r\nHonor is bringing the Magic V5 the worlds thinn… [+3341 chars]"
+      "author": "Brian",
+      "title": "Fear Effect just got a shadowdrop on Nintendo Switch - Nintendo Everything",
+      "description": "The PlayStation 1 game Fear Effect has just come to Nintendo Switch out of nowhere.",
+      "url": "https://nintendoeverything.com/fear-effect-just-got-a-shadowdrop-on-nintendo-switch/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Fear-Effect-remake-shadowdrop.jpg",
+      "publishedAt": "2025-08-29T14:58:53Z",
+      "content": "Surprise: Fear Effect is now available on Nintendo Switch.\r\nLimited Run Games had previously announced plans to bring the game to the console. However, what we didn’t know is that it would be launchi… [+1063 chars]"
     }
   ]
 }
