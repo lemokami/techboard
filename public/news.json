@@ -1,253 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 22,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ben Schoon",
-      "title": "'Meta Ray-Ban Display' glasses leak with impressive heads-up display, thicker design [Video] - 9to5Google",
-      "description": "A massive leak has revealed Meta's new Ray-Ban Display smart glasses which, as the name implies, have a display on the lens.",
-      "url": "http://9to5google.com/2025/09/15/meta-ray-ban-display-glasses-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/meta-ray-ban-display-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-15T20:45:00Z",
-      "content": "Ahead of Meta Connect later this week, an early video has revealed Meta’s new Ray-Ban smart glasses that have a built-in display.\r\nAs spotted by UploadVRearlier today, Meta briefly posted a video to … [+1364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Super Mario Galaxy + Super Mario Galaxy 2 to offer mouse controls on Nintendo Switch 2 - Nintendo Everything",
-      "description": "Nintendo has now confirmed mouse control support for Super Mario Galaxy + Super Mario Galaxy 2 on Switch 2 with the Joy-Con 2.",
-      "url": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-to-offer-mouse-controls-on-nintendo-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-1-2-mouse-controls-Switch-2.jpg",
-      "publishedAt": "2025-09-15T18:43:34Z",
-      "content": "Another tidbit has surfaced about Super Mario Galaxy + Super Mario Galaxy 2, revealing that mouse controls will be supported on Nintendo Switch 2. This comes from Nintendo’s Japanese website.\r\nNinten… [+1162 chars]"
+      "author": "Emma Roth",
+      "title": "Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge",
+      "description": "The organization argues that ending Windows 10 support will ‘strand millions of consumers.’",
+      "url": "https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-16T19:49:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe organization argues that ending Windows 10 support will strand millions of consumers.\r\nThe organization argues that ending Windows 10 support will strand mil… [+2613 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Ivan Mehta",
-      "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
-      "description": "Other features include a call screening assistant, a new gaming and preview app, in-app translation across the system, and updates to Genmoji and Image Playground apps.",
-      "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-4.08.52PM.jpg?w=1034",
-      "publishedAt": "2025-09-15T17:45:19Z",
-      "content": "Apple’s iOS 26 software update for iPhones is available Monday to people who have an iPhone 11, iPhone SE 2, and later. iOS 26’s marquee feature is Apple’s Liquid Glass design, which includes element… [+7082 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft’s Office apps now have free Copilot Chat features - The Verge",
-      "description": "Microsoft is adding Copilot Chat to its Office apps. The free AI features are appearing in Word, Excel, PowerPoint, Outlook, and OneNote.",
-      "url": "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Layered-WXPO.png?quality=90&strip=all&crop=0%2C2.1787525250443%2C100%2C95.642494949911&w=1200",
-      "publishedAt": "2025-09-15T17:32:55Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft 365 users are getting a new Copilot Chat sidebar in Word, Excel, PowerPoint, Outlook, and OneNote.\r\nMicrosoft 365 users are getting a new Copilot Chat … [+2970 chars]"
+      "author": "Aisha Malik",
+      "title": "Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch",
+      "description": "The app will allow people to use an Alt + Space shortcut to instantly search for information from their computer files, installed apps, Google Drive files, and the web.",
+      "url": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-2.10.31PM.png?resize=1200,688",
+      "publishedAt": "2025-09-16T18:24:22Z",
+      "content": "Google announced on Tuesday that it’s launching a new experimental app for Windows that’s designed to help people find what they need faster. The app will allow people to use an Alt + Space shortcut … [+1020 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "GameSpot"
       },
-      "author": "Benjamin Mayo",
-      "title": "Apple releases tvOS 26 software update for Apple TV, here’s what’s new - 9to5Mac",
-      "description": "Apple today released the brand new tvOS 26 version for the Apple TV 4K set-top box. The update is available...",
-      "url": "https://9to5mac.com/2025/09/15/apple-releases-tvos-26-software-update-for-apple-tv-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/tvOS-26-hero-07.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-15T17:28:00Z",
-      "content": "Apple today released the brand new tvOS 26 version for the Apple TV 4K set-top box. The update is available for Apple TV 4K and Apple TV HD users, although not all features are available on older har… [+5320 chars]"
+      "author": "Chris Compendio",
+      "title": "Xbox App Now Launches Games From Steam And Other Game Stores - GameSpot",
+      "description": "The long-promised aggregated library update finally comes to all Xbox PC users.",
+      "url": "https://www.gamespot.com/articles/xbox-app-now-launches-games-from-steam-and-other-game-stores/1100-6534775/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18504982/4568973-xboxrogally.jpg",
+      "publishedAt": "2025-09-16T17:30:10Z",
+      "content": "Microsoft is hoping to turn the Xbox app into the one-stop destination for players to launch games on PC and Windows handheld devices, pushing an update that integrates titles from other major gaming… [+2112 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "PCGamesN"
       },
-      "author": "Ryan Christoffel",
-      "title": "AirPods just got these brand new features in iOS 26 - 9to5Mac",
-      "description": "AirPods are getting a variety of big and small new features in iOS 26, here’s an overview of everything new.",
-      "url": "https://9to5mac.com/2025/09/15/airpods-just-got-these-brand-new-features-in-ios-26/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-15T17:21:00Z",
-      "content": "iOS 26 is a major update for iPhone users, but it comes with a variety of new features for AirPods users tooespecially anyone with AirPods Pro 2, AirPods 4, or the new AirPods Pro 3. Here are the upg… [+2815 chars]"
+      "author": "Lauren Bergin",
+      "title": "Bethesda deletes Indiana Jones clip after accusations that it mocks Charlie Kirk - PCGamesN",
+      "description": "Bethesda's now-deleted X post appears to have been part of a wider social media push for the new Indiana Jones and the Great Circle DLC.",
+      "url": "https://www.pcgamesn.com/indiana-jones-and-the-great-circle/clip-removed-fascism-row",
+      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/indiana-jones-and-the-great-circle-dlc-video-backlash-removed-order-of-giants.jpg",
+      "publishedAt": "2025-09-16T16:00:15Z",
+      "content": "Following the launch of Indiana Jones and the Great Circle's new DLC, Order of Giants, Bethesda appears to have deleted an X post from September 14 featuring a clip of Indy petting a cat and saying \"… [+1725 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GSMArena.com"
       },
-      "author": "Kenneth Shepard",
-      "title": "Overwatch 2 Reveals Persona 5 Skins For Mercy, Genji, More - Kotaku",
-      "description": "The Phantom Thieves are joining in the Fortnite-ification of Blizzard’s hero shooter",
-      "url": "https://kotaku.com/overwatch-2-persona-5-skins-crossover-mercy-genji-joker-2000625739",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/G05k6glWQAAWLNv-1200x675.jpg",
-      "publishedAt": "2025-09-15T17:16:24Z",
-      "content": "Overwatch 2s Persona 5collaboration was announced shortly before the games current season began, and at the time, we didnt know who would be dressing up as a Phantom Thief in Blizzards hero shooter. … [+1720 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app - The Verge",
-      "description": "The last major macOS update for Intel-based Macs brings new translation capabilities and Apple Intelligence features.",
-      "url": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/macos1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "publishedAt": "2025-09-15T17:07:06Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe last major macOS update for Intel-based Macs brings new translation capabilities and Apple Intelligence features.\r\nThe last major macOS update for Intel-base… [+2772 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "watchOS 26 is now available with a new wrist flick gesture and Notes on your wrist - The Verge",
-      "description": "First announced at WWDC 2025, watchOS 26 is now available and brings new health features, translation capabilities, and gestures.",
-      "url": "https://www.theverge.com/news/777319/apple-watchos-26-available-update-download",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/watchOS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-15T17:06:29Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYour Apple Watch can now motivate you during workouts, evaluate your sleep, and warn you about high blood pressure.\r\nYour Apple Watch can now motivate you during… [+4171 chars]"
+      "author": "Peter",
+      "title": "Motorola Moto G36 surfaces on TENAA with 7,000mAh battery, 6.72\" 1080p+ LCD - GSMArena.com news - GSMArena.com",
+      "description": "This sounds like the same display as on the Moto G56, but paired with a much larger battery - the G56 only has 5,300mAh capacity.",
+      "url": "https://www.gsmarena.com/motorola_moto_g36_surfaces_on_tenaa_with_7000mah_battery_672_1080p_lcd-news-69517.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/motorola-moto-g36-tenaa/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-09-16T15:48:02Z",
+      "content": "Motorola has been filling in the Moto G_6 ranks with phones like the recently announced Moto G06 and G06 Power. Another new model is on the way, the Motorola XT2533-4, which just landed on TENAA. Thi… [+1647 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Tipranks.com"
       },
-      "author": "Vic Hood",
-      "title": "Hollow Knight: Silksong's surprise release date was \"a little callous,\" says Hell is Us lead - GamesIndustry.biz",
-      "description": "\"Nowadays, getting a window where you're pretty much alone is almost impossible,\" says Hell is Us creative director Jonathan Jacques-Belletête",
-      "url": "https://www.gamesindustry.biz/hollow-knight-silksongs-surprise-release-date-was-a-little-callous-says-hell-is-us-lead",
-      "urlToImage": "https://assetsio.gnwcdn.com/UX86s5Jgxan0b8Jy2TrVebne-2284955344.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-09-15T15:51:11Z",
-      "content": "Hell is Us' creative director, Jonathan Jacques-Belletête, has described Team Cherry's surprise reveal of Hollow Knight: Silksong's release date just two weeks before its launch as \"a little callous.… [+3440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cosmic Book News"
-      },
-      "author": "Matt McGloin",
-      "title": "Bethesda Faces Backlash After Posting Video Mocking Charlie Kirk Assassination - Cosmic Book News",
-      "description": "Bethesda faces backlash after posting and deleting a video referencing Charlie Kirk’s assassination, with a producer’s posts adding to the controversy.",
-      "url": "https://cosmicbook.news/bethesda-charlie-kirk-controversy",
-      "urlToImage": "https://cosmicbook.news/wp-content/uploads/2025/09/bethesda-charlie-kirk-1.webp",
-      "publishedAt": "2025-09-15T15:26:00Z",
-      "content": "Bethesda now faces backlash after posting a short gameplay clip on X that included a political message before quickly deleting it, which follows the assassination of Charlie Kirk last Wednesday.\r\nThe… [+3694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UploadVR"
-      },
-      "author": "David Heaney",
-      "title": "Snap OS 2.0 Brings The AR Glasses Closer To Consumer-Ready - UploadVR",
-      "description": "Snap OS 2.0 is out now, adding and improving first-party apps like Browser, Gallery, and Spotlight to bring the AR platform closer to being ready for consumers.",
-      "url": "https://www.uploadvr.com/snap-os-2-0-spectacles-specs-consumer-ar/",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/09/Snap-OS-2.0-apps.png",
-      "publishedAt": "2025-09-15T15:22:30Z",
-      "content": "Snap OS 2.0 is out now, adding and improving first-party apps like Browser, Gallery, and Spotlight to bring the AR platform closer to being ready for consumers.\r\nIf you're unfamiliar, the current Sna… [+6037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Pokémon Legends: Z-A’s DLC And Online Sub Sparks Backlash - Kotaku",
-      "description": "Between paid DLC and requiring ranked online play, collecting every Mega form will cost you more than the price of entry",
-      "url": "https://kotaku.com/pokemon-legends-z-a-mega-dimension-dlc-raichu-ranked-2000625708",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/bafkreihokrm6jajkuginccsixscpbnn-1200x675.jpg",
-      "publishedAt": "2025-09-15T15:06:06Z",
-      "content": "There were plenty of really exciting announcements about Pokémon Legends: Z-A during last weeks Nintendo Direct, with fans especially thrilled that several Pokémon who probably shouldve gotten Mega E… [+5132 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Gemini leapfrogs ChatGPT on a wave of AI-generated 3D figurines - The Verge",
-      "description": "After a viral AI trend, Gemini is ahead of ChatGPT on app store rankings.",
-      "url": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gemini_Generated_Rob_Verge.png?quality=90&strip=all&crop=0,36.595336221168,100,38.205745012028",
-      "publishedAt": "2025-09-15T14:59:52Z",
-      "content": "<ul><li></li><li></li></ul>\r\nGoogle narrows the gap with ChatGPT as millions tap Nano Banana to make hyperrealistic 3D figurines.\r\nGoogle narrows the gap with ChatGPT as millions tap Nano Banana to m… [+4070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phoronix"
-      },
-      "author": null,
-      "title": "The Performance Cost To Ubuntu WSL2 On Windows 11 25H2 - Phoronix",
-      "description": "It's been a while since delivering any benchmarks on Phoronix of Microsoft's Windows Subsystem for Linux (WSL2) for running Linux applications and other software under the confines of Windows 11.",
-      "url": "https://www.phoronix.com/review/windows-11-wsl2-2025",
-      "urlToImage": "https://www.phoronix.net/image.php?id=windows-11-wsl2-2025&image=windows_wsl2_3",
-      "publishedAt": "2025-09-15T14:50:00Z",
-      "content": "It's been a while since delivering any benchmarks on Phoronix of Microsoft's Windows Subsystem for Linux (WSL2) for running Linux applications and other software under the confines of Windows 11. Whe… [+985 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "See full bio",
-      "title": "Amazon Set to Unveil Upgraded Home and Entertainment Hardware Later This Month - CNET",
-      "description": "Expect possible updates to Echo, Kindle and Fire TV devices at Amazon's Sept. 30 event in New York.",
-      "url": "https://www.cnet.com/home/smart-home/amazon-set-to-unveil-upgraded-home-and-entertainment-hardware-later-this-month/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8ad32abe5c9defa6706e1e0a096c5665143ac525/hub/2024/10/05/8968e66e-71ab-4aab-aef5-cb830350f514/amazon-devices-woot-prime-day-oct-2024.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-15T14:41:00Z",
-      "content": "Amazon is set to announce a slew of refreshed products at its annual fall hardware event, which the company announced Monday will take place Sept. 30 in New York City.\r\nAmazon has a wide-ranging prod… [+733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCWorld"
-      },
-      "author": "Hans-Christian Dirscherl",
-      "title": "Your Windows 10 PC is reaching its end in 30 days. Here are your options - PCWorld",
-      "description": "Microsoft recently \"reminded\" all Windows 10 users that the operating system won't be supported anymore.",
-      "url": "https://www.pcworld.com/article/2909284/your-windows-10-pc-is-reaching-its-end-in-30-days-here-are-your-options.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/monticello-Shutterstock.com_-1.jpg?quality=50&strip=all&w=1024",
-      "publishedAt": "2025-09-15T14:38:00Z",
-      "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWe’re at the 30-day mark before Windows 10’s end of … [+3556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Ethan",
-      "title": "Donkey Kong Bananza: DK Island & Emerald Rush DLC review - Nintendo Everything",
-      "description": "Following the launch of Donkey Kong Bananza: DK Island & Emerald Rush, here's a review of the new DLC.",
-      "url": "https://nintendoeverything.com/donkey-kong-bananza-dk-island-emerald-rush-dlc-review/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-DK-Island-Emerald-Rush-Review.jpg",
-      "publishedAt": "2025-09-15T14:12:15Z",
-      "content": "System: Switch 2Release date: September 12, 2025Developer: NintendoPublisher: Nintendo\r\nAll things considered, it seems safe to say that fans don’t appreciate Nintendo’s price antics lately. The rece… [+6126 chars]"
+      "author": "Joel Baglole",
+      "title": "Alphabet-Owned (GOOGL) YouTube Says It’s Paid $100 Billion to Creators - TipRanks",
+      "description": "The video-sharing platform turns 20 this year.",
+      "url": "https://www.tipranks.com/news/alphabet-owned-googl-youtube-says-its-paid-100-billion-to-creators",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/aaa-98-750x406.jpg",
+      "publishedAt": "2025-09-16T15:35:58Z",
+      "content": ""
     },
     {
       "source": {
         "id": null,
         "name": "MacRumors"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Watch's New Hypertension Notifications Feature is Now Available - MacRumors",
-      "description": "Ahead of watchOS 26 being released today, Apple has enabled the new Hypertension Notifications feature on compatible Apple Watch models in the U.S....",
-      "url": "https://www.macrumors.com/2025/09/15/apple-watch-hypertension-notifications-now-live/",
-      "urlToImage": "https://images.macrumors.com/t/gMUbCxOok0aNno7r68O161Tgm5c=/2500x/article-new/2025/09/Hypertension-Notifications-Feature.jpg",
-      "publishedAt": "2025-09-15T14:00:34Z",
-      "content": "Ahead of watchOS 26 being released today, Apple has enabled the new Hypertension Notifications feature on compatible Apple Watch models in the U.S. and many other countries.\r\nThe feature received cle… [+1321 chars]"
+      "author": "Hartley Charlton",
+      "title": "iPhone 17 Pro vs. 17 Pro Max Buyer's Guide: 8 Differences Compared - MacRumors",
+      "description": "Apple recently unveiled the iPhone 17 Pro and iPhone 17 Pro Max, featuring a new Fusion telephoto camera, a brighter display, the A19 Pro chip, and...",
+      "url": "https://www.macrumors.com/guide/iphone-17-pro-vs-17-pro-max/",
+      "urlToImage": "https://images.macrumors.com/t/myq0N5iVZ0Q9DG_s0E_XejgPgdY=/1600x/article-new/2025/09/iphone-17-pro-orange.jpg",
+      "publishedAt": "2025-09-16T14:50:12Z",
+      "content": "Apple recently unveiled the iPhone 17 Pro and ‌iPhone 17 Pro‌ Max, featuring a new Fusion telephoto camera, a brighter display, the A19 Pro chip, and more. As Apple's premium flagship offerings, the … [+3946 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "AT&T’s AI call-screening tool uses your call history to filter out spam - The Verge",
+      "description": "AT&T is launching an AI-powered assistant that can pick up calls from unknown numbers and determine whether to pass them on to you or take a message.",
+      "url": "https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK158_ATT_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-16T13:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe network-based assistant will automatically screen calls from unknown numbers.\r\nThe network-based assistant will automatically screen calls from unknown numbe… [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET",
+      "description": "The Roku TV Smart Projector D1R Cube offers 1080p HD, 330 ANSI lumens, and dual 5W speakers, plus support for other Roku speakers.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-first-tv-projector-gives-you-a-150-inch-screen-for-less-than-200/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0e915bd6fb4b652a888ae5b6a5cf12dd35626843/2025/09/15/2269b475-bd0a-4cee-8e3c-e7cb407ceec3/roku-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-16T13:00:00Z",
+      "content": "Roku\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The first Roku TV projector is now available for purchase.</li><li>Made by Aurzen, the Cube works indoors … [+2375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Joe Tilleli",
+      "title": "Apple M4 Mac Mini Drops Below Prime Day Pricing, A Rare Discount Likely Triggered by New Apple Launches - Kotaku",
+      "description": "Save $100 on the 2024 model of Apple's Mac Mini with the M4 chip for a limited time at Amazon.",
+      "url": "https://kotaku.com/apple-m4-mac-mini-drops-below-prime-day-pricing-a-rare-discount-likely-triggered-by-new-apple-launches-2000625796",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/Mac-Mini.jpg",
+      "publishedAt": "2025-09-16T12:10:25Z",
+      "content": "The Mac Mini is an interesting little product. You get a full Mac computer but for significantly less than a MacBook or the iMac. So long as you got a screen to connect it to, you’re good to go. The … [+2072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "Gearbox CEO Randy Pitchford tells Borderlands 4 critics to \"code your own engine,\" calls it a game for \"premium gamers\" - TechSpot",
+      "description": "While Borderlands 4 has received mostly positive reviews from critics, players have slammed the awful performance and bugs, leaving it with a Mixed rating on Steam. Gearbox...",
+      "url": "https://www.techspot.com/news/109487-gearbox-ceo-randy-pitchford-tells-borderlands-4-critics.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/09/2025-09-16-image-12.jpg",
+      "publishedAt": "2025-09-16T12:03:00Z",
+      "content": "A hot potato: Gearbox CEO Randy Pitchford is not known for his tactful, well-thought-out responses to controversial topics. The latest PR disaster he's waded into is the Borderlands 4 performance nig… [+4418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HODINKEE"
+      },
+      "author": "TanTan Wang",
+      "title": "Hands-On: The Apple Watch Series 11, Ultra 3, and SE 3 - Hodinkee",
+      "description": "Spending a few days with the 2025 updates to the best-selling watches in the world.",
+      "url": "https://www.hodinkee.com/articles/the-apple-watch-series-11-ultra-3-and-se-3",
+      "urlToImage": "https://hodinkee.imgix.net/uploads/images/378b9e90-800a-4026-aedf-6e0b34a70e74/tan2h-apple-watch-2025-handson-05123-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "publishedAt": "2025-09-16T12:00:00Z",
+      "content": "Visually, the biggest change is the introduction of a newer LTPO3 display with wide-angle OLEDs, something I felt brought a quietly significant improvement to the Series 10 watches last year. What th… [+840 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Meta’s new smart glasses are coming this week - The Verge",
+      "description": "Mark Zuckerberg is set to keynote Meta Connect 2025 on Wednesday at 8PM ET, and we’re expecting to see news about AI and smart glasses.",
+      "url": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257856_Meta_Oakley_HSTN_AKrales_0053.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-16T12:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat to expect from Metas Connect 2025 conference.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this author will be added to your daily email digest and your hom… [+5304 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Stan Schroeder",
+      "title": "Xiaomi 's iPhone 17 killer has a secondary display on the back - Mashable",
+      "description": "Well, why not?",
+      "url": "https://mashable.com/article/xiaomi-17-pro-dual-screen",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DXb6nWArlmIPwMUeMz32d/hero-image.fill.size_1200x675.v1758019742.jpg",
+      "publishedAt": "2025-09-16T11:13:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Hollow Knight: Silksong is reportedly already about a third of the way to the original's total sales, with Steam leading the charge - Eurogamer",
+      "description": "Hollow Knight: Silksong has sold 3.2m copies on Steam alone since its release, according to analyst estimations.",
+      "url": "https://www.eurogamer.net/hollow-knight-silksong-is-reportedly-already-about-a-third-of-the-way-to-the-originals-total-sales-with-steam-leading-the-charge",
+      "urlToImage": "https://assetsio.gnwcdn.com/Hollow-Knight_-Silksong---Release-Trailer-0-24-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-09-16T10:50:42Z",
+      "content": "Hollow Knight: Silksong has sold 3.2m copies on Steam alone since its release, according to analyst estimations.\r\nAhead of its release, Silksong was the most wishlisted game on the platform with 4.8m… [+1200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Free Spotify users can now pick songs, but of course there's a catch - Android Authority",
+      "description": "Spotify is rolling out a trio of new features for its free users. These features will give these users more control of what they listen to.",
+      "url": "https://www.androidauthority.com/spotify-pick-and-play-3597878/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/Spotify-interface-full-menu.jpg",
+      "publishedAt": "2025-09-16T00:42:01Z",
+      "content": "<ul><li>Spotify is improving its experience for free users.</li><li>The service will now let non-paid subscribers pick and play the song they want.</li><li>These users will also be able to play a son… [+1400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Jose Antonio Lanz",
+      "title": "Nano Banana Saves Google: Gemini Dethrones ChatGPT as GOOG Hits $3 Trillion - Decrypt",
+      "description": "The Gemini AI app hit #1 in app stores, and now Google is the fourth-most valuable company in the world.",
+      "url": "https://decrypt.co/339563/nano-banana-google-gemini-dethrones-chatgpt",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/nano-banana-google-gID_7.jpg",
+      "publishedAt": "2025-09-15T22:53:43Z",
+      "content": "In brief\r\n<ul><li>Googles Gemini to #1 in app downloads this month and Search interests this week.</li><li>This is the first time Gemini app dethrones ChatGPT.</li><li>This also helped boost Googles … [+4176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Michelle Ehrhardt",
+      "title": "How to Turn On Apple's New 'Wrist Flick' Gesture in watchOS 26 - Lifehacker",
+      "description": "Banish your notifications to the shadow realm.",
+      "url": "https://lifehacker.com/tech/how-to-turn-on-apples-new-wrist-flick-feature-in-watchos-26",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01K57GFN8JEWCCZPHC0T5J4GGX/hero-image.fill.size_1200x675.png",
+      "publishedAt": "2025-09-15T20:30:00Z",
+      "content": null
     }
   ]
 }
