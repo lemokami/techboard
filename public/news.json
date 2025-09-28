@@ -1,97 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 28,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Emma Roth",
-      "title": "Nvidia is letting anyone use its AI voice animation tech - The Verge",
-      "description": "Nvidia is open sourcing Audio2Face, its AI tool that generates facial animations for 3D avatars based on audio input.",
-      "url": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK083_B_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-25T21:16:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is open sourcing Audio2Face, its AI tool that generates facial animations for 3D avatars based on audio input.\r\nNvidia is open sourcing Audio2Face, its AI… [+2107 chars]"
+      "author": "Ryan Whitwam",
+      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
+      "description": "YouTube Labs will be a place to preview all the app’s upcoming AI features.",
+      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs.jpg",
+      "publishedAt": "2025-09-26T21:05:30Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Zack Whittaker, Sarah Perez",
-      "title": "Viral call-recording app Neon goes dark after exposing users' phone numbers, call recordings, and transcripts - TechCrunch",
-      "description": "Call recording app Neon was one of the top-ranked iPhone apps, but was pulled offline after a security bug allowed any logged-in user to access the call recordings and transcripts of any other user.",
-      "url": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/neon-phone-app-smaller.jpg?resize=1200,800",
-      "publishedAt": "2025-09-25T21:10:00Z",
-      "content": "A viral app called Neon, which offers to record your phone calls and pay you for the audio so it can sell that data to AI companies, has rapidly risen to the ranks of the top-five free iPhone apps si… [+4908 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers - The Verge",
-      "description": "Microsoft is developing more energy efficient microfluidic technology to cool next-generation AI chips.",
-      "url": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/microfluidics-liquid-cooling-16.jpg?quality=90&strip=all&crop=0,22.185863874346,100,55.628272251309",
-      "publishedAt": "2025-09-25T20:23:20Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nFiguring out how to keep a chip cool is one of the biggest challenges to designing a more powerful and sustainable chip. Microsoft says its making progress on a … [+7699 chars]"
+      "author": "Parker Hall",
+      "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
+      "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence.",
+      "url": "https://www.wired.com/review/apple-airpods-pro-3/",
+      "urlToImage": "https://media.wired.com/photos/68d6f512a10e9fa625d46eac/191:100/w_1280,c_limit/Review-%20Apple%20AirPods%20Pro%203.png",
+      "publishedAt": "2025-09-26T20:25:37Z",
+      "content": "The same mildly flat indent on the stem of each bud indicates the location of the touch/squeeze controls, and there are black spots where heart rate sensors, wear detection sensors, and microphone po… [+1716 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Nasawatch.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac",
-      "description": "Lux, creators of pro camera app Halide, have published their review of the iPhone 17 Pro’s cameras. Here are the highlights.",
-      "url": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-25T19:47:00Z",
-      "content": "Reviews continue rolling out for Apples latest iPhone lineup, including from noted photographers like Austin Mann and Tyler Stalman. Now Lux, the creators of pro camera app Halide, has published thei… [+1806 chars]"
+      "author": "Keith Cowing",
+      "title": "JPLers Get Layoff Update Letter - NASA Watch",
+      "description": "JPLers got this email this morning from JPL Human Resources",
+      "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
+      "urlToImage": "https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg",
+      "publishedAt": "2025-09-26T19:06:14Z",
+      "content": "Keith’s note: JPLers got this email this morning from JPL Human Resources about the “Phase Two reorganization and upcoming layoff in October”. People are being warned that as many as 4,000 of the 5,5… [+1943 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Brandt Ranj",
-      "title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
-      "description": "Amazon’s fall Prime Day sale isn’t until October, but Anker and Jackery have already discounted several chargers, including wall outlets and battery packs.",
-      "url": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Anker-Nano-II.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-25T19:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nBoth Anker and Jackery are offering some supercharged deals ahead of Prime Big Deal Days, which starts October 7th.\r\nBoth Anker and Jackery are offering some sup… [+4515 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Giovanni Colantonio",
-      "title": "Fire Emblem Shadows impressions: The hottest of hot messes - Polygon",
-      "description": "Nintendo's new Fire Emblem mobile game is a baffling social deduction experiment weighed down by aggressive pay-to-win mechanics",
-      "url": "https://www.polygon.com/fire-emblem-shadows-impressions/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/fire-emblem-shadows-battle.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2025-09-25T19:00:00Z",
-      "content": "Its not like Nintendo to surprise release a franchise game with little fanfare, unless it's meant to be a big moment in a Nintendo Direct. So when the company revealed the existence of Fire Emblem Sh… [+6725 chars]"
+      "author": "Sean Hollister",
+      "title": "Costco is already selling piles of Lego Game Boys cheaper than the Lego company - The Verge",
+      "description": "Here’s how to find a Lego Game Boy at Costco for a sizeable discount ahead of its October 1st launch.",
+      "url": "https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/20250924_100451-EDIT-EDIT.jpg?quality=90&strip=all&crop=0%2C16.357093963332%2C100%2C67.285812073335&w=1200",
+      "publishedAt": "2025-09-26T19:00:44Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPallets full of them even as Lego.com and some other retailers are sold out.\r\nPallets full of them even as Lego.com and some other retailers are sold out.\r\nby\r\nS… [+2524 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Wizards.com"
       },
-      "author": "Nintendo Life",
-      "title": "Final Fantasy Tactics: The Ivalice Chronicles - Nintendo Switch 2 Edition Review (Switch 2) - Nintendo Life",
-      "description": "A dark night for Onion Knight fans?",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition",
-      "urlToImage": "https://images.nintendolife.com/e09716eb27dbe/1280x720.jpg",
-      "publishedAt": "2025-09-25T18:55:18Z",
-      "content": "Subscribe to Nintendo Life on YouTube835k\r\nFinal Fantasy Tactics is probably, all things considered, my favourite Final Fantasy. As someone who isn't really a huge video game lore person at the best … [+11259 chars]"
+      "author": "Neale LaPlante Johnson, DK Billins, Laurel Pratt",
+      "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
+      "description": "Take a trip to a plane of shadows, secrets, and slippery bogles. Lorwyn Eclipsed brings us back to one of Magic's most beloved settings.",
+      "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/2QbR0TeC7cFR6T7ea9LRaN/ec95e10f4b8d28f704e487fdc9041df2/ECL_Planeswalker-s_Guide_960x540.jpg",
+      "publishedAt": "2025-09-26T18:55:21Z",
+      "content": "The wait is over; the twinned plane of Lorwyn-Shadowmoor returns in Lorwyn Eclipsed. But much has changed in the years since our last visit, and there is even more to discover about what lies in Lorw… [+76051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Nathan Warby",
+      "title": "EA Sports FC 26 review – The best football game in years - Dexerto",
+      "description": "EA FC 26 brings the best on-pitch action the series has produced in years, thanks to the genius decision to change the gameplay based on mode",
+      "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/26/EA-FC-26-review.jpg",
+      "publishedAt": "2025-09-26T18:39:04Z",
+      "content": "EA Sports FC 26 is the best the series has been in years, thanks to a host of gameplay changes that deliver Ballon dOr-worthy football. Like Artetas Arsenal, you could accuse it of lacking ambition w… [+6929 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
+      "description": "Apple Inc. has developed a ChatGPT-like iPhone app to help test and prepare for a long-anticipated overhaul of Siri coming next year, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6hHU5sjhdPU/v0/1200x800.jpg",
+      "publishedAt": "2025-09-26T17:40:16Z",
+      "content": "Apple Inc. has developed a ChatGPT-like iPhone app to help test and prepare for a long-anticipated overhaul of Siri coming next year, according to people familiar with the matter.\r\nThe companys AI di… [+321 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Billy Givens",
+      "title": "Xiaomi's Newest Phone Sports a Rear Display and Skips a Number to Take Aim at iPhone 17 - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/xiaomis-newest-phone-sports-a-rear-display-and-skips-a-number-to-take-aim-at-iphone-17",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/26/7cf08d52f00ca3b6aa5ccd4547cafbd8-1758899475991.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-09-26T17:31:35Z",
+      "content": "Sometimes, you have to skip a number in the quest for parity and the Xiaomi 17 series of phones does exactly that while bringing a few intriguing features to consumers in the process.\r\nFollowing the … [+2024 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cincy Jungle"
+      },
+      "author": "Dadio Makdook",
+      "title": "AJ McCarron shares how Bengals saved money with “garage sale” - Cincy Jungle",
+      "description": "According to former Cincinnati Bengals QB AJ McCarron, the Bengals used to host a garage sale to save money.",
+      "url": "https://www.cincyjungle.com/cincinnati-bengals-news/175829/cincinnati-bengals-cheap-aj-mccaarron-garage-sale",
+      "urlToImage": "https://platform.cincyjungle.com/wp-content/uploads/sites/65/2025/09/gettyimages-1831291025.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.520187939011&w=1200",
+      "publishedAt": "2025-09-26T17:00:07Z",
+      "content": "The Cincinnati Bengals front office has been accused of being frugal by both fans and former players.\r\nFrom limiting how much Gatorade players can have to the famous mic cart, the Bengals have built … [+1311 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jason Schreier",
+      "title": "The Video-Game Industry Has a Problem: There Are Too Many Games - Bloomberg.com",
+      "description": "A crowded September for video-game releases illustrates a broader challenge in the market",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-industry-has-a-problem-there-are-too-many-games",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAtA6lKVv2B4/v1/1200x675.jpg",
+      "publishedAt": "2025-09-26T17:00:06Z",
+      "content": "Hi everyone. Today were talking about the video-game industrys oversupply problem, but first...\r\nThis weeks top gaming news:"
     },
     {
       "source": {
@@ -99,25 +138,51 @@
         "name": "9to5google.com"
       },
       "author": "Andrew Romero",
-      "title": "Pixel Call Recording reappears for some users including in US, UK - 9to5Google",
-      "description": "Some users are seeing Pixel Call Recording appear in the Phone app through a new beta update. The rollout appears to be very limited.",
-      "url": "http://9to5google.com/2025/09/25/pixel-call-recording-appears-on-some-devices/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/Google-Phone-Dialer-Top-Down-.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-25T18:16:00Z",
-      "content": "After subtly updating the help page on Call Recording, Google seems to be gearing up to bring the full recording to some Pixel devices in more regions.\r\nEarlier this month, Google was spotted updatin… [+1866 chars]"
+      "title": "Samsung Galaxy TriFold leak offers glimpse into multitasking on a giant foldable - 9to5Google",
+      "description": "Newly leaked software animations from Samsung give us a bigger glimpse into the Galaxy TriFold’s multitasking, and it looks like...",
+      "url": "http://9to5google.com/2025/09/26/samsung-galaxy-trifold-leaks-show-multitasking/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-09-26T16:16:00Z",
+      "content": "Newly leaked software animations from Samsung give us a bigger glimpse into the Galaxy TriFold’s multitasking, and it looks like a productivity powerhouse.\r\nWe’ve seen these types of leaks before. In… [+2394 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
-      "description": "Pulse is part of a broader shift in OpenAI's consumer products, which are lately being designed to work for users asynchronously instead of responding to questions.",
-      "url": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ChatGPT_Pulse.png?resize=1200,675",
-      "publishedAt": "2025-09-25T17:00:00Z",
-      "content": "OpenAI is launching a new feature inside of ChatGPT called Pulse, which generates personalized reports for users while they sleep. Pulse offers users five to 10 briefs that can get them up to speed o… [+4501 chars]"
+      "author": "Ethan Gach",
+      "title": "Head Magic: The Gathering Designer Apologizes For Misogynistic Card From 27 Years Ago - Kotaku",
+      "description": "The woman who Ghazbán Ogress was based on recently spoke out about it",
+      "url": "https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/Wtich-1200x675.jpg",
+      "publishedAt": "2025-09-26T15:43:52Z",
+      "content": "Magic: The Gathering has finally come clean about one of the bigger stains on its legacy. Veteran head designer Mark Rosewater recently apologized for the misogynistic treatment of a low-level pro pl… [+3858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Levi Winslow",
+      "title": "Final Fantasy 7 Remake Will Get \"Proper, High-Quality\" Part 3 Despite Rebirth's Disappointing Sales - GameSpot",
+      "description": "Director Naoki Hamaguchi told fans not to worry about the quality of Final Fantasy VII Remake Part 3.",
+      "url": "https://www.gamespot.com/articles/final-fantasy-7-remake-will-get-proper-high-quality-part-3-despite-rebirths-disappointing-sales/1100-6535048/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789366/4575608-rebirthimage.jpg",
+      "publishedAt": "2025-09-26T15:15:46Z",
+      "content": "Despite heaps of critical praise at launch, Square Enix revealed in investor briefings that 2024's Final Fantasy 7 Rebirth did not meet sales expectations. Those disappointing sales figures shouldn't… [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "New Math Revives Geometry’s Oldest Problems - Quanta Magazine",
+      "description": "Using a relatively young theory, a team of mathematicians has started to answer questions whose roots lie at the very beginning of mathematics.",
+      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/09/RicherGeometry-crKristinaArmitage-Social.jpg",
+      "publishedAt": "2025-09-26T14:30:24Z",
+      "content": "But the methods were no longer effective when mathematicians only wanted to find, say, the number of real solutions to the equations in an enumerative geometry problem, or the number of integer solut… [+3220 chars]"
     },
     {
       "source": {
@@ -125,129 +190,77 @@
         "name": "Empire"
       },
       "author": "Kyle Purves",
-      "title": "It's Nearly Here: Where To Look For The ROG Xbox Ally With Launch Day Approaching - empireonline.com",
+      "title": "ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com",
       "description": "With the ROG Xbox Ally due to launch next month, we find out all there is to know about the new handheld console from Microsoft and ASUS.",
       "url": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/",
       "urlToImage": "https://images.bauerhosting.com/empire/2025/09/Hero-image-21.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
-      "publishedAt": "2025-09-25T16:16:50Z",
+      "publishedAt": "2025-09-26T14:23:32Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "PCMag.com"
+        "name": "Kotaku"
       },
-      "author": "Michael Kan",
-      "title": "Does Your New iPhone 17 Have Scratches? Apple Says Do This to Fix It - PCMag",
-      "description": "According to Apple, the scratch marks on iPhone 17 demo units should just rub off. However, tech experts say the Pro models suffer from a different issue.",
-      "url": "https://www.pcmag.com/news/does-your-new-iphone-17-have-scratches-apple-says-do-this-to-fix-it",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/02eJofNgoomvQha75cYUXx5-1.fit_lim.size_1200x630.v1758816336.png",
-      "publishedAt": "2025-09-25T15:56:15Z",
-      "content": null
+      "author": "Ethan Gach",
+      "title": "PS5 Is Sony’s Most ‘Successful’ Console Generation Ever And It’s Not Even Close - Kotaku",
+      "description": "PlayStation keeps making more money as it keeps raising prices",
+      "url": "https://kotaku.com/ps5-sales-sony-borderlands-4-patch-performance-mgs4-2000629168",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/morncheck925-1200x675.jpg",
+      "publishedAt": "2025-09-26T14:06:15Z",
+      "content": "Will Resident Evil 9 struggle on Switch 2? Is the new Borderlands 4 patch really broken or do players just need to be better at compiling their shaders? And where the hell is the next Metal Gear Soli… [+5372 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "GameSpot"
       },
-      "author": "Hartley Charlton",
-      "title": "AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors",
-      "description": "Apple's standard AirPods offer active noise cancellation for an additional $50, bringing them closer to the AirPods Pro than ever before. But...",
-      "url": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/",
-      "urlToImage": "https://images.macrumors.com/t/pCRZnw6tV9fwjEfIEcgNIA-dSBk=/2500x/article-new/2024/09/AirPods-4-vs-Pro-2-Thumb-1.jpg",
-      "publishedAt": "2025-09-25T15:54:22Z",
-      "content": "Apple's standard AirPods offer active noise cancellation for an additional $50, bringing them closer to the AirPods Pro than ever before. But after a substantial update to the AirPods Pro this fall, … [+5681 chars]"
+      "author": "Eddie Makuch",
+      "title": "Hades 2 Dev On How It Will Choose Next Game And Major Industry Issues - GameSpot",
+      "description": "Supergiant discusses how it's survived during industry tumult and more.",
+      "url": "https://www.gamespot.com/articles/hades-2-dev-on-how-it-will-choose-next-game-and-major-industry-issues/1100-6535044/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4575579-screenshot2025-09-26at8.29.02%E2%80%AFam.png",
+      "publishedAt": "2025-09-26T13:53:24Z",
+      "content": "The video game industry has been a tumultuous place of late, with mass layoffs, game cancellations, and studio closures, not to mention ongoing fears about the role of artificial intelligence. These … [+2602 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Gene Park",
-      "title": "‘Ghost of Yotei’ sharpens the samurai revenge formula with raw feeling - The Washington Post",
-      "description": "The open-world PlayStation epic excels thanks to a revenge story written with precision and heart, backed by a compelling lead performance.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7BPZVCHOKJDQXCQ3PEIHWI65XA.png&w=1440",
-      "publishedAt": "2025-09-25T14:31:02Z",
-      "content": "The open-world game excels thanks to a revenge story written with precision and heart, backed by a compelling lead performance.\r\nSeptember 25, 2025 at 9:00 a.m. EDTJust now"
+      "author": "Paul Tassi",
+      "title": "‘Borderlands 4’ Patch Rolls Out Buffs Amidst Annoying New Tech Issues - Forbes",
+      "description": "Borderlands 4 has already delivered some buffs, but it comes at the cost of new tech issues that were supposed to be fixes.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/26/borderlands-4-patch-rolls-out-buffs-amidst-annoying-new-tech-issues/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d691e51cb7d60998a1463e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-09-26T13:17:03Z",
+      "content": "Gearbox said that they would be prioritizing nerfs over buffs in Borderlands 4 for a while, despite many broken interactions and insane one-shot builds. And while they are delivering on that promise,… [+2842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "$2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its Backers - Kotaku",
+      "description": "PuffPals: Island Skies went from cuteness to horror as the lies piled up",
+      "url": "https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/puffpals-2-1200x675.jpg",
+      "publishedAt": "2025-09-26T12:46:41Z",
+      "content": "How could a game with a name as fluffy as PuffPals: Island Skies ever do anything wrong? How could a company called Fluffnest be anything other than the cuddliest love-bunnies on the internet? It’s t… [+6155 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more - Ars Technica",
-      "description": "These features try to turn iPhones into more powerful work and organization tools.",
-      "url": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2219431127-1152x648.jpg",
-      "publishedAt": "2025-09-25T14:17:18Z",
+      "author": "Stephen Clark",
+      "title": "Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips - Ars Technica",
+      "description": "Amazon plans to conduct two launches of Kuiper broadband satellites just days apart.",
+      "url": "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/9333639-1152x648.jpg",
+      "publishedAt": "2025-09-26T12:45:58Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Samsung will copy and improve on Pixel's Quick Settings with next major Galaxy update [Video] - 9to5Google",
-      "description": "With its next major Galaxy update, Samsung will not only copy Google Pixel's new Quick Settings, but improve on it.",
-      "url": "http://9to5google.com/2025/09/25/samsung-galaxy-quick-settings-update-one-ui-8-5/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/One-UI-8-vs-Android-16-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-25T13:57:00Z",
-      "content": "Android 16’s big Material 3 Expressive update brings resizable Quick Settings to Google Pixel users, and now it’s been revealed that Samsung will do the same thing with its next major Galaxy update.\r… [+1597 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "Billionaire Xiaomi Founder Unveils a $630 Answer to iPhone 17 - Bloomberg.com",
-      "description": "Xiaomi Corp.’s billionaire co-founder unveiled a $630 smartphone designed to take on the just-released iPhone 17, underscoring the Chinese company’s broader ambitions to take on US rivals from Apple Inc. to Tesla Inc.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-25/billionaire-xiaomi-founder-unveils-a-630-answer-to-iphone-17",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPdAEv.apFSo/v1/1200x675.jpg",
-      "publishedAt": "2025-09-25T13:50:21Z",
-      "content": "Xiaomi Corp.s billionaire co-founder unveiled a $630 smartphone designed to take on the just-released iPhone 17, underscoring the Chinese companys broader ambitions to take on US rivals from Apple In… [+422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "How to get free Windows 10 security updates through October 2026 - ZDNET",
-      "description": "Don't want to fork over $30 to keep getting Windows 10 security updates? Microsoft is offering a couple of ways to avoid the fee, but customers in Europe get the best deal.",
-      "url": "https://www.zdnet.com/article/how-to-get-free-windows-10-security-updates-through-october-2026/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5a0feb6d9d188e02131515d09d9d1b347bbb6118/2025/09/25/6a22db02-dcf2-446c-9ad3-73ef3525c257/gettyimages-155447639.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-25T13:31:00Z",
-      "content": "kyoshino/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 PCs can receive free security updates until October 2026.</li><li>To qualify… [+8707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Mega Evolution Brings Mega Might to Pokémon TCG Live - Pokemon.com",
-      "description": "The latest expansion brings Mega Evolution Pokémon ex to the game along with some cool updates.",
-      "url": "https://www.pokemon.com/us/pokemon-news/mega-evolution-brings-mega-might-to-pokemon-tcg-live",
-      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me01/tcgl/launch/me01-tcgl-169-en.png",
-      "publishedAt": "2025-09-25T13:08:44Z",
-      "content": "The latest Pokémon Trading Card Game expansion, Mega Evolution, becomes available in Pokémon Trading Card Game Live on Thursday, September 25, 2025, at 10:00 a.m. With this expansion, you’re now able… [+849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Will Sattelberg",
-      "title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
-      "description": "The OnePlus 15 is shaping up to be a big change for OnePlus, with a rumored new design and the confirmation of a custom image engine.",
-      "url": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/OnePlus-Shelf-on-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-09-25T13:00:00Z",
-      "content": "With Qualcomm’s newest processor finally official, Android OEMs aren’t holding back from teasing their respective next-gen hardware. We already knew the OnePlus 15 was on its way, but with today’s ea… [+1709 chars]"
     }
   ]
 }
