@@ -1,58 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 23,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Bethesda.net"
       },
-      "author": "Abhijeet Mishra",
-      "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
-      "description": "A new One UI 8.5 firmware has made its way online for the Galaxy S25 Ultra, and it gives us our first proper look at the rumored Galaxy AI-powered notification summary feature. Well, perhaps \"proper\" isn't the right word: while the notification summary featur…",
-      "url": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-4-1200x675.jpg",
-      "publishedAt": "2025-10-01T18:56:00Z",
-      "content": "A new One UI 8.5 firmware has made its way online for the Galaxy S25 Ultra, and it gives us our first proper look at the rumored Galaxy AI-powered notification summary feature. Well, perhaps “proper”… [+957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Emily Forlini",
-      "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
-      "description": "Ahead of Prime Big Deal Days next week, we got a firsthand look at fresh products across Amazon's 2025 hardware lineup.",
-      "url": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/04eBC17sQ8QYcZtKtImuOpX-1.fit_lim.size_1200x630.v1759257910.jpg",
-      "publishedAt": "2025-10-01T16:11:03Z",
+      "author": null,
+      "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
+      "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it’s available for you to play on our Public Test Server right now!",
+      "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
+      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/6jF7DI7zI1mVSFCtyGaiJQ/35dc0452311d784b12b9c17e34e20af7/LHERO_BS.jpg?fit=fill&w=1200&h=600",
+      "publishedAt": "2025-10-02T18:07:33Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus - The Verge",
-      "description": "Microsoft is launching a new Premium subscription for consumers. It bundles together Copilot Pro and Microsoft 365 Family for $19.99 a month.",
-      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T16:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt offers Copilot Pro and a Microsoft 365 Family subscription for $19.99 a month.\r\nIt offers Copilot Pro and a Microsoft 365 Family subscription for $19.99 a mon… [+6027 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Marina Temkin, Julie Bort",
-      "title": "Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals - TechCrunch",
-      "description": "While the HR Tech Guideline was last valued at $1.15 billion, the sale will likely yield a profit for most investors.",
-      "url": "https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/08/mg_7281a.jpg?resize=1200,943",
-      "publishedAt": "2025-10-01T16:00:00Z",
-      "content": "Last month, Gusto, a payroll and HR software company, announced that it agreed to acquire Guideline, a startup offering retirement plans to small and medium businesses.  \r\nThe terms of the deal weren… [+2829 chars]"
+      "author": "Jagmeet Singh",
+      "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up - TechCrunch",
+      "description": "Jules is already being used by developers to complete code after experimenting on vibe-coding platforms.",
+      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-jules.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T18:00:00Z",
+      "content": "Google is bringing its AI coding agentJules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into terminals, CI/CD systems, and tools like Slack a… [+4594 chars]"
     },
     {
       "source": {
@@ -60,64 +34,77 @@
         "name": "The Verge"
       },
       "author": "Andrew Liszewski",
-      "title": "Sony brings audio sharing to its flagship noise-canceling headphones - The Verge",
-      "description": "Sony released a firmware update for its WF-1000XM5 and WH-1000XM6 wireless headphones adding audio sharing and access to Google’s Gemini Live.",
-      "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T15:37:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nby\r\nAndre… [+3138 chars]"
+      "title": "Amazon now lets Prime members add items to completed orders - The Verge",
+      "description": "Amazon’s new Add to Delivery feature lets US Prime members tack items onto existing undelivered orders without extra shipping fees.",
+      "url": "https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/amazon_addtodelivery.jpg?quality=90&strip=all&crop=0%2C10.747807628681%2C100%2C78.504384742637&w=1200",
+      "publishedAt": "2025-10-02T17:36:32Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nForget to buy toilet paper? You might be able to add it to an Amazon order that hasnt gone out for delivery yet.\r\nForget to buy toilet paper? You might be able t… [+2599 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Xbox.com"
       },
-      "author": "Paul Tassi",
-      "title": "Here Are The ‘Ghost Of Yotei’ PS5 Launch Times In Your Region - Forbes",
-      "description": "These are the exact release times for Ghost of Yotei on PS5 as the game arrives on the platform this week. Check it out.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/01/here-are-the-ghost-of-yotei-ps5-launch-times-in-your-region/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dd49a88139bb287ea58758/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-10-01T15:35:56Z",
-      "content": "Sucker Punchs long-awaited sequel to Ghost of Tsushima, Ghost of Yotei, arrives either later today or tomorrow, depending on your region, and you may want to know exactly when.\r\nThis is actually one … [+2090 chars]"
+      "author": "Mike Nelson, Xbox Wire Editor",
+      "title": "How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta - Xbox Wire",
+      "description": "After an exciting week of news and reveals from Call of Duty: Next, we’re capping it off with a Call of Duty: Black Ops 7 Multiplayer and Zombies Beta!",
+      "url": "https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/09/BO7-MULTIPLAYER-OVERVIEW-TOUT-06ba6dee146471f87fb3.jpg",
+      "publishedAt": "2025-10-02T17:15:00Z",
+      "content": "Once Open Beta kicks off on October 5, the doors will be open for players across all platforms to jump into the Black Ops 7 Beta. In addition to all the content available during Beta Early Access, Op… [+2887 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "9to5Mac"
       },
-      "author": "Muhammad Zuhair",
-      "title": "Microsoft’s Latest Windows 11 25H2 Update Finally Rolls Out to Users, But Launch Day is Plagued with Troubles - Wccftech",
-      "description": "Microsoft's Windows 11 25H2 update is now available to users, but it has debuted with four issues, which may not be a significant concern.",
-      "url": "https://wccftech.com/microsoft-windows-11-25h2-version-has-rolled-out-to-users/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/03/Windows-11-Pixel-Luminance-Display-Technology-g-standard-scale-6_00x-Custom.jpg",
-      "publishedAt": "2025-10-01T15:01:00Z",
-      "content": "Microsoft's Windows 11 25H2 update is now available to users, but interestingly, it has debuted with four issues, which may not be a significant concern to the average user.\r\nThe 25H2 update isn't a … [+2087 chars]"
+      "author": "Chance Miller",
+      "title": "Apple addresses iOS 26 bug affecting iMessage - 9to5Mac",
+      "description": "Since iOS 26 was released last month, some iPhone users have had problems using iMessage with their phone numbers. Apple...",
+      "url": "https://9to5mac.com/2025/10/02/apple-addresses-ios-26-bug-affecting-imessage/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iMessage-antitrust-threat-removed.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-02T16:52:00Z",
+      "content": "Since iOS 26 was released last month, some iPhone users have had problems using iMessage with their phone numbers. Apple has now published a new support document on its website addressing the problem… [+1555 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’ - TechCrunch",
+      "description": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid subscribers, the startup has also launched a new ‘background…",
+      "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
+      "publishedAt": "2025-10-02T15:36:09Z",
+      "content": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid … [+3430 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Apple’s next-gen Vision Pro revealed in new regulatory filing - The Verge",
-      "description": "A new filing with the Federal Communications Commission appears to reveal Apple’s work on a new Vision Pro headset.",
-      "url": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vision-pro-filing.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
-      "publishedAt": "2025-10-01T14:41:07Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple has submitted a filing for a Head Mounted Device that looks a lot like a new Vision Pro.\r\nApple has submitted a filing for a Head Mounted Device that looks… [+2419 chars]"
+      "author": "Janko Roettgers",
+      "title": "Amazon’s Vega OS launch trick: cloud-streamed apps - The Verge",
+      "description": "Amazon will stream Android apps from the cloud to ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services.",
+      "url": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fire-tv-stick.jpeg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+      "publishedAt": "2025-10-02T15:30:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTo ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services, Amazon will simply stream Android apps from the cloud.\r\nTo en… [+6638 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Nintendo Life"
       },
-      "author": "Tom Warren",
-      "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution - The Verge",
-      "description": "Microsoft is removing the beta tag from Xbox Cloud Gaming. It’s part of an upgrade that will see some games stream at 1440p resolution.",
-      "url": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478770/acastro_210429_1777_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T14:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is also upping the bitrate quality of Xbox Cloud Gaming streams for select games.\r\nMicrosoft is also upping the bitrate quality of Xbox Cloud Gaming st… [+3492 chars]"
+      "author": "Alana Hagues",
+      "title": "Digital Foundry Breaks Down Super Mario Galaxy 1 + 2 On Switch 1 & 2 - Nintendo Life",
+      "description": "Out of this world?",
+      "url": "https://www.nintendolife.com/news/2025/10/digital-foundry-breaks-down-super-mario-galaxy-1-plus-2-on-switch-1-and-2",
+      "urlToImage": "https://images.nintendolife.com/38e7810358644/large.jpg",
+      "publishedAt": "2025-10-02T15:30:00Z",
+      "content": "Happy Super Mario Galaxy + Super Mario Galaxy 2 release day on Switch! Whether you're buying one (or both) of the classic Wii platformers for the Switch which also have a free patch for Switch 2 you'… [+1477 chars]"
     },
     {
       "source": {
@@ -125,116 +112,116 @@
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
-      "title": "Google Home expanding Nest, Gemini features to third-party brands starting with $23 Walmart camera - 9to5Google",
-      "description": "With its major Gemini revamp to Google Home and Nest Cam, Google is opening the door to third-party cameras accessing...",
-      "url": "http://9to5google.com/2025/10/01/google-home-nest-gemini-features-third-party-walmart-cameras/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/walmart-onn-google-home-cameras-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-01T13:10:00Z",
-      "content": "With its major Gemini revamp to Google Home and Nest Cam, Google is opening the door to third-party cameras accessing the same level of integration and features, and it starts with incredibly afforda… [+1274 chars]"
+      "title": "Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery] - 9to5Google",
+      "description": "Samsung’s next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, with one of...",
+      "url": "http://9to5google.com/2025/10/02/samsung-one-ui-8-5-3d-icons-liquid-glass/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-45.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-02T15:15:00Z",
+      "content": "Samsung’s next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, with one of the latest finds being a “3D” effect for icons.\r\nMultiple sources have spotted a new effec… [+1011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Samsung has updated these Galaxy devices to Android 16 – here’s the schedule - 9to5Google",
+      "description": "Samsung is now rolling out its One UI 8 update based on Android 16, with a list of devices and a schedule available.",
+      "url": "http://9to5google.com/2025/10/02/samsung-galaxy-android-16-one-ui-8-update-list-schedule/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-hardware-and-design-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-02T14:10:00Z",
+      "content": "Samsung has started rolling out its Android 16 update to Galaxy phones and tablets, with a schedule running through November at least. Here’s when to expect the update on your Galaxy device, and whic… [+3285 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sarah Perez",
-      "title": "Google teases its new Gemini-powered Google Home speaker, coming in spring 2026 - TechCrunch",
-      "description": "The somewhat delayed timing of the launch gives the company time to ensure the new Gemini functionality reaches its other Google Home customers on older devices and gives them time to work out the kinks.",
-      "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Google-Home-Speaker-Multi.png?resize=1200,755",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "On Wednesday, Google offered an early preview of its next flagship smart home device, the AI-powered Google Home speaker, launching in spring 2026. The device, priced at $99, will be built around the… [+2260 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Philips’ new Roku TVs come with their own immersive backlights - The Verge",
-      "description": "The TVs are now available in sizes up to 65 inches and pricing ranging from $229 to $389.",
-      "url": "https://www.theverge.com/news/788962/philips-roku-ambilight-lcd-tv-backlights-bias-lighting",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe TVs are now available in sizes up to 65 inches and pricing ranging from $229 to $389.\r\nThe TVs are now available in sizes up to 65 inches and pricing ranging… [+2733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Epic: Apple's Updated App Marketplace Install Process Proves 'Scare Screens' Deterred Users - MacRumors",
-      "description": "Epic Games has claimed that Apple's revised installation process for third-party app marketplaces in the EU demonstrates that the company was...",
-      "url": "https://www.macrumors.com/2025/10/01/epic-proof-apple-scare-screens-deterred-users/",
-      "urlToImage": "https://images.macrumors.com/t/PMGwfUNRIktQ7rZpfjpPX_YJss8=/2400x/article-new/2024/08/epic-games-store.jpg",
-      "publishedAt": "2025-10-01T09:48:33Z",
-      "content": "Epic Games has claimed that Apple's revised installation process for third-party app marketplaces in the EU demonstrates that the company was deliberately undermining competition through \"deceptive d… [+1297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Asif Iqbal Shaik",
-      "title": "One UI 8 has a new multitasking trick up its sleeve for tablets - SamMobile",
-      "description": "Samsung introduced several new and improved features to its phones and tablets with the One UI 8.0 update. Besides the improved DeX mode, the company brought one more multitasking trick that could improve your productivity on Galaxy tablets. Galaxy Tab device…",
-      "url": "https://www.sammobile.com/news/one-ui-8-new-multitasking-trick-tablets/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-Tab-S11-and-Ultra-1200x675.jpg",
-      "publishedAt": "2025-10-01T09:45:00Z",
-      "content": "Samsung introduced several new and improved features to its phones and tablets with the One UI 8.0 update. Besides the improved DeX mode, the company brought one more multitasking trick that could im… [+1493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Callofduty.com"
-      },
-      "author": "Call of Duty Staff",
-      "title": "Guides - Black Ops 7 Multiplayer Map Guide — The Forge - Call of Duty",
-      "description": "",
-      "url": "https://www.callofduty.com/guides/blackops7/multiplayer-maps/the-forge",
-      "urlToImage": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/games/blackops7/the-forge/COD-BO7-MAPS-CORE-FORGE-TOUT.jpg",
-      "publishedAt": "2025-09-30T19:00:00Z",
-      "content": "Tactical Location: Demo &amp; Office\r\nA testing site for new tech, Demo is filled with cover objects and an obstacle course, ideal for staging an ambush. Climb up on the course or the corner viewing … [+152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "See full bio",
-      "title": "Amazon Blink's Curious New Security Camera Delivers a 180-Degree View for $100 - CNET",
-      "description": "Blink's \"new invention\" in home security exists on other cams, but this is the most affordable we've seen it.",
-      "url": "https://www.cnet.com/home/security/amazon-blinks-curious-new-security-camera-delivers-a-180-degree-view-for-100/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/edfe090173d25af186426308cd969cdf30c0ef42/hub/2025/09/30/a09d3ac9-6c61-49a7-a0fa-93a3430b51f3/screenshot-2025-09-30-at-12-00-24pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T17:59:00Z",
-      "content": "Several home security device announcements were made at Amazon's event in New York today -- here's everything available for preorder -- but none received more stage time (and applause) than the Blink… [+1786 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Alexa+ comes to new Fire TV devices with AI-powered conversations - TechCrunch",
-      "description": "Amazon announced new Fire TV devices, 4K Stick, and Alexa+ AI features for TV viewers.",
-      "url": "https://techcrunch.com/2025/09/30/alexa-comes-to-new-fire-tv-devices-with-ai-powered-conversations/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ringo-firetv-lineup-1600x900-1.jpg?resize=1200,675",
-      "publishedAt": "2025-09-30T15:19:11Z",
-      "content": "At Amazon’s fall hardware event, the company announced it will bring its upgraded AI, Alexa+, to its Fire TV devices. With Alexa+, Fire TV users will have access to expanded capabilities, like the ab… [+3217 chars]"
+      "author": "Aisha Malik",
+      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses - TechCrunch",
+      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
+      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T14:06:13Z",
+      "content": "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurma… [+854 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Minecraft.net"
       },
-      "author": null,
-      "title": "Minecraft Game Drop 3 2025: The Copper Age Drop - Minecraft",
-      "description": "Learn more about The Copper Age drop. Find out more about new copper blocks and see how to craft copper armor, chests, weapons, and copper golems.",
-      "url": "https://www.minecraft.net/en-us/updates/copper-age-drop",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/community/share/Minecraft_Fall_Drop_Campaign_Key_Art_Homepage_Hero-A-1200_Image-ID_1800x1080_01.jpg",
-      "publishedAt": "2025-09-30T15:09:28Z",
+      "author": "Java Team",
+      "title": "Minecraft 1.21.10 Release Candidate 1 - Minecraft",
+      "description": "Minecraft 1.21.10 Release Candidate 1",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.10-rc1%201170x500.jpg",
+      "publishedAt": "2025-10-02T14:02:39Z",
+      "content": "Today we are shipping Release Candidate 1 for 1.21.10, a hotfix release fixing a couple of issues that have bubbled up to the surface following the release of The Copper Age drop.\r\nHappy mining!\r\nFix… [+1105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Stephen Tailby",
+      "title": "PS Studios Celebrates Launch of Ghost of Yotei on PS5 with Gorgeous Artwork - Push Square",
+      "description": "Wolf pack",
+      "url": "https://www.pushsquare.com/news/2025/10/ps-studios-celebrates-launch-of-ghost-of-yotei-on-ps5-with-gorgeous-artwork",
+      "urlToImage": "https://images.pushsquare.com/6e50e87a37447/large.jpg",
+      "publishedAt": "2025-10-02T14:00:00Z",
+      "content": "Another PS Studios game has launched, and that means a new wave of lovely original artwork from fellow first-party teams.\r\nGhost of Yotei arrives today, 2nd October 2025, and to celebrate Sucker Punc… [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rockstargames.com"
+      },
+      "author": "Rockstar Games",
+      "title": "Celebrate Spooky Season as Halloween Haunts Los Santos - Rockstar Games",
+      "description": "Halloween descends on Southern San Andreas throughout October with a bubbling cauldron of chaos. There are reports of UFO sightings, bizarre transformations, and many more tricks and treats across GTA Online.",
+      "url": "https://www.rockstargames.com/newswire/article/3922ka4494o378/celebrate-spooky-season-as-halloween-haunts-los-santos",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3922ka4494o378/05ea9344c47ced637b321f01d0b65dc4d29fbebf.jpg",
+      "publishedAt": "2025-10-02T13:51:11Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Ollie Reynolds",
+      "title": "Pokémon Legends: Z-A Gets A 6-Minute Overview Trailer For Switch 2 - Nintendo Life",
+      "description": "Game launches this month!",
+      "url": "https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-gets-a-6-minute-overview-trailer-for-switch-2",
+      "urlToImage": "https://images.nintendolife.com/ea0e6149cc234/large.jpg",
+      "publishedAt": "2025-10-02T13:30:00Z",
+      "content": "Nintendo has released a new overview trailer for Pokémon Legends: Z-A - Nintendo Switch 2 Edition (with a brief mention of the OG Switch version at the end), providing more than 6 minutes of informat… [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Here’s why Google’s battery-powered Nest Cams aren’t getting a 2K upgrade, for now - 9to5Google",
+      "description": "Here's why Google isn't releasing a battery-powered 2K Nest Cam just yet, and it actually makes sense too.",
+      "url": "http://9to5google.com/2025/10/02/google-nest-cam-battery-2k-refresh-why/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Nest-Cam-Outdoor_Hazel_Hero_1-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-02T12:30:00Z",
+      "content": "Google’s latest lineup of Nest Cam devices has arrived, but there are no new battery models in the 2K refresh. Why? Google has an understandable answer.\r\nThe new lineup of Nest Cam devices includes a… [+1392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Xbox Game Pass price increase gets players angry - BBC",
+      "description": "Is the subscription service once called \"the best deal in gaming\" still great value for players?",
+      "url": "https://www.bbc.com/news/articles/ckgepkwpkg4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2cf7/live/82f67be0-9f7f-11f0-92db-77261a15b9d2.jpg",
+      "publishedAt": "2025-10-02T11:51:03Z",
+      "content": "Peter GillibrandBBC Newsbeat\r\nThe Call of Duty series is one of the biggest titles available via Xbox Game Pass\r\nFans have reacted angrily after Microsoft announced price increases to its Xbox Game P… [+3612 chars]"
     }
   ]
 }
