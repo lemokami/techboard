@@ -1,227 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 54,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Bethesda.net"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
-      "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it’s available for you to play on our Public Test Server right now!",
-      "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
-      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/6jF7DI7zI1mVSFCtyGaiJQ/35dc0452311d784b12b9c17e34e20af7/LHERO_BS.jpg?fit=fill&w=1200&h=600",
-      "publishedAt": "2025-10-02T18:07:33Z",
+      "author": "Kenneth Shepard",
+      "title": "5 Things To Know Before Starting Digimon Story: Time Stranger - Kotaku",
+      "description": "Here are a few tips before you head into the Digital World",
+      "url": "https://kotaku.com/digimon-story-time-stranger-tips-guides-side-quests-2000631593",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/06/cffd6054f11e2cd6ac8f4aa794847815-1200x675.jpg",
+      "publishedAt": "2025-10-03T20:13:17Z",
+      "content": "In most ways, Digimon Story: Time Strangerisnt a complicated RPG. The turn-based monster tamers battles are mostly straightforward, and its got waypoints telling you where to go for most missions. Ho… [+4046 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Do AI-designed proteins create a biosecurity vulnerability? - Ars Technica",
+      "description": "Ordering DNA for AI-designed toxins doesn’t always raise red flags.",
+      "url": "https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
+      "publishedAt": "2025-10-03T20:12:52Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Jagmeet Singh",
-      "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up - TechCrunch",
-      "description": "Jules is already being used by developers to complete code after experimenting on vibe-coding platforms.",
-      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-jules.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T18:00:00Z",
-      "content": "Google is bringing its AI coding agentJules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into terminals, CI/CD systems, and tools like Slack a… [+4594 chars]"
+      "author": "Ethan Gach",
+      "title": "One Of Steam's Most-Wishlisted Games Indefinitely Delayed Days Before Launch - Kotaku",
+      "description": "Kingmakers won't come to Steam in October after all",
+      "url": "https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/10/Kingmaker-1200x675.jpg",
+      "publishedAt": "2025-10-03T19:38:07Z",
+      "content": "Kingmakers was due out in Early Access in just a few days but it’s apparently not ready yet. The medieval sandbox shooter has been indefinitely delayed as the team at Redemption Road works on getting… [+2335 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Andrew Liszewski",
-      "title": "Amazon now lets Prime members add items to completed orders - The Verge",
-      "description": "Amazon’s new Add to Delivery feature lets US Prime members tack items onto existing undelivered orders without extra shipping fees.",
-      "url": "https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/amazon_addtodelivery.jpg?quality=90&strip=all&crop=0%2C10.747807628681%2C100%2C78.504384742637&w=1200",
-      "publishedAt": "2025-10-02T17:36:32Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nForget to buy toilet paper? You might be able to add it to an Amazon order that hasnt gone out for delivery yet.\r\nForget to buy toilet paper? You might be able t… [+2599 chars]"
+      "author": "Jay Peters",
+      "title": "Unity discloses a years-old security exploit and urges developers to update their games - The Verge",
+      "description": "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability in its development tool.",
+      "url": "https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/236784_Unity_Stock_V1_CVirginia_0000_A_.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T19:23:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUnity has fixes ready to go, and Valve has released an updated version of Steam, too.\r\nUnity has fixes ready to go, and Valve has released an updated version of … [+3187 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Gemini AI app could soon be getting a big makeover - TechCrunch",
+      "description": "The company is seemingly experimenting with a new user interface that would shift the app from having a chatbot-style look and feel to one offering a scrollable feed with suggested prompts accompanied by eye-catching photos.",
+      "url": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+      "publishedAt": "2025-10-03T19:18:43Z",
+      "content": "After the success of OpenAI’s video editing app Sora, now at the top of the U.S. App Store, Google may be looking to give its Gemini AI app a more visually focused revamp. The company is seemingly ex… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Amazon’s Fire TV Stick 4K is getting a new name soon - The Verge",
+      "description": "The naming confusion caused by the 4K Select will subside…maybe…hopefully.",
+      "url": "https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.706434586833%2C100%2C78.587130826333&w=1200",
+      "publishedAt": "2025-10-03T18:44:27Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe naming confusion caused by the 4K Select will subsidemaybehopefully.\r\nThe naming confusion caused by the 4K Select will subsidemaybehopefully.\r\nby\r\nCameron F… [+1794 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs - Ars Technica",
+      "description": "Google promises verification will make Android safer, but at what cost?",
+      "url": "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+      "publishedAt": "2025-10-03T18:31:23Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Xbox.com"
+        "name": "Lifehacker.com"
       },
-      "author": "Mike Nelson, Xbox Wire Editor",
-      "title": "How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta - Xbox Wire",
-      "description": "After an exciting week of news and reveals from Call of Duty: Next, we’re capping it off with a Call of Duty: Black Ops 7 Multiplayer and Zombies Beta!",
-      "url": "https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/09/BO7-MULTIPLAYER-OVERVIEW-TOUT-06ba6dee146471f87fb3.jpg",
-      "publishedAt": "2025-10-02T17:15:00Z",
-      "content": "Once Open Beta kicks off on October 5, the doors will be open for players across all platforms to jump into the Black Ops 7 Beta. In addition to all the content available during Beta Early Access, Op… [+2887 chars]"
+      "author": "Jake Peterson",
+      "title": "Apple's Newest iPhone Charger Is Pricey but Versatile - Lifehacker",
+      "description": "This might be the only power adapter you need.",
+      "url": "https://lifehacker.com/tech/apples-newest-iphone-charger-is-pretty-versatile",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01K6NDHAR0AYQVGDZF0KTJ4MAS/hero-image.fill.size_1200x675.jpg",
+      "publishedAt": "2025-10-03T17:00:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon.com"
+      },
+      "author": null,
+      "title": "Get 24 Pack Hourglasses by Celebrating Pokémon TCG Pocket in Stores - Pokemon.com",
+      "description": "Get a code redeemable for 24 in-game pack hourglasses at participating locations.",
+      "url": "https://www.pokemon.com/us/pokemon-news/get-24-pack-hourglasses-by-celebrating-pokemon-tcg-pocket-in-stores",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/tcg-pocket/2025/10/03/pokemon-tcg-pocket-169-en.png",
+      "publishedAt": "2025-10-03T16:11:53Z",
+      "content": "This month, we’re celebrating the first anniversary of Pokémon Trading Card Game Pocket—and the festivities are kicking off in retail stores! Starting on October 24, 2025, visit participating retaile… [+1246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Here's what's in Skate's '90s-themed first season, arriving next week - Eurogamer",
+      "description": "Following its early access launch, Skate's first season will arrive next week, bringing new areas, events, challenges, and more.",
+      "url": "https://www.eurogamer.net/heres-whats-in-skates-90s-themed-first-season-arriving-next-week",
+      "urlToImage": "https://assetsio.gnwcdn.com/Season_1_Seagul_03-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-03T15:55:30Z",
+      "content": "Following its early access launch, Skate's first season will arrive next week, bringing new areas, events, challenges, and more.\r\nCalled Hesh &amp; Fresh, the first season is inspired by the '90s and… [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is about to launch free Xbox Cloud Gaming with ads - The Verge",
+      "description": "Microsoft is getting ready to launch an ad-supported version of Xbox Cloud Gaming. The free streaming is being tested internally at Microsoft.",
+      "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T15:18:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft employees can now access an ad-supported version of Xbox Cloud Gaming ahead of a public test.\r\nMicrosoft employees can now access an ad-supported versi… [+3757 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery - Ars Technica",
+      "description": "If your iPhone is your main or only camera, the iPhone 17 Pro is for you.",
+      "url": "https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg",
+      "publishedAt": "2025-10-03T15:04:37Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "Apple addresses iOS 26 bug affecting iMessage - 9to5Mac",
-      "description": "Since iOS 26 was released last month, some iPhone users have had problems using iMessage with their phone numbers. Apple...",
-      "url": "https://9to5mac.com/2025/10/02/apple-addresses-ios-26-bug-affecting-imessage/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iMessage-antitrust-threat-removed.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-02T16:52:00Z",
-      "content": "Since iOS 26 was released last month, some iPhone users have had problems using iMessage with their phone numbers. Apple has now published a new support document on its website addressing the problem… [+1555 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple Glasses are coming: Here’s every rumored new feature - 9to5Mac",
+      "description": "Based on the latest leaks and reporting, here is every new feature to expect with Apple’s next wearable product: Apple Glasses.",
+      "url": "https://9to5mac.com/2025/10/03/apple-glasses-are-coming-heres-every-rumored-new-feature/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-03T14:49:00Z",
+      "content": "Apple Glasses are coming, with an unveiling rumored for next year. Based on the latest leaks and reporting, here is every feature to expect with Apples brand new wearable product: Apple Glasses.\r\nThe… [+2811 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Game World Observer"
       },
-      "author": "Rebecca Bellan",
-      "title": "Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’ - TechCrunch",
-      "description": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid subscribers, the startup has also launched a new ‘background…",
-      "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
-      "publishedAt": "2025-10-02T15:36:09Z",
-      "content": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid … [+3430 chars]"
+      "author": "admin",
+      "title": "Megabonk is a new indie hit on Steam. The game’s sales have surpassed one million copies - Game World Observer",
+      "description": "It took Megabonk two weeks to hit the million mark.",
+      "url": "https://gameworldobserver.com/2025/10/03/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies",
+      "urlToImage": "https://gameworldobserver.com/wp-content/previews/post/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies.png",
+      "publishedAt": "2025-10-03T14:19:56Z",
+      "content": "It took Megabonk two weeks to hit the million mark.\r\nMegabonk is an action-roguelike in the style of Vampire Survivors, where players must withstand massive waves of enemy attacks. The game was creat… [+620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Car Keys are coming to the Wallet app for 13 new vehicle brands soon - 9to5Mac",
+      "description": "Apple recently announced 13 new vehicle brands that will soon support Car Key in the Wallet app for iPhone and Apple Watch. Here’s the list.",
+      "url": "https://9to5mac.com/2025/10/03/car-keys-are-coming-to-the-wallet-app-for-13-new-vehicle-brands-soon/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-03T14:03:00Z",
+      "content": "Apple just shipped some great new CarPlay features in iOS 26, but the company has more coming for your vehicle soon. Here are the 13 new vehicle brands that Apple says will soon support car keys in t… [+1645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "How One AI Model Creates a Physical Intuition of Its Environment - Quanta Magazine",
+      "description": "The V-JEPA system uses ordinary videos to understand the physics of the real world.",
+      "url": "https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/11/AIIntuitsPhysics-crKristinaArmitage-Social.jpg",
+      "publishedAt": "2025-10-03T13:32:18Z",
+      "content": "Heres a test for infants: Show them a glass of water on a desk. Hide it behind a wooden board. Now move the board toward the glass. If the board keeps going past the glass, as if it werent there, are… [+8477 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Janko Roettgers",
-      "title": "Amazon’s Vega OS launch trick: cloud-streamed apps - The Verge",
-      "description": "Amazon will stream Android apps from the cloud to ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services.",
-      "url": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fire-tv-stick.jpeg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
-      "publishedAt": "2025-10-02T15:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nTo ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services, Amazon will simply stream Android apps from the cloud.\r\nTo en… [+6638 chars]"
+      "author": "Jennifer Pattison Tuohy",
+      "title": "I tried Amazon and Google’s new smart home gadgets. Ask me anything! - The Verge",
+      "description": "From new Echo Shows to new Nest Cams, a new Google Home smart speaker and new voice assistants, there’s a lot of new smart home stuff coming. You have questions, I have answers.",
+      "url": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T13:03:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom new Echo Shows to new Nest Cams, a new Google Home smart speaker and new voice assistants, theres a lot of new smart home stuff coming. You have questions, … [+3606 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Alana Hagues",
-      "title": "Digital Foundry Breaks Down Super Mario Galaxy 1 + 2 On Switch 1 & 2 - Nintendo Life",
-      "description": "Out of this world?",
-      "url": "https://www.nintendolife.com/news/2025/10/digital-foundry-breaks-down-super-mario-galaxy-1-plus-2-on-switch-1-and-2",
-      "urlToImage": "https://images.nintendolife.com/38e7810358644/large.jpg",
-      "publishedAt": "2025-10-02T15:30:00Z",
-      "content": "Happy Super Mario Galaxy + Super Mario Galaxy 2 release day on Switch! Whether you're buying one (or both) of the classic Wii platformers for the Switch which also have a free patch for Switch 2 you'… [+1477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery] - 9to5Google",
-      "description": "Samsung’s next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, with one of...",
-      "url": "http://9to5google.com/2025/10/02/samsung-one-ui-8-5-3d-icons-liquid-glass/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-45.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-02T15:15:00Z",
-      "content": "Samsung’s next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, with one of the latest finds being a “3D” effect for icons.\r\nMultiple sources have spotted a new effec… [+1011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Samsung has updated these Galaxy devices to Android 16 – here’s the schedule - 9to5Google",
-      "description": "Samsung is now rolling out its One UI 8 update based on Android 16, with a list of devices and a schedule available.",
-      "url": "http://9to5google.com/2025/10/02/samsung-galaxy-android-16-one-ui-8-update-list-schedule/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-hardware-and-design-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-02T14:10:00Z",
-      "content": "Samsung has started rolling out its Android 16 update to Galaxy phones and tablets, with a schedule running through November at least. Here’s when to expect the update on your Galaxy device, and whic… [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses - TechCrunch",
-      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
-      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T14:06:13Z",
-      "content": "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurma… [+854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minecraft.net"
-      },
-      "author": "Java Team",
-      "title": "Minecraft 1.21.10 Release Candidate 1 - Minecraft",
-      "description": "Minecraft 1.21.10 Release Candidate 1",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.10-rc1%201170x500.jpg",
-      "publishedAt": "2025-10-02T14:02:39Z",
-      "content": "Today we are shipping Release Candidate 1 for 1.21.10, a hotfix release fixing a couple of issues that have bubbled up to the surface following the release of The Copper Age drop.\r\nHappy mining!\r\nFix… [+1105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Stephen Tailby",
-      "title": "PS Studios Celebrates Launch of Ghost of Yotei on PS5 with Gorgeous Artwork - Push Square",
-      "description": "Wolf pack",
-      "url": "https://www.pushsquare.com/news/2025/10/ps-studios-celebrates-launch-of-ghost-of-yotei-on-ps5-with-gorgeous-artwork",
-      "urlToImage": "https://images.pushsquare.com/6e50e87a37447/large.jpg",
-      "publishedAt": "2025-10-02T14:00:00Z",
-      "content": "Another PS Studios game has launched, and that means a new wave of lovely original artwork from fellow first-party teams.\r\nGhost of Yotei arrives today, 2nd October 2025, and to celebrate Sucker Punc… [+2232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rockstargames.com"
-      },
-      "author": "Rockstar Games",
-      "title": "Celebrate Spooky Season as Halloween Haunts Los Santos - Rockstar Games",
-      "description": "Halloween descends on Southern San Andreas throughout October with a bubbling cauldron of chaos. There are reports of UFO sightings, bizarre transformations, and many more tricks and treats across GTA Online.",
-      "url": "https://www.rockstargames.com/newswire/article/3922ka4494o378/celebrate-spooky-season-as-halloween-haunts-los-santos",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3922ka4494o378/05ea9344c47ced637b321f01d0b65dc4d29fbebf.jpg",
-      "publishedAt": "2025-10-02T13:51:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Pokémon Legends: Z-A Gets A 6-Minute Overview Trailer For Switch 2 - Nintendo Life",
-      "description": "Game launches this month!",
-      "url": "https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-gets-a-6-minute-overview-trailer-for-switch-2",
-      "urlToImage": "https://images.nintendolife.com/ea0e6149cc234/large.jpg",
-      "publishedAt": "2025-10-02T13:30:00Z",
-      "content": "Nintendo has released a new overview trailer for Pokémon Legends: Z-A - Nintendo Switch 2 Edition (with a brief mention of the OG Switch version at the end), providing more than 6 minutes of informat… [+1223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Here’s why Google’s battery-powered Nest Cams aren’t getting a 2K upgrade, for now - 9to5Google",
-      "description": "Here's why Google isn't releasing a battery-powered 2K Nest Cam just yet, and it actually makes sense too.",
-      "url": "http://9to5google.com/2025/10/02/google-nest-cam-battery-2k-refresh-why/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Nest-Cam-Outdoor_Hazel_Hero_1-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-02T12:30:00Z",
-      "content": "Google’s latest lineup of Nest Cam devices has arrived, but there are no new battery models in the 2K refresh. Why? Google has an understandable answer.\r\nThe new lineup of Nest Cam devices includes a… [+1392 chars]"
+      "author": "Chris Reed",
+      "title": "The God of War 20th Anniversary DualSense PS5 Controller Is Up for Preorder - IGN",
+      "description": "A controller worthy of Kratos.",
+      "url": "https://www.ign.com/articles/god-of-war-20th-anniversary-dualsense-ps5-controller-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/02/god-of-war-20th-controller-blogroll-1759433808041.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-03T12:18:51Z",
+      "content": "Sony has been on a roll lately with custom designed PS5 DualSense controllers. Weve seen limited-edition controllers with themes based on Ghost of Yotei, Astro Bot, Death Stranding 2, and more. The n… [+1618 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": null,
-      "title": "Xbox Game Pass price increase gets players angry - BBC",
-      "description": "Is the subscription service once called \"the best deal in gaming\" still great value for players?",
-      "url": "https://www.bbc.com/news/articles/ckgepkwpkg4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2cf7/live/82f67be0-9f7f-11f0-92db-77261a15b9d2.jpg",
-      "publishedAt": "2025-10-02T11:51:03Z",
-      "content": "Peter GillibrandBBC Newsbeat\r\nThe Call of Duty series is one of the biggest titles available via Xbox Game Pass\r\nFans have reacted angrily after Microsoft announced price increases to its Xbox Game P… [+3612 chars]"
+      "author": "Daniel Siefert",
+      "title": "How real-time translation could transform travel – and what we might lose - BBC",
+      "description": "Apple's new live translation feature is a boon for travellers, but over-reliance on AI translation could make us rethink how, and why, we learn languages.",
+      "url": "https://www.bbc.com/travel/article/20251001-how-real-time-translation-could-transform-travel",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m5zxt5.jpg",
+      "publishedAt": "2025-10-03T12:01:17Z",
+      "content": "Apple's new live translation feature is a boon for travellers, but over-reliance on AI translation could make us rethink how, and why, we learn languages.\r\nFor nearly five decades, a comedy sci-fi no… [+3512 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "How developers are using Apple’s local AI models with iOS 26 - TechCrunch",
+      "description": "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple's local AI models.",
+      "url": "https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675",
+      "publishedAt": "2025-10-03T12:00:00Z",
+      "content": "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.\r\nThe compan… [+5495 chars]"
     }
   ]
 }
