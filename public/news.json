@@ -1,253 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 70,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Harvard Business Review"
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Mina the Hollower delayed to unannounced date - Gematsu",
+      "description": "Yacht Club Games has delayed Mina the Hollower from its previously planned October 31 release to an unannounced date, albeit it “isn’t a major delay.” It will be available for Pla…",
+      "url": "https://www.gematsu.com/2025/10/mina-the-hollower-delayed-to-unannounced-date",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/10/Mina-the-Hollower-Delay_10-06-25.jpg",
+      "publishedAt": "2025-10-06T20:45:08Z",
+      "content": "This week, our team made a tough decision: we decided to delay Mina the Hollower. The entire crew has been working tirelessly day and night to finish development for release on October 31, but we’re … [+982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Everything new in iOS 26.1 beta 2 - 9to5Mac",
+      "description": "iOS 26.1 developer beta 2 was released today, here’s every new feature and change that’s been discovered in the update.",
+      "url": "https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-06T19:52:00Z",
+      "content": "iOS 26.1 beta 2 arrived today for developers, bringing the latest changes ahead of the releases anticipated public launch soon. Heres whats new.\r\nApple shipped iOS 26.1 beta 2 today two weeks after t… [+1946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Anthony Alaniz",
+      "title": "This is What Future Lamborghinis Could Look Like - Motor1.com",
+      "description": "A new Lamborghini design study likely previews what the automaker’s future models could look like. Check out the slick concept here.",
+      "url": "https://www.motor1.com/news/774818/lamborghini-manifesto-future-design-concept/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/6Ze9Xk/s1/lamborghini-manifesto-design-study.jpg",
+      "publishedAt": "2025-10-06T19:28:55Z",
+      "content": "Lamborghini is not a subtle company. Even with the automaker's hexagonal design language evolving, it doesnt appear that future models will stray far from that iconic, sharp-edged styling. A new desi… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "Steve Anderson",
+      "title": "Panther Lake Lineup Allegedly Leaks: Intel Stock (NASDAQ:INTC) Slips - TipRanks",
+      "description": "Some exciting news emerged for chip stock Intel ($INTC), particularly if the news proves accurate. But investors did not take it near so well as might be expected. ...",
+      "url": "https://www.tipranks.com/news/panther-lake-lineup-allegedly-leaks-intel-stock-nasdaqintc-slips",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/intel-shutterstock_1782630341-750x406.jpg",
+      "publishedAt": "2025-10-06T19:05:02Z",
+      "content": "Story HighlightsReports about Intel’s Panther Lake lineup leak, and a new deal at AMD leaves Intel scrambling."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Fixes Alarms in iOS 26.1 - MacRumors",
+      "description": "With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before.    Stopping an...",
+      "url": "https://www.macrumors.com/2025/10/06/apple-fixes-alarms-in-ios-26-1/",
+      "urlToImage": "https://images.macrumors.com/t/ZTCsFD26dZxVbI6Vw64wR1RgAS8=/2000x/article-new/2025/10/ios-26-1-slide-to-stop.jpg",
+      "publishedAt": "2025-10-06T18:56:27Z",
+      "content": "With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before. \r\nStopping an alarm in iOS 26.1 beta 2 requires a new Slide to Stop … [+866 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "This 16-Inch Laptop Has Specs I Have Never Seen at a Price This Low - WIRED",
+      "description": "This Acer laptop just won Best Buy's Techtober sales event, sporting remarkably high specs for the price.",
+      "url": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e0b4dcc71e9489baa520c1/191:100/w_1280,c_limit/I've%20Never%20Seen%20a%20High-End%20Laptop%20Sell%20For%20This%20Cheap.png",
+      "publishedAt": "2025-10-06T18:48:00Z",
+      "content": "As part of Best Buy's Techtober sales event, I stumbled upon the best laptop deal I've seen in a while. It's for $450 off the Acer Swift 16 AI (8/10, WIRED Recommends), costing $800. Now, I'm not say… [+1647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Openai.com"
       },
       "author": null,
-      "title": "A Smarter Way to Disagree - Harvard Business Review",
-      "description": "It’s what you say, not what you think, that matters.",
-      "url": "https://hbr.org/2025/11/a-smarter-way-to-disagree",
-      "urlToImage": "/resources/images/article_assets/2025/09/R2506J_WALKER.jpg",
-      "publishedAt": "2025-10-05T21:27:44Z",
-      "content": "Every day, in every organization around the globe, people disagree about everything from pricing strategies to hiring decisions to major acquisitions. And disagree they should. Research across every … [+272 chars]"
+      "title": "Codex is now generally available - OpenAI",
+      "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
+      "url": "https://openai.com/index/codex-now-generally-available/",
+      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/Y2KhgPVYyo6q0UwBjEAwV/7ff5e4acda2b610b1e063ed421a8c0c2/Codex_Blog_SEO_16.9.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2025-10-06T18:08:51Z",
+      "content": "Were announcing the general availability of Codex and three new features that make it even more useful for engineering teams:\r\n<ul><li>A new Slack integration: Delegate tasks or ask questions to Code… [+4664 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Energy-reporters.com"
+        "name": "9to5Mac"
       },
-      "author": "Eirwen Williams",
-      "title": "“This Lunar Vehicle Changes Everything”: GM Builds 10-Year Battery Rover With Crab Walk To Power NASA’s Artemis Moon Missions (it’s unstoppable) - Energy Reporters",
-      "description": "The exploration of the Moon has always been a testament to human ingenuity and technological advancement. As NASA's Artemis program gears up for its next",
-      "url": "https://www.energy-reporters.com/news/this-lunar-vehicle-changes-everything-gm-builds-10-year-battery-rover-with-crab-walk-to-power-nasas-artemis-moon-missions-its-unstoppable/",
-      "urlToImage": "https://www.energy-reporters.com/wp-content/uploads/2025/10/shocking-lunar-discovery-this-new-tech-could-change-your-future-beyond-earth-and-its-closer-than-you-think.jpg",
-      "publishedAt": "2025-10-05T21:08:44Z",
-      "content": "<table><tr><td>IN A NUTSHELL</td></tr><tr><td><ul><li> The Lunar Terrain Vehicle (LTV) is designed to navigate the Moon’s extreme conditions and extend mission capabilities.</li><li> General Motors i… [+5752 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Waffles eat Bluesky - TechCrunch",
-      "description": "A waffle-centric controversy underlines ongoing tensions between Bluesky and some of its most vocal users.",
-      "url": "https://techcrunch.com/2025/10/05/waffles-eat-bluesky/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/bluesky-007.jpg?resize=1200,675",
-      "publishedAt": "2025-10-05T20:58:42Z",
-      "content": "For the past few days, my Bluesky feed has been increasingly filled with mysterious posts about waffles.\r\nThe back-and-forth seems to have started with a tongue-in-cheek post by Jerry Chen lampooning… [+3609 chars]"
+      "author": "Ryan Christoffel",
+      "title": "iPadOS 26.1 beta 2 restores Slide Over multitasking back to iPad - 9to5Mac",
+      "description": "Slide Over was removed from iPadOS last month when iPadOS 26 debuted, but the newly released 26.1 beta 2 restores it—at least partially.",
+      "url": "https://9to5mac.com/2025/10/06/ipados-26-1-beta-2-restores-slide-over-multitasking-back-to-ipad/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ipados-26-1-slide-over.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-06T17:57:00Z",
+      "content": "Apple released iPadOS 26.1 beta 2 to developers today, and it comes with a major returning feature: Slide Over multitasking is back on the iPad. Heres how it works.\r\nWhen iPadOS 26 launched, it intro… [+1669 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Testingcatalog.com"
-      },
-      "author": "Alexey Shabanov",
-      "title": "OpenAI is gearing up to release Agent Builder during DevDay - TestingCatalog",
-      "description": "Agent builder will let users build their agentic workflows, connect MCPs, ChatKit widgets and other tools. This is one of the smoothest Agent builder canvases I've used so far.",
-      "url": "https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/",
-      "urlToImage": "https://www.testingcatalog.com/content/images/size/w1200/2025/10/Agent-builder-new-workflow-OpenAI-API-10-05-2025_10_22_PM.jpg",
-      "publishedAt": "2025-10-05T20:32:05Z",
-      "content": "OpenAIs upcoming Agent Builder, previewed ahead of OpenAI DevDay on October 6, positions itself as a direct competitor to established workflow automation tools like n8n and Zapier, targeting develope… [+2405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Joe Pring",
-      "title": "Valorant reveals new Sengalese Agent Veto at VCT 2025 - Dexerto",
-      "description": "Riot Games has revealed Veto as Valorant’s new Agent 29. Here’s everything you need to know about the Senegalese Sentinel.",
-      "url": "https://www.dexerto.com/valorant/valorant-agent-29-veto-abilities-and-everything-we-know-3262371/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/05/valorant-veto.jpg",
-      "publishedAt": "2025-10-05T18:17:11Z",
-      "content": "Riot Games has revealed Veto as Valorants new Agent 29, showcasing the characters abilities and more. Heres everything we know about the Sengalese Sentinel.\r\nOfficially announced during the Paris leg… [+1897 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O'Brien",
-      "title": "If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge",
-      "description": "Over 25 years Audacity has gone from simple audio editor, to a UX nightmare. If you can get past the terrible logo, version 4 looks like it might fix that.",
-      "url": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Audacity.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-05T17:37:55Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOver 25 years its gone from a clean and simple audio editor, to a UX nightmare. Version 4 aims to fix that.\r\nOver 25 years its gone from a clean and simple audio… [+3590 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch",
-      "description": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a screen-less, AI-powered device.",
-      "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-      "publishedAt": "2025-10-05T16:34:26Z",
-      "content": "OpenAI and Jony Ive face significant technical challenges as they work to develop a screen-less, AI-powered device, according to the Financial Times.\r\nBack in May, OpenAI acquired io, the device star… [+900 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "No, Xbox's next gen console hardware plans aren't cancelled — for now - Windows Central",
-      "description": "Rumors are swirling that Xbox is going to kill its hardware ecosystem. It's not true ... for now, but it easily could've been true, given how nonsensically Xbox acts lately.",
-      "url": "https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wLxFKtx9X7M8kGuecEj2LN-1007-80.jpg",
-      "publishedAt": "2025-10-05T15:46:18Z",
-      "content": "So today, rumors began to swirl across the internet that Xbox is planning to exit hardware, and move entirely to Xbox Cloud Gaming as the primary way to access content. I can confirm via very trusted… [+7354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
+        "name": "Thegamepost.com"
       },
       "author": null,
-      "title": "GeForce RTX 50 holds 56% share of new-generation GPU sales in Australia, Radeon RX 9000 at 44% - VideoCardz.com",
-      "description": "Radeon vs GeForce in Australia Hardware Unboxed shares information from retailers on GPU brand popularity for the latest NVIDIA and AMD series Australian tech review channel Hardware Unboxed has revealed new sales data for GeForce and Radeon GPUs. The informa…",
-      "url": "https://videocardz.com/newz/geforce-rtx-50-accumulated-56-of-gpu-sales-in-australia-radeon-rx-9000-at-44",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/10/GEFORCE-RTX-50-VS-RADEON-RX-9000-HERO.jpg",
-      "publishedAt": "2025-10-05T15:19:00Z",
-      "content": "Hardware Unboxed shares information from retailers on GPU brand popularity for the latest NVIDIA and AMD series\r\nAustralian tech review channel Hardware Unboxed has revealed new sales data for GeForc… [+2633 chars]"
+      "title": "Bungie Opens Marathon Closed Technical Test to More Players, Here’s How to Apply - The Game Post",
+      "description": "Bungie has opened sign-ups for a new Closed Technical Test of its upcoming extraction shooter, Marathon.",
+      "url": "https://thegamepost.com/bungie-marathon-closed-technical-test-how-to-apply/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/10/bungie-marathon-tech-test-announced-4231.webp",
+      "publishedAt": "2025-10-06T17:53:27Z",
+      "content": "Bungie has opened sign-ups for a new Closed Technical Test of its upcoming extraction shooter, Marathon. \r\nIf youve been following Bungies long-awaited extraction shooter Marathon, youll know its bee… [+4293 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Lookout Landing"
+        "name": "CNET"
       },
-      "author": "Nick Tucker",
-      "title": "Mariners Moose Tracks, 10/5/25: Cal Raleigh, Jackson Chourio, and Harrison Bader - Lookout Landing",
-      "description": "Mariners lose game one, Jackson Chourio and Harrison Bader both left game one wins early.",
-      "url": "https://www.lookoutlanding.com/lookout-linkage/135480/mariners-moose-tracks-10-5-25-cal-raleigh-jackson-chourio-and-harrison-bader",
-      "urlToImage": "https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/10/imagn-27245499.jpg?quality=90&strip=all&crop=0%2C5.9295930423491%2C100%2C88.140813915302&w=1200",
-      "publishedAt": "2025-10-05T14:00:00Z",
-      "content": "© 2025Vox Media, LLC. All Rights Reserved\r\nGambling Problem? Call 1-800-GAMBLER (1-800-426-2537). Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Visit www.mdgambli… [+230 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "I’ve tested the latest Switch 2 controllers and this one is the best - The Verge",
-      "description": "Nintendo’s $89.99 Switch 2 Pro Controller has the most features of any model, but the best Switch 2 controller for most is the cheaper EasySMX S10. Here’s why.",
-      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257964_Switch_2_controllers_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-05T14:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNot everyone wants to spend $90 on a single controller. Luckily, we found several affordable third-party options that are great.\r\nNot everyone wants to spend $90… [+12316 chars]"
+      "author": null,
+      "title": "We Found 40+ of the Best Amazon Prime Day Headphone Deals: Save Up to $200 on Audio Gear From Apple, Sennheiser and More - CNET",
+      "description": "Save big on your audio upgrade with discounts on everything from earbuds to noise-canceling headphones. Here are our favorite audio bargains.",
+      "url": "https://www.cnet.com/deals/best-prime-day-headphone-deals-2025-10-06/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4c91a811ace832545d3feb8a52d9262fae74af5b/hub/2025/07/01/10b9c0b2-c8ff-47fa-8222-99aabc642e4b/product-images-headphone-deals.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T17:46:36Z",
+      "content": "Amazon's October Prime Day sale is merely hours away, but you don't need to wait to grab the top savings. Right now, several big brands have started offering their products at massive discounts, and … [+3490 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Push Square"
       },
-      "author": "Zak Doffman",
-      "title": "Microsoft ‘Security Disaster’—400 Million Windows PCs Now At Risk - Forbes",
-      "description": "You must act if you're at risk — what to know.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/10/05/microsoft-security-disaster-400-million-windows-pcs-now-at-risk/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-10-05T12:35:42Z",
-      "content": "NurPhoto via Getty Images\r\nMicrosoft has a security disaster on its hands. Up to 400 million Windows users must now brace for a uniquely troubling threat that leaves their PCs suddenly at risk. If th… [+2802 chars]"
+      "author": "Robert Ramsey",
+      "title": "Poll: What Are Your First Impressions of Ghost of Yotei on PS5? - Push Square",
+      "description": "Onryo own",
+      "url": "https://www.pushsquare.com/features/poll-what-are-your-first-impressions-of-ghost-of-yotei-on-ps5",
+      "urlToImage": "https://images.pushsquare.com/76450436f2a30/large.jpg",
+      "publishedAt": "2025-10-06T17:31:32Z",
+      "content": "We don't usually do polls for first impressions, but many of you reading this will have spent close to the whole weekend slicing through Ghost of Yotei and so we think it's worth asking for your init… [+1835 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "Battlefield 6 Day One Patch Includes Changes to Movement, Weapon Recoil, Rush, and More - IGN",
+      "description": "EA and Battlefield Studios have previewed some of the gameplay tweaks and balance changes coming with the Battlefield 6 day one patch later this week.",
+      "url": "https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/06/battlefield-6-day-one-patch-1759770134402.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-06T17:13:06Z",
+      "content": "EA and Battlefield Studios have previewed some of the gameplay tweaks and balance changes coming with the Battlefield 6\r\n day one patch.\r\nInformation about the first patch for this weeks long-awaited… [+5810 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Christian Wait",
+      "title": "Deals For Today: Pokémon TCG, Games and Funko Prime Day Deals Drop Early - IGN",
+      "description": "As of October 6, early Prime Day deals are live with discounts on Pokémon TCG boxes, Nintendo Switch titles, and Funko Pops. Score savings like Team Rocket’s Mewtwo ex Box for $34.95 and Pokémon Shining Pearl for $43.50 at Amazon.",
+      "url": "https://www.ign.com/articles/deals-for-today-october-6",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/06/feature-image-31-1759765018761.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-06T17:11:04Z",
+      "content": "Prime Day doesn't drop until tommorow, but we're already seeing big savings across Pokémon Switch 1 games, Funko Pop! and trading card game sealed products at market value or less. It's a great day t… [+2576 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rikka Altland",
+      "title": "Save up to 50% on Dyson stick vacuums, fans, heaters and more for October Prime Day - CNN",
+      "description": "Dyson is kicking off its October Prime Day sale early with some of the year’s best deals on stick vacuums, fans, heaters and more at up to 50% off.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/dyson-early-prime-day-deals-2025-10-06",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pbdd-dyson-deals-2025.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T17:00:00Z",
+      "content": "Want more deals? Visit CNN Underscoreds Guide to Prime Big Deal Daysfor wall-to-wall coverage of the best discounts to be found during Amazons massive sale.\r\nAs all the best October Prime Day deals b… [+4812 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BGR"
+        "name": "Ubisoft.com"
       },
-      "author": "Briley Kenney",
-      "title": "Google Discontinued It's Nest Brand - Here's Why - bgr.com",
-      "description": "Google Nest is essentially discontinued, and smart home users will begin hearing less and less about it. We'll explain what you need to know.",
-      "url": "https://www.bgr.com/1984436/why-google-discontinued-nest-brand-2025/",
-      "urlToImage": "https://www.bgr.com/img/gallery/google-discontinued-its-nest-brand-heres-why/l-intro-1759351294.jpg",
-      "publishedAt": "2025-10-05T12:17:00Z",
-      "content": "There's an old adage that goes, \"Some things have to die in order for other things to live.\" In a general sense, it's usually talking about life and loss and the transitional period of moving on from… [+1542 chars]"
+      "author": null,
+      "title": "Assassin's Creed Mirage Valley of Memory Launches for Free on November 18 - Ubisoft",
+      "description": "The free story expansion takes Basim to a new region, AlUla, in search of his missing father.",
+      "url": "https://news.ubisoft.com/en-us/article/5TJWHqjuTNHSGd1Q0gPQJu/assassins-creed-mirage-valley-of-memory-launches-for-free-on-november-18",
+      "urlToImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5XUdIkWHDceMjseN53tZ3v/be9b04eedaabec3340daee547df378b3/ACRFT_UCS38336_KEYART_RGB-1.jpg",
+      "publishedAt": "2025-10-06T16:36:54Z",
+      "content": "Assassin's Creed Mirage is celebrating its second anniversary with the announcement of Valley of Memory, a free story expansion for Assassin's Creed Mirage launching November 18.\r\nWhat is Assassin's … [+3876 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ComicBook.com"
+        "name": "Thegamepost.com"
       },
-      "author": "Tyler Fischer",
-      "title": "EA Shutting Down AAA Game Permanently in 48 Hours - ComicBook.com",
-      "description": "An EA game is set to shut down permanently in 48 hours, leaving some parts of the game still playable, but much worse.",
-      "url": "http://comicbook.com/gaming/news/ea-shutting-down-aaa-game-permanently-in-48-hours/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/e-l-e-c-t-r-o-n-i-c-a-r-t-s.png?resize=2000,1125",
-      "publishedAt": "2025-10-05T12:06:56Z",
-      "content": "An EA game is set to shut down, permanently, in 48 hours. That said, it is not being delisted. While it will be stripped of much of its functionality and appeal when the game’s servers shut down, EA … [+2056 chars]"
+      "author": null,
+      "title": "Destiny 2 Hits Lowest Player Count on Steam in Franchise History as Community Reaches Breaking Point: \"I Don’t Trust Bungie Anymore\" - The Game Post",
+      "description": "Destiny 2 just hit its lowest player count on Steam since launch. Between new systems introduced in the Edge of Fate, controversial changes, and fading trust in Bungie, long-time fans are walking away.",
+      "url": "https://thegamepost.com/destiny-2-lowest-player-count-steam-franchise-history-bungie-trust/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/10/destiny-2-lowest-player-count-steam-franchise-history-bungie-3.webp",
+      "publishedAt": "2025-10-06T16:20:12Z",
+      "content": "Destiny 2 just hit its lowest player count on Steam since launch. Between new systems introduced in the Edge of Fate, controversial changes, and fading trust in Bungie, long-time fans are walking awa… [+4703 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gear Patrol"
+        "name": "9to5google.com"
       },
-      "author": "tbowe",
-      "title": "12 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "description": "Catching you up on the past week’s most notable product releases.",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-10-5-2025/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/mcintosh-amp-lead.webp",
-      "publishedAt": "2025-10-05T12:00:00Z",
-      "content": "Another week down, and, per usual, a bunch of new tech and gadgets have been announced.\r\nThis past week, McIntosh introduced a special-edition amplifier, both Google and Amazon revealed their next-ge… [+2912 chars]"
+      "author": "Abner Li",
+      "title": "Google Wallet adds support for 10th state ID on Android - 9to5Google",
+      "description": "After the ninth addition last week, Google Wallet on Android is now rolling out support for Arkansas state IDs.",
+      "url": "http://9to5google.com/2025/10/06/google-wallet-id-arkansas/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/google-wallet-icon-pay-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-06T16:15:00Z",
+      "content": "After the ninth addition last week, Google Wallet on Android is now rolling out support for Arkansas state IDs. \r\nOpen the Google Wallet app, tap the Add to Wallet FAB (floating action button) in the… [+2253 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "David Pierce",
-      "title": "The best lists to keep — and the best ways to keep them - The Verge",
-      "description": "Plus: the Amazon Kindle Scribe Colorsoft, Logitech’s MX Master 4, Sora 2, Comet, and more, in this week’s Installer newsletter.",
-      "url": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-100.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-05T12:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Amazons smart new stuff, OpenAIs social network, and much more.\r\nPlus, in this weeks Installer: Amazons smart new stuff, OpenAIs s… [+16429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kotaku Deals",
-      "title": "Lenovo Gaming Laptop (40GB DDR5 RAM, Ryzen 5, 1TB) Is 62% Off, Amazon Is Cleaning House Like Never Before - Kotaku",
-      "description": "Lenovo packed this rig with specs built for true gamers.",
-      "url": "https://kotaku.com/lenovo-gaming-laptop-40gb-ddr5-ram-ryzen-5-1tb-is-62-off-amazon-is-cleaning-house-like-never-before-2000631818",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/lenovo-gaming-40-gb-ram-1200x675.jpg",
-      "publishedAt": "2025-10-05T11:19:40Z",
-      "content": "Gaming laptops usually come at high prices, and for anything decent in the market below $1,500, it’s like looking for a needle in a haystack. These systems have powerful hardware to support demanding… [+3521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Joe Pring",
-      "title": "YouTuber reaches Minecraft’s legendary Far Lands after 14-plus-year journey - Dexerto",
-      "description": "YouTuber KurtJMac has completed what’s been one of gaming’s longest journeys – walking from spawn to the Far Lands in Minecraft",
-      "url": "https://www.dexerto.com/minecraft/youtuber-reaches-minecrafts-legendary-far-lands-after-14-plus-year-journey-3262361/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/07/31/Surrounded-Mountain-Minecraft-seed.jpg",
-      "publishedAt": "2025-10-05T11:13:30Z",
-      "content": "YouTuber KurtJMac has completed whats been one of gamings longest journeys walking from spawn to the Far Lands in Minecraft, a goal he began chasing over a decade ago in his Far Lands or Bust series.… [+1612 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Lewin Day",
-      "title": "3D Printing A New Kind Of Skateboard That Is Ultimately Unsafe - Hackaday",
-      "description": "Skateboards were organically developed in the 1940s and 1950s; 30 years would then pass before the ollie was developed, unlocking new realms for skaters dedicated to the artform. The advent of powe…",
-      "url": "https://hackaday.com/2025/10/05/3d-printing-a-new-kind-of-skateboard-that-is-ultimately-unsafe/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/I-Invented-A-New-Type-of-Skateboard-11-46-screenshot-1.png",
-      "publishedAt": "2025-10-05T11:00:00Z",
-      "content": "Skateboards were organically developed in the 1940s and 1950s; 30 years would then pass before the ollie was developed, unlocking new realms for skaters dedicated to the artform. The advent of powerf… [+1558 chars]"
+      "author": "Matt Purslow",
+      "title": "Crimson Desert Is This Month’s IGN First, Check Out 11 Minutes of New Quest Gameplay - IGN",
+      "description": "Check out 11 minutes of brand new Crimson Desert gameplay, showcasing an action-packed quest to retake a fortress captured by rebels.",
+      "url": "https://www.ign.com/articles/crimson-desert-gameplay-ign-first",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/06/crimson-desert-ign-first-quest-gameplay-1759739901532.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-06T16:02:06Z",
+      "content": "The wild and expansive open-world adventure, Crimson Desert, is the focus of Octobers IGN First. As is tradition, were kicking off a month of exclusive content with a brand new gameplay video. Above,… [+1978 chars]"
     }
   ]
 }
