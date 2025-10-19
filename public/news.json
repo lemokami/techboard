@@ -1,214 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 52,
   "articles": [
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica",
-      "description": "Copilot expands with an emphasis on creating and editing files, voice input.",
-      "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Windows-Blog-Hero-Image_High-Res-1152x648.jpg",
-      "publishedAt": "2025-10-16T21:12:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com",
-      "description": "Apple Inc. is preparing to finally launch a touch-screen version of its Mac computer, reversing course on a stance that dates back to co-founder Steve Jobs.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivvYg35IhJJs/v1/1200x800.jpg",
-      "publishedAt": "2025-10-16T18:52:31Z",
-      "content": "Apple Inc. is preparing to finally launch a touch-screen version of its Mac computer, reversing course on a stance that dates back to co-founder Steve Jobs.\r\nThe company is readying a revamped MacBoo… [+220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blizzard.com"
-      },
-      "author": null,
-      "title": "Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News",
-      "description": "Preview the sweeping permanents changes coming to Itemization, Systems, and more, on both Seasonal and Eternal Realms.",
-      "url": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/gr/GR2VEK57SC2L1760573259083.png",
-      "publishedAt": "2025-10-16T17:00:00Z",
-      "content": "Prepare yourself, wanderer. There are permanent changes coming to the way you play Diablo IV. Arriving with Season 11, we are overhauling the way Itemization, monster combat, player defense, all func… [+12983 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
-      "description": "UZDoom fork promises to fix other top-down leadership problems with the decades-old mod.",
-      "url": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-1152x648.png",
-      "publishedAt": "2025-10-16T16:48:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-Madori Davis",
-      "title": "A new wave of social media apps provide hope in a doomscrolling world - TechCrunch",
-      "description": "“The platforms that won were the ones that kept people scrolling the longest, not the ones that made them feel the most connected,”  Zehra Naqvi told TechCrunch. “Now there is an abundance of content but a scarcity of joy.”",
-      "url": "https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Gen-Z-on-social-media-GettyImages-1693570126.jpg?resize=1200,800",
-      "publishedAt": "2025-10-16T16:40:00Z",
-      "content": "Zehra Naqvi recalls the magical days of the early social internet.\r\nShe grew up inthe One Direction and Marvel fandomsin the early 2010s.This was back whenpeople posted photos of lattes using the Val… [+8833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cord Cutters News, LLC"
-      },
-      "author": "Luke Bouma",
-      "title": "Apple & NBCUniversal Announce New Bundled Stream Deal For Peacock & Apple TV - | Cord Cutters News",
-      "description": "Apple and NBCUniversal today unveiled the Apple TV and Peacock Bundle, set to launch on October 20, 2025. This first-of-its-kind partnership combines the strengths of both platforms, offering subscribers a diverse mix of premium content, from critically accla…",
-      "url": "https://cordcuttersnews.com/apple-nbcuniversal-announce-new-bundled-stream-deal-for-peacock-apple-tv/",
-      "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2021/08/shutterstock_1925094251-scaled.jpg",
-      "publishedAt": "2025-10-16T16:15:27Z",
-      "content": "Apple and NBCUniversal today unveiled the Apple TV and Peacock Bundle, set to launch on October 20, 2025. This first-of-its-kind partnership combines the strengths of both platforms, offering subscri… [+3786 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "Anthropic turns to ‘skills’ to make Claude more useful at work - The Verge",
-      "description": "Anthropic has announced a new feature for its Claude AI chatbot called Skills, which should make AI agents more useful.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Skills-settings-blog-inline_1920x1080.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-16T16:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe announcement follows a similar new tool from OpenAI.\r\nThe announcement follows a similar new tool from OpenAI.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts fr… [+3919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "Obsidian Entertainment On The Lessons Learned From The Outer Worlds - Game Informer",
-      "description": "We spoke to the team behind The Outer Worlds 2 to learn more about the lessons learned from the first game.",
-      "url": "https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/09/24/a6073db2/tow2_15.jpg.webp",
-      "publishedAt": "2025-10-16T15:25:34Z",
-      "content": "The launch of The Outer Worlds 2 is right around the corner it hits PlayStation 5, Xbox Series X/S, and PC on October 29 (or on October 24 if you buy the more expensive Premium Edition). Ahead of tha… [+6154 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Apple loses another AI exec to Meta - TechCrunch",
-      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead-up to a much-anticipated Siri revamp scheduled for March.",
-      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-      "publishedAt": "2025-10-16T15:21:03Z",
-      "content": "Ke Yang, the Apple executive leading the iPhone maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.  \r\nYangs departure marks the latest in a string of … [+926 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed - TechCrunch",
-      "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.",
-      "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675",
-      "publishedAt": "2025-10-16T15:15:50Z",
-      "content": "Following backlash over an increase in “AI slop” taking over users’ feeds, Pinterest on Thursday added new tools that let users limit how much AI-generated content they see on the platform.\r\nUsers ca… [+2522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Will Sattelberg",
-      "title": "OnePlus reveals Android 16 update with an iOS-like redesign and Apple Watch support - 9to5Google",
-      "description": "With some big inspiration from Apple, the next OS upgrade from OnePlus is bound to be a little controversial.",
-      "url": "http://9to5google.com/2025/10/16/oneplus-oxygenos-16-ios-like-redesign-ai-apple-watch-support/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Quick-Settings-in-OxygenOS-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-16T15:10:00Z",
-      "content": "The OnePlus 15 is seemingly a short few months away, as it’s already been officially announced for both China and global markets. In order to launch a new phone, though, OnePlus also needs a new soft… [+4134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "Battlefield 6 Shatters Records Becoming the Biggest Launch in Franchise History - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20251016418634/en/Battlefield-6-Shatters-Records-Becoming-the-Biggest-Launch-in-Franchise-History",
-      "urlToImage": null,
-      "publishedAt": "2025-10-16T15:01:00Z",
-      "content": null
-    },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
-      "title": "M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed? - 9to5Mac",
-      "description": "M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed with the new model? Not a lot. Here are four differences.",
-      "url": "https://9to5mac.com/2025/10/16/m5-macbook-pro-vs-m4-macbook-pro-whats-actually-changed/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-vs-m4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-16T14:32:00Z",
-      "content": "Apple launched a trio of new M5 products this week, including the M5 MacBook Pro. But whats actually changed with the M5 model compared to last years M4 MacBook Pro? Not a lot. Here are four differen… [+3039 chars]"
+      "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
+      "description": "I upgraded to AirPods Pro 3 on day one, and my experience has been a little more complicated than I expected so far.",
+      "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-17T19:13:00Z",
+      "content": "Apple launched AirPods Pro 3 last month to widespread praise from reviewers. Ive been using AirPods Pro 3 since upgrading on day one, and my experience has been a little more complicated so far.\r\nMy … [+3600 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Megan Morrone",
-      "title": "Exclusive: OpenAI hires black hole physicist in broader science push - Axios",
-      "description": "The ChatGPT maker wants to compete with Google DeepMind in the sciences.",
-      "url": "https://www.axios.com/2025/10/16/openai-science-black-hole-physicist",
-      "urlToImage": "https://images.axios.com/5apj9xd-jxg9wtGZraWNQyhxhEY=/0x0:1920x1080/1366x768/2025/10/15/1760563660206.jpeg",
-      "publishedAt": "2025-10-16T14:00:54Z",
-      "content": "Between the lines: OpenAI's new hire signals an intent to deepen its scientific bona fides beyond being the world's most popular chatbot and AI video app.\r\n<ul><li>The company already uses its AI mod… [+1858 chars]"
+      "author": "Charles Pulliam-Moore",
+      "title": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps - The Verge",
+      "description": "A smarter camera and beefed-up safety features make the third-gen Rotom Phone a solid upgrade.",
+      "url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0172.jpg?quality=90&strip=all&crop=3.1984375%2C4.9498254799302%2C96.8015625%2C90.10034904014&w=1200",
+      "publishedAt": "2025-10-17T18:52:06Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe third-gen Rotom Phones handy zoom and beefed-up safety features make for a solid upgrade.\r\nby\r\nCharles Pulliam-MooreClose\r\nCharles Pulliam-Moore\r\nPosts from … [+9021 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "Apple is finally working on a touchscreen MacBook Pro - Mashable",
+      "description": "The touchscreen will arrive in time for the M6 chip.",
+      "url": "https://mashable.com/article/apple-touchscreen-macbook-pro-report",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00aC6iTXnGFx5dFkvtuf6FI/hero-image.fill.size_1200x675.v1760650404.jpg",
+      "publishedAt": "2025-10-17T16:41:15Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Eurogamer.net"
       },
-      "author": "Lottie Lynn, Chris Tapsell",
-      "title": "Nine things to know before playing Pokémon Legends Z-A - Eurogamer",
-      "description": "Eurogamer's top nine tips to know before you start playing Pokémon Legends: Z-A!",
-      "url": "https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a",
-      "urlToImage": "https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-10-16T13:53:00Z",
-      "content": "Pokémon Legends: Z-A has finally arrived to return Pokémon fans to the Kalos region of Gen 6 for the first time in 12 years.\r\nThe second installment in the Legends franchise, Z-A shares some similari… [+8914 chars]"
+      "author": "Connor Makar",
+      "title": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer",
+      "description": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts.",
+      "url": "https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts",
+      "urlToImage": "https://assetsio.gnwcdn.com/arc-raiders-man-in-orange-suit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T16:09:18Z",
+      "content": "The Arc Raiders server slam has begun. The much-anticipated third-person extraction shooter has only been available to play for roughly two hours (at time of writing), and it's already nearing 100,00… [+2073 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "Gameinformer.com"
+      },
+      "author": "Kyle Hilliard",
+      "title": "Ghost Of Yōtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer",
+      "description": "We spoke with Ghost Of Yōtei's co-director and lead writer for a spoiler-filled conversation about the game's many highlights.",
+      "url": "https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/07/17/eb1289d5/ghost-of-yotei_state-of-play_mastering-the-blade_9.jpg.webp",
+      "publishedAt": "2025-10-17T16:06:02Z",
+      "content": "Sucker Punch's impressive follow-up to Ghost of Tsushima has been in players' hands for about two weeks. Many have had the opportunity to see the narrative to its conclusion (ourselves included), so … [+23022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aftermath.site"
       },
       "author": null,
-      "title": "ASUS ProArt 8K PA32KCX display launches this month – world’s first 8K HDR mini LED - VideoCardz.com",
-      "description": "ASUS ProArt display 8K PA32KCX has 7680×4320 resolution, 32-inches and 60Hz refresh rate Not for gamers. Each time there’s news about 6K or 8K monitors, it brings back memories of the GeForce RTX 3090 marketing campaign, where high-profile YouTubers were task…",
-      "url": "https://videocardz.com/newz/asus-proart-8k-pa32kcx-display-launches-this-month-worlds-first-8k-hdr-mini-led",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/10/ASUS-PA32KCX-8K-MONITOR.jpg",
-      "publishedAt": "2025-10-16T13:15:00Z",
-      "content": "Not for gamers.\r\nEach time theres news about 6K or 8K monitors, it brings back memories of the GeForce RTX 3090 marketing campaign, where high-profile YouTubers were tasked with showing how the GPU w… [+1970 chars]"
+      "title": "Big Week For Unions At Blizzard As Hearthstone Team Also Votes ‘Yes’ - aftermath.site",
+      "description": "Hearthstone’s Team 5 is unionizing under Communications Workers of America, the group of workers announced Friday.",
+      "url": "https://aftermath.site/hearthstone-union-blizzard",
+      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/10/HS34.0_KeyArt_Final_horizontal.jpg",
+      "publishedAt": "2025-10-17T16:00:00Z",
+      "content": "Blizzard Entertainment's Team 5responsible for the development of Hearthstoneis unionizing. A group of around 100 workers voted yes to representation with the Communications Workers of America under … [+6158 chars]"
     },
     {
       "source": {
@@ -216,51 +86,168 @@
         "name": "Xbox.com"
       },
       "author": "Joe Skrebels, Xbox Wire Editor-in-Chief",
-      "title": "Customize Your Game: New Accessories for ROG Xbox Ally Handhelds - Xbox Wire",
-      "description": "With the launch of ROG Xbox Ally and ROG Xbox Ally X today, a new line-up of Designed for Xbox accessories is here to help you play your way.",
-      "url": "https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/Hero_New-99ed742c3b3433e46190.jpg",
-      "publishedAt": "2025-10-16T13:04:31Z",
-      "content": "The wait is over ROG Xbox Ally and ROG Xbox Ally X are officially here! With the launch of ROG Xbox Ally and ROG Xbox Ally X today, a new line-up of Designed for Xbox accessories is here to help you … [+5181 chars]"
+      "title": "Keeper: A Note from Its Creator on Launch Day - Xbox Wire",
+      "description": "Keeper, the otherworld new adventure from Double Fine, arrives today - read a note from Creative Lead, Lee Petty, as his beautiful passion project arrives.",
+      "url": "https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/Keeper_TitledHeroArt_1920x1080-dc7554cb030cad42f511.jpg",
+      "publishedAt": "2025-10-17T15:00:55Z",
+      "content": "Hi there, my name is Lee Petty, and Im a Creative Lead here at Double Fine Productions. Ive been at Double Fine for almost 20 years! I was the Art Director for Brütal Legend and Broken Age, but was a… [+2390 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "LAist"
       },
-      "author": "Leonard David",
-      "title": "New space debris shield? Satellites and astronauts could suit up in novel 'Space Armor' - Space",
-      "description": "\"We took the shot at making a tile and were blown away by the test results.\"",
-      "url": "https://www.space.com/space-exploration/satellites/new-space-debris-shield-satellites-and-astronauts-could-suit-up-in-novel-space-armor",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/naQtry7CedNEFLbjen6Rqe-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:01:00Z",
-      "content": "Humanity has a new tool in the fight against space junk — \"Space Armor™,\" a multi-functional composite that could protect both spacecraft and astronauts.\r\nSpace Armor is made via a proprietary fiber-… [+3279 chars]"
+      "author": "The Markup",
+      "title": "How do I prepare my phone for a protest? - LAist",
+      "description": "Simple steps to take before hitting the streets.",
+      "url": "https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest",
+      "urlToImage": "https://scpr.brightspotcdn.com/dims4/default/6dfbe6e/2147483647/strip/true/crop/5921x3109+0+419/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F57%2F61%2F93e097f34fcd9fb214adace79ea2%2Fgettyimages-2219442985.jpg",
+      "publishedAt": "2025-10-17T15:00:00Z",
+      "content": "This article is an updated version of The Markups original article on how to prepare your phone for a protest, published in 2020.\r\nNo Kings Day protests are taking place this Saturday across the coun… [+11073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "New iPhone Fold rumor details screen sizes, possible launch delay - 9to5Mac",
+      "description": "A new report offers fresh updates on the screen sizes to expect from Apple’s iPhone Fold and the possibility of a delay.",
+      "url": "https://9to5mac.com/2025/10/17/new-iphone-fold-rumor-details-screen-sizes-possible-launch-delay/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-17T14:45:00Z",
+      "content": "Next years iPhone lineup is expected to add the first ever foldable model, which may be called iPhone Fold or iPhone Ultra. Today a new report from The Elec offers fresh updates on the screen sizes t… [+1953 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "WhatsApp will curb the number of messages people and businesses can send without a response - TechCrunch",
+      "description": "The company said the controls are designed to be effective against people and businesses that blast messages and spam people.",
+      "url": "https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+      "publishedAt": "2025-10-17T14:11:33Z",
+      "content": "WhatsApp is attempting to solve its spam problem by curbing how many messages individual users and businesses can send to unknown people without getting a response.\r\nWhile the app started as an easy … [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "M5 Chip Achieves Impressive Feat in 14-Inch MacBook Pro Speed Test - MacRumors",
+      "description": "The first alleged benchmark result for the M5 chip in the new 14-inch MacBook Pro has surfaced, allowing for some performance comparisons.   Based on...",
+      "url": "https://www.macrumors.com/2025/10/17/m5-chip-macbook-pro-geekbench-benchmark/",
+      "urlToImage": "https://images.macrumors.com/t/A2tH7BZbk09SRZ8h2fOxPwVirEI=/1600x/article-new/2025/10/14-inch-MacBook-Pro-Keyboard.jpg",
+      "publishedAt": "2025-10-17T14:10:43Z",
+      "content": "The first alleged benchmark result for the M5 chip in the new 14-inch MacBook Pro has surfaced, allowing for some performance comparisons.\r\nBased on a single unconfirmed result uploaded to the Geekbe… [+2104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy - NPR",
+      "description": "The Xbox Ally X isn't the handheld console the name implies. But it's still sold out, despite debuting as fans rage against price increase to Game Pass.",
+      "url": "https://www.npr.org/2025/10/17/nx-s1-5508232/rog-xbox-ally-x-review-handheld-gaming",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Ff5%2Fb29236084823844e248565f8bcfc%2Frog-xbox-ally-x-3.jpg",
+      "publishedAt": "2025-10-17T14:00:00Z",
+      "content": "Tech manufacturer ASUS is struggling to keep up with demand for its new ROG Xbox Ally X\r\n, released on Thursday. After testing a review unit of the handheld gaming PC, I can attest that it's a powerf… [+3568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Ben Kerry",
+      "title": "Roundup: Here's What The Reviews Are Saying About Vampire: The Masquerade - Bloodlines 2 - Pure Xbox",
+      "description": "It's finally coming out!",
+      "url": "https://www.purexbox.com/news/2025/10/roundup-heres-what-the-reviews-are-saying-about-vampire-the-masquerade-bloodlines-2",
+      "urlToImage": "https://images.purexbox.com/daccc31b737af/large.jpg",
+      "publishedAt": "2025-10-17T13:45:00Z",
+      "content": "Vampire: The Masquerade - Bloodlines 2 was first announced before the current generation of consoles even started, and now after multiple delays, reboots and developer handovers, this vampiric action… [+3582 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "SamMobile"
       },
-      "author": "Abid Iqbal Shaik",
-      "title": "First real-life Galaxy S26 Ultra photo leaks, and something looks different - SamMobile",
-      "description": "While there were doubts about whether a Galaxy S26+ exists or not, one thing has always been certain: the Galaxy S26 series will include the usual Ultra model. Leaks have suggested that it will take a design cue from the Galaxy S25 Edge and Galaxy Z Fold 7 by…",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-case-photo-leak/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Ultra-review-design-2-1200x675.jpg",
-      "publishedAt": "2025-10-16T11:15:00Z",
-      "content": "While there were doubts about whether a Galaxy S26+ exists or not, one thing has always been certain: the Galaxy S26 series will include the usual Ultra model. Leaks have suggested that it will take … [+939 chars]"
+      "author": "Abhijeet Mishra",
+      "title": "Samsung has pulled the Galaxy S24 One UI 8 update you already installed - SamMobile",
+      "description": "It seems Samsung is discovering bugs that slipped through the cracks in the One UI 8 update for multiple devices. The company recently pulled the update for the Galaxy S22 series just a week after its release, and now it has done the same for the Galaxy S24 l…",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-plus-ultra-one-ui-8-rollout-stopped/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/02/Galaxy-S24-Plus-review-3-1.jpg",
+      "publishedAt": "2025-10-17T13:33:00Z",
+      "content": "It seems Samsung is discovering bugs that slipped through the cracks in the One UI 8 update for multiple devices. The company recently pulled the update for the Galaxy S22 series just a week after it… [+1195 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Interesting Engineering"
+        "name": "MacRumors"
       },
-      "author": "Sujita Sinha",
-      "title": "'Milestone': Google AI reveals new method to make cancer treatable - Interesting Engineering",
-      "description": "Google DeepMind and Yale’s new 27B-parameter AI model has uncovered a previously unknown cancer pathway, now confirmed in living cells.",
-      "url": "https://interestingengineering.com/health/google-deepmind-new-ai-cancer-treatment",
-      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/10/IE-Photo-46.jpg",
-      "publishedAt": "2025-10-16T11:01:00Z",
-      "content": "The discovery stems from the AIs ability to understand the language of individual cells, identifying how to make certain hard-to-treat or cold tumors visible to the bodys immune system. These types o… [+1625 chars]"
+      "author": "Hartley Charlton",
+      "title": "Samsung Reportedly Gives Up on Super Thin Smartphones Amid Low Sales - MacRumors",
+      "description": "Samsung has abruptly canceled development of its planned Galaxy S26 Edge smartphone after disappointing sales of the ultra-thin Galaxy S25 Edge,...",
+      "url": "https://www.macrumors.com/2025/10/17/samsung-reportedly-gives-up-on-thin-smartphones/",
+      "urlToImage": "https://images.macrumors.com/t/gUdM7P7UfiXnqJg80JSVU0e8arQ=/2500x/article-new/2025/05/S25-Edge-Thumb-2.jpg",
+      "publishedAt": "2025-10-17T13:31:49Z",
+      "content": "Samsung has abruptly canceled development of its planned Galaxy S26 Edge smartphone after disappointing sales of the ultra-thin Galaxy S25 Edge, which rivals the iPhone Air, Korea's NewsPim claims.\r\n… [+1972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Connor Makar",
+      "title": "Battlefield 6 developers U-turn on a multiplayer adjustment following community feedback - Eurogamer",
+      "description": "Battlefield 6 developers U-Turn on a multiplayer adjustment following community feedback.",
+      "url": "https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback",
+      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-headline_RXXqaEX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T13:12:15Z",
+      "content": "EA and Battlefield Studios have done a major U-turn on a drastic Battlefield 6 change made earlier this week, following community feedback.\r\nThis change, which saw initial spawn ticket figures decrea… [+1454 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "AI can’t even turn on the lights - The Verge",
+      "description": "Gemini, Siri, and Alexa are all making big bets on AI for virtual assistants, and so far it’s not working very well. The reason why, and more, on The Vergecast.",
+      "url": "https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1017_Site.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-10-17T12:56:16Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples M5, the state of smart home assistants, and a boom in AI song covers.\r\nOn The Vergecast: Apples M5, the state of smart home assistants, … [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Ryan Epps",
+      "title": "Roku just got a huge upgrade for millions — here's all the new features - Tom's Guide",
+      "description": "Roku enters the AI era",
+      "url": "https://www.tomsguide.com/entertainment/streaming-devices/roku-just-got-a-huge-upgrade-for-millions-heres-all-the-new-features",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KmTdaNx9yr3P2WiE25UJSK-1988-80.jpg",
+      "publishedAt": "2025-10-17T12:03:17Z",
+      "content": "Roku is enhancing its platform with new features, AI functionality, real-time sports alerts and more. The changes not only aim to make search and discovery faster, but also pave the way for Roku OS t… [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VG247"
+      },
+      "author": "Sherif Saed",
+      "title": "Battlefield 6 devs are finally doing something about its dreadful XP and attachment unlock rates, but you can say goodbye to Portal bot farms - VG247",
+      "description": "Battlefield Studios has finally addressed what's been everyone's biggest problem with Battlefield 6, but it's not all good news.",
+      "url": "https://www.vg247.com/battlefield-6-progression-xp-boost-attachment-unlocks-dev-update",
+      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-multiplayer-reveal-screen-14.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-10-17T10:09:13Z",
+      "content": "Having gotten access to Battlefield 6 ten days before the general public as part of the game’s review event, one thing stood out to me more than anything else in the game’s multiplayer sandbox: it ta… [+3520 chars]"
     }
   ]
 }
