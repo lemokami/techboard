@@ -1,227 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 65,
+  "totalResults": 68,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Anthony Cuthbertson",
+      "title": "Oversharing with AI: How your ChatGPT conversations could be used against you - The Independent",
+      "description": "People are treating AI chatbots as advisors, confidantes, and even accomplices, writes Anthony Cuthbertson. But with no legal protections, and predatory actors looking to monetise and exploit this new trove of deeply intimate data, a new tech reckoning has ar…",
+      "url": "https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html",
+      "urlToImage": "https://static.the-independent.com/2025/10/16/18/10/RoseWillis-KathrynConradARising-Tide-Lifts-All-Bots-1280x852.png?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-10-19T22:03:00Z",
+      "content": "In the early hours of 28 August, a quiet car park on a college campus in Missouri became the scene of a violent vandalism rampage. In the space of 45 minutes, 17 cars were left with shattered windows… [+5757 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Kohler unveils a camera for your toilet - TechCrunch",
+      "description": "Home goods company Kohler recently unveiled a new device called the Dekoda — a $599 camera that can be attached to your toilet bowl and take pictures of what’s inside.",
+      "url": "https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/kohler-dekoda.jpg?w=1024",
+      "publishedAt": "2025-10-19T21:30:09Z",
+      "content": "Home goods company Kohler recently unveiled a new device called the Dekoda a $599 camera that can be attached to your toilet bowl and take pictures of whats inside.\r\nCNET reports that the Dekoda anal… [+842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "http://mp1st.com/category/news"
+      },
+      "author": "Efrain",
+      "title": "Report: Resident Evil 0 Remake in Development, New Casting and Plot Details Unearthed - MP1st",
+      "description": "We have obtained new details on the long-rumored Resident Evil 0 Remake, confirming an expanded plot and new casting.",
+      "url": "https://mp1st.com/news/report-resident-evil-0-remake-in-development-new-casting-and-plot-details-unearthed",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2025/10/re0scrs.jpg",
+      "publishedAt": "2025-10-19T19:54:17Z",
+      "content": "Following the huge success of the Resident Evil remakes, its no surprise that Capcom continues to work on more projects remaking classic entries. Among the most requested titles for a current-gen tre… [+4165 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
       "author": "Abner Li",
-      "title": "Gemini removes ‘@Google Maps’ & ‘@YouTube’ apps for direct integration - 9to5Google",
-      "description": "Gemini is cleaning up its apps, previously extensions, for more direct integrations that don’t require invoking @YouTube or @Google Maps",
-      "url": "http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-apps-extensions-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-18T20:52:00Z",
-      "content": "Gemini is cleaning up its apps, previously known as extensions, for more direct integrations that dont require invoking @YouTube or @Google Maps.\r\nGoing to the Apps page, which is now referred to as … [+1782 chars]"
+      "title": "What Google Messages features are rolling out [October 2025] - 9to5Google",
+      "description": "Like most Google apps, Messages A/B tests many features. However, it takes the RCS/SMS client a rather long time...",
+      "url": "http://9to5google.com/2025/10/19/google-messages-features/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-messages-name-cover.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-19T19:45:00Z",
+      "content": "Like most Google apps, Messages A/B tests many features. However, it takes the RCS/SMS client a rather long time to actually launch these capabilities in stable even after they are announced. From va… [+4900 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendoeverything.com"
+        "name": "GSMArena.com"
       },
-      "author": "Brian",
-      "title": "Nintendo talks about why Donkey Kong Bananza wouldn’t have been possible on Switch 1 - Nintendo Everything",
-      "description": "In a previous interview, Nintendo confirmed that Donkey Kong Bananza was initially in development for Switch 1 before it was moved to Switch 2. In fact, we even got a screenshot showing how things looked on the older hardware. But now in another interview, we…",
-      "url": "https://nintendoeverything.com/nintendo-talks-about-why-donkey-kong-bananza-wouldnt-have-been-possible-on-switch-1/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/DK-Bananza-why-not-possible-on-Switch-1.jpg",
-      "publishedAt": "2025-10-18T20:03:45Z",
-      "content": "In a previous interview, Nintendo confirmed that Donkey Kong Bananza was initially in development for Switch 1 before it was moved to Switch 2. In fact, we even got a screenshot showing how things lo… [+3590 chars]"
+      "author": "Prasad",
+      "title": "Powerbeats Fit review - GSMArena.com news - GSMArena.com",
+      "description": "The Powerbeats Fit are the successors to 2021’s Beats Fit Pro. They are the latest true wireless earbuds from the Apple-owned Beats by Dr. Dre brand, and...",
+      "url": "https://www.gsmarena.com/powerbeats_fit_review-news-69969.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/10/powerbeats-fit-review/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2025-10-19T16:32:02Z",
+      "content": "The Powerbeats Fit are the successors to 2021s Beats Fit Pro. They are the latest true wireless earbuds from the Apple-owned Beats by Dr. Dre brand, and part of the company's Powerbeats lineup, which… [+13215 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hackaday"
+        "name": "9to5google.com"
       },
-      "author": "Donald Papp",
-      "title": "Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday",
-      "description": "The Raspberry Pi Pico is a very capable board, but it’s still a surprise to see bit-banged 100 MBit/s Fast Ethernet implemented on one. [Steve]’s Pico-100BASE-TX library allows an RP204…",
-      "url": "https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/100-BASETX.png",
-      "publishedAt": "2025-10-18T20:00:00Z",
-      "content": "The Raspberry Pi Pico is a very capable board, but it’s still a surprise to see bit-banged 100 MBit/s Fast Ethernet implemented on one. [Steve]’s Pico-100BASE-TX library allows an RP2040 (or RP2350) … [+839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cageside Seats"
-      },
-      "author": "Cain A. Knight",
-      "title": "WWE Stock Report: Ready or not, The Brons are now main event level heels in WWE - Cageside Seats",
-      "description": "This week’s WWE Stock Report includes Bron Breakker & Bronson Reed turn on Seth Rollins, Jacob Fatu is injured, Ilja Dragunov returns to win the US title, more!",
-      "url": "https://www.cagesideseats.com/wwe/390850/wwe-stock-report-oct-2025-bron-breakker-turns-on-rollins-vision-fatu-injury-dragunov-return",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/10/thebrons.jpg?quality=90&strip=all&crop=0,4.908977376435,100,90.18204524713",
-      "publishedAt": "2025-10-18T20:00:00Z",
-      "content": "Some places do power rankings. Here at Cageside, we do a stock report.\r\nIn this weekly series, we identify three Superstars (or groups of Superstars) who are on their way up, and three that are movin… [+3245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "Devs working on Hearthstone and Warcraft Rumble join 1900 other Activision Blizzard staff in unionising - Eurogamer",
-      "description": "Workers in Blizzard's Hearthstone and Warcraft Rumble teams have voted to unionise with the Communications Workers of A…",
-      "url": "https://www.eurogamer.net/devs-working-on-hearthstone-and-warcraft-rumble-join-1900-other-activision-blizzard-staff-in-unionising",
-      "urlToImage": "https://assetsio.gnwcdn.com/Hearthstone-Card-Back-1068x601.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-10-18T18:41:46Z",
-      "content": "Workers in Blizzard's Hearthstone and Warcraft Rumble teams have voted to unionise with the Communications Workers of America.\r\nOver 100 software engineers, designers, artists, quality assurance test… [+1481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Burkhardt",
-      "title": "PSA: If you don’t like the new Preview app on iOS 26, there’s an easy fix for it - 9to5Mac",
-      "description": "With iOS 26, Apple introduced a new app on iPhone and iPad: Preview. This app has been on the Mac...",
-      "url": "https://9to5mac.com/2025/10/18/ios-26-preview-app-psa/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Preview-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-18T18:05:00Z",
-      "content": "With iOS 26, Apple introduced a new app on iPhone and iPad: Preview. This app has been on the Mac for a long time, and as the name suggests, it serves as a system-wide file preview of sorts, that way… [+1921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "iOS 26.1 to iOS 26.4 Will Add These New Features to Your iPhone - MacRumors",
-      "description": "iOS 26 was released last month, but the software train never stops, and iOS 26.1 beta testing is already underway. So far, iOS 26.1 makes both Apple...",
-      "url": "https://www.macrumors.com/2025/10/18/ios-26-1-to-ios-26-4-expected-features/",
-      "urlToImage": "https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg",
-      "publishedAt": "2025-10-18T18:00:00Z",
-      "content": "iOS 26 was released last month, but the software train never stops, and iOS 26.1 beta testing is already underway. So far, iOS 26.1 makes both Apple Intelligence and Live Translation on compatible Ai… [+6172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "New iPad Pro Has Six Key Upgrades Beyond M5 Chip - MacRumors",
-      "description": "While the new iPad Pro's headline feature is the M5 chip, the device has some other changes, including N1 and C1X chips, faster storage speeds,...",
-      "url": "https://www.macrumors.com/2025/10/18/new-ipad-pro-six-key-upgrades/",
-      "urlToImage": "https://images.macrumors.com/t/wE_PAjRMsgtyLOTGTyUytjFGCQU=/2500x/article-new/2025/10/Apple-iPad-Pro-hero-M5-16x9.jpg",
-      "publishedAt": "2025-10-18T17:57:56Z",
-      "content": "While the new iPad Pro's headline feature is the M5 chip, the device has some other changes, including N1 and C1X chips, faster storage speeds, and more.\r\nWith the M5 chip, the new iPad Pro has up to… [+1986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WindowsLatest"
-      },
-      "author": "Mayank Parmar",
-      "title": "Microsoft confirms Windows 11 October 2025 Update breaks WinRE (Recovery) input - Windows Latest",
-      "description": "This month's update renders WinRE (Windows Recovery Environment) useless because a bug blocks the mouse or keyboard from working.",
-      "url": "https://www.windowslatest.com/2025/10/18/microsoft-confirms-windows-11-october-2025-update-breaks-winre-recovery-input/",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/10/Windows-11-October-2025-Update-Recovery-feature.jpg",
-      "publishedAt": "2025-10-18T16:54:14Z",
-      "content": "Microsoft has confirmed WindowsLatest’s findings from yesterday. This month’s update renders WinRE (Windows Recovery Environment) useless because a bug blocks the mouse or keyboard from working. This… [+3332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": "Ken Allsop",
-      "title": "Escape From Tarkov director says \"not everyone will be able\" to reach the extraction shooter's best ending - PCGamesN",
-      "description": "Battlestate Games head Nikita Buyanov says there are four endings in Escape From Tarkov 1.0, but getting there is \"a lifetime achievement.\"",
-      "url": "https://www.pcgamesn.com/escape-from-tarkov/endings-scav-life-dlc",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/escape-from-tarkov-endings-best-nikita-buyanov-battlestate-games-extraction-shooter-version-1-0-steam.jpg",
-      "publishedAt": "2025-10-18T16:50:31Z",
-      "content": "Reaching the end of a game is always a special moment, but Escape From Tarkov director Nikita Buyanov says triumphing in Battlestate's genre-defining extraction shooter should be considered even more… [+2327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "author": "Rich Juzwiak",
-      "title": "I Accomplished a Monumental Sexual Feat. Then I Did Something So, So Embarrassing. - Slate",
-      "description": "She was cool about it, but I know it was weird for her.",
-      "url": "https://slate.com/advice/2025/10/sex-advice-crying-divorce-date-embarrassing.html",
-      "urlToImage": "https://compote.slate.com/images/cfca4972-84e9-4d5b-8741-d4f98b86da6d.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2025-10-18T16:00:00Z",
-      "content": "How to Do It is Slates sex advice column. Have a question? Send it to Stoya and Rich here. Its anonymous!\r\nDear How to Do It,\r\nI recently finalized a divorce, after having been married to my wife for… [+3500 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals - The Verge",
-      "description": "Motorola’s Razr Ultra is down to $999.99 for a limited time. Marshall’s Emberton II speaker and Ugreen’s 8-in-1 Thunderbolt 4 Docking Station are also on sale.",
-      "url": "https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Motorola-Razr-2025-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-18T15:44:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found steep discounts on Ankers 7-in-1 charging station and the excellent SteelSeries Arctis Buds.\r\nWe also found steep discounts on Ankers 7-in-1 chargi… [+6032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Google Maps is testing controversial changes to your navigation experience - Android Police",
-      "description": "Stops may no longer appear on the map",
-      "url": "https://www.androidpolice.com/google-maps-navigation-changes-stops-android/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/samsung-flip-5-review-flex-google-maps-new-logo.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2025-10-18T14:40:00Z",
-      "content": "One of the reasons for Google Maps' dominance among rivals is its extensive list of features. The app also bundles new features periodically to enhance the overall navigation experience.\r\nLike with m… [+2374 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Kallie Plagge",
-      "title": "Pokémon Legends: Z-A makes a big, welcome change for shiny hunters - The Verge",
-      "description": "Unlike in previous Pokémon games, shiny pokémon in Legends: Z-A won’t disappear when you walk away, making it harder to miss out on rare catches.",
-      "url": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_2787.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-18T14:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nShinies will stay on the map until you catch or defeat them, with a few notable exceptions.\r\nShinies will stay on the map until you catch or defeat them, with a … [+4931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Here’s The ‘Arc Raiders’ Open Beta End Time, Plus Actual Release Date - Forbes",
-      "description": "Arc Raiders' open beta end time is unfortunately rather soon, but the release date for the game is close, at least.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/18/heres-the-arc-raiders-open-beta-end-time-plus-actual-release-date/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6818c0705280577093358203/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-10-18T13:28:44Z",
-      "content": "Arc Raiders is currently putting up huge numbers on Steam for its free Open Beta server slam, topping out at 189,668 concurrents so far. Its gearing up to be a huge hit for Embark, a relatively small… [+2452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Alex Weprin",
-      "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
-      "description": "A \"vibrant\" rebrand, a major bundling pact with NBCUniversal and a blockbuster $750 million deal to nab Formula 1 from ESPN signals a new effort for the tech giant to put its imprint on Hollywood.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2221746227.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2025-10-18T13:05:27Z",
-      "content": "Almost exactly six years after it launched, Apple TV is at an inflection point. In the span of a week, the streaming service rebranded itself, struck its first standalone bundle deal with a competito… [+6254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Davey Winder",
-      "title": "Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes",
-      "description": "Microsoft Windows 10 and 11 users are at risk from two new security threats — update before the CISA two-week deadline expires to stay safe.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f0e65167657eb04592e4db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-10-18T13:01:47Z",
-      "content": "Update Windows 10 and 11 security now, CISA demands.\r\nNurPhoto via Getty Images\r\nUpdated October 18 with expert comment regarding CVE-2025-24990, which is now confirmed as residing in legacy code ins… [+4542 chars]"
+      "author": "Ben Schoon",
+      "title": "Qi2 batteries have quickly become my favorite Pixel 10 accessory [Gallery] - 9to5Google",
+      "description": "The arrival of native Qi2 support in the Pixel 10 series has let me dive headfirst into a new world...",
+      "url": "http://9to5google.com/2025/10/19/pixel-10-qi2-battery-banks-favorite-accessory/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-32-qi2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-19T16:00:00Z",
+      "content": "The arrival of native Qi2 support in the Pixel 10 series has let me dive headfirst into a new world of accessories, and Qi2 battery banks have very quickly become my favorite accessory to have on han… [+4708 chars]"
     },
     {
       "source": {
@@ -229,25 +86,181 @@
         "name": "Batterypower.com"
       },
       "author": "ABsinceWayBack",
-      "title": "How did the Braves let Kevin Gausman get away? - Battery Power",
+      "title": "How did the Brewers get William Contreras? - Battery Power",
       "description": "",
-      "url": "https://www.batterypower.com/community/121374/kevin-gausman-get-away-atlanta-braves-mlb-question",
-      "urlToImage": "https://platform.batterypower.com/wp-content/uploads/sites/22/2025/10/gettyimages-1163440396.jpg?quality=90&strip=all&crop=0%2C10.664741304478%2C100%2C78.670517391043&w=1200",
-      "publishedAt": "2025-10-18T13:00:00Z",
-      "content": "Kevin Gausman was acquired by the Braves along with Darren ODay in the last gasp of the 2018 Orioles fire sale. He would make 10 starts after the trade deadline in 2018, posting a 2.87/3.78/4.46 line… [+1140 chars]"
+      "url": "https://www.batterypower.com/community/121420/brewers-william-contreras-atlanta-braves-mlb-question",
+      "urlToImage": "https://platform.batterypower.com/wp-content/uploads/sites/22/2025/10/gettyimages-2240512585.jpg?quality=90&strip=all&crop=0%2C10.730257985084%2C100%2C78.539484029832&w=1200",
+      "publishedAt": "2025-10-19T15:21:52Z",
+      "content": "The Braves acquired Sean Murphy from the Athletics in a three-team deal. The Braves sent three somewhat decent minor leaguers and William Contreras to get him. I wont rehash it, but it seemed like go… [+516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "John Velasco",
+      "title": "I've been using the iPhone 17 for a month — here's my pros and cons - Tom's Guide",
+      "description": "Here's what it's like to live with",
+      "url": "https://www.tomsguide.com/phones/iphones/ive-been-using-the-iphone-17-for-over-a-month-heres-what-i-really-think-about-it",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oLyJvFFUxJFkGK7QuxW3id-2560-80.jpg",
+      "publishedAt": "2025-10-19T15:17:21Z",
+      "content": "One thing I’ve learned in my 17 years of reviewing phones for a living is that you really can’t appreciate a device unless you’ve put in solid time using it daily — and that’s exactly what I’ve been … [+5823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Skye Jacobs",
+      "title": "Atari brings back Intellivision with HDMI, wireless controllers, and 45 games - TechSpot",
+      "description": "Atari is reviving a familiar name in gaming history – but this time, it belongs to one of its earliest rivals. The company has announced the Intellivision...",
+      "url": "https://www.techspot.com/news/109915-atari-unveils-intellivision-sprint-console-hdmi-wireless-controllers.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-19-image.jpg",
+      "publishedAt": "2025-10-19T14:52:00Z",
+      "content": "Bottom line: For Atari, the Intellivision Sprint is less about rekindling rivalry and more about consolidating gaming heritage under its own name. The move follows a series of retro hardware revivals… [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Charles Krome",
+      "title": "What Is Different About A Miller-Cycle Engine And Why Did Mazda Use It? - Jalopnik",
+      "description": "Miller cycle engines -- like those once used by Mazda -- make less power more efficiently by holding the intake valve open for part of the compression stroke.",
+      "url": "https://www.jalopnik.com/1997916/miller-cycle-engines-mazda/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/what-is-different-about-a-miller-cycle-engine-and-why-did-mazda-use-it/l-intro-1760549705.jpg",
+      "publishedAt": "2025-10-19T14:25:00Z",
+      "content": "Mazda's original Miller cycle engine added cost and complexity to the production process, and the Millenia never gained much traction with customers. As a result, the use of the engine stopped when M… [+1193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Mahnoor Faisal",
+      "title": "I’m only using an AI browser to watch YouTube now, and it’s incredible - XDA",
+      "description": "The best use of AI I’ve seen in a browser yet.",
+      "url": "https://www.xda-developers.com/only-using-an-ai-browser-to-watch-youtube/",
+      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/watching-youtube-on-an-ai-browser.jpeg?w=1600&h=900&fit=crop",
+      "publishedAt": "2025-10-19T14:00:00Z",
+      "content": "Similar to most people, I wasn't the biggest fan of AI when it started to pop up. I thought it stippled creativity and made people more reliant on tools for even the simplest tasks. And sure, I wasn'… [+7249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "John Elliot V",
+      "title": "Filming At The Speed Of Light, About One Foot Per Nanosecond - Hackaday",
+      "description": "[Brian Haidet] published on his AlphaPhoenix channel a laser beam recorded at 2 billion frames per second. Well, sort of. The catch? It’s only a one pixel by one pixel video, but he repeats i…",
+      "url": "https://hackaday.com/2025/10/19/filming-at-the-speed-of-light-about-one-foot-per-nanosecond/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/2B-fps-banner.jpg",
+      "publishedAt": "2025-10-19T14:00:00Z",
+      "content": "[Brian Haidet] published on his AlphaPhoenix channel a laser beam recorded at 2 billion frames per second. Well, sort of. The catch? It’s only a one pixel by one pixel video, but he repeats it over a… [+1092 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Geoffrey Bunting",
-      "title": "Easy Delivery Co. is a cozy, Lynchian dream - The Verge",
-      "description": "Easy Delivery Co., which is available now on Steam, is a lo-fi driving game with a surreal edge.",
-      "url": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Gb8gwY.png?quality=90&strip=all&crop=0%2C3.3704188481675%2C100%2C93.259162303665&w=1200",
-      "publishedAt": "2025-10-18T13:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA combination of cats, kei trucks, and existential dread.\r\nA combination of cats, kei trucks, and existential dread.\r\nby\r\nGeoffrey BuntingClose\r\nGeoffrey Bunting… [+6203 chars]"
+      "author": "David Pierce",
+      "title": "The Sony Watchman was must-see TV - The Verge",
+      "description": "Sony’s Watchman, the screen revolution, and how portable TVs lived and died, on this episode of Version History.",
+      "url": "https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/watchman_site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-19T13:30:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIn this episode of Version History: how Sony put a screen in your pocket, and changed the way we watched forever.\r\nIn this episode of Version History: how Sony p… [+3802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anime News Network"
+      },
+      "author": null,
+      "title": "Gnosia ‒ SEASON PREMIERE - Anime News Network",
+      "description": "If there's anything I enjoy more than a ludicrous science-fiction murder mystery, it's a ludicrous science-fiction murder mystery procedural where everyone is stuck in a time loop.",
+      "url": "https://www.animenewsnetwork.com/review/gnosia/episodes-1-2/.230072",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/episode-review.4/230072/gnosia-1-2-review.png.jpg",
+      "publishedAt": "2025-10-19T13:30:00Z",
+      "content": "How would you rate episode 1 ofGnosia ?\r\nCommunity score: 3.9\r\nHow would you rate episode 2 ofGnosia ?\r\nCommunity score: 4.0\r\n© Petit Depotto/Project D.Q.O.\r\nGnosia's premiere was a wonderful last-mi… [+4821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Ingrid Fadelli",
+      "title": "Simplified Sachdev-Ye-Kitaev model simulated on trapped-ion quantum computer - Phys.org",
+      "description": "The simulation of strongly interacting many-body systems is a key objective of quantum physics research, as it can help to test the predictions of physics theories and yield new valuable insight. Researchers at Quantinuum, a quantum computing company, recentl…",
+      "url": "https://phys.org/news/2025-10-sachdev-ye-kitaev-simulated-ion.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-simulate-s-1.jpg",
+      "publishedAt": "2025-10-19T13:20:01Z",
+      "content": "The simulation of strongly interacting many-body systems is a key objective of quantum physics research, as it can help to test the predictions of physics theories and yield new valuable insight. Res… [+5612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "What does Fortnite Crew on Xbox Game Pass Ultimate give subscribers? - TrueAchievements",
+      "description": "Fortnite Crew will join Xbox Game Pass Ultimate soon as a benefit for subscribers, offering bonuses that go beyond simply Fortnite: Battle Royale.",
+      "url": "https://www.trueachievements.com/news/fortnite-crew-xbox-game-pass-ultimate",
+      "urlToImage": "https://www.trueachievements.com/imgs/165214/fortnite-crew-game-pass.jpg",
+      "publishedAt": "2025-10-19T13:00:26Z",
+      "content": "Fortnite Crew joins Xbox Game Pass Ultimate as a perk for top-tier subscribers starting Tuesday, November 18, 2025. That's great news if you're a regular Fortnite player who also happens to have a Ga… [+6365 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle, Robert Hart",
+      "title": "Opera’s Neon shows just how confusing AI browsers still are - The Verge",
+      "description": "Opera’s Neon browser has three AI agents and a $20 per month subscription attached.",
+      "url": "https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/neon_Start_Page_light02.png?quality=90&strip=all&crop=0%2C9.5570619084671%2C100%2C80.885876183066&w=1200",
+      "publishedAt": "2025-10-19T13:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nNeon is three AI tools dressed up as one, with a $20-per-month subscription attached.\r\nNeon is three AI tools dressed up as one, with a $20-per-month subscriptio… [+8244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Apple employees have ‘concerns’ over Siri performance in early iOS 26.4 builds: report - 9to5Mac",
+      "description": "Early next year, Apple is set to debut its new AI-infused Siri as part of iOS 26.4 – after well...",
+      "url": "https://9to5mac.com/2025/10/19/apple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-19T12:58:00Z",
+      "content": "Early next year, Apple is set to debut its new AI-infused Siri as part of iOS 26.4 after well over a year of delays. However, despite all of the additional time the company had to rethink its approac… [+2805 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s M5 Product Lineup Offers Its Most Minor Upgrades in Years - Bloomberg.com",
+      "description": "Apple’s range of M5 products has a new chip — and little else to entice typical shoppers. Also: The company’s AI division brain drain continues, and Apple gears up to launch a touch-screen MacBook Pro.",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-10-19/apple-m5-ipad-pro-vision-pro-macbook-pro-impressions-review-touch-screen-mac-mgxnn1w8",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ9LPxSCg_tQ/v2/1200x800.jpg",
+      "publishedAt": "2025-10-19T12:00:16Z",
+      "content": "Apples range of M5 products has a new chip and little else to entice typical shoppers. Also: The companys AI division brain drain continues, and Apple gears up to launch a touch-screen MacBook Pro. \r… [+96 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "author": "tbowe",
+      "title": "13 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "description": "Catching you up on the past week’s most notable product releases.",
+      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-10-19-2025/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/KEF-Blade-Meta-lead.webp",
+      "publishedAt": "2025-10-19T12:00:00Z",
+      "content": "Another week down, and, per usual, a bunch of new tech and gadgets have been announced.\r\nThis past week, Apple announced a next-gen MacBook Pro (along with new iPads and Vision Pro), Pro-Ject reveale… [+2061 chars]"
     }
   ]
 }
