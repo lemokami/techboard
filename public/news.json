@@ -1,214 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs - TechCrunch",
-      "description": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.",
-      "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024",
-      "publishedAt": "2025-10-20T21:15:24Z",
-      "content": "Periodic Labs, a new startup by one of OpenAIs most respected researchers, Liam Fedus, and his former Google Brain colleague, Ekin Dogus Cubuk, came out of stealth last month with an enormous $300 mi… [+7728 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "'You're Too Good for Camo' – Battlefield 6 Players Can't Help But Poke Fun at 'Absurd' Orange Recon Skin - IGN",
-      "description": "Battlefield 6 is giving fans some of the most cinematic FPS action they’ve seen in years, but one of its hard-to-reach Recon skins has the community in stitches.",
-      "url": "https://www.ign.com/articles/youre-too-good-for-camo-battlefield-6-players-cant-help-but-poke-fun-at-absurd-orange-recon-skin",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/20/battlefield-6-recon-1760989885579.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-10-20T20:15:01Z",
-      "content": "Battlefield 6\r\n is giving fans some of the most cinematic FPS action theyve seen in years, but one of its hard-to-reach Recon skins has the community in stitches.\r\nDie-hard fans of military shooters … [+4681 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones - Ars Technica",
-      "description": "Selected testers will have to sign an NDA and use a disguised case.",
-      "url": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg",
-      "publishedAt": "2025-10-20T20:14:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Doug Johnson",
-      "title": "Breaking down rare earth element magnets for recycling - Ars Technica",
-      "description": "New method extracts desirable elements from waste magnets using less energy and acid.",
-      "url": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-1152x648.jpg",
-      "publishedAt": "2025-10-20T20:01:59Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Android Authority"
       },
       "author": null,
-      "title": "Google’s Pixel 10 can now run Linux apps better than other Android phones - Android Authority",
-      "description": "The Google Pixel 10 can run Linux apps with near-native performance as it supports GPU-accelerated rendering in Android's Terminal app.",
-      "url": "https://www.androidauthority.com/pixel-10-linux-apps-gpu-acceleration-3608754/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-fold-back-holding-scaled.jpg",
-      "publishedAt": "2025-10-20T19:41:15Z",
-      "content": "<ul><li>Google is adding GPU acceleration for graphical Linux apps to Androids Terminal app, but the feature is currently exclusive to the Pixel 10.</li><li>This feature relies on Gfxstream, a librar… [+3953 chars]"
+      "title": "Pixel phones will get a smarter always-on display that saves battery life - Android Authority",
+      "description": "Your Pixel's always-on display is convenient but drains battery, so Google is working on a new option that turns it off intelligently.",
+      "url": "https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Always-on-Display-with-Wallpaper-Active.jpg",
+      "publishedAt": "2025-10-21T20:47:37Z",
+      "content": "<ul><li>Google is working on a new setting that gives Pixel users more control over the Always-on Display.</li><li>This new option will automatically power down the display when no user activity is d… [+2696 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Windows Central"
       },
-      "author": "Ryan Christoffel",
-      "title": "New iOS 26.1 toggle can stop accidental Camera launches - 9to5Mac",
-      "description": "iOS 26.1 beta 4 arrived today, bringing a new setting to disable the ’Swipe to open Camera’ gesture on the Lock Screen.",
-      "url": "https://9to5mac.com/2025/10/20/new-ios-26-1-toggle-can-stop-accidental-camera-launches/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/camera-app-ios-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-20T18:52:00Z",
-      "content": "iOS 26.1 beta 4 was released today, and in addition to offering a new setting to tone down Liquid Glass, theres also a toggle that can stop you from accidentally launching the Camera app on your Lock… [+1546 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer",
-      "title": "Google Has a Bedbug Infestation in Its New York Offices - WIRED",
-      "description": "Employees at the company’s Chelsea campus were told to stay home after exterminators found “credible evidence” of an infestation.",
-      "url": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
-      "urlToImage": "https://media.wired.com/photos/68f67f0f0159e300cdd3ba9c/191:100/w_1280,c_limit/Bed-Bug-Google-Business-927681020.jpg",
-      "publishedAt": "2025-10-20T18:42:00Z",
-      "content": "Google employees working at the companys Chelsea campus in New York City received a notice on Sunday alerting them to a possible bedbug outbreak at the office. Exterminators arrived at the scene with… [+1343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Battlefield 6 is dominating Call of Duty on Xbox right now - TrueAchievements",
-      "description": "The converstation in this week's edition of the most popular Xbox games is Battlefield 6 versus Call of Duty as EA's destructive shooter finds its feet!",
-      "url": "https://www.trueachievements.com/news/most-popular-xbox-games-battlefield-6-vs-call-of-duty",
-      "urlToImage": "https://img.trueachievements.com/chart/383",
-      "publishedAt": "2025-10-20T18:30:27Z",
-      "content": "Well, it feels like a friendly match before the season begins in the Battlefield 6 versus Call of Duty player counts as we enter the EA shooters' second release week ahead of Black Ops 7 releasing on… [+3219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PlayStation LifeStyle"
-      },
-      "author": "Michael Ruiz",
-      "title": "New PS5 Pro Model Is an Improvement Over the Original - PlayStation LifeStyle",
-      "description": "Sony Interactive Entertainment released a new model of the PS5 Pro, and it is technically an improvement when compared with the original.",
-      "url": "https://www.playstationlifestyle.net/2025/10/20/new-ps5-pro-model-improvement/",
-      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/11/ps5pro.png?resize=1200,630",
-      "publishedAt": "2025-10-20T18:14:00Z",
-      "content": "Sony Interactive Entertainment has quietly released a new model of its high-end console option, the PS5 Pro. According to previous rumors, the new iteration makes some slight improvements to the orig… [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring",
-      "title": "Josh Brown says Apple's AI chatbot efforts create a 'whole different story' for stock - CNBC",
-      "description": "Investors are overlooking the company's internal AI chatbot work, Brown said.",
-      "url": "https://www.cnbc.com/2025/10/20/josh-brown-says-apples-ai-chatbot-efforts-create-a-whole-different-story-for-stock.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107427223-1718117800932-gettyimages-2156425945-AA_10062024_1723029.jpeg?v=1760982293&w=1920&h=1080",
-      "publishedAt": "2025-10-20T18:07:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Zion Grassl",
-      "title": "\"We Have Absolutely No Intention Of Neglecting Her\" - Persona 3 Reload Devs On FeMC And Porting To Switch 2 - Nintendo Life",
-      "description": "\"The porting process to the Switch 2 turned out to be unexpectedly smooth\"",
-      "url": "https://www.nintendolife.com/features/we-have-absolutely-no-intention-of-neglecting-her-persona-3-reload-devs-on-femc-and-porting-to-switch-2",
-      "urlToImage": "https://images.nintendolife.com/1a93377be213f/large.jpg",
-      "publishedAt": "2025-10-20T18:00:00Z",
-      "content": "Image: SEGA / Atlus\r\nIve been dreaming of a Persona 3 Reload port for Nintendos hybrid hardware long before the Switch 2 was even revealed. Having played through its lengthy campaign on my Xbox over … [+12774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Google's Play Store overhaul continues with work on new Expressive changes - Android Authority",
-      "description": "We're looking at the latest Material 3 Expressive UI updates for the Google Play Store on Android.",
-      "url": "https://www.androidauthority.com/play-store-expressive-ui-3608641/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/09/Google-Play-Store-app-next-to-other-Google-Apps-stock-photo.jpg",
-      "publishedAt": "2025-10-20T17:59:18Z",
-      "content": "<ul><li>Googles been working to modernize the Play Stores interface, recently giving it a new gradient-shaded status bar.</li><li>The apps also working on a couple more Expressive updates, including … [+2735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "iOS 26.1 beta 4 adds new setting to tone down Liquid Glass transparency - 9to5Mac",
-      "description": "iOS 26 introduced a bold new Liquid Glass design, bringing transparency and fluidity throughout the iPhone’s interface. iPadOS 26 and...",
-      "url": "https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/liquid-glass-off.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-20T17:57:00Z",
-      "content": "iOS 26 introduced a bold new Liquid Glass design, bringing transparency and fluidity throughout the iPhones interface. iPadOS 26 and macOS 26 brought similar designs to the iPad and Mac, respectively… [+2282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon GO Hub"
-      },
-      "author": "Zeroghan",
-      "title": "Pokémon GO November 2025 Events - Pokémon GO Hub",
-      "description": "The Pokémon GO November 2025 events schedule is here! In November, featured Pokémon are Mega Tyranitar, Dynamax Eevee and Dynamax Toxtricity (both forms).   Swaths of Mega Pokémon rotate throughout the month and there are a whole host of in-game events to loo…",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-november-2025-events/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/10/G3uA3iDXgAA-oHz.jpeg",
-      "publishedAt": "2025-10-20T17:42:28Z",
-      "content": "The Pokémon GO November 2025eventsschedule is here! In November, featured Pokémon are Mega Tyranitar, Dynamax Eevee and Dynamax Toxtricity (both forms).   Swaths of Mega Pokémon rotate throughout the… [+3707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Morgan Chittum",
-      "title": "Jim Cramer: Patient Apple bulls are vindicated, and the stock is just getting started - CNBC",
-      "description": "Shares jumped to a record high Monday following positive chatter from Wall Street analysts on  iPhone 17 demand.",
-      "url": "https://www.cnbc.com/2025/10/20/jim-cramer-patient-apple-bulls-are-vindicated-and-the-stock-is-just-getting-started.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760970266&w=1920&h=1080",
-      "publishedAt": "2025-10-20T17:27:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - Nintendo Life",
-      "description": "They're very good, y'know?",
-      "url": "https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more",
-      "urlToImage": "https://images.nintendolife.com/5376a2b039629/large.jpg",
-      "publishedAt": "2025-10-20T17:16:44Z",
-      "content": "Image: Nintendo Life\r\nAbsolum and BALL x PIT recently launched on the Nintendo Switch, and they're both bloody brilliant.\r\nThey're very different games, mind you, with the former being a self-describ… [+1404 chars]"
+      "author": "Adam Hales",
+      "title": "Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-gen console experience” - Windows Central",
+      "description": "The next Xbox sounds powerful and expensive, but after months of controversy, Microsoft must win back player trust.",
+      "url": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vy8JPQLndGy9kpYZ3S9sz3-2560-80.jpg",
+      "publishedAt": "2025-10-21T19:50:18Z",
+      "content": "In an interview with Mashable on YouTube, Sarah Bond, the president of Xbox, sat down to discuss the ASUS ROG Xbox Ally. She described it as the first time Xbox has created a handheld device, which p… [+4418 chars]"
     },
     {
       "source": {
@@ -216,38 +34,233 @@
         "name": "The Verge"
       },
       "author": "Brandon Russell",
-      "title": "Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge",
-      "description": "The Iniu P55-E2 is a tiny power bank that’s about the size of an AirPods Pro case, yet it features a 10,000mAh capacity and an output of 45W.",
-      "url": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-P55-E2-lifestyle.png?quality=90&strip=all&crop=0,10.818757590937,100,78.362484818126",
-      "publishedAt": "2025-10-20T17:11:58Z",
-      "content": "<ul><li></li><li></li></ul>\r\nIts three ports make it possible to charge three devices simultaneously.\r\nIts three ports make it possible to charge three devices simultaneously.\r\nby\r\nBrandon RussellClo… [+2410 chars]"
+      "title": "Anker’s latest noise-canceling sleep earbuds are nearly $40 off - The Verge",
+      "description": "You can score nearly $40 off Anker’s Soundcore Sleep A30. You can also save on Amazon’s third-gen Echo Show 8 and the leverless 8BitDo Arcade Controller.",
+      "url": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Soundcore-Sleep-A30-earbuds.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T19:40:53Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the last-gen Echo Show 8 and 8BitDos leverless Arcade Controller.\r\nWe also found deals on the last-gen Echo Show 8 and 8BitDos leverless A… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Here’s how Google is choosing 15 fans to test the next Pixel - The Verge",
+      "description": "Google is letting 15 “Pixel Superfans” test the next unreleased Google Pixel phone, and here are the official rules for the contest.",
+      "url": "https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0003.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-10-21T19:25:06Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWeve got the official rules and entry form, but its too late to enter now.\r\nWeve got the official rules and entry form, but its too late to enter now.\r\nby\r\nSean … [+12738 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit - The Verge",
+      "description": "Although Apple said in a court filing that Jon Prosser has “still has not” replied to the company’s July lawsuit against him, Prosser says he is in communication with Apple about the case.",
+      "url": "https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_5445.png?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "publishedAt": "2025-10-21T19:09:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple says Prosser hasnt responded to the companys trade secrets lawsuit against him.\r\nApple says Prosser hasnt responded to the companys trade secrets lawsuit a… [+2675 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hadas Gold, Jackie Wattles",
+      "title": "Elon Musk calls acting NASA chief ‘Sean Dummy’ as SpaceX moon contract hangs in the balance - CNN",
+      "description": "Elon Musk called the transportation secretary ‘Sean Dummy’ on X Tuesday, after Duffy suggested NASA may sideline SpaceX from its moon mission.",
+      "url": "https://www.cnn.com/2025/10/21/science/elon-musk-sean-duffy-nasa-spacex",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236135236.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-21T18:59:08Z",
+      "content": "Elon Musk lashed out at Transportation Secretary Sean Duffy in a series of insulting posts on his social media platform X on Tuesday, after Duffy suggested NASA may sideline SpaceX from its moon miss… [+3299 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s Planned Foldable iPad With 18-inch Screen Hits Development Snags - Bloomberg.com",
+      "description": "Apple Inc.’s effort to reinvent the iPad by adding a giant foldable screen has hit development hurdles, potentially delaying the planned launch.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/1200x800.jpg",
+      "publishedAt": "2025-10-21T18:21:43Z",
+      "content": "Apple Inc.s effort to reinvent the iPad by adding a giant foldable screen has hit development hurdles, potentially delaying the planned launch.\r\nThe company has been working on the device projected t… [+256 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesRadar+"
+        "name": "Wizards.com"
       },
-      "author": "Ashley Bardhan",
-      "title": "Ex PlayStation exec says Sony can't keep \"increasing the graphics power\" with new consoles after tech plateau, but PS5 has already \"made almost every game a better game\" - GamesRadar+",
-      "description": "Shuhei Yoshida says he \"cannot tell the difference\" between new tech",
-      "url": "https://www.gamesradar.com/platforms/playstation/ex-playstation-exec-says-sony-cant-keep-increasing-the-graphics-power-with-new-consoles-after-tech-plateau-but-ps5-has-already-made-almost-every-game-a-better-game/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JfHTZRfpArH7nMZCPV2qXD-1920-80.jpg",
-      "publishedAt": "2025-10-20T17:01:13Z",
-      "content": "You know how that old song goes – you say 120fps, I say 60fps / you say ray tracing, I say I'm so bored, I just fell asleep / let's call the whole thing off! Something like that. That's what it might… [+1694 chars]"
+      "author": "Gavin Verhey",
+      "title": "Commander Brackets Beta Update – October 21, 2025 - Magic: The Gathering",
+      "description": "Gavin discusses changes to the Commander Brackets beta test.",
+      "url": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
+      "publishedAt": "2025-10-21T18:07:19Z",
+      "content": "Hello, everybody! This is Gavin Verhey on behalf of the Commander Format Panel. If you don't know what that is, you can read this article.\r\nToday, I'm coming to you all to share what we've been talki… [+22770 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TheGamer"
+        "name": "Leagueoflegends.com"
       },
-      "author": "Jack Coleman",
-      "title": "EXCLUSIVE: Hearthstone Reveals Three New Warlock Cards From Across The Timeways - TheGamer",
-      "description": "Behold the chimaera, Chronogor.",
-      "url": "https://www.thegamer.com/hearthstone-new-warlock-cards-chronogor-across-the-timeways-expansion/",
-      "urlToImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/10/hearthstone-chromie-across-the-timeways-cinematic.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2025-10-20T16:34:00Z",
-      "content": "Blizzard has exclusively shared three new cards from the upcoming Hearthstone expansion Across the Timeways with TheGamer.\r\nTwilight Timehopper, its associated card Shred of Time and the legendary cr… [+2335 chars]"
+      "author": null,
+      "title": "Teamfight Tactics patch 15.7 notes - Teamfight Tactics",
+      "description": "A smaller balance patch for K.O. Coliseum and a Dragon-sized entrance for our Uncharted Realms revival!",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-7-notes/",
+      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cf9250c24f2119158ae0a7452727aeda9110b551-4516x2676.png?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "publishedAt": "2025-10-21T18:00:00Z",
+      "content": "Large, like the Dragons of Revival: Uncharted Realms!\r\nTRAITS\r\nOverall, we're buffing the middle tiers of traits, so players can have a few more options on Stage 3 and 4 to transition and adjust boar… [+8669 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "M5 MacBook Pro review: Fifth-generation Apple Silicon in a familiar wrapper - Ars Technica",
+      "description": "Apple M5 trades blows with Pro and Max chips from older generations.",
+      "url": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_6215-1152x648.jpeg",
+      "publishedAt": "2025-10-21T17:00:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Google Fi is getting AI-powered noise filters and RCS web messaging - The Verge",
+      "description": "Google Fi is expanding its Wi-Fi support, introducing AI tools to better filter out distracting noises, and introducing browser RCS support.",
+      "url": "https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-fi-logo.webp?quality=90&strip=all&crop=0%2C10.527397823525%2C100%2C78.945204352951&w=1200",
+      "publishedAt": "2025-10-21T17:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSubscribers will be able to send hi-res photos without their phones as RCS support comes to Google Messages for web.\r\nSubscribers will be able to send hi-res pho… [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "James Carr",
+      "title": "All Romance Options In Vampire: The Masquerade Bloodlines 2 - GameSpot",
+      "description": "Just because you're undead doesn't mean you can't find a special connection.",
+      "url": "https://www.gamespot.com/gallery/all-romance-options-in-vampire-the-masquerade-bloodlines-2/2900-7153/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4588564-bloodlines2romanceoptions%282%29.jpg",
+      "publishedAt": "2025-10-21T17:00:00Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Google's Android app is finally catching up to the iOS app with one crucial feature - Android Authority",
+      "description": "An APK teardown reveals that the Google app on Android should finally get an incognito search option. This comes years after the Google iOS app added it.",
+      "url": "https://www.androidauthority.com/google-app-android-incognito-mode-3608855/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-smartphone-with-colorful-background-stock-photo-1.jpg",
+      "publishedAt": "2025-10-21T16:56:57Z",
+      "content": "<ul><li>Google is working on adding a new incognito search mode to its Android app.</li><li>The feature will work by turning off the history for your current search.</li><li>This is the equivalent of… [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Emilia David",
+      "title": "OpenAI announces ChatGPT Atlas, an AI-enabled web browser to challenge Google Chrome - VentureBeat",
+      "description": "OpenAI's long rumored web browser is here. ChatGPT Atlas will be available for Mac users first.",
+      "url": "https://venturebeat.com/ai/openai-releases-chatgpt-atlas-an-ai-enabled-web-browser-to-challenge-google",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/4EJUoAdNGN4myXdb69GnMD/f8ab6aaf2305a72ad84dcc5e4afb1beb/agentic_context_engineering.jpg",
+      "publishedAt": "2025-10-21T16:51:03Z",
+      "content": "OpenAI\r\n is entering the browser world with the launch of ChatGPT Atlas, an AI-enabled browser. \r\nAtlas, now available globally, can be accessed through Apples macOS, with support for Windows, iOS an… [+4665 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Even Xbox developer kits are getting a big price hike - The Verge",
+      "description": "Microsoft is increasing the price of its Xbox development kits. The price hike comes just a month after Xbox console prices went up.",
+      "url": "https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-10-21T16:35:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is raising the price of Xbox dev kits, just a month after tariffs hit Xbox console pricing.\r\nMicrosoft is raising the price of Xbox dev kits, just a mo… [+4002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "iOS 26.1’s new Liquid Glass setting is a win for Apple and users alike - 9to5Mac",
+      "description": "iOS 26.1 introduces a new option to change the Liquid Glass design and make it less transparent, here’s why I think this is a good move.",
+      "url": "https://9to5mac.com/2025/10/21/ios-26-1s-new-liquid-glass-setting-is-a-win-for-apple-and-users-alike/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.1-favorite-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-21T15:58:00Z",
+      "content": "Apple had a big surprise in store for yesterdays iOS 26.1 beta 4 release: theres a new setting that lets users tone down Liquid Glass substantially systemwide. Heres why I see this as a win overall f… [+3019 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "title": "Exclusive: Apple alerts exploit developer that his iPhone was targeted with government spyware - TechCrunch",
+      "description": "A developer at Trenchant, a leading Western spyware and zero-day maker, was suspected of leaking company tools and fired. Weeks later, Apple notified him that his personal iPhone was targeted with spyware.",
+      "url": "https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/iphone-trenchant-l3harris-1059636822.jpg?resize=1200,808",
+      "publishedAt": "2025-10-21T14:45:08Z",
+      "content": "Earlier this year, a developer was shocked by a message that appeared on his personal phone: Apple detected a targeted mercenary spyware attack against your iPhone.  \r\nI was panicking, Jay Gibson, wh… [+6887 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Aura introduces a $499 e-ink digital photo frame that lets you go cordless - TechCrunch",
+      "description": "Aura, founded by early Twitter employees, has launched the $499 Ink frame, its first 13-inch color e-paper photo frame. Using Spectra 6 e-ink technology, it offers a cordless design with up to three months of battery life and a subtle front light for better c…",
+      "url": "https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670",
+      "publishedAt": "2025-10-21T14:27:05Z",
+      "content": "Aura is introducing its newest model, the $499 Ink frame, which brings a 13-inch color e-paper display to the company’sotherwise LCD-based lineup. The technology, similar to that found in the Kindle … [+5860 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft’s emergency Windows 11 update fixes a nasty system recovery bug - The Verge",
+      "description": "Microsoft has released a new emergency patch for Windows 11. It fixes USB mouse and keyboards not working in the recovery envrionment.",
+      "url": "https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T14:03:24Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis update fixes a problem with the Windows Recovery Environment not working with a USB mouse or keyboard.\r\nThis update fixes a problem with the Windows Recover… [+2074 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Ina Fried",
+      "title": "Exclusive: Samsung inks Perplexity deal to bring AI to the TV - Axios",
+      "description": "Get ready for chatbots in your living room.",
+      "url": "https://www.axios.com/2025/10/21/samsung-perplexity-ai-deal-tv",
+      "urlToImage": "https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920x1080/1366x768/2025/10/20/1760989704409.jpg",
+      "publishedAt": "2025-10-21T13:31:40Z",
+      "content": "Driving the news: Samsung's deal will make Perplexity an option when owners of select TVs press the AI button.\r\n<ul><li>Samsung will let users choose among Perplexity, Microsoft's Copilot and Samsung… [+1930 chars]"
     }
   ]
 }
