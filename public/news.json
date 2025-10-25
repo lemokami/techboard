@@ -1,162 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 23,
+  "totalResults": 37,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Matt O'brien and Michael Liedtke, Associated Press",
-      "title": "OpenAI launches Atlas browser to compete with Google Chrome - KSL.com",
-      "description": "OpenAI has introduced its own web browser, ChatGPT Atlas, putting it in direct competition with Google.",
-      "url": "https://www.ksl.com/article/51393293/openai-launches-atlas-browser-to-compete-with-google-chrome",
-      "urlToImage": "https://img.ksl.com/slc/3114/311457/31145744.jpg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2025-10-22T18:52:47Z",
-      "content": "NEW YORK OpenAI introduced its own web browser, Atlas, on Tuesday, putting the ChatGPT maker in direct competition with Google as more internet users rely on artificial intelligence to answer their q… [+5030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marvel Entertainment"
-      },
-      "author": "Marvel",
-      "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
-      "description": "Starting in January, new comic book variant covers will feature character artwork from 'MARVEL Cosmic Invasion,' the upcoming game from Dotemu and Tribute Games, made in collaboration with Marvel Games.",
-      "url": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers",
-      "urlToImage": "https://cdn.marvel.com/content/1x/storm2026001_cosmic_var4x5.jpg",
-      "publishedAt": "2025-10-22T18:14:43Z",
-      "content": "On Sale 1/7NOVA: CENTURION #3 Marvel Cosmic Invasion Variant CoverVENOM #253 Marvel Cosmic Invasion Variant CoverWOLVERINE #14 Marvel Cosmic Invasion Variant Cover\r\nOn Sale 1/14AMAZING SPIDER-MAN: TO… [+1176 chars]"
-    },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
       "author": "Sarah Perez",
-      "title": "Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the App Store - TechCrunch",
-      "description": "Apple has pulled the controversial dating safety apps Tea and TeaOnHer from the App Store over violations of its content moderation and privacy rules, following a flood of user complaints and reports of minors’ data being exposed.",
-      "url": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/tea-app.jpg?resize=1200,559",
-      "publishedAt": "2025-10-22T17:32:14Z",
-      "content": "Controversial dating safety apps, Tea and TeaOnHer, have been pulled from the Apple App Store. The apps’ removal was first spotted by the app store intelligence provider Appfigures, which told TechCr… [+2786 chars]"
+      "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
+      "description": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
+      "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_16_9.webp?resize=1200,677",
+      "publishedAt": "2025-10-23T20:53:02Z",
+      "content": "OpenAI announced on Thursday it has acquired Software Applications, Inc., the makers of an AI-powered natural language interface for Mac computers called Sky. \r\nThe software product, which had not be… [+2801 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Ryan Christoffel",
-      "title": "Next year’s A20 chip might push iPhone prices even higher - 9to5Mac",
-      "description": "Next year’s iPhone lineup is expected to use an A20 chip with a new 2-nm process, but that could come at a big cost per a new report.",
-      "url": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-14.11.19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-10-22T16:40:00Z",
-      "content": "This fall, Apple raised entry prices for the iPhone 17 Pro and iPhone Air higher than their equivalent predecessors, driving an overall lineup increase. But based on a new report, we could see even m… [+1784 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
-      "description": "The updates will arrive in November, and now you can watch Nintendo’s full ’Close to You’ CG short on YouTube.",
-      "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/pikmin-4-difficulty-update-16-9.jpg?quality=90&strip=all&crop=0%2C3.4683489810518%2C100%2C93.063302037896&w=1200",
-      "publishedAt": "2025-10-22T15:37:05Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe updates will arrive in November, and now you can watch Nintendos full Close to You CG short on YouTube.\r\nThe updates will arrive in November, and now you can… [+2079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apple Newsroom"
-      },
-      "author": null,
-      "title": "New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available - Apple",
-      "description": "Apple customers can now discover and buy the 11-inch and 13-inch iPad Pro, the new 14-inch MacBook Pro, and Apple Vision Pro.",
-      "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/tile/Apple-October-2025-new-products-lp.jpg.og.jpg?202510221755",
-      "publishedAt": "2025-10-22T15:00:33Z",
-      "content": "October 22, 2025\r\nUPDATE\r\nNew iPad Pro, 14inch MacBook Pro, and Apple Vision Pro, all powered by M5, are now available\r\nApple customers can now discover and buy the new 11-inch and 13-inch iPad Pro, … [+7205 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Samuel Claiborn",
-      "title": "'The Game We Are Making Now Is a Nintendo Game' — Metroid Prime Producer Kensuke Tanabe Reveals Creative Tensions With Retro in New Book - IGN",
-      "description": "Nintendo and Retro Studios brought Metroid into stunning 3D, reforming the series in a first-person shooter style through a sometimes challenging but ultimately fruitful relationship between Japanese and Western teams with their own unique backgrounds and per…",
-      "url": "https://www.ign.com/articles/the-game-we-are-making-now-is-a-nintendo-game-metroid-prime-producer-kensuke-tanabe-reveals-creative-tensions-with-retro-in-new-book",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/21/nswitch-metroidprimeremastered-06-1761060164321.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-10-22T14:43:22Z",
-      "content": "Nintendo and Retro Studios brought Metroid into stunning 3D with 2002's Metroid Prime, rebooting the series in a first-person shooter style through a sometimes challenging but ultimately fruitful rel… [+5801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "author": "Mike Florio",
-      "title": "EA, NFL extend exclusive Madden deal - NBC Sports",
-      "description": "EA will continue to be the only provider of NFL video games.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ea-nfl-extend-exclusive-madden-deal",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8ab6ad9/2147483647/strip/true/crop/5442x3061+0+283/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F28%2F7e5be95047fa978701d08c640687%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233247964",
-      "publishedAt": "2025-10-22T14:38:13Z",
-      "content": "EA will continue to be the only provider of NFL video games.\r\nThe league has announced an expanded, multi-year exclusive agreement with EA, aimed at grow[ing] American football worldwide.\r\nTechnicall… [+931 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Dave Smith",
-      "title": "Apple is 'drastically' cutting iPhone Air production, report says, after new survey reveals 'virtually no demand' - Fortune",
-      "description": "Production of the iPhone Air, starting next month, will be \"less than 10% of the volume compared with September.\"",
-      "url": "https://fortune.com/2025/10/22/apple-iphone-air-demand-weak-production-cuts-vs-17-pro/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234535273-e1761141582499.jpg?resize=1200,600",
-      "publishedAt": "2025-10-22T14:26:00Z",
-      "content": "The iPhone Air is Apples most audacious smartphone design in years, but that doesnt seem to be moving the needle for customers, who have clearly put a premium on high-end cameras and battery life. Ac… [+2720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Xbox.com"
-      },
-      "author": "Danielle Partis",
-      "title": "Introducing No Man’s Sky: Breach, A Spooky Free Update For Existing Players - Xbox Wire",
-      "description": ": No Man’s Sky Breach takes players on a journey through the purple-star solar systems introduced in Worlds Part II, to darker, spookier extremes of the universe.",
-      "url": "https://news.xbox.com/en-us/2025/10/22/introducing-no-mans-sky-breach/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/No-Mans-Sky-Breach-Key-Art-7a1db6f3cda1622d0105.jpg",
-      "publishedAt": "2025-10-22T14:04:38Z",
-      "content": "Well, we suspected that the No Mans Sky Voyagers update was going to cause some excitement in the universe, but never did we expect such a huge influx that we would see player numbers weve not seen s… [+2322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Plants vs. Zombies Replanted Xbox achievements reveal tricky 1,000G - TrueAchievements",
-      "description": "We're getting a new tower defense-focused entry with Plants vs. Zombies: Replanted this week, and you can check out its Xbox achievements now.",
-      "url": "https://www.trueachievements.com/news/plants-vs-zombies-replanted-xbox-achievements",
-      "urlToImage": "https://www.trueachievements.com/imgs/165532/plants-vs-zombies-replanted-xbox-achievements.jpg",
-      "publishedAt": "2025-10-22T12:56:59Z",
-      "content": "Plants vs. Zombies is heading back to its roots, as developers PopCap Games and The Lost Pixels launch a remaster of the original tower defense game this week. If you're eager for some more colorful … [+5938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "The end of Windows 10 has been a boon for one particular Linux distro - and I'm not surprised - ZDNET",
-      "description": "Windows 10 users are trying the open-source operating system, thanks to the end of support, but one distribution is really enjoying a rise in downloads.",
-      "url": "https://www.zdnet.com/article/the-end-of-windows-10-has-been-a-boon-for-one-particular-linux-distro-and-im-not-surprised/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/92227970aa3e783b7bfbf5f5d693d98a847a548b/2025/10/21/820442ba-7808-42e8-9119-afa611c2454a/gettyimages-1338559814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T12:53:00Z",
-      "content": "Yaorusheng/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 support has ended.</li><li>Some Linux distributions have seen record down… [+4672 chars]"
+      "author": "Andrew Cunningham",
+      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant - Ars Technica",
+      "description": "“Mico” literally tries to put a face on Microsoft’s chatbot-turned-assistant.",
+      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-1152x648.jpeg",
+      "publishedAt": "2025-10-23T18:48:52Z",
+      "content": null
     },
     {
       "source": {
@@ -164,103 +34,220 @@
         "name": "IGN"
       },
       "author": "Wesley Yin-Poole",
-      "title": "After Releasing a $1,000 Handheld, Microsoft Has Said Its Next-Gen Xbox Console 'Is Going to Be a Very Premium, Very High-End Curated Experience' - IGN",
-      "description": "Microsoft is keeping its next-gen Xbox console plans under wraps, but it has suggested it will be ultra premium hardware.",
-      "url": "https://www.ign.com/articles/after-releasing-a-1000-handheld-microsoft-has-said-its-next-gen-xbox-console-is-going-to-be-a-very-premium-very-high-end-curated-experience",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-10-22T12:26:08Z",
-      "content": "Microsoft is keeping its next-gen Xbox console plans under wraps, but it has suggested it will be ultra premium hardware.\r\nThe company has confirmed as recently as earlier this month that it still pl… [+2932 chars]"
+      "title": "Fallout: New Vegas 15th Anniversary Bundle Announced on Fallout Day — Here Are the Contents - IGN",
+      "description": "Bethesda has used Fallout Day to announce the Fallout: New Vegas 15th Anniversary Bundle, which celebrates Obsidian’s much-loved post-apocalyptic role-playing game turning 15 years old. Check out the contents.",
+      "url": "https://www.ign.com/articles/fallout-new-vegas-15th-anniversary-bundle-announced-on-fallout-day-here-are-the-contents",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/23/ss-ac7dbb6b5d1353ec1e66110fe652883b957a70e3-1920x1080-1761223478793.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-23T17:50:11Z",
+      "content": "Bethesda has used Fallout Day to announce the Fallout: New Vegas 15th Anniversary Bundle, which celebrates Obsidians much-loved post-apocalyptic role-playing game turning 15 years old.\r\nThis edition … [+3435 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Borderlands 4’ Patch Notes: The Big Nerfs And Buffs For Halloween - Forbes",
+      "description": "The patch notes for Borderlands 4's Horrors of Kairos Halloween event are out, and they contain nerfs, buffs and quality of life fixes the game needs. Here they are.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/10/23/borderlands-4-patch-notes-the-big-nerfs-and-buffs-for-halloween/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fa4e57dc6e6e663f4fbaa7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-10-23T17:16:38Z",
+      "content": "Borderlands 4\r\nBorderlands 4 pushed back its biggest patch to date after it was supposed to launch last week, and instead, it has arrived today alongside its Horrors of Kairos limited time Halloween … [+6496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wizards.com"
+      },
+      "author": "Alex Werner",
+      "title": "Dev Diary: Creating Arena Powered Cube - Magic: The Gathering",
+      "description": "From an \"Experimental Frenzy\" to an actual event on MTG Arena, the road to Powered Cube was as complex as it was rewarding.",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/1YvZihFSB5g9CqerP5eGAa/deb40093f8d447df35f770162ca3c060/MH2_Urza-s_Saga_960x540.jpg",
+      "publishedAt": "2025-10-23T17:11:46Z",
+      "content": "As you all know by this time, MTG Arena will be running Powered Cube events starting October 28. How did this come to be? Well, it started with …\r\nNo, not the four-mana red enchantment. \"Experimental… [+19403 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Chris Reed",
+      "title": "The $1,000 Xbox Ally X Drops in Price for the First Time When You Buy Slightly Used - IGN",
+      "description": "You can save $50 or $80 on a Geek Squad Verified open-box Xbox Ally X at Best Buy, depending on the condition.",
+      "url": "https://www.ign.com/articles/the-xbox-ally-x-drops-in-price-for-the-first-time-when-you-buy-slightly-used",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/23/xbox-ally-x-1761238340299.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-10-23T17:11:22Z",
+      "content": "The Xbox Ally X, the latest powerful handheld gaming PC, is a terrific machine, instantly taking the top spot on our list of the best handheld gaming PCs. For some, however, the price was a source of… [+2402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bethesda.net"
       },
       "author": null,
-      "title": "Google is working to fix one of Gemini's biggest pet peeves - Android Authority",
-      "description": "Conversations will Gemini are set to be more accomodating for pauses rather than forcing you to finish your requests in a single breath.",
-      "url": "https://www.androidauthority.com/google-gemini-mic-lock-3609163/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-Gemini-home.jpg",
-      "publishedAt": "2025-10-22T12:15:59Z",
-      "content": "<ul><li>Google is testing a new option to prevent Gemini from stopping when you pause to think.</li><li>Gemini might soon bring a new option to lock the mic so it continues listening until you stop i… [+2678 chars]"
+      "title": "Catch up on all the news from 2025’s Fallout Day Broadcast - Bethesda.net",
+      "description": "The future is looking bright in the wasteland.",
+      "url": "https://bethesda.net/en/article/5S63EJI5hmThAU6I8jaiQj/fallout-day-broadcast-2025-news",
+      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/NeuJZu8kuz3konuRfhLci/044ef5df95602750c1a6d433aa4f1e50/FBD25_FDB_HERO_1920x870.png?fit=fill&w=1200&h=600",
+      "publishedAt": "2025-10-23T17:10:26Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "PCGamesN"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Lauren Bergin",
-      "title": "After 21 years of waiting, Bloodlines 2's Steam reviews are exactly what I expected - PCGamesN",
-      "description": "After two decades of waiting, Vampire the Masquerade Bloodlines 2 is out in the wild, but it's getting a lukewarm response on Steam.",
-      "url": "https://www.pcgamesn.com/vampire-the-masquerade-bloodlines-2/steam-reviews-launch",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/vampire-the-masquerade-bloodlines-2-steam-reviews-launch.jpg",
-      "publishedAt": "2025-10-22T11:41:54Z",
-      "content": "I wanted to love Vampire: The Masquerade - Bloodlines 2. It's been my Roman Empire for far too long, haunting my every waking moment, slithering into my dreams. But, as my Bloodlines 2 review attests… [+2797 chars]"
+      "author": "Brian",
+      "title": "Assassin’s Creed Shadows confirmed for Nintendo Switch 2 - Nintendo Everything",
+      "description": "Another rumored Nintendo Switch 2 is confirmed, with Ubisoft today officially announcing a port of Assassin’s Creed Shadows. The port will be ready to go on December 2, 2025. Assassin’s Creed Shadows, which only just launched in March, is the latest mainline …",
+      "url": "https://nintendoeverything.com/assassins-creed-shadows-confirmed-for-nintendo-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Assassins-Creed-Shadows-Nintendo-Switch-2.jpg",
+      "publishedAt": "2025-10-23T16:07:30Z",
+      "content": "Another rumored Nintendo Switch 2 is confirmed, with Ubisoft today officially announcing a port of Assassin’s Creed Shadows. The port will be ready to go on December 2, 2025.\r\nAssassin’s Creed Shadow… [+1937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stability.ai"
+      },
+      "author": "Savannah Martin",
+      "title": "Stability AI and EA Partner to Empower Artists, Designers, and Developers to Reimagine Game Development - Stability AI",
+      "description": "Stability AI and Electronic Arts (EA) have formed a strategic partnership to co-develop transformative generative AI models, tools, and workflows that empower EA’s artists, designers, and developers to reimagine how games are made.",
+      "url": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development",
+      "urlToImage": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/68f7e4c20448615ff118b4da/1761247220752/EA+announcement_Thumbnail_1x1_v3.png?format=1500w",
+      "publishedAt": "2025-10-23T16:02:22Z",
+      "content": "Stability AI, the leading independent and multi-modal generative AI company, and Electronic Arts (EA), a global leader in digital interactive entertainment, have formed a strategic partnership to co-… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamedeveloper.com"
+      },
+      "author": null,
+      "title": "GDC lowers ticket prices, streamlines pass types in Festival of Gaming 'reimagination' - Game Developer",
+      "description": "GDC Festival of Gaming is introducing streamlined pass types and other major content shake-ups for the 37-year-old event.",
+      "url": "https://www.gamedeveloper.com/business/gdc-lowers-ticket-prices-streamlines-pass-types-in-festival-of-gaming-reimagination-",
+      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8f95590710284096/68fa3afcf5945f5c522a9cbd/_16x9_2_copy_3.png?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2025-10-23T16:00:21Z",
+      "content": "For the first time in many years Game Developers Conference (GDC) is undergoing a major content and pricing overhaul that will shape the future of the event. Today GDC, which is owned by Game Develop… [+4574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "404media.co"
+      },
+      "author": "Becky Ferreira",
+      "title": "Breathing Through Our Butts Declared Safe After First Human Trial - 404 Media",
+      "description": "The first application of enteral ventilation—aka breathing through the bum—to humans proved the technique is safe.",
+      "url": "https://www.404media.co/breathing-through-our-butts-declared-safe-after-first-human-trial/",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/10/peach.jpeg",
+      "publishedAt": "2025-10-23T15:56:17Z",
+      "content": "Subscribe to 404 Media to get The Abstract, our newsletter about the most exciting and mind-boggling science news and studies of the week. \r\nHold onto your butts, because one day you might be breathi… [+4419 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google Earth’s expanded AI features make it easier to ask it questions - The Verge",
+      "description": "Google Gemini pulls together Google Earth’s AI models for some users.",
+      "url": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1_zhxeIkbWyps7mB8jU2KhFQ.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T15:09:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini will now connect different Google Earth AI models for trusted tester users. \r\nGemini will now connect different Google Earth AI models for trusted tester … [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple Wallet now offers digital ID for another US state - 9to5Mac",
+      "description": "Apple Wallet has just introduced digital ID support for another new US state: West Virginia is the latest addition.",
+      "url": "https://9to5mac.com/2025/10/23/apple-wallet-now-supports-digital-id-in-another-us-state/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/wv-license-digital-id.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-23T15:05:00Z",
+      "content": "Apple Wallets digital ID support continues expanding, with West Virginia the latest addition. Here are the details.\r\nToday Apple rolled out digital ID support for yet another new US state.\r\nWest Virg… [+1145 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Reports suggest Apple is already pulling back on the iPhone Air - Ars Technica",
+      "description": "New phone design compromises on camera and battery to achieve a lighter weight.",
+      "url": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3384-1152x648.jpeg",
+      "publishedAt": "2025-10-23T15:04:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Razer’s new DualSense Edge-style PS5 controller has TMR sticks - The Verge",
+      "description": "Even without adaptive triggers and rumble, the Raiju V3 Pro may be the better choice for some PS5 owners.",
+      "url": "https://www.theverge.com/news/804365/razer-raiju-v3-pro-ps5-dualsense-edge-features-price",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/raijuv3prowhite.jpg?quality=90&strip=all&crop=0%2C10.73820111473%2C100%2C78.523597770539&w=1200",
+      "publishedAt": "2025-10-23T15:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nEven without adaptive triggers and rumble, the Raiju V3 Pro may be the better choice for some PS5 owners.\r\nEven without adaptive triggers and rumble, the Raiju V… [+3618 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial - The Verge",
+      "description": "The Fujifilm X-T30 III adds a dial for quick access to film looks, improves video capture to 6.2K, and introduces AI-powered subject tracking.",
+      "url": "https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/fujifilm_xt30_1.jpg?quality=90&strip=all&crop=0%2C10.702615371533%2C100%2C78.594769256933&w=1200",
+      "publishedAt": "2025-10-23T14:16:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new X-T30 III also uses AI to detect and track subjects including people, animals, cars, trains, and birds.\r\nThe new X-T30 III also uses AI to detect and tra… [+3624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Famitsu sales (10/13/25 – 10/19/25) – first week sales revealed for Pokemon Legends: Z-A - Nintendo Everything",
+      "description": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 201,684 Switch OLED – 14,552 Switch Lite – 7,015 PS5 Digital Edition – 5,393 PS5 – 4,683 Switch – 2,146 PS5 Pro – 2009 Xbox Series X Digital Edition – 86 Xbox Series X – 54 Xbox Series…",
+      "url": "https://nintendoeverything.com/famitsu-sales-10-13-25-10-19-25-first-week-sales-revealed-for-pokemon-legends-z-a/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A.png",
+      "publishedAt": "2025-10-23T13:06:29Z",
+      "content": "The latest Japanese hardware sales from Famitsu are as follows:\r\nSwitch 2 – 201,684Switch OLED – 14,552Switch Lite – 7,015PS5 Digital Edition – 5,393PS5 – 4,683Switch – 2,146PS5 Pro – 2009Xbox Series… [+944 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Windows Central"
       },
-      "author": "Zac Bowden",
-      "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
-      "description": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Explorer updates, and general quality of life improvements, which is now in the final testing stages before general availability.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-80.jpg",
-      "publishedAt": "2025-10-22T11:19:06Z",
-      "content": "Microsoft is finally ready to begin shipping its new Start menu for Windows 11 that was first announced earlier this year. As of this week, Microsoft is now testing the next major feature drop for Wi… [+15433 chars]"
+      "author": "Samuel Tolbert",
+      "title": "I've enjoyed my time with The Outer Worlds 2, and it fixes this key problem from the first game - Windows Central",
+      "description": "The Outer Worlds 2 is a fairly iterative sequel, and that's not a bad thing at all.",
+      "url": "https://www.windowscentral.com/gaming/xbox/the-outer-worlds-2-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b8ZrbFNY3GuJVEvWwbe9wb-2560-80.jpg",
+      "publishedAt": "2025-10-23T13:00:00Z",
+      "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.In 2019, legendary … [+11194 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Notebookcheck.net"
       },
-      "author": "Sophie McEvoy",
-      "title": "Ubisoft announces \"restructuring proposal\" for RedLynx, 60 jobs may be at risk - GamesIndustry.biz",
-      "description": "RedLynx to hold collective negotiations with staff before decision whether to enact proposal is made",
-      "url": "https://www.gamesindustry.biz/ubisoft-announces-restructuring-proposal-for-redlynx-60-jobs-may-be-at-risk",
-      "urlToImage": "https://assetsio.gnwcdn.com/redlynx_ubiphoto_redlynx_10-1_smaller.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-10-22T10:48:23Z",
-      "content": "Ubisoft has announced a \"restructuring proposal\" for its Finland-based RedLynx studio.\r\nThe proposal aims to align with Ubisoft's \"global efforts to simplify, reduce costs, and a stronger prioritisat… [+1749 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Arthur Sullivan",
-      "title": "AI chatbots fail at accurate news, major study reveals - DW",
-      "description": "AI chatbots such as ChatGPT and Copilot routinely distort the news and struggle to distinguish facts from opinion. That's according to a major new study from 22 international public broadcasters, including DW.",
-      "url": "https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921",
-      "urlToImage": "https://static.dw.com/image/74390458_6.jpg",
-      "publishedAt": "2025-10-22T10:12:46Z",
-      "content": "A major new study by 22 public service media organizations, including DW, has found that four of the most commonly used AI assistants misrepresent news content 45% of the time  regardless of language… [+5190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VG247"
-      },
-      "author": "Sherif Saed",
-      "title": "Watch the Battlefield 6 Season 1 trailer here for a look at the first new map coming to the game next week - VG247",
-      "description": "If you can believe it, we're less than one week away from the launch of Battlefield 6's first season.",
-      "url": "https://www.vg247.com/battlefield-6-season-1-reveal-trailer-blackwell-fields-map-first-look",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-assault-class-gameplay-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-10-22T09:25:00Z",
-      "content": "Battlefield Studios is officially unveiling the first post-launch season for Battlefield 6 today. We’re getting a trailer for Season 1, which we’ve technically known a few things about for a while.\r\n… [+1541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "author": "Samsung Newsroom",
-      "title": "[Full Video Replay] Galaxy XR: Merging Multimodal AI With Extended Reality - samsung.com",
-      "description": "On October 21, Samsung Electronics unveiled Galaxy XR — a transformative experience powered by context-aware, multimodal AI. During the event, Samsung demonstrated how Galaxy XR opens entirely new possibilities for AI-native devices, enabling full immersion t…",
-      "url": "https://news.samsung.com/global/full-video-replay-galaxy-xr-merging-multimodal-ai-with-extended-reality",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/10/22141221/Samsung-Mobile-Galaxy-XR-Full-Video-Replay_Thumb728.jpg",
-      "publishedAt": "2025-10-22T07:07:00Z",
-      "content": "On October 21, Samsung Electronics unveiled Galaxy XR a transformative experience powered by context-aware, multimodal AI. During the event, Samsung demonstrated how Galaxy XR opens entirely new poss… [+1288 chars]"
+      "author": "Alex Alderson",
+      "title": "Qualcomm Snapdragon 8 Elite Gen 5 at mid-range pricing: Xiaomi releases Redmi K90 Pro Max with 7,560 mAh silicon carbon battery and 5x telephoto camera - Notebookcheck",
+      "description": "Xiaomi has replaced the Redmi K80 Pro with a Pro Max-branded successor. Lining up alongside the Redmi K90, the Redmi K90 Pro Max surpasses the Redmi K80 Pro in numerous areas, including performance, cameras and battery capacity.",
+      "url": "https://www.notebookcheck.net/Qualcomm-Snapdragon-8-Elite-Gen-5-at-mid-range-pricing-Xiaomi-releases-Redmi-K90-Pro-Max-with-7-560-mAh-silicon-carbon-battery-and-5x-telephoto-camera.1145243.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Redmi-K90-Pro-Max-launch-kv.jpg",
+      "publishedAt": "2025-10-23T12:48:00Z",
+      "content": "Last month, Xiaomi became the first Android OEM to start selling Qualcomm Snapdragon 8 Elite Gen 5-backed smartphones. While the Xiaomi 17, Xiaomi 17 Pro and Xiaomi 17 Pro Max are all flagship handse… [+879 chars]"
     }
   ]
 }
