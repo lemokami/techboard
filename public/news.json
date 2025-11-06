@@ -1,110 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 58,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "iOS 26.1 lets you tweak Liquid Glass, and it’s out now - The Verge",
-      "description": "Apple has just released iOS 26.1 for iPhones, which includes a new transparency toggle for Liquid Glass.",
-      "url": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_apple_frost_glass_iphone_f76e1d.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-03T22:20:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can make iPhone design elements more opaque again.\r\nYou can make iPhone design elements more opaque again.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts … [+2647 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "GamesIndustry.biz"
       },
-      "author": "Timi Cantisano",
-      "title": "Google pulled the plug on Nest Thermostats, but you can now bring them back to life - Android Police",
-      "description": "A second chance",
-      "url": "https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-nest-thermostat-4th-gen-review-on-the-wall.JPG?w=1600&h=900&fit=crop",
-      "publishedAt": "2025-11-03T22:07:00Z",
-      "content": "Google provided plenty of advanced warning, but that doesn't mean it didn't hurt any less when Google discontinued support for its older Nest thermostats. While over a decade of support is pretty goo… [+2092 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku",
-      "description": "The Video Game History Foundation has archived some unused audio lines from the arcade baseball game",
-      "url": "https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/slugfest-1200x675.jpg",
-      "publishedAt": "2025-11-03T21:56:49Z",
-      "content": "Remember MLB Slugfest 2003? If you do remember this over-the-top PS2-era baseball game, it’s likely because of its often funny color commentators, Tim and Jimmy, who offered up bizarre or crude jokes… [+2139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Resident Evil Pro Controller Is Available To Pre-Order, But Its Price Is Terrifying - Nintendo Life",
-      "description": "A few Bingo wins might be needed",
-      "url": "https://www.nintendolife.com/news/2025/11/resident-evil-pro-controller-is-available-to-pre-order-but-its-price-is-terrifying",
-      "urlToImage": "https://images.nintendolife.com/47cdbbd114c96/large.jpg",
-      "publishedAt": "2025-11-03T21:54:01Z",
-      "content": "Image: Nintendo Life\r\nShortly following its official announcement, the Resident Evil Pro Controller for Switch 2 has become available to pre-order.\r\nSo if you're really keen on picking this up, you m… [+1555 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jacob Kienlen",
-      "title": "Google Pixel 10 Phones Drop to Record Low Prices Ahead of Black Friday - IGN",
-      "description": "Amazon is slashing prices early.",
-      "url": "https://www.ign.com/articles/google-pixel-10-pro-xl-early-black-friday-deal-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/04/blogroll-1757029764164.JPG?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-11-03T21:10:26Z",
-      "content": "If you're hoping to find a deal on an unlocked Google Pixel phone for Black Friday, I've got some good news: Amazon has already started slashing prices on most of the latest models from the Pixel lin… [+4380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple does launch new products in November, here’s when it happened last - 9to5Mac",
-      "description": "When was the last time Apple launched new products in November? Here’s an overview of recent history as we await new Apple TV, AirTag, more.",
-      "url": "https://9to5mac.com/2025/11/03/apple-does-launch-new-products-in-november-heres-when-it-happened-last/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Apple-Silicon-Macs-to-be-announced-by-November.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-11-03T20:39:00Z",
-      "content": "Apple has long been expected to launch a new Apple TV 4K, HomePod mini 2, and AirTag 2 before the year ends. But its somewhat rare for the company to unveil new products in November or later. Heres w… [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "AMD says that it’s not pulling driver support for older Radeon GPUs afterall - Ars Technica",
-      "description": "Re-using old silicon means that dropping “old” GPUs can affect “new” products.",
-      "url": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
-      "publishedAt": "2025-11-03T20:21:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Pillars Of Eternity Gets Turn-Based Mode As Fans Beg For A Sequel - Kotaku",
-      "description": "Pillars of Eternity will start testing the new mode soon",
-      "url": "https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/Pillars-of-Eternity-1200x675.jpg",
-      "publishedAt": "2025-11-03T20:14:22Z",
-      "content": "I’ve never played an isometric RPG that didn’t feel better with turn-based combat, so it’s really neat to hear that Pillars of Eternity will be testing the more tactical option in the weeks ahead. It… [+1985 chars]"
+      "author": "Vikki Blake",
+      "title": "US Patent Office makes rare decision to order \"reexamination\" of previously awarded Nintendo patent - GamesIndustry.biz",
+      "description": "The head of the U.S. Patent Office is reexamining a decision to award Nintendo a patent that protects a common gameplay…",
+      "url": "https://www.gamesindustry.biz/us-patent-office-makes-rare-decision-to-order-reexamination-of-previously-awarded-nintendo-patent",
+      "urlToImage": "https://assetsio.gnwcdn.com/pokemon-starters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-11-04T21:24:00Z",
+      "content": "The head of the U.S. Patent Office is reexamining a decision to award Nintendo a patent that protects a common gameplay mechanic wherein an in-game character summons another sub-character to support … [+2247 chars]"
     },
     {
       "source": {
@@ -112,142 +21,233 @@
         "name": "Kotaku"
       },
       "author": "Claire Jackson",
-      "title": "Arc Raiders Gifts Premium Currency After Server Struggles - Kotaku",
-      "description": "As one fan put it, you can spend '$4 in coins to have poop smeared on your face'",
-      "url": "https://kotaku.com/arc-raiders-gifts-premium-currency-after-server-struggles-2000640888",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/cosmeticsmain-1200x675.jpg",
-      "publishedAt": "2025-11-03T20:10:22Z",
-      "content": "Following some disruptive server issues after Arc Raiders first weekend was slammed with an influx of players, Embark Studios is giving out 500 Raider Tokens to those who played on Sunday, which tran… [+2772 chars]"
+      "title": "14 Essential Tips For Getting Started In Arc Raiders - Kotaku",
+      "description": "Whether you roll solo or with friends, here’s how to stay alive and make the most of your run",
+      "url": "https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/MAIN-1-1200x675.jpg",
+      "publishedAt": "2025-11-04T20:47:36Z",
+      "content": "Arc Raiders came out last week and folks have been pouring into the serversin some cases overwhelming them. And as players immerse themselves in the PvPvE extraction shooter, its developing a reputat… [+15287 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Emma Roth",
-      "title": "Apple brings its App Store to the web - The Verge",
-      "description": "Apple’s new App Store on the web allows users to easily browse and search for apps for iPhone, Mac, Vision Pro, iPad, and Apple TV.",
-      "url": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/apple-app-store-games-page.png?quality=90&strip=all&crop=0%2C11.011473766292%2C100%2C77.977052467417&w=1200",
-      "publishedAt": "2025-11-03T20:02:52Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe web-based App Store has a new homepage, but you cant use it to install apps on your iPhone or Mac. \r\nThe web-based App Store has a new homepage, but you cant… [+2444 chars]"
+      "author": "Sheena Vasani",
+      "title": "Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays - The Verge",
+      "description": "Govee’s Christmas Lights 2 are down to some of their best prices. Multiple sizes are on sale, starting at $69.99 and going up to $299.99 for the 328-foot set.",
+      "url": "https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25772023/goveechristmas.jpg?quality=90&strip=all&crop=0%2C18.840116151172%2C100%2C79.369967882441&w=1200",
+      "publishedAt": "2025-11-04T20:00:00Z",
+      "content": "<ul><li></li><li></li></ul>\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nby\r\nSh… [+2568 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Claire Lewis",
-      "title": "Yakuza 3 remake stirs up backlash with new trailer starring actor who admitted to assault - Polygon",
-      "description": "Players want Yakuza Kiwami 3 & Dark Ties actor Teruyuki Kagawa replaced due to his history of sexual misconduct",
-      "url": "https://www.polygon.com/yakuza-3-remake-kiwami-teruyuki-kagawa-controversy-sega/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/yakuza-3.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2025-11-03T19:55:00Z",
-      "content": null
+      "author": "Lauren Forristal",
+      "title": "Sora is now available on Android in the US, Canada, and other regions - TechCrunch",
+      "description": "The Android version of Sora retains all the features of its iOS counterpart, including the “Cameos” feature, which allows users to generate videos of themselves performing various activities using their own likeness.",
+      "url": "https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-04T19:35:51Z",
+      "content": "Sora, the AI video generator from OpenAI, is now officially available for Android users in the U.S., Canada, Japan, Korea, Taiwan, Thailand, and Vietnam. \r\nInitially launched as an iOS app in Septemb… [+2137 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Field Gulls"
+        "name": "9to5Mac"
       },
-      "author": "Terrance Robinson",
-      "title": "The apology tour begins: ESPN analyst says Seahawks are his ‘biggest miss of the offseason’ - Field Gulls",
-      "description": "Bookmark it. Savor it. The tour will elongate with each Seahawks win.",
-      "url": "https://www.fieldgulls.com/seattle-seahawks-news/153920/the-apology-tour-begins-espn-analyst-says-seahawks-biggest-miss-offseason",
-      "urlToImage": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2025/11/imagn-27490862.jpg?quality=90&strip=all&crop=0%2C10.749203630536%2C100%2C78.501592738927&w=1200",
-      "publishedAt": "2025-11-03T19:37:55Z",
-      "content": "We read the predictions, we swallowed our pride, we argued amongst one another. The Seattle Seahawks spent the majority of the 2025 NFL off-season making drastic changes at QB1 and WR1. Both moves el… [+2195 chars]"
+      "author": "Ryan Christoffel",
+      "title": "iOS 26.2 adds Liquid Glass slider to customize your Lock Screen - 9to5Mac",
+      "description": "iOS 26.2 beta 1 is now available, and it updates the Liquid Glass slider for customizing the time on your iPhone’s Lock Screen.",
+      "url": "https://9to5mac.com/2025/11/04/ios-26-2-adds-liquid-glass-slider-to-customize-your-lock-screen/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26-2-liquid-glass-clock-lock-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-04T19:22:00Z",
+      "content": "iOS 26.2 beta 1 is now available for developers, and it updates the Liquid Glass slider for customizing the time on your iPhones Lock Screen. Heres whats new.\r\nIt appears Apple isnt done offering use… [+1296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Leagueoflegends.com"
+      },
+      "author": null,
+      "title": "Teamfight Tactics patch 15.8 notes - Teamfight Tactics",
+      "description": "A light balance patch for our Tactician’s Crown competitors and a larger one for Uncharted Realms.",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-8-notes/",
+      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/69edc2365dba4d7c94b1f6e39ff10e9e2e095d8e-1920x1080.jpg?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "publishedAt": "2025-11-04T19:00:00Z",
+      "content": "Were removing a Call to Chaos option that doesnt quite meet the Prismatic power output with our recent nerf to Snipers Focus.Were also buffing our more basic, but underperforming flexible combat Augm… [+275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "iOS 26.2 includes three helpful upgrades to Apple Podcasts app - 9to5Mac",
+      "description": "Apple is upgrading its built-in Podcasts app with three changes starting with iOS 26.2. The upgrades include two new features...",
+      "url": "https://9to5mac.com/2025/11/04/ios-26-2-includes-three-helpful-upgrades-to-apple-podcasts-app/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-podcasts-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-04T18:50:00Z",
+      "content": "Apple is upgrading its built-in Podcasts app with three changes starting with iOS 26.2. The upgrades include two new features and a major enhancement to an existing feature.\r\nFirst, Apple is automati… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MacRumors",
+      "title": "iOS 26.2 and watchOS 26.2 Update Sleep Score Ranges - MacRumors",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWtJa005NC1rTXZRYktpb1pMWG51dmhCTWlDXzdqNHZ3WEFkZFNiQnhES1RNNkw3OHJCTXpsYVRsZFJocUZQX1d1akdYTl9RTGdxOVhrRFRHTUkta1hqdVBwWG5rVEktUEo3WjlKQWItbW91YkEtVlA4dW5xczJyUXh6SQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2025-11-04T18:44:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "John Higgins",
+      "title": "Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2 - The Verge",
+      "description": "The simulated demo highlighted six dynamic HDR features that we expect to see on some Samsung TVs in 2026.",
+      "url": "https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23123060/HDR10_GAMING_Standard_main2.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+      "publishedAt": "2025-11-04T18:36:19Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe technology is still in development, but is expected to be at CES 2026.\r\nThe technology is still in development, but is expected to be at CES 2026.\r\nby\r\nJohn … [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Stephen Tailby",
+      "title": "PC Players or Bots? Battlefield 6 PS5 Players Frustrated by Crossplay Situation - Push Square",
+      "description": "Would you rather play with one or the other?",
+      "url": "https://www.pushsquare.com/news/2025/11/pc-players-or-bots-battlefield-6-ps5-players-frustrated-by-crossplay-situation",
+      "urlToImage": "https://images.pushsquare.com/b1d5c51ebd3c2/large.jpg",
+      "publishedAt": "2025-11-04T18:00:00Z",
+      "content": "If you're playing Battlefield 6 on PS5, you've probably had to make a choice: do you play cross-platform with PC players, or do you opt out, only to be put in matches containing bots?\r\nThat's the dil… [+2294 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple Prepares to Enter Low-Cost Laptop Market for First Time - Bloomberg.com",
+      "description": "Apple Inc. is preparing to enter the low-cost laptop market for the first time, developing a budget Mac aimed at luring away customers from Chromebooks and entry-level Windows PCs.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iatk.zJV13.A/v1/1200x800.jpg",
+      "publishedAt": "2025-11-04T17:08:02Z",
+      "content": "Apple Inc. is preparing to enter the low-cost laptop market for the first time, developing a budget Mac aimed at luring away customers from Chromebooks and entry-level Windows PCs.\r\nThe new device de… [+295 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Will Sattelberg",
-      "title": "Pixel 10 is a hit in the US with Google’s new ‘single-month sales record’ amid iPhone 17 - 9to5Google",
-      "description": "Hot off the launch of the Pixel 10 series, Google is seeing some seriously impressive boosts, even in the face of a new iPhone launch.",
-      "url": "http://9to5google.com/2025/11/03/pixel-10-is-a-hit-in-the-us-with-googles-new-single-month-sales-record-amid-iphone-17/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-11-03T19:30:00Z",
-      "content": "The Pixel 10 is about as good a smartphone as we’ve seen from Google yet, and you don’t have to take our word for it. Google’s seeing some unprecedented success on the back of its latest hardware lau… [+2111 chars]"
+      "author": "Ben Schoon",
+      "title": "Nomad’s Qi2 25W 2-in-1 wireless charging stand is ready for Pixel 10 and iPhone 17 - 9to5Google",
+      "description": "Nomad is updating its signature “Stand One” lineup with Qi2 support, which means Pixel 10 and iPhone 17 owners have...",
+      "url": "http://9to5google.com/2025/11/04/nomad-qi2-25w-wireless-charging-stand-pixel-10-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/nomad-qi2-25w-stand-one-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-04T17:02:00Z",
+      "content": "Nomad is updating its signature “Stand One” lineup with Qi2 support, which means Pixel 10 and iPhone 17 owners have a new Qi2 25W option that includes a second charger for their Pixel Buds or AirPods… [+2506 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jay Peters",
-      "title": "Apple TV’s new name now comes with a new sound - The Verge",
-      "description": "Apple made a new intro sound and video to accompany things you watch on Apple TV. The “mnemonic” was made by Billie Eilish’s brother and producing partner, Finneas.",
-      "url": "https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/videoframe_4095.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-11-03T18:58:57Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter dropping the plus from Apple TV, Apple teamed up with Finneas to make a new intro sound.\r\nAfter dropping the plus from Apple TV, Apple teamed up with Finne… [+2981 chars]"
+      "author": "Elissa Welle",
+      "title": "Google Maps can tell Polestar 4 drivers when to merge lanes - The Verge",
+      "description": "Google Maps is launching a live lane guidance feature to Polestar 4 cars in the US and Sweden.",
+      "url": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-live-lane.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T16:57:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe live lane guidance feature in Google Maps is coming first to Polestar 4 cars in the US and Sweden.\r\nThe live lane guidance feature in Google Maps is coming f… [+3291 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Thegamepost.com"
       },
-      "author": "Jim Norman",
-      "title": "Pokémon TCG Pocket Pulled In Almost $1.3 Billion In Its First Year Alone - Nintendo Life",
-      "description": "That's a lot of Poké Dollars",
-      "url": "https://www.nintendolife.com/news/2025/11/pokemon-tcg-pocket-pulled-in-almost-usd1-3-billion-in-its-first-year-alone",
-      "urlToImage": "https://images.nintendolife.com/80f5633033e3f/large.jpg",
-      "publishedAt": "2025-11-03T18:47:11Z",
-      "content": "Image: Jim Norman / Nintendo Life\r\nPokémon Trading Card Game Pocket celebrated its first anniversary last week, and it has seemingly been quite the money maker (thanks, PocketGamer.biz).\r\nAccording t… [+1256 chars]"
+      "author": null,
+      "title": "Destiny 2 Renegades Trailer Reveals New Exotic Weapons and Armor Coming This December - The Game Post",
+      "description": "Bungie has released a brand-new Destiny 2: Renegades trailer showing off new exotic gear, including Praxic Blade, Heirloom Crossbow, and more coming in December.",
+      "url": "https://thegamepost.com/destiny-2-renegades-trailer-new-exotic-weapons-armor/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/11/destiny-2-renegades-trailer-new-exotic-weapons-armor-14.jpg",
+      "publishedAt": "2025-11-04T16:46:46Z",
+      "content": "Bungie has released a brand-new Destiny 2: Renegades trailer showing off new exotic gear, including Praxic Blade, Heirloom Crossbow, and more coming in December.\r\nDestiny 2s next expansion, Renegades… [+3133 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Minecraft.net"
       },
-      "author": "Vikki Blake",
-      "title": "Nintendo wins lawsuit against streamer who livestreamed priated games before release - GamesIndustry.biz",
-      "description": "Nintendo has successfully sued a Switch pirate who livestreamed pirated games prior to release.",
-      "url": "https://www.gamesindustry.biz/nintendo-wins-lawsuit-against-streamer-who-livestreamed-priated-games-before-release",
-      "urlToImage": "https://assetsio.gnwcdn.com/2x1_NSwitch_TheLegendofZeldaEchoesOfWisdom_image1600w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-11-03T18:15:48Z",
-      "content": "Nintendo has successfully sued a Switch pirate who livestreamed pirated games prior to release.\r\nNintendo filed a lawsuit against streamer Jesse \"Every Game Guru\" Keighin last November, accusing Keig… [+1715 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "Battlefield 6 Map Debate Reaches New Level as Players Meticulously Measure 70+ Maps from BF3, BF2042, and More - IGN",
-      "description": "FPS fans have spent months obsessing about Battlefield 6 map sizes, so some players finally took the time to measure and compare nearly every map the series has seen in the last 15 years.",
-      "url": "https://www.ign.com/articles/battlefield-6-map-debate-reaches-new-level-as-players-meticulously-measure-70-maps-from-bf3-bf2042-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/28/ss-47da1e8b9adb2a99824ef44dc5eade8c71c6007c-1920x1080-1761648759946.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-11-03T18:10:23Z",
-      "content": "FPS fans have spent months obsessing about Battlefield 6 map sizes, so some players finally took the time to measure and compare nearly every map the series has seen in the last 15 years.\r\nThe Battle… [+4065 chars]"
+      "author": "Jay Wells",
+      "title": "Minecraft Preview 1.21.130.26 - Minecraft",
+      "description": "Minecraft Preview 1.21.130.26 Changelog",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-preview-1-21-130-26",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/preview21U13_4_1170x500.jpg",
+      "publishedAt": "2025-11-04T16:43:25Z",
+      "content": "Our final set of features for Mounts of Mayhem brings the game's strongest armor tier to your favorite mount  with Netherite horse armor! As well as making your steed more stylish, Netherite horse ar… [+3375 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Duke Basketball Report"
+        "name": "9to5google.com"
       },
-      "author": "julian king",
-      "title": "A Wonderful Read From The Duke Chronicle - Duke Basketball Report",
-      "description": "This is highly impressive.",
-      "url": "https://www.dukebasketballreport.com/main/82271/a-wonderful-read-from-the-duke-chronicle",
-      "urlToImage": "https://platform.dukebasketballreport.com/wp-content/uploads/sites/77/2025/11/gettyimages-2238666005.jpg?quality=90&strip=all&crop=0%2C10.74229589284%2C100%2C78.515408214321&w=1200",
-      "publishedAt": "2025-11-03T17:30:36Z",
-      "content": "Typically, we add links to stories as they become available and with Texas being the first game of the season, weve been adding links for a few days now. Some are better than others, obviously, but w… [+2279 chars]"
+      "author": "Andrew Romero",
+      "title": "Closer look at Galaxy Z TriFold shows that Samsung compromised with thicker bezels - 9to5Google",
+      "description": "Samsung’s surprising Galaxy Z TriFold tease isn’t exactly news, but new angles in a recent video give a much better...",
+      "url": "http://9to5google.com/2025/11/04/closer-look-at-galaxy-z-trifold-shows-that-samsung-compromised-with-thicker-bezels/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Galaxy-Z-TriFold-bezels-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-04T16:21:00Z",
+      "content": "SBS News\r\nSamsung’s surprising Galaxy Z TriFold tease isn’t exactly news, but new angles in a recent video give a much better look at the foldable behind its protective glass case, and my, does it ha… [+1813 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Google’s entire Pixel 10 lineup is up to 25 percent off for the first time - The Verge",
+      "description": "Google has great deals on its Pixel 10 phones, including the Pro and Fold, for up to 25 percent off. You can also save on 8BitDo’s N64 controller, and more.",
+      "url": "https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/pixel10leaddeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T16:04:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can also save on a great PC motherboard bundle, a compact Bluetooth speaker, and a controller made for N64 games.\r\nYou can also save on a great PC motherboar… [+4370 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "PCMag.com"
       },
-      "author": "Ellyn Lapointe",
-      "title": "Elon Musk Wants to Block Out the Sun - Gizmodo",
-      "description": "The CEO of the largest satellite company in the world just proposed a bold—and totally misguided—solution to the climate crisis.",
-      "url": "https://gizmodo.com/elon-musk-wants-to-block-out-the-sun-2000680770",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Earth-and-Sun-1200x675.jpg",
-      "publishedAt": "2025-11-03T17:25:20Z",
-      "content": "Earths average temperature is nearing critical thresholds as the international community lags behind its emissions goals. As a result, bold technological strategies to cool the planet have gained att… [+3934 chars]"
+      "author": "Shubham Yewale",
+      "title": "Best Buy's Early Black Friday Deals: Start Saving on Earbuds, TVs, Smartphones, and More - PCMag",
+      "description": "Early discounts are now available at Best Buy, and we're here to flag all the best, can’t-miss tech deals. Consider this your cheat sheet for holiday shopping and savings.",
+      "url": "https://www.pcmag.com/deals/best-buy-early-black-friday-2025-deals-earbuds-tvs-printers-more",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/02TsKfwKJF7Rsm4jJ83pyUU-9.fit_lim.size_1200x630.v1762267092.png",
+      "publishedAt": "2025-11-04T15:17:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Goodbye, Assistant: Google prepares to make Gemini your only option - Android Authority",
+      "description": "Gemini could soon get a new processing animation, new control buttons, but also lose the ability to switch to Google Assistant. Read on!",
+      "url": "https://www.androidauthority.com/gemini-removes-google-assistant-stub-apk-teardown-3612818/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-3.jpg",
+      "publishedAt": "2025-11-04T15:08:57Z",
+      "content": "<ul><li>Google is working on several updates to the Gemini app, including a new processing animation and new buttons to facilitate long conversations.</li><li>Google is also working to remove the abi… [+2082 chars]"
     }
   ]
 }
