@@ -1,32 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Jacob Kienlen",
-      "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
-      "description": "Xbox deals are pretty much non-existent.",
-      "url": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/03/27/gamestop-1711539372505.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2025-11-18T20:18:53Z",
-      "content": "GameStop isn't nearly as prominent as it used to be, but it's still a great place to find video game deals during the holiday season. If you're wondering what the gaming retailer has in store for Bla… [+3096 chars]"
+      "author": "Cameron Faulkner",
+      "title": "For Black Friday, get the M4 MacBook Air that’s only $150 more than the slower M1 model - The Verge",
+      "description": "With the M4 model that has a better design and faster specs costing just $150 more, most shoppers should go that route.",
+      "url": "https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0041.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-19T20:51:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWith the M4 model that has a better design and faster specs costing just $150 more, most shoppers should go that route.\r\nWith the M4 model that has a better desi… [+4126 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "The A.V. Club"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": null,
-      "title": "R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club",
-      "description": "Rebecca Heineman, a legendary game designer and 1980 national Space Invaders champion, has died after a short battle with cancer.",
-      "url": "https://www.avclub.com/rebecca-heineman-dies-games",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/uploads/2025/10/07121622/rebecca_heineman_gofundme_main.jpg",
-      "publishedAt": "2025-11-18T20:08:00Z",
-      "content": "Rebecca Heineman, the game developer and winner of the first American video game competition, has died. Heineman died after a short battle with lung cancer, her friend Heidi McDonald announced on Blu… [+2947 chars]"
+      "author": "Dan Goodin",
+      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data - Ars Technica",
+      "description": "Integration of Copilot Actions into Windows is off by default, but for how long?",
+      "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+      "publishedAt": "2025-11-19T20:25:46Z",
+      "content": null
     },
     {
       "source": {
@@ -34,155 +34,129 @@
         "name": "Ars Technica"
       },
       "author": "Andrew Cunningham",
-      "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica",
-      "description": "Agents with read/write access to your files create big security, privacy issues.",
-      "url": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
-      "publishedAt": "2025-11-18T19:28:14Z",
+      "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way - Ars Technica",
+      "description": "Apple’s in-house Wi-Fi chip doesn’t set records, but it’s a reliable performer.",
+      "url": "https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-1152x648.jpeg",
+      "publishedAt": "2025-11-19T19:33:22Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "The-race.com"
+        "name": "9to5google.com"
       },
-      "author": "Glenn Freeman",
-      "title": "Why shock F1 26 game news should start a new era - The Race",
-      "description": "There won't be a new official F1 game in 2026. Good, says Glenn Freeman, because sports gaming has become needlessly addicted to annual releases",
-      "url": "https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/",
-      "urlToImage": "https://www.the-race.com/content/images/2025/11/G6DKWtDXsAAek4K.jpeg",
-      "publishedAt": "2025-11-18T18:32:32Z",
-      "content": "The news that there will be no new F1 game in 2026 is a shock, and one that I thought wed never see.\r\nMany sports franchise titles feel stuck in an endless cycle of annual releases, because thats how… [+3445 chars]"
+      "author": "Ben Schoon",
+      "title": "YouTube tests bringing back direct messages, a ‘top feature request’ - 9to5Google",
+      "description": "YouTube’s latest test is preparing support for direct messages where users can share videos with each other and have conversations....",
+      "url": "http://9to5google.com/2025/11/19/youtube-is-testing-a-revival-of-built-in-direct-messages-a-top-feature-request/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/11/youtube-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-19T18:45:00Z",
+      "content": "YouTube’s latest test is preparing support for direct messages where users can share videos with each other and have conversations.\r\nDetailed on a support page, YouTube is now testing “new ways to sh… [+2022 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Zac Hall",
-      "title": "Apple releases iOS 26.2 public beta 2, here’s what’s new - 9to5Mac",
-      "description": "Want to try Apple’s next iPhone software update before it comes out? Apple just dropped the released iOS 26.2 public...",
-      "url": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-11-18T18:21:00Z",
-      "content": "Want to try Apple’s next iPhone software update before it comes out? Apple just dropped the released iOS 26.2 public beta 2, and it has a ton of new features. Here’s everything new.\r\nAs we’ve been re… [+3233 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple has five products coming next year that I’m very excited for - 9to5Mac",
+      "description": "Apple has a lot of new products coming next year, here are five rumored 2026 products that I’m especially excited for.",
+      "url": "https://9to5mac.com/2025/11/19/apple-has-five-products-coming-next-year-that-im-very-excited-for/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-19T18:39:00Z",
+      "content": "Apples 2025 product lineup might be complete, but theres a lot in the works for the year ahead. Here are five new Apple products rumored to debut in 2026 that Im especially excited for.\r\nIve been ver… [+4257 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "GameSpot"
       },
-      "author": "Jessica Lyons",
-      "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
-      "description": ": Seventh Chrome 0-day this year",
-      "url": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/18/shutterstock_754555399.jpg",
-      "publishedAt": "2025-11-18T17:43:00Z",
-      "content": "Google pushed an emergency patch on Monday for a high-severity Chrome bug that attackers have already found and exploited in the wild.\r\nThe vulnerability, tracked as CVE-2025-13223, is a type confusi… [+1657 chars]"
+      "author": "Blair Marnell",
+      "title": "The Game Awards Nominees, Ranked By How Many Nominations They Received - GameSpot",
+      "description": "It's time to look at The Game Awards' top contenders, and the games that only have a single shot at coming home with an award.",
+      "url": "https://www.gamespot.com/gallery/the-game-awards-nominees-ranked-by-how-many-nominations-they-received/2900-7267/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4607172-ghostofyotei.jpg",
+      "publishedAt": "2025-11-19T18:14:41Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Deadline"
       },
-      "author": "Victoria Phillips Kennedy",
-      "title": "Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles - Eurogamer",
-      "description": "Aspyr and Crystal Dynamics just shadow dropped Tomb Raider: Definitive Edition on Switch and Switch 2.",
-      "url": "https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles",
-      "urlToImage": "https://assetsio.gnwcdn.com/TRDE-Screenshot-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-11-18T17:42:20Z",
-      "content": "Those with Switch consoles who have had a hankering to play Tomb Raider: Definitive Edition - that is to say, the remaster of 2013's Tomb Raider reboot - but have been unable to do so due to its lack… [+1649 chars]"
+      "author": "Dade Hayes",
+      "title": "Amazon Prime Video Adds Video Recap Feature In Latest AI-Powered Streaming Move - Deadline",
+      "description": "Amazon Prime Video is rolling out a video recap feature, aiming to help viewers recall key plot points from past seasons before they start newer ones.",
+      "url": "http://deadline.com/2025/11/amazon-prime-video-recap-button-ai-streaming-1236623440/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Amazon-Jack-Ryan-recap.png?w=1024",
+      "publishedAt": "2025-11-19T17:53:00Z",
+      "content": "AmazonPrime Video is rolling out a video recap feature, aiming to help viewers brush up on key plot points from past episodes and seasons before they play newer ones.\r\nThe AI-driven offering creates … [+1875 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "HYPEBEAST"
+        "name": "Marvelrivals.com"
       },
-      "author": "Felix Young",
-      "title": "The ‘Analogue 3D’ – An 'N64' Reimagined in 4K – Is Available Now - hypebeast.com",
-      "description": "It's finally here, two years after it was first announced.",
-      "url": "https://hypebeast.com/2025/11/analogue-3d-n64-nintendo-64-4k-officially-shipping-now",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F11%2F18%2Fanalogue-3d-n64-nintendo-64-4k-officially-shipping-now-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "publishedAt": "2025-11-18T17:28:05Z",
-      "content": "After two years and several false starts, Analogues highly anticipated Nintendo 64-inspired console the Analogue 3D has finally made it market, with pre-orders shipping today and a sign-up page for f… [+2945 chars]"
+      "author": null,
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+      "url": "https://www.marvelrivals.com/gameupdate/20251119/41548_1271711.html",
+      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "publishedAt": "2025-11-19T17:02:39Z",
+      "content": "Greetings, Rivals!\r\nWe're thrilled to announce the upcoming patch drops on November 20th, 2025, at 09:00:00 (UTC)! This update will be deployed seamlessly, with no server downtime required! Simply lo… [+1460 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "This Home Robot Clears Tables and Loads the Dishwasher All by Itself - WIRED",
+      "description": "Sunday Robotics has a new way to train robots to do common household tasks. The startup plans to put its fully autonomous robots in homes next year.",
+      "url": "https://www.wired.com/story/memo-sunday-robotics-home-robot/",
+      "urlToImage": "https://media.wired.com/photos/691d10d5c35ff0e735daa2d8/191:100/w_1280,c_limit/New-Home-Robot-Business-FB7DDC00-5A09-40CE-AB66-C3EF1E3524BF.jpg",
+      "publishedAt": "2025-11-19T17:00:00Z",
+      "content": "Memo may not be the worlds fastest barista, but it is impressivefor a robot.\r\nI recently watched as Memo, a new home robot from a company called Sunday Robotics, made coffee in an open-plan kitchen i… [+1496 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "HODINKEE"
+        "name": "Thegamepost.com"
       },
-      "author": "Mark Kauzlarich",
-      "title": "Introducing Omega Launches The Fourth Generation Seamaster 'Planet Ocean,' And It's A BIG Update (Live Pics) - Hodinkee",
-      "description": "With a new case, updated movement for the core collection, and a new bracelet. New, new, new.",
-      "url": "https://www.hodinkee.com/articles/introducing-omega-planet-ocean-gen4",
-      "urlToImage": "https://hodinkee.imgix.net/uploads/images/bbe83886-852b-4b35-9053-0965b0a01e99/20251023_OmegaPlanetOcean_005.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-      "publishedAt": "2025-11-18T17:00:00Z",
-      "content": "The watch is powered by the Co-Axial Master Chronometer Calibre 8912 with automatic bi-directional winding. In the movement is a Silicon \"Si14\" balance spring for Omega's free-sprung balance, a Co-Ax… [+1026 chars]"
+      "author": null,
+      "title": "Exclusive: Destiny 2 is considering adding Sparrow Racing League, unvaulted campaigns, NPC sidekicks, new Subclass abilities, new Gambit mode, and more, new survey reveals - The Game Post",
+      "description": "A new survey shows Destiny 2 is considering adding Sparrow Racing League, unvaulted campaigns, NPC sidekicks, new PvP and Gambit modes, and much more.",
+      "url": "https://thegamepost.com/destiny-2-adding-sparrow-racing-unvaulted-campaigns-npc-gambit-survey/",
+      "urlToImage": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-2-adding-sparrow-racing-unvaulted-campaigns-npc-gambit-survey-1.jpg",
+      "publishedAt": "2025-11-19T16:47:01Z",
+      "content": "A new survey shows Destiny 2 is considering adding Sparrow Racing League, unvaulted campaigns, NPC sidekicks, new PvP and Gambit modes, and much more.\r\nDestiny 2 is in a weird spot right now. The Edg… [+7050 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Sheena Vasani",
-      "title": "The Apple Watch Series 11 has plunged to a record low price - The Verge",
-      "description": "The Apple Watch Series 11 is $349.99 ($50 off) at Amazon. The Onn 4K Pro Streaming Device and Coway Airmega AP-1512HH is also on sale.",
-      "url": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VERGE-DEALS-DAILY-IMAGE-26.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-18T16:52:56Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, we found deals on the Onn 4K Pro Streaming Device and the Coway Airmega air purifier.\r\nPlus, we found deals on the Onn 4K Pro Streaming Device and the Cowa… [+3799 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "The Echo Aviation Controller puts a flight simulator in your hands - The Verge",
-      "description": "The Echo Aviation Controller packs a flight simulator’s worth of controls into a $150 gamepad arriving later this year.",
-      "url": "https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/echo_aviation_1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "publishedAt": "2025-11-18T16:32:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe wireless gamepad includes four throttle levers, a trim wheel, rudder paddles, and even a parking brake.\r\nThe wireless gamepad includes four throttle levers, … [+3382 chars]"
+      "author": "Benj Edwards",
+      "title": "Interplay co-founder and pioneering game developer Rebecca Heineman dies at 62 - Ars Technica",
+      "description": "The gaming community mourns a beloved mentor and LGBTQ+ advocate with a storied career.",
+      "url": "https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-1152x648.jpg",
+      "publishedAt": "2025-11-19T16:26:18Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Nintendo Life"
       },
-      "author": "Nintendo Life",
-      "title": "Review: Demonschool (Switch) - Jokes, Gore, And '90s Vibes Set Necrosoft's Tactical RPG Apart - Nintendo Life",
-      "description": "School's out for the apocalypse",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/demonschool",
-      "urlToImage": "https://images.nintendolife.com/0f120555a8911/1280x720.jpg",
-      "publishedAt": "2025-11-18T16:10:00Z",
-      "content": "Captured on Nintendo Switch (Handheld/Undocked)\r\nDemonschool is a tactical RPG that follows a demon hunter named Faye and her collected companions as members of the Black Magic Club at a poorly-ranke… [+5207 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Mark Warren",
-      "title": "Guild Wars Reforged, a free 20th anniversary revamp of the original Guild Wars, arrives this December - Rock Paper Shotgun",
-      "description": "Guild Wars developers ArenaNet have announced Reforged, an update making the original MMORPG easier to play on modern systems, will arrive this December.",
-      "url": "https://www.rockpapershotgun.com/guild-wars-reforged-a-free-20th-anniversary-revamp-of-the-original-guild-wars-arrives-this-december",
-      "urlToImage": "https://assetsio.gnwcdn.com/gw1-reforged-1920x1080-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-11-18T16:04:36Z",
-      "content": "Guild Wars Reforged, a big update to 2005 MMORPG Guild Wars that's designed to make it a lot more convenient to play on modern hardware, is set to hit Steam on December 3rd. Steam Deck verification, … [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Snapchat rolls out ‘Topic Chats’ for public conversations - TechCrunch",
-      "description": "The social network says the new feature will let users chat about what’s happening in the world and across various communities, from Formula 1 to the reality TV show \"Below Deck.\"",
-      "url": "https://techcrunch.com/2025/11/18/snapchat-rolls-out-topic-chats-for-public-conversations/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "publishedAt": "2025-11-18T15:46:03Z",
-      "content": "After primarily focusing on private conversations since its founding, Snapchat is embracing public conversations with a new “Topic Chats” feature. The social network says the feature lets users chat … [+2141 chars]"
+      "author": "Alana Hagues",
+      "title": "Sorry Xillia 2, 'Tales Of Berseria' Is The Next Remaster From Bandai Namco - Nintendo Life",
+      "description": "Go with the FLOW",
+      "url": "https://www.nintendolife.com/news/2025/11/sorry-xillia-2-tales-of-berseria-is-the-next-remaster-from-bandai-namco",
+      "urlToImage": "https://images.nintendolife.com/394294d86efff/large.jpg",
+      "publishedAt": "2025-11-19T15:45:00Z",
+      "content": "Bandai Namco has announced Tales of Berseria Remastered, which will be coming to Switch on 27th February 2026 for $39.99 / £34.99.\r\nYes, you read that right, this is notTales of Xillia 2, which serie… [+1247 chars]"
     },
     {
       "source": {
@@ -190,51 +164,103 @@
         "name": "MacRumors"
       },
       "author": "Mitchel Broussard",
-      "title": "The Best Early Black Friday Mac Deals - MacRumors",
-      "description": "We're getting closer to Black Friday, which lands next week on Friday, November 28. In the lead-up to the shopping holiday, we're tracking a...",
-      "url": "https://www.macrumors.com/2025/11/18/best-early-black-friday-mac-deals/",
-      "urlToImage": "https://images.macrumors.com/t/N1QR-BObdGFtD0zYJ0zihSeHWhY=/2500x/article-new/2025/11/macbook-black-friday.jpeg",
-      "publishedAt": "2025-11-18T15:32:13Z",
-      "content": "We're getting closer to Black Friday, which lands next week on Friday, November 28. In the lead-up to the shopping holiday, we're tracking a few lowest-ever prices on Apple's most popular Macs, inclu… [+3116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Claire Jackson",
-      "title": "Take-Two CEO: Gaming Is ‘Moving Towards PC’ - Kotaku",
-      "description": "As exclusives continue to appear on other platforms, what role will consoles play?",
-      "url": "https://kotaku.com/take-two-strauss-zelnick-gta-6-pc-console-exclusive-2000645103",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/xboxno-1200x675.jpg",
-      "publishedAt": "2025-11-18T15:09:17Z",
-      "content": "The divide between PC and console gaming isnt what it once was. Heck, in a world where Gears of War and Halo are on PlayStation, the divide between console platforms isnt even what it once was. And a… [+1988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Hassan Mujtaba",
-      "title": "AMD FSR Redstone Officially Launching On 10th December, Biggest Update To FSR Software Stack With AI-Enhancements - Wccftech",
-      "description": "AMD has confirmed that its FSR Redstone software update for Radeon RX 9000 RDNA 4 GPUs is headed for launch on the 10th of December.",
-      "url": "https://wccftech.com/amd-fsr-redstone-launching-10th-december-biggest-update-k-ai-enhancements/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/AMD-FSR-Redstone-Update-scaled.png",
-      "publishedAt": "2025-11-18T15:04:00Z",
-      "content": "AMD has confirmed that its FSR Redstone software update for Radeon RX 9000 \"RDNA 4\" GPUs is headed for launch on the 10th of December.\r\nAMD's SVP and general manager of the Computing and Graphics Gro… [+2100 chars]"
+      "title": "Black Friday TV Deals Include Year's Best Prices on Samsung, Sony, LG, and Many More - MacRumors",
+      "description": "One of the best items to shop for every Black Friday season is a TV set, and this year is no different, with hundreds of deals on TVs across numerous...",
+      "url": "https://www.macrumors.com/2025/11/19/black-friday-tv-deals/",
+      "urlToImage": "https://images.macrumors.com/t/KYpil1npX_f0PiZdwoTPH7KE1xc=/2500x/article-new/2025/11/Black-Friday-25-TV-Deals-Feature.jpg",
+      "publishedAt": "2025-11-19T15:32:54Z",
+      "content": "One of the best items to shop for every Black Friday season is a TV set, and this year is no different, with hundreds of deals on TVs across numerous retailers. Below we're highlighting some of the b… [+2677 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Will Sattelberg",
-      "title": "Google Play announces its best Android apps and games of 2025 - 9to5Google",
-      "description": "As has become tradition, Google Play has returned to mark the end of another year with its roundup of the...",
-      "url": "http://9to5google.com/2025/11/18/best-android-apps-games-2025/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Best-Games-Header-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-11-18T15:00:00Z",
-      "content": "As has become tradition, Google Play has returned to mark the end of another year with its roundup of the best Android apps and games from 2025. \r\nConsidering just how obsessed the tech community is … [+1281 chars]"
+      "author": "Ben Schoon",
+      "title": "Galaxy Buds 4 Pro leak with revamped design and ‘find your phone’ feature [Gallery] - 9to5Google",
+      "description": "Samsung’s upcoming Galaxy Buds 4 Pro are likely due to be released next year, but early software leaks are revealing...",
+      "url": "http://9to5google.com/2025/11/19/samsung-galaxy-buds-4-pro-leak-new-design-features/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/samsung-galaxy-buds-3-pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-19T15:25:00Z",
+      "content": "Samsung’s upcoming Galaxy Buds 4 Pro are likely due to be released next year, but early software leaks are revealing more details about the upcoming earbuds.\r\nThe folks over at Android Authority obta… [+1547 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Scott White",
+      "title": "Dragon Quest VII Reimagined Goes Much Farther Than the HD-2D Remakes - IGN",
+      "description": "While many aspects of Dragon Quest VII Reimagined are still a mystery, all of those special little qualities and personalities that have kept this series going for almost 40 years are still on display. And its new visuals are certainly weird. Whether that's a…",
+      "url": "https://www.ign.com/articles/dragon-quest-vii-reimagined-goes-much-farther-than-the-hd-2d-remakes",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/18/dragonquest7reimagined-handson-blogroll-1763492058462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-11-19T15:02:57Z",
+      "content": "I like to think of the mainline Dragon Quest series sort of like a donut. A donut may have sprinkles on top, be glazed, or maybe tied in a knot, depending on where you get it, but at its heart, you k… [+10114 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Tom Phillips",
+      "title": "Pokémon Legends: Z-A Mega Dimension DLC Debuts Mega Zeraora, Though Unlocking It 'Will Be a Little Difficult' - IGN",
+      "description": "Fan-favorite Pokémon Zeraora will gain a Mega Evolution in the upcoming Pokémon Legends: Z-A Mega Dimension DLC. However, a fresh trailer revealing the creature's design has warned that it may be tough to unlock.",
+      "url": "https://www.ign.com/articles/pokemon-legends-z-a-mega-dimension-dlc-debuts-mega-zeraora-though-unlocking-it-will-be-a-little-difficult",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/19/pokmon-legends-z-a-mega-dimension-get-charged-up-with-mega-zeraora-00-00-37-1763562318532.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-11-19T14:34:57Z",
+      "content": "Fan-favorite Pokémon Zeraora will gain a Mega Evolution in the upcoming Pokémon Legends: Z-A Mega Dimension DLC. However, a fresh trailer revealing the creature's design has warned that it may be tou… [+2495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "Huge Ghost of Yotei PS5 Patch Drops Next Week, Adds New Game+, Items, and More - Push Square",
+      "description": "Available on 24th November",
+      "url": "https://www.pushsquare.com/news/2025/11/huge-ghost-of-yotei-ps5-patch-drops-next-week-adds-new-gameplus-items-and-more",
+      "urlToImage": "https://images.pushsquare.com/118589eab8efe/large.jpg",
+      "publishedAt": "2025-11-19T14:30:00Z",
+      "content": "Sony has confirmed a significant PS5 update for Ghost of Yotei will go live next week on 24th November that adds New Game+, an additional vendor and cosmetic items, stat tracking, and more.\r\nUpdating… [+1638 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan McCaffrey",
+      "title": "Fatekeeper, a First-Person Sword-and-Sorcery RPG, Drops 8-Minute First Gameplay Trailer - IGN",
+      "description": "First-person fantasy RPG Fatekeeper just unveiled its first gameplay trailer. We also talked to its developers about their inspirations, plans for a console release, whether or not they consider it a soulslike, and more!",
+      "url": "https://www.ign.com/articles/fatekeeper-a-first-person-sword-and-sorcery-rpg-drops-8-minute-first-gameplay-trailer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/19/fatekeeper-1763514976478.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-11-19T14:02:08Z",
+      "content": "Fans of grounded, gritty fantasy RPGs might want to keep an eye on Fatekeeper, an upcoming first-person role-playing game fueled primarily by melee combat and spells. Its reveal clearly caught the ey… [+5090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Warhammer-community.com"
+      },
+      "author": null,
+      "title": "An adventurer’s guide to Warhammer Quest: Darkwater – Encounters and campaigns - Warhammer Community",
+      "description": "Find out how encounters work.",
+      "url": "https://www.warhammer-community.com/articles/kmifsqtr/an-adventurers-guide-to-warhammer-quest-darkwater-encounters-and-campaigns",
+      "urlToImage": "https://assets.warhammer-community.com/whq_mapbook-nov19-1-feature-vcou3rgfc3.jpg",
+      "publishedAt": "2025-11-19T13:59:13Z",
+      "content": "If youre playing a full campaign something that will take roughly 10 to 14 hours from start to finish youll start by picking your characters and their equipment, then making  two decks one containing… [+6020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Mark Warren",
+      "title": "Hytale's original co-founder wastes no time showing off the game \"as it is\" after buying the rights from Riot - Rock Paper Shotgun",
+      "description": "After buying the rights to Hytale, Hypixel co-founder Simon Collins-Laflamme has shared 16 minutes of footage showing what it's currently like to play.",
+      "url": "https://www.rockpapershotgun.com/hytales-original-co-founder-wastes-no-time-showing-off-the-game-as-it-is-after-buying-the-rights-from-riot",
+      "urlToImage": "https://assetsio.gnwcdn.com/hytale-cancelled-hypixel-studios-closing-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-11-19T13:48:38Z",
+      "content": "On Monday, Hypixel co-founder Simon Collins-Laflamme revealed the good news that he'd followed through on saying he'd chat to Riot Games about buying the rights to the Minecrafty sandbox game Hytale … [+2128 chars]"
     }
   ]
 }
