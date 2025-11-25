@@ -1,71 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 54,
+  "totalResults": 67,
   "articles": [
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O'Brien",
-      "title": "Spotify simplifies importing playlists from other streaming services - The Verge",
-      "description": "Spotify’s mobile app now lets you import playlists from other streaming services using TuneMyMusic.",
-      "url": "https://www.theverge.com/news/825646/spotify-playlist-import",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/How-To-Spotify-Playlists-Transfer.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-11-22T17:10:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe mobile app now integrates with TuneMyMusics playlist transfer service.\r\nThe mobile app now integrates with TuneMyMusics playlist transfer service.\r\nby\r\nTerre… [+2635 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Matt Binder",
-      "title": "Google says it isn't using your Gmail to train AI - Mashable",
-      "description": "The company is denying viral claims that it's accessing users' emails to train AI models.",
-      "url": "https://mashable.com/article/google-training-ai-with-gmail-emails-smart-features-debunked",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/059eI6nm88qxPWPB08RWgGr/hero-image.fill.size_1200x675.v1763830281.jpg",
-      "publishedAt": "2025-11-22T16:59:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Alex Bracetti",
-      "title": "Which headphones should I get? Bose QC Ultra (Gen 2), Sony XM6, and AirPods Max - Mashable",
-      "description": "One of these flagship models is the market’s top pick — find out which.",
-      "url": "https://mashable.com/article/bose-qc-ultra-gen-2-vs-airpods-max-sony-xm6-headphones",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02N9JHj4znSQIoFr3dpxTgF/hero-image.fill.size_1200x675.v1763668307.jpg",
-      "publishedAt": "2025-11-22T12:20:25Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "CNET"
+        "name": "ZDNet"
       },
-      "author": "See full bio",
-      "title": "Google's Nano Banana Pro Makes Ultrarealistic AI Images. It Scares the Hell Out of Me - CNET",
-      "description": "Google's new AI image model is so powerful that it erases what was left of the thin line between real and AI-generated imagery.",
-      "url": "https://www.cnet.com/tech/services-and-software/googles-nano-banana-pro-makes-ultrarealistic-ai-images-it-scares-the-hell-out-of-me/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/e50d1c601b1537ae286cf023845993bf61279944/hub/2025/11/21/641bea71-528a-4863-a89b-01511fc294b5/nano-banana-vt.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-22T12:01:00Z",
-      "content": "One of the most essential things I do when testing new AI image and video generators is to try to find out whether the claims a company makes are true or marketing fluff. Google promised that nano ba… [+6483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Christian Donlan",
-      "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
-      "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet and Metal Gear 4, …",
-      "url": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360",
-      "urlToImage": "https://assetsio.gnwcdn.com/donlan_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-11-22T11:17:33Z",
-      "content": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet and Metal Gear 4, as far as I'm concerned, and even the GameCube, that squat, characterful delight… [+4886 chars]"
+      "author": "Lance Whitney",
+      "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
+      "description": "You can opt out of the features in question if you're still concerned. Here's how.",
+      "url": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c22dcb9b3ef5b467574a1f6e01e849faca03c82/2025/11/23/4661ea33-1fbb-4cd5-902c-2b28241cc82e/gettyimages-1689920443.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-23T23:30:00Z",
+      "content": "Jakub Porzycki/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google denies charges that it's analyzing your private emails to train … [+7505 chars]"
     },
     {
       "source": {
@@ -73,64 +21,90 @@
         "name": "Nintendo Life"
       },
       "author": "Liam Doolan",
-      "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
-      "description": "Make some space",
-      "url": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed",
-      "urlToImage": "https://images.nintendolife.com/4a54b07d44c8b/large.jpg",
-      "publishedAt": "2025-11-22T11:00:00Z",
-      "content": "Image: Nintendo\r\nWe're now just weeks out from Metroid Prime 4: Beyond's anticipated release, and more details about it (including some previews) are beginning to circulate online.\r\nIn case you misse… [+1240 chars]"
+      "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
+      "description": "Samus returns this December",
+      "url": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us",
+      "urlToImage": "https://images.nintendolife.com/8000c8c8cbf8a/large.jpg",
+      "publishedAt": "2025-11-23T22:30:00Z",
+      "content": "Image: Nintendo\r\nNintendo has been promoting the Switch 2 in stores with kiosks, where you can go and play the latest and upcoming titles.\r\nWe've already seen games such as Donkey Kong Bananza added … [+1198 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Timeextension.com"
+        "name": "Jalopnik"
       },
-      "author": "Damien McFerran",
-      "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
-      "description": "Price is jumping to $270",
-      "url": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch",
-      "urlToImage": "https://images.timeextension.com/f48562fda5673/large.jpg",
-      "publishedAt": "2025-11-22T10:45:00Z",
-      "content": "Image: Damien McFerran / Time Extension\r\nAnalogue's amazing FPGA-based N64 clone, the Analogue 3D, will go back up for pre-order next week but the price is getting a bump thanks to President Trump's … [+981 chars]"
+      "author": "Benjamin Gracias",
+      "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
+      "description": "The Mercedes-AMG M 139, Mitsubishi 4B11T, and Volvo Twin Engine are four-cylinder engines that can make enough power to rival V8 power trains.",
+      "url": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/these-4-cylinder-engines-make-power-youd-expect-from-a-v8/l-intro-1763499206.jpg",
+      "publishedAt": "2025-11-23T22:25:00Z",
+      "content": "The 4B11T was the replacement for Mitsubishi's legendary 4G63T, an engine that served nine generations of the Lancer Evolution series from 1992 to 2007. Debuting in the Lancer Evolution X, the new 2.… [+1297 chars]"
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Matt Kamen",
-      "title": "Valve Says Steam Machine Isn't a Console—but It Is - WIRED",
-      "description": "Consoles are good, actually.",
-      "url": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/",
-      "urlToImage": "https://media.wired.com/photos/6920f1c8b8c618581c166ccd/191:100/w_1280,c_limit/SM_front_b.jpg",
-      "publishedAt": "2025-11-22T10:00:00Z",
-      "content": "It's set to offer two internal storage capacities, with 512GB or 2TB SSDs, with storage further expandable via microSD. Valve seems to be approaching the external storage format as a glorified game c… [+2413 chars]"
+      "author": "Lloyd Coombes",
+      "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
+      "description": "Save big on trips to the Lands Between with Black Friday discounts on Elden Ring, its Shadow of the Erdtree Edition, and Nightreign.",
+      "url": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/04/27/maleniaer-1651056062753.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-11-23T20:37:35Z",
+      "content": "FromSoftware just doesnt miss, eh? Its hard to believe that its been over three years since Elden Ring\r\n landed on consoles and PC, and it somehow lived up to all of the expectation fans had placed o… [+2355 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Brittany Vincent",
+      "title": "Upgrade your smartwatch game with the Samsung Galaxy Watch 7 for its lowest price yet - Mashable",
+      "description": "If you're an Android user, get the perfect companion for your phone.",
+      "url": "https://mashable.com/article/early-black-friday-deal-2025-samsung-galaxy-watch-7",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03Qd6dHsX1yXiLHF0IDs6Fa/hero-image.fill.size_1200x675.v1763915076.jpg",
+      "publishedAt": "2025-11-23T19:07:30Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "SlashGear"
       },
-      "author": "Liam Doolan",
-      "title": "New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nintendo Life",
-      "description": "Add a Whimsicott to your party",
-      "url": "https://www.nintendolife.com/news/2025/11/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available",
-      "urlToImage": "https://images.nintendolife.com/7e16dd3ecb7b8/large.jpg",
-      "publishedAt": "2025-11-22T07:05:00Z",
-      "content": "Image: The Pokémon Company\r\nAlthough the new game Pokémon Legends: Z-A is now in full swing with its events and unlocks, The Pokémon Company and Game Freak are still showing support for Pokémon Scarl… [+1593 chars]"
+      "author": "Max Miller",
+      "title": "6 Affordable Gadgets That Every Audiophile Should Have In Their Home - slashgear.com",
+      "description": "Hi-Fi is notoriously expensive, and most audiophiles are happy to spend for quality sound. But a higher price doesn't always mean better audio.",
+      "url": "https://www.slashgear.com/2029535/cheap-audiophile-gadgets-accessories/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/6-affordable-gadgets-that-every-audiophile-should-have-in-their-home/l-intro-1763453439.jpg",
+      "publishedAt": "2025-11-23T18:30:00Z",
+      "content": "Audiophiles tend to focus on our playback equipment, but our music collections are just as important. If you're listening to digital audio (which you should be, since it's the only way to achieve bit… [+1372 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hackaday"
+        "name": "Warhammer-community.com"
       },
-      "author": "Maya Posch",
-      "title": "Microsoft Open Sources Zork I, II And III - Hackaday",
-      "description": "The history of the game Zork is a long and winding one, starting with MUDs and kin on university mainframes – where students entertained themselves in between their studies – and ending…",
-      "url": "https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2023/11/zork.jpg",
-      "publishedAt": "2025-11-22T06:00:00Z",
-      "content": "The history of the game Zork is a long and winding one, starting with MUDs and kin on university mainframes – where students entertained themselves in between their studies – and ending with the game… [+1130 chars]"
+      "author": null,
+      "title": "Sunday Preview – Prepare to enter the Jade Abbey in Warhammer Quest: Darkwater - Warhammer Community",
+      "description": "Everything available to pre-order next week.",
+      "url": "https://www.warhammer-community.com/articles/xxrvgot1/sunday-preview-prepare-to-enter-the-jade-abbey-in-warhammer-quest-darkwater",
+      "urlToImage": "https://assets.warhammer-community.com/sundaypreview-nov23-1-feature-tkecs1u7xx.jpg",
+      "publishedAt": "2025-11-23T18:04:20Z",
+      "content": "© Copyright Games Workshop Limited 2025. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1221 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Lloyd Coombes",
+      "title": "Assassin's Creed: Shadows Just Hit A New Low Price In Amazon's Black Friday Deals - IGN",
+      "description": "Ubisoft's latest open-world adventure is down to half price on PS5, and not far off that on Xbox Series X, either.",
+      "url": "https://www.ign.com/articles/assassins-creed-shadows-just-hit-a-new-low-price-in-amazon-black-friday-deals",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/01/24/ac-shadows-stealth-feature-blogroll-1737729547310.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2025-11-23T18:03:38Z",
+      "content": "It feels like a while ago that Assassins Creed: Shadows\r\n launched at the start of the year, and Ubisofts latest entry into the RPG side of its long-running franchise finally whisked players to the J… [+1384 chars]"
     },
     {
       "source": {
@@ -138,90 +112,90 @@
         "name": "Nintendoeverything.com"
       },
       "author": "Brian",
-      "title": "Tales of Berseria Remastered receives full list of new features and improvements - Nintendo Everything",
-      "description": "Tales of Berseria Remastered has now been given a huge list of features added and improvements from Bandai Namco.",
-      "url": "https://nintendoeverything.com/tales-of-berseria-remastered-receives-full-list-of-new-features-and-improvements/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Tales-of-Berseria-Remastered-new-features-and-improvements.jpg",
-      "publishedAt": "2025-11-22T05:01:34Z",
-      "content": "Bandai Namco has come through with a huge list of improvements and changes planned for Tales of Berseria Remastered.\r\nThe new version of the RPG, which is slated for Nintendo Switch, was announced ea… [+7098 chars]"
+      "title": "Nintendo maintenance schedule – November 23, 2025 – session planned, but only for 3DS - Nintendo Everything",
+      "description": "Nintendo has released its maintenance schedule for the week of November 23, 2025. There is one session planned, but believe it or not, Nintendo Switch 2 and Switch are being left alone. Instead, 3DS will be seeing a bit of downtime. Below is the full Nintendo…",
+      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-november-23-2025/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/3DS-maintenance.jpg",
+      "publishedAt": "2025-11-23T17:01:44Z",
+      "content": "Nintendo has released its maintenance schedule for the week of November 23, 2025.\r\nThere is one session planned, but believe it or not, Nintendo Switch 2 and Switch are being left alone. Instead, 3DS… [+479 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "9to5google.com"
       },
-      "author": "Liam Doolan",
-      "title": "Poll: So, Will You Be Getting The New Kirby Air Riders amiibo? - Nintendo Life",
-      "description": "Go on, tell us",
-      "url": "https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-the-new-kirby-air-riders-amiibo",
-      "urlToImage": "https://images.nintendolife.com/c8364a20ff277/large.jpg",
-      "publishedAt": "2025-11-22T01:30:00Z",
-      "content": "I intend to get them all, but money's tight at the moment, so amiibo purchases are on an indefinite moratorium. I have all figurines to date up to Bananza Donkey Kong and Pauline, but the Metroid Pri… [+1003 chars]"
+      "author": "Ben Schoon",
+      "title": "Google keeps poking holes in Apple’s walled garden, but who’s switching? - 9to5Google",
+      "description": "Apple has had iPhone owners trapped within its walled garden for years, with many genuinely not knowing what lies beyond...",
+      "url": "http://9to5google.com/2025/11/23/google-apple-walled-garden/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/iPhone-16-Pro-Max-and-Pixel-10-Pro-XL-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-11-23T17:00:00Z",
+      "content": "Apple has had iPhone owners trapped within its walled garden for years, with many genuinely not knowing what lies beyond that ecosystem. But Google has been working over the past few years to poke so… [+4226 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Pokemon GO Hub"
       },
-      "author": "Blair Marnell",
-      "title": "Hytale Dev Is Pricing The Game As \"Aggressively Low As Possible\" - GameSpot",
-      "description": "Hypixel has revealed what Hytale will cost, and the company's founder says he's set the price low at great personal risk.",
-      "url": "https://www.gamespot.com/articles/hytale-dev-is-pricing-the-game-as-aggressively-low-as-possible/1100-6536447/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4609194-hytaledinorider.jpg",
-      "publishedAt": "2025-11-22T01:17:59Z",
-      "content": "Earlier this year, Hytale was canceled after spending a decade in development and the studio behind it, Hypixel, was slated to be closed as well. Hypixel co-founder Simon Collins-Laflamme subsequentl… [+1546 chars]"
+      "author": "kittypokemonsalot",
+      "title": "Pokémon GO Events This Week: November 24 to November 30, 2025 - Pokémon GO Hub",
+      "description": "Pokémon GO’s November 17 to November 23 week brings the final full week in the Tales of Transformation season! Enjoy a busy week with the Final Justice Event, Dynamax Lugia Max Battle Weekend, and Pikipek Community Day! Plus the weekly rotating Spotlight and …",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-24-to-november-30-2025/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/11/shiny-resolute-keldeo-final-justice.jpg",
+      "publishedAt": "2025-11-23T15:52:37Z",
+      "content": "Pokémon GOs November 17 to November 23 week brings the final full week in the Tales of Transformation season! Enjoy a busy week with the Final Justice Event, Dynamax Lugia Max Battle Weekend, and Pik… [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The Verge",
+      "description": "The noise-canceling WH-1000XM4 may be over five years old at this point, but they’re still a great buy at nearly $200 off.",
+      "url": "https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21699857/IMG_0620-1.0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-23T15:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThey might be more than five years old at this point, but the WH-1000XM4 remain a solid pair of noise-canceling cans.\r\nThey might be more than five years old at … [+3350 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "BGR"
+      },
+      "author": "Briley Kenney",
+      "title": "What The 'Pixnapping' Android Phone Attack Is (And Why You Should Be Worried) - bgr.com",
+      "description": "Researchers uncovered an Android attack that samples pixels through transparent overlays to reconstruct screen content and expose users' data.",
+      "url": "https://www.bgr.com/2028117/what-pixnapping-android-hacker-attack-is-explained/",
+      "urlToImage": "https://www.bgr.com/img/gallery/what-the-pixnapping-android-phone-attack-is-and-why-you-should-be-worried/l-intro-1762972085.jpg",
+      "publishedAt": "2025-11-23T14:47:00Z",
+      "content": "A pixel is a single, tiny dot that constitutes the content you eventually see on your phone's display. Thousands and millions of pixels make up the full image of what you see. But this pixnapping att… [+1517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
       },
       "author": null,
-      "title": "Move over fillers - people are getting facial injections derived from fish sperm - BBC",
-      "description": "Celebs including Charlie XCX swear by them. But what are polynucleotides and do they work?",
-      "url": "https://www.bbc.com/news/articles/c3e0j1lv123o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d888/live/30ce59e0-c77b-11f0-8c06-f5d460985095.jpg",
-      "publishedAt": "2025-11-22T00:07:45Z",
-      "content": "Ruth CleggHealth and Wellbeing reporter\r\nIn my many years as a journalist, I never thought I would be asking someone how it feels to have trout sperm injected into their face.\r\nAnd yet, here I am.\r\nA… [+7364 chars]"
+      "title": "Chinese CXMT to produce DDR5-8000 and LPDDR5X-10667 memory - VideoCardz.com",
+      "description": "China catching up with faster LP(DDR5) memory standards ChangXin Memory Technologies (CXMT) has introduced its first DDR5 and LPDDR5X memory products at IC CHINA 2025, marking a new step for domestically produced DRAM in China. The company is targeting server…",
+      "url": "https://videocardz.com/newz/chinese-cxmt-to-produce-ddr5-8000-and-lpddr5x-10667-memory",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/CXMT-HERO-1.jpg",
+      "publishedAt": "2025-11-23T14:42:00Z",
+      "content": "ChangXin Memory Technologies (CXMT) has introduced its first DDR5 and LPDDR5X memory products at IC CHINA 2025, marking a new step for domestically produced DRAM in China. The company is targeting se… [+1127 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Teslarati"
+        "name": "Tom's Guide"
       },
-      "author": "Simon Alvarez",
-      "title": "SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati",
-      "description": "The incident unfolded during gas-system pressure testing at the company’s Massey facility in Starbase, Texas.",
-      "url": "https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/11/SpaceX-Starship-V3-Booster-18-1000x600.jpeg",
-      "publishedAt": "2025-11-21T23:50:52Z",
-      "content": "Tesla CEO Elon Musk teased the insane capabilities of the next major Full Self-Driving update just hours after the company rolled out version 14.2 to owners.\r\nTesla Full Self-Driving v14.2 had some m… [+2142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Frequentmiler.com"
-      },
-      "author": "Stephen Pepper",
-      "title": "Oura Ring sale for $249: get for $49 + tax with Amex Platinum benefit - Frequent Miler",
-      "description": "Oura has discounted the Oura Ring 4 to $249 for a Black Friday sale, meaning you can buy it for $49 + tax with the Amex Platinum benefit.",
-      "url": "https://frequentmiler.com/oura-ring-sale-for-249-get-for-49-tax-with-amex-platinum-benefit/",
-      "urlToImage": "https://frequentmiler.com/wp-content/uploads/2025/11/Oura-Ring-4.png",
-      "publishedAt": "2025-11-21T22:45:30Z",
-      "content": "Oura has discounted the Oura Ring 4 to $249 for its early Black Friday sale. That means you can pick up one of these for only $49 + tax when stacking with the American Express Platinum Card® benefit.… [+1015 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Samuel Axon",
-      "title": "Return to the year 2000 with classic multiplayer DOS games in your browser - Ars Technica",
-      "description": "There are fan-made browser versions of Red Alert, Unreal Tournament, and more.",
-      "url": "https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/screen1c-1152x648.jpg",
-      "publishedAt": "2025-11-21T22:25:28Z",
-      "content": null
+      "author": "Amanda Caswell",
+      "title": "I just tested ChatGPT-5.1 vs. Grok 4.1 with 9 prompts — and there's a clear winner - Tom's Guide",
+      "description": "One crushed the other",
+      "url": "https://www.tomsguide.com/ai/i-just-tested-chatgpt-5-1-vs-grok-4-1-and-one-ai-crushed-the-competition",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PdWiY4pGyiN2U3TwSNeQWn-2000-80.jpg",
+      "publishedAt": "2025-11-23T14:30:10Z",
+      "content": "ChatGPT continues to be an impressive go-to chatbot for everything from quick questions to long-form summaries. Since the launch of ChatGPT-5.1, I’ve been testing OpenAI’s smartest model against Gemi… [+7738 chars]"
     }
   ]
 }
